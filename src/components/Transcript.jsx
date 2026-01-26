@@ -12,13 +12,11 @@ const fetchPronunciation = async (word) => {
     // Try to fetch the whole phrase first
     const wholePhrase = await fetchSingleWordPronunciation(cleanWord)
     if (wholePhrase) {
-      console.log(`Got pronunciation for whole phrase: "${cleanWord}"`)
       return wholePhrase
     }
 
     // If phrase not found and contains multiple words, try individual words
     if (cleanWord.includes(' ')) {
-      console.log(`No phrase found, fetching individual words for: "${cleanWord}"`)
       const words = cleanWord.split(' ')
       const pronunciations = await Promise.all(
         words.map((w) => fetchSingleWordPronunciation(w)),
@@ -28,7 +26,7 @@ const fetchPronunciation = async (word) => {
 
     return null
   } catch (error) {
-    console.error(`Error fetching pronunciation for "${word}":`, error)
+    console.error('🚀 ~ error:', error)
     return null
   }
 }
@@ -54,7 +52,7 @@ const tryFreeDictionaryAPI = async (word) => {
 
     return null
   } catch (error) {
-    console.error(`Free Dictionary API error for "${word}":`, error)
+    console.error('🚀 ~ error:', error)
     return null
   }
 }
@@ -89,7 +87,7 @@ const fetchVietnameseTranslation = async (word) => {
     pronunciationCache.set(cacheKey, null)
     return null
   } catch (error) {
-    console.error(`Translation error for "${word}":`, error)
+    console.error('🚀 ~ error:', error)
     pronunciationCache.set(cacheKey, null)
     return null
   }
@@ -126,7 +124,7 @@ const tryWiktionaryAPI = async (word) => {
 
     return null
   } catch (error) {
-    console.error(`Wiktionary API error for "${word}":`, error)
+    console.error('🚀 ~ error:', error)
     return null
   }
 }
@@ -137,30 +135,22 @@ const fetchSingleWordPronunciation = async (word) => {
 
   // Check in-memory cache first
   if (pronunciationCache.has(cleanWord)) {
-    console.log(`Cache hit for: "${cleanWord}"`)
     return pronunciationCache.get(cleanWord)
   }
-
-  console.log(`Fetching pronunciation for: "${cleanWord}"`)
 
   // Try Free Dictionary API first (faster)
   let ipa = await tryFreeDictionaryAPI(cleanWord)
   if (ipa) {
-    console.log(`✓ Found IPA (Free Dictionary) for "${cleanWord}": ${ipa}`)
     pronunciationCache.set(cleanWord, ipa)
     return ipa
   }
 
   // Fallback to Wiktionary API (more comprehensive)
-  console.log(`Trying Wiktionary for: "${cleanWord}"`)
   ipa = await tryWiktionaryAPI(cleanWord)
   if (ipa) {
-    console.log(`✓ Found IPA (Wiktionary) for "${cleanWord}": ${ipa}`)
     pronunciationCache.set(cleanWord, ipa)
     return ipa
   }
-
-  console.log(`✗ No IPA found for "${cleanWord}"`)
   // Cache null result to avoid re-fetching
   pronunciationCache.set(cleanWord, null)
   return null
@@ -194,7 +184,7 @@ const Transcript = ({ episode }) => {
           setLoading(false)
         })
         .catch((err) => {
-          console.error(err)
+          console.error('🚀 ~ err:', err)
           setError(true)
           setLoading(false)
         })
@@ -220,23 +210,12 @@ const Transcript = ({ episode }) => {
   // Auto-fetch pronunciations for all vocabulary words when transcript is shown
   useEffect(() => {
     if (!content || !contentRef.current || loading || hasFetchedRef.current) {
-      console.log('Skipping: not ready or already fetched', {
-        hasContent: !!content,
-        hasRef: !!contentRef.current,
-        loading,
-        alreadyFetched: hasFetchedRef.current,
-      })
       return
     }
 
     // Helper function to create speaker button
-    const createSpeakerButton = (wordText) => {
-      const speakButton = document.createElement('span')
-      speakButton.className = 'speak-button'
-      speakButton.innerHTML = '🔊'
-      speakButton.title = 'Listen to pronunciation'
-      speakButton.style.cursor = 'pointer'
-      speakButton.onclick = (e) => {
+    const createSpeakerButton = (wordEl, wordText) => {
+      wordEl.onclick = (e) => {
         e.stopPropagation()
         // Use Web Speech API to speak the word
         if ('speechSynthesis' in window) {
@@ -245,11 +224,8 @@ const Transcript = ({ episode }) => {
           utterance.rate = 0.8 // Slower for learning
           speechSynthesis.cancel() // Cancel any ongoing speech
           speechSynthesis.speak(utterance)
-        } else {
-          console.warn('Speech synthesis not supported')
         }
       }
-      return speakButton
     }
 
     const fetchAllPronunciations = async () => {
@@ -260,8 +236,6 @@ const Transcript = ({ episode }) => {
       await new Promise((resolve) => setTimeout(resolve, 150))
 
       const wordElements = contentRef.current.querySelectorAll('.word')
-      console.log(`Found ${wordElements.length} vocabulary words`)
-      console.log('Word elements:', wordElements)
 
       // Get words that don't have pronunciation yet
       const wordsToFetch = []
@@ -272,19 +246,12 @@ const Transcript = ({ episode }) => {
           if (wordText) {
             wordsToFetch.push({ element: wordEl, text: wordText })
           }
-        } else {
-          console.log(
-            `Word already has pronunciation: ${wordEl.textContent.trim()}`,
-          )
         }
       })
 
       if (wordsToFetch.length === 0) {
-        console.log('All words already have pronunciations')
         return
       }
-
-      console.log(`Fetching pronunciations for ${wordsToFetch.length} words...`)
 
       // Set fetching state
       setFetchingIPA(true)
@@ -296,7 +263,6 @@ const Transcript = ({ episode }) => {
       })
 
       // Fetch all pronunciations AND translations in parallel
-      console.log('Starting Promise.allSettled for all words...')
       const results = await Promise.allSettled(
         wordsToFetch.map(async ({ text }) => {
           const [pronunciation, translation] = await Promise.all([
@@ -306,33 +272,22 @@ const Transcript = ({ episode }) => {
           return { pronunciation, translation }
         }),
       )
-      console.log('Received all results:', results)
 
       // Process results and add to DOM
       let completed = 0
       wordsToFetch.forEach(({ element: wordEl, text: wordText }, index) => {
         const result = results[index]
 
-        console.log(`Processing word "${wordText}":`, {
-          status: result.status,
-          value: result.value,
-          reason: result.reason,
-        })
-
         if (result.status === 'fulfilled' && result.value) {
           const { pronunciation: ipa, translation } = result.value
 
           // Add pronunciation (if available)
           if (ipa) {
-            console.log(
-              `Attempting to add span for "${wordText}" with IPA: ${ipa}`,
-            )
             const pronunciationSpan = document.createElement('span')
             pronunciationSpan.className = 'pronunciation'
             pronunciationSpan.textContent = `/${ipa}/`
             wordEl.appendChild(document.createTextNode(' '))
             wordEl.appendChild(pronunciationSpan)
-            console.log(`✓ Added IPA: "${wordText}" -> /${ipa}/`)
           } else {
             const pronunciationSpan = document.createElement('span')
             pronunciationSpan.className = 'pronunciation'
@@ -341,9 +296,6 @@ const Transcript = ({ episode }) => {
             wordEl.appendChild(document.createTextNode(' '))
             wordEl.appendChild(pronunciationSpan)
           }
-
-          // Add audio button
-          wordEl.appendChild(createSpeakerButton(wordText))
 
           // Add Vietnamese translation to definition
           if (translation) {
@@ -356,7 +308,6 @@ const Transcript = ({ episode }) => {
                 translationSpan.className = 'translation'
                 translationSpan.textContent = ` (${translation})`
                 definitionEl.appendChild(translationSpan)
-                console.log(`✓ Added translation: "${wordText}" -> ${translation}`)
               }
             }
           }
@@ -368,12 +319,8 @@ const Transcript = ({ episode }) => {
           pronunciationSpan.style.opacity = '0.5'
           wordEl.appendChild(document.createTextNode(' '))
           wordEl.appendChild(pronunciationSpan)
-
-          // Add audio button even without IPA
-          wordEl.appendChild(createSpeakerButton(wordText))
-
-          console.log(`✗ No IPA found for "${wordText}"`, result)
         }
+        createSpeakerButton(wordEl, wordText)
 
         // Remove loading state
         wordEl.style.opacity = '1'
@@ -382,8 +329,6 @@ const Transcript = ({ episode }) => {
         completed++
         setIpaProgress({ current: completed, total: wordsToFetch.length })
       })
-
-      console.log('✅ Finished fetching all pronunciations')
 
       // Reset fetching state
       setFetchingIPA(false)
@@ -395,14 +340,14 @@ const Transcript = ({ episode }) => {
   }, [content, loading])
 
   return (
-    <div className='glass-card rounded-2xl p-6 lg:p-8'>
-      <div className='flex items-center justify-between mb-6'>
-        <h3 className='text-lg font-semibold text-zinc-700 dark:text-zinc-300'>
+    <div className="glass-card rounded-2xl p-6 lg:p-8">
+      <div className="flex items-center justify-between mb-6">
+        <h3 className="text-lg font-semibold text-zinc-700 dark:text-zinc-300">
           Transcript / Notes
         </h3>
         <button
           onClick={() => setIsVisible(!isVisible)}
-          className='flex items-center gap-2 px-4 py-2 rounded-lg bg-white/50 dark:bg-zinc-800 hover:bg-white dark:hover:bg-zinc-700 transition-colors text-sm font-medium border border-zinc-200 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200'
+          className="flex items-center gap-2 px-4 py-2 rounded-lg bg-white/50 dark:bg-zinc-800 hover:bg-white dark:hover:bg-zinc-700 transition-colors text-sm font-medium border border-zinc-200 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200"
         >
           {isVisible ? (
             <>
@@ -417,15 +362,15 @@ const Transcript = ({ episode }) => {
       </div>
 
       {isVisible && (
-        <div className='animate-in fade-in slide-in-from-top-4 duration-300'>
+        <div className="animate-in fade-in slide-in-from-top-4 duration-300">
           {loading && (
-            <div className='flex justify-center py-12'>
-              <div className='w-8 h-8 border-4 border-indigo-500/30 border-t-indigo-500 rounded-full animate-spin'></div>
+            <div className="flex justify-center py-12">
+              <div className="w-8 h-8 border-4 border-indigo-500/30 border-t-indigo-500 rounded-full animate-spin"></div>
             </div>
           )}
 
           {error && (
-            <div className='p-4 bg-red-50 dark:bg-red-500/10 border border-red-200 dark:border-red-500/20 rounded-lg text-red-600 dark:text-red-400 text-sm text-center'>
+            <div className="p-4 bg-red-50 dark:bg-red-500/10 border border-red-200 dark:border-red-500/20 rounded-lg text-red-600 dark:text-red-400 text-sm text-center">
               Could not load transcript for this episode.
             </div>
           )}
@@ -433,17 +378,18 @@ const Transcript = ({ episode }) => {
           {!loading && !error && (
             <>
               {fetchingIPA && (
-                <div className='mb-4 p-3 bg-indigo-50 dark:bg-indigo-900/20 border border-indigo-200 dark:border-indigo-800/50 rounded-lg flex items-center gap-3'>
-                  <div className='w-5 h-5 border-2 border-indigo-500/30 border-t-indigo-500 rounded-full animate-spin'></div>
-                  <div className='flex-1'>
-                    <div className='text-sm font-medium text-indigo-700 dark:text-indigo-300'>
+                <div className="mb-4 p-3 bg-indigo-50 dark:bg-indigo-900/20 border border-indigo-200 dark:border-indigo-800/50 rounded-lg flex items-center gap-3">
+                  <div className="w-5 h-5 border-2 border-indigo-500/30 border-t-indigo-500 rounded-full animate-spin"></div>
+                  <div className="flex-1">
+                    <div className="text-sm font-medium text-indigo-700 dark:text-indigo-300">
                       Fetching pronunciations & translations...
                     </div>
-                    <div className='text-xs text-indigo-600 dark:text-indigo-400 mt-1'>
-                      {ipaProgress.current} / {ipaProgress.total} words (IPA + 🇻🇳 Vietnamese)
+                    <div className="text-xs text-indigo-600 dark:text-indigo-400 mt-1">
+                      {ipaProgress.current} / {ipaProgress.total} words (IPA +
+                      🇻🇳 Vietnamese)
                     </div>
                   </div>
-                  <div className='text-xs text-indigo-500 dark:text-indigo-400'>
+                  <div className="text-xs text-indigo-500 dark:text-indigo-400">
                     {Math.round(
                       (ipaProgress.current / ipaProgress.total) * 100,
                     )}
@@ -453,7 +399,7 @@ const Transcript = ({ episode }) => {
               )}
               <div
                 ref={contentRef}
-                className='prose prose-zinc dark:prose-invert max-w-none text-zinc-700 dark:text-zinc-300 transcript-content'
+                className="prose prose-zinc dark:prose-invert max-w-none text-zinc-700 dark:text-zinc-300 transcript-content"
               />
             </>
           )}
@@ -461,7 +407,7 @@ const Transcript = ({ episode }) => {
       )}
 
       {!isVisible && (
-        <div className='text-center py-12 text-zinc-500 dark:text-zinc-500'>
+        <div className="text-center py-12 text-zinc-500 dark:text-zinc-500">
           <p>Click "Show" to view the transcript and vocabulary notes.</p>
         </div>
       )}

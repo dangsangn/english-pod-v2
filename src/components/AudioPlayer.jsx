@@ -18,6 +18,7 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
   const [isPlaying, setIsPlaying] = useState(false)
   const [isBuffering, setIsBuffering] = useState(false)
   const [progress, setProgress] = useState(0)
+  console.log('🚀 ~ progress:', progress)
   const [volume, setVolume] = useState(1)
   const [isMuted, setIsMuted] = useState(false)
   const [duration, setDuration] = useState(0)
@@ -108,7 +109,7 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
   }
 
   return (
-    <div className='flex flex-col gap-4'>
+    <div className="flex flex-col gap-4">
       <audio
         ref={audioRef}
         src={episode.mp3}
@@ -120,30 +121,30 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
       />
 
       {/* Progress Bar */}
-      <div className='w-full group cursor-pointer' onClick={handleSeek}>
-        <div className='h-1.5 bg-zinc-200 dark:bg-zinc-700/50 rounded-full overflow-hidden relative'>
+      <div className="w-full group cursor-pointer" onClick={handleSeek}>
+        <div className="h-1.5 bg-zinc-200 dark:bg-zinc-700/50 rounded-full overflow-hidden relative">
           <div
-            className='h-full from-indigo-500 to-cyan-400 group-hover:from-indigo-400 group-hover:to-cyan-300 transition-all duration-100 absolute top-0 left-0'
+            className="h-full bg-indigo-500 from-indigo-500 to-cyan-400 group-hover:from-indigo-400 group-hover:to-cyan-300 transition-all duration-100 absolute top-0 left-0"
             style={{ width: `${progress}%` }}
           />
         </div>
       </div>
 
-      <div className='flex flex-col md:flex-row items-center justify-between gap-4'>
+      <div className="flex flex-col md:flex-row items-center justify-between gap-4">
         {/* Time Display (Left on desktop) */}
-        <div className='text-xs text-zinc-500 dark:text-zinc-400 font-mono hidden md:block w-24'>
+        <div className="text-xs text-zinc-500 dark:text-zinc-400 font-mono hidden md:block w-24 md:w-1/3">
           {formatTime(currentTime)} / {formatTime(duration)}
         </div>
 
         {/* Main Controls */}
-        <div className='flex items-center gap-4 lg:gap-6'>
+        <div className="flex items-center gap-4 lg:gap-6 md:w-1/3">
           {/* Skip Buttons */}
           <button
-            className='text-zinc-400 hover:text-indigo-600 dark:hover:text-white transition-colors p-2'
+            className="text-zinc-400 hover:text-indigo-600 dark:hover:text-white transition-colors p-2"
             onClick={() => {
               audioRef.current.currentTime -= 10
             }}
-            title='-10s'
+            title="-10s"
           >
             <Rewind size={20} />
           </button>
@@ -153,7 +154,7 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
             className={`text-zinc-400 transition-colors p-2 ${hasPrev ? 'hover:text-indigo-600 dark:hover:text-white' : 'opacity-30 cursor-not-allowed'}`}
             onClick={onPrev}
             disabled={!hasPrev}
-            title='Previous Episode'
+            title="Previous Episode"
           >
             <SkipBack size={24} />
           </button>
@@ -161,14 +162,14 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
           {/* Play/Pause */}
           <button
             onClick={togglePlay}
-            className='p-4 bg-indigo-600 dark:bg-white text-white dark:text-zinc-900 rounded-full hover:scale-105 transition-transform shadow-lg shadow-indigo-500/30 dark:shadow-white/10'
+            className="p-4 bg-indigo-600 dark:bg-white text-white dark:text-zinc-900 rounded-full hover:scale-105 transition-transform shadow-lg shadow-indigo-500/30 dark:shadow-white/10"
           >
             {isBuffering ? (
-              <Loader2 size={20} className='animate-spin' />
+              <Loader2 size={20} className="animate-spin" />
             ) : isPlaying ? (
-              <Pause size={20} fill='currentColor' className='' />
+              <Pause size={20} fill="currentColor" className="" />
             ) : (
-              <Play size={20} fill='currentColor' className='ml-1' />
+              <Play size={20} fill="currentColor" className="ml-1" />
             )}
           </button>
 
@@ -177,30 +178,30 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
             className={`text-zinc-400 transition-colors p-2 ${hasNext ? 'hover:text-indigo-600 dark:hover:text-white' : 'opacity-30 cursor-not-allowed'}`}
             onClick={onNext}
             disabled={!hasNext}
-            title='Next Episode'
+            title="Next Episode"
           >
             <SkipForward size={24} />
           </button>
 
           {/* Skip Forward */}
           <button
-            className='text-zinc-400 hover:text-indigo-600 dark:hover:text-white transition-colors p-2'
+            className="text-zinc-400 hover:text-indigo-600 dark:hover:text-white transition-colors p-2"
             onClick={() => {
               audioRef.current.currentTime += 10
             }}
-            title='+10s'
+            title="+10s"
           >
             <FastForward size={20} />
           </button>
         </div>
 
         {/* Right Side: Volume & Modes */}
-        <div className='flex items-center gap-4'>
+        <div className="flex items-center justify-end gap-4 md:w-1/3">
           {/* Loop Toggle */}
           <button
             onClick={() => setIsLooping(!isLooping)}
             className={`p-2 rounded-lg transition-colors ${isLooping ? 'text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30' : 'text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300'}`}
-            title='Loop Episode'
+            title="Loop Episode"
           >
             <Repeat size={18} />
           </button>
@@ -209,7 +210,7 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
           <button
             onClick={() => setAutoPlayNext(!autoPlayNext)}
             className={`p-2 rounded-lg transition-colors ${autoPlayNext ? 'text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30' : 'text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300'}`}
-            title='Autoplay Next'
+            title="Autoplay Next"
           >
             <ArrowRightCircle
               size={18}
@@ -224,17 +225,17 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
               const idx = speeds.indexOf(playbackRate)
               setPlaybackRate(speeds[(idx + 1) % speeds.length])
             }}
-            className='w-12 text-xs font-bold text-zinc-500 hover:text-indigo-600 dark:text-zinc-400 dark:hover:text-white transition-colors border border-zinc-200 dark:border-zinc-700/50 rounded px-1 py-0.5 hover:border-indigo-500 dark:hover:border-indigo-400'
-            title='Playback Speed'
+            className="w-12 text-xs font-bold text-zinc-500 hover:text-indigo-600 dark:text-zinc-400 dark:hover:text-white transition-colors border border-zinc-200 dark:border-zinc-700/50 rounded px-1 py-0.5 hover:border-indigo-500 dark:hover:border-indigo-400"
+            title="Playback Speed"
           >
             {playbackRate}x
           </button>
 
           {/* Volume Control */}
-          <div className='hidden md:flex items-center gap-2 group'>
+          <div className="hidden md:flex items-center gap-2 group">
             <button
               onClick={() => setIsMuted(!isMuted)}
-              className='text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300'
+              className="text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300"
             >
               {isMuted || volume === 0 ? (
                 <VolumeX size={20} />
@@ -242,18 +243,18 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
                 <Volume2 size={20} />
               )}
             </button>
-            <div className='w-0 overflow-hidden group-hover:w-20 transition-all duration-300 ease-in-out'>
+            <div className="w-0 overflow-hidden group-hover:w-20 transition-all duration-300 ease-in-out">
               <input
-                type='range'
-                min='0'
-                max='1'
-                step='0.05'
+                type="range"
+                min="0"
+                max="1"
+                step="0.05"
                 value={volume}
                 onChange={(e) => {
                   setVolume(parseFloat(e.target.value))
                   setIsMuted(false)
                 }}
-                className='w-20 h-1 bg-zinc-200 dark:bg-zinc-700 rounded-lg appearance-none cursor-pointer accent-indigo-600 dark:accent-indigo-400'
+                className="w-20 h-1 bg-zinc-200 dark:bg-zinc-700 rounded-lg appearance-none cursor-pointer accent-indigo-600 dark:accent-indigo-400"
               />
             </div>
           </div>
@@ -261,7 +262,7 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
       </div>
 
       {/* Mobile Time Display (Visible only on small screens) */}
-      <div className='md:hidden flex justify-between text-xs text-zinc-500 dark:text-zinc-400 font-mono px-1'>
+      <div className="md:hidden flex justify-between text-xs text-zinc-500 dark:text-zinc-400 font-mono px-1">
         <span>{formatTime(currentTime)}</span>
         <span>{formatTime(duration)}</span>
       </div>

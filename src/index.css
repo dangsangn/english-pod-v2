@@ -55,26 +55,13 @@
 }
 
 .transcript-content .word {
+  cursor: pointer;
   @apply font-bold text-emerald-600 dark:text-emerald-400;
 }
 
 .transcript-content .word .pronunciation {
-  display: inline-block;
+  display: block;
   @apply text-sm font-normal text-zinc-400 dark:text-zinc-500;
-}
-
-.transcript-content .word .speak-button {
-  display: inline-block;
-  margin-left: 4px;
-  cursor: pointer;
-  font-size: 0.75rem;
-  opacity: 0.5;
-  transition: opacity 0.2s;
-  @apply text-indigo-500 dark:text-indigo-400;
-}
-
-.transcript-content .word .speak-button:hover {
-  opacity: 1;
 }
 
 .transcript-content .type {
@@ -86,5 +73,6 @@
 }
 
 .transcript-content .definition .translation {
+  display: block;
   @apply text-sm italic text-indigo-600 dark:text-indigo-400 font-medium;
 }
