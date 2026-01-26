@@ -188,6 +188,7 @@ function AppContent() {
               />
             </div>
           </div>
+          <Footer />
         </div>
       </div>
     </div>
