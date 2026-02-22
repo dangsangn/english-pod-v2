@@ -121,7 +121,22 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
       />
 
       {/* Progress Bar */}
-      <div className="w-full group cursor-pointer" onClick={handleSeek}>
+      <div
+        className="w-full group cursor-pointer"
+        role="slider"
+        tabIndex={0}
+        aria-label="Audio progress"
+        aria-valuemin={0}
+        aria-valuemax={100}
+        aria-valuenow={Math.round(progress)}
+        onClick={handleSeek}
+        onKeyDown={(e) => {
+          if (!audioRef.current || !audioRef.current.duration) return
+          const dur = audioRef.current.duration
+          if (e.key === 'ArrowRight') audioRef.current.currentTime = Math.min(dur, audioRef.current.currentTime + 5)
+          else if (e.key === 'ArrowLeft') audioRef.current.currentTime = Math.max(0, audioRef.current.currentTime - 5)
+        }}
+      >
         <div className="h-1.5 bg-zinc-200 dark:bg-zinc-700/50 rounded-full overflow-hidden relative">
           <div
             className="h-full bg-indigo-500 from-indigo-500 to-cyan-400 group-hover:from-indigo-400 group-hover:to-cyan-300 transition-all duration-100 absolute top-0 left-0"

@@ -34,7 +34,7 @@ const getLastEpisodeId = () => {
 }
 
 function AppContent() {
-  const [currentEpisodeId, setCurrentEpisodeId] = useState(getLastEpisodeId())
+  const [currentEpisodeId, setCurrentEpisodeId] = useState(() => getLastEpisodeId())
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [isGuideOpen, setIsGuideOpen] = useState(false)
 
