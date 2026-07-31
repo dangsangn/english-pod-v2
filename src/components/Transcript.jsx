@@ -1,12 +1,19 @@
 import { useState, useEffect, useRef } from 'react'
 import useSWR from 'swr'
 import { Eye, EyeOff } from 'lucide-react'
+import { decorateVocab } from '../lib/vocabulary'
 
 const transcriptFetcher = (url) =>
   fetch(url).then((res) => {
     if (!res.ok) throw new Error('Transcript missing')
     return res.text()
   })
+
+// Vocabulary is optional: only some episodes have been through
+// scripts/build_vocab.js. A missing file is a normal state, not an error, so it
+// resolves to null and the transcript renders undecorated.
+const vocabFetcher = (url) =>
+  fetch(url).then((res) => (res.ok ? res.json() : null))
 
 const Transcript = ({ episode }) => {
   const [isVisible, setIsVisible] = useState(false)
@@ -23,11 +30,19 @@ const Transcript = ({ episode }) => {
     isLoading: loading,
   } = useSWR(swrKey, transcriptFetcher)
 
-  // Set innerHTML only once when content changes
+  const { data: vocab } = useSWR(
+    isVisible && episode.transcript_id
+      ? `./vocab/${episode.transcript_id}.json`
+      : null,
+    vocabFetcher,
+  )
+
+  // Render the transcript, then decorate it. This is deliberately one effect:
+  // splitting it meant the decorating pass had to sleep 150ms hoping innerHTML
+  // had landed, which is a race rather than an ordering guarantee.
   useEffect(() => {
     if (!content || !contentRef.current || loading) return
 
-    // Sanitize and set HTML
     const sanitized = content
       .replace(/<!DOCTYPE html>/i, '')
       .replace(/<html[^>]*>/i, '')
@@ -37,66 +52,24 @@ const Transcript = ({ episode }) => {
       .replace(/<\/body>/i, '</div>')
 
     contentRef.current.innerHTML = sanitized
-  }, [content, loading])
 
-  useEffect(() => {
-    if (!content || !contentRef.current || loading) {
-      return
-    }
-
-    // Helper function to create speaker button
-    const createSpeakerButton = (wordEl, wordText) => {
+    // Click a word to hear it. Vocabulary data is not required for this.
+    contentRef.current.querySelectorAll('.word').forEach((wordEl) => {
+      const wordText = wordEl.textContent.trim()
+      if (!wordText) return
       wordEl.onclick = (e) => {
         e.stopPropagation()
-        // Use Web Speech API to speak the word
-        if ('speechSynthesis' in window) {
-          const utterance = new SpeechSynthesisUtterance(wordText)
-          utterance.lang = 'en-US'
-          utterance.rate = 0.8 // Slower for learning
-          speechSynthesis.cancel() // Cancel any ongoing speech
-          speechSynthesis.speak(utterance)
-        }
+        if (!('speechSynthesis' in window)) return
+        const utterance = new SpeechSynthesisUtterance(wordText)
+        utterance.lang = 'en-US'
+        utterance.rate = 0.8 // Slower, for learners.
+        speechSynthesis.cancel()
+        speechSynthesis.speak(utterance)
       }
-    }
+    })
 
-    const fetchAllPronunciations = async () => {
-      await new Promise((resolve) => setTimeout(resolve, 150))
-
-      const wordElements = contentRef.current.querySelectorAll('.word')
-
-      // Get words that don't have pronunciation yet
-      const wordsToFetch = []
-      wordElements.forEach((wordEl) => {
-        const hasPronunciation = wordEl.querySelector('.pronunciation')
-        if (!hasPronunciation) {
-          const wordText = wordEl.textContent.trim()
-          if (wordText) {
-            wordsToFetch.push({ element: wordEl, text: wordText })
-          }
-        }
-      })
-
-      if (wordsToFetch.length === 0) {
-        return
-      }
-
-      // Add loading state to all words
-      wordsToFetch.forEach(({ element }) => {
-        element.style.opacity = '0.6'
-      })
-
-      wordsToFetch.forEach(({ element: wordEl, text: wordText }) => {
-        // If no pronunciation found, show a message but still add audio button
-        createSpeakerButton(wordEl, wordText)
-
-        // Remove loading state
-        wordEl.style.opacity = '1'
-      })
-    }
-
-    // Start fetching pronunciations
-    fetchAllPronunciations()
-  }, [content, loading])
+    if (vocab) decorateVocab(contentRef.current, vocab)
+  }, [content, loading, vocab])
 
   return (
     <div className="glass-card rounded-2xl p-6 lg:p-8">

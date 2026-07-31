@@ -1,0 +1,20 @@
+{
+  "_comment": "Hand-written IPA for entries CMUdict cannot resolve, plus a place to correct any entry it gets wrong. Checked before CMUdict. Keys are lowercased; values carry no surrounding slashes.",
+
+  "inconsiderate": "ˌɪnkənˈsɪdɚət",
+  "groomsman": "ˈɡɹumzmən",
+  "housewaming": "ˈhaʊswɔɹmɪŋ",
+  "chequing account": "ˈtʃɛkɪŋ əˈkaʊnt",
+  "intubate": "ˈɪntʊbeɪt",
+  "flatline": "ˈflætlaɪn",
+  "cpr": "ˌsi pi ˈɑɹ",
+  "chest compressions": "tʃɛst kəmˈpɹɛʃənz",
+  "icu": "ˌaɪ si ˈju",
+
+  "_comment_digits": "Entries containing digits: the tokenizer skips numbers, so these must be spelled out here or they get no IPA at all.",
+  "20/20 vision": "ˌtwɛnti ˈtwɛnti ˈvɪʒən",
+  "fortune 500": "ˈfɔɹtʃən faɪv ˈhʌndɹəd",
+  "18k": "ˌeɪˈtin ˈkɛɹət",
+  "411": "ˌfɔɹ wʌn ˈwʌn",
+  "72 hour pill": "ˈsɛvənti ˈtu ˈaʊɚ pɪl"
+}
