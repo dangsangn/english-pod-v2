@@ -30,9 +30,9 @@ Hai tài liệu trên giờ mô tả sai hệ thống, sẽ bị xoá và thay b
 | Chỉ số | Giá trị |
 | --- | --- |
 | Tổng mục từ vựng (365 bài) | 4.638 |
-| Mục có `word` rỗng (bỏ qua) | 19 |
+| Mục có `word` rỗng trong HTML | 19 (đã khôi phục, xem §6) |
 | Từ/cụm duy nhất | 4.003 |
-| **Cặp (từ, definition) duy nhất** | **4.533** |
+| **Cặp (từ, definition) duy nhất** | **4.552** |
 | Từ đơn / cụm nhiều chữ | 2.472 / 1.531 (38% là cụm) |
 | Trung bình mỗi bài | 12,7 mục |
 
@@ -85,7 +85,7 @@ Người dùng chọn:
 - **Phạm vi dịch:** cả từ lẫn definition.
 - **Phạm vi triển khai:** ban đầu định làm 50 bài đầu (653 cặp) rồi duyệt chất
   lượng mới chạy tiếp. Người dùng quyết định làm nốt luôn, nên đợt này phủ
-  **toàn bộ 365 bài — 4.619 mục, 4.533 cặp duy nhất**.
+  **toàn bộ 365 bài — 4.638 mục, 4.552 cặp duy nhất**.
 
 ## Thiết kế
 
@@ -119,7 +119,7 @@ tra trượt vì dấu ngoặc (`stand (someone) up` — 37 mục), dấu gạch
 ```
 
 Mỗi file 200 cặp. JSONL vì mỗi lô là một lần ghi, resume được giữa chừng, và
-diff theo dòng dễ đọc. Trọn bộ 4.533 cặp nằm trong 24 file (`0001`–`0024`).
+diff theo dòng dễ đọc. Trọn bộ 4.552 cặp nằm trong 25 file (`0001`–`0025`).
 
 Khoá tra là cặp `(w, d)` đã lowercase và gộp khoảng trắng.
 
@@ -195,7 +195,34 @@ grab                    get quickly
 
 Giữ nguyên nút click-to-speak bằng Web Speech API.
 
-### 6. Dọn tài liệu sai
+### 6. Khôi phục 19 mục mất từ
+
+19 `.vocab-item` có definition nhưng thẻ `<div class="word"></div>` rỗng ngay
+trong HTML tải từ archive.org — tải lại cũng vậy, và không bài nào khác dùng
+chung definition để đối chiếu. Từ được dựng lại trong
+`scripts/data/vocab-word-recovery.json`, khoá `<bài>#<thứ tự .vocab-item>`, kèm
+trường `why` ghi căn cứ và `sure` ghi mức chắc chắn.
+
+Hai loại căn cứ:
+
+- **Chính thoại của bài.** Khối `dialogue-block` còn nguyên, mà Key Vocabulary
+  lại xếp đúng thứ tự thoại. Bài 29 thiếu mục có nghĩa "state of not being
+  stable" đúng chỗ câu "There's just too much instability".
+- **Chính definition.** Một số mục dính lỗi "định nghĩa/từ": bài 12 ghi
+  `...done in the spring/ spring cleaning`, bài 78 ghi `...in history/ in
+  commemoration of` — phần sau dấu `/` chính là từ.
+
+Đây là **suy luận, không phải dữ liệu gốc**. Mục `21#11` kém chắc nhất:
+definition mất luôn phần trước dấu `/`, chỉ còn `/ write official documents`,
+tạm điền `draft`. Sửa một dòng trong file rồi chạy lại `build_vocab.js` là xong.
+
+Việc này còn vá một lỗi âm thầm: trước đây `readEpisodeItems` bỏ hẳn mục rỗng
+nên mảng entries ngắn hơn số `.vocab-item` trong DOM ở 14 bài, khiến phép khớp
+theo chỉ số lệch từ mục rỗng trở đi. Nó vẫn chạy đúng chỉ nhờ nhánh dự phòng dò
+theo từ — mà nhánh đó lấy entry đầu tiên trùng từ, sẽ chọn sai nếu một bài có
+hai nghĩa cùng một từ. Nay entries khớp 1-1 với DOM ở cả 365 bài.
+
+### 7. Dọn tài liệu sai
 
 Xoá `TRANSLATION_FEATURE.md` và `PRONUNCIATION_APIS.md`. Chúng mô tả kiến trúc
 đã bị gỡ khỏi code và giờ gây hiểu nhầm. Spec này thay thế.
@@ -206,11 +233,11 @@ Xoá `TRANSLATION_FEATURE.md` và `PRONUNCIATION_APIS.md`. Chúng mô tả kiế
 
 | Chỉ số | Kết quả |
 | --- | --- |
-| Mục từ vựng trong phạm vi | 4.619 |
-| Mục có bản dịch | 4.619 (100%) |
-| Mục có IPA | 4.619 (100%) |
+| Mục từ vựng trong phạm vi | 4.638 |
+| Mục có bản dịch | 4.638 (100%) |
+| Mục có IPA | 4.638 (100%) |
 | File bài được ghi | 361 (4 bài không có mục từ vựng nào) |
-| Dòng trong `scripts/data/vocab-vi/` | 4.533 |
+| Dòng trong `scripts/data/vocab-vi/` | 4.552 |
 | Sai lệch giữa transcript và file sinh ra | 0 |
 
 Ghi lại số liệu thật, không nói suông.
@@ -231,7 +258,7 @@ chưa xác nhận bằng mắt trên trang thật.
 
 Bản dịch do Claude soạn, không có người bản ngữ rà lại. Với từ chuyên ngành hoặc
 thành ngữ hiếm có thể lệch sắc thái. Ban đầu định làm 50 bài rồi duyệt chất
-lượng trước, nhưng người dùng chọn làm hết luôn, nên cả 4.533 cặp đều chưa qua
+lượng trước, nhưng người dùng chọn làm hết luôn, nên cả 4.552 cặp đều chưa qua
 vòng duyệt đó. Sửa một mục là sửa một dòng trong `scripts/data/vocab-vi/` rồi
 chạy lại `build_vocab.js`, không phải dựng lại từ đầu.
 

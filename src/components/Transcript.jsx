@@ -53,9 +53,14 @@ const Transcript = ({ episode }) => {
 
     contentRef.current.innerHTML = sanitized
 
+    // Decorate first: it fills in the words the source HTML left blank, so
+    // those rows get a click-to-speak handler too.
+    if (vocab) decorateVocab(contentRef.current, vocab)
+
     // Click a word to hear it. Vocabulary data is not required for this.
     contentRef.current.querySelectorAll('.word').forEach((wordEl) => {
-      const wordText = wordEl.textContent.trim()
+      // dataset.speak is the bare word; textContent would include the IPA.
+      const wordText = wordEl.dataset.speak || wordEl.textContent.trim()
       if (!wordText) return
       wordEl.onclick = (e) => {
         e.stopPropagation()
@@ -67,8 +72,6 @@ const Transcript = ({ episode }) => {
         speechSynthesis.speak(utterance)
       }
     })
-
-    if (vocab) decorateVocab(contentRef.current, vocab)
   }, [content, loading, vocab])
 
   return (

@@ -57,17 +57,27 @@ export function decorateVocab(rootEl, entries) {
     const defEl = item.querySelector('.definition')
     if (!wordEl || !defEl) return
 
+    // Strip anything an earlier pass added before reading the word, otherwise
+    // the text would include the pronunciation and match nothing.
+    wordEl.querySelector('.pronunciation')?.remove()
+    defEl.querySelector('.translation')?.remove()
+
     const wordText = normalizeText(wordEl.textContent).toLowerCase()
-    if (!wordText) return
 
     let entry = entries[index]
-    if (!entry || normalizeText(entry.word).toLowerCase() !== wordText) {
+    if (wordText && (!entry || normalizeText(entry.word).toLowerCase() !== wordText)) {
       entry = byWord.get(wordText)
     }
     if (!entry) return
 
-    wordEl.querySelector('.pronunciation')?.remove()
-    defEl.querySelector('.translation')?.remove()
+    // 19 items ship with an empty .word div: the source HTML lost the word and
+    // the build reconstructs it (scripts/data/vocab-word-recovery.json). Fill
+    // the blank instead of leaving a row that shows a definition and nothing else.
+    if (!wordText) wordEl.textContent = entry.word
+
+    // Click-to-speak reads this rather than textContent, which picks up the
+    // pronunciation span appended just below.
+    wordEl.dataset.speak = entry.word
 
     if (entry.ipa) {
       const ipaEl = document.createElement('span')

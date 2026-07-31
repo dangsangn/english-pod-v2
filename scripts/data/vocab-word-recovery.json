@@ -1,0 +1,99 @@
+{
+  "_comment": "19 mục trong transcript có definition nhưng thẻ <div class=\"word\"> rỗng ngay trong HTML tải từ archive.org, nên tải lại cũng không có. Từ ở đây được suy ra, KHÔNG phải lấy từ nguồn. Khoá là <số bài>#<thứ tự .vocab-item trong file>. Trường 'why' ghi căn cứ; 'sure' là mức chắc chắn. Sửa một dòng ở đây rồi chạy lại build_vocab.js là đủ.",
+
+  "12#6": {
+    "word": "spring cleaning",
+    "why": "definition tự chứa từ sau dấu '/': '...done in the spring/ spring cleaning'. Mẫu 'định nghĩa/từ' này lặp lại ở nhiều mục khác trong corpus (life jacket, triumph)",
+    "sure": "cao"
+  },
+  "17#14": {
+    "word": "vows",
+    "why": "'promises that the bride and groom make to each other' + type 'common noun, plural'; nằm trong nhóm bổ sung về đám cưới (groomsman, maid of honor, best man, ushers)",
+    "sure": "khá"
+  },
+  "21#11": {
+    "word": "draft",
+    "why": "definition mất phần đứng trước dấu '/': '/ write official documents'. Cả danh sách là động từ mô tả việc văn phòng (implement, oversee, coordinate, monitor, supervise, ensure). ĐÂY LÀ MỤC KÉM CHẮC NHẤT — cũng có thể là 'draw up'",
+    "sure": "thấp"
+  },
+  "23#0": {
+    "word": "arrange",
+    "why": "thoại: 'I'm calling to arrange an appointment'; mục #0 đứng ngay trước 'appointment'. Định nghĩa vòng tròn kiểu 'to arrange' xuất hiện nhiều nơi trong corpus (plumber|plumber, bake|bake)",
+    "sure": "khá"
+  },
+  "24#8": {
+    "word": "allergic to",
+    "why": "thoại: 'I'm allergic to seafood'; Key Vocabulary xếp đúng thứ tự thoại, mục #8 rơi đúng vào chỗ câu đó",
+    "sure": "cao"
+  },
+  "29#4": {
+    "word": "instability",
+    "why": "thoại nhắc hai lần: 'There's just too much instability', 'exhibited a great deal of instability'",
+    "sure": "cao"
+  },
+  "29#6": {
+    "word": "aggregate",
+    "why": "thoại: 'the aggregate demand for consumer goods'; định nghĩa 'combined', loại Adjective",
+    "sure": "cao"
+  },
+  "35#1": {
+    "word": "bottom line",
+    "why": "thoại: 'the bottom line is, I don't think he's a good fit'; mục #1 nằm giữa 'concern' và 'overall', đúng thứ tự thoại",
+    "sure": "cao"
+  },
+  "36#10": {
+    "word": "ex-girlfriend",
+    "why": "ô definition chứa đúng chữ 'ex-girlfriend' — dữ liệu bị lệch cột, từ rơi vào ô định nghĩa. Mục #9 ngay trước là 'ex-boyfriend'",
+    "sure": "cao"
+  },
+  "41#8": {
+    "word": "horror film",
+    "why": "'a very scary movie', nằm trong nhóm thể loại phim cùng comedy, romantic comedy, animated film, thriller, drama — đặt tên theo lối 'animated film'",
+    "sure": "khá"
+  },
+  "42#10": {
+    "word": "procrastinate",
+    "why": "definition kết thúc bằng chính từ đó: '...do something later procrastinate'",
+    "sure": "cao"
+  },
+  "69#11": {
+    "word": "omelette",
+    "why": "'eggs mixed, then cooked, and then folded in half' là định nghĩa kinh điển của omelette; nằm trong nhóm bổ sung các kiểu chế biến trứng",
+    "sure": "cao"
+  },
+  "71#1": {
+    "word": "mozzarella sticks",
+    "why": "thoại: 'Let's have some nachos and mozzarella sticks'; mục #2 ngay sau là 'nachos', đúng thứ tự thoại",
+    "sure": "cao"
+  },
+  "71#10": {
+    "word": "pub",
+    "why": "'a relaxed, casual bar where beer is served'; nằm trong nhóm bổ sung về quán bar (drinks list, liqueur, bar stool)",
+    "sure": "khá"
+  },
+  "71#11": {
+    "word": "cocktail",
+    "why": "'alcoholic drink made from one or more liqueur and other ingredients' — định nghĩa chuẩn của cocktail; mục #12 ngay sau là 'liqueur'",
+    "sure": "cao"
+  },
+  "78#14": {
+    "word": "in commemoration of",
+    "why": "definition tự chứa từ sau dấu '/': '...a person or event in history/ in commemoration of'",
+    "sure": "cao"
+  },
+  "199#5": {
+    "word": "bandage",
+    "why": "'A strip of material such as gauze used to protect, immobilize, compress, or support a wound' — định nghĩa từ điển của bandage; bài về sơ cứu",
+    "sure": "cao"
+  },
+  "199#6": {
+    "word": "cast",
+    "why": "'a hard shell usually made of gauze and plaster, used to immobilize an injured body part' — bó bột",
+    "sure": "cao"
+  },
+  "199#7": {
+    "word": "splint",
+    "why": "'A rigid device used to prevent motion of a joint or of the ends of a fractured bone' — định nghĩa từ điển của splint",
+    "sure": "cao"
+  }
+}

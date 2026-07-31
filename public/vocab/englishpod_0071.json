@@ -6,6 +6,12 @@
     "viDef": "đồng đô-la (thân mật)"
   },
   {
+    "word": "mozzarella sticks",
+    "ipa": "ˌmɑtsəˈɹɛlə stɪks",
+    "vi": "que phô mai chiên",
+    "viDef": "phô mai Ý chiên giòn"
+  },
+  {
     "word": "nachos",
     "ipa": "ˈnɑtʃoʊz",
     "vi": "món nachos",
@@ -52,6 +58,18 @@
     "ipa": "dɹɪŋks lɪst",
     "vi": "danh mục đồ uống",
     "viDef": "thực đơn các món uống của quán"
+  },
+  {
+    "word": "pub",
+    "ipa": "pʌb",
+    "vi": "quán bia",
+    "viDef": "quán rượu bình dân, thoải mái, chuyên phục vụ bia"
+  },
+  {
+    "word": "cocktail",
+    "ipa": "ˈkɑkteɪl",
+    "vi": "cocktail",
+    "viDef": "đồ uống pha từ một hoặc nhiều loại rượu mạnh cùng các thành phần khác"
   },
   {
     "word": "liqueur",

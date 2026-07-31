@@ -53,20 +53,45 @@ const decodeEntities = (s) =>
         .replace(/&gt;/g, '>')
         .replace(/&amp;/g, '&');
 
+let wordRecovery = null;
+/**
+ * 19 vocab items across the corpus have a definition but an empty
+ * <div class="word"> in the archive.org HTML, so re-fetching cannot help. The
+ * words in this file were reconstructed from the episode's own dialogue and
+ * from definitions that happen to carry the word after a "/" — see the "why"
+ * field on each entry.
+ */
+function loadWordRecovery() {
+    if (wordRecovery) return wordRecovery;
+    wordRecovery = new Map();
+    const file = path.join(__dirname, 'data/vocab-word-recovery.json');
+    if (fs.existsSync(file)) {
+        for (const [k, v] of Object.entries(JSON.parse(fs.readFileSync(file, 'utf-8')))) {
+            if (k.startsWith('_')) continue;
+            wordRecovery.set(k, normalizeText(v.word));
+        }
+    }
+    return wordRecovery;
+}
+
 function readEpisodeItems(episodeId) {
     const file = path.join(TRANSCRIPT_DIR, `englishpod_${String(episodeId).padStart(4, '0')}.html`);
     if (!fs.existsSync(file)) return null;
     const html = fs.readFileSync(file, 'utf-8');
 
+    const recovery = loadWordRecovery();
     const items = [];
+    let index = 0;
     for (const m of html.matchAll(VOCAB_ITEM)) {
-        const word = normalizeText(decodeEntities(m[1]));
         const type = normalizeText(decodeEntities(m[2]));
         const definition = normalizeText(decodeEntities(m[3]));
-        // 19 items across the corpus have an empty <div class="word">. They
-        // render as blank rows and there is nothing to translate.
+        // Keep counting even when an item is dropped: the index has to stay in
+        // step with the .vocab-item elements the runtime walks.
+        const domIndex = index++;
+        const word =
+            normalizeText(decodeEntities(m[1])) || recovery.get(`${episodeId}#${domIndex}`) || '';
         if (!word) continue;
-        items.push({ word, type, definition });
+        items.push({ word, type, definition, domIndex });
     }
     return items;
 }
