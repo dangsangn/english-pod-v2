@@ -1,0 +1,80 @@
+[
+  {
+    "word": "download",
+    "ipa": "ˈdaʊnloʊd",
+    "vi": "tải xuống",
+    "viDef": "việc chuyển dữ liệu giữa các máy tính"
+  },
+  {
+    "word": "(someone's) needs",
+    "ipa": "ˈsʌmwʌnz nidz",
+    "vi": "nhu cầu của ai",
+    "viDef": "những thứ một người cần"
+  },
+  {
+    "word": "wireless",
+    "ipa": "ˈwaɪɹlɪs",
+    "vi": "không dây",
+    "viDef": "truyền và nhận dữ liệu mà không cần dây"
+  },
+  {
+    "word": "firewall",
+    "ipa": "ˈfaɪɹwɑl",
+    "vi": "tường lửa",
+    "viDef": "thiết bị bảo vệ máy tính khỏi kẻ xâm nhập"
+  },
+  {
+    "word": "broadband internet",
+    "ipa": "ˈbɹɔdbænd ˈɪntɚˌnɛt",
+    "vi": "internet băng rộng",
+    "viDef": "đường mạng tốc độ cao"
+  },
+  {
+    "word": "throw in",
+    "ipa": "θɹoʊ ɪn",
+    "vi": "tặng thêm",
+    "viDef": "cho không, khỏi tính tiền"
+  },
+  {
+    "word": "installation",
+    "ipa": "ˌɪnstəˈleɪʃən",
+    "vi": "việc lắp đặt",
+    "viDef": "quá trình chuẩn bị cho dùng được"
+  },
+  {
+    "word": "lag",
+    "ipa": "læɡ",
+    "vi": "độ trễ",
+    "viDef": "khoảng chậm lại"
+  },
+  {
+    "word": "online",
+    "ipa": "ˈɔnlaɪn",
+    "vi": "trên mạng",
+    "viDef": "qua internet"
+  },
+  {
+    "word": "cable Internet",
+    "ipa": "ˈkeɪbəl ˈɪntɚˌnɛt",
+    "vi": "internet qua cáp",
+    "viDef": "mạng băng rộng đi theo hệ truyền hình cáp, tương đối nhanh"
+  },
+  {
+    "word": "digital subscriber line",
+    "ipa": "ˈdɪdʒətəl səbˈskɹaɪbɚ laɪn",
+    "vi": "đường DSL",
+    "viDef": "mạng băng rộng đi theo dây điện thoại, tương đối chậm"
+  },
+  {
+    "word": "modem",
+    "ipa": "ˈmoʊdəm",
+    "vi": "modem",
+    "viDef": "thiết bị cho phép truyền dữ liệu giữa máy tính và mạng"
+  },
+  {
+    "word": "antivirus software",
+    "ipa": "ˌæntiˈvaɪɹəs ˈsɔftwɛɹ",
+    "vi": "phần mềm diệt virus",
+    "viDef": "chương trình phát hiện virus có hại trong máy"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "word": "road trip",
+    "ipa": "ɹoʊd tɹɪp",
+    "vi": "chuyến đi đường dài",
+    "viDef": "chuyến đi xa bằng xe hơi"
+  },
+  {
+    "word": "piston",
+    "ipa": "ˈpɪstən",
+    "vi": "pít-tông",
+    "viDef": "bộ phận trong động cơ chạy lên xuống bên trong"
+  },
+  {
+    "word": "spark plug",
+    "ipa": "spɑɹk plʌɡ",
+    "vi": "bugi",
+    "viDef": "thiết bị trong động cơ tạo tia lửa điện"
+  },
+  {
+    "word": "break down",
+    "ipa": "bɹeɪk daʊn",
+    "vi": "hỏng máy",
+    "viDef": "ngừng chạy"
+  },
+  {
+    "word": "engine",
+    "ipa": "ˈɛndʒən",
+    "vi": "động cơ",
+    "viDef": "bộ phận giúp xe chạy được"
+  },
+  {
+    "word": "clutch",
+    "ipa": "klʌtʃ",
+    "vi": "chân côn",
+    "viDef": "bàn đạp phải nhấn trước khi sang số"
+  },
+  {
+    "word": "brake",
+    "ipa": "bɹeɪk",
+    "vi": "phanh",
+    "viDef": "bộ phận làm chậm hoặc dừng xe"
+  },
+  {
+    "word": "regular",
+    "ipa": "ˈɹɛɡjəlɚ",
+    "vi": "loại thường",
+    "viDef": "bình thường"
+  },
+  {
+    "word": "smoothly",
+    "ipa": "ˈsmuðli",
+    "vi": "êm ru",
+    "viDef": "không gặp trở ngại hoặc khó khăn"
+  },
+  {
+    "word": "brake pads",
+    "ipa": "bɹeɪk pædz",
+    "vi": "má phanh",
+    "viDef": "phần của phanh đĩa, hai má ép vào nhau để xe dừng"
+  },
+  {
+    "word": "antifreeze",
+    "ipa": "ˈæntiˌfɹiz",
+    "vi": "nước làm mát chống đông",
+    "viDef": "hợp chất hóa học dùng trong động cơ đốt trong, giúp điều hòa nhiệt độ máy"
+  },
+  {
+    "word": "ABS; anti-lock braking system",
+    "ipa": "ˈeɪˈbiˈɛs ˈænti lɑk ˈbɹeɪkɪŋ ˈsɪstəm",
+    "vi": "hệ thống chống bó phanh ABS",
+    "viDef": "ngăn không cho bánh xe bị khóa cứng khi phanh"
+  },
+  {
+    "word": "mileage",
+    "ipa": "ˈmaɪlədʒ",
+    "vi": "số dặm đã đi",
+    "viDef": "số dặm chạy được trong một khoảng thời gian"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "word": "review",
+    "ipa": "ɹiˈvju",
+    "vi": "ôn lại",
+    "viDef": "xem lại phần đã học"
+  },
+  {
+    "word": "plus",
+    "ipa": "plʌs",
+    "vi": "cộng",
+    "viDef": "phép thêm vào (+)"
+  },
+  {
+    "word": "teacher's pet",
+    "ipa": "ˈtitʃɚz pɛt",
+    "vi": "học sinh ruột của cô",
+    "viDef": "đứa được thầy cô thương nhất"
+  },
+  {
+    "word": "minus",
+    "ipa": "ˈmaɪnəs",
+    "vi": "trừ",
+    "viDef": "phép bớt đi (-)"
+  },
+  {
+    "word": "times",
+    "ipa": "taɪmz",
+    "vi": "nhân",
+    "viDef": "phép nhân (x)"
+  },
+  {
+    "word": "suck up",
+    "ipa": "sʌk ʌp",
+    "vi": "kẻ nịnh",
+    "viDef": "người luôn tìm cách lấy lòng thầy cô hoặc cấp trên"
+  },
+  {
+    "word": "divided by",
+    "ipa": "dɪˈvaɪdɪd baɪ",
+    "vi": "chia cho",
+    "viDef": "tách ra thành các phần"
+  },
+  {
+    "word": "smarty pants",
+    "ipa": "ˈsmɑɹti pænts",
+    "vi": "kẻ tỏ ra thông thái",
+    "viDef": "người hay tỏ vẻ mình giỏi"
+  },
+  {
+    "word": "square root",
+    "ipa": "skwɛɹ ɹut",
+    "vi": "căn bậc hai",
+    "viDef": "số mà nhân với chính nó thì ra số đã cho"
+  },
+  {
+    "word": "I'll bet",
+    "ipa": "aɪl bɛt",
+    "vi": "tôi cá là",
+    "viDef": "tôi cho rằng chuyện đó dễ xảy ra"
+  },
+  {
+    "word": "know-it-all",
+    "ipa": "noʊ ɪt ɔl",
+    "vi": "kẻ tỏ ra biết tuốt",
+    "viDef": "người tự nhận hoặc làm như mình biết mọi thứ"
+  },
+  {
+    "word": "equation",
+    "ipa": "ɪˈkweɪʒən",
+    "vi": "phương trình",
+    "viDef": "bài toán mà hai vế bằng nhau (3+6=9)"
+  },
+  {
+    "word": "operation",
+    "ipa": "ˌɑpɚˈeɪʃən",
+    "vi": "phép tính",
+    "viDef": "thao tác toán học như +, x, -..."
+  },
+  {
+    "word": "multiplication",
+    "ipa": "ˌmʌltəpləˈkeɪʃən",
+    "vi": "phép nhân",
+    "viDef": "việc cộng một số với chính nó nhiều lần"
+  },
+  {
+    "word": "addition",
+    "ipa": "əˈdɪʃən",
+    "vi": "phép cộng",
+    "viDef": "việc cộng hai số lại"
+  },
+  {
+    "word": "subtraction",
+    "ipa": "səbˈtɹækʃən",
+    "vi": "phép trừ",
+    "viDef": "việc lấy số này bớt đi số kia"
+  },
+  {
+    "word": "division",
+    "ipa": "dɪˈvɪʒən",
+    "vi": "phép chia",
+    "viDef": "việc tách thứ gì thành các phần"
+  }
+]

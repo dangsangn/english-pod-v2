@@ -1,0 +1,50 @@
+[
+  {
+    "word": "invest",
+    "ipa": "ɪnˈvɛst",
+    "vi": "đầu tư",
+    "viDef": "bỏ tiền vào để mong thu về nhiều hơn"
+  },
+  {
+    "word": "Social Security",
+    "ipa": "ˈsoʊʃəl sɪˈkjʊɹəti",
+    "vi": "An sinh Xã hội",
+    "viDef": "chương trình của chính phủ Mỹ bảo vệ một số nhóm dân"
+  },
+  {
+    "word": "pension",
+    "ipa": "ˈpɛnʃən",
+    "vi": "lương hưu",
+    "viDef": "tiền nhà nước hoặc chủ cũ trả định kỳ cho người đã nghỉ việc hoặc người thân còn sống của họ"
+  },
+  {
+    "word": "disability income insurance",
+    "ipa": "ˌdɪsəˈbɪlɪti ˈɪnkʌm ˌɪnˈʃʊɹəns",
+    "vi": "bảo hiểm thu nhập khi mất sức",
+    "viDef": "khoản hỗ trợ tiền cho người bị khuyết tật để giữ được mức thu nhập nhất định"
+  },
+  {
+    "word": "survivor benefits",
+    "ipa": "sɚˈvaɪvɚ ˈbɛnəfɪts",
+    "vi": "trợ cấp tuất",
+    "viDef": "khoản hỗ trợ tiền cho gia đình người lao động đã mất"
+  },
+  {
+    "word": "unemployment benefits/ compensation",
+    "ipa": "ˌʌnɪmˈplɔɪmənt ˈbɛnəfɪts ˌkɑmpənˈseɪʃən",
+    "vi": "trợ cấp thất nghiệp",
+    "viDef": "tiền nhà nước hoặc chủ trả cho người mất việc trong suốt hoặc một phần thời gian không có việc"
+  },
+  {
+    "word": "defined benefit plan",
+    "ipa": "dɪˈfaɪnd ˈbɛnəfɪt plæn",
+    "vi": "gói hưu mức chi cố định",
+    "viDef": "chương trình hưu trả mức xác định, còn số tiền đầu tư có thể thay đổi"
+  },
+  {
+    "word": "defined contribution plan",
+    "ipa": "dɪˈfaɪnd ˌkɑntɹəˈbjuʃən plæn",
+    "vi": "gói hưu mức góp cố định",
+    "viDef": "chương trình hưu góp một khoản xác định, mức nhận lại tùy kết quả đầu tư"
+  }
+]

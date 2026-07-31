@@ -47,10 +47,16 @@ function checkBatchFiles(problems) {
                 }
                 count++;
 
-                for (const field of ['w', 'd', 'vi', 'vd']) {
+                for (const field of ['w', 'vi', 'vd']) {
                     if (typeof row[field] !== 'string' || !row[field].trim()) {
                         problems.push(`${where}: field "${field}" is missing or empty`);
                     }
+                }
+                // "d" may legitimately be empty: episode 194 has two vocab items
+                // ("Fortune Cookie", "Chow Mein") whose definition div is blank
+                // in the source HTML, and the key has to match that exactly.
+                if (typeof row.d !== 'string') {
+                    problems.push(`${where}: field "d" is missing`);
                 }
                 if (row.w !== normalizeText(row.w) || row.d !== normalizeText(row.d)) {
                     problems.push(`${where}: "w"/"d" carry stray whitespace and will never match`);

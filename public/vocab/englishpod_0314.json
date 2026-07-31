@@ -1,0 +1,56 @@
+[
+  {
+    "word": "operator",
+    "ipa": "ˈɑpɚˌeɪtɚ",
+    "vi": "nhân viên tổng đài",
+    "viDef": "người vận hành bảng nối điện thoại"
+  },
+  {
+    "word": "charge",
+    "ipa": "tʃɑɹdʒ",
+    "vi": "khoản tính tiền",
+    "viDef": "số tiền phải trả"
+  },
+  {
+    "word": "credit",
+    "ipa": "ˈkɹɛdət",
+    "vi": "tiền còn trong tài khoản",
+    "viDef": "số dư dương trong tài khoản điện thoại di động"
+  },
+  {
+    "word": "payphone",
+    "ipa": "ˈpeɪfoʊn",
+    "vi": "điện thoại công cộng",
+    "viDef": "điện thoại dùng chung, chạy bằng xu hoặc thẻ"
+  },
+  {
+    "word": "collect call",
+    "ipa": "kəˈlɛkt kɔl",
+    "vi": "cuộc gọi người nhận trả tiền",
+    "viDef": "cuộc gọi mà bên nhận được đề nghị trả cước"
+  },
+  {
+    "word": "network",
+    "ipa": "ˈnɛtwɝk",
+    "vi": "mạng điện thoại",
+    "viDef": "các máy điện thoại nối với nhau qua thiết bị viễn thông hoặc dây cáp"
+  },
+  {
+    "word": "landline",
+    "ipa": "ˈlændlaɪn",
+    "vi": "máy bàn",
+    "viDef": "điện thoại cố định ở nhà"
+  },
+  {
+    "word": "connect",
+    "ipa": "kəˈnɛkt",
+    "vi": "nối máy",
+    "viDef": "thiết lập liên lạc giữa hai bên"
+  },
+  {
+    "word": "reception",
+    "ipa": "ɹɪˈsɛpʃən",
+    "vi": "sóng, chất lượng thu",
+    "viDef": "mức thu được của sóng phát thanh hoặc truyền hình"
+  }
+]

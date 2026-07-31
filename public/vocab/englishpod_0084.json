@@ -1,0 +1,80 @@
+[
+  {
+    "word": "prescription",
+    "ipa": "pɹəˈskɹɪpʃən",
+    "vi": "đơn thuốc",
+    "viDef": "danh sách thuốc do bác sĩ kê"
+  },
+  {
+    "word": "milligram",
+    "ipa": "ˈmɪləˌɡɹæm",
+    "vi": "mi-li-gam",
+    "viDef": "đơn vị đo khối lượng"
+  },
+  {
+    "word": "capsule",
+    "ipa": "ˈkæpsəl",
+    "vi": "viên nhộng",
+    "viDef": "thuốc bọc trong vỏ nhựa"
+  },
+  {
+    "word": "tablet",
+    "ipa": "ˈtæblət",
+    "vi": "viên nén",
+    "viDef": "thuốc ép thành viên tròn, cứng"
+  },
+  {
+    "word": "overdose",
+    "ipa": "ˈoʊvɚˌdoʊs",
+    "vi": "dùng quá liều",
+    "viDef": "uống nhiều thuốc hơn liều khuyến nghị"
+  },
+  {
+    "word": "eye drop",
+    "ipa": "aɪ dɹɑp",
+    "vi": "thuốc nhỏ mắt",
+    "viDef": "dung dịch nhỏ vào mắt để trị bệnh mắt"
+  },
+  {
+    "word": "hang on",
+    "ipa": "hæŋ ɑn",
+    "vi": "chờ chút",
+    "viDef": "đợi một lát"
+  },
+  {
+    "word": "get a price check",
+    "ipa": "ɡɛt ə pɹaɪs tʃɛk",
+    "vi": "kiểm tra giá",
+    "viDef": "nhập mã hàng để tra giá"
+  },
+  {
+    "word": "syringe",
+    "ipa": "sɚˈɪndʒ",
+    "vi": "ống tiêm",
+    "viDef": "dụng cụ gồm ống rỗng và kim, dùng bơm hoặc hút dịch trong người"
+  },
+  {
+    "word": "cough syrup",
+    "ipa": "kɑf ˈsɝəp",
+    "vi": "siro ho",
+    "viDef": "dung dịch ngọt có thuốc dùng để trị ho"
+  },
+  {
+    "word": "bandage",
+    "ipa": "ˈbændɪdʒ",
+    "vi": "băng gạc",
+    "viDef": "dải vải băng lại để che hoặc đỡ chỗ bị thương"
+  },
+  {
+    "word": "hydrogen peroxide",
+    "ipa": "ˈhaɪdɹədʒən pɚˈɑkˌsaɪd",
+    "vi": "ô-xy già",
+    "viDef": "dung dịch dùng làm nhạt màu hoặc diệt khuẩn"
+  },
+  {
+    "word": "ointment",
+    "ipa": "ˈɔɪntmənt",
+    "vi": "thuốc mỡ",
+    "viDef": "chất mịn bôi lên da để lành vết thương hoặc giảm đau"
+  }
+]

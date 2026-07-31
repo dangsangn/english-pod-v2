@@ -72,7 +72,7 @@ const Transcript = ({ episode }) => {
   }, [content, loading, vocab])
 
   return (
-    <div className="glass-card rounded-2xl p-6 lg:p-8">
+    <div className="glass-card rounded-2xl p-6 lg:p-8 -mx-6 lg:mx-0">
       <div className="flex items-center justify-between mb-6">
         <h3 className="text-lg font-semibold text-zinc-700 dark:text-zinc-300">
           Transcript / Notes

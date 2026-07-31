@@ -1,0 +1,110 @@
+[
+  {
+    "word": "I have no idea",
+    "ipa": "aɪ hæv noʊ aɪˈdiə",
+    "vi": "tôi chẳng biết gì",
+    "viDef": "hoàn toàn không hay biết"
+  },
+  {
+    "word": "freeze",
+    "ipa": "fɹiz",
+    "vi": "treo máy",
+    "viDef": "bỗng ngừng hoạt động"
+  },
+  {
+    "word": "where (something) is going",
+    "ipa": "wɛɹ ˈsʌmθɪŋ ɪz ˈɡoʊɪŋ",
+    "vi": "chuyện này đi đến đâu",
+    "viDef": "chiều hướng của một việc"
+  },
+  {
+    "word": "ever changing",
+    "ipa": "ˈɛvɚ ˈtʃeɪndʒɪŋ",
+    "vi": "luôn thay đổi",
+    "viDef": "lúc nào cũng khác đi"
+  },
+  {
+    "word": "obsolete",
+    "ipa": "ˈɑbsəˌlit",
+    "vi": "lỗi thời",
+    "viDef": "không còn dùng được"
+  },
+  {
+    "word": "program",
+    "ipa": "ˈpɹoʊɡɹæm",
+    "vi": "chương trình",
+    "viDef": "ứng dụng máy tính"
+  },
+  {
+    "word": "gigabyte",
+    "ipa": "ˈɡɪɡəˌbaɪt",
+    "vi": "gigabyte",
+    "viDef": "đơn vị đo dung lượng lưu trữ của máy tính"
+  },
+  {
+    "word": "random access memory",
+    "ipa": "ˈɹændəm ˈæksɛs ˈmɛmɚi",
+    "vi": "bộ nhớ RAM",
+    "viDef": "phần máy tính lưu tạm thông tin"
+  },
+  {
+    "word": "hard disk",
+    "ipa": "hɑɹd dɪsk",
+    "vi": "ổ cứng",
+    "viDef": "phần máy tính chứa dữ liệu"
+  },
+  {
+    "word": "gigahertz",
+    "ipa": "ˈɡɪɡəhɝts",
+    "vi": "gigahertz",
+    "viDef": "đơn vị đo tốc độ vi xử lý"
+  },
+  {
+    "word": "processor",
+    "ipa": "ˈpɹɑˌsɛsɚ",
+    "vi": "vi xử lý",
+    "viDef": "bộ phận điều hành các phép tính trong máy"
+  },
+  {
+    "word": "crash",
+    "ipa": "kɹæʃ",
+    "vi": "sập",
+    "viDef": "bỗng ngừng chạy"
+  },
+  {
+    "word": "guarantee",
+    "ipa": "ˌɡɛɹənˈti",
+    "vi": "bảo đảm",
+    "viDef": "cam kết bằng văn bản"
+  },
+  {
+    "word": "warranty",
+    "ipa": "ˈwɔɹənti",
+    "vi": "giấy bảo hành",
+    "viDef": "cam kết bằng giấy rằng bên bán sẽ sửa nếu có lỗi"
+  },
+  {
+    "word": "laptop",
+    "ipa": "ˈlæptɑp",
+    "vi": "máy tính xách tay",
+    "viDef": "máy tính mang đi được"
+  },
+  {
+    "word": "network",
+    "ipa": "ˈnɛtwɝk",
+    "vi": "mạng",
+    "viDef": "hệ thống nối các máy tính với nhau"
+  },
+  {
+    "word": "evolve",
+    "ipa": "ɪˈvɑlv",
+    "vi": "tiến hóa",
+    "viDef": "đổi lên trạng thái cao hơn"
+  },
+  {
+    "word": "wireless modem",
+    "ipa": "ˈwaɪɹlɪs ˈmoʊdəm",
+    "vi": "modem không dây",
+    "viDef": "thiết bị cho máy tính liên lạc mà không cần dây"
+  }
+]

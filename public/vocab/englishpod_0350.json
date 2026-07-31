@@ -1,0 +1,62 @@
+[
+  {
+    "word": "brother",
+    "ipa": "ˈbɹʌðɚ",
+    "vi": "anh, em trai",
+    "viDef": "anh chị em ruột là nam"
+  },
+  {
+    "word": "uncle",
+    "ipa": "ˈʌŋkəl",
+    "vi": "bác, chú, cậu",
+    "viDef": "anh hoặc em trai của cha hay mẹ mình"
+  },
+  {
+    "word": "cousin",
+    "ipa": "ˈkʌzən",
+    "vi": "anh chị em họ",
+    "viDef": "con trai hoặc con gái của chú, bác, cô, dì"
+  },
+  {
+    "word": "aunt",
+    "ipa": "ænt",
+    "vi": "cô, dì, bác gái",
+    "viDef": "chị hoặc em gái của cha hay mẹ mình"
+  },
+  {
+    "word": "step son",
+    "ipa": "stɛp sʌn",
+    "vi": "con riêng của vợ hoặc chồng",
+    "viDef": "con trai của chồng hoặc vợ mình từ cuộc hôn nhân trước"
+  },
+  {
+    "word": "ex-wife",
+    "ipa": "ɛks waɪf",
+    "vi": "vợ cũ",
+    "viDef": "người nữ trước đây từng là vợ của một người nam"
+  },
+  {
+    "word": "Niece",
+    "ipa": "nis",
+    "vi": "cháu gái",
+    "viDef": "con gái của anh chị em mình"
+  },
+  {
+    "word": "family reunion",
+    "ipa": "ˈfæməli ɹiˈunjən",
+    "vi": "buổi họp mặt gia đình",
+    "viDef": "dịp họ hàng, bạn bè hoặc người quen tụ họp định kỳ hoặc sau thời gian xa cách"
+  },
+  {
+    "word": "biological",
+    "ipa": "ˌbaɪəˈlɑdʒɪkəl",
+    "vi": "ruột thịt",
+    "viDef": "cùng huyết thống và gen với người thân trong nhà"
+  },
+  {
+    "word": "adopted",
+    "ipa": "əˈdɑptɪd",
+    "vi": "được nhận nuôi",
+    "viDef": "nhận và nuôi con của người khác như con mình"
+  }
+]

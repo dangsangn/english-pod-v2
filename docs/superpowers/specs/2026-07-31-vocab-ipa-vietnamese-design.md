@@ -83,9 +83,9 @@ Người dùng chọn:
 - **Nguồn dịch:** Claude soạn trực tiếp trong phiên làm việc, kết quả commit
   thành dữ liệu tĩnh. Không API key, không phụ thuộc dịch vụ ngoài lúc chạy.
 - **Phạm vi dịch:** cả từ lẫn definition.
-- **Phạm vi triển khai đợt này:** 50 bài đầu — 654 mục, **653 cặp duy nhất**,
-  635 từ (323 là cụm). Xem chất lượng thực tế rồi mới quyết định chạy tiếp 315
-  bài còn lại.
+- **Phạm vi triển khai:** ban đầu định làm 50 bài đầu (653 cặp) rồi duyệt chất
+  lượng mới chạy tiếp. Người dùng quyết định làm nốt luôn, nên đợt này phủ
+  **toàn bộ 365 bài — 4.619 mục, 4.533 cặp duy nhất**.
 
 ## Thiết kế
 
@@ -119,9 +119,15 @@ tra trượt vì dấu ngoặc (`stand (someone) up` — 37 mục), dấu gạch
 ```
 
 Mỗi file 200 cặp. JSONL vì mỗi lô là một lần ghi, resume được giữa chừng, và
-diff theo dòng dễ đọc. Đợt này cần 4 file cho 653 cặp.
+diff theo dòng dễ đọc. Trọn bộ 4.533 cặp nằm trong 24 file (`0001`–`0024`).
 
 Khoá tra là cặp `(w, d)` đã lowercase và gộp khoảng trắng.
+
+Về chính tả: đặt dấu thanh **kiểu cũ** — `hòa`, `thủy`, `khỏe`, `hóa`, `tòa`,
+không phải `hoà`, `thuỷ`, `khoẻ`. Lô đầu viết kiểu cũ, các lô sau lỡ viết kiểu
+mới nên nhìn lệch hẳn khi đọc liền mạch; đã sửa lại toàn bộ cho thống nhất. Chỉ
+áp dụng cho âm tiết mở: `hoàn`, `chuyển` vốn giống nhau ở cả hai kiểu, và sau
+`qu` thì kiểu cũ vẫn là `quý`, `quỹ`, `quỵ`. Toàn bộ dữ liệu ở dạng Unicode NFC.
 
 ### 3. `scripts/build_vocab.js`
 
@@ -131,8 +137,8 @@ Một lệnh, chạy lại được nhiều lần, cùng phong cách với
 1. Đọc 365 file HTML, trích `(word, type, definition)` theo thứ tự xuất hiện
 2. Tải CMUdict vào thư mục cache đã gitignore, dựng bảng ARPAbet → IPA kèm dấu
    trọng âm (`1` → `ˈ`, `2` → `ˌ`); cụm từ ghép IPA từng chữ
-3. Với các từ CMUdict không có, thử Wiktionary (chỉ khoảng 160 lượt, không chạm
-   giới hạn); vẫn thiếu thì để `ipa` rỗng
+3. Tra `scripts/data/vocab-ipa-overrides.json` **trước** CMUdict, cho những mục
+   CMUdict không giải được hoặc giải sai; vẫn thiếu thì để `ipa` rỗng
 4. Ghép bản dịch từ `scripts/data/vocab-vi/`
 5. Ghi `public/vocab/englishpod_XXXX.json`
 6. **In ra danh sách cặp chưa có bản dịch**, để soạn tiếp theo lô
@@ -140,7 +146,14 @@ Một lệnh, chạy lại được nhiều lần, cùng phong cách với
 Bước 6 là điểm mấu chốt: cho phép vừa soạn vừa dựng, không phải soạn xong hết
 mới biết còn thiếu gì.
 
-Cờ `--episodes=1-50` giới hạn phạm vi cho đợt này.
+File override thay cho ý ban đầu là gọi Wiktionary: 152 mục cần bù đều là tiếng
+lóng, từ mượn, tên riêng hoặc **lỗi chính tả trong dữ liệu gốc**
+(`naseous`, `availablity`, `bizzard`) — Wiktionary cũng chịu, mà soạn tay thì
+xong hẳn và không phải gọi mạng lúc dựng. Riêng chữ viết tắt đọc từng ký tự
+(`ER`, `BP`, `DUI`, `SUV`) phải có override vì CMUdict giải chúng thành từ:
+`er` ra `/ɚ/`, tiếng ngập ngừng, chẳng liên quan gì tới phòng cấp cứu.
+
+Cờ `--episodes=1-50` giới hạn phạm vi khi cần dựng lại một khoảng.
 
 ### 4. `scripts/verify_vocab.js`
 
@@ -148,7 +161,9 @@ Cờ `--episodes=1-50` giới hạn phạm vi cho đợt này.
 - Bản dịch phải phủ 100% phạm vi; thiếu thì thoát mã 1 và liệt kê đích danh
 - Báo tỉ lệ phủ IPA và liệt kê các mục thiếu IPA
 - Bắt trùng khoá `(w, d)` giữa các file lô
-- Bắt chuỗi rỗng và khoảng trắng thừa
+- Bắt chuỗi rỗng và khoảng trắng thừa ở `w`, `vi`, `vd`. Riêng `d` được phép
+  rỗng: bài 194 có hai mục (`Fortune Cookie`, `Chow Mein`) mà thẻ definition
+  trong HTML gốc để trống, khoá phải khớp đúng như vậy
 
 Không gộp mục thiếu vào một con số tổng rồi bỏ qua.
 
@@ -162,7 +177,8 @@ không phình.
 **`src/components/Transcript.jsx`** — thêm một lời gọi SWR
 `./vocab/${transcript_id}.json`, cùng điều kiện `isVisible` như transcript. File
 thiếu thì bỏ qua im lặng: transcript vẫn hiển thị bình thường, chỉ không có IPA
-và bản dịch. Đây là trạng thái đúng cho 315 bài chưa làm.
+và bản dịch. Bốn bài không có mục từ vựng nào nên cũng không có file — bỏ qua im
+lặng là đúng cho chúng, và cho cả trường hợp về sau thêm transcript mới.
 
 Tiện thể sửa một lỗi cấu trúc sẵn có: hiện có hai `useEffect` cùng deps
 `[content, loading]`, effect thứ hai phải `setTimeout(150ms)` để chờ effect thứ
@@ -186,14 +202,22 @@ Xoá `TRANSLATION_FEATURE.md` và `PRONUNCIATION_APIS.md`. Chúng mô tả kiế
 
 ## Kiểm chứng
 
-1. `node scripts/verify_vocab.js --episodes=1-50` — 653/653 cặp có bản dịch, báo
-   số thật về phủ IPA
-2. Chạy app trong Chrome bằng Playwright: mở bài 1, bấm Show, khẳng định
-   `.pronunciation` và `.translation` xuất hiện đúng nội dung; mở một bài ngoài
-   phạm vi (ví dụ bài 200) và khẳng định transcript vẫn hiển thị bình thường
-   không lỗi
+`node scripts/verify_vocab.js` trên toàn bộ 365 bài, kết quả thực tế:
+
+| Chỉ số | Kết quả |
+| --- | --- |
+| Mục từ vựng trong phạm vi | 4.619 |
+| Mục có bản dịch | 4.619 (100%) |
+| Mục có IPA | 4.619 (100%) |
+| File bài được ghi | 361 (4 bài không có mục từ vựng nào) |
+| Dòng trong `scripts/data/vocab-vi/` | 4.533 |
+| Sai lệch giữa transcript và file sinh ra | 0 |
 
 Ghi lại số liệu thật, không nói suông.
+
+Chưa chạy kiểm chứng trong trình duyệt: người dùng bỏ bước đó. Phần runtime
+(`decorateVocab` + lời gọi SWR trong `Transcript.jsx`) mới chỉ được đọc lại chứ
+chưa xác nhận bằng mắt trên trang thật.
 
 ## Ngoài phạm vi (YAGNI)
 
@@ -202,13 +226,17 @@ Ghi lại số liệu thật, không nói suông.
 - Nút bật/tắt bản dịch, lưu vào localStorage
 - Đa ngôn ngữ
 - Fetch API lúc runtime dưới mọi hình thức
-- 315 bài còn lại — làm sau khi duyệt chất lượng đợt này
 
 ## Rủi ro đã biết
 
 Bản dịch do Claude soạn, không có người bản ngữ rà lại. Với từ chuyên ngành hoặc
-thành ngữ hiếm có thể lệch sắc thái. Đó chính là lý do đợt này giới hạn 50 bài:
-để đánh giá chất lượng thật trước khi cam kết 3.880 cặp còn lại.
+thành ngữ hiếm có thể lệch sắc thái. Ban đầu định làm 50 bài rồi duyệt chất
+lượng trước, nhưng người dùng chọn làm hết luôn, nên cả 4.533 cặp đều chưa qua
+vòng duyệt đó. Sửa một mục là sửa một dòng trong `scripts/data/vocab-vi/` rồi
+chạy lại `build_vocab.js`, không phải dựng lại từ đầu.
+
+IPA cũng vậy: 152 mục là do người soạn tay trong
+`scripts/data/vocab-ipa-overrides.json`, phần còn lại máy sinh từ CMUdict.
 
 Muốn dịch lại về sau thì phải nhờ Claude lần nữa — không có script tự chạy được.
 Đổi lại, dữ liệu là tĩnh và commit trong repo, nên app lúc chạy không phụ thuộc

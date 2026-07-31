@@ -1,0 +1,74 @@
+[
+  {
+    "word": "what's up",
+    "ipa": "wʌts ʌp",
+    "vi": "có chuyện gì thế",
+    "viDef": "chuyện gì đang xảy ra"
+  },
+  {
+    "word": "reschedule",
+    "ipa": "ɹiˈskɛdʒul",
+    "vi": "hẹn lại",
+    "viDef": "xếp lại sang giờ khác"
+  },
+  {
+    "word": "inconvenience",
+    "ipa": "ˌɪnkənˈvinjəns",
+    "vi": "gây bất tiện",
+    "viDef": "làm ai phải phiền, phải khó"
+  },
+  {
+    "word": "come up",
+    "ipa": "kʌm ʌp",
+    "vi": "phát sinh",
+    "viDef": "xảy ra bất ngờ"
+  },
+  {
+    "word": "make it",
+    "ipa": "meɪk ɪt",
+    "vi": "đến được",
+    "viDef": "có mặt, tới được"
+  },
+  {
+    "word": "postpone",
+    "ipa": "poʊstˈpoʊn",
+    "vi": "hoãn lại",
+    "viDef": "quyết định làm vào lúc khác muộn hơn"
+  },
+  {
+    "word": "no wonder",
+    "ipa": "noʊ ˈwʌndɚ",
+    "vi": "chẳng lạ gì",
+    "viDef": "thế thì không có gì đáng ngạc nhiên"
+  },
+  {
+    "word": "scheduling conflict",
+    "ipa": "ˈskɛdʒʊlɪŋ ˈkɑnflɪkt",
+    "vi": "trùng lịch",
+    "viDef": "hai cuộc hẹn trở lên đặt cùng giờ"
+  },
+  {
+    "word": "call off",
+    "ipa": "kɔl ɔf",
+    "vi": "hủy",
+    "viDef": "bỏ, không làm nữa"
+  },
+  {
+    "word": "double-book",
+    "ipa": "ˈdʌbəl bʊk",
+    "vi": "đặt trùng hai hẹn",
+    "viDef": "cùng lúc có hai cuộc hẹn"
+  },
+  {
+    "word": "push back",
+    "ipa": "pʊʃ bæk",
+    "vi": "đẩy lùi lại",
+    "viDef": "chuyển cuộc hẹn sang giờ muộn hơn"
+  },
+  {
+    "word": "rain check",
+    "ipa": "ɹeɪn tʃɛk",
+    "vi": "hẹn dịp khác",
+    "viDef": "hứa để lần sau vì bây giờ chưa được"
+  }
+]
