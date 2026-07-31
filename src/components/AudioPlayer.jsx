@@ -11,7 +11,10 @@ import {
   FastForward,
   Rewind,
   Loader2,
+  AlertTriangle,
+  RotateCw,
 } from 'lucide-react'
+import { getAudioSources } from '../lib/audioSources'
 
 const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
   const audioRef = useRef(null)
@@ -28,21 +31,85 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
   const [isLooping, setIsLooping] = useState(false)
   const [playbackRate, setPlaybackRate] = useState(1)
 
-  // Initial load effects
-  useEffect(() => {
-    if (audioRef.current) {
-      audioRef.current.volume = volume
-      audioRef.current.playbackRate = playbackRate
+  // Source failover: no single host is reliable, so we walk an ordered list and
+  // move to the next one whenever the current URL errors out.
+  const sources = getAudioSources(episode)
+  const [sourceIndex, setSourceIndex] = useState(0)
+  const [loadFailed, setLoadFailed] = useState(false)
+  const [reloadNonce, setReloadNonce] = useState(0)
+  const [renderedEpisodeId, setRenderedEpisodeId] = useState(episode.id)
+  // Where to pick playback back up after swapping sources mid-listen.
+  const resumeRef = useRef({ time: 0, wasPlaying: false })
 
-      // Try autoplay if enabled (though usually blocked by browsers on first load, works on navigation)
-      const playPromise = audioRef.current.play()
-      if (playPromise !== undefined) {
-        playPromise
-          .then(() => setIsPlaying(true))
-          .catch(() => setIsPlaying(false))
-      }
+  // Reset the chain when the episode changes. Done during render rather than in
+  // an effect so <audio> never briefly points at the previous episode's
+  // fallback URL and kicks off a wasted request.
+  if (renderedEpisodeId !== episode.id) {
+    setRenderedEpisodeId(episode.id)
+    setSourceIndex(0)
+    setLoadFailed(false)
+    setProgress(0)
+    setCurrentTime(0)
+    setDuration(0)
+    resumeRef.current = { time: 0, wasPlaying: false }
+  }
+
+  const currentSrc = sources[sourceIndex]
+
+  // (Re)load whenever the active URL changes — new episode, failover, or retry.
+  useEffect(() => {
+    const audio = audioRef.current
+    if (!audio || !currentSrc) return
+
+    audio.volume = isMuted ? 0 : volume
+    audio.playbackRate = playbackRate
+    audio.load()
+
+    const { time, wasPlaying } = resumeRef.current
+    // On a fresh episode we always attempt autoplay (usually blocked on the
+    // very first load, allowed after navigation). On a failover we only resume
+    // if the listener was actually playing when the source died.
+    const shouldPlay = sourceIndex === 0 || wasPlaying
+
+    const onLoadedMetadata = () => {
+      if (time > 0) audio.currentTime = time
+      if (!shouldPlay) return
+      audio
+        .play()
+        .then(() => setIsPlaying(true))
+        .catch(() => setIsPlaying(false))
     }
-  }, [episode.id])
+
+    audio.addEventListener('loadedmetadata', onLoadedMetadata, { once: true })
+    return () =>
+      audio.removeEventListener('loadedmetadata', onLoadedMetadata)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [currentSrc, reloadNonce])
+
+  const handleError = () => {
+    // Read the position from state, not from the element: a failed load has
+    // already reset audio.currentTime to 0 by the time this fires.
+    resumeRef.current = { time: currentTime, wasPlaying: isPlaying }
+
+    if (sourceIndex < sources.length - 1) {
+      setSourceIndex(sourceIndex + 1)
+      return
+    }
+
+    // Out of sources. Stop the spinner — without this it spins forever, which
+    // is exactly what users saw when archive.org was unreachable.
+    setIsBuffering(false)
+    setIsPlaying(false)
+    setLoadFailed(true)
+  }
+
+  const handleRetry = () => {
+    resumeRef.current = { time: currentTime, wasPlaying: true }
+    setLoadFailed(false)
+    setSourceIndex(0)
+    // Forces the load effect to re-run even when sourceIndex is already 0.
+    setReloadNonce((n) => n + 1)
+  }
 
   // Volume & Mute effect
   useEffect(() => {
@@ -111,13 +178,30 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
     <div className='flex flex-col gap-4'>
       <audio
         ref={audioRef}
-        src={episode.mp3}
+        src={currentSrc}
         onTimeUpdate={handleTimeUpdate}
         onEnded={handleEnded}
+        onError={handleError}
         onWaiting={() => setIsBuffering(true)}
         onCanPlay={() => setIsBuffering(false)}
         onLoadStart={() => setIsBuffering(true)}
       />
+
+      {loadFailed && (
+        <div className='flex items-center justify-between gap-3 rounded-lg border border-red-200 bg-red-50 px-3 py-2 dark:border-red-900/50 dark:bg-red-950/30'>
+          <div className='flex items-center gap-2 text-sm text-red-700 dark:text-red-300'>
+            <AlertTriangle size={16} className='shrink-0' />
+            <span>Couldn&apos;t load this episode from any source.</span>
+          </div>
+          <button
+            onClick={handleRetry}
+            className='flex shrink-0 items-center gap-1.5 rounded-md bg-red-600 px-3 py-1 text-xs font-semibold text-white transition-colors hover:bg-red-500'
+          >
+            <RotateCw size={14} />
+            Retry
+          </button>
+        </div>
+      )}
 
       {/* Progress Bar */}
       <div

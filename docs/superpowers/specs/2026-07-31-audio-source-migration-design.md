@@ -65,12 +65,15 @@ Ví dụ: `englishpod_B0001pr.mp3`, `englishpod_C0019pb.mp3`,
 
 Không có quy luật suy từ số episode ⇒ bắt buộc sinh bảng ánh xạ từ Git Tree API.
 
-### Giả định cần xác nhận bằng tai
+### 15 bài thiếu `pb` — đã xác nhận
 
-15 episode thiếu `pb` được thay bằng `pr`. Suy đoán `pr` là bản bài học đầy đủ
-của loạt sớm: các bài đó chỉ có đúng `pr` + `rv`, và `pr` nặng 7–15 MB (hợp lý
-cho bài full, so với `dg` chỉ ~0.4–1 MB). Chưa kiểm chứng được bằng metadata —
-cần nghe thử 1 bài sau khi triển khai.
+15 episode thiếu `pb` được thay bằng `pr`. Suy đoán ban đầu: `pr` là bản bài học
+đầy đủ của loạt sớm, vì các bài đó chỉ có đúng `pr` + `rv` và `pr` nặng 7–15 MB
+(so với `dg` chỉ ~0.4–1 MB).
+
+Đã xác nhận sau khi triển khai: ep 1 load trong browser cho
+`duration = 444.6s` (7 phút 25) — đúng độ dài một bài học đầy đủ, không phải
+đoạn dialogue ngắn.
 
 ## Quyết định
 
@@ -178,8 +181,28 @@ Tiêu chí hoàn thành: 365/365 trả 200 trên jsDelivr (nguồn chính). Nế
 lỗi, phải liệt kê đích danh và nêu rõ bài đó rơi về nguồn nào — không được gộp
 vào một con số tổng rồi bỏ qua.
 
-Ngoài ra kiểm bằng tay: chạy `npm run dev`, phát thử 1 bài `pb` và 1 bài `pr`
-(ví dụ ep 100 và ep 1), xác nhận tua được và ep 1 đúng là bài học đầy đủ.
+Ngoài ra chạy app thật trong Chrome (Playwright) và chặn từng host để ép đi hết
+chuỗi fallback, kiểm cả banner lỗi lẫn nút Thử lại.
+
+### Kết quả thực tế (2026-07-31)
+
+`node scripts/verify_audio_sources.js` — 730 URL trên 365 episode:
+
+| Host | ok | range 206 | `audio/*` |
+| --- | --- | --- | --- |
+| `cdn.jsdelivr.net` | 365/365 | 365/365 | 365/365 |
+| `raw.githubusercontent.com` | 365/365 | 365/365 | 356/365 |
+
+9 file trả `application/octet-stream` thay vì `audio/mpeg` trên raw: ep 5, 6, 7,
+8, 9, 14, 16, 17, 24 — toàn bộ là file `pr`. Không chặn được phát: browser sniff
+byte cho media element chứ không tin header, và raw chỉ là nguồn dự phòng thứ
+hai trong khi jsDelivr (nguồn chính) trả `audio/mpeg` cho cả 365. Ghi nhận chứ
+không xử lý.
+
+Chạy app trong Chrome, 13/13 kiểm tra đạt: phát được qua jsDelivr; chặn jsDelivr
+thì rơi sang raw và vẫn decode được; chặn cả hai thì tới archive.org; chặn cả ba
+thì hiện banner lỗi + nút Thử lại và spinner dừng hẳn; bấm Thử lại thì phục hồi
+về jsDelivr; đổi episode thì chuỗi reset về nguồn đầu.
 
 ## Ngoài phạm vi (YAGNI)
 

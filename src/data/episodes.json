@@ -5,6 +5,8 @@
     "title": "Difficult Customer",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0001pb.mp3",
+    "audio_path": "0001-0010/0001/englishpod_B0001pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0001",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0001.html"
@@ -15,6 +17,8 @@
     "title": "Calling In Sick",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0002pb.mp3",
+    "audio_path": "0001-0010/0002/englishpod_B0002pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0002",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0002.html"
@@ -25,6 +29,8 @@
     "title": "Hotel Upgrade",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0003pb.mp3",
+    "audio_path": "0001-0010/0003/englishpod_B0003pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0003",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0003.html"
@@ -35,6 +41,8 @@
     "title": "I Need An Assistant!",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0004pb.mp3",
+    "audio_path": "0001-0010/0004/englishpod_B0004pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0004",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0004.html"
@@ -45,6 +53,8 @@
     "title": "Cut In Line",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0005pb.mp3",
+    "audio_path": "0001-0010/0005/englishpod_B0005pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0005",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0005.html"
@@ -55,6 +65,8 @@
     "title": "Road Trip",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0006pb.mp3",
+    "audio_path": "0001-0010/0006/englishpod_B0006pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0006",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0006.html"
@@ -65,6 +77,8 @@
     "title": "Virus!",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0007pb.mp3",
+    "audio_path": "0001-0010/0007/englishpod_B0007pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0007",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0007.html"
@@ -75,6 +89,8 @@
     "title": "What's Your Name Again?",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0008pb.mp3",
+    "audio_path": "0001-0010/0008/englishpod_B0008pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0008",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0008.html"
@@ -85,6 +101,8 @@
     "title": "Silence Please!",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0009pb.mp3",
+    "audio_path": "0001-0010/0009/englishpod_B0009pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0009",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0009.html"
@@ -95,6 +113,8 @@
     "title": "Driving Sales",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0010pb.mp3",
+    "audio_path": "0001-0010/0010/englishpod_C0010pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0010",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0010.html"
@@ -105,6 +125,8 @@
     "title": "New Guy In Town I",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0011pb.mp3",
+    "audio_path": "0011-0020/0011/englishpod_C0011pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0011",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0011.html"
@@ -115,6 +137,8 @@
     "title": "Cleaning the House",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0012pb.mp3",
+    "audio_path": "0011-0020/0012/englishpod_C0012pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0012",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0012.html"
@@ -125,6 +149,8 @@
     "title": "Out Of Control Spending",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0013pb.mp3",
+    "audio_path": "0011-0020/0013/englishpod_C0013pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0013",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0013.html"
@@ -135,6 +161,8 @@
     "title": "I'm in Debt",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0014pb.mp3",
+    "audio_path": "0011-0020/0014/englishpod_B0014pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0014",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0014.html"
@@ -145,6 +173,8 @@
     "title": "I'm Sorry I Love You I",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0015pb.mp3",
+    "audio_path": "0011-0020/0015/englishpod_C0015pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0015",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0015.html"
@@ -155,6 +185,8 @@
     "title": "Turn left here!",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0016pb.mp3",
+    "audio_path": "0011-0020/0016/englishpod_B0016pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0016",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0016.html"
@@ -165,6 +197,8 @@
     "title": "Here Comes the Bride",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0017pb.mp3",
+    "audio_path": "0011-0020/0017/englishpod_B0017pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0017",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0017.html"
@@ -175,6 +209,8 @@
     "title": "Protest!",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0018pb.mp3",
+    "audio_path": "0011-0020/0018/englishpod_D0018pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0018",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0018.html"
@@ -185,6 +221,8 @@
     "title": "Christmas Chronicles I",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0019pb.mp3",
+    "audio_path": "0011-0020/0019/englishpod_C0019pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0019",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0019.html"
@@ -195,6 +233,8 @@
     "title": "I Can See Clearly Now",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0020pb.mp3",
+    "audio_path": "0011-0020/0020/englishpod_B0020pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0020",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0020.html"
@@ -205,6 +245,8 @@
     "title": "What Do You Do?",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0021pb.mp3",
+    "audio_path": "0021-0030/0021/englishpod_C0021pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0021",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0021.html"
@@ -215,6 +257,8 @@
     "title": "Christmas Chronicles II",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0022pb.mp3",
+    "audio_path": "0021-0030/0022/englishpod_C0022pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0022",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0022.html"
@@ -225,6 +269,8 @@
     "title": "Making an Appointment",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0023pb.mp3",
+    "audio_path": "0021-0030/0023/englishpod_B0023pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0023",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0023.html"
@@ -235,6 +281,8 @@
     "title": "Where Should We Eat?",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0024pb.mp3",
+    "audio_path": "0021-0030/0024/englishpod_B0024pr.mp3",
+    "audio_kind": "pr",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0024",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0024.html"
@@ -245,6 +293,8 @@
     "title": "Planning For The Worst",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0025pb.mp3",
+    "audio_path": "0021-0030/0025/englishpod_D0025pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0025",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0025.html"
@@ -255,6 +305,8 @@
     "title": "New Year Resolution",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0026pb.mp3",
+    "audio_path": "0021-0030/0026/englishpod_B0026pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0026",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0026.html"
@@ -265,6 +317,8 @@
     "title": "Asking for Time Off",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0027pb.mp3",
+    "audio_path": "0021-0030/0027/englishpod_B0027pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0027",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0027.html"
@@ -275,6 +329,8 @@
     "title": "I'm Sorry I Love You II",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0028pb.mp3",
+    "audio_path": "0021-0030/0028/englishpod_C0028pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0028",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0028.html"
@@ -285,6 +341,8 @@
     "title": "Investing in Emerging Markets",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0029pb.mp3",
+    "audio_path": "0021-0030/0029/englishpod_E0029pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0029",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0029.html"
@@ -295,6 +353,8 @@
     "title": "New Guy In Town II",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0030pb.mp3",
+    "audio_path": "0021-0030/0030/englishpod_C0030pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0030",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0030.html"
@@ -305,6 +365,8 @@
     "title": "Canceling an Appointment",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0031pb.mp3",
+    "audio_path": "0031-0040/0031/englishpod_B0031pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0031",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0031.html"
@@ -315,6 +377,8 @@
     "title": "Opening a Bank Account",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0032pb.mp3",
+    "audio_path": "0031-0040/0032/englishpod_C0032pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0032",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0032.html"
@@ -325,6 +389,8 @@
     "title": "Foul!",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0033pb.mp3",
+    "audio_path": "0031-0040/0033/englishpod_B0033pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0033",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0033.html"
@@ -335,6 +401,8 @@
     "title": "Live from Washington",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0034pb.mp3",
+    "audio_path": "0031-0040/0034/englishpod_D0034pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0034",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0034.html"
@@ -345,6 +413,8 @@
     "title": "He's not a Good Fit",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0035pb.mp3",
+    "audio_path": "0031-0040/0035/englishpod_C0035pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0035",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0035.html"
@@ -355,6 +425,8 @@
     "title": "I`m Sorry I Love You III",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0036pb.mp3",
+    "audio_path": "0031-0040/0036/englishpod_B0036pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0036",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0036.html"
@@ -365,6 +437,8 @@
     "title": "Chinese New Year",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0037pb.mp3",
+    "audio_path": "0031-0040/0037/englishpod_C0037pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0037",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0037.html"
@@ -375,6 +449,8 @@
     "title": "Buying a Car",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0038pb.mp3",
+    "audio_path": "0031-0040/0038/englishpod_C0038pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0038",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0038.html"
@@ -385,6 +461,8 @@
     "title": "My New Boyfriend",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0039pb.mp3",
+    "audio_path": "0031-0040/0039/englishpod_B0039pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0039",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0039.html"
@@ -395,6 +473,8 @@
     "title": "Can I ask you a favor?",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0040pb.mp3",
+    "audio_path": "0031-0040/0040/englishpod_B0040pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0040",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0040.html"
@@ -405,6 +485,8 @@
     "title": "Movie Trailer",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0041pb.mp3",
+    "audio_path": "0041-0050/0041/englishpod_C0041pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0041",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0041.html"
@@ -415,6 +497,8 @@
     "title": "I Need More Time",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0042pb.mp3",
+    "audio_path": "0041-0050/0042/englishpod_B0042pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0042",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0042.html"
@@ -425,6 +509,8 @@
     "title": "Applying for a Visa",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0043pb.mp3",
+    "audio_path": "0041-0050/0043/englishpod_C0043pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0043",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0043.html"
@@ -435,6 +521,8 @@
     "title": "Small Talk",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0044pb.mp3",
+    "audio_path": "0041-0050/0044/englishpod_B0044pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0044",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0044.html"
@@ -445,6 +533,8 @@
     "title": "I'm Sorry I Love You IV",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0045pb.mp3",
+    "audio_path": "0041-0050/0045/englishpod_C0045pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0045",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0045.html"
@@ -455,6 +545,8 @@
     "title": "Emergency Room",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0046pb.mp3",
+    "audio_path": "0041-0050/0046/englishpod_D0046pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0046",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0046.html"
@@ -465,6 +557,8 @@
     "title": "Just In Time Strategy",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0047pb.mp3",
+    "audio_path": "0041-0050/0047/englishpod_E0047pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0047",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0047.html"
@@ -475,6 +569,8 @@
     "title": "Carnival in Rio!",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0048pb.mp3",
+    "audio_path": "0041-0050/0048/englishpod_C0048pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0048",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0048.html"
@@ -485,6 +581,8 @@
     "title": "Daddy Please!",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0049pb.mp3",
+    "audio_path": "0041-0050/0049/englishpod_C0049pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0049",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0049.html"
@@ -495,6 +593,8 @@
     "title": "New Guy In Town III",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0050pb.mp3",
+    "audio_path": "0041-0050/0050/englishpod_C0050pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0050",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0050.html"
@@ -505,6 +605,8 @@
     "title": "What a Bargain!",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0051pb.mp3",
+    "audio_path": "0051-0060/0051/englishpod_C0051pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0051",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0051.html"
@@ -515,6 +617,8 @@
     "title": "Pizza Delivary",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0052pb.mp3",
+    "audio_path": "0051-0060/0052/englishpod_C0052pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0052",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0052.html"
@@ -525,6 +629,8 @@
     "title": "Head Chef",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0053pb.mp3",
+    "audio_path": "0051-0060/0053/englishpod_C0053pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0053",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0053.html"
@@ -535,6 +641,8 @@
     "title": "I'm Sorry I Love You V",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0054pb.mp3",
+    "audio_path": "0051-0060/0054/englishpod_C0054pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0054",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0054.html"
@@ -545,6 +653,8 @@
     "title": "Hockey",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0055pb.mp3",
+    "audio_path": "0051-0060/0055/englishpod_C0055pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0055",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0055.html"
@@ -555,6 +665,8 @@
     "title": "Planning a Bank Robbery",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0056pb.mp3",
+    "audio_path": "0051-0060/0056/englishpod_C0056pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0056",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0056.html"
@@ -565,6 +677,8 @@
     "title": "Malfunction",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0057pb.mp3",
+    "audio_path": "0051-0060/0057/englishpod_C0057pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0057",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0057.html"
@@ -575,6 +689,8 @@
     "title": "This Is Your Captain Speaking",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0058pb.mp3",
+    "audio_path": "0051-0060/0058/englishpod_C0058pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0058",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0058.html"
@@ -585,6 +701,8 @@
     "title": "Job Interview I",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0059pb.mp3",
+    "audio_path": "0051-0060/0059/englishpod_E0059pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0059",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0059.html"
@@ -595,6 +713,8 @@
     "title": "New Guy in Town IV",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0060pb.mp3",
+    "audio_path": "0051-0060/0060/englishpod_C0060pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0060",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0060.html"
@@ -605,6 +725,8 @@
     "title": "Swim faster!",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0061pb.mp3",
+    "audio_path": "0061-0070/0061/englishpod_C0061pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0061",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0061.html"
@@ -615,6 +737,8 @@
     "title": "Job Interview II",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0062pb.mp3",
+    "audio_path": "0061-0070/0062/englishpod_C0062pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0062",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0062.html"
@@ -625,6 +749,8 @@
     "title": "Receptionist",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0063pb.mp3",
+    "audio_path": "0061-0070/0063/englishpod_C0063pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0063",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0063.html"
@@ -635,6 +761,8 @@
     "title": "I'm Sorry I Love You VI",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0064pb.mp3",
+    "audio_path": "0061-0070/0064/englishpod_C0064pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0064",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0064.html"
@@ -645,6 +773,8 @@
     "title": "Job Interview III",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0065pb.mp3",
+    "audio_path": "0061-0070/0065/englishpod_C0065pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0065",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0065.html"
@@ -655,6 +785,8 @@
     "title": "Calling The Office",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0066pb.mp3",
+    "audio_path": "0061-0070/0066/englishpod_B0066pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0066",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0066.html"
@@ -665,6 +797,8 @@
     "title": "Soccer",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0067pb.mp3",
+    "audio_path": "0061-0070/0067/englishpod_C0067pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0067",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0067.html"
@@ -675,6 +809,8 @@
     "title": "Groundbreaking Research",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0068pb.mp3",
+    "audio_path": "0061-0070/0068/englishpod_D0068pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0068",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0068.html"
@@ -685,6 +821,8 @@
     "title": "How Would You Like Your Eggs?",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0069pb.mp3",
+    "audio_path": "0061-0070/0069/englishpod_C0069pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0069",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0069.html"
@@ -695,6 +833,8 @@
     "title": "Buying Underwear",
     "level": "Advanced Media",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0070pb.mp3",
+    "audio_path": "0061-0070/0070/englishpod_F0070pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0070",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0070.html"
@@ -705,6 +845,8 @@
     "title": "Happy Hour",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0071pb.mp3",
+    "audio_path": "0071-0080/0071/englishpod_C0071pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0071",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0071.html"
@@ -715,6 +857,8 @@
     "title": "You Are Fired!",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0072pb.mp3",
+    "audio_path": "0071-0080/0072/englishpod_C0072pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0072",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0072.html"
@@ -725,6 +869,8 @@
     "title": "Which Finger?",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0073pb.mp3",
+    "audio_path": "0071-0080/0073/englishpod_B0073pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0073",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0073.html"
@@ -735,6 +881,8 @@
     "title": "What Am I Thinking!",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0074pb.mp3",
+    "audio_path": "0071-0080/0074/englishpod_D0074pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0074",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0074.html"
@@ -745,6 +893,8 @@
     "title": "Going To The Dentist",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0075pb.mp3",
+    "audio_path": "0071-0080/0075/englishpod_C0075pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0075",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0075.html"
@@ -755,6 +905,8 @@
     "title": "Learning Simple Math",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0076pb.mp3",
+    "audio_path": "0071-0080/0076/englishpod_B0076pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0076",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0076.html"
@@ -765,6 +917,8 @@
     "title": "F1 Racing",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0077pb.mp3",
+    "audio_path": "0071-0080/0077/englishpod_C0077pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0077",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0077.html"
@@ -775,6 +929,8 @@
     "title": "International Workers Day",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0078pb.mp3",
+    "audio_path": "0071-0080/0078/englishpod_E0078pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0078",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0078.html"
@@ -785,6 +941,8 @@
     "title": "Funky Galaxy Battles",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0079pb.mp3",
+    "audio_path": "0071-0080/0079/englishpod_B0079pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0079",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0079.html"
@@ -795,6 +953,8 @@
     "title": "I'm Sorry I Love You VII",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0080pb.mp3",
+    "audio_path": "0071-0080/0080/englishpod_D0080pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0080",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0080.html"
@@ -805,6 +965,8 @@
     "title": "Getting A Hair Cut",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0081pb.mp3",
+    "audio_path": "0081-0090/0081/englishpod_B0081pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0081",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0081.html"
@@ -815,6 +977,8 @@
     "title": "New Guy In Town V",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0082pb.mp3",
+    "audio_path": "0081-0090/0082/englishpod_C0082pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0082",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0082.html"
@@ -825,6 +989,8 @@
     "title": "Using The ATM",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0083pb.mp3",
+    "audio_path": "0081-0090/0083/englishpod_C0083pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0083",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0083.html"
@@ -835,6 +1001,8 @@
     "title": "At The Pharmacy",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0084pb.mp3",
+    "audio_path": "0081-0090/0084/englishpod_B0084pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0084",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0084.html"
@@ -845,6 +1013,8 @@
     "title": "Baseball",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0085pb.mp3",
+    "audio_path": "0081-0090/0085/englishpod_B0085pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0085",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0085.html"
@@ -855,6 +1025,8 @@
     "title": "Looking for an Apartment",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0086pb.mp3",
+    "audio_path": "0081-0090/0086/englishpod_C0086pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0086",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0086.html"
@@ -865,6 +1037,8 @@
     "title": "Star Trek The Lost Generation",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0087pb.mp3",
+    "audio_path": "0081-0090/0087/englishpod_B0087pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0087",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0087.html"
@@ -875,6 +1049,8 @@
     "title": "Will You Be My Girlfriend?",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0088pb.mp3",
+    "audio_path": "0081-0090/0088/englishpod_B0088pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0088",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0088.html"
@@ -885,6 +1061,8 @@
     "title": "At The Airport",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0089pb.mp3",
+    "audio_path": "0081-0090/0089/englishpod_C0089pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0089",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0089.html"
@@ -895,6 +1073,8 @@
     "title": "I'm Sorry I Love You VIII",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0090pb.mp3",
+    "audio_path": "0081-0090/0090/englishpod_D0090pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0090",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0090.html"
@@ -905,6 +1085,8 @@
     "title": "Aliens!",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0091pb.mp3",
+    "audio_path": "0091-0100/0091/englishpod_D0091pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0091",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0091.html"
@@ -915,6 +1097,8 @@
     "title": "1950's English",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0092pb.mp3",
+    "audio_path": "0091-0100/0092/englishpod_B0092pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0092",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0092.html"
@@ -925,6 +1109,8 @@
     "title": "Volleyball",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0093pb.mp3",
+    "audio_path": "0091-0100/0093/englishpod_D0093pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0093",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0093.html"
@@ -935,6 +1121,8 @@
     "title": "Big Bang Theory",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0094pb.mp3",
+    "audio_path": "0091-0100/0094/englishpod_E0094pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0094",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0094.html"
@@ -945,6 +1133,8 @@
     "title": "Talking About a Past Event",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0095pb.mp3",
+    "audio_path": "0091-0100/0095/englishpod_C0095pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0095",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0095.html"
@@ -955,6 +1145,8 @@
     "title": "1960's English",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0096pb.mp3",
+    "audio_path": "0091-0100/0096/englishpod_C0096pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0096",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0096.html"
@@ -965,6 +1157,8 @@
     "title": "Weather Forecast",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0097pb.mp3",
+    "audio_path": "0091-0100/0097/englishpod_D0097pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0097",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0097.html"
@@ -975,6 +1169,8 @@
     "title": "Flattering",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0098pb.mp3",
+    "audio_path": "0091-0100/0098/englishpod_C0098pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0098",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0098.html"
@@ -985,6 +1181,8 @@
     "title": "Movie Review",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0099pb.mp3",
+    "audio_path": "0091-0100/0099/englishpod_E0099pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0099",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0099.html"
@@ -995,6 +1193,8 @@
     "title": "Where are you from?",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0100pb.mp3",
+    "audio_path": "0091-0100/0100/englishpod_C0100pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0100",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0100.html"
@@ -1005,6 +1205,8 @@
     "title": "1970's English",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0101pb.mp3",
+    "audio_path": "0101-0110/0101/englishpod_B0101pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0101",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0101.html"
@@ -1015,6 +1217,8 @@
     "title": "Global Warming",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0102pb.mp3",
+    "audio_path": "0101-0110/0102/englishpod_E0102pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0102",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0102.html"
@@ -1025,6 +1229,8 @@
     "title": "\"Baby, I'm Sorry\"",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0103pb.mp3",
+    "audio_path": "0101-0110/0103/englishpod_B0103pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0103",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0103.html"
@@ -1035,6 +1241,8 @@
     "title": "Skiing",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0104pb.mp3",
+    "audio_path": "0101-0110/0104/englishpod_E0104pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0104",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0104.html"
@@ -1045,6 +1253,8 @@
     "title": "Job Well Done",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0105pb.mp3",
+    "audio_path": "0101-0110/0105/englishpod_C0105pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0105",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0105.html"
@@ -1055,6 +1265,8 @@
     "title": "Mobile Phone Plan",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0106pb.mp3",
+    "audio_path": "0101-0110/0106/englishpod_C0106pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0106",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0106.html"
@@ -1065,6 +1277,8 @@
     "title": "Complaining at a Restaurant",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0107pb.mp3",
+    "audio_path": "0101-0110/0107/englishpod_D0107pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0107",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0107.html"
@@ -1075,6 +1289,8 @@
     "title": "\"Bad News, Boss.\"",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0108pb.mp3",
+    "audio_path": "0101-0110/0108/englishpod_D0108pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0108",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0108.html"
@@ -1085,6 +1301,8 @@
     "title": "Breaking Up",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0109pb.mp3",
+    "audio_path": "0101-0110/0109/englishpod_C0109pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0109",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0109.html"
@@ -1095,6 +1313,8 @@
     "title": "Registering for University",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0110pb.mp3",
+    "audio_path": "0101-0110/0110/englishpod_B0110pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0110",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0110.html"
@@ -1105,6 +1325,8 @@
     "title": "Golf",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0111pb.mp3",
+    "audio_path": "0111-0120/0111/englishpod_B0111pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0111",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0111.html"
@@ -1115,6 +1337,8 @@
     "title": "Dr. Plumber",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0112pb.mp3",
+    "audio_path": "0111-0120/0112/englishpod_C0112pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0112",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0112.html"
@@ -1125,6 +1349,8 @@
     "title": "Sorry I'm Late",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0113pb.mp3",
+    "audio_path": "0111-0120/0113/englishpod_B0113pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0113",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0113.html"
@@ -1135,6 +1361,8 @@
     "title": "1980's English",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0114pb.mp3",
+    "audio_path": "0111-0120/0114/englishpod_C0114pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0114",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0114.html"
@@ -1145,6 +1373,8 @@
     "title": "I Don't Feel So Good",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0115pb.mp3",
+    "audio_path": "0111-0120/0115/englishpod_B0115pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0115",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0115.html"
@@ -1155,6 +1385,8 @@
     "title": "You Missed The Deadline!",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0116pb.mp3",
+    "audio_path": "0111-0120/0116/englishpod_E0116pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0116",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0116.html"
@@ -1165,6 +1397,8 @@
     "title": "I'm Sorry I Love You IX",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0117pb.mp3",
+    "audio_path": "0111-0120/0117/englishpod_D0117pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0117",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0117.html"
@@ -1175,6 +1409,8 @@
     "title": "Baby Talk",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0118pb.mp3",
+    "audio_path": "0111-0120/0118/englishpod_C0118pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0118",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0118.html"
@@ -1185,6 +1421,8 @@
     "title": "Being Scared",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0119pb.mp3",
+    "audio_path": "0111-0120/0119/englishpod_B0119pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0119",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0119.html"
@@ -1195,6 +1433,8 @@
     "title": "Boxing",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0120pb.mp3",
+    "audio_path": "0111-0120/0120/englishpod_D0120pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0120",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0120.html"
@@ -1205,6 +1445,8 @@
     "title": "Presidential Speech",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0121pb.mp3",
+    "audio_path": "0121-0130/0121/englishpod_E0121pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0121",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0121.html"
@@ -1215,6 +1457,8 @@
     "title": "Supermarket Cashier",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0122pb.mp3",
+    "audio_path": "0121-0130/0122/englishpod_B0122pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0122",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0122.html"
@@ -1225,6 +1469,8 @@
     "title": "1990's English",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0123pb.mp3",
+    "audio_path": "0121-0130/0123/englishpod_C0123pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0123",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0123.html"
@@ -1235,6 +1481,8 @@
     "title": "Tools",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0124pb.mp3",
+    "audio_path": "0121-0130/0124/englishpod_D0124pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0124",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0124.html"
@@ -1245,6 +1493,8 @@
     "title": "No Smoking!",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0125pb.mp3",
+    "audio_path": "0121-0130/0125/englishpod_B0125pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0125",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0125.html"
@@ -1255,6 +1505,8 @@
     "title": "That's Funny!",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0126pb.mp3",
+    "audio_path": "0121-0130/0126/englishpod_C0126pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0126",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0126.html"
@@ -1265,6 +1517,8 @@
     "title": "I Love That Song!",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0127pb.mp3",
+    "audio_path": "0121-0130/0127/englishpod_B0127pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0127",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0127.html"
@@ -1275,6 +1529,8 @@
     "title": "I'm Sorry I Love You X",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0128pb.mp3",
+    "audio_path": "0121-0130/0128/englishpod_D0128pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0128",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0128.html"
@@ -1285,6 +1541,8 @@
     "title": "Presidential Speech II",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0129pb.mp3",
+    "audio_path": "0121-0130/0129/englishpod_E0129pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0129",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0129.html"
@@ -1295,6 +1553,8 @@
     "title": "Going To The Gym",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0130pb.mp3",
+    "audio_path": "0121-0130/0130/englishpod_B0130pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0130",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0130.html"
@@ -1305,6 +1565,8 @@
     "title": "What if? Part 1",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0131pb.mp3",
+    "audio_path": "0131-0140/0131/englishpod_B0131pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0131",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0131.html"
@@ -1315,6 +1577,8 @@
     "title": "Mechanic",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0132pb.mp3",
+    "audio_path": "0131-0140/0132/englishpod_D0132pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0132",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0132.html"
@@ -1325,6 +1589,8 @@
     "title": "Doing Laundry",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0133pb.mp3",
+    "audio_path": "0131-0140/0133/englishpod_C0133pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0133",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0133.html"
@@ -1335,6 +1601,8 @@
     "title": "Buying a TV",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0134pb.mp3",
+    "audio_path": "0131-0140/0134/englishpod_B0134pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0134",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0134.html"
@@ -1345,6 +1613,8 @@
     "title": "Cheer Up",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0135pb.mp3",
+    "audio_path": "0131-0140/0135/englishpod_B0135pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0135",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0135.html"
@@ -1355,6 +1625,8 @@
     "title": "Gambling",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0136pb.mp3",
+    "audio_path": "0131-0140/0136/englishpod_E0136pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0136",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0136.html"
@@ -1365,6 +1637,8 @@
     "title": "Getting Internet Service",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0137pb.mp3",
+    "audio_path": "0131-0140/0137/englishpod_D0137pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0137",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0137.html"
@@ -1375,6 +1649,8 @@
     "title": "Renting A Car",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0138pb.mp3",
+    "audio_path": "0131-0140/0138/englishpod_B0138pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0138",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0138.html"
@@ -1385,6 +1661,8 @@
     "title": "Playing Chess",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0139pb.mp3",
+    "audio_path": "0131-0140/0139/englishpod_B0139pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0139",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0139.html"
@@ -1395,6 +1673,8 @@
     "title": "Buying a Computer",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0140pb.mp3",
+    "audio_path": "0131-0140/0140/englishpod_B0140pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0140",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0140.html"
@@ -1405,6 +1685,8 @@
     "title": "What If? Part 2",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0141pb.mp3",
+    "audio_path": "0141-0150/0141/englishpod_C0141pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0141",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0141.html"
@@ -1415,6 +1697,8 @@
     "title": "What Do I Wear?",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0142pb.mp3",
+    "audio_path": "0141-0150/0142/englishpod_B0142pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0142",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0142.html"
@@ -1425,6 +1709,8 @@
     "title": "The Butcher",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0143pb.mp3",
+    "audio_path": "0141-0150/0143/englishpod_C0143pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0143",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0143.html"
@@ -1435,6 +1721,8 @@
     "title": "Capital Punishment",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0144pb.mp3",
+    "audio_path": "0141-0150/0144/englishpod_E0144pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0144",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0144.html"
@@ -1445,6 +1733,8 @@
     "title": "Chicken Pox",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0145pb.mp3",
+    "audio_path": "0141-0150/0145/englishpod_B0145pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0145",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0145.html"
@@ -1455,6 +1745,8 @@
     "title": "Animal Rights",
     "level": "Upper-Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0146pb.mp3",
+    "audio_path": "0141-0150/0146/englishpod_D0146pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0146",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0146.html"
@@ -1465,6 +1757,8 @@
     "title": "The Argument",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0147pb.mp3",
+    "audio_path": "0141-0150/0147/englishpod_C0147pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0147",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0147.html"
@@ -1475,6 +1769,8 @@
     "title": "Paranoid",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0148pb.mp3",
+    "audio_path": "0141-0150/0148/englishpod_D0148pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0148",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0148.html"
@@ -1485,6 +1781,8 @@
     "title": "Moving",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0149pb.mp3",
+    "audio_path": "0141-0150/0149/englishpod_B0149pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0149",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0149.html"
@@ -1495,6 +1793,8 @@
     "title": "Bug Spray",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0150pb.mp3",
+    "audio_path": "0141-0150/0150/englishpod_B0150pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0150",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0150.html"
@@ -1505,6 +1805,8 @@
     "title": "Darwin's Theory Of Evolution",
     "level": "Advanced",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0151pb.mp3",
+    "audio_path": "0151-0160/0151/englishpod_E0151pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0151",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0151.html"
@@ -1515,6 +1817,8 @@
     "title": "Cut It Out",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0152pb.mp3",
+    "audio_path": "0151-0160/0152/englishpod_C0152pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0152",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0152.html"
@@ -1525,6 +1829,8 @@
     "title": "Homesick",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0153pb.mp3",
+    "audio_path": "0151-0160/0153/englishpod_D0153pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0153",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0153.html"
@@ -1535,6 +1841,8 @@
     "title": "Rock Band",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0154pb.mp3",
+    "audio_path": "0151-0160/0154/englishpod_B0154pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0154",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0154.html"
@@ -1545,6 +1853,8 @@
     "title": "Bachelor Party",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0155pb.mp3",
+    "audio_path": "0151-0160/0155/englishpod_C0155pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0155",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0155.html"
@@ -1555,6 +1865,8 @@
     "title": "Scary Story",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0156pb.mp3",
+    "audio_path": "0151-0160/0156/englishpod_F0156pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0156",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0156.html"
@@ -1565,6 +1877,8 @@
     "title": "Trick Or Treat",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0157pb.mp3",
+    "audio_path": "0151-0160/0157/englishpod_B0157pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0157",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0157.html"
@@ -1575,6 +1889,8 @@
     "title": "All Saints Day",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0158pb.mp3",
+    "audio_path": "0151-0160/0158/englishpod_C0158pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0158",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0158.html"
@@ -1585,6 +1901,8 @@
     "title": "Getting Flowers",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0159pb.mp3",
+    "audio_path": "0151-0160/0159/englishpod_C0159pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0159",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0159.html"
@@ -1595,6 +1913,8 @@
     "title": "Health Insurance",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0160pb.mp3",
+    "audio_path": "0151-0160/0160/englishpod_D0160pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0160",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0160.html"
@@ -1605,6 +1925,8 @@
     "title": "Computer Games",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0161pb.mp3",
+    "audio_path": "0161-0170/0161/englishpod_0161pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0161",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0161.html"
@@ -1615,6 +1937,8 @@
     "title": "Veteran's Day",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0162pb.mp3",
+    "audio_path": "0161-0170/0162/englishpod_0162pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0162",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0162.html"
@@ -1625,6 +1949,8 @@
     "title": "Social Security",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0163pb.mp3",
+    "audio_path": "0161-0170/0163/englishpod_0163pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0163",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0163.html"
@@ -1635,6 +1961,8 @@
     "title": "Apology Letter",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0164pb.mp3",
+    "audio_path": "0161-0170/0164/englishpod_0164pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0164",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0164.html"
@@ -1645,6 +1973,8 @@
     "title": "Asking For A Loan",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0165pb.mp3",
+    "audio_path": "0161-0170/0165/englishpod_0165pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0165",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0165.html"
@@ -1655,6 +1985,8 @@
     "title": "Dr. Botox",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0166pb.mp3",
+    "audio_path": "0161-0170/0166/englishpod_0166pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0166",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0166.html"
@@ -1665,6 +1997,8 @@
     "title": "Learning How To Drive",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0167pb.mp3",
+    "audio_path": "0161-0170/0167/englishpod_0167pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0167",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0167.html"
@@ -1675,6 +2009,8 @@
     "title": "Cooking A Thanksgiving Dinner",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0168pb.mp3",
+    "audio_path": "0161-0170/0168/englishpod_0168pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0168",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0168.html"
@@ -1685,6 +2021,8 @@
     "title": "Roller Coaster",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0169pb.mp3",
+    "audio_path": "0161-0170/0169/englishpod_0169pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0169",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0169.html"
@@ -1695,6 +2033,8 @@
     "title": "Wedding Doubts",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0170pb.mp3",
+    "audio_path": "0161-0170/0170/englishpod_0170pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0170",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0170.html"
@@ -1705,6 +2045,8 @@
     "title": "Buying a Camera",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0171pb.mp3",
+    "audio_path": "0171-0180/0171/englishpod_0171pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0171",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0171.html"
@@ -1715,6 +2057,8 @@
     "title": "Dry Cleaners",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0172pb.mp3",
+    "audio_path": "0171-0180/0172/englishpod_0172pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0172",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0172.html"
@@ -1725,6 +2069,8 @@
     "title": "Preparing a Budget",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0173pb.mp3",
+    "audio_path": "0171-0180/0173/englishpod_0173pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0173",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0173.html"
@@ -1735,6 +2081,8 @@
     "title": "Getting a manicure",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0174pb.mp3",
+    "audio_path": "0171-0180/0174/englishpod_0174pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0174",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0174.html"
@@ -1745,6 +2093,8 @@
     "title": "New Years Resolution",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0175pb.mp3",
+    "audio_path": "0171-0180/0175/englishpod_0175pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0175",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0175.html"
@@ -1755,6 +2105,8 @@
     "title": "Heating",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0176pb.mp3",
+    "audio_path": "0171-0180/0176/englishpod_0176pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0176",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0176.html"
@@ -1765,6 +2117,8 @@
     "title": "Decorating a Christmas Tree",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0177pb.mp3",
+    "audio_path": "0171-0180/0177/englishpod_0177pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0177",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0177.html"
@@ -1775,6 +2129,8 @@
     "title": "Finding the perfect present",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0178pb.mp3",
+    "audio_path": "0171-0180/0178/englishpod_0178pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0178",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0178.html"
@@ -1785,6 +2141,8 @@
     "title": "Silent Night",
     "level": "Intermediate",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0179pb.mp3",
+    "audio_path": "0171-0180/0179/englishpod_C0179pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0179",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0179.html"
@@ -1795,6 +2153,8 @@
     "title": "Jingle Bells",
     "level": "Elementary",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0180pb.mp3",
+    "audio_path": "0171-0180/0180/englishpod_B0180pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0180",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0180.html"
@@ -1805,6 +2165,8 @@
     "title": "Christmas Day",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0181pb.mp3",
+    "audio_path": "0181-0190/0181/englishpod_0181pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0181",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0181.html"
@@ -1815,6 +2177,8 @@
     "title": "Boxing Day",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0182pb.mp3",
+    "audio_path": "0181-0190/0182/englishpod_0182pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0182",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0182.html"
@@ -1825,6 +2189,8 @@
     "title": "Winter Clothes",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0183pb.mp3",
+    "audio_path": "0181-0190/0183/englishpod_0183pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0183",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0183.html"
@@ -1835,6 +2201,8 @@
     "title": "Fresh Start",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0184pb.mp3",
+    "audio_path": "0181-0190/0184/englishpod_0184pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0184",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0184.html"
@@ -1845,6 +2213,8 @@
     "title": "Farm Animals",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0185pb.mp3",
+    "audio_path": "0181-0190/0185/englishpod_0185pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0185",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0185.html"
@@ -1855,6 +2225,8 @@
     "title": "Business Plan",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0186pb.mp3",
+    "audio_path": "0181-0190/0186/englishpod_0186pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0186",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0186.html"
@@ -1865,6 +2237,8 @@
     "title": "Going On A Diet",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0187pb.mp3",
+    "audio_path": "0181-0190/0187/englishpod_0187pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0187",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0187.html"
@@ -1875,6 +2249,8 @@
     "title": "Asking For A Raise",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0188pb.mp3",
+    "audio_path": "0181-0190/0188/englishpod_0188pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0188",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0188.html"
@@ -1885,6 +2261,8 @@
     "title": "Buying A New Mobile Phone",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0189pb.mp3",
+    "audio_path": "0181-0190/0189/englishpod_0189pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0189",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0189.html"
@@ -1895,6 +2273,8 @@
     "title": "Family Barbecue",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0190pb.mp3",
+    "audio_path": "0181-0190/0190/englishpod_0190pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0190",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0190.html"
@@ -1905,6 +2285,8 @@
     "title": "Daylight Savings Time",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0191pb.mp3",
+    "audio_path": "0191-0200/0191/englishpod_0191pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0191",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0191.html"
@@ -1915,6 +2297,8 @@
     "title": "Natural Disasters",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0192pb.mp3",
+    "audio_path": "0191-0200/0192/englishpod_0192pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0192",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0192.html"
@@ -1925,6 +2309,8 @@
     "title": "Building Your Dream Home",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0193pb.mp3",
+    "audio_path": "0191-0200/0193/englishpod_0193pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0193",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0193.html"
@@ -1935,6 +2321,8 @@
     "title": "Stir Fry",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0194pb.mp3",
+    "audio_path": "0191-0200/0194/englishpod_0194pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0194",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0194.html"
@@ -1945,6 +2333,8 @@
     "title": "Job Hunting",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0195pb.mp3",
+    "audio_path": "0191-0200/0195/englishpod_0195pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0195",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0195.html"
@@ -1955,6 +2345,8 @@
     "title": "Going To The Tailor",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0196pb.mp3",
+    "audio_path": "0191-0200/0196/englishpod_0196pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0196",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0196.html"
@@ -1965,6 +2357,8 @@
     "title": "Calling 911",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0197pb.mp3",
+    "audio_path": "0191-0200/0197/englishpod_0197pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0197",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0197.html"
@@ -1975,6 +2369,8 @@
     "title": "Applying CPR",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0198pb.mp3",
+    "audio_path": "0191-0200/0198/englishpod_0198pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0198",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0198.html"
@@ -1985,6 +2381,8 @@
     "title": "Learning About First Aid",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0199pb.mp3",
+    "audio_path": "0191-0200/0199/englishpod_0199pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0199",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0199.html"
@@ -1995,6 +2393,8 @@
     "title": "Junk Food",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0200pb.mp3",
+    "audio_path": "0191-0200/0200/englishpod_0200pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0200",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0200.html"
@@ -2005,6 +2405,8 @@
     "title": "At The Post Office",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0201pb.mp3",
+    "audio_path": "0201-0210/0201/englishpod_0201pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0201",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0201.html"
@@ -2015,6 +2417,8 @@
     "title": "Asking For Directions",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0202pb.mp3",
+    "audio_path": "0201-0210/0202/englishpod_0202pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0202",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0202.html"
@@ -2025,6 +2429,8 @@
     "title": "Calling Tech Support",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0203pb.mp3",
+    "audio_path": "0201-0210/0203/englishpod_0203pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0203",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0203.html"
@@ -2035,6 +2441,8 @@
     "title": "Understanding a Trial",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0204pb.mp3",
+    "audio_path": "0201-0210/0204/englishpod_0204pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0204",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0204.html"
@@ -2045,6 +2453,8 @@
     "title": "Closing The Deal",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0205pb.mp3",
+    "audio_path": "0201-0210/0205/englishpod_0205pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0205",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0205.html"
@@ -2055,6 +2465,8 @@
     "title": "Talking To Your Roomate",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0206pb.mp3",
+    "audio_path": "0201-0210/0206/englishpod_0206pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0206",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0206.html"
@@ -2065,6 +2477,8 @@
     "title": "Shopping Online",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0207pb.mp3",
+    "audio_path": "0201-0210/0207/englishpod_0207pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0207",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0207.html"
@@ -2075,6 +2489,8 @@
     "title": "Understanding The Stock Market",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0208pb.mp3",
+    "audio_path": "0201-0210/0208/englishpod_0208pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0208",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0208.html"
@@ -2085,6 +2501,8 @@
     "title": "Office Gossip",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0209pb.mp3",
+    "audio_path": "0201-0210/0209/englishpod_0209pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0209",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0209.html"
@@ -2095,6 +2513,8 @@
     "title": "Meeting the In-laws",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0210pb.mp3",
+    "audio_path": "0201-0210/0210/englishpod_0210pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0210",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0210.html"
@@ -2105,6 +2525,8 @@
     "title": "Playing Board Games",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0211pb.mp3",
+    "audio_path": "0211-0220/0211/englishpod_0211pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0211",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0211.html"
@@ -2115,6 +2537,8 @@
     "title": "Last Will And Testament",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0212pb.mp3",
+    "audio_path": "0211-0220/0212/englishpod_0212pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0212",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0212.html"
@@ -2125,6 +2549,8 @@
     "title": "Funeral Arrangements",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0213pb.mp3",
+    "audio_path": "0211-0220/0213/englishpod_0213pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0213",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0213.html"
@@ -2135,6 +2561,8 @@
     "title": "Describing Personalities",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0214pb.mp3",
+    "audio_path": "0211-0220/0214/englishpod_0214pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0214",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0214.html"
@@ -2145,6 +2573,8 @@
     "title": "At the Deli",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0215pb.mp3",
+    "audio_path": "0211-0220/0215/englishpod_0215pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0215",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0215.html"
@@ -2155,6 +2585,8 @@
     "title": "Health Food",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0216pb.mp3",
+    "audio_path": "0211-0220/0216/englishpod_0216pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0216",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0216.html"
@@ -2165,6 +2597,8 @@
     "title": "Volunteering",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0217pb.mp3",
+    "audio_path": "0211-0220/0217/englishpod_0217pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0217",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0217.html"
@@ -2175,6 +2609,8 @@
     "title": "Divorce",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0218pb.mp3",
+    "audio_path": "0211-0220/0218/englishpod_0218pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0218",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0218.html"
@@ -2185,6 +2621,8 @@
     "title": "Baby Shower",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0219pb.mp3",
+    "audio_path": "0211-0220/0219/englishpod_0219pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0219",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0219.html"
@@ -2195,6 +2633,8 @@
     "title": "New Furniture",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0220pb.mp3",
+    "audio_path": "0211-0220/0220/englishpod_0220pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0220",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0220.html"
@@ -2205,6 +2645,8 @@
     "title": "Car Trouble",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0221pb.mp3",
+    "audio_path": "0221-0230/0221/englishpod_0221pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0221",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0221.html"
@@ -2215,6 +2657,8 @@
     "title": "Carbon Footprint",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0222pb.mp3",
+    "audio_path": "0221-0230/0222/englishpod_0222pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0222",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0222.html"
@@ -2225,6 +2669,8 @@
     "title": "Facial Hair",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0223pb.mp3",
+    "audio_path": "0221-0230/0223/englishpod_0223pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0223",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0223.html"
@@ -2235,6 +2681,8 @@
     "title": "Crime Scene",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0224pb.mp3",
+    "audio_path": "0221-0230/0224/englishpod_0224pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0224",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0224.html"
@@ -2245,6 +2693,8 @@
     "title": "Planning A Crime",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0225pb.mp3",
+    "audio_path": "0221-0230/0225/englishpod_0225pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0225",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0225.html"
@@ -2255,6 +2705,8 @@
     "title": "Fundraiser",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0226pb.mp3",
+    "audio_path": "0221-0230/0226/englishpod_0226pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0226",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0226.html"
@@ -2265,6 +2717,8 @@
     "title": "Wedding Planning",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0227pb.mp3",
+    "audio_path": "0221-0230/0227/englishpod_0227pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0227",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0227.html"
@@ -2275,6 +2729,8 @@
     "title": "Going to the Beach",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0228pb.mp3",
+    "audio_path": "0221-0230/0228/englishpod_0228pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0228",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0228.html"
@@ -2285,6 +2741,8 @@
     "title": "Buying Men's Shoes",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0229pb.mp3",
+    "audio_path": "0221-0230/0229/englishpod_0229pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0229",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0229.html"
@@ -2295,6 +2753,8 @@
     "title": "Gardening",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0230pb.mp3",
+    "audio_path": "0221-0230/0230/englishpod_0230pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0230",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0230.html"
@@ -2305,6 +2765,8 @@
     "title": "Buying Women's Shoes",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0231pb.mp3",
+    "audio_path": "0231-0240/0231/englishpod_0231pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0231",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0231.html"
@@ -2315,6 +2777,8 @@
     "title": "Toys",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0232pb.mp3",
+    "audio_path": "0231-0240/0232/englishpod_0232pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0232",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0232.html"
@@ -2325,6 +2789,8 @@
     "title": "Forex",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0233pb.mp3",
+    "audio_path": "0231-0240/0233/englishpod_0233pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0233",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0233.html"
@@ -2335,6 +2801,8 @@
     "title": "Going to the Doctor",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0234pb.mp3",
+    "audio_path": "0231-0240/0234/englishpod_0234pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0234",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0234.html"
@@ -2345,6 +2813,8 @@
     "title": "Interview Skills 1 - The Introduction",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0235pb.mp3",
+    "audio_path": "0231-0240/0235/englishpod_0235pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0235",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0235.html"
@@ -2355,6 +2825,8 @@
     "title": "Trying To Sleep",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0236pb.mp3",
+    "audio_path": "0231-0240/0236/englishpod_0236pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0236",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0236.html"
@@ -2365,6 +2837,8 @@
     "title": "Morning Routine",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0237pb.mp3",
+    "audio_path": "0231-0240/0237/englishpod_0237pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0237",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0237.html"
@@ -2375,6 +2849,8 @@
     "title": "Interview Skills 2 - Discussing Your Background",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0238pb.mp3",
+    "audio_path": "0231-0240/0238/englishpod_0238pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0238",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0238.html"
@@ -2385,6 +2861,8 @@
     "title": "Adventure Sports",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0239pb.mp3",
+    "audio_path": "0231-0240/0239/englishpod_0239pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0239",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0239.html"
@@ -2395,6 +2873,8 @@
     "title": "Getting A Pet",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0240pb.mp3",
+    "audio_path": "0231-0240/0240/englishpod_0240pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0240",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0240.html"
@@ -2405,6 +2885,8 @@
     "title": "Interview Skills 3 - Education Background",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0241pb.mp3",
+    "audio_path": "0241-0250/0241/englishpod_0241pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0241",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0241.html"
@@ -2415,6 +2897,8 @@
     "title": "Learning The Piano",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0242pb.mp3",
+    "audio_path": "0241-0250/0242/englishpod_0242pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0242",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0242.html"
@@ -2425,6 +2909,8 @@
     "title": "Talking to a Travel Agent",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0243pb.mp3",
+    "audio_path": "0241-0250/0243/englishpod_0243pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0243",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0243.html"
@@ -2435,6 +2921,8 @@
     "title": "Interview Skills 4 - Talking About Work Experience",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0244pb.mp3",
+    "audio_path": "0241-0250/0244/englishpod_0244pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0244",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0244.html"
@@ -2445,6 +2933,8 @@
     "title": "Getting A Subscription",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0245pb.mp3",
+    "audio_path": "0241-0250/0245/englishpod_0245pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0245",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0245.html"
@@ -2455,6 +2945,8 @@
     "title": "At The Train Station",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0246pb.mp3",
+    "audio_path": "0241-0250/0246/englishpod_0246pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0246",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0246.html"
@@ -2465,6 +2957,8 @@
     "title": "Interview Skills 5 - Discussing Reasons For Leaving Previous Position",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0247pb.mp3",
+    "audio_path": "0241-0250/0247/englishpod_0247pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0247",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0247.html"
@@ -2475,6 +2969,8 @@
     "title": "Dinnerware",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0248pb.mp3",
+    "audio_path": "0241-0250/0248/englishpod_0248pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0248",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0248.html"
@@ -2485,6 +2981,8 @@
     "title": "Making A Sandwich",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0249pb.mp3",
+    "audio_path": "0241-0250/0249/englishpod_0249pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0249",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0249.html"
@@ -2495,6 +2993,8 @@
     "title": "Interview Skills 6 - Describing Ones Strengths",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0250pb.mp3",
+    "audio_path": "0241-0250/0250/englishpod_0250pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0250",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0250.html"
@@ -2505,6 +3005,8 @@
     "title": "Buying Makeup",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0251pb.mp3",
+    "audio_path": "0251-0260/0251/englishpod_0251pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0251",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0251.html"
@@ -2515,6 +3017,8 @@
     "title": "Contraceptives",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0252pb.mp3",
+    "audio_path": "0251-0260/0252/englishpod_0252pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0252",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0252.html"
@@ -2525,6 +3029,8 @@
     "title": "Interview Skills 7 - Describing Ones Weaknesses",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0253pb.mp3",
+    "audio_path": "0251-0260/0253/englishpod_0253pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0253",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0253.html"
@@ -2535,6 +3041,8 @@
     "title": "Making Breakfast",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0254pb.mp3",
+    "audio_path": "0251-0260/0254/englishpod_0254pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0254",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0254.html"
@@ -2545,6 +3053,8 @@
     "title": "The Miracle Of Life",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0255pb.mp3",
+    "audio_path": "0251-0260/0255/englishpod_0255pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0255",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0255.html"
@@ -2555,6 +3065,8 @@
     "title": "Interview Skills 8 - Discussing Salary and Benefits",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0256pb.mp3",
+    "audio_path": "0251-0260/0256/englishpod_0256pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0256",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0256.html"
@@ -2565,6 +3077,8 @@
     "title": "The World Cup",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0257pb.mp3",
+    "audio_path": "0251-0260/0257/englishpod_0257pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0257",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0257.html"
@@ -2575,6 +3089,8 @@
     "title": "You're Grounded!",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0258pb.mp3",
+    "audio_path": "0251-0260/0258/englishpod_0258pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0258",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0258.html"
@@ -2585,6 +3101,8 @@
     "title": "Interview Skills 9 - Asking For Information About The Position",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0259pb.mp3",
+    "audio_path": "0251-0260/0259/englishpod_0259pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0259",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0259.html"
@@ -2595,6 +3113,8 @@
     "title": "Guns",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0260pb.mp3",
+    "audio_path": "0251-0260/0260/englishpod_0260pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0260",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0260.html"
@@ -2605,6 +3125,8 @@
     "title": "Describing Someone's Face",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0261pb.mp3",
+    "audio_path": "0261-0270/0261/englishpod_0261pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0261",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0261.html"
@@ -2615,6 +3137,8 @@
     "title": "Interview Skills 10 - Concluding The Interview",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0262pb.mp3",
+    "audio_path": "0261-0270/0262/englishpod_0262pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0262",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0262.html"
@@ -2625,6 +3149,8 @@
     "title": "Nationalities",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0263pb.mp3",
+    "audio_path": "0261-0270/0263/englishpod_0263pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0263",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0263.html"
@@ -2635,6 +3161,8 @@
     "title": "Toothache",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0264pb.mp3",
+    "audio_path": "0261-0270/0264/englishpod_0264pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0264",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0264.html"
@@ -2645,6 +3173,8 @@
     "title": "Pest Control",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0265pb.mp3",
+    "audio_path": "0261-0270/0265/englishpod_0265pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0265",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0265.html"
@@ -2655,6 +3185,8 @@
     "title": "Weather Report",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0266pb.mp3",
+    "audio_path": "0261-0270/0266/englishpod_0266pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0266",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0266.html"
@@ -2665,6 +3197,8 @@
     "title": "Making A Bank Transfer",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0267pb.mp3",
+    "audio_path": "0261-0270/0267/englishpod_0267pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0267",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0267.html"
@@ -2675,6 +3209,8 @@
     "title": "Purchasing Manager",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0268pb.mp3",
+    "audio_path": "0261-0270/0268/englishpod_0268pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0268",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0268.html"
@@ -2685,6 +3221,8 @@
     "title": "Marketing Plan",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0269pb.mp3",
+    "audio_path": "0261-0270/0269/englishpod_0269pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0269",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0269.html"
@@ -2695,6 +3233,8 @@
     "title": "Buying A Suit",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0270pb.mp3",
+    "audio_path": "0261-0270/0270/englishpod_0270pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0270",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0270.html"
@@ -2705,6 +3245,8 @@
     "title": "Presentation Series 1 - The Overview and the Agenda",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0271pb.mp3",
+    "audio_path": "0271-0280/0271/englishpod_0271pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0271",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0271.html"
@@ -2715,6 +3257,8 @@
     "title": "Getting A Nanny",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0272pb.mp3",
+    "audio_path": "0271-0280/0272/englishpod_0272pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0272",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0272.html"
@@ -2725,6 +3269,8 @@
     "title": "The Zodiac and Horoscopes",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0273pb.mp3",
+    "audio_path": "0271-0280/0273/englishpod_0273pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0273",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0273.html"
@@ -2735,6 +3281,8 @@
     "title": "\"Presentation Series 2 - Talking about numbers, charts and graphs\"",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0274pb.mp3",
+    "audio_path": "0271-0280/0274/englishpod_0274pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0274",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0274.html"
@@ -2745,6 +3293,8 @@
     "title": "Kitchen Appliances",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0275pb.mp3",
+    "audio_path": "0271-0280/0275/englishpod_0275pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0275",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0275.html"
@@ -2755,6 +3305,8 @@
     "title": "Telephone Services",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0276pb.mp3",
+    "audio_path": "0271-0280/0276/englishpod_0276pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0276",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0276.html"
@@ -2765,6 +3317,8 @@
     "title": "Presentation Series 3 - Making Comparisons",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0277pb.mp3",
+    "audio_path": "0271-0280/0277/englishpod_0277pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0277",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0277.html"
@@ -2775,6 +3329,8 @@
     "title": "At The Car Dealership",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0278pb.mp3",
+    "audio_path": "0271-0280/0278/englishpod_0278pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0278",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0278.html"
@@ -2785,6 +3341,8 @@
     "title": "Drugs",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0279pb.mp3",
+    "audio_path": "0271-0280/0279/englishpod_0279pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0279",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0279.html"
@@ -2795,6 +3353,8 @@
     "title": "Presentation Series 4 - Discussing the Competition",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0280pb.mp3",
+    "audio_path": "0271-0280/0280/englishpod_0280pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0280",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0280.html"
@@ -2805,6 +3365,8 @@
     "title": "Breaking Up",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0281pb.mp3",
+    "audio_path": "0281-0290/0281/englishpod_0281pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0281",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0281.html"
@@ -2815,6 +3377,8 @@
     "title": "Physics",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0282pb.mp3",
+    "audio_path": "0281-0290/0282/englishpod_0282pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0282",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0282.html"
@@ -2825,6 +3389,8 @@
     "title": "Presentation Series 5 - Deferring Questions",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0283pb.mp3",
+    "audio_path": "0281-0290/0283/englishpod_0283pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0283",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0283.html"
@@ -2835,6 +3401,8 @@
     "title": "Tune Up",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0284pb.mp3",
+    "audio_path": "0281-0290/0284/englishpod_0284pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0284",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0284.html"
@@ -2845,6 +3413,8 @@
     "title": "Handyman",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0285pb.mp3",
+    "audio_path": "0281-0290/0285/englishpod_0285pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0285",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0285.html"
@@ -2855,6 +3425,8 @@
     "title": "Presentation Series 6 - Addressing the Audience",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0286pb.mp3",
+    "audio_path": "0281-0290/0286/englishpod_0286pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0286",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0286.html"
@@ -2865,6 +3437,8 @@
     "title": "High School Reunion",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0287pb.mp3",
+    "audio_path": "0281-0290/0287/englishpod_0287pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0287",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0287.html"
@@ -2875,6 +3449,8 @@
     "title": "Getting A Tattoo",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0288pb.mp3",
+    "audio_path": "0281-0290/0288/englishpod_0288pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0288",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0288.html"
@@ -2885,6 +3461,8 @@
     "title": "Presentation Series 7 - Handling Technical Problems",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0289pb.mp3",
+    "audio_path": "0281-0290/0289/englishpod_0289pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0289",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0289.html"
@@ -2895,6 +3473,8 @@
     "title": "Buying Jewelery",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0290pb.mp3",
+    "audio_path": "0281-0290/0290/englishpod_0290pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0290",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0290.html"
@@ -2905,6 +3485,8 @@
     "title": "Ordering Chinese Food",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0291pb.mp3",
+    "audio_path": "0291-0300/0291/englishpod_0291pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0291",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0291.html"
@@ -2915,6 +3497,8 @@
     "title": "Presentation Series 8 - Common Presentation Mistakes",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0292pb.mp3",
+    "audio_path": "0291-0300/0292/englishpod_0292pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0292",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0292.html"
@@ -2925,6 +3509,8 @@
     "title": "Cheese Lovers",
     "level": "Advanced Media",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0293pb.mp3",
+    "audio_path": "0291-0300/0293/englishpod_0293pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0293",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0293.html"
@@ -2935,6 +3521,8 @@
     "title": "Picking A University",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0294pb.mp3",
+    "audio_path": "0291-0300/0294/englishpod_0294pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0294",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0294.html"
@@ -2945,6 +3533,8 @@
     "title": "Presentation Series 9 - Summary and Conclusion",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0295pb.mp3",
+    "audio_path": "0291-0300/0295/englishpod_0295pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0295",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0295.html"
@@ -2955,6 +3545,8 @@
     "title": "Vegan Or Vegetarian?",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0296pb.mp3",
+    "audio_path": "0291-0300/0296/englishpod_0296pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0296",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0296.html"
@@ -2965,6 +3557,8 @@
     "title": "Ordering At An Italian Restaurant",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0297pb.mp3",
+    "audio_path": "0291-0300/0297/englishpod_0297pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0297",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0297.html"
@@ -2975,6 +3569,8 @@
     "title": "Presentation Series 10 - The Q and A Session",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0298pb.mp3",
+    "audio_path": "0291-0300/0298/englishpod_0298pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0298",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0298.html"
@@ -2985,6 +3581,8 @@
     "title": "Returning A Product",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0299pb.mp3",
+    "audio_path": "0291-0300/0299/englishpod_0299pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0299",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0299.html"
@@ -2995,6 +3593,8 @@
     "title": "Online Dating",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0300pb.mp3",
+    "audio_path": "0291-0300/0300/englishpod_0300pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0300",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0300.html"
@@ -3005,6 +3605,8 @@
     "title": "Vampires",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0301pb.mp3",
+    "audio_path": "0301-0310/0301/englishpod_0301pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0301",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0301.html"
@@ -3015,6 +3617,8 @@
     "title": "Phobias",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0302pb.mp3",
+    "audio_path": "0301-0310/0302/englishpod_0302pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0302",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0302.html"
@@ -3025,6 +3629,8 @@
     "title": "Mexican Food",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0303pb.mp3",
+    "audio_path": "0301-0310/0303/englishpod_0303pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0303",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0303.html"
@@ -3035,6 +3641,8 @@
     "title": "Neat Freak",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0304pb.mp3",
+    "audio_path": "0301-0310/0304/englishpod_0304pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0304",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0304.html"
@@ -3045,6 +3653,8 @@
     "title": "Bowling",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0305pb.mp3",
+    "audio_path": "0301-0310/0305/englishpod_0305pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0305",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0305.html"
@@ -3055,6 +3665,8 @@
     "title": "Pick Up Lines",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0306pb.mp3",
+    "audio_path": "0301-0310/0306/englishpod_0306pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0306",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0306.html"
@@ -3065,6 +3677,8 @@
     "title": "Small Talk 1 - Showing Interest",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0307pb.mp3",
+    "audio_path": "0301-0310/0307/englishpod_0307pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0307",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0307.html"
@@ -3075,6 +3689,8 @@
     "title": "Boxers and Briefs",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0308pb.mp3",
+    "audio_path": "0301-0310/0308/englishpod_0308pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0308",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0308.html"
@@ -3085,6 +3701,8 @@
     "title": "Indian Food",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0309pb.mp3",
+    "audio_path": "0301-0310/0309/englishpod_0309pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0309",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0309.html"
@@ -3095,6 +3713,8 @@
     "title": "Small Talk 2",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0310pb.mp3",
+    "audio_path": "0301-0310/0310/englishpod_0310pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0310",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0310.html"
@@ -3105,6 +3725,8 @@
     "title": "Sorry I'm Late",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0311pb.mp3",
+    "audio_path": "0311-0320/0311/englishpod_0311pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0311",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0311.html"
@@ -3115,6 +3737,8 @@
     "title": "Ordering Drinks",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0312pb.mp3",
+    "audio_path": "0311-0320/0312/englishpod_0312pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0312",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0312.html"
@@ -3125,6 +3749,8 @@
     "title": "Small talk 3",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0313pb.mp3",
+    "audio_path": "0311-0320/0313/englishpod_0313pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0313",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0313.html"
@@ -3135,6 +3761,8 @@
     "title": "Making A Collect Call",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0314pb.mp3",
+    "audio_path": "0311-0320/0314/englishpod_0314pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0314",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0314.html"
@@ -3145,6 +3773,8 @@
     "title": "Sending A Quote Via Email",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0315pb.mp3",
+    "audio_path": "0311-0320/0315/englishpod_0315pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0315",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0315.html"
@@ -3155,6 +3785,8 @@
     "title": "Small Talk 4 - Discussing Recent Workevents",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0316pb.mp3",
+    "audio_path": "0311-0320/0316/englishpod_0316pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0316",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0316.html"
@@ -3165,6 +3797,8 @@
     "title": "First Paycheck",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0317pb.mp3",
+    "audio_path": "0311-0320/0317/englishpod_0317pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0317",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0317.html"
@@ -3175,6 +3809,8 @@
     "title": "Allergies",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0318pb.mp3",
+    "audio_path": "0311-0320/0318/englishpod_0318pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0318",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0318.html"
@@ -3185,6 +3821,8 @@
     "title": "Small Talk 5 - Brief Talk With A Stranger",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0319pb.mp3",
+    "audio_path": "0311-0320/0319/englishpod_0319pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0319",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0319.html"
@@ -3195,6 +3833,8 @@
     "title": "Taking The GMAT",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0320pb.mp3",
+    "audio_path": "0311-0320/0320/englishpod_0320pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0320",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0320.html"
@@ -3205,6 +3845,8 @@
     "title": "Thai Food",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0321pb.mp3",
+    "audio_path": "0321-0330/0321/englishpod_0321pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0321",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0321.html"
@@ -3215,6 +3857,8 @@
     "title": "Small Talk 6 - Talking About Yourself",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0322pb.mp3",
+    "audio_path": "0321-0330/0322/englishpod_0322pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0322",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0322.html"
@@ -3225,6 +3869,8 @@
     "title": "Cancelled Flight",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0323pb.mp3",
+    "audio_path": "0321-0330/0323/englishpod_0323pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0323",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0323.html"
@@ -3235,6 +3881,8 @@
     "title": "Thanksgiving Dinner",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0324pb.mp3",
+    "audio_path": "0321-0330/0324/englishpod_0324pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0324",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0324.html"
@@ -3245,6 +3893,8 @@
     "title": "Small Talk 7 - Talking About A Trip",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0325pb.mp3",
+    "audio_path": "0321-0330/0325/englishpod_0325pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0325",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0325.html"
@@ -3255,6 +3905,8 @@
     "title": "Report Card",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0326pb.mp3",
+    "audio_path": "0321-0330/0326/englishpod_0326pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0326",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0326.html"
@@ -3265,6 +3917,8 @@
     "title": "Buying A Pair Of Jeans",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0327pb.mp3",
+    "audio_path": "0321-0330/0327/englishpod_0327pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0327",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0327.html"
@@ -3275,6 +3929,8 @@
     "title": "Small Talk 8 - Talking About Work",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0328pb.mp3",
+    "audio_path": "0321-0330/0328/englishpod_0328pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0328",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0328.html"
@@ -3285,6 +3941,8 @@
     "title": "Going To The Bakery",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0329pb.mp3",
+    "audio_path": "0321-0330/0329/englishpod_0329pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0329",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0329.html"
@@ -3295,6 +3953,8 @@
     "title": "Fortune Telling",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0330pb.mp3",
+    "audio_path": "0321-0330/0330/englishpod_0330pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0330",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0330.html"
@@ -3305,6 +3965,8 @@
     "title": "Small Talk 9 - Talking About The Weather",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0331pb.mp3",
+    "audio_path": "0331-0340/0331/englishpod_0331pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0331",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0331.html"
@@ -3315,6 +3977,8 @@
     "title": "Setting Up Your Voice mail Message",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0332pb.mp3",
+    "audio_path": "0331-0340/0332/englishpod_0332pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0332",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0332.html"
@@ -3325,6 +3989,8 @@
     "title": "Human Anatmoy",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0333pb.mp3",
+    "audio_path": "0331-0340/0333/englishpod_0333pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0333",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0333.html"
@@ -3335,6 +4001,8 @@
     "title": "Small Talk 10 - General Talk",
     "level": "The Office",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0334pb.mp3",
+    "audio_path": "0331-0340/0334/englishpod_0334pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0334",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0334.html"
@@ -3345,6 +4013,8 @@
     "title": "Going To The Playground",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0335pb.mp3",
+    "audio_path": "0331-0340/0335/englishpod_0335pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0335",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0335.html"
@@ -3355,6 +4025,8 @@
     "title": "Christmas Traditions",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0336pb.mp3",
+    "audio_path": "0331-0340/0336/englishpod_0336pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0336",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0336.html"
@@ -3365,6 +4037,8 @@
     "title": "The Night Before Christmas",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0337pb.mp3",
+    "audio_path": "0331-0340/0337/englishpod_0337pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0337",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0337.html"
@@ -3375,6 +4049,8 @@
     "title": "Having Leftovers",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0338pb.mp3",
+    "audio_path": "0331-0340/0338/englishpod_0338pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0338",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0338.html"
@@ -3385,6 +4061,8 @@
     "title": "Parent Teacher Conference",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0339pb.mp3",
+    "audio_path": "0331-0340/0339/englishpod_0339pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0339",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0339.html"
@@ -3395,6 +4073,8 @@
     "title": "Happy New Year!",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0340pb.mp3",
+    "audio_path": "0331-0340/0340/englishpod_0340pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0340",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0340.html"
@@ -3405,6 +4085,8 @@
     "title": "Baking A Cake",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0341pb.mp3",
+    "audio_path": "0341-0350/0341/englishpod_0341pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0341",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0341.html"
@@ -3415,6 +4097,8 @@
     "title": "At The Library",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0342pb.mp3",
+    "audio_path": "0341-0350/0342/englishpod_0342pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0342",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0342.html"
@@ -3425,6 +4109,8 @@
     "title": "Seafood Dinner",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0343pb.mp3",
+    "audio_path": "0341-0350/0343/englishpod_0343pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0343",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0343.html"
@@ -3435,6 +4121,8 @@
     "title": "Booking A Hotel Room",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0344pb.mp3",
+    "audio_path": "0341-0350/0344/englishpod_0344pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0344",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0344.html"
@@ -3445,6 +4133,8 @@
     "title": "Working Out",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0345pb.mp3",
+    "audio_path": "0341-0350/0345/englishpod_0345pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0345",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0345.html"
@@ -3455,6 +4145,8 @@
     "title": "All About Wines",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0346pb.mp3",
+    "audio_path": "0341-0350/0346/englishpod_0346pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0346",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0346.html"
@@ -3465,6 +4157,8 @@
     "title": "Immigration and Customs",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0347pb.mp3",
+    "audio_path": "0341-0350/0347/englishpod_0347pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0347",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0347.html"
@@ -3475,6 +4169,8 @@
     "title": "Talking About Skincare",
     "level": "The Weekend",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0348pb.mp3",
+    "audio_path": "0341-0350/0348/englishpod_0348pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0348",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0348.html"
@@ -3485,6 +4181,8 @@
     "title": "Chinese Medicine",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0349pb.mp3",
+    "audio_path": "0341-0350/0349/englishpod_0349pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0349",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0349.html"
@@ -3495,6 +4193,8 @@
     "title": "Talking About Relatives",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0350pb.mp3",
+    "audio_path": "0341-0350/0350/englishpod_0350pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0350",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0350.html"
@@ -3505,6 +4205,8 @@
     "title": "Vaccinations",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0351pb.mp3",
+    "audio_path": "0351-0360/0351/englishpod_0351pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0351",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0351.html"
@@ -3515,6 +4217,8 @@
     "title": "The 7 Wonders Of The World",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0352pb.mp3",
+    "audio_path": "0351-0360/0352/englishpod_0352pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0352",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0352.html"
@@ -3525,6 +4229,8 @@
     "title": "College Life",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0353pb.mp3",
+    "audio_path": "0351-0360/0353/englishpod_0353pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0353",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0353.html"
@@ -3535,6 +4241,8 @@
     "title": "Homeschooling",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0354pb.mp3",
+    "audio_path": "0351-0360/0354/englishpod_0354pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0354",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0354.html"
@@ -3545,6 +4253,8 @@
     "title": "Lending Money",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0355pb.mp3",
+    "audio_path": "0351-0360/0355/englishpod_0355pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0355",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0355.html"
@@ -3555,6 +4265,8 @@
     "title": "Coins and Money",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0356pb.mp3",
+    "audio_path": "0351-0360/0356/englishpod_0356pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0356",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0356.html"
@@ -3565,6 +4277,8 @@
     "title": "Making A Dinner Reservation",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0357pb.mp3",
+    "audio_path": "0351-0360/0357/englishpod_0357pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0357",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0357.html"
@@ -3575,6 +4289,8 @@
     "title": "Text Me",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0358pb.mp3",
+    "audio_path": "0351-0360/0358/englishpod_0358pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0358",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0358.html"
@@ -3585,6 +4301,8 @@
     "title": "E-mail Scam",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0359pb.mp3",
+    "audio_path": "0351-0360/0359/englishpod_0359pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0359",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0359.html"
@@ -3595,6 +4313,8 @@
     "title": "Urban Legends",
     "level": "Global View",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0360pb.mp3",
+    "audio_path": "0351-0360/0360/englishpod_0360pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0360",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0360.html"
@@ -3605,6 +4325,8 @@
     "title": "Fast Food",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0361pb.mp3",
+    "audio_path": "0361-0365/0361/englishpod_0361pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0361",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0361.html"
@@ -3615,6 +4337,8 @@
     "title": "What Mood Are You In?",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0362pb.mp3",
+    "audio_path": "0361-0365/0362/englishpod_0362pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0362",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0362.html"
@@ -3625,6 +4349,8 @@
     "title": "Living With Your Parents",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0363pb.mp3",
+    "audio_path": "0361-0365/0363/englishpod_0363pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0363",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0363.html"
@@ -3635,6 +4361,8 @@
     "title": "Hiring Help",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0364pb.mp3",
+    "audio_path": "0361-0365/0364/englishpod_0364pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0364",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0364.html"
@@ -3645,6 +4373,8 @@
     "title": "Household Chores",
     "level": "Daily Life",
     "mp3": "https://archive.org/download/englishpod_all/englishpod_0365pb.mp3",
+    "audio_path": "0361-0365/0365/englishpod_0365pb.mp3",
+    "audio_kind": "pb",
     "poster": "https://i1.sndcdn.com/artworks-000231297698-mkthbe-t500x500.jpg",
     "transcript_id": "englishpod_0365",
     "transcript_url": "https://archive.org/download/englishpod_all/englishpod_0365.html"
