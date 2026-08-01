@@ -72,7 +72,14 @@
   @apply text-zinc-700 dark:text-zinc-300;
 }
 
+/* Deliberately not italic: this line is Vietnamese, and the system-ui stack has
+   no real italic, so the browser fakes one by shearing the glyphs. That shifts
+   the marks off their base letter — dấu nặng under "rợn", "sợ", "chịu" ends up
+   beside the letter instead of under it. Colour, size and weight already set
+   this apart from the English definition above it.
+   .type stays italic: it is English, so nothing to knock out of place. */
 .transcript-content .definition .translation {
   display: block;
-  @apply text-sm italic text-indigo-600 dark:text-indigo-400 font-medium;
+  font-synthesis-style: none;
+  @apply text-sm text-indigo-600 dark:text-indigo-400 font-medium;
 }
