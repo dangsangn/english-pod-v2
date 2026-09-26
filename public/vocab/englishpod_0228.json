@@ -2,102 +2,136 @@
   {
     "word": "scattered",
     "ipa": "ˈskætɚd",
+    "type": "",
+    "def": "something that is spread all over an area",
     "vi": "rải rác",
     "viDef": "trải khắp một vùng"
   },
   {
     "word": "here and there",
     "ipa": "hiɹ ənd ðɛɹ",
+    "type": "",
+    "def": "in or to various places",
     "vi": "đây đó",
     "viDef": "ở hoặc tới nhiều nơi khác nhau"
   },
   {
     "word": "spot",
     "ipa": "spɑt",
+    "type": "",
+    "def": "a particular space or area",
     "vi": "chỗ, điểm",
     "viDef": "một khoảng hoặc khu vực nhất định"
   },
   {
     "word": "set up",
     "ipa": "sɛt ʌp",
+    "type": "",
+    "def": "prepare",
     "vi": "chuẩn bị, thiết lập",
     "viDef": "sắp cho sẵn sàng"
   },
   {
     "word": "lay down",
     "ipa": "leɪ daʊn",
+    "type": "",
+    "def": "assume a reclining position",
     "vi": "nằm xuống",
     "viDef": "ngả người ra"
   },
   {
     "word": "Frisbee",
     "ipa": "ˈfɹɪsbi",
+    "type": "",
+    "def": "a light, plastic disk for playing",
     "vi": "đĩa bay nhựa",
     "viDef": "đĩa nhựa nhẹ dùng để chơi ném"
   },
   {
     "word": "shovel",
     "ipa": "ˈʃʌvəl",
+    "type": "",
+    "def": "a hand tool for lifting loose material",
     "vi": "cái xẻng",
     "viDef": "dụng cụ cầm tay để xúc vật liệu rời"
   },
   {
     "word": "sandcastle",
     "ipa": "ˈsændˌkæsəl",
+    "type": "",
+    "def": "a small model of a castle that is made of sand",
     "vi": "lâu đài cát",
     "viDef": "mô hình lâu đài nhỏ đắp bằng cát"
   },
   {
     "word": "stray",
     "ipa": "stɹeɪ",
+    "type": "",
+    "def": "go in a direction that is away from a group",
     "vi": "đi lạc",
     "viDef": "đi theo hướng tách khỏi nhóm"
   },
   {
     "word": "shallow",
     "ipa": "ˈʃæloʊ",
+    "type": "",
+    "def": "having little depth",
     "vi": "cạn",
     "viDef": "độ sâu ít"
   },
   {
     "word": "floaty",
     "ipa": "ˈfloʊti",
+    "type": "",
+    "def": "life saving appliance in the ocean",
     "vi": "phao nổi",
     "viDef": "vật cứu sinh dùng khi ở biển"
   },
   {
     "word": "sandbar",
     "ipa": "ˈsændbɑɹ",
+    "type": "",
+    "def": "a raised area of sand with a top",
     "vi": "doi cát",
     "viDef": "gò cát nhô cao có mặt bằng phía trên"
   },
   {
     "word": "sun glasses",
     "ipa": "sʌn ˈɡlæsəz",
+    "type": "",
+    "def": "glasses which protect the eyes from the sun",
     "vi": "kính râm",
     "viDef": "kính che mắt khỏi ánh nắng"
   },
   {
     "word": "sun tan",
     "ipa": "sʌn tæn",
+    "type": "",
+    "def": "a darkening of the skin from long exposure to the sun",
     "vi": "da rám nắng",
     "viDef": "việc da sạm đi do phơi nắng lâu"
   },
   {
     "word": "beach bum",
     "ipa": "bitʃ bʌm",
+    "type": "",
+    "def": "a person who spends everyday at the beach",
     "vi": "dân bám biển",
     "viDef": "người ngày nào cũng ra bãi biển"
   },
   {
     "word": "sunburn",
     "ipa": "ˈsʌnbɝn",
+    "type": "",
+    "def": "a skin irration caused by overexposure to the sun",
     "vi": "cháy nắng",
     "viDef": "da bị kích ứng do phơi nắng quá nhiều"
   },
   {
     "word": "star fish",
     "ipa": "stɑɹ fɪʃ",
+    "type": "",
+    "def": "star shaped fish found in the ocean",
     "vi": "sao biển",
     "viDef": "loài cá hình ngôi sao sống ở biển"
   }

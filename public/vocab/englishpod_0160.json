@@ -2,84 +2,112 @@
   {
     "word": "run into",
     "ipa": "ɹʌn ˈɪntu",
+    "type": "",
+    "def": "meet or encounter",
     "vi": "gặp phải",
     "viDef": "tình cờ gặp hoặc vướng phải"
   },
   {
     "word": "a bit of",
     "ipa": "ə bɪt ʌv",
+    "type": "",
+    "def": "kind of",
     "vi": "một chút",
     "viDef": "hơi hơi"
   },
   {
     "word": "jam",
     "ipa": "dʒæm",
+    "type": "",
+    "def": "a problem or difficult situation",
     "vi": "thế khó",
     "viDef": "rắc rối, tình huống nan giải"
   },
   {
     "word": "look into",
     "ipa": "lʊk ˈɪntu",
+    "type": "",
+    "def": "investigate",
     "vi": "tìm hiểu",
     "viDef": "xem xét, điều tra"
   },
   {
     "word": "health maintenance organization",
     "ipa": "hɛlθ ˈmeɪntənəns ˌɔɹɡənəˈzeɪʃən",
+    "type": "",
+    "def": "Health Maintenance Organization",
     "vi": "tổ chức bảo hiểm y tế HMO",
     "viDef": "Health Maintenance Organization"
   },
   {
     "word": "deductible",
     "ipa": "dɪˈdʌktəbəl",
+    "type": "",
+    "def": "a clause in an insurance policy that relieves the",
     "vi": "mức tự chi trả",
     "viDef": "điều khoản buộc người mua bảo hiểm tự trả phần đầu"
   },
   {
     "word": "coverage",
     "ipa": "ˈkʌvɚədʒ",
+    "type": "",
+    "def": "the extent of the protection provided by insurance",
     "vi": "phạm vi chi trả",
     "viDef": "mức che chắn mà bảo hiểm đảm nhận"
   },
   {
     "word": "when it comes to",
     "ipa": "wɛn ɪt kʌmz tu",
+    "type": "",
+    "def": "in terms of, about",
     "vi": "nói về chuyện",
     "viDef": "xét đến việc, liên quan tới"
   },
   {
     "word": "co-pay",
     "ipa": "koʊ peɪ",
+    "type": "",
+    "def": "a payment made everytime a medical service is need",
     "vi": "khoản cùng chi trả",
     "viDef": "tiền phải trả mỗi lần dùng dịch vụ y tế"
   },
   {
     "word": "prescription",
     "ipa": "pɹəˈskɹɪpʃən",
+    "type": "",
+    "def": "the medicine or remedy ordered by a physician for a patient",
     "vi": "thuốc theo đơn",
     "viDef": "thuốc hoặc cách trị mà bác sĩ chỉ định cho bệnh nhân"
   },
   {
     "word": "exclusion",
     "ipa": "ɪkˈskluʒən",
+    "type": "",
+    "def": "certain services that an insurance company will not cover in the plan",
     "vi": "mục loại trừ",
     "viDef": "những dịch vụ mà công ty bảo hiểm không chi trả"
   },
   {
     "word": "healthcare",
     "ipa": "ˈhɛlθkɛɹ",
+    "type": "",
+    "def": "the prevention and treatment of illness and the preservation of well-being through the services offered by the health professions",
     "vi": "chăm sóc sức khỏe",
     "viDef": "việc phòng và trị bệnh, giữ sức khỏe nhờ các dịch vụ của ngành y"
   },
   {
     "word": "premium",
     "ipa": "ˈpɹimiəm",
+    "type": "",
+    "def": "the amount paid for an insurance policy, often in installments",
     "vi": "phí bảo hiểm",
     "viDef": "khoản đóng cho hợp đồng bảo hiểm, thường trả từng kỳ"
   },
   {
     "word": "coinsurance",
     "ipa": "ˌkoʊɪnˈʃɝəns",
+    "type": "",
+    "def": "After the deductible is exceeded, it is when the insured must also pay a percentage of the total cost of services while the insurance company pays the rest. It can be used instead of or in addition to copays.",
     "vi": "phần đồng chi trả",
     "viDef": "sau khi vượt mức tự trả, người được bảo hiểm còn góp một tỉ lệ trong tổng chi phí, phần còn lại do công ty trả"
   }

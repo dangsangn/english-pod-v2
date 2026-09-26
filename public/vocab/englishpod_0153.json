@@ -2,30 +2,40 @@
   {
     "word": "homesick",
     "ipa": "ˈhoʊmsɪk",
+    "type": "",
+    "def": "sad because you are away from home",
     "vi": "nhớ nhà",
     "viDef": "buồn vì đang ở xa quê"
   },
   {
     "word": "afford",
     "ipa": "əˈfɔɹd",
+    "type": "",
+    "def": "bear the cost of",
     "vi": "gánh nổi chi phí",
     "viDef": "lo được khoản tiền đó"
   },
   {
     "word": "longing for",
     "ipa": "ˈlɔŋɪŋ fɔɹ",
+    "type": "",
+    "def": "showing a strong desire for something",
     "vi": "khao khát",
     "viDef": "tỏ ra rất mong muốn điều gì"
   },
   {
     "word": "nostalgic",
     "ipa": "nɔˈstældʒɪk",
+    "type": "",
+    "def": "homesick",
     "vi": "bồi hồi nhớ quê",
     "viDef": "nhớ nhà, nhớ chốn cũ"
   },
   {
     "word": "bummed out",
     "ipa": "bʌmd aʊt",
+    "type": "",
+    "def": "disappointed",
     "vi": "xuống tinh thần",
     "viDef": "thất vọng"
   }

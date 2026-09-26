@@ -2,84 +2,112 @@
   {
     "word": "buck",
     "ipa": "bʌk",
+    "type": "common noun, plural",
+    "def": "dollar (informal)",
     "vi": "đô",
     "viDef": "đồng đô-la (thân mật)"
   },
   {
     "word": "mozzarella sticks",
     "ipa": "ˌmɑtsəˈɹɛlə stɪks",
+    "type": "phrase",
+    "def": "fried Italian cheese",
     "vi": "que phô mai chiên",
     "viDef": "phô mai Ý chiên giòn"
   },
   {
     "word": "nachos",
     "ipa": "ˈnɑtʃoʊz",
+    "type": "common noun, plural",
+    "def": "a dish with tortilla chips and melted cheese cooked together",
     "vi": "món nachos",
     "viDef": "bánh ngô giòn nướng cùng phô mai chảy"
   },
   {
     "word": "appetizer",
     "ipa": "ˈæpəˌtaɪzɚ",
+    "type": "common noun, plural",
+    "def": "a small dish served before meal",
     "vi": "món khai vị",
     "viDef": "món nhỏ dùng trước bữa chính"
   },
   {
     "word": "pint",
     "ipa": "paɪnt",
+    "type": "common noun, singular",
+    "def": "a measuring unit which is equal to 0.473 litres",
     "vi": "pint",
     "viDef": "đơn vị đo bằng 0,473 lít"
   },
   {
     "word": "special",
     "ipa": "ˈspɛʃəl",
+    "type": "common noun, singular",
+    "def": "a sale; a special price",
     "vi": "món đặc giá",
     "viDef": "đợt giảm giá, giá ưu đãi"
   },
   {
     "word": "happy hour",
     "ipa": "ˈhæpi ˈaʊɚ",
+    "type": "phrase",
+    "def": "a period of time at a bar when drinks are sold cheaper than usual",
     "vi": "giờ vàng giảm giá",
     "viDef": "khoảng thời gian quán bán đồ uống rẻ hơn thường"
   },
   {
     "word": "two-for-one",
     "ipa": "tu fɔɹ wʌn",
+    "type": "phrase",
+    "def": "buy one and take one free",
     "vi": "mua một tặng một",
     "viDef": "mua một cái được thêm một cái"
   },
   {
     "word": "on tap",
     "ipa": "ɑn tæp",
+    "type": "phrase",
+    "def": "beer served from a barrel; not in a bottle or can",
     "vi": "bia tươi rót vòi",
     "viDef": "bia lấy từ thùng, không phải chai hay lon"
   },
   {
     "word": "drinks list",
     "ipa": "dɹɪŋks lɪst",
+    "type": "common noun, singular",
+    "def": "a menu or list of drinks served in a restaurant or bar",
     "vi": "danh mục đồ uống",
     "viDef": "thực đơn các món uống của quán"
   },
   {
     "word": "pub",
     "ipa": "pʌb",
+    "type": "common noun, singular",
+    "def": "a relaxed, casual bar where beer is served",
     "vi": "quán bia",
     "viDef": "quán rượu bình dân, thoải mái, chuyên phục vụ bia"
   },
   {
     "word": "cocktail",
     "ipa": "ˈkɑkteɪl",
+    "type": "common noun, singular",
+    "def": "alcoholic drink made from one or more liqueur and other ingredients",
     "vi": "cocktail",
     "viDef": "đồ uống pha từ một hoặc nhiều loại rượu mạnh cùng các thành phần khác"
   },
   {
     "word": "liqueur",
     "ipa": "lɪˈkɝ",
+    "type": "common noun, singular",
+    "def": "strong alcohol drink such as gin, rum, vodka, etc",
     "vi": "rượu mạnh",
     "viDef": "đồ uống có độ cồn cao như gin, rum, vodka..."
   },
   {
     "word": "bar stool",
     "ipa": "bɑɹ stul",
+    "type": "common noun, singular",
+    "def": "a chair with no back used for sitting on at a bar",
     "vi": "ghế cao quầy bar",
     "viDef": "ghế không tựa để ngồi ở quầy bar"
   }

@@ -2,108 +2,144 @@
   {
     "word": "I have no idea",
     "ipa": "aɪ hæv noʊ aɪˈdiə",
+    "type": "phrase",
+    "def": "to be completely unaware of something",
     "vi": "tôi chẳng biết gì",
     "viDef": "hoàn toàn không hay biết"
   },
   {
     "word": "freeze",
     "ipa": "fɹiz",
+    "type": "principle verb, present simple",
+    "def": "to suddenly stop functioning",
     "vi": "treo máy",
     "viDef": "bỗng ngừng hoạt động"
   },
   {
     "word": "where (something) is going",
     "ipa": "wɛɹ ˈsʌmθɪŋ ɪz ˈɡoʊɪŋ",
+    "type": "phrase",
+    "def": "the direction of an event",
     "vi": "chuyện này đi đến đâu",
     "viDef": "chiều hướng của một việc"
   },
   {
     "word": "ever changing",
     "ipa": "ˈɛvɚ ˈtʃeɪndʒɪŋ",
+    "type": "phrase",
+    "def": "always becoming different",
     "vi": "luôn thay đổi",
     "viDef": "lúc nào cũng khác đi"
   },
   {
     "word": "obsolete",
     "ipa": "ˈɑbsəˌlit",
+    "type": "Adjective",
+    "def": "no longer useful",
     "vi": "lỗi thời",
     "viDef": "không còn dùng được"
   },
   {
     "word": "program",
     "ipa": "ˈpɹoʊɡɹæm",
+    "type": "common noun, singular",
+    "def": "a computer application",
     "vi": "chương trình",
     "viDef": "ứng dụng máy tính"
   },
   {
     "word": "gigabyte",
     "ipa": "ˈɡɪɡəˌbaɪt",
+    "type": "common noun, plural",
+    "def": "unit to measure a computer's storage capacity",
     "vi": "gigabyte",
     "viDef": "đơn vị đo dung lượng lưu trữ của máy tính"
   },
   {
     "word": "random access memory",
     "ipa": "ˈɹændəm ˈæksɛs ˈmɛmɚi",
+    "type": "",
+    "def": "part of computer that temporarily stores informati",
     "vi": "bộ nhớ RAM",
     "viDef": "phần máy tính lưu tạm thông tin"
   },
   {
     "word": "hard disk",
     "ipa": "hɑɹd dɪsk",
+    "type": "phrase",
+    "def": "part of computer that stores data",
     "vi": "ổ cứng",
     "viDef": "phần máy tính chứa dữ liệu"
   },
   {
     "word": "gigahertz",
     "ipa": "ˈɡɪɡəhɝts",
+    "type": "common noun, non-variable",
+    "def": "measurement of computer processor speed",
     "vi": "gigahertz",
     "viDef": "đơn vị đo tốc độ vi xử lý"
   },
   {
     "word": "processor",
     "ipa": "ˈpɹɑˌsɛsɚ",
+    "type": "common noun, singular",
+    "def": "device in a computer that manages operations",
     "vi": "vi xử lý",
     "viDef": "bộ phận điều hành các phép tính trong máy"
   },
   {
     "word": "crash",
     "ipa": "kɹæʃ",
+    "type": "principle verb, present progressive",
+    "def": "to suddenly stop functioning",
     "vi": "sập",
     "viDef": "bỗng ngừng chạy"
   },
   {
     "word": "guarantee",
     "ipa": "ˌɡɛɹənˈti",
+    "type": "principle verb, present simple",
+    "def": "to make a written promise",
     "vi": "bảo đảm",
     "viDef": "cam kết bằng văn bản"
   },
   {
     "word": "warranty",
     "ipa": "ˈwɔɹənti",
+    "type": "common noun, singular",
+    "def": "a written promise that a seller will repair a product if a problem arises",
     "vi": "giấy bảo hành",
     "viDef": "cam kết bằng giấy rằng bên bán sẽ sửa nếu có lỗi"
   },
   {
     "word": "laptop",
     "ipa": "ˈlæptɑp",
+    "type": "common noun, singular",
+    "def": "a portable computer",
     "vi": "máy tính xách tay",
     "viDef": "máy tính mang đi được"
   },
   {
     "word": "network",
     "ipa": "ˈnɛtwɝk",
+    "type": "common noun, singular",
+    "def": "a system for communicating between computers",
     "vi": "mạng",
     "viDef": "hệ thống nối các máy tính với nhau"
   },
   {
     "word": "evolve",
     "ipa": "ɪˈvɑlv",
+    "type": "verb",
+    "def": "to change into a more advanced state",
     "vi": "tiến hóa",
     "viDef": "đổi lên trạng thái cao hơn"
   },
   {
     "word": "wireless modem",
     "ipa": "ˈwaɪɹlɪs ˈmoʊdəm",
+    "type": "common noun, singular",
+    "def": "a device that allows computers to communicate without wires",
     "vi": "modem không dây",
     "viDef": "thiết bị cho máy tính liên lạc mà không cần dây"
   }

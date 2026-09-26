@@ -2,60 +2,80 @@
   {
     "word": "give out",
     "ipa": "ɡɪv aʊt",
+    "type": "",
+    "def": "to give for free, to give something",
     "vi": "phát cho",
     "viDef": "cho không, đưa ra"
   },
   {
     "word": "trick-or - treat",
     "ipa": "tɹɪk ɔɹ tɹit",
+    "type": "",
+    "def": "a children's Halloween practice of asking for trea",
     "vi": "tục xin bánh Halloween",
     "viDef": "trò trẻ con đi xin bánh kẹo đêm Halloween"
   },
   {
     "word": "dress up",
     "ipa": "dɹɛs ʌp",
+    "type": "",
+    "def": "attire in clothes suited to a particular role",
     "vi": "hóa trang",
     "viDef": "mặc đồ theo một vai nhất định"
   },
   {
     "word": "kidnapper",
     "ipa": "ˈkɪdˌnæpɚ",
+    "type": "",
+    "def": "to seize and detain or carry away by unlawful forc",
     "vi": "kẻ bắt cóc",
     "viDef": "người dùng vũ lực trái phép để giữ hoặc mang người đi"
   },
   {
     "word": "run around",
     "ipa": "ɹʌn ɚˈaʊnd",
+    "type": "",
+    "def": "to go all over the place, to move quickly from one place to another",
     "vi": "chạy nhông",
     "viDef": "đi khắp nơi, chạy hết chỗ này sang chỗ khác"
   },
   {
     "word": "Goblin",
     "ipa": "ˈɡɑblɪn",
+    "type": "",
+    "def": "in folklore and fairy tales, an ugly creature that does evil or mischief to humans.",
     "vi": "yêu tinh",
     "viDef": "trong chuyện cổ, sinh vật xấu xí hay làm điều xấu hoặc quấy con người"
   },
   {
     "word": "Haunted",
     "ipa": "ˈhɔntɪd",
+    "type": "",
+    "def": "inhabited or visited by ghosts.",
     "vi": "bị ma ám",
     "viDef": "có hồn ma trú hoặc lui về"
   },
   {
     "word": "Mummy",
     "ipa": "ˈmʌmi",
+    "type": "",
+    "def": "a corpse preserved by embalming, esp. one embalmed and wrapped by or in the manner of the ancient Egyptians.",
     "vi": "xác ướp",
     "viDef": "thi thể được tẩm giữ, nhất là ướp và bọc theo lối Ai Cập cổ"
   },
   {
     "word": "Potion",
     "ipa": "ˈpoʊʃən",
+    "type": "",
+    "def": "a mixture for drinking, esp. one that is supposed to have medicinal, magical, or poisonous effects.",
     "vi": "thuốc nước phù phép",
     "viDef": "hỗn hợp để uống, được cho là có tác dụng chữa bệnh, phép thuật hoặc gây độc"
   },
   {
     "word": "jack-o'-lantern",
     "ipa": "dʒæk oʊ ˈlæntɚn",
+    "type": "",
+    "def": "A pumpkin that is carved to look scary",
     "vi": "đèn bí ngô",
     "viDef": "quả bí khoét thành hình đáng sợ"
   }

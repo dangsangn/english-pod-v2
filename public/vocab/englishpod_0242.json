@@ -2,78 +2,104 @@
   {
     "word": "tricky",
     "ipa": "ˈtɹɪki",
+    "type": "",
+    "def": "requiring skill or caution",
     "vi": "khó nhằn",
     "viDef": "cần kỹ năng hoặc phải cẩn thận"
   },
   {
     "word": "scale",
     "ipa": "skeɪl",
+    "type": "",
+    "def": "a series of musical notes",
     "vi": "gam nhạc",
     "viDef": "chuỗi các nốt nhạc"
   },
   {
     "word": "tempo",
     "ipa": "ˈtɛmpoʊ",
+    "type": "",
+    "def": "the speed at which a musical piece is played",
     "vi": "nhịp độ",
     "viDef": "tốc độ chơi một bản nhạc"
   },
   {
     "word": "by leaps and bounds",
     "ipa": "baɪ lips ənd baʊndz",
+    "type": "",
+    "def": "very quickly",
     "vi": "nhanh như thổi",
     "viDef": "tiến rất nhanh"
   },
   {
     "word": "musicianship",
     "ipa": "mjuˈzɪʃənʃɪp",
+    "type": "",
+    "def": "the skill of performing music",
     "vi": "tay nghề âm nhạc",
     "viDef": "khả năng biểu diễn nhạc"
   },
   {
     "word": "note",
     "ipa": "noʊt",
+    "type": "",
+    "def": "a specific musical tone",
     "vi": "nốt nhạc",
     "viDef": "một cao độ nhất định trong nhạc"
   },
   {
     "word": "dynamics",
     "ipa": "daɪˈnæmɪks",
+    "type": "",
+    "def": "changes in how loudly a piece of music is played",
     "vi": "sắc thái to nhỏ",
     "viDef": "sự thay đổi độ mạnh nhẹ khi chơi một bản nhạc"
   },
   {
     "word": "key",
     "ipa": "ki",
+    "type": "",
+    "def": "A button depressed with fingers to produce sounds",
     "vi": "phím đàn",
     "viDef": "phím ấn bằng ngón để phát ra tiếng"
   },
   {
     "word": "hammer",
     "ipa": "ˈhæmɚ",
+    "type": "",
+    "def": "a wooden piece which strikes the strings",
     "vi": "búa gõ dây",
     "viDef": "thanh gỗ đập vào dây đàn"
   },
   {
     "word": "string",
     "ipa": "stɹɪŋ",
+    "type": "",
+    "def": "wires that when hit by the hammer produces sounds",
     "vi": "dây đàn",
     "viDef": "các sợi dây phát tiếng khi bị búa gõ"
   },
   {
     "word": "plate",
     "ipa": "pleɪt",
+    "type": "",
+    "def": "the iron frame which holds the strings in place",
     "vi": "khung gang",
     "viDef": "khung sắt giữ các dây đàn đúng vị trí"
   },
   {
     "word": "hitch pin",
     "ipa": "hɪtʃ pɪn",
+    "type": "",
+    "def": "a metal screw that holds one end of the string",
     "vi": "chốt neo dây",
     "viDef": "đinh kim loại giữ một đầu của dây đàn"
   },
   {
     "word": "grand piano",
     "ipa": "ɡɹænd piˈænoʊ",
+    "type": "",
+    "def": "a specific type of piano",
     "vi": "đại dương cầm",
     "viDef": "một loại đàn piano nhất định"
   }

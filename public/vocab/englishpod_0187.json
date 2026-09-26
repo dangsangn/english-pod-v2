@@ -2,60 +2,80 @@
   {
     "word": "starve",
     "ipa": "stɑɹv",
+    "type": "",
+    "def": "to be very hungry",
     "vi": "đói ngấu",
     "viDef": "đang rất đói"
   },
   {
     "word": "love handles",
     "ipa": "lʌv ˈhændəlz",
+    "type": "",
+    "def": "folds of excess fat on either side of the waist",
     "vi": "ngấn mỡ hai bên hông",
     "viDef": "các lớp mỡ dư ở hai bên vòng bụng"
   },
   {
     "word": "calorie",
     "ipa": "ˈkælɚi",
+    "type": "",
+    "def": "a unit of heat",
     "vi": "ca-lo",
     "viDef": "đơn vị đo nhiệt lượng"
   },
   {
     "word": "intake",
     "ipa": "ˈɪnteɪk",
+    "type": "",
+    "def": "a quantity take in",
     "vi": "lượng nạp vào",
     "viDef": "khối lượng đưa vào người"
   },
   {
     "word": "do not count on",
     "ipa": "du nɑt kaʊnt ɑn",
+    "type": "",
+    "def": "do not rely on, depend on",
     "vi": "đừng trông vào",
     "viDef": "chớ dựa hay tin vào điều đó"
   },
   {
     "word": "to diet",
     "ipa": "tu ˈdaɪət",
+    "type": "",
+    "def": "to change what you eat in order to lose weight",
     "vi": "ăn theo chế độ",
     "viDef": "đổi cách ăn để giảm cân"
   },
   {
     "word": "Atkins diet",
     "ipa": "ˈætkɪnz ˈdaɪət",
+    "type": "",
+    "def": "a diet high in protein and low in carbohydrates",
     "vi": "chế độ Atkins",
     "viDef": "lối ăn nhiều đạm, ít tinh bột"
   },
   {
     "word": "anorexia",
     "ipa": "ˌænɚˈɛksiə",
+    "type": "",
+    "def": "diesase in which people starve themselves to be thin",
     "vi": "chứng chán ăn",
     "viDef": "bệnh mà người ta bỏ ăn để cho gầy"
   },
   {
     "word": "obese",
     "ipa": "oʊˈbis",
+    "type": "",
+    "def": "extremely fat",
     "vi": "béo phì",
     "viDef": "quá mập"
   },
   {
     "word": "low-carb",
     "ipa": "loʊ kɑɹb",
+    "type": "",
+    "def": "not containing many carbohydrates",
     "vi": "ít tinh bột",
     "viDef": "không chứa nhiều carbohydrate"
   }

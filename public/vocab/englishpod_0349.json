@@ -2,66 +2,88 @@
   {
     "word": "acupuncture",
     "ipa": "ˈækjuˌpʌŋktʃɚ",
+    "type": "",
+    "def": "Chinese Medical practice or procedure that treats illness or provides local anesthesia by the insertion of needles at specified sites of the body.",
     "vi": "châm cứu",
     "viDef": "phép hoặc thủ thuật y học Trung Hoa chữa bệnh hoặc gây tê cục bộ bằng cách châm kim vào các huyệt trên cơ thể"
   },
   {
     "word": "pressure point",
     "ipa": "ˈpɹɛʃɚ pɔɪnt",
+    "type": "",
+    "def": "a point on the skin that is extremely sensitive to pressure because of the presence of pressure-sensing organs.",
     "vi": "huyệt đạo",
     "viDef": "điểm trên da rất nhạy với lực ấn vì có các cơ quan cảm nhận áp lực"
   },
   {
     "word": "treatment",
     "ipa": "ˈtɹitmənt",
+    "type": "",
+    "def": "an act or manner of treating.",
     "vi": "liệu trình",
     "viDef": "một cách hoặc lần chữa trị"
   },
   {
     "word": "needle",
     "ipa": "ˈnidəl",
+    "type": "",
+    "def": "a small, slender, rodlike instrument, usually of polished steel, with a sharp point at one end",
     "vi": "cây kim",
     "viDef": "dụng cụ nhỏ, mảnh như que, thường bằng thép bóng, một đầu nhọn"
   },
   {
     "word": "cupping",
     "ipa": "ˈkʌpɪŋ",
+    "type": "",
+    "def": "the process of drawing blood from the body and the application of a cupping glass",
     "vi": "giác hơi",
     "viDef": "quá trình hút máu ra khỏi cơ thể và việc dùng ống giác"
   },
   {
     "word": "flesh",
     "ipa": "flɛʃ",
+    "type": "",
+    "def": "the soft substance of a human or other animal body, consisting of muscle and fat.",
     "vi": "thịt da",
     "viDef": "phần mềm của cơ thể người hoặc động vật, gồm cơ và mỡ"
   },
   {
     "word": "painkiller",
     "ipa": "ˈpeɪnˌkɪlɚ",
+    "type": "",
+    "def": "a drug, treatment, or anything else that relieves pain",
     "vi": "thuốc giảm đau",
     "viDef": "thuốc, cách chữa hoặc bất cứ thứ gì làm dịu cơn đau"
   },
   {
     "word": "meditation",
     "ipa": "ˌmɛdəˈteɪʃən",
+    "type": "",
+    "def": "devout religious contemplation or spiritual introspection.",
     "vi": "thiền định",
     "viDef": "sự chiêm niệm sùng kính hoặc soi xét nội tâm"
   },
   {
     "word": "tai chi",
     "ipa": "taɪ kaɪ",
+    "type": "",
+    "def": "a meditative exercise, characterized by slow circular and stretching movements and positions of bodily balance.",
     "vi": "thái cực quyền",
     "viDef": "bài tập mang tính thiền, với các động tác xoay tròn chậm rãi, vươn duỗi và những thế giữ thăng bằng"
   },
   {
     "word": "herb",
     "ipa": "ɝb",
+    "type": "",
+    "def": "a plant when valued for its medicinal properties",
     "vi": "dược thảo",
     "viDef": "loài cây được coi trọng vì tính chất chữa bệnh"
   },
   {
     "word": "incense",
     "ipa": "ɪnˈsɛns",
+    "type": "",
+    "def": "he perfume or smoke arising from a substance when burned",
     "vi": "hương trầm",
     "viDef": "mùi thơm hoặc làn khói tỏa ra khi đốt một chất"
   }

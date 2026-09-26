@@ -2,84 +2,112 @@
   {
     "word": "ruin",
     "ipa": "ˈɹuən",
+    "type": "principle verb, past simple",
+    "def": "destroy",
     "vi": "phá tan",
     "viDef": "hủy hoại"
   },
   {
     "word": "bastard",
     "ipa": "ˈbæstɚd",
+    "type": "common noun, singular",
+    "def": "an cruel or unkind person",
     "vi": "thằng tồi",
     "viDef": "người ác hoặc tệ bạc"
   },
   {
     "word": "jealousy",
     "ipa": "ˈdʒɛləsi",
+    "type": "common noun, plural",
+    "def": "a feeling of being supplanted; apprehensive of losing affection or position.",
     "vi": "sự ghen tức",
     "viDef": "cảm giác bị thay thế, lo mất tình cảm hoặc vị trí"
   },
   {
     "word": "insane",
     "ipa": "ɪnˈseɪn",
+    "type": "Adjective",
+    "def": "very crazy",
     "vi": "điên rồ",
     "viDef": "mất trí, rất rồ"
   },
   {
     "word": "overwhelmed",
     "ipa": "ˌoʊvɚˈwɛlmd",
+    "type": "Adjective",
+    "def": "state of being affected deeply in mind or emotion",
     "vi": "choáng ngợp",
     "viDef": "bị tác động mạnh về tâm trí hoặc cảm xúc"
   },
   {
     "word": "bun in the oven",
     "ipa": "bʌn ɪn ðə ˈʌvən",
+    "type": "phrase",
+    "def": "informal way of saying: pregnant",
     "vi": "có tin vui",
     "viDef": "cách nói thân mật của việc mang thai"
   },
   {
     "word": "confess",
     "ipa": "kənˈfɛs",
+    "type": "principle verb, infinitive",
+    "def": "to admit (a fault or crime)",
     "vi": "thừa nhận",
     "viDef": "nhận lỗi hoặc nhận tội"
   },
   {
     "word": "ridiculous",
     "ipa": "ɹɪˈdɪkjələs",
+    "type": "Adjective",
+    "def": "absurd, not logical",
     "vi": "vô lý",
     "viDef": "nghịch lý, không hợp lẽ"
   },
   {
     "word": "eavesdrop",
     "ipa": "ˈivzdɹɑp",
+    "type": "verb",
+    "def": "listen to another person's conversation",
     "vi": "nghe lén",
     "viDef": "nghe trộm chuyện của người khác"
   },
   {
     "word": "split up with",
     "ipa": "splɪt ʌp wɪð",
+    "type": "phrase",
+    "def": "end a relationship with",
     "vi": "chia tay với",
     "viDef": "kết thúc quan hệ với ai"
   },
   {
     "word": "deceit",
     "ipa": "dəˈsit",
+    "type": "common noun, non-variable",
+    "def": "dishonest behavior",
     "vi": "sự dối trá",
     "viDef": "cách xử sự không thật thà"
   },
   {
     "word": "a homewrecker",
     "ipa": "ə ˈhoʊmˌɹɛkɚ",
+    "type": "phrase",
+    "def": "a person who has a relationship with a married man or a married woman",
     "vi": "kẻ phá hoại gia đình",
     "viDef": "người dính vào quan hệ với người đã có vợ hoặc có chồng"
   },
   {
     "word": "a fraud",
     "ipa": "ə fɹɔd",
+    "type": "common noun, singular",
+    "def": "a person who is not who they seem; a person who lies",
     "vi": "kẻ giả tạo",
     "viDef": "người không như bề ngoài, kẻ dối trá"
   },
   {
     "word": "unfaithful",
     "ipa": "ənˈfeɪθfəl",
+    "type": "Adjective",
+    "def": "to have a sexual relationship with someone who is not your husband, wife, boyfriend, or girlfriend",
     "vi": "không chung thủy",
     "viDef": "có quan hệ với người không phải vợ, chồng hay người yêu mình"
   }

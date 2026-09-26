@@ -2,60 +2,80 @@
   {
     "word": "blow someone off",
     "ipa": "bloʊ ˈsʌmwʌn ɔf",
+    "type": "",
+    "def": "to ignore someone or not appear to an appointment",
     "vi": "bỏ mặc, xù hẹn",
     "viDef": "phớt lờ ai hoặc không đến chỗ đã hẹn"
   },
   {
     "word": "challenging",
     "ipa": "ˈtʃæləndʒɪŋ",
+    "type": "",
+    "def": "difficult in an enjoyable way",
     "vi": "thử thách mà thú",
     "viDef": "khó nhưng chơi thấy vui"
   },
   {
     "word": "beat",
     "ipa": "bit",
+    "type": "",
+    "def": "defeat",
     "vi": "thắng, hạ",
     "viDef": "đánh bại"
   },
   {
     "word": "hooked",
     "ipa": "hʊkt",
+    "type": "",
+    "def": "addicted",
     "vi": "nghiện rồi",
     "viDef": "bị cuốn không dứt ra được"
   },
   {
     "word": "waste",
     "ipa": "weɪst",
+    "type": "",
+    "def": "use more than necessary",
     "vi": "tốn vô ích",
     "viDef": "dùng nhiều hơn mức cần"
   },
   {
     "word": "strategy",
     "ipa": "ˈstɹætədʒi",
+    "type": "",
+    "def": "a plan to obtain a specific result",
     "vi": "chiến lược",
     "viDef": "kế hoạch để đạt một kết quả cụ thể"
   },
   {
     "word": "simulation",
     "ipa": "ˌsɪmjəˈleɪʃən",
+    "type": "",
+    "def": "something that imitates reality to seem real",
     "vi": "mô phỏng",
     "viDef": "thứ dựng lại thực tế cho giống như thật"
   },
   {
     "word": "real-time",
     "ipa": "ɹil taɪm",
+    "type": "",
+    "def": "describes when a game is played live",
     "vi": "thời gian thực",
     "viDef": "nói về lối chơi diễn ra trực tiếp"
   },
   {
     "word": "hardcore",
     "ipa": "ˈhɑɹdˈkɔɹ",
+    "type": "",
+    "def": "being extremely dedicated to something",
     "vi": "dốc hết mình",
     "viDef": "cực kỳ tận tâm với việc gì"
   },
   {
     "word": "to own",
     "ipa": "tu oʊn",
+    "type": "",
+    "def": "to win a battle and take over the enemy in a game",
     "vi": "nghiền đối thủ",
     "viDef": "thắng và áp đảo đối phương trong trò chơi"
   }

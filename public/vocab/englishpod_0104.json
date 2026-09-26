@@ -2,162 +2,216 @@
   {
     "word": "slalom",
     "ipa": "ˈslɑləm",
+    "type": "common noun, singular",
+    "def": "a skiing race where you must go though flags",
     "vi": "đua trượt vượt cọc",
     "viDef": "cuộc đua ván trượt phải lách qua các cờ"
   },
   {
     "word": "champion",
     "ipa": "ˈtʃæmpiən",
+    "type": "common noun, singular",
+    "def": "winner",
     "vi": "nhà vô địch",
     "viDef": "người thắng"
   },
   {
     "word": "hit the slopes",
     "ipa": "hɪt ðə sloʊps",
+    "type": "phrase",
+    "def": "start skiing",
     "vi": "xuống dốc trượt",
     "viDef": "bắt đầu chơi trượt tuyết"
   },
   {
     "word": "snugly",
     "ipa": "ˈsnʌɡli",
+    "type": "General Adverb",
+    "def": "fitting very tightly",
     "vi": "khít khao",
     "viDef": "vừa sát, bó chặt"
   },
   {
     "word": "snap",
     "ipa": "snæp",
+    "type": "principle verb, imperative",
+    "def": "make something attach by pressing down",
     "vi": "gài tách một cái",
     "viDef": "ấn xuống cho khớp vào"
   },
   {
     "word": "binding",
     "ipa": "ˈbaɪndɪŋ",
+    "type": "common noun, plural",
+    "def": "a bottom part that attaches the boot to a ski",
     "vi": "khóa gắn ván",
     "viDef": "phần dưới giữ giày vào ván trượt"
   },
   {
     "word": "goggles",
     "ipa": "ˈɡɑɡəlz",
+    "type": "common noun, plural",
+    "def": "a pair of glasses used to protect one's eyes",
     "vi": "kính bảo hộ",
     "viDef": "kính đeo để che mắt"
   },
   {
     "word": "glare",
     "ipa": "ɡlɛɹ",
+    "type": "common noun, singular",
+    "def": "bright light that is reflected by the snow",
     "vi": "ánh lóa",
     "viDef": "ánh sáng chói phản từ mặt tuyết"
   },
   {
     "word": "slopes",
     "ipa": "sloʊps",
+    "type": "common noun, plural",
+    "def": "a space on the mountain which is used for skiing",
     "vi": "sườn dốc trượt",
     "viDef": "khoảng trên núi dùng để trượt tuyết"
   },
   {
     "word": "mogul",
     "ipa": "ˈmoʊɡəl",
+    "type": "common noun, plural",
+    "def": "a bump on a ski hill",
     "vi": "ụ tuyết",
     "viDef": "chỗ gồ lên trên đường trượt"
   },
   {
     "word": "ski glove",
     "ipa": "ski ɡlʌv",
+    "type": "common noun, plural",
+    "def": "a covering of hands with each finger separated tha",
     "vi": "găng trượt tuyết",
     "viDef": "bao tay có ngăn riêng từng ngón"
   },
   {
     "word": "snow-plow turn",
     "ipa": "snoʊ plaʊ tɝn",
+    "type": "common noun, singular",
+    "def": "a slow, easy turn where you make a V with the skis",
     "vi": "quay kiểu chữ V",
     "viDef": "cú đổi hướng chậm, dễ, hai ván chụm thành hình V"
   },
   {
     "word": "carving",
     "ipa": "ˈkɑɹvɪŋ",
+    "type": "common noun, non-variable",
+    "def": "turn on your skis with your edges",
     "vi": "cắt cạnh ván",
     "viDef": "đổi hướng bằng cách nghiêng cạnh ván trượt"
   },
   {
     "word": "chairlift",
     "ipa": "ˈtʃɛɹlɪft",
+    "type": "common noun, singular",
+    "def": "a line of chairs tha moving cable that carries peo",
     "vi": "ghế treo cáp",
     "viDef": "dãy ghế trên dây cáp chuyển động để chở người lên"
   },
   {
     "word": "apres-ski",
     "ipa": "ˌɑpɹeɪ ˈski",
+    "type": "common noun, non-variable",
+    "def": "a party or drinks after skiing",
     "vi": "tiệc sau buổi trượt",
     "viDef": "buổi tụ tập uống sau khi trượt tuyết"
   },
   {
     "word": "grab some freshies",
     "ipa": "ɡɹæb sʌm ˈfɹɛʃiz",
+    "type": "phrase",
+    "def": "ski on the area that has never been skied before",
     "vi": "trượt trên tuyết mới",
     "viDef": "trượt ở vùng chưa ai đặt ván qua"
   },
   {
     "word": "yard sale",
     "ipa": "jɑɹd seɪl",
+    "type": "phrase",
+    "def": "falling so hard that you lose all your ski equipment",
     "vi": "té bay đồ",
     "viDef": "ngã mạnh tới mức rơi hết dụng cụ trượt"
   },
   {
     "word": "catch some major air",
     "ipa": "kætʃ sʌm ˈmeɪdʒɚ ɛɹ",
+    "type": "phrase",
+    "def": "used to describe a skier jumps really really high",
     "vi": "bay cao vút",
     "viDef": "nói khi người trượt bật lên rất cao"
   },
   {
     "word": "bump",
     "ipa": "bʌmp",
+    "type": "common noun, singular",
+    "def": "small hill",
     "vi": "mô đất",
     "viDef": "chỗ nhô nhỏ"
   },
   {
     "word": "gnarley",
     "ipa": "ˈnɑɹli",
+    "type": "Adjective",
+    "def": "awesome, cool (used by ski lovers)",
     "vi": "đỉnh cao",
     "viDef": "tuyệt, ngầu (dân trượt tuyết hay dùng)"
   },
   {
     "word": "take a spill",
     "ipa": "teɪk ə spɪl",
+    "type": "principle verb, subjunctive",
+    "def": "fall",
     "vi": "té một cú",
     "viDef": "bị ngã"
   },
   {
     "word": "that about does it",
     "ipa": "ðæt əˈbaʊt dʌz ɪt",
+    "type": "phrase",
+    "def": "it's finished; it's almost done",
     "vi": "thế là xong",
     "viDef": "đã hoàn tất, gần như xong"
   },
   {
     "word": "lodge",
     "ipa": "lɑdʒ",
+    "type": "common noun, singular",
+    "def": "the building that has restaurants and stores on the ski hill",
     "vi": "nhà nghỉ khu trượt",
     "viDef": "tòa nhà có quán ăn và cửa hàng ở khu trượt tuyết"
   },
   {
     "word": "pow",
     "ipa": "paʊ",
+    "type": "common noun, non-variable",
+    "def": "(powder) soft, light snow",
     "vi": "tuyết bột",
     "viDef": "lớp tuyết mềm, nhẹ"
   },
   {
     "word": "avy",
     "ipa": "ˈævi",
+    "type": "common noun, singular",
+    "def": "(avalanche) lots of snow falling off the mountain",
     "vi": "lở tuyết",
     "viDef": "khối tuyết lớn đổ xuống từ trên núi"
   },
   {
     "word": "liftie",
     "ipa": "ˈlɪfti",
+    "type": "common noun, singular",
+    "def": "a person who operates the chairlift",
     "vi": "người trông ghế cáp",
     "viDef": "nhân viên vận hành ghế treo"
   },
   {
     "word": "bowl",
     "ipa": "boʊl",
+    "type": "common noun, singular",
+    "def": "a steep hill with high sides, shaped like a bowl",
     "vi": "lòng chảo",
     "viDef": "sườn dốc thành cao, hình như cái bát"
   }

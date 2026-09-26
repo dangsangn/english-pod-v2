@@ -2,72 +2,96 @@
   {
     "word": "I love what you have done with",
     "ipa": "aɪ lʌv wʌt ju hæv dʌn wɪð",
+    "type": "phrase",
+    "def": "I really like the design or the change you made",
     "vi": "tôi thích cách anh/chị làm cho...",
     "viDef": "rất thích thiết kế hoặc thay đổi bạn đã làm"
   },
   {
     "word": "you haven't aged a day",
     "ipa": "ju ˈhævənt eɪdʒd ə deɪ",
+    "type": "verb",
+    "def": "you haven't gotten older; you look young",
     "vi": "trông chẳng già đi chút nào",
     "viDef": "vẫn trẻ như xưa"
   },
   {
     "word": "work out",
     "ipa": "wɝk aʊt",
+    "type": "phrase",
+    "def": "do physical exercises",
     "vi": "tập thể dục",
     "viDef": "rèn luyện thân thể"
   },
   {
     "word": "by the way",
     "ipa": "baɪ ðə weɪ",
+    "type": "phrase",
+    "def": "phrase used to shift to another topic",
     "vi": "à này",
     "viDef": "câu dùng để chuyển sang chuyện khác"
   },
   {
     "word": "bar exam",
     "ipa": "bɑɹ ɪɡˈzæm",
+    "type": "common noun, singular",
+    "def": "the exam to qualify as a lawer",
     "vi": "kỳ thi luật sư",
     "viDef": "bài thi để được hành nghề luật"
   },
   {
     "word": "get going",
     "ipa": "ɡɛt ˈɡoʊɪŋ",
+    "type": "phrase",
+    "def": "leave",
     "vi": "đi nhé",
     "viDef": "rời đi"
   },
   {
     "word": "obnoxious",
     "ipa": "ɑbˈnɑkʃəs",
+    "type": "Adjective",
+    "def": "really annoying",
     "vi": "khó chịu hết sức",
     "viDef": "rất đáng ghét"
   },
   {
     "word": "small talk",
     "ipa": "smɔl tɔk",
+    "type": "common noun, non-variable",
+    "def": "short, friendly, unimportant conversations",
     "vi": "chuyện xã giao",
     "viDef": "những mẩu trò chuyện ngắn, thân thiện, không quan trọng"
   },
   {
     "word": "talk behind (somone's) back",
     "ipa": "tɔk bɪˈhaɪnd ˈsʌmwʌnz bæk",
+    "type": "phrase",
+    "def": "speak badly of someone with out them knowing",
     "vi": "nói sau lưng",
     "viDef": "nói xấu ai khi họ không biết"
   },
   {
     "word": "two-faced",
     "ipa": "tu feɪst",
+    "type": "Adjective",
+    "def": "pretend to like someone when you don't; be hypocritical",
     "vi": "hai mặt",
     "viDef": "giả vờ thích ai trong khi không thật lòng"
   },
   {
     "word": "stab (somone) in the back",
     "ipa": "stæb ˈsʌmwʌn ɪn ðə bæk",
+    "type": "phrase",
+    "def": "do something unkind to a friend",
     "vi": "chơi xấu bạn",
     "viDef": "làm điều tệ với người bạn của mình"
   },
   {
     "word": "gossip",
     "ipa": "ˈɡɑsəp",
+    "type": "verb",
+    "def": "talk about the details of other people's lives",
     "vi": "nói chuyện đời tư",
     "viDef": "bàn tán về đời sống của người khác"
   }

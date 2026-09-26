@@ -2,102 +2,136 @@
   {
     "word": "dweeb",
     "ipa": "dwib",
+    "type": "common noun, singular",
+    "def": "nerd, loser",
     "vi": "thằng đần dở",
     "viDef": "kẻ lù đù, thất bại"
   },
   {
     "word": "to get with",
     "ipa": "tu ɡɛt wɪð",
+    "type": "principle verb, infinitive",
+    "def": "to be romantic with (slang)",
     "vi": "cặp với",
     "viDef": "yêu đương với ai (tiếng lóng)"
   },
   {
     "word": "airhead",
     "ipa": "ˈɛɹhɛd",
+    "type": "common noun, singular",
+    "def": "a silly or stupid person",
     "vi": "đầu rỗng",
     "viDef": "người khờ hoặc ngốc"
   },
   {
     "word": "wicked",
     "ipa": "ˈwɪkəd",
+    "type": "Adjective",
+    "def": "very good (slang)",
     "vi": "đỉnh",
     "viDef": "rất hay (tiếng lóng)"
   },
   {
     "word": "loaded",
     "ipa": "ˈloʊdɪd",
+    "type": "Adjective",
+    "def": "rich",
     "vi": "giàu nứt",
     "viDef": "nhiều tiền"
   },
   {
     "word": "butt ugly",
     "ipa": "bʌt ˈʌɡli",
+    "type": "Adjective",
+    "def": "very ugly",
     "vi": "xấu không tả",
     "viDef": "cực xấu"
   },
   {
     "word": "ride",
     "ipa": "ɹaɪd",
+    "type": "common noun, singular",
+    "def": "car (slang)",
     "vi": "xế",
     "viDef": "chiếc xe (tiếng lóng)"
   },
   {
     "word": "dude",
     "ipa": "dud",
+    "type": "common noun, singular",
+    "def": "man (slang)",
     "vi": "gã, ông bạn",
     "viDef": "anh chàng (tiếng lóng)"
   },
   {
     "word": "fresh",
     "ipa": "fɹɛʃ",
+    "type": "Adjective",
+    "def": "new, cool (slang)",
     "vi": "mới toanh, ngầu",
     "viDef": "mới, hay (tiếng lóng)"
   },
   {
     "word": "bad to the bones",
     "ipa": "bæd tu ðə boʊnz",
+    "type": "phrase",
+    "def": "completely cool",
     "vi": "ngầu tới xương",
     "viDef": "ngầu hết mực"
   },
   {
     "word": "psych",
     "ipa": "saɪk",
+    "type": "Interjection",
+    "def": "just kidding; I was joking",
     "vi": "giỡn thôi",
     "viDef": "tôi chỉ đùa"
   },
   {
     "word": "have a cow",
     "ipa": "hæv ə kaʊ",
+    "type": "phrase",
+    "def": "get angry",
     "vi": "làm dữ lên",
     "viDef": "nổi giận"
   },
   {
     "word": "411",
     "ipa": "ˌfɔɹ wʌn ˈwʌn",
+    "type": "phrase",
+    "def": "information",
     "vi": "thông tin",
     "viDef": "tin tức cần biết"
   },
   {
     "word": "take a chill pill",
     "ipa": "teɪk ə tʃɪl pɪl",
+    "type": "phrase",
+    "def": "relax; chill out",
     "vi": "hạ nhiệt cái đi",
     "viDef": "bình tĩnh, thư giãn"
   },
   {
     "word": "jock",
     "ipa": "dʒɑk",
+    "type": "common noun, singular",
+    "def": "a male who plays a lot of sport",
     "vi": "tay thể thao",
     "viDef": "chàng trai chơi thể thao nhiều"
   },
   {
     "word": "jet",
     "ipa": "dʒɛt",
+    "type": "verb",
+    "def": "leave a place quickly",
     "vi": "biến cho lẹ",
     "viDef": "rời khỏi nơi nào thật nhanh"
   },
   {
     "word": "bite me",
     "ipa": "baɪt mi",
+    "type": "phrase",
+    "def": "leave me alone; go away; I don't care",
     "vi": "dẹp đi",
     "viDef": "để tôi yên, tôi chẳng quan tâm"
   }

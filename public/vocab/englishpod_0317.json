@@ -2,60 +2,80 @@
   {
     "word": "stub",
     "ipa": "stʌb",
+    "type": "",
+    "def": "for keeping a record of the content of the part filled out and torn away.",
     "vi": "cuống phiếu",
     "viDef": "phần giữ lại để lưu nội dung của tờ đã điền và xé đi"
   },
   {
     "word": "federal",
     "ipa": "ˈfɛdɚəl",
+    "type": "",
+    "def": "of or relating to a form of government or a country in which power is divided between one central and several regional governments",
     "vi": "thuộc liên bang",
     "viDef": "liên quan tới thể chế hoặc quốc gia mà quyền lực được chia giữa một chính quyền trung ương và nhiều chính quyền vùng"
   },
   {
     "word": "income",
     "ipa": "ˈɪnkʌm",
+    "type": "",
+    "def": "amount of money that you receive",
     "vi": "thu nhập",
     "viDef": "số tiền bạn nhận được"
   },
   {
     "word": "fund",
     "ipa": "fʌnd",
+    "type": "",
+    "def": "a sum of money or other resources whose principal or interest is set aside for a specific objective",
     "vi": "quỹ",
     "viDef": "khoản tiền hoặc nguồn lực mà phần gốc hoặc lãi được dành cho một mục tiêu cụ thể"
   },
   {
     "word": "self-explanatory",
     "ipa": "sɛlf ɪkˈsplænəˌtɔɹi",
+    "type": "",
+    "def": "needing no explanation,obvious",
     "vi": "tự nó đã rõ",
     "viDef": "không cần giải thích, hiển nhiên"
   },
   {
     "word": "basic",
     "ipa": "ˈbeɪsɪk",
+    "type": "",
+    "def": "elementary or simple",
     "vi": "cơ bản",
     "viDef": "sơ đẳng hoặc đơn giản"
   },
   {
     "word": "jargon",
     "ipa": "ˈdʒɑɹɡən",
+    "type": "",
+    "def": "language peculiar to a particular trade, profession, or group",
     "vi": "tiếng chuyên ngành",
     "viDef": "ngôn từ riêng của một nghề, ngành hoặc nhóm"
   },
   {
     "word": "welfare",
     "ipa": "ˈwɛlfɛɹ",
+    "type": "",
+    "def": "financial or other assistance to an individual or family from a city, state, or national government",
     "vi": "trợ cấp xã hội",
     "viDef": "khoản hỗ trợ tiền hoặc thứ khác cho một người hay gia đình từ chính quyền thành phố, tiểu bang hoặc quốc gia"
   },
   {
     "word": "deposit",
     "ipa": "dəˈpɑzɪt",
+    "type": "",
+    "def": "to place for safekeeping or in trust",
     "vi": "gửi vào",
     "viDef": "đặt vào nơi cất giữ hoặc ủy thác"
   },
   {
     "word": "tax",
     "ipa": "tæks",
+    "type": "",
+    "def": "a sum of money demanded by a government for its support or for specific facilities or services",
     "vi": "thuế",
     "viDef": "khoản tiền nhà nước thu để chi cho bộ máy hoặc cho các tiện ích và dịch vụ nhất định"
   }

@@ -2,60 +2,80 @@
   {
     "word": "to give one hundred and ten percent",
     "ipa": "tu ɡɪv wʌn ˈhʌndɹəd ənd tɛn pɚˈsɛnt",
+    "type": "phrase",
+    "def": "to try your best",
     "vi": "dốc hết sức",
     "viDef": "cố gắng hết mình"
   },
   {
     "word": "two-by-four",
     "ipa": "tu baɪ fɔɹ",
+    "type": "common noun, singular",
+    "def": "a piece of wood that is 2 inches thick and 4 inche",
     "vi": "thanh gỗ 2x4",
     "viDef": "miếng gỗ dày 2 inch, rộng 4 inch"
   },
   {
     "word": "take pride in your work",
     "ipa": "teɪk pɹaɪd ɪn jɔɹ wɝk",
+    "type": "phrase",
+    "def": "let your effort be a reflection of your skill",
     "vi": "tự hào với việc mình làm",
     "viDef": "để công sức mình thể hiện tay nghề"
   },
   {
     "word": "plans",
     "ipa": "plænz",
+    "type": "common noun, plural",
+    "def": "set of actions to complete a task",
     "vi": "bản vẽ, kế hoạch",
     "viDef": "chuỗi việc phải làm để hoàn thành công đoạn"
   },
   {
     "word": "measuring tape",
     "ipa": "ˈmɛʒɚɪŋ teɪp",
+    "type": "common noun, non-variable",
+    "def": "a tool used to measure how long something is",
     "vi": "thước dây",
     "viDef": "dụng cụ đo chiều dài"
   },
   {
     "word": "table saw",
     "ipa": "ˈteɪbəl sɔ",
+    "type": "common noun, singular",
+    "def": "a circular saw mounted under a table or bench so that large pieces of wood could be cut",
     "vi": "máy cưa bàn",
     "viDef": "lưỡi cưa tròn gắn dưới mặt bàn để cắt gỗ tấm lớn"
   },
   {
     "word": "moulding",
     "ipa": "ˈmoʊldɪŋ",
+    "type": "common noun, singular",
+    "def": "a decorative strip used for ornamentation or finishing on the edges of a wall",
     "vi": "nẹp trang trí",
     "viDef": "thanh dùng để trang trí hoặc hoàn thiện viền tường"
   },
   {
     "word": "drywall",
     "ipa": "ˈdɹaɪwɑl",
+    "type": "common noun, singular",
+    "def": "A wall or ceiling constructed of a prefabricated material, such as plasterboard or paneling.",
     "vi": "tấm thạch cao",
     "viDef": "tường hoặc trần làm từ tấm vật liệu sẵn như thạch cao"
   },
   {
     "word": "contractor",
     "ipa": "ˈkɑnˌtɹæktɚ",
+    "type": "common noun, singular",
+    "def": "a person or firm that supplies materials or labour for other companies",
     "vi": "nhà thầu",
     "viDef": "người hoặc công ty cung ứng vật liệu hay nhân công cho bên khác"
   },
   {
     "word": "carpenter",
     "ipa": "ˈkɑɹpəntɚ",
+    "type": "common noun, singular",
+    "def": "a person who makes or repairs wooden structures",
     "vi": "thợ mộc",
     "viDef": "người làm hoặc sửa các kết cấu gỗ"
   }

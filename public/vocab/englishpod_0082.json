@@ -2,84 +2,112 @@
   {
     "word": "heck",
     "ipa": "hɛk",
+    "type": "common noun, non-variable",
+    "def": "hell in a more polite form",
     "vi": "quái, gì thế",
     "viDef": "cách nói nhẹ hơn của \"hell\""
   },
   {
     "word": "make it out",
     "ipa": "meɪk ɪt aʊt",
+    "type": "phrase",
+    "def": "able to escape or flee",
     "vi": "thoát ra được",
     "viDef": "chạy hoặc trốn ra được"
   },
   {
     "word": "creature",
     "ipa": "ˈkɹitʃɚ",
+    "type": "common noun, singular",
+    "def": "a living thing",
     "vi": "sinh vật",
     "viDef": "vật sống"
   },
   {
     "word": "break free",
     "ipa": "bɹeɪk fɹi",
+    "type": "phrase",
+    "def": "get out of something",
     "vi": "vùng thoát",
     "viDef": "giằng ra khỏi thứ gì"
   },
   {
     "word": "lemme",
     "ipa": "ˈlɛmə",
+    "type": "Contraction",
+    "def": "let me",
     "vi": "để tôi",
     "viDef": "cách nói tắt của \"let me\""
   },
   {
     "word": "suspect",
     "ipa": "səˈspɛkt",
+    "type": "verb",
+    "def": "regard someone as a criminal or to be guilty",
     "vi": "nghi là",
     "viDef": "coi ai như kẻ phạm tội"
   },
   {
     "word": "kidnapper",
     "ipa": "ˈkɪdˌnæpɚ",
+    "type": "common noun, singular",
+    "def": "the kind of criminal that catches someone and asks the family for money",
     "vi": "kẻ bắt cóc",
     "viDef": "tội phạm bắt người rồi đòi tiền gia đình"
   },
   {
     "word": "rapist",
     "ipa": "ˈɹeɪpɪst",
+    "type": "common noun, singular",
+    "def": "the kind of criminal who forces someone to have sex",
     "vi": "kẻ cưỡng hiếp",
     "viDef": "tội phạm cưỡng ép người khác quan hệ"
   },
   {
     "word": "have a look",
     "ipa": "hæv ə lʊk",
+    "type": "phrase",
+    "def": "take a glance",
     "vi": "xem thử",
     "viDef": "ngó qua một cái"
   },
   {
     "word": "larceny",
     "ipa": "ˈlɑɹsəni",
+    "type": "common noun, singular",
+    "def": "act of stealing something",
     "vi": "tội trộm cắp",
     "viDef": "hành vi lấy của người khác"
   },
   {
     "word": "homicide",
     "ipa": "ˈhɑməˌsaɪd",
+    "type": "common noun, singular",
+    "def": "the act of killing another person",
     "vi": "tội giết người",
     "viDef": "hành vi sát hại người khác"
   },
   {
     "word": "wanna",
     "ipa": "ˈwɑnə",
+    "type": "Contraction",
+    "def": "want to",
     "vi": "muốn",
     "viDef": "cách nói tắt của \"want to\""
   },
   {
     "word": "gonna",
     "ipa": "ˈɡɑnə",
+    "type": "Contraction",
+    "def": "going to",
     "vi": "sẽ",
     "viDef": "cách nói tắt của \"going to\""
   },
   {
     "word": "DUI",
     "ipa": "ˌdi ju ˈaɪ",
+    "type": "common noun, singular",
+    "def": "abbreviation for Driving Under the Influence. To drive while being intoxicated",
     "vi": "lái xe khi có men",
     "viDef": "viết tắt của Driving Under the Influence, lái xe khi đã uống rượu"
   }

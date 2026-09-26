@@ -2,60 +2,80 @@
   {
     "word": "notoriously",
     "ipa": "noʊˈtɔɹiəsli",
+    "type": "",
+    "def": "publicly or generally known, as for a particular trait",
     "vi": "nổi tiếng là",
     "viDef": "ai cũng biết, nhất là về một đặc điểm nào đó"
   },
   {
     "word": "aroma",
     "ipa": "ɚˈoʊmə",
+    "type": "",
+    "def": "the way something smells",
     "vi": "hương thơm",
     "viDef": "mùi của thứ gì"
   },
   {
     "word": "crisp",
     "ipa": "kɹɪsp",
+    "type": "",
+    "def": "invigorating",
     "vi": "tươi sảng",
     "viDef": "làm cho sảng khoái"
   },
   {
     "word": "bone-dry",
     "ipa": "boʊn dɹaɪ",
+    "type": "",
+    "def": "no moisture, dry",
     "vi": "khô khốc",
     "viDef": "không còn chút ẩm, khô"
   },
   {
     "word": "subtle",
     "ipa": "ˈsʌtəl",
+    "type": "",
+    "def": "Fine or delicate",
     "vi": "tinh tế",
     "viDef": "thanh nhã hoặc mảnh mai"
   },
   {
     "word": "chardonnay",
     "ipa": "tʃɑɹˈdɑneɪ",
+    "type": "",
+    "def": "a dry white wine made from this grape",
     "vi": "rượu chardonnay",
     "viDef": "rượu vang trắng khô làm từ giống nho này"
   },
   {
     "word": "grape vine",
     "ipa": "ɡɹeɪp vaɪn",
+    "type": "",
+    "def": "A vine on which grapes grow.",
     "vi": "giàn nho",
     "viDef": "cây leo mà nho mọc trên đó"
   },
   {
     "word": "acidity",
     "ipa": "əˈsɪdəti",
+    "type": "",
+    "def": "The state, quality, or degree of being acid.",
     "vi": "độ chua",
     "viDef": "trạng thái, tính chất hoặc mức độ chua"
   },
   {
     "word": "zesty",
     "ipa": "ˈzɛsti",
+    "type": "",
+    "def": "affecting the organs of taste or smell with a strong and often harsh sensation",
     "vi": "nồng gắt",
     "viDef": "tác động lên vị giác hoặc khứu giác bằng cảm giác mạnh, có khi gắt"
   },
   {
     "word": "sharp",
     "ipa": "ʃɑɹp",
+    "type": "",
+    "def": "quick, acute, or penetrating",
     "vi": "sắc gắt",
     "viDef": "nhanh, gắt hoặc thấm sâu"
   }

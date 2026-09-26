@@ -2,66 +2,88 @@
   {
     "word": "borrow",
     "ipa": "ˈbɑɹoʊ",
+    "type": "",
+    "def": "to take or have something temporarily",
     "vi": "mượn",
     "viDef": "lấy hoặc giữ thứ gì tạm thời"
   },
   {
     "word": "bucks",
     "ipa": "bʌks",
+    "type": "",
+    "def": "dollar (slang )",
     "vi": "đô",
     "viDef": "đồng đô-la (tiếng lóng)"
   },
   {
     "word": "lend",
     "ipa": "lɛnd",
+    "type": "",
+    "def": "to give something to someone temporarily",
     "vi": "cho mượn",
     "viDef": "đưa thứ gì cho ai dùng tạm"
   },
   {
     "word": "repay",
     "ipa": "ɹiˈpeɪ",
+    "type": "",
+    "def": "pay back",
     "vi": "trả lại",
     "viDef": "hoàn lại tiền"
   },
   {
     "word": "trust",
     "ipa": "tɹʌst",
+    "type": "",
+    "def": "confident expectation of something; hope.",
     "vi": "sự tin tưởng",
     "viDef": "lòng trông đợi chắc chắn vào điều gì; niềm hy vọng"
   },
   {
     "word": "collateral",
     "ipa": "kəˈlætɚəl",
+    "type": "",
+    "def": "security pledged for the payment of a loan",
     "vi": "tài sản thế chấp",
     "viDef": "vật bảo đảm cho việc trả một khoản vay"
   },
   {
     "word": "barter",
     "ipa": "ˈbɑɹtɚ",
+    "type": "",
+    "def": "the act of exchanging goods for other goods",
     "vi": "đổi hàng",
     "viDef": "việc trao hàng hóa này lấy hàng hóa khác"
   },
   {
     "word": "mooch",
     "ipa": "mutʃ",
+    "type": "",
+    "def": "a person that is always asking to borrow money or food",
     "vi": "kẻ hay xin xỏ",
     "viDef": "người lúc nào cũng hỏi mượn tiền hoặc xin đồ ăn"
   },
   {
     "word": "loan",
     "ipa": "loʊn",
+    "type": "",
+    "def": "Something lent for temporary use",
     "vi": "khoản vay",
     "viDef": "thứ được cho mượn dùng tạm"
   },
   {
     "word": "interest",
     "ipa": "ˈɪntɹəst",
+    "type": "",
+    "def": "a percentage added to a loan as a fee for lending money",
     "vi": "tiền lãi",
     "viDef": "phần trăm cộng vào khoản vay như phí cho việc cho vay"
   },
   {
     "word": "past due",
     "ipa": "pæst du",
+    "type": "",
+    "def": "the status of a scheduled loan payment that has not been paid on time.",
     "vi": "quá hạn trả",
     "viDef": "tình trạng một kỳ trả nợ đã đến hạn mà chưa được thanh toán"
   }

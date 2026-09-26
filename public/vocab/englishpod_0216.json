@@ -2,66 +2,88 @@
   {
     "word": "eat right",
     "ipa": "it ɹaɪt",
+    "type": "",
+    "def": "have healthy food",
     "vi": "ăn uống lành",
     "viDef": "dùng thức ăn tốt cho sức khỏe"
   },
   {
     "word": "lifestyle",
     "ipa": "ˈlaɪfstaɪl",
+    "type": "",
+    "def": "the way people live",
     "vi": "lối sống",
     "viDef": "cách người ta sống"
   },
   {
     "word": "junk food",
     "ipa": "dʒʌŋk fud",
+    "type": "",
+    "def": "a high-calorie food and low in nutritional value",
     "vi": "đồ ăn vặt kém lành",
     "viDef": "thức ăn nhiều ca-lo mà ít dinh dưỡng"
   },
   {
     "word": "organic",
     "ipa": "ɔɹˈɡænɪk",
+    "type": "",
+    "def": "without using any chemicals",
     "vi": "hữu cơ",
     "viDef": "không dùng hóa chất"
   },
   {
     "word": "green",
     "ipa": "ɡɹin",
+    "type": "",
+    "def": "healthy to the body",
     "vi": "lành cho cơ thể",
     "viDef": "tốt cho sức khỏe"
   },
   {
     "word": "doughnut",
     "ipa": "ˈdoʊnʌt",
+    "type": "",
+    "def": "small ring-shaped friedcakes",
     "vi": "bánh vòng",
     "viDef": "bánh chiên nhỏ hình vòng"
   },
   {
     "word": "Consciousness",
     "ipa": "ˈkɑnʃəsnəs",
+    "type": "",
+    "def": "To be aware of something",
     "vi": "sự để tâm",
     "viDef": "việc nhận biết về điều gì"
   },
   {
     "word": "Health Nut",
     "ipa": "hɛlθ nʌt",
+    "type": "",
+    "def": "Someone concerned with living a healthy lifestyle",
     "vi": "người mê sống lành",
     "viDef": "người rất chú trọng lối sống khỏe"
   },
   {
     "word": "Enviromentalist",
     "ipa": "ɪnˌvaɪɹənˈmɛntəlɪst",
+    "type": "",
+    "def": "Someone who is concerned with the enviroment",
     "vi": "người bảo vệ môi trường",
     "viDef": "người quan tâm tới môi trường"
   },
   {
     "word": "Support",
     "ipa": "səˈpɔɹt",
+    "type": "",
+    "def": "to be of help",
     "vi": "ủng hộ",
     "viDef": "là chỗ giúp đỡ"
   },
   {
     "word": "Resolution",
     "ipa": "ˌɹɛzəˈluʃən",
+    "type": "",
+    "def": "The commitment to do something differently or begin to do something",
     "vi": "quyết tâm",
     "viDef": "cam kết làm khác đi hoặc bắt đầu làm điều gì"
   }

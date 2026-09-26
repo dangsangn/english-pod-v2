@@ -2,78 +2,104 @@
   {
     "word": "typical",
     "ipa": "ˈtɪpəkəl",
+    "type": "",
+    "def": "having the usual characteristics (of)",
     "vi": "tiêu biểu",
     "viDef": "có những đặc điểm thường thấy"
   },
   {
     "word": "direction",
     "ipa": "dɚˈɛkʃən",
+    "type": "",
+    "def": "an instruction leading to a place or point",
     "vi": "chỉ dẫn đường",
     "viDef": "lời hướng dẫn đến một chỗ"
   },
   {
     "word": "on sale",
     "ipa": "ɑn seɪl",
+    "type": "",
+    "def": "special offer or discount",
     "vi": "đang giảm giá",
     "viDef": "có ưu đãi hoặc bớt giá"
   },
   {
     "word": "get to",
     "ipa": "ɡɛt tu",
+    "type": "",
+    "def": "reach;be able to arrive at(in)",
     "vi": "tới được",
     "viDef": "đến được, có thể đi tới"
   },
   {
     "word": "better off",
     "ipa": "ˈbɛtɚ ɔf",
+    "type": "",
+    "def": "be in a better condition",
     "vi": "khá hơn",
     "viDef": "ở trong tình trạng tốt hơn"
   },
   {
     "word": "go around",
     "ipa": "ɡoʊ ɚˈaʊnd",
+    "type": "",
+    "def": "circulate",
     "vi": "lưu truyền",
     "viDef": "được truyền đi quanh"
   },
   {
     "word": "GPS",
     "ipa": "ˈɡipiˈɛs",
+    "type": "",
+    "def": "Global Positioning System",
     "vi": "định vị GPS",
     "viDef": "Hệ thống định vị toàn cầu"
   },
   {
     "word": "shut your trap",
     "ipa": "ʃʌt jɔɹ tɹæp",
+    "type": "",
+    "def": "shut up",
     "vi": "im cái miệng lại",
     "viDef": "câm đi"
   },
   {
     "word": "freeway",
     "ipa": "ˈfɹiweɪ",
+    "type": "",
+    "def": "A highway without tolls. Also known as an expressway",
     "vi": "đường cao tốc miễn phí",
     "viDef": "đường lớn không thu phí, còn gọi là expressway"
   },
   {
     "word": "Toll",
     "ipa": "toʊl",
+    "type": "",
+    "def": "A fixed charge or tax for a privilege, especially for passage across a bridge or along a road.",
     "vi": "phí đường",
     "viDef": "khoản thu cố định cho quyền đi qua, nhất là qua cầu hoặc trên một tuyến đường"
   },
   {
     "word": "Pedestrian",
     "ipa": "pəˈdɛstɹiən",
+    "type": "",
+    "def": "a person travelling on foot; walker",
     "vi": "người đi bộ",
     "viDef": "người di chuyển bằng chân"
   },
   {
     "word": "middle of nowhere",
     "ipa": "ˈmɪdəl ʌv ˈnoʊwɛɹ",
+    "type": "",
+    "def": "a remote or far away place where there are very few people or buildings",
     "vi": "nơi vắng bóng người",
     "viDef": "chỗ xa xôi hẻo hút, rất ít người hoặc nhà cửa"
   },
   {
     "word": "Hitchhiker",
     "ipa": "ˈhɪtʃˌhaɪkɚ",
+    "type": "",
+    "def": "A person that travels by soliciting free rides along a road.",
     "vi": "người xin đi nhờ xe",
     "viDef": "người đi lại bằng cách xin đi nhờ dọc đường"
   }

@@ -2,114 +2,152 @@
   {
     "word": "feature",
     "ipa": "ˈfitʃɚ",
+    "type": "common noun, plural",
+    "def": "interesting or important quality",
     "vi": "tính năng",
     "viDef": "điểm hay hoặc quan trọng của thứ gì"
   },
   {
     "word": "chequing account",
     "ipa": "ˈtʃɛkɪŋ əˈkaʊnt",
+    "type": "common noun, singular",
+    "def": "a regular account for daily transations",
     "vi": "tài khoản thanh toán",
     "viDef": "tài khoản thường dùng cho giao dịch hằng ngày"
   },
   {
     "word": "transaction",
     "ipa": "tɹænˈzækʃən",
+    "type": "common noun, plural",
+    "def": "an occurrence in which money is transfered from one person, or one account, to another",
     "vi": "giao dịch",
     "viDef": "lần chuyển tiền từ người này hoặc tài khoản này sang bên khác"
   },
   {
     "word": "savings account",
     "ipa": "ˈseɪvɪŋz əˈkaʊnt",
+    "type": "common noun, singular",
+    "def": "an account for people to keep their money, usually offers a higher interest rate",
     "vi": "tài khoản tiết kiệm",
     "viDef": "tài khoản để giữ tiền, thường lãi cao hơn"
   },
   {
     "word": "balance",
     "ipa": "ˈbæləns",
+    "type": "common noun, singular",
+    "def": "the amount of money in a bank account",
     "vi": "số dư",
     "viDef": "số tiền còn trong tài khoản"
   },
   {
     "word": "access",
     "ipa": "ˈæksɛs",
+    "type": "common noun, singular",
+    "def": "a way to get to something",
     "vi": "cách truy cập",
     "viDef": "đường để tới hoặc dùng được thứ gì"
   },
   {
     "word": "debit card",
     "ipa": "ˈdɛbɪt kɑɹd",
+    "type": "common noun, singular",
+    "def": "a card for you to take money out of your bank account",
     "vi": "thẻ ghi nợ",
     "viDef": "thẻ dùng để rút tiền từ tài khoản của mình"
   },
   {
     "word": "overdraft",
     "ipa": "ˈoʊvɚˌdɹæft",
+    "type": "common noun, singular",
+    "def": "taking out more money than what is available in the account",
     "vi": "thấu chi",
     "viDef": "rút quá số tiền đang có trong tài khoản"
   },
   {
     "word": "I'll get you",
     "ipa": "aɪl ɡɛt ju",
+    "type": "phrase",
+    "def": "(a way to ask people to do things)",
     "vi": "nhờ anh/chị làm giúp",
     "viDef": "cách nói lịch sự khi yêu cầu ai làm gì"
   },
   {
     "word": "I'll need your",
     "ipa": "aɪl nid jɔɹ",
+    "type": "phrase",
+    "def": "(a way to request people to provide something)",
     "vi": "tôi cần anh/chị cho...",
     "viDef": "cách nói khi yêu cầu ai cung cấp thứ gì"
   },
   {
     "word": "If you could just",
     "ipa": "ɪf ju kʊd dʒʌst",
+    "type": "phrase",
+    "def": "(a polite way of asking people to do things)",
     "vi": "anh/chị làm giúp...",
     "viDef": "cách nói nhã nhặn khi nhờ ai làm gì"
   },
   {
     "word": "deposit",
     "ipa": "dəˈpɑzɪt",
+    "type": "common noun, singular",
+    "def": "an amount of money that is put in a bank account",
     "vi": "tiền gửi",
     "viDef": "khoản tiền nạp vào tài khoản"
   },
   {
     "word": "credit card",
     "ipa": "ˈkɹɛdət kɑɹd",
+    "type": "common noun, singular",
+    "def": "a card to buy things and pay for them later",
     "vi": "thẻ tín dụng",
     "viDef": "thẻ để mua trước, trả tiền sau"
   },
   {
     "word": "online banking",
     "ipa": "ˈɔnlaɪn ˈbæŋkɪŋ",
+    "type": "common noun, non-variable",
+    "def": "a service that allows people to do transactions online",
     "vi": "ngân hàng trực tuyến",
     "viDef": "dịch vụ cho phép giao dịch qua mạng"
   },
   {
     "word": "telephone banking",
     "ipa": "ˈtɛləˌfoʊn ˈbæŋkɪŋ",
+    "type": "common noun, non-variable",
+    "def": "a service that allows people to do transactions by phone",
     "vi": "ngân hàng qua điện thoại",
     "viDef": "dịch vụ cho phép giao dịch bằng điện thoại"
   },
   {
     "word": "cheque book",
     "ipa": "tʃɛk bʊk",
+    "type": "common noun, singular",
+    "def": "a book of cheques for use with a chequing account",
     "vi": "sổ chi phiếu",
     "viDef": "tập chi phiếu dùng với tài khoản thanh toán"
   },
   {
     "word": "terms and conditions",
     "ipa": "tɝmz ənd kənˈdɪʃənz",
+    "type": "common noun, non-variable",
+    "def": "an outline of the rules and company policies of a particular product or service",
     "vi": "điều khoản và điều kiện",
     "viDef": "bản tóm các quy định và chính sách của sản phẩm hoặc dịch vụ"
   },
   {
     "word": "high interest account",
     "ipa": "haɪ ˈɪntɹəst əˈkaʊnt",
+    "type": "common noun, singular",
+    "def": "a savings account that offers higher than usual interest rate",
     "vi": "tài khoản lãi cao",
     "viDef": "tài khoản tiết kiệm có lãi suất cao hơn bình thường"
   },
   {
     "word": "teller",
     "ipa": "ˈtɛlɚ",
+    "type": "common noun, singular",
+    "def": "a person working in a bank, who helps customers with daily transactions",
     "vi": "giao dịch viên",
     "viDef": "nhân viên ngân hàng làm giao dịch cho khách"
   }

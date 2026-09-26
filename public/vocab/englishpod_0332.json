@@ -2,60 +2,80 @@
   {
     "word": "voicemail",
     "ipa": "ˈvɔɪsmeɪl",
+    "type": "",
+    "def": "an electronic system enabling the recording and storage of voice messages.",
     "vi": "hộp thư thoại",
     "viDef": "hệ thống điện tử cho phép ghi và lưu các lời nhắn bằng giọng nói"
   },
   {
     "word": "record",
     "ipa": "ɹəˈkɔɹd",
+    "type": "",
+    "def": "set down in writing or voice or the like",
     "vi": "ghi lại",
     "viDef": "chép lại bằng chữ, bằng giọng nói hoặc cách tương tự"
   },
   {
     "word": "basically",
     "ipa": "ˈbeɪsɪkli",
+    "type": "",
+    "def": "essentially,fundamentally",
     "vi": "về cơ bản",
     "viDef": "thực chất, nói cho gọn"
   },
   {
     "word": "service",
     "ipa": "ˈsɝvəs",
+    "type": "",
+    "def": "the supplying or a supplier of something required by the public.",
     "vi": "dịch vụ",
     "viDef": "việc cung cấp hoặc bên cung cấp thứ mà công chúng cần"
   },
   {
     "word": "set up",
     "ipa": "sɛt ʌp",
+    "type": "",
+    "def": "prepare",
     "vi": "chuẩn bị, thiết lập",
     "viDef": "sắp cho sẵn sàng"
   },
   {
     "word": "fundamentally",
     "ipa": "ˌfʌndəˈmɛntəli",
+    "type": "",
+    "def": "a foundation or basis; basic",
     "vi": "về căn bản",
     "viDef": "thuộc nền tảng hoặc cơ sở"
   },
   {
     "word": "repair",
     "ipa": "ɹɪˈpɛɹ",
+    "type": "",
+    "def": "to restore to a good or sound condition after decay or damage",
     "vi": "sửa chữa",
     "viDef": "khôi phục về trạng thái tốt sau khi hư hỏng hoặc xuống cấp"
   },
   {
     "word": "available",
     "ipa": "əˈveɪləbəl",
+    "type": "",
+    "def": "accessible",
     "vi": "có thể liên lạc",
     "viDef": "sẵn sàng, tiếp cận được"
   },
   {
     "word": "tape",
     "ipa": "teɪp",
+    "type": "",
+    "def": "a ribbon of material used to record sound, images,data",
     "vi": "băng ghi",
     "viDef": "dải vật liệu dùng ghi âm thanh, hình ảnh hoặc dữ liệu"
   },
   {
     "word": "static",
     "ipa": "ˈstætɪk",
+    "type": "",
+    "def": "atmospheric electricity interfering with radar, radio, the sending and receiving of wireless messages",
     "vi": "tiếng nhiễu",
     "viDef": "điện trong khí quyển gây nhiễu radar, radio hoặc việc gửi nhận tin không dây"
   }

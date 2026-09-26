@@ -2,72 +2,96 @@
   {
     "word": "devalue",
     "ipa": "dɪˈvæˌlju",
+    "type": "",
+    "def": "reduce in value",
     "vi": "giảm giá trị",
     "viDef": "làm cho mất giá"
   },
   {
     "word": "discerning",
     "ipa": "dɪˈsɝnɪŋ",
+    "type": "",
+    "def": "Showing insight and understanding",
     "vi": "tinh tường",
     "viDef": "tỏ ra có nhận thức và hiểu biết"
   },
   {
     "word": "state-of-the-art",
     "ipa": "steɪt ʌv ðə ɑɹt",
+    "type": "",
+    "def": "the latest and most advanced in technology",
     "vi": "tối tân",
     "viDef": "mới nhất và tiên tiến nhất về công nghệ"
   },
   {
     "word": "awareness",
     "ipa": "əˈwɛɹnəs",
+    "type": "",
+    "def": "showing realization and perception",
     "vi": "sự nhận biết",
     "viDef": "tỏ ra hiểu và cảm nhận được"
   },
   {
     "word": "undermine",
     "ipa": "ˈʌndɚˌmaɪn",
+    "type": "",
+    "def": "to subvert or weaken insidiously or secretly",
     "vi": "làm xói mòn",
     "viDef": "ngấm ngầm hoặc âm thầm phá hoặc làm yếu đi"
   },
   {
     "word": "Product Placement",
     "ipa": "ˈpɹɑdəkt ˈpleɪsmənt",
+    "type": "",
+    "def": "also called \"embedded marketing\", where a company's products are placed in strategic places in film, television, or other forms of media",
     "vi": "quảng cáo lồng ghép",
     "viDef": "còn gọi là \"embedded marketing\", đưa sản phẩm của công ty vào những chỗ đắt giá trong phim, truyền hình hoặc các phương tiện khác"
   },
   {
     "word": "Downturn",
     "ipa": "ˈdaʊntɝn",
+    "type": "",
+    "def": "a recession ; when things are not going very well",
     "vi": "giai đoạn đi xuống",
     "viDef": "thời kỳ suy thoái, khi mọi việc không suôn sẻ"
   },
   {
     "word": "Value Proposition",
     "ipa": "ˈvælju ˌpɹɑpəˈzɪʃən",
+    "type": "",
+    "def": "an analysis of the total cost and benefits of a product that a company can deliver its customers",
     "vi": "tuyên bố giá trị",
     "viDef": "phân tích toàn bộ chi phí và lợi ích của sản phẩm mà công ty có thể mang tới cho khách"
   },
   {
     "word": "R&D",
     "ipa": "ɑɹ di",
+    "type": "",
+    "def": "Research and development",
     "vi": "nghiên cứu và phát triển",
     "viDef": "Research and development"
   },
   {
     "word": "Excel",
     "ipa": "ɪkˈsɛl",
+    "type": "",
+    "def": "to be very good at doing something, to do something better than anyone else",
     "vi": "xuất sắc ở",
     "viDef": "rất giỏi việc gì, làm việc đó hơn mọi người khác"
   },
   {
     "word": "Lifestyle Segmentation",
     "ipa": "ˈlaɪfstaɪl ˌsɛɡmənˈteɪʃən",
+    "type": "",
+    "def": "when the population is divided up into different categories based upon hobbies, interests, spending habits, etc.",
     "vi": "phân khúc theo lối sống",
     "viDef": "chia dân số thành các nhóm dựa trên thú vui, sở thích, thói chi tiêu..."
   },
   {
     "word": "Word of Mouth",
     "ipa": "wɝd ʌv maʊθ",
+    "type": "",
+    "def": "advertisement that is spread through positive reviews from consumers, instead of from print or TV commercials",
     "vi": "truyền miệng",
     "viDef": "cách quảng bá lan ra nhờ lời khen của người dùng, không phải nhờ báo in hay quảng cáo tivi"
   }

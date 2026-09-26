@@ -2,72 +2,96 @@
   {
     "word": "cutting-edge",
     "ipa": "ˈkʌtɪŋ ɛdʒ",
+    "type": "",
+    "def": "the newest and most advanced",
     "vi": "tiên phong nhất",
     "viDef": "mới nhất và tiến bộ nhất"
   },
   {
     "word": "catch",
     "ipa": "kætʃ",
+    "type": "",
+    "def": "hidden problem that makes something complicated",
     "vi": "điểm gài ngầm",
     "viDef": "vấn đề ẩn làm việc gì thành rắc rối"
   },
   {
     "word": "aim",
     "ipa": "eɪm",
+    "type": "",
+    "def": "to direct (something) at a particular goal",
     "vi": "nhắm tới",
     "viDef": "hướng thứ gì vào một mục tiêu nhất định"
   },
   {
     "word": "differentiate",
     "ipa": "ˌdɪfɚˈɛnʃiˌeɪt",
+    "type": "",
+    "def": "to make different in some way",
     "vi": "làm cho khác biệt",
     "viDef": "tạo ra điểm khác theo cách nào đó"
   },
   {
     "word": "highlight",
     "ipa": "ˈhaɪlaɪt",
+    "type": "",
+    "def": "to make or try to make people notice",
     "vi": "làm nổi bật",
     "viDef": "cố khiến người ta để ý tới"
   },
   {
     "word": "enviable",
     "ipa": "ˈɛnviəbəl",
+    "type": "",
+    "def": "causing envy ; very desirable",
     "vi": "đáng thèm muốn",
     "viDef": "gây thèm thuồng, rất đáng mong"
   },
   {
     "word": "foremost",
     "ipa": "ˈfɔɹmoʊst",
+    "type": "",
+    "def": "most important",
     "vi": "hàng đầu",
     "viDef": "quan trọng nhất"
   },
   {
     "word": "high-end",
     "ipa": "haɪ ɛnd",
+    "type": "",
+    "def": "at the top level of consumer purchases, aimed at luxury and high-quality markets",
     "vi": "cao cấp",
     "viDef": "ở tầng trên của thị trường tiêu dùng, nhắm tới phân khúc sang và chất lượng cao"
   },
   {
     "word": "outsource",
     "ipa": "aʊtˈsɔɹs",
+    "type": "",
+    "def": "to send a job somewhere else, often overseas",
     "vi": "thuê ngoài",
     "viDef": "chuyển một công việc ra nơi khác làm, thường là nước ngoài"
   },
   {
     "word": "hotline",
     "ipa": "ˈhɑtlaɪn",
+    "type": "",
+    "def": "a phone number people can call to get help any time of day",
     "vi": "đường dây nóng",
     "viDef": "số điện thoại người ta có thể gọi để được giúp bất cứ giờ nào"
   },
   {
     "word": "motto",
     "ipa": "ˈmɑtoʊ",
+    "type": "",
+    "def": "an expression that is the guiding principle of a person or organization",
     "vi": "phương châm",
     "viDef": "câu nói làm nguyên tắc dẫn đường cho một người hoặc tổ chức"
   },
   {
     "word": "trademark",
     "ipa": "ˈtɹeɪdmɑɹk",
+    "type": "",
+    "def": "something (symbol, logo,phrase, etc.) that distinguishes one company's product from its competitors",
     "vi": "thương hiệu",
     "viDef": "thứ như biểu tượng, logo, câu chữ... giúp phân biệt sản phẩm của một công ty với đối thủ"
   }

@@ -2,150 +2,200 @@
   {
     "word": "planetary",
     "ipa": "ˈplænəˌtɛɹi",
+    "type": "Adjective",
+    "def": "of or relating to planets",
     "vi": "thuộc hành tinh",
     "viDef": "liên quan tới các hành tinh"
   },
   {
     "word": "eco-system",
     "ipa": "ˈikoʊ ˈsɪstəm",
+    "type": "common noun, singular",
+    "def": "everything that exists in a certain environment",
     "vi": "hệ sinh thái",
     "viDef": "toàn bộ những gì tồn tại trong một môi trường"
   },
   {
     "word": "mislead",
     "ipa": "mɪˈslid",
+    "type": "verb",
+    "def": "be led to make believe something not true",
     "vi": "dẫn dắt sai lệch",
     "viDef": "bị làm cho tin điều không thật"
   },
   {
     "word": "global warming",
     "ipa": "ˈɡloʊbəl ˈwɔɹmɪŋ",
+    "type": "common noun, non-variable",
+    "def": "the increase of the world's temperature due to po",
     "vi": "sự nóng lên toàn cầu",
     "viDef": "nhiệt độ Trái Đất tăng lên do ô nhiễm"
   },
   {
     "word": "beg to differ",
     "ipa": "bɛɡ tu ˈdɪfɚ",
+    "type": "phrase",
+    "def": "a polite way to show you do not agree with someone",
     "vi": "tôi e là không đồng ý",
     "viDef": "cách nói lịch sự khi phản đối ai"
   },
   {
     "word": "deception",
     "ipa": "dɪˈsɛpʃən",
+    "type": "common noun, singular",
+    "def": "the act of making others believe something false",
     "vi": "sự lừa gạt",
     "viDef": "việc làm cho người khác tin điều sai"
   },
   {
     "word": "polar ice cap",
     "ipa": "ˈpoʊlɚ aɪs kæp",
+    "type": "common noun, plural",
+    "def": "the thick layer of ice or snow on the poles",
     "vi": "mũ băng ở cực",
     "viDef": "lớp băng tuyết dày ở hai địa cực"
   },
   {
     "word": "emphasize",
     "ipa": "ˈɛmfəˌsaɪz",
+    "type": "verb",
+    "def": "highlight",
     "vi": "nhấn mạnh",
     "viDef": "làm nổi bật"
   },
   {
     "word": "put forth",
     "ipa": "pʊt fɔɹθ",
+    "type": "verb",
+    "def": "give out, announce the public",
     "vi": "đưa ra",
     "viDef": "công bố ra ngoài"
   },
   {
     "word": "indisputable",
     "ipa": "ˌɪndɪˈspjutəbəl",
+    "type": "Adjective",
+    "def": "so true that does not need to be discussed anymore",
     "vi": "không phải tranh luận",
     "viDef": "đúng đến mức chẳng cần bàn thêm"
   },
   {
     "word": "manipulate",
     "ipa": "məˈnɪpjəˌleɪt",
+    "type": "verb",
+    "def": "influence someone's ideas for your own benefit",
     "vi": "lèo lái",
     "viDef": "tác động vào suy nghĩ người khác vì lợi ích mình"
   },
   {
     "word": "scaremongering",
     "ipa": "ˈskɛɹˌmʌŋɡɚɪŋ",
+    "type": "common noun, non-variable",
+    "def": "saying something so as to frighten people",
     "vi": "gieo hoang mang",
     "viDef": "nói ra để làm người ta sợ"
   },
   {
     "word": "greenhouse gas",
     "ipa": "ˈɡɹinhaʊs ɡæs",
+    "type": "common noun, plural",
+    "def": "a gas that increases the global temperature",
     "vi": "khí nhà kính",
     "viDef": "loại khí làm nhiệt độ toàn cầu tăng"
   },
   {
     "word": "endangered species",
     "ipa": "ɛnˈdeɪndʒɚd ˈspiʃiz",
+    "type": "common noun, plural",
+    "def": "type of animal in danger of dying out",
     "vi": "loài nguy cấp",
     "viDef": "loài vật đang có nguy cơ tuyệt chủng"
   },
   {
     "word": "concede",
     "ipa": "kənˈsid",
+    "type": "verb",
+    "def": "to say that you do not deny something's true",
     "vi": "thừa nhận",
     "viDef": "nói rằng mình không phủ nhận điều đó"
   },
   {
     "word": "autocratic",
     "ipa": "ˌɔtəˈkɹætɪk",
+    "type": "Adjective",
+    "def": "with total power",
     "vi": "độc đoán",
     "viDef": "nắm toàn quyền"
   },
   {
     "word": "end",
     "ipa": "ɛnd",
+    "type": "common noun, plural",
+    "def": "result or outcome",
     "vi": "cứu cánh, kết cục",
     "viDef": "kết quả cuối cùng"
   },
   {
     "word": "duplicitous",
     "ipa": "duˈplɪsɪtəs",
+    "type": "Adjective",
+    "def": "deceiving, dishonest",
     "vi": "hai lời",
     "viDef": "dối trá, không thật"
   },
   {
     "word": "in the pocket of",
     "ipa": "ɪn ðə ˈpɑkət ʌv",
+    "type": "phrase",
+    "def": "being illegally bribed or paid by someone",
     "vi": "nằm trong tay ai",
     "viDef": "bị mua hoặc nhận tiền trái phép từ ai"
   },
   {
     "word": "so-called",
     "ipa": "soʊ kɔld",
+    "type": "Adjective",
+    "def": "used to show the name is not really suitable",
     "vi": "cái gọi là",
     "viDef": "dùng để tỏ ý tên gọi đó không xứng"
   },
   {
     "word": "climate change",
     "ipa": "ˈklaɪmət tʃeɪndʒ",
+    "type": "common noun, non-variable",
+    "def": "the change in the world's temperature and weather patterns",
     "vi": "biến đổi khí hậu",
     "viDef": "sự thay đổi nhiệt độ và hình thái thời tiết toàn cầu"
   },
   {
     "word": "fossil fuel",
     "ipa": "ˈfɑsəl ˈfjuəl",
+    "type": "common noun, singular",
+    "def": "fuel made with dead animals or plants such as oil, gas, natural gas",
     "vi": "nhiên liệu hóa thạch",
     "viDef": "nhiên liệu từ động thực vật đã chết như dầu, than, khí"
   },
   {
     "word": "deforestation",
     "ipa": "dɪˌfɔɹɪˈsteɪʃən",
+    "type": "common noun, non-variable",
+    "def": "the action of cutting down forests",
     "vi": "sự phá rừng",
     "viDef": "việc chặt hạ rừng"
   },
   {
     "word": "emission",
     "ipa": "ɪˈmɪʃən",
+    "type": "common noun, singular",
+    "def": "the act of producing gas",
     "vi": "sự phát thải",
     "viDef": "việc thải ra khí"
   },
   {
     "word": "endorse",
     "ipa": "ɛnˈdɔɹs",
+    "type": "verb",
+    "def": "support a point of view",
     "vi": "tán thành",
     "viDef": "ủng hộ một quan điểm"
   }

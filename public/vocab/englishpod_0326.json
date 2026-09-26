@@ -2,72 +2,96 @@
   {
     "word": "report",
     "ipa": "ɹiˈpɔɹt",
+    "type": "",
+    "def": "written document that provides information about a persons achievements",
     "vi": "bản báo cáo",
     "viDef": "văn bản cung cấp thông tin về thành tích của một người"
   },
   {
     "word": "grade",
     "ipa": "ɡɹeɪd",
+    "type": "",
+    "def": "a position or degree in a scale, as of quality, rank, size, or progression",
     "vi": "bậc điểm",
     "viDef": "vị trí hoặc mức trên một thang về chất lượng, hạng, cỡ hoặc tiến độ"
   },
   {
     "word": "subject",
     "ipa": "səbˈdʒɛkt",
+    "type": "",
+    "def": "a branch of knowledge as a course of study",
     "vi": "môn học",
     "viDef": "một nhánh kiến thức được dạy thành môn"
   },
   {
     "word": "mark",
     "ipa": "mɑɹk",
+    "type": "",
+    "def": "a symbol used in rating conduct, proficiency, attainment",
     "vi": "điểm số",
     "viDef": "ký hiệu dùng để đánh giá hạnh kiểm, trình độ hoặc kết quả"
   },
   {
     "word": "achievement",
     "ipa": "əˈtʃivmənt",
+    "type": "",
+    "def": "something that has been done or accomplished",
     "vi": "thành tích",
     "viDef": "điều đã làm được hoặc đạt được"
   },
   {
     "word": "satisfactory",
     "ipa": "ˌsætəˈsfæktɹi",
+    "type": "",
+    "def": "fulfilling all demands or requirements",
     "vi": "đạt yêu cầu",
     "viDef": "đáp ứng mọi đòi hỏi"
   },
   {
     "word": "exam",
     "ipa": "ɪɡˈzæm",
+    "type": "",
+    "def": "formal test taken at the end of a course",
     "vi": "kỳ thi",
     "viDef": "bài kiểm tra chính thức vào cuối một khóa học"
   },
   {
     "word": "pass",
     "ipa": "pæs",
+    "type": "",
+    "def": "to complete successfully",
     "vi": "đậu",
     "viDef": "hoàn thành thành công"
   },
   {
     "word": "fail",
     "ipa": "feɪl",
+    "type": "",
+    "def": "to receive less than the passing grade or mark in an examination, class, or course of study",
     "vi": "rớt",
     "viDef": "nhận điểm dưới mức đạt trong một kỳ thi, lớp hoặc môn học"
   },
   {
     "word": "distinction",
     "ipa": "dɪˈstɪŋkʃən",
+    "type": "",
+    "def": "special honour, recognition",
     "vi": "danh hiệu ưu tú",
     "viDef": "sự vinh danh, ghi nhận đặc biệt"
   },
   {
     "word": "award",
     "ipa": "əˈwɔɹd",
+    "type": "",
+    "def": "something awarded, such as a prize or medal",
     "vi": "phần thưởng",
     "viDef": "thứ được trao như giải hoặc huy chương"
   },
   {
     "word": "principal",
     "ipa": "ˈpɹɪnsəpəl",
+    "type": "",
+    "def": "the head or director of a school",
     "vi": "hiệu trưởng",
     "viDef": "người đứng đầu hoặc quản lý một trường học"
   }

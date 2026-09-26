@@ -2,60 +2,80 @@
   {
     "word": "down",
     "ipa": "daʊn",
+    "type": "Adjective",
+    "def": "sad or unhappy",
     "vi": "xuống tinh thần",
     "viDef": "buồn, không vui"
   },
   {
     "word": "stress out",
     "ipa": "stɹɛs aʊt",
+    "type": "principle verb, past simple",
+    "def": "to feel very worried or anxious",
     "vi": "căng thẳng quá",
     "viDef": "lo lắng, bồn chồn dữ dội"
   },
   {
     "word": "nerve wracking",
     "ipa": "nɝv ˈɹækɪŋ",
+    "type": "Adjective",
+    "def": "causing a person to feel very nervous",
     "vi": "khiến ruột gan lộn nhào",
     "viDef": "làm người ta rất lo lắng"
   },
   {
     "word": "brush me off",
     "ipa": "bɹʌʃ mi ɔf",
+    "type": "principle verb, present simple",
+    "def": "refuse to talk about something with someone",
     "vi": "gạt tôi đi",
     "viDef": "không chịu nói chuyện đó với mình"
   },
   {
     "word": "cheer up",
     "ipa": "tʃɪɹ ʌp",
+    "type": "principle verb, infinitive",
+    "def": "to make (someone) happier",
     "vi": "làm vui lên",
     "viDef": "khiến ai đỡ buồn"
   },
   {
     "word": "down in the dumps",
     "ipa": "daʊn ɪn ðə dʌmps",
+    "type": "phrase",
+    "def": "feeling sad, not happy",
     "vi": "buồn thiu",
     "viDef": "đang chán, không vui"
   },
   {
     "word": "have the blues",
     "ipa": "hæv ðə bluz",
+    "type": "phrase",
+    "def": "having sad feelings or emotions",
     "vi": "đang mang tâm trạng buồn",
     "viDef": "trong lòng u sầu"
   },
   {
     "word": "rattled",
     "ipa": "ˈɹætəld",
+    "type": "principle verb, past simple",
+    "def": "to fluster, unnerve",
     "vi": "bị rúng",
     "viDef": "làm cho hoang mang, mất bình tĩnh"
   },
   {
     "word": "grinds my gears",
     "ipa": "ɡɹaɪndz maɪ ɡɪɹz",
+    "type": "phrase",
+    "def": "makes me angry, upsets me",
     "vi": "làm tôi điên tiết",
     "viDef": "khiến tôi tức, bực"
   },
   {
     "word": "pissed off",
     "ipa": "pɪst ɔf",
+    "type": "phrase",
+    "def": "upset, very angry",
     "vi": "tức điên",
     "viDef": "bực, rất giận"
   }

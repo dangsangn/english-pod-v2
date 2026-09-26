@@ -2,66 +2,88 @@
   {
     "word": "midnight",
     "ipa": "ˈmɪdnaɪt",
+    "type": "",
+    "def": "twelve AM",
     "vi": "nửa đêm",
     "viDef": "mười hai giờ đêm"
   },
   {
     "word": "brand new",
     "ipa": "bɹænd nu",
+    "type": "",
+    "def": "completely new",
     "vi": "mới cứng",
     "viDef": "hoàn toàn mới"
   },
   {
     "word": "accomplish",
     "ipa": "əˈkɑmplɪʃ",
+    "type": "",
+    "def": "to bring to its goal or conclusion",
     "vi": "hoàn thành",
     "viDef": "đưa tới đích hoặc tới chỗ kết thúc"
   },
   {
     "word": "volunteer",
     "ipa": "ˌvɑlənˈtɪɹ",
+    "type": "",
+    "def": "a person who performs a service willingly and without pay",
     "vi": "người tình nguyện",
     "viDef": "người tự nguyện làm một việc mà không lấy tiền"
   },
   {
     "word": "tradition",
     "ipa": "tɹəˈdɪʃən",
+    "type": "",
+    "def": "special way of doing things that is accepted by a majority",
     "vi": "truyền thống",
     "viDef": "cách làm riêng được đa số công nhận"
   },
   {
     "word": "resolution",
     "ipa": "ˌɹɛzəˈluʃən",
+    "type": "",
+    "def": "a formal document stating the wishes of someone",
     "vi": "bản quyết tâm",
     "viDef": "văn bản chính thức nêu nguyện vọng của một người"
   },
   {
     "word": "new year",
     "ipa": "nu jɪɹ",
+    "type": "",
+    "def": "1st January",
     "vi": "năm mới",
     "viDef": "ngày 1 tháng 1"
   },
   {
     "word": "goal",
     "ipa": "ɡoʊl",
+    "type": "",
+    "def": "the result or achievement toward which effort is directed",
     "vi": "mục tiêu",
     "viDef": "kết quả hoặc thành tựu mà mình dốc sức hướng tới"
   },
   {
     "word": "evening",
     "ipa": "ˈivnɪŋ",
+    "type": "",
+    "def": "the latter part of the day and early part of the night.",
     "vi": "buổi tối",
     "viDef": "phần cuối ngày và đầu đêm"
   },
   {
     "word": "promise",
     "ipa": "ˈpɹɑməs",
+    "type": "",
+    "def": "a declaration that something will or will not be done",
     "vi": "lời hứa",
     "viDef": "lời tuyên bố rằng sẽ làm hoặc sẽ không làm điều gì"
   },
   {
     "word": "fireworks",
     "ipa": "ˈfaɪɹwɝks",
+    "type": "",
+    "def": "combustible or explosive device for producing a striking display of light or a loud noise",
     "vi": "pháo hoa",
     "viDef": "thiết bị cháy hoặc nổ tạo ra màn ánh sáng rực rỡ hay tiếng vang lớn"
   }

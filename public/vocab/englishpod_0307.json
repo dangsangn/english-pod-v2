@@ -2,48 +2,64 @@
   {
     "word": "visit",
     "ipa": "ˈvɪzɪt",
+    "type": "",
+    "def": "go to someplace in a formal way",
     "vi": "ghé thăm",
     "viDef": "tới một nơi theo cách trang trọng"
   },
   {
     "word": "class",
     "ipa": "klæs",
+    "type": "",
+    "def": "lesson",
     "vi": "buổi học",
     "viDef": "tiết học"
   },
   {
     "word": "sight",
     "ipa": "saɪt",
+    "type": "",
+    "def": "something seen or worth seeing",
     "vi": "cảnh đẹp",
     "viDef": "thứ được ngắm hoặc đáng xem"
   },
   {
     "word": "get together",
     "ipa": "ɡɛt təˈɡɛðɚ",
+    "type": "",
+    "def": "spend time together",
     "vi": "gặp gỡ",
     "viDef": "dành thời gian bên nhau"
   },
   {
     "word": "pleasure",
     "ipa": "ˈplɛʒɚ",
+    "type": "",
+    "def": "feeling of happiness",
     "vi": "niềm vui",
     "viDef": "cảm giác hạnh phúc"
   },
   {
     "word": "drop by",
     "ipa": "dɹɑp baɪ",
+    "type": "",
+    "def": "an informal visit",
     "vi": "ghé qua",
     "viDef": "chuyến ghé thăm không hẹn trước"
   },
   {
     "word": "rendezvous",
     "ipa": "ˈɹɑndɪˌvu",
+    "type": "",
+    "def": "an agreement between two or more persons to meet at a certain time and place.",
     "vi": "cuộc hẹn",
     "viDef": "thỏa thuận giữa hai người trở lên để gặp nhau vào một giờ và một nơi nhất định"
   },
   {
     "word": "reunion",
     "ipa": "ɹiˈunjən",
+    "type": "",
+    "def": "the act of uniting again.",
     "vi": "buổi họp mặt",
     "viDef": "việc gặp lại nhau"
   }

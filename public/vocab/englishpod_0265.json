@@ -2,60 +2,80 @@
   {
     "word": "exterminator",
     "ipa": "ɪkˈstɝməˌneɪtɚ",
+    "type": "",
+    "def": "a professional who kills pests",
     "vi": "người diệt sâu bọ",
     "viDef": "người làm nghề diệt sinh vật gây hại"
   },
   {
     "word": "pest",
     "ipa": "pɛst",
+    "type": "",
+    "def": "an annoying and harmful insect or animal",
     "vi": "sinh vật gây hại",
     "viDef": "côn trùng hoặc động vật gây phiền và có hại"
   },
   {
     "word": "fumigate",
     "ipa": "ˈfjuməˌɡeɪt",
+    "type": "",
+    "def": "to spray with smoke or other chemicals",
     "vi": "phun xông khử trùng",
     "viDef": "phun khói hoặc hóa chất"
   },
   {
     "word": "can't handle",
     "ipa": "kænt ˈhændəl",
+    "type": "",
+    "def": "not be able to deal with",
     "vi": "không kham nổi",
     "viDef": "không thể xử được"
   },
   {
     "word": "just",
     "ipa": "dʒʌst",
+    "type": "",
+    "def": "simply",
     "vi": "chỉ là",
     "viDef": "đơn giản là"
   },
   {
     "word": "pesticide",
     "ipa": "ˈpɛstəˌsaɪd",
+    "type": "",
+    "def": "strong chemical used to kill bugs and pests",
     "vi": "thuốc diệt sâu",
     "viDef": "hóa chất mạnh dùng diệt bọ và sinh vật gây hại"
   },
   {
     "word": "flea",
     "ipa": "fli",
+    "type": "",
+    "def": "a small insect that is usually found in hairy animals like cats and dogs",
     "vi": "con bọ chét",
     "viDef": "côn trùng nhỏ thường thấy trên các loài lông rậm như mèo và chó"
   },
   {
     "word": "mouse trap",
     "ipa": "maʊs tɹæp",
+    "type": "",
+    "def": "device used to catch or kill mice",
     "vi": "bẫy chuột",
     "viDef": "dụng cụ để bắt hoặc diệt chuột"
   },
   {
     "word": "fly swatter",
     "ipa": "flaɪ ˈswɑtɚ",
+    "type": "",
+    "def": "a hand-held device for swatting flies and other insects",
     "vi": "vỉ đập ruồi",
     "viDef": "dụng cụ cầm tay để đập ruồi và côn trùng khác"
   },
   {
     "word": "roach motel",
     "ipa": "ɹoʊtʃ moʊˈtɛl",
+    "type": "",
+    "def": "small device where cockroaches can enter and eat poisoned food",
     "vi": "bẫy gián",
     "viDef": "hộp nhỏ cho gián vào và ăn bả độc"
   }

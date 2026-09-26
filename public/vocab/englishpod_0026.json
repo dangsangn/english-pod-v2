@@ -2,72 +2,96 @@
   {
     "word": "diet",
     "ipa": "ˈdaɪət",
+    "type": "common noun, singular",
+    "def": "eating plan to help you lose weight",
     "vi": "chế độ ăn kiêng",
     "viDef": "kế hoạch ăn uống giúp giảm cân"
   },
   {
     "word": "transform",
     "ipa": "tɹænˈsfɔɹm",
+    "type": "verb",
+    "def": "change",
     "vi": "biến đổi",
     "viDef": "thay đổi"
   },
   {
     "word": "cut out",
     "ipa": "kʌt aʊt",
+    "type": "verb",
+    "def": "remove, eliminate",
     "vi": "cắt bỏ",
     "viDef": "loại bỏ, dẹp đi"
   },
   {
     "word": "eating habits",
     "ipa": "ˈitɪŋ ˈhæbəts",
+    "type": "phrase",
+    "def": "usual ways of behaving",
     "vi": "thói quen ăn uống",
     "viDef": "những nếp hành xử quen thuộc"
   },
   {
     "word": "stick to",
     "ipa": "stɪk tu",
+    "type": "verb",
+    "def": "continue doing something",
     "vi": "kiên trì với",
     "viDef": "tiếp tục làm việc gì đó"
   },
   {
     "word": "wait and see",
     "ipa": "weɪt ənd si",
+    "type": "phrase",
+    "def": "remain in a state in which you expect something to happen, and see if it does",
     "vi": "cứ chờ xem",
     "viDef": "tạm chờ đợi xem điều mình mong có xảy ra không"
   },
   {
     "word": "stuffed",
     "ipa": "stʌft",
+    "type": "Adjective",
+    "def": "filled with food; no longer hungry",
     "vi": "no căng",
     "viDef": "ăn no rồi, không còn thấy đói"
   },
   {
     "word": "calorie",
     "ipa": "ˈkælɚi",
+    "type": "common noun, singular",
+    "def": "unit of energy in food",
     "vi": "ca-lo",
     "viDef": "đơn vị đo năng lượng trong thức ăn"
   },
   {
     "word": "vegetarian",
     "ipa": "ˌvɛdʒəˈtɛˌɹiən",
+    "type": "common noun, singular",
+    "def": "person who does not eat meat",
     "vi": "người ăn chay",
     "viDef": "người không ăn thịt"
   },
   {
     "word": "fast food",
     "ipa": "fæst fud",
+    "type": "common noun, non-variable",
+    "def": "food that is prepared and served quickly (i.e. McDonald's, KFC, Burger King, etc.)",
     "vi": "đồ ăn nhanh",
     "viDef": "món chế biến và phục vụ nhanh (McDonald's, KFC, Burger King...)"
   },
   {
     "word": "work out",
     "ipa": "wɝk aʊt",
+    "type": "verb",
+    "def": "exercise at a gym",
     "vi": "tập gym",
     "viDef": "tập thể dục ở phòng tập"
   },
   {
     "word": "lifestyle change",
     "ipa": "ˈlaɪfstaɪl tʃeɪndʒ",
+    "type": "phrase",
+    "def": "change the way you live",
     "vi": "thay đổi lối sống",
     "viDef": "đổi cách sống thường ngày"
   }

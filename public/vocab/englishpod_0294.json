@@ -2,66 +2,88 @@
   {
     "word": "overview",
     "ipa": "ˈoʊvɚˌvju",
+    "type": "",
+    "def": "a general review",
     "vi": "nhìn tổng quan",
     "viDef": "phần điểm lại chung"
   },
   {
     "word": "wide range",
     "ipa": "waɪd ɹeɪndʒ",
+    "type": "",
+    "def": "a variety",
     "vi": "nhiều lựa chọn",
     "viDef": "sự đa dạng"
   },
   {
     "word": "rank",
     "ipa": "ɹæŋk",
+    "type": "",
+    "def": "place something in a particular position",
     "vi": "xếp hạng",
     "viDef": "đặt thứ gì vào một vị trí nhất định"
   },
   {
     "word": "tuition",
     "ipa": "tjuˈɪʃən",
+    "type": "",
+    "def": "school fee",
     "vi": "học phí",
     "viDef": "tiền đóng cho trường"
   },
   {
     "word": "semester",
     "ipa": "səˈmɛstɚ",
+    "type": "",
+    "def": "one of two divisions of an academic year",
     "vi": "học kỳ",
     "viDef": "một trong hai phần của năm học"
   },
   {
     "word": "dorm",
     "ipa": "dɔɹm",
+    "type": "",
+    "def": "a room for student to sleep in",
     "vi": "ký túc xá",
     "viDef": "phòng cho sinh viên ngủ"
   },
   {
     "word": "on-campus housing",
     "ipa": "ɑn ˈkæmpəs ˈhaʊzɪŋ",
+    "type": "",
+    "def": "flats or apartments in school",
     "vi": "nhà ở trong trường",
     "viDef": "các căn hộ hoặc phòng trong khuôn viên trường"
   },
   {
     "word": "flyer",
     "ipa": "ˈflaɪɚ",
+    "type": "",
+    "def": "a small sheet that advertises a product",
     "vi": "tờ rơi",
     "viDef": "tờ giấy nhỏ quảng cáo một sản phẩm"
   },
   {
     "word": "admission",
     "ipa": "ædˈmɪʃən",
+    "type": "",
+    "def": "the right of entrance",
     "vi": "việc được nhận vào",
     "viDef": "quyền được vào học"
   },
   {
     "word": "fraternity",
     "ipa": "fɹəˈtɝnəti",
+    "type": "",
+    "def": "a group of persons associated by or as if by ties of brotherhood.",
     "vi": "hội nam sinh",
     "viDef": "nhóm người gắn với nhau như tình anh em"
   },
   {
     "word": "spring break",
     "ipa": "spɹɪŋ bɹeɪk",
+    "type": "",
+    "def": "a school holiday, usually for a week, during March",
     "vi": "kỳ nghỉ xuân",
     "viDef": "kỳ nghỉ của trường, thường một tuần, vào tháng Ba"
   }

@@ -2,126 +2,168 @@
   {
     "word": "ambience",
     "ipa": "ˈæmbiəns",
+    "type": "",
+    "def": "the atmosphere of a place",
     "vi": "không khí, khung cảnh",
     "viDef": "bầu không khí của một nơi"
   },
   {
     "word": "distribuitor",
     "ipa": "dɪˈstɹɪbjətɚ",
+    "type": "",
+    "def": "a person or business that sells to retail stores",
     "vi": "nhà phân phối",
     "viDef": "người hoặc doanh nghiệp bán cho các cửa hàng lẻ"
   },
   {
     "word": "manufacturer",
     "ipa": "ˌmænjəˈfæktʃɚɚ",
+    "type": "",
+    "def": "a company that makes goods",
     "vi": "nhà sản xuất",
     "viDef": "công ty làm ra hàng hóa"
   },
   {
     "word": "break into",
     "ipa": "bɹeɪk ˈɪntu",
+    "type": "",
+    "def": "enter quickly",
     "vi": "chen vào, thâm nhập",
     "viDef": "bước vào một cách nhanh chóng"
   },
   {
     "word": "spring",
     "ipa": "spɹɪŋ",
+    "type": "",
+    "def": "To appear or come into being quickly",
     "vi": "bật ra, mọc lên",
     "viDef": "xuất hiện hoặc hình thành thật nhanh"
   },
   {
     "word": "exemplify",
     "ipa": "ɪɡˈzɛmpləˌfaɪ",
+    "type": "",
+    "def": "sets an example, a demonstration",
     "vi": "thể hiện điển hình",
     "viDef": "làm ví dụ, minh chứng cho điều gì"
   },
   {
     "word": "trait",
     "ipa": "tɹeɪt",
+    "type": "",
+    "def": "a characteristic feature or quality",
     "vi": "nét đặc trưng",
     "viDef": "đặc điểm hoặc phẩm chất riêng"
   },
   {
     "word": "factory",
     "ipa": "ˈfæktɚi",
+    "type": "",
+    "def": "place where goods are made",
     "vi": "nhà máy",
     "viDef": "nơi làm ra hàng hóa"
   },
   {
     "word": "know",
     "ipa": "noʊ",
+    "type": "",
+    "def": "famous for, easily recognized",
     "vi": "nổi tiếng về",
     "viDef": "được biết đến, dễ nhận ra"
   },
   {
     "word": "tariff",
     "ipa": "ˈtɛɹəf",
+    "type": "",
+    "def": "a tax or amount of money to be paid",
     "vi": "thuế quan",
     "viDef": "khoản thuế hoặc tiền phải trả"
   },
   {
     "word": "wholesale",
     "ipa": "ˈhoʊlseɪl",
+    "type": "",
+    "def": "The sale of goods in large quantities.",
     "vi": "bán sỉ",
     "viDef": "việc bán hàng với số lượng lớn"
   },
   {
     "word": "red tape",
     "ipa": "ɹɛd teɪp",
+    "type": "",
+    "def": "procedures required to gain bureaucratic approval",
     "vi": "thủ tục rườm rà",
     "viDef": "các bước phải qua để được cơ quan chấp thuận"
   },
   {
     "word": "cutting corners",
     "ipa": "ˈkʌtɪŋ ˈkɔɹnɚz",
+    "type": "",
+    "def": "To do something in the easiest or most inexpensive",
     "vi": "làm tắt cho nhanh",
     "viDef": "làm theo cách dễ nhất hoặc ít tốn nhất"
   },
   {
     "word": "hand down",
     "ipa": "hænd daʊn",
+    "type": "",
+    "def": "to pass from one family member or generation to th",
     "vi": "truyền lại",
     "viDef": "chuyển từ người hoặc đời này sang đời sau trong gia đình"
   },
   {
     "word": "Haggis",
     "ipa": "ˈhæɡəs",
+    "type": "",
+    "def": "made of sheep's viscera minced with oatmeal, suet,",
     "vi": "món haggis",
     "viDef": "món làm từ nội tạng cừu băm với bột yến mạch, mỡ và gia vị"
   },
   {
     "word": "stuff",
     "ipa": "stʌf",
+    "type": "",
+    "def": "to pack tightly, to cram inside",
     "vi": "nhồi nhét",
     "viDef": "dồn chặt, ấn vào bên trong"
   },
   {
     "word": "Angel Investors",
     "ipa": "ˈeɪndʒəl ˌɪnˈvɛstɚz",
+    "type": "",
+    "def": "Individuals who back emerging entrepreneurial ventures, usually as a bridge to get from the self-funded stage to the level of business that would both need and attract venture capital.",
     "vi": "nhà đầu tư thiên thần",
     "viDef": "người rót vốn cho các dự án mới, thường là bước đệm từ giai đoạn tự lo vốn đến quy mô cần và hút được vốn đầu tư mạo hiểm"
   },
   {
     "word": "Joint Venture",
     "ipa": "dʒɔɪnt ˈvɛntʃɚ",
+    "type": "",
+    "def": "A legal entity created by two or more businesses joining together to conduct a specific business enterprise with both parties sharing profits and losses.",
     "vi": "liên doanh",
     "viDef": "pháp nhân do hai hay nhiều doanh nghiệp lập ra để cùng làm một việc kinh doanh, chia cả lời lẫn lỗ"
   },
   {
     "word": "Venture Capital",
     "ipa": "ˈvɛntʃɚ ˈkæpətəl",
+    "type": "",
+    "def": "A form of financing for a company in which the business gives up partial ownership and control of the business in exchange for capital over a limited time frame, usually 3-5 years.",
     "vi": "vốn đầu tư mạo hiểm",
     "viDef": "hình thức cấp vốn mà doanh nghiệp nhường một phần sở hữu và quyền điều hành để đổi lấy vốn trong thời hạn nhất định, thường là 3-5 năm"
   },
   {
     "word": "Merger",
     "ipa": "ˈmɝdʒɚ",
+    "type": "",
+    "def": "A joining together of two previously separate corporations.",
     "vi": "sáp nhập",
     "viDef": "việc hai công ty trước đó riêng biệt nhập lại thành một"
   },
   {
     "word": "Audit",
     "ipa": "ˈɔdɪt",
+    "type": "",
+    "def": "an evaluation of a person, organization, system, process, enterprise, project or product.",
     "vi": "kiểm toán, rà soát",
     "viDef": "việc đánh giá một người, tổ chức, hệ thống, quy trình, doanh nghiệp, dự án hoặc sản phẩm"
   }

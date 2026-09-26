@@ -2,78 +2,104 @@
   {
     "word": "screw up",
     "ipa": "skɹu ʌp",
+    "type": "verb",
+    "def": "mess up, make a mistake, fail",
     "vi": "làm hỏng việc",
     "viDef": "gây lỗi, thất bại"
   },
   {
     "word": "map out",
     "ipa": "mæp aʊt",
+    "type": "verb",
+    "def": "planned, thought of",
     "vi": "vạch ra",
     "viDef": "đã tính toán, lên kế hoạch"
   },
   {
     "word": "patch (someone) through",
     "ipa": "pætʃ ˈsʌmwʌn θɹu",
+    "type": "phrase",
+    "def": "connect or communicate over the telephone",
     "vi": "nối máy",
     "viDef": "kết nối liên lạc qua điện thoại"
   },
   {
     "word": "tap",
     "ipa": "tæp",
+    "type": "verb",
+    "def": "attach a device to a phone line to listen secretly",
     "vi": "gài máy nghe lén",
     "viDef": "lắp thiết bị vào đường dây để nghe trộm"
   },
   {
     "word": "greedy",
     "ipa": "ˈɡɹidi",
+    "type": "Adjective",
+    "def": "want too much; always wanting more",
     "vi": "tham lam",
     "viDef": "muốn quá nhiều, lúc nào cũng muốn thêm"
   },
   {
     "word": "loose (someone's) cool",
     "ipa": "lus ˈsʌmwʌnz kul",
+    "type": "phrase",
+    "def": "to not control your feeling or emotions",
     "vi": "mất bình tĩnh",
     "viDef": "không kìm được cảm xúc"
   },
   {
     "word": "clever",
     "ipa": "ˈklɛvɚ",
+    "type": "Adjective",
+    "def": "smart, intelligent",
     "vi": "khôn, lanh lợi",
     "viDef": "thông minh"
   },
   {
     "word": "replica",
     "ipa": "ˈɹɛplɪkə",
+    "type": "common noun, plural",
+    "def": "a reproduction or copy of a product",
     "vi": "bản sao",
     "viDef": "sản phẩm làm lại giống bản gốc"
   },
   {
     "word": "heist",
     "ipa": "haɪst",
+    "type": "common noun, singular",
+    "def": "the act of stealing something from a shop or a bank (AmE, Informal)",
     "vi": "vụ cướp",
     "viDef": "việc trộm ở cửa hàng hay ngân hàng (Anh-Mỹ, thân mật)"
   },
   {
     "word": "bust",
     "ipa": "bʌst",
+    "type": "common noun, singular",
+    "def": "an event where the police catch people doing a crime",
     "vi": "vụ bắt quả tang",
     "viDef": "lần cảnh sát bắt được người đang phạm tội"
   },
   {
     "word": "bandit",
     "ipa": "ˈbændət",
+    "type": "common noun, singular",
+    "def": "criminal who attacks and steals from people who travel",
     "vi": "cướp đường",
     "viDef": "kẻ chặn đánh và lấy của người đi đường"
   },
   {
     "word": "burglary",
     "ipa": "ˈbɝɡlɚi",
+    "type": "common noun, singular",
+    "def": "illegally entering a house or building to steal",
     "vi": "vụ đột nhập trộm",
     "viDef": "vào nhà hay tòa nhà trái phép để lấy đồ"
   },
   {
     "word": "escape route",
     "ipa": "ɪˈskeɪp ɹut",
+    "type": "common noun, singular",
+    "def": "a planned way of going from one place to another and escaping",
     "vi": "đường tẩu thoát",
     "viDef": "lối đã tính trước để chạy khỏi nơi nào"
   }

@@ -2,54 +2,72 @@
   {
     "word": "pouring",
     "ipa": "ˈpɔɹɪŋ",
+    "type": "",
+    "def": "flowing or falling, as from one container to another, or into, over, or on something",
     "vi": "mưa như trút",
     "viDef": "chảy hoặc rơi ào ào, như từ vật này sang vật khác hoặc lên thứ gì"
   },
   {
     "word": "romantic",
     "ipa": "ɹoʊˈmæntɪk",
+    "type": "",
+    "def": "relating to a feeling of love between a couple",
     "vi": "lãng mạn",
     "viDef": "liên quan tới tình cảm yêu đương giữa hai người"
   },
   {
     "word": "postpone",
     "ipa": "poʊstˈpoʊn",
+    "type": "",
+    "def": "decide to do something at a later time",
     "vi": "hoãn lại",
     "viDef": "quyết định làm vào lúc khác muộn hơn"
   },
   {
     "word": "definitely",
     "ipa": "ˈdɛfənətli",
+    "type": "",
+    "def": "certainly",
     "vi": "chắc chắn rồi",
     "viDef": "nhất định"
   },
   {
     "word": "in my opinion",
     "ipa": "ɪn maɪ əˈpɪnjən",
+    "type": "",
+    "def": "way to express your opinion",
     "vi": "theo tôi thì",
     "viDef": "cách nói để nêu ý kiến của mình"
   },
   {
     "word": "raincheck",
     "ipa": "ˈɹeɪntʃɛk",
+    "type": "",
+    "def": "an offered or requested postponement of an invitation until a more convenient",
     "vi": "hẹn dịp khác",
     "viDef": "lời đề nghị hoặc yêu cầu dời một lời mời sang lúc thuận tiện hơn"
   },
   {
     "word": "cute",
     "ipa": "kjut",
+    "type": "",
+    "def": "pleasingly pretty",
     "vi": "dễ thương",
     "viDef": "xinh xắn dễ mến"
   },
   {
     "word": "drizzle",
     "ipa": "ˈdɹɪzəl",
+    "type": "",
+    "def": "to rain gently and steadily in fine drops",
     "vi": "mưa lất phất",
     "viDef": "mưa nhẹ và đều thành những hạt nhỏ"
   },
   {
     "word": "cancel",
     "ipa": "ˈkænsəl",
+    "type": "",
+    "def": "to decide or announce that a planned event will not take place",
     "vi": "hủy",
     "viDef": "quyết định hoặc thông báo rằng một sự kiện đã định sẽ không diễn ra"
   }

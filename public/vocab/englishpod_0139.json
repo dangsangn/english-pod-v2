@@ -2,78 +2,104 @@
   {
     "word": "diagonally",
     "ipa": "daɪˈæɡənəli",
+    "type": "General Adverb",
+    "def": "on a diagonal, forward and to the left or right",
     "vi": "theo đường chéo",
     "viDef": "chếch sang trái hoặc phải"
   },
   {
     "word": "set up",
     "ipa": "sɛt ʌp",
+    "type": "phrase",
+    "def": "make ready for use",
     "vi": "dàn ra, bày sẵn",
     "viDef": "chuẩn bị cho dùng được"
   },
   {
     "word": "valuable",
     "ipa": "ˈvæljəbəl",
+    "type": "Adjective",
+    "def": "very useful or helpful",
     "vi": "quý giá",
     "viDef": "rất hữu ích"
   },
   {
     "word": "capture",
     "ipa": "ˈkæptʃɚ",
+    "type": "principle verb, present simple",
+    "def": "to take",
     "vi": "bắt lấy",
     "viDef": "chiếm được"
   },
   {
     "word": "pawn",
     "ipa": "pɔn",
+    "type": "common noun, plural",
+    "def": "the weakest piece in chess; a person or group without much power",
     "vi": "quân tốt",
     "viDef": "quân yếu nhất trong cờ; người hoặc nhóm chẳng có quyền lực"
   },
   {
     "word": "boring",
     "ipa": "ˈbɔɹɪŋ",
+    "type": "Adjective",
+    "def": "not interesting",
     "vi": "nhàm",
     "viDef": "chẳng thú vị"
   },
   {
     "word": "Check Mate",
     "ipa": "tʃɛk meɪt",
+    "type": "phrase",
+    "def": "describes situation in which king cannot move",
     "vi": "hết nước, chiếu bí",
     "viDef": "tình thế vua không còn đường đi"
   },
   {
     "word": "queen",
     "ipa": "kwin",
+    "type": "common noun, singular",
+    "def": "a very powerful piece in chess",
     "vi": "quân hậu",
     "viDef": "quân rất mạnh trong cờ"
   },
   {
     "word": "knight",
     "ipa": "naɪt",
+    "type": "common noun, singular",
+    "def": "a useful piece in chess",
     "vi": "quân mã",
     "viDef": "quân hữu dụng trong cờ"
   },
   {
     "word": "bishop",
     "ipa": "ˈbɪʃəp",
+    "type": "common noun, singular",
+    "def": "a piece in chess that can only move diagonally",
     "vi": "quân tượng",
     "viDef": "quân chỉ đi theo đường chéo"
   },
   {
     "word": "king",
     "ipa": "kɪŋ",
+    "type": "common noun, singular",
+    "def": "the final and most important piece in chess",
     "vi": "quân vua",
     "viDef": "quân cuối cùng và quan trọng nhất"
   },
   {
     "word": "chess",
     "ipa": "tʃɛs",
+    "type": "common noun, non-variable",
+    "def": "a game in which each player moves 16 pieces across a board and tries to capture the opponent's king",
     "vi": "cờ vua",
     "viDef": "trò mỗi bên đi 16 quân trên bàn, cố bắt vua đối phương"
   },
   {
     "word": "rook",
     "ipa": "ɹʊk",
+    "type": "common noun, singular",
+    "def": "a piece in chess that can only move along straight lines",
     "vi": "quân xe",
     "viDef": "quân chỉ đi theo đường thẳng"
   }

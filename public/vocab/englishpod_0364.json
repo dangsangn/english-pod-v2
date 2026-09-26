@@ -2,84 +2,112 @@
   {
     "word": "ad",
     "ipa": "æd",
+    "type": "",
+    "def": "and advertisement or advert",
     "vi": "mẩu quảng cáo",
     "viDef": "một quảng cáo"
   },
   {
     "word": "hire",
     "ipa": "ˈhaɪɚ",
+    "type": "",
+    "def": "to give work",
     "vi": "thuê người",
     "viDef": "giao việc cho ai"
   },
   {
     "word": "maid",
     "ipa": "meɪd",
+    "type": "",
+    "def": "a female who's job is to clean and cook",
     "vi": "người giúp việc",
     "viDef": "người nữ làm công việc dọn dẹp và nấu ăn"
   },
   {
     "word": "cleaning lady",
     "ipa": "ˈklinɪŋ ˈleɪdi",
+    "type": "",
+    "def": "a person that is hired to clean, a maid",
     "vi": "chị lao công",
     "viDef": "người được thuê để dọn dẹp, tức người giúp việc"
   },
   {
     "word": "domestic help",
     "ipa": "dəˈmɛstɪk hɛlp",
+    "type": "",
+    "def": "a servant who is paid to perform tasks around the",
     "vi": "người giúp việc nhà",
     "viDef": "người làm công được trả tiền để lo các việc trong nhà"
   },
   {
     "word": "hourly",
     "ipa": "ˈaʊɹli",
+    "type": "",
+    "def": "per hour",
     "vi": "theo giờ",
     "viDef": "tính mỗi giờ"
   },
   {
     "word": "going rate",
     "ipa": "ˈɡoʊɪŋ ɹeɪt",
+    "type": "",
+    "def": "the current price or fee of something",
     "vi": "giá thị trường",
     "viDef": "mức giá hoặc phí hiện hành của một thứ"
   },
   {
     "word": "negotiate",
     "ipa": "nəˈɡoʊʃiˌeɪt",
+    "type": "",
+    "def": "discuss and reach a mutual deal",
     "vi": "thương lượng",
     "viDef": "bàn bạc và đi đến thỏa thuận chung"
   },
   {
     "word": "minimum wage",
     "ipa": "ˈmɪnəməm weɪdʒ",
+    "type": "",
+    "def": "the lowest legal salary a person can earn",
     "vi": "lương tối thiểu",
     "viDef": "mức lương thấp nhất theo luật mà một người được nhận"
   },
   {
     "word": "servant",
     "ipa": "ˈsɝvənt",
+    "type": "",
+    "def": "One who is privately employed to perform domestic services.",
     "vi": "người hầu",
     "viDef": "người được thuê riêng để làm các việc trong nhà"
   },
   {
     "word": "cook",
     "ipa": "kʊk",
+    "type": "",
+    "def": "A person who prepares food for eating.",
     "vi": "người nấu bếp",
     "viDef": "người chuẩn bị đồ ăn"
   },
   {
     "word": "gardener",
     "ipa": "ˈɡɑɹdənɚ",
+    "type": "",
+    "def": "One who works in or tends a garden for pleasure or hire.",
     "vi": "người làm vườn",
     "viDef": "người làm hoặc chăm vườn vì thích hoặc vì được thuê"
   },
   {
     "word": "plumber",
     "ipa": "ˈplʌmɚ",
+    "type": "",
+    "def": "One that installs and repairs pipes and plumbing.",
     "vi": "thợ ống nước",
     "viDef": "người lắp và sửa ống nước cùng hệ cấp thoát nước"
   },
   {
     "word": "electrician",
     "ipa": "ɪlɛkˈtɹɪʃən",
+    "type": "",
+    "def": "a person whose occupation is the installation, maintenance, and repair of electrical devices",
     "vi": "thợ điện",
     "viDef": "người làm nghề lắp đặt, bảo trì và sửa các thiết bị điện"
   }

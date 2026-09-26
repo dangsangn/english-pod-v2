@@ -2,78 +2,104 @@
   {
     "word": "refreshment",
     "ipa": "ɹəˈfɹɛʃmənt",
+    "type": "",
+    "def": "drinks",
     "vi": "đồ uống nhẹ",
     "viDef": "các thứ nước uống"
   },
   {
     "word": "interview",
     "ipa": "ˈɪntɚˌvju",
+    "type": "",
+    "def": "a meeting at which people talk to each other",
     "vi": "buổi phỏng vấn",
     "viDef": "cuộc gặp để hai bên nói chuyện với nhau"
   },
   {
     "word": "resume",
     "ipa": "ɹɪˈzum",
+    "type": "",
+    "def": "a short document describing your education, work h",
     "vi": "bản lý lịch",
     "viDef": "văn bản ngắn ghi học vấn và quá trình làm việc"
   },
   {
     "word": "recommend",
     "ipa": "ˌɹɛkəˈmɛnd",
+    "type": "",
+    "def": "suggest",
     "vi": "giới thiệu",
     "viDef": "đề xuất"
   },
   {
     "word": "background",
     "ipa": "ˈbækɡɹaʊnd",
+    "type": "",
+    "def": "the experiences, knowledge, education of a person",
     "vi": "nền tảng bản thân",
     "viDef": "kinh nghiệm, kiến thức và học vấn của một người"
   },
   {
     "word": "make some time",
     "ipa": "meɪk sʌm taɪm",
+    "type": "",
+    "def": "manage to find to time",
     "vi": "dành ít thời gian",
     "viDef": "thu xếp được thời gian"
   },
   {
     "word": "It's a pleasure to",
     "ipa": "ɪts ə ˈplɛʒɚ tu",
+    "type": "",
+    "def": "It's happy to",
     "vi": "rất vui được",
     "viDef": "thật hân hạnh khi"
   },
   {
     "word": "fill me in",
     "ipa": "fɪl mi ɪn",
+    "type": "",
+    "def": "give me more information",
     "vi": "kể tôi nghe với",
     "viDef": "cho tôi biết thêm thông tin"
   },
   {
     "word": "introduction",
     "ipa": "ˌɪntɹəˈdʌkʃən",
+    "type": "",
+    "def": "formally introducing yourself to someone",
     "vi": "phần giới thiệu",
     "viDef": "việc tự giới thiệu mình một cách chính thức"
   },
   {
     "word": "business attire",
     "ipa": "ˈbɪznəs əˈtaɪɚ",
+    "type": "",
+    "def": "formal business clothes (usually a suit and tie)",
     "vi": "trang phục công sở",
     "viDef": "đồ trang trọng đi làm, thường là áo vest và cà vạt"
   },
   {
     "word": "interveiwer",
     "ipa": "ˈɪntɚˌvjuɚ",
+    "type": "",
+    "def": "the person giving the interview",
     "vi": "người phỏng vấn",
     "viDef": "người tiến hành buổi phỏng vấn"
   },
   {
     "word": "interviewee",
     "ipa": "ˌɪntɚvjuˈi",
+    "type": "",
+    "def": "the person being interviewed",
     "vi": "người được phỏng vấn",
     "viDef": "người ngồi trả lời phỏng vấn"
   },
   {
     "word": "human resource department",
     "ipa": "ˈhjumən ˈɹisɔɹs dɪˈpɑɹtmənt",
+    "type": "",
+    "def": "the department in charge of hiring new employees",
     "vi": "phòng nhân sự",
     "viDef": "bộ phận phụ trách tuyển người mới"
   }

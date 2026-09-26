@@ -2,66 +2,88 @@
   {
     "word": "girlfriend",
     "ipa": "ˈɡɝlfɹɛnd",
+    "type": "",
+    "def": "a female romantic partner",
     "vi": "bạn gái",
     "viDef": "người nữ trong quan hệ tình cảm"
   },
   {
     "word": "break up",
     "ipa": "bɹeɪk ʌp",
+    "type": "",
+    "def": "end a romantic relationship",
     "vi": "chia tay",
     "viDef": "kết thúc quan hệ tình cảm"
   },
   {
     "word": "man up",
     "ipa": "mæn ʌp",
+    "type": "",
+    "def": "take responsibility for your actions",
     "vi": "ra dáng đàn ông đi",
     "viDef": "chịu trách nhiệm cho việc mình làm"
   },
   {
     "word": "crap",
     "ipa": "kɹæp",
+    "type": "",
+    "def": "an unpolite way of saying something is foolish",
     "vi": "nhảm nhí",
     "viDef": "cách nói thô khi cho rằng điều gì thật ngớ ngẩn"
   },
   {
     "word": "momma's boy",
     "ipa": "ˈmɑməz bɔɪ",
+    "type": "",
+    "def": "A grown male still dependent on his mother",
     "vi": "cậu ấm bám mẹ",
     "viDef": "người nam đã lớn mà vẫn lệ thuộc vào mẹ"
   },
   {
     "word": "move out",
     "ipa": "muv aʊt",
+    "type": "",
+    "def": "change the place where you live, leave a house",
     "vi": "dọn ra riêng",
     "viDef": "đổi chỗ ở, rời khỏi một căn nhà"
   },
   {
     "word": "wimp",
     "ipa": "wɪmp",
+    "type": "",
+    "def": "a weak, cowardly, or ineffectual person",
     "vi": "kẻ nhu nhược",
     "viDef": "người yếu đuối, hèn nhát hoặc chẳng được việc"
   },
   {
     "word": "pamper",
     "ipa": "ˈpæmpɚ",
+    "type": "",
+    "def": "To treat with excessive care, attention or indulgence",
     "vi": "chiều quá mức",
     "viDef": "chăm chút, để tâm hoặc nuông chiều quá đỗi"
   },
   {
     "word": "Mooch",
     "ipa": "mutʃ",
+    "type": "",
+    "def": "someone that tries to get something free",
     "vi": "kẻ chực chờ xin",
     "viDef": "người tìm cách xin thứ gì miễn phí"
   },
   {
     "word": "immature",
     "ipa": "ˌɪməˈtjʊɹ",
+    "type": "",
+    "def": "characteristic of a lack of maturity",
     "vi": "non nớt",
     "viDef": "mang nét thiếu chín chắn"
   },
   {
     "word": "needy",
     "ipa": "ˈnidi",
+    "type": "",
+    "def": "demanding or needing attention, affection, or reassurance to an excessive degree",
     "vi": "bám dính đòi hỏi",
     "viDef": "đòi hoặc cần sự chú ý, tình cảm hay lời trấn an quá mức"
   }

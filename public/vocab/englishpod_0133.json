@@ -2,60 +2,80 @@
   {
     "word": "dye",
     "ipa": "daɪ",
+    "type": "principle verb, past simple",
+    "def": "to change the color of (something, such as hair or clothing",
     "vi": "nhuộm",
     "viDef": "đổi màu của tóc hoặc quần áo"
   },
   {
     "word": "contraption",
     "ipa": "kənˈtɹæpʃən",
+    "type": "common noun, singular",
+    "def": "machine",
     "vi": "cái máy kỳ khôi",
     "viDef": "thiết bị, máy móc"
   },
   {
     "word": "do the trick",
     "ipa": "du ðə tɹɪk",
+    "type": "phrase",
+    "def": "accomplish the desired task",
     "vi": "thế là xong việc",
     "viDef": "đạt được điều mình muốn"
   },
   {
     "word": "all set",
     "ipa": "ɔl sɛt",
+    "type": "phrase",
+    "def": "ready, prepared",
     "vi": "xong hết rồi",
     "viDef": "đã sẵn sàng"
   },
   {
     "word": "dry clean",
     "ipa": "dɹaɪ klin",
+    "type": "principle verb, past simple",
+    "def": "a way to clean clothes without water.",
     "vi": "giặt khô",
     "viDef": "cách làm sạch quần áo không dùng nước"
   },
   {
     "word": "laundromat",
     "ipa": "ˈlɔndɹəˌmæt",
+    "type": "common noun, singular",
+    "def": "place with washing machines and dryers, usually coin-operated and self-service",
     "vi": "tiệm giặt tự động",
     "viDef": "chỗ có máy giặt và máy sấy, thường bỏ xu và tự phục vụ"
   },
   {
     "word": "iron",
     "ipa": "ˈaɪɚn",
+    "type": "principle verb, present simple",
+    "def": "To press and smooth clothes with a heated iron",
     "vi": "ủi",
     "viDef": "là phẳng quần áo bằng bàn ủi nóng"
   },
   {
     "word": "starch",
     "ipa": "stɑɹtʃ",
+    "type": "principle verb, present simple",
+    "def": "to stiffen clothes with a chemical compund",
     "vi": "hồ vải",
     "viDef": "làm cứng vải bằng chất hồ"
   },
   {
     "word": "clothesline",
     "ipa": "ˈkloʊzlaɪn",
+    "type": "common noun, singular",
+    "def": "A cord, rope, or wire on which clothes may be hung to dry or air",
     "vi": "dây phơi",
     "viDef": "dây căng để phơi quần áo"
   },
   {
     "word": "clothes hamper",
     "ipa": "kloʊðz ˈhæmpɚ",
+    "type": "common noun, singular",
+    "def": "basket or space where dirty clothes are put",
     "vi": "giỏ đồ giặt",
     "viDef": "giỏ hoặc chỗ để quần áo bẩn"
   }

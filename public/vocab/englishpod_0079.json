@@ -2,78 +2,104 @@
   {
     "word": "break through",
     "ipa": "bɹeɪk θɹu",
+    "type": "phrase",
+    "def": "get through by force",
     "vi": "chọc phá xuyên qua",
     "viDef": "dùng sức vượt qua"
   },
   {
     "word": "blaster",
     "ipa": "ˈblæstɚ",
+    "type": "common noun, plural",
+    "def": "the parts of a spaceship that are used for emitting bombs",
     "vi": "súng bắn của phi thuyền",
     "viDef": "bộ phận trên tàu không gian dùng để phóng bom"
   },
   {
     "word": "settle",
     "ipa": "ˈsɛtəl",
+    "type": "verb",
+    "def": "finish, end",
     "vi": "giải quyết cho xong",
     "viDef": "kết thúc, dứt điểm"
   },
   {
     "word": "once and for all",
     "ipa": "wʌns ənd fɔɹ ɔl",
+    "type": "phrase",
+    "def": "forever",
     "vi": "một lần cho xong",
     "viDef": "dứt khoát, mãi mãi"
   },
   {
     "word": "unwise",
     "ipa": "ənˈwaɪz",
+    "type": "Adjective",
+    "def": "not wise, silly",
     "vi": "không sáng suốt",
     "viDef": "thiếu khôn ngoan, hớ hênh"
   },
   {
     "word": "manage",
     "ipa": "ˈmænədʒ",
+    "type": "verb",
+    "def": "be able to do",
     "vi": "xoay xở làm được",
     "viDef": "có thể làm nổi"
   },
   {
     "word": "tractor beam",
     "ipa": "ˈtɹæktɚ bim",
+    "type": "phrase",
+    "def": "a device used for attracting one project to another from a distance",
     "vi": "chùm tia hút",
     "viDef": "thiết bị hút vật thể này về phía vật thể khác từ xa"
   },
   {
     "word": "speed of light",
     "ipa": "spid ʌv laɪt",
+    "type": "common noun, singular",
+    "def": "the rate at which light travels. 299 792 458 meters per second",
     "vi": "tốc độ ánh sáng",
     "viDef": "vận tốc ánh sáng, 299 792 458 mét mỗi giây"
   },
   {
     "word": "android",
     "ipa": "ˈændɹɔɪd",
+    "type": "common noun, singular",
+    "def": "a robot that looks like a person",
     "vi": "người máy",
     "viDef": "rô-bốt trông giống người"
   },
   {
     "word": "galaxy",
     "ipa": "ˈɡæləksi",
+    "type": "common noun, singular",
+    "def": "any one of the very large groups of stars that make up the universe",
     "vi": "thiên hà",
     "viDef": "một trong những cụm sao rất lớn tạo nên vũ trụ"
   },
   {
     "word": "constellation",
     "ipa": "ˌkɑnstəˈleɪʃən",
+    "type": "common noun, singular",
+    "def": "a group of celestial bodies (usually stars) that appear to form a pattern in the sky or appear visibly related to each other.",
     "vi": "chòm sao",
     "viDef": "nhóm thiên thể, thường là sao, trông như tạo thành một hình trên trời"
   },
   {
     "word": "parsec",
     "ipa": "ˈpɑɹsɛk",
+    "type": "common noun, singular",
+    "def": "is a unit of length, equal to just under 31 trillion kilometres or about 3.26 light-years",
     "vi": "parsec",
     "viDef": "đơn vị đo chiều dài, gần 31 nghìn tỉ ki-lô-mét, khoảng 3,26 năm ánh sáng"
   },
   {
     "word": "light-year",
     "ipa": "laɪt jɪɹ",
+    "type": "common noun, singular",
+    "def": "the distance traveled in one year traveling at the speed of light",
     "vi": "năm ánh sáng",
     "viDef": "khoảng cách đi được trong một năm với tốc độ ánh sáng"
   }

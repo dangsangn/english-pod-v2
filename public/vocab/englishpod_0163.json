@@ -2,48 +2,64 @@
   {
     "word": "invest",
     "ipa": "ɪnˈvɛst",
+    "type": "",
+    "def": "spend money on something in order to get back more",
     "vi": "đầu tư",
     "viDef": "bỏ tiền vào để mong thu về nhiều hơn"
   },
   {
     "word": "Social Security",
     "ipa": "ˈsoʊʃəl sɪˈkjʊɹəti",
+    "type": "",
+    "def": "a US government program to protect certain groups",
     "vi": "An sinh Xã hội",
     "viDef": "chương trình của chính phủ Mỹ bảo vệ một số nhóm dân"
   },
   {
     "word": "pension",
     "ipa": "ˈpɛnʃən",
+    "type": "",
+    "def": "money paid at regular intervals from the government or a previous employer to a person following retirement or to their surviving dependents",
     "vi": "lương hưu",
     "viDef": "tiền nhà nước hoặc chủ cũ trả định kỳ cho người đã nghỉ việc hoặc người thân còn sống của họ"
   },
   {
     "word": "disability income insurance",
     "ipa": "ˌdɪsəˈbɪlɪti ˈɪnkʌm ˌɪnˈʃʊɹəns",
+    "type": "",
+    "def": "financial assistance to people who acquire a disability so that they can maintain a certain income level",
     "vi": "bảo hiểm thu nhập khi mất sức",
     "viDef": "khoản hỗ trợ tiền cho người bị khuyết tật để giữ được mức thu nhập nhất định"
   },
   {
     "word": "survivor benefits",
     "ipa": "sɚˈvaɪvɚ ˈbɛnəfɪts",
+    "type": "",
+    "def": "financial assistance for the families of workers who die",
     "vi": "trợ cấp tuất",
     "viDef": "khoản hỗ trợ tiền cho gia đình người lao động đã mất"
   },
   {
     "word": "unemployment benefits/ compensation",
     "ipa": "ˌʌnɪmˈplɔɪmənt ˈbɛnəfɪts ˌkɑmpənˈseɪʃən",
+    "type": "",
+    "def": "payments made to an unemployed worker by the goverment or employer during all or part of the period of unemployment",
     "vi": "trợ cấp thất nghiệp",
     "viDef": "tiền nhà nước hoặc chủ trả cho người mất việc trong suốt hoặc một phần thời gian không có việc"
   },
   {
     "word": "defined benefit plan",
     "ipa": "dɪˈfaɪnd ˈbɛnəfɪt plæn",
+    "type": "",
+    "def": "a pension plan that pays a defined pension/benefit, but the amount invested may vary",
     "vi": "gói hưu mức chi cố định",
     "viDef": "chương trình hưu trả mức xác định, còn số tiền đầu tư có thể thay đổi"
   },
   {
     "word": "defined contribution plan",
     "ipa": "dɪˈfaɪnd ˌkɑntɹəˈbjuʃən plæn",
+    "type": "",
+    "def": "a pension plan that has a defined amount to invest, but whose pension/benefit depends on the success of those investments",
     "vi": "gói hưu mức góp cố định",
     "viDef": "chương trình hưu góp một khoản xác định, mức nhận lại tùy kết quả đầu tư"
   }

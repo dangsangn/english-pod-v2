@@ -2,66 +2,88 @@
   {
     "word": "scratch",
     "ipa": "skɹætʃ",
+    "type": "",
+    "def": "to rub your skin with something sharp",
     "vi": "cào xước",
     "viDef": "chà lên da bằng vật nhọn"
   },
   {
     "word": "pick your poison",
     "ipa": "pɪk jɔɹ ˈpɔɪzən",
+    "type": "",
+    "def": "select whatever you like",
     "vi": "tùy ý mà chọn",
     "viDef": "chọn thứ nào bạn thích"
   },
   {
     "word": "pick up",
     "ipa": "pɪk ʌp",
+    "type": "",
+    "def": "buy",
     "vi": "mua về",
     "viDef": "đi mua"
   },
   {
     "word": "roast",
     "ipa": "ɹoʊst",
+    "type": "",
+    "def": "cook with dry heat",
     "vi": "nướng lò",
     "viDef": "làm chín bằng nhiệt khô"
   },
   {
     "word": "activist",
     "ipa": "ˈæktəvəst",
+    "type": "",
+    "def": "advocating or engaged in activism",
     "vi": "nhà hoạt động",
     "viDef": "người cổ xúy hoặc tham gia hoạt động xã hội"
   },
   {
     "word": "well I'll be",
     "ipa": "wɛl aɪl bi",
+    "type": "",
+    "def": "used to refer to show surprise",
     "vi": "ồ lạ thật",
     "viDef": "câu thốt ra để tỏ sự ngạc nhiên"
   },
   {
     "word": "home cooking",
     "ipa": "hoʊm ˈkʊkɪŋ",
+    "type": "",
+    "def": "A meal prepared at home",
     "vi": "cơm nhà",
     "viDef": "bữa ăn được nấu tại nhà"
   },
   {
     "word": "alcohol",
     "ipa": "ˈælkəˌhɑl",
+    "type": "",
+    "def": "An intoxicating drink",
     "vi": "rượu",
     "viDef": "thức uống có men gây say"
   },
   {
     "word": "nervous",
     "ipa": "ˈnɝvəs",
+    "type": "",
+    "def": "to be uncomfortable(usually emotionally)",
     "vi": "bồn chồn",
     "viDef": "thấy không thoải mái, nhất là về cảm xúc"
   },
   {
     "word": "frighten",
     "ipa": "ˈfɹaɪtən",
+    "type": "",
+    "def": "to scare someone",
     "vi": "làm ai sợ",
     "viDef": "khiến người khác hoảng"
   },
   {
     "word": "chastise",
     "ipa": "tʃæˈstaɪz",
+    "type": "",
+    "def": "to scold someone",
     "vi": "mắng mỏ",
     "viDef": "rầy la ai"
   }

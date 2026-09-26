@@ -2,60 +2,80 @@
   {
     "word": "grab a bite",
     "ipa": "ɡɹæb ə baɪt",
+    "type": "",
+    "def": "get food that can be eaten quickly",
     "vi": "ăn tạm miếng gì",
     "viDef": "lấy đồ ăn nhanh cho qua bữa"
   },
   {
     "word": "all you ever do",
     "ipa": "ɔl ju ˈɛvɚ du",
+    "type": "",
+    "def": "something frequently done",
     "vi": "suốt ngày chỉ thấy anh",
     "viDef": "việc gì làm rất thường xuyên"
   },
   {
     "word": "cut down",
     "ipa": "kʌt daʊn",
+    "type": "",
+    "def": "reduce the amount taken or used",
     "vi": "giảm bớt",
     "viDef": "dùng hoặc ăn ít đi"
   },
   {
     "word": "how about",
     "ipa": "haʊ əˈbaʊt",
+    "type": "",
+    "def": "what do you think",
     "vi": "còn... thì sao",
     "viDef": "anh/chị thấy thế nào"
   },
   {
     "word": "stick to",
     "ipa": "stɪk tu",
+    "type": "",
+    "def": "continue doing (something)",
     "vi": "giữ theo",
     "viDef": "tiếp tục làm việc gì"
   },
   {
     "word": "Calorie",
     "ipa": "ˈkælɚi",
+    "type": "",
+    "def": "a unit of energy",
     "vi": "ca-lo",
     "viDef": "đơn vị đo năng lượng"
   },
   {
     "word": "Saturated Fat",
     "ipa": "ˈsætʃɚˌeɪtɪd fæt",
+    "type": "",
+    "def": "A fat that consists of triglycerides containing only saturated fatty acid radicals.",
     "vi": "chất béo bão hòa",
     "viDef": "loại chất béo gồm các triglyceride chỉ chứa gốc axit béo bão hòa"
   },
   {
     "word": "Fiber",
     "ipa": "ˈfaɪbɚ",
+    "type": "",
+    "def": "An indigestible portion of plant foods having two main components",
     "vi": "chất xơ",
     "viDef": "phần trong thực phẩm thực vật cơ thể không tiêu hóa được, gồm hai thành phần chính"
   },
   {
     "word": "Serving",
     "ipa": "ˈsɝvɪŋ",
+    "type": "",
+    "def": "A specific amount or portion of food or liquids",
     "vi": "một phần ăn",
     "viDef": "lượng hoặc suất thức ăn, đồ uống nhất định"
   },
   {
     "word": "Obese",
     "ipa": "oʊˈbis",
+    "type": "",
+    "def": "condition of having excess body fat,to the extent that it may have an adverse effect on health, leading to reduced life",
     "vi": "béo phì",
     "viDef": "tình trạng thừa mỡ đến mức có thể gây hại cho sức khỏe và làm giảm tuổi thọ"
   }

@@ -2,60 +2,80 @@
   {
     "word": "custom-made",
     "ipa": "ˈkʌstəm meɪd",
+    "type": "",
+    "def": "made especially for the needs of one person",
     "vi": "đặt làm riêng",
     "viDef": "làm riêng theo nhu cầu của một người"
   },
   {
     "word": "measure",
     "ipa": "ˈmɛʒɚ",
+    "type": "",
+    "def": "to ascertain the dimensions, quantity",
     "vi": "đo",
     "viDef": "xác định kích thước, số lượng"
   },
   {
     "word": "make sure",
     "ipa": "meɪk ʃʊɹ",
+    "type": "",
+    "def": "be sure",
     "vi": "bảo đảm chắc",
     "viDef": "cho chắc chắn"
   },
   {
     "word": "tend",
     "ipa": "tɛnd",
+    "type": "",
+    "def": "be more likely",
     "vi": "thường hay",
     "viDef": "có xu hướng"
   },
   {
     "word": "pattern design",
     "ipa": "ˈpætɚn dɪˈzaɪn",
+    "type": "",
+    "def": "an artistic or decorative design that repeats",
     "vi": "họa tiết lặp",
     "viDef": "thiết kế trang trí có nhắc lại"
   },
   {
     "word": "Vest",
     "ipa": "vɛst",
+    "type": "",
+    "def": "A garment covering the upper body that has no sleeves",
     "vi": "áo gi-lê",
     "viDef": "áo che phần trên người, không có tay"
   },
   {
     "word": "Tuxedo",
     "ipa": "ˌtʌkˈsidoʊ",
+    "type": "",
+    "def": "A complete formal outfit, usually black that includes pants, jacket and bow tie.",
     "vi": "bộ tuxedo",
     "viDef": "bộ đồ trang trọng, thường màu đen, gồm quần, áo vest và nơ cổ"
   },
   {
     "word": "Bow Tie",
     "ipa": "baʊ taɪ",
+    "type": "",
+    "def": "A short necktie fashioned into a bowknot close to the throat.",
     "vi": "nơ cổ",
     "viDef": "cà vạt ngắn thắt thành hình nơ sát cổ"
   },
   {
     "word": "Cufflinks",
     "ipa": "ˈkʌflɪŋks",
+    "type": "",
+    "def": "A fastening for a shirt cuff, usually consisting of two buttons or buttonlike parts connected with a chain or shank that passes through two slits in the cuff.",
     "vi": "khuy măng sét",
     "viDef": "khuy cài tay áo, thường gồm hai phần nối bằng chốt hoặc dây, xuyên qua hai khuyết trên tay áo"
   },
   {
     "word": "Cumberbund",
     "ipa": "ˈkʌmɚbʌnd",
+    "type": "",
+    "def": "A broad waist sash, usually pleated, which is often worn with single-breasted dinner jackets",
     "vi": "dải thắt bụng",
     "viDef": "dải lụa rộng quấn ngang bụng, thường xếp nếp, mặc kèm áo vest ăn tối một hàng khuy"
   }

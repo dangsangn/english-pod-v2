@@ -2,108 +2,144 @@
   {
     "word": "what's up",
     "ipa": "wʌts ʌp",
+    "type": "phrase",
+    "def": "what is happening",
     "vi": "gì đó",
     "viDef": "chuyện gì đang xảy ra"
   },
   {
     "word": "killer",
     "ipa": "ˈkɪlɚ",
+    "type": "common noun, singular",
+    "def": "Something that is extremely difficult to deal with or withstand",
     "vi": "khó nhằn kinh khủng",
     "viDef": "thứ cực khó xử lý hoặc chịu đựng"
   },
   {
     "word": "theory",
     "ipa": "ˈθɪɹi",
+    "type": "common noun, singular",
+    "def": "a set of statements or principles devised to explain a group of facts or phenomena",
     "vi": "lý thuyết",
     "viDef": "hệ luận điểm hoặc nguyên lý dựng lên để giải thích một nhóm hiện tượng"
   },
   {
     "word": "Big Bang",
     "ipa": "bɪɡ bæŋ",
+    "type": "",
+    "def": "the theory that a cosmic explosion caused the origin of the universe",
     "vi": "thuyết Big Bang",
     "viDef": "giả thuyết vũ trụ sinh ra từ một vụ nổ lớn"
   },
   {
     "word": "matter",
     "ipa": "ˈmætɚ",
+    "type": "common noun, non-variable",
+    "def": "the substance of which something, is made; material",
     "vi": "vật chất",
     "viDef": "chất tạo nên mọi thứ"
   },
   {
     "word": "imbalance",
     "ipa": "ɪmˈbæləns",
+    "type": "common noun, singular",
+    "def": "the situation where there is an unequal amount of different things",
     "vi": "sự mất cân bằng",
     "viDef": "khi lượng các thứ không bằng nhau"
   },
   {
     "word": "particle",
     "ipa": "ˈpɑɹtəkəl",
+    "type": "common noun, plural",
+    "def": "any one tiny part of matter",
     "vi": "hạt",
     "viDef": "phần cực nhỏ của vật chất"
   },
   {
     "word": "anti-particle",
     "ipa": "ˈænti ˈpɑɹtəkəl",
+    "type": "common noun, plural",
+    "def": "a particle that has the same mass as another particle but has opposite values for its other properties",
     "vi": "phản hạt",
     "viDef": "hạt có khối lượng như hạt kia nhưng các tính chất khác thì trái dấu"
   },
   {
     "word": "notion",
     "ipa": "ˈnoʊʃən",
+    "type": "common noun, plural",
+    "def": "ideas or concepts",
     "vi": "ý niệm",
     "viDef": "ý tưởng, khái niệm"
   },
   {
     "word": "rigor",
     "ipa": "ˈɹɪɡɚ",
+    "type": "common noun, non-variable",
+    "def": "the state of something being very exact",
     "vi": "sự chặt chẽ",
     "viDef": "trạng thái rất chính xác"
   },
   {
     "word": "equivocate",
     "ipa": "ɪˈkwɪvəˌkeɪt",
+    "type": "verb",
+    "def": "use vague language so as to deceive someone",
     "vi": "nói mơ hồ lấp liếm",
     "viDef": "dùng lời lấp lửng để gạt người khác"
   },
   {
     "word": "withstand",
     "ipa": "wɪθˈstænd",
+    "type": "",
+    "def": "surviving a difficult experience or trouble",
     "vi": "chống chịu",
     "viDef": "trụ được qua khó khăn"
   },
   {
     "word": "astronomy",
     "ipa": "əˈstɹɑnəmi",
+    "type": "common noun, singular",
+    "def": "The scientific study of matter in outer space, especially the positions, dimensions, distribution, motion, composition, energy, and evolution of celestial bodies and phenomena",
     "vi": "thiên văn học",
     "viDef": "ngành nghiên cứu vật chất ngoài không gian: vị trí, kích thước, phân bố, chuyển động, thành phần và tiến hóa của thiên thể"
   },
   {
     "word": "black hole",
     "ipa": "blæk hoʊl",
+    "type": "common noun, singular",
+    "def": "a region of space resulting from the collapse of a star with extremely high gravitational field",
     "vi": "lỗ đen",
     "viDef": "vùng không gian hình thành khi một ngôi sao sụp đổ, có lực hấp dẫn cực mạnh"
   },
   {
     "word": "white dwarf",
     "ipa": "waɪt dwɔɹf",
+    "type": "common noun, singular",
+    "def": "a small, faint, very dense star",
     "vi": "sao lùn trắng",
     "viDef": "ngôi sao nhỏ, mờ, đặc cực cao"
   },
   {
     "word": "entropy",
     "ipa": "ˈɛntɹəpi",
+    "type": "common noun, singular",
+    "def": "The tendency for all matter and energy in the universe to evolve toward a state of inert uniformity",
     "vi": "entropy",
     "viDef": "xu thế mọi vật chất và năng lượng trong vũ trụ tiến dần về trạng thái đồng đều, trơ"
   },
   {
     "word": "singularity",
     "ipa": "ˈsɪŋɡjəˈlɛɹəti",
+    "type": "common noun, singular",
+    "def": "A point of infinite density and infinitesimal volume, at which space and time become infinitely distorted according to the theory of General Relativity",
     "vi": "điểm kỳ dị",
     "viDef": "điểm có mật độ vô hạn và thể tích vô cùng nhỏ, nơi không gian và thời gian bị bóp méo tận cùng theo thuyết tương đối rộng"
   },
   {
     "word": "paradox",
     "ipa": "ˈpɛɹəˌdɑks",
+    "type": "common noun, singular",
+    "def": "A seemingly contradictory statement that may nonetheless be true",
     "vi": "nghịch lý",
     "viDef": "điều nghe như tự mâu thuẫn nhưng vẫn có thể đúng"
   }

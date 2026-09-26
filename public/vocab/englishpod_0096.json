@@ -2,108 +2,144 @@
   {
     "word": "pad",
     "ipa": "pæd",
+    "type": "common noun, singular",
+    "def": "a place where a person lives",
     "vi": "chỗ ở",
     "viDef": "nơi một người sống"
   },
   {
     "word": "dig",
     "ipa": "dɪɡ",
+    "type": "principle verb, present simple",
+    "def": "appreciate, like",
     "vi": "thích",
     "viDef": "ưa, cảm được"
   },
   {
     "word": "far out",
     "ipa": "fɑɹ aʊt",
+    "type": "Adjective",
+    "def": "the latest, cool",
     "vi": "xịn hết cỡ",
     "viDef": "mới nhất, ngầu"
   },
   {
     "word": "crash",
     "ipa": "kɹæʃ",
+    "type": "verb",
+    "def": "sleep (informal)",
     "vi": "ngủ lăn ra",
     "viDef": "đi ngủ (thân mật)"
   },
   {
     "word": "brother",
     "ipa": "ˈbɹʌðɚ",
+    "type": "common noun, singular",
+    "def": "buddy, informal way to call a close friend",
     "vi": "anh em",
     "viDef": "cách gọi bạn thân thân mật"
   },
   {
     "word": "hang loose",
     "ipa": "hæŋ lus",
+    "type": "phrase",
+    "def": "relax",
     "vi": "cứ thả lỏng",
     "viDef": "thư giãn"
   },
   {
     "word": "bash",
     "ipa": "bæʃ",
+    "type": "common noun, singular",
+    "def": "a big party",
     "vi": "tiệc lớn",
     "viDef": "buổi tiệc to"
   },
   {
     "word": "happening scene",
     "ipa": "ˈhæpənɪŋ sin",
+    "type": "common noun, singular",
+    "def": "an extremely exciting moment",
     "vi": "chỗ đang xôm",
     "viDef": "khoảnh khắc cực náo nhiệt"
   },
   {
     "word": "groovy",
     "ipa": "ˈɡɹuvi",
+    "type": "Adjective",
+    "def": "really cool",
     "vi": "bắt tai, hết sảy",
     "viDef": "rất ngầu"
   },
   {
     "word": "split",
     "ipa": "splɪt",
+    "type": "principle verb, infinitive",
+    "def": "leave here",
     "vi": "dông",
     "viDef": "rời khỏi đây"
   },
   {
     "word": "peace out",
     "ipa": "pis aʊt",
+    "type": "phrase",
+    "def": "see you later",
     "vi": "thôi tôi đi nha",
     "viDef": "gặp sau"
   },
   {
     "word": "man",
     "ipa": "mæn",
+    "type": "common noun, singular",
+    "def": "an informal way to call a friend",
     "vi": "ông bạn",
     "viDef": "cách gọi bạn thân mật"
   },
   {
     "word": "throw",
     "ipa": "θɹoʊ",
+    "type": "",
+    "def": "hold (a party)",
     "vi": "tổ chức",
     "viDef": "mở một buổi tiệc"
   },
   {
     "word": "a gas",
     "ipa": "ə ɡæs",
+    "type": "phrase",
+    "def": "a really fun time",
     "vi": "vui phải biết",
     "viDef": "khoảng thời gian rất vui"
   },
   {
     "word": "hip",
     "ipa": "hɪp",
+    "type": "Adjective",
+    "def": "very cool",
     "vi": "thời thượng",
     "viDef": "rất ngầu"
   },
   {
     "word": "nifty",
     "ipa": "ˈnɪfti",
+    "type": "Adjective",
+    "def": "cool, neat",
     "vi": "gọn ghẽ, hay",
     "viDef": "ngầu, đẹp"
   },
   {
     "word": "blitzed",
     "ipa": "blɪtst",
+    "type": "Adjective",
+    "def": "very drunk",
     "vi": "say bét nhè",
     "viDef": "uống rất nhiều rượu"
   },
   {
     "word": "bitchen",
     "ipa": "ˈbɪtʃɪn",
+    "type": "Adjective",
+    "def": "awesome, really cool",
     "vi": "đỉnh thật",
     "viDef": "tuyệt, rất ngầu"
   }

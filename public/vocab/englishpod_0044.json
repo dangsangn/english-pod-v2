@@ -2,66 +2,88 @@
   {
     "word": "It sure is",
     "ipa": "ɪt ʃʊɹ ɪz",
+    "type": "phrase",
+    "def": "Affirmation or confirmation of something",
     "vi": "đúng thế thật",
     "viDef": "câu xác nhận, đồng tình"
   },
   {
     "word": "barely even",
     "ipa": "ˈbɛɹli ˈivɪn",
+    "type": "General Adverb",
+    "def": "hardly, could almost not",
     "vi": "gần như không",
     "viDef": "hầu như chẳng, suýt không"
   },
   {
     "word": "catch",
     "ipa": "kætʃ",
+    "type": "verb",
+    "def": "hear, listen to",
     "vi": "nghe kịp, nghe rõ",
     "viDef": "nghe được"
   },
   {
     "word": "Did you happen to",
     "ipa": "dɪd ju ˈhæpən tu",
+    "type": "phrase",
+    "def": "By chance or casualty someone did something",
     "vi": "anh/chị có tình cờ...",
     "viDef": "hỏi xem ai có vô tình làm gì không"
   },
   {
     "word": "By the way",
     "ipa": "baɪ ðə weɪ",
+    "type": "phrase",
+    "def": "phrased used to interject another topic in a conversation",
     "vi": "à mà này",
     "viDef": "câu chen sang chuyện khác khi đang nói"
   },
   {
     "word": "take the stairs",
     "ipa": "teɪk ðə stɛɹz",
+    "type": "phrase",
+    "def": "go up the stairs, use the stairs",
     "vi": "đi thang bộ",
     "viDef": "leo thang bộ, dùng thang bộ"
   },
   {
     "word": "small talk",
     "ipa": "smɔl tɔk",
+    "type": "",
+    "def": "short, firendly conversation about things that are not important",
     "vi": "chuyện xã giao",
     "viDef": "trò chuyện ngắn, thân thiện về những điều không quan trọng"
   },
   {
     "word": "chat",
     "ipa": "tʃæt",
+    "type": "verb",
+    "def": "talk (informal)",
     "vi": "tán gẫu",
     "viDef": "nói chuyện (thân mật)"
   },
   {
     "word": "network",
     "ipa": "ˈnɛtwɝk",
+    "type": "verb",
+    "def": "talk with people to form business connections",
     "vi": "kết nối quan hệ",
     "viDef": "trò chuyện để tạo quan hệ làm ăn"
   },
   {
     "word": "awkward",
     "ipa": "ˈɑkwɚd",
+    "type": "Adjective",
+    "def": "difficult to deal with",
     "vi": "khó xử",
     "viDef": "khó ứng phó"
   },
   {
     "word": "uncomfortable",
     "ipa": "ənˈkʌmfɚtəbəl",
+    "type": "Adjective",
+    "def": "a feeling of being embarrassed or uneasy",
     "vi": "không thoải mái",
     "viDef": "cảm giác ngượng hoặc bồn chồn"
   }

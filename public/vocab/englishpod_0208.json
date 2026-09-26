@@ -2,60 +2,80 @@
   {
     "word": "plunge",
     "ipa": "plʌndʒ",
+    "type": "",
+    "def": "a steep and rapid fall",
     "vi": "cú lao dốc",
     "viDef": "sự sụt xuống dốc và nhanh"
   },
   {
     "word": "weigh in",
     "ipa": "weɪ ɪn",
+    "type": "",
+    "def": "to contribute, especially in a discussion",
     "vi": "góp lời",
     "viDef": "đóng góp, nhất là trong một cuộc bàn luận"
   },
   {
     "word": "profitable",
     "ipa": "ˈpɹɑfətəbəl",
+    "type": "",
+    "def": "affording gain, benefit, or profit",
     "vi": "có lời",
     "viDef": "mang lại lợi, ích hoặc lợi nhuận"
   },
   {
     "word": "yield",
     "ipa": "jild",
+    "type": "",
+    "def": "the amount of something that is produced",
     "vi": "sản lượng, mức sinh lời",
     "viDef": "lượng thứ gì thu được"
   },
   {
     "word": "think outside the box",
     "ipa": "θɪŋk ˈaʊtˈsaɪd ðə bɑks",
+    "type": "",
+    "def": "take another look at something",
     "vi": "nghĩ khác lối thường",
     "viDef": "nhìn lại vấn đề theo cách khác"
   },
   {
     "word": "Dow Jones Average",
     "ipa": "daʊ dʒoʊnz ˈævɚɪdʒ",
+    "type": "",
+    "def": "an index that shows how 30 large, publicly-owned companies based in the United States have traded during a standard trading session in the stock market.",
     "vi": "chỉ số Dow Jones",
     "viDef": "chỉ số cho biết 30 công ty đại chúng lớn của Mỹ giao dịch thế nào trong một phiên chứng khoán tiêu chuẩn"
   },
   {
     "word": "Fortune 500",
     "ipa": "ˈfɔɹtʃən faɪv ˈhʌndɹəd",
+    "type": "",
+    "def": "an annual list compiled and published by Fortune magazine that ranks the top 500 U.S. closely held and public corporations as ranked by their gross revenue",
     "vi": "danh sách Fortune 500",
     "viDef": "bảng do tạp chí Fortune lập hằng năm, xếp 500 tập đoàn Mỹ hàng đầu, cả công và tư, theo tổng doanh thu"
   },
   {
     "word": "Equities",
     "ipa": "ˈɛkwətiz",
+    "type": "",
+    "def": "Common and preferred stocks, which represent a share in the ownership of a company.",
     "vi": "chứng khoán vốn",
     "viDef": "cổ phiếu phổ thông và ưu đãi, đại diện cho phần sở hữu trong công ty"
   },
   {
     "word": "face value",
     "ipa": "feɪs ˈvælju",
+    "type": "",
+    "def": "The cash denomination of the individual debt instrument.",
     "vi": "giá trị danh nghĩa",
     "viDef": "mức tiền ghi trên chính công cụ nợ đó"
   },
   {
     "word": "Initial Public Offering",
     "ipa": "ˌɪˈnɪʃəl ˈpʌblɪk ˈɔfɚɪŋ",
+    "type": "",
+    "def": "A company's first issue of shares to the general public.",
     "vi": "đợt chào bán lần đầu",
     "viDef": "lần đầu công ty phát hành cổ phiếu ra công chúng"
   }

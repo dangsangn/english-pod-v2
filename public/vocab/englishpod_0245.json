@@ -2,60 +2,80 @@
   {
     "word": "subscription",
     "ipa": "səbˈskɹɪpʃən",
+    "type": "",
+    "def": "a purchase by prepayment for goods or services",
     "vi": "gói đăng ký dài hạn",
     "viDef": "việc trả tiền trước để nhận hàng hoặc dịch vụ"
   },
   {
     "word": "if you could spare",
     "ipa": "ɪf ju kʊd spɛɹ",
+    "type": "",
+    "def": "do you have, can you offer",
     "vi": "nếu anh/chị dành cho",
     "viDef": "anh/chị có hoặc có thể cho được không"
   },
   {
     "word": "quarterly",
     "ipa": "ˈkwɔɹtɚli",
+    "type": "",
+    "def": "at three month intervals",
     "vi": "theo quý",
     "viDef": "cách ba tháng một lần"
   },
   {
     "word": "issue",
     "ipa": "ˈɪʃu",
+    "type": "",
+    "def": "a final publication such as a magazine",
     "vi": "số báo",
     "viDef": "một ấn bản đã in, chẳng hạn tạp chí"
   },
   {
     "word": "pet sitter",
     "ipa": "pɛt ˈsɪtɚ",
+    "type": "",
+    "def": "person who takes care of pets in owner's absence",
     "vi": "người trông vật nuôi",
     "viDef": "người chăm thú nuôi khi chủ đi vắng"
   },
   {
     "word": "cable tv",
     "ipa": "ˈkeɪbəl ˈtiˈvi",
+    "type": "",
+    "def": "tv channels which are purchased for a monthly fee",
     "vi": "truyền hình cáp",
     "viDef": "các kênh tivi mua theo tháng"
   },
   {
     "word": "internet service",
     "ipa": "ˈɪntɚˌnɛt ˈsɝvəs",
+    "type": "",
+    "def": "service that provides internet access for a fee",
     "vi": "dịch vụ internet",
     "viDef": "dịch vụ cung cấp mạng có thu phí"
   },
   {
     "word": "gym membership",
     "ipa": "dʒɪm ˈmɛmbɚˌʃɪp",
+    "type": "",
+    "def": "paid membership that provides access to the gym",
     "vi": "thẻ tập gym",
     "viDef": "gói trả tiền để được vào phòng tập"
   },
   {
     "word": "Vogue",
     "ipa": "voʊɡ",
+    "type": "",
+    "def": "a magazine that is delivered monthly",
     "vi": "tạp chí Vogue",
     "viDef": "tờ tạp chí giao hằng tháng"
   },
   {
     "word": "NY Times",
     "ipa": "ˌɛn ˈwaɪ taɪmz",
+    "type": "",
+    "def": "a newspaper printed daily",
     "vi": "báo NY Times",
     "viDef": "tờ báo in mỗi ngày"
   }

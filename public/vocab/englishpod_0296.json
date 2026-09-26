@@ -2,66 +2,88 @@
   {
     "word": "feel like",
     "ipa": "fil laɪk",
+    "type": "",
+    "def": "have an inclination or desire for",
     "vi": "thấy thèm",
     "viDef": "có ý muốn hoặc thích thứ gì"
   },
   {
     "word": "steak",
     "ipa": "steɪk",
+    "type": "",
+    "def": "piece of cow meat",
     "vi": "bít tết",
     "viDef": "miếng thịt bò"
   },
   {
     "word": "vegetarian",
     "ipa": "ˌvɛdʒəˈtɛˌɹiən",
+    "type": "",
+    "def": "a person who does not eat meat or fish",
     "vi": "người ăn chay",
     "viDef": "người không ăn thịt hay cá"
   },
   {
     "word": "vegan",
     "ipa": "ˈvɛɡən",
+    "type": "",
+    "def": "a person who does not eat or use animal products",
     "vi": "người ăn thuần chay",
     "viDef": "người không ăn cũng không dùng sản phẩm từ động vật"
   },
   {
     "word": "leather",
     "ipa": "ˈlɛðɚ",
+    "type": "",
+    "def": "made with animal skin that is chemically treated",
     "vi": "da thuộc",
     "viDef": "làm từ da động vật đã xử lý hóa chất"
   },
   {
     "word": "come from",
     "ipa": "kʌm fɹʌm",
+    "type": "",
+    "def": "originates from",
     "vi": "đến từ",
     "viDef": "có nguồn gốc từ"
   },
   {
     "word": "more and more",
     "ipa": "mɔɹ ənd mɔɹ",
+    "type": "",
+    "def": "continuing to become larger in number",
     "vi": "càng lúc càng nhiều",
     "viDef": "số lượng cứ tăng dần"
   },
   {
     "word": "vegetable",
     "ipa": "ˈvɛdʒtəbəl",
+    "type": "",
+    "def": "kind of food that is not meat",
     "vi": "rau củ",
     "viDef": "loại thức ăn không phải thịt"
   },
   {
     "word": "meat",
     "ipa": "mit",
+    "type": "",
+    "def": "kind of food that is not a vegetable",
     "vi": "thịt",
     "viDef": "loại thức ăn không phải rau"
   },
   {
     "word": "milk",
     "ipa": "mɪlk",
+    "type": "",
+    "def": "substance coming from a cow",
     "vi": "sữa",
     "viDef": "chất lấy từ con bò"
   },
   {
     "word": "hippie",
     "ipa": "ˈhɪpi",
+    "type": "",
+    "def": "a person whose behavior, dress, etc, implied a rejection of conventional values",
     "vi": "dân hippie",
     "viDef": "người mà cách sống, cách ăn mặc... hàm ý phủ nhận các giá trị quy ước"
   }

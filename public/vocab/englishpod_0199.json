@@ -2,60 +2,80 @@
   {
     "word": "treat",
     "ipa": "tɹit",
+    "type": "",
+    "def": "to cure an illness by medical means",
     "vi": "điều trị",
     "viDef": "chữa bệnh bằng biện pháp y tế"
   },
   {
     "word": "concussion",
     "ipa": "kənˈkʌʃən",
+    "type": "",
+    "def": "a jarring of the brain",
     "vi": "chấn thương sọ não",
     "viDef": "cú xóc mạnh làm tổn thương não"
   },
   {
     "word": "tend to",
     "ipa": "tɛnd tu",
+    "type": "",
+    "def": "To be disposed or inclined towards something",
     "vi": "hay có khuynh hướng",
     "viDef": "nghiêng về hoặc thiên về điều gì"
   },
   {
     "word": "rush",
     "ipa": "ɹʌʃ",
+    "type": "",
+    "def": "move or act swiftly",
     "vi": "lao đi gấp",
     "viDef": "di chuyển hoặc hành động rất nhanh"
   },
   {
     "word": "take up",
     "ipa": "teɪk ʌp",
+    "type": "",
+    "def": "begin with",
     "vi": "bắt đầu học",
     "viDef": "khởi sự với việc gì"
   },
   {
     "word": "bandage",
     "ipa": "ˈbændɪdʒ",
+    "type": "",
+    "def": "A strip of material such as gauze used to protect, immobilize, compress, or support a wound or injured body part.",
     "vi": "băng gạc",
     "viDef": "dải vật liệu như gạc dùng che chở, cố định, ép hoặc đỡ vết thương"
   },
   {
     "word": "cast",
     "ipa": "kæst",
+    "type": "",
+    "def": "a hard shell usually made of gauze and plaster, used to immobilize an injured body part",
     "vi": "bột bó",
     "viDef": "lớp vỏ cứng bằng gạc và thạch cao, dùng cố định phần cơ thể bị thương"
   },
   {
     "word": "splint",
     "ipa": "splɪnt",
+    "type": "",
+    "def": "A rigid device used to prevent motion of a joint or of the ends of a fractured bone.",
     "vi": "nẹp",
     "viDef": "dụng cụ cứng giữ cho khớp hoặc hai đầu xương gãy không cử động"
   },
   {
     "word": "anaesthetic",
     "ipa": "ˌænəsˈθɛtɪk",
+    "type": "",
+    "def": "a medication that causes loss of sensation",
     "vi": "thuốc gây mê",
     "viDef": "thuốc làm mất cảm giác"
   },
   {
     "word": "ambulance",
     "ipa": "ˈæmbjələns",
+    "type": "",
+    "def": "a vehicle for pre-hospital treatment and transportation of sick or injured people",
     "vi": "xe cấp cứu",
     "viDef": "xe để sơ cứu và chở người bệnh hoặc bị thương"
   }

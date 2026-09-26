@@ -2,78 +2,104 @@
   {
     "word": "medium",
     "ipa": "ˈmidiəm",
+    "type": "Adjective",
+    "def": "an average size, not too big or small",
     "vi": "cỡ vừa",
     "viDef": "kích thước trung bình, không to không nhỏ"
   },
   {
     "word": "total",
     "ipa": "ˈtoʊtəl",
+    "type": "Adjective",
+    "def": "complete amount you must pay",
     "vi": "tổng tiền",
     "viDef": "toàn bộ số phải trả"
   },
   {
     "word": "instead",
     "ipa": "ɪnˈstɛd",
+    "type": "General Adverb",
+    "def": "in replacement of",
     "vi": "thay vào đó",
     "viDef": "dùng thay cho cái kia"
   },
   {
     "word": "sounds good",
     "ipa": "saʊndz ɡʊd",
+    "type": "verb",
+    "def": "seems or appears to be okay, I agree",
     "vi": "nghe được đấy",
     "viDef": "thấy ổn, tôi đồng ý"
   },
   {
     "word": "pepperoni",
     "ipa": "ˌpɛpɚˈoʊni",
+    "type": "common noun, singular",
+    "def": "a spicy sausage usually on pizza",
     "vi": "xúc xích pepperoni",
     "viDef": "loại xúc xích cay thường rắc trên pizza"
   },
   {
     "word": "olive",
     "ipa": "ˈɑləv",
+    "type": "common noun, plural",
+    "def": "a small, egg-shaped black or green fruit that is used as food or for making oil",
     "vi": "quả ô-liu",
     "viDef": "quả nhỏ hình trứng, màu đen hoặc xanh, dùng làm thức ăn hoặc ép dầu"
   },
   {
     "word": "crust",
     "ipa": "kɹʌst",
+    "type": "common noun, singular",
+    "def": "the border of a pizza, or bread",
     "vi": "viền bánh, vỏ bánh",
     "viDef": "phần rìa của pizza hoặc bánh mì"
   },
   {
     "word": "two-for-one",
     "ipa": "tu fɔɹ wʌn",
+    "type": "phrase",
+    "def": "pay for one and get another one free",
     "vi": "mua một tặng một",
     "viDef": "trả tiền một cái được thêm một cái"
   },
   {
     "word": "total",
     "ipa": "ˈtoʊtəl",
+    "type": "common noun, singular",
+    "def": "sum of everything",
     "vi": "tổng cộng",
     "viDef": "cộng hết lại"
   },
   {
     "word": "fast food",
     "ipa": "fæst fud",
+    "type": "common noun, singular",
+    "def": "food that is quickly made and convenient if you are in a hurry",
     "vi": "đồ ăn nhanh",
     "viDef": "món làm nhanh, tiện khi đang gấp"
   },
   {
     "word": "delivery",
     "ipa": "dɪˈlɪvɚi",
+    "type": "common noun, singular",
+    "def": "transported or taken to your house",
     "vi": "giao hàng",
     "viDef": "chở hoặc đem tới nhà"
   },
   {
     "word": "dough",
     "ipa": "doʊ",
+    "type": "common noun, singular",
+    "def": "a mix of flour and water that is used to make the base of a pizza",
     "vi": "bột nhào",
     "viDef": "hỗn hợp bột và nước để làm đế pizza"
   },
   {
     "word": "take-out",
     "ipa": "teɪk aʊt",
+    "type": "Adjective",
+    "def": "food you take away from the restaurant to eat (AmE)",
     "vi": "đồ mang về",
     "viDef": "món mua ở nhà hàng rồi đem đi (Anh-Mỹ)"
   }

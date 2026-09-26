@@ -2,66 +2,88 @@
   {
     "word": "a cut above",
     "ipa": "ə kʌt əˈbʌv",
+    "type": "",
+    "def": "better than",
     "vi": "nhất bậc, trên một tầm",
     "viDef": "hơn hẳn"
   },
   {
     "word": "crystal-clear",
     "ipa": "ˈkɹɪstəl klɪɹ",
+    "type": "",
+    "def": "perfectly clear",
     "vi": "rõ như ban ngày",
     "viDef": "hoàn toàn rõ ràng"
   },
   {
     "word": "bear in mind",
     "ipa": "bɛɹ ɪn maɪnd",
+    "type": "",
+    "def": "remember",
     "vi": "xin nhớ cho",
     "viDef": "ghi nhớ"
   },
   {
     "word": "differentiate",
     "ipa": "ˌdɪfɚˈɛnʃiˌeɪt",
+    "type": "",
+    "def": "recognize or show the difference",
     "vi": "tạo khác biệt",
     "viDef": "nhận ra hoặc chỉ ra chỗ khác nhau"
   },
   {
     "word": "in other words",
     "ipa": "ɪn ˈʌðɚ wɝdz",
+    "type": "",
+    "def": "take another way to say",
     "vi": "nói cách khác",
     "viDef": "diễn đạt lại theo lối khác"
   },
   {
     "word": "stand out",
     "ipa": "stænd aʊt",
+    "type": "",
+    "def": "very noticeable",
     "vi": "nổi bật",
     "viDef": "rất dễ nhận thấy"
   },
   {
     "word": "in a league of its own",
     "ipa": "ɪn ə liɡ ʌv ɪts oʊn",
+    "type": "",
+    "def": "the best;have no competitor",
     "vi": "một mình một cõi",
     "viDef": "hay nhất, không có đối thủ nào sánh"
   },
   {
     "word": "revenue",
     "ipa": "ˈɹɛvəˌnu",
+    "type": "",
+    "def": "the amount of sales, in dollars (or other currency)",
     "vi": "doanh thu",
     "viDef": "tổng số bán được, tính bằng đô-la hoặc tiền khác"
   },
   {
     "word": "market share",
     "ipa": "ˈmɑɹkət ʃɛɹ",
+    "type": "",
+    "def": "how much of the market is occupied by sales of a certain product",
     "vi": "thị phần",
     "viDef": "phần thị trường mà một sản phẩm chiếm được qua doanh số"
   },
   {
     "word": "breakthrough",
     "ipa": "ˈbɹeɪkθɹu",
+    "type": "",
+    "def": "creative, innovative technology",
     "vi": "bước đột phá",
     "viDef": "công nghệ sáng tạo, mới mẻ"
   },
   {
     "word": "generate",
     "ipa": "ˈdʒɛnɚˌeɪt",
+    "type": "",
+    "def": "to come up with",
     "vi": "tạo ra",
     "viDef": "nghĩ ra được"
   }

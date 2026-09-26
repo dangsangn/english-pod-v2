@@ -2,60 +2,80 @@
   {
     "word": "to dash",
     "ipa": "tu dæʃ",
+    "type": "",
+    "def": "go or run somewhere very quickly",
     "vi": "băng đi",
     "viDef": "đi hoặc chạy đến đâu thật nhanh"
   },
   {
     "word": "o'er",
     "ipa": "ɔɹ",
+    "type": "",
+    "def": "over",
     "vi": "qua, trên",
     "viDef": "dạng thơ của \"over\""
   },
   {
     "word": "bell",
     "ipa": "bɛl",
+    "type": "",
+    "def": "a hollow device that can ring when struck",
     "vi": "cái chuông",
     "viDef": "vật rỗng phát tiếng khi bị gõ"
   },
   {
     "word": "make one's spirit bright",
     "ipa": "meɪk wʌnz ˈspɪɹət bɹaɪt",
+    "type": "",
+    "def": "cheer someone up",
     "vi": "làm lòng phơi phới",
     "viDef": "khiến ai vui lên"
   },
   {
     "word": "jingle",
     "ipa": "ˈdʒɪŋɡəl",
+    "type": "",
+    "def": "make a gentle ringing noise",
     "vi": "leng keng",
     "viDef": "phát ra tiếng ngân nhẹ"
   },
   {
     "word": "Christmas carol",
     "ipa": "ˈkɹɪsməs ˈkæɹəl",
+    "type": "",
+    "def": "Christmas song or hymn",
     "vi": "thánh ca Giáng sinh",
     "viDef": "bài hát hoặc thánh thi mùa Noel"
   },
   {
     "word": "catchy",
     "ipa": "ˈkætʃi",
+    "type": "",
+    "def": "pleasing and easily remembered",
     "vi": "dễ vào tai",
     "viDef": "nghe thích và dễ nhớ"
   },
   {
     "word": "all-time favorite",
     "ipa": "ɔl taɪm ˈfeɪvɚɪt",
+    "type": "",
+    "def": "thought of as a favorite in its entire history",
     "vi": "bài được yêu nhất từ trước tới nay",
     "viDef": "được xem là ưa thích nhất trong suốt cả lịch sử của nó"
   },
   {
     "word": "sleigh ride",
     "ipa": "sleɪ ɹaɪd",
+    "type": "",
+    "def": "a journey in a sleigh pulled by one or more horses",
     "vi": "chuyến xe trượt tuyết",
     "viDef": "chuyến đi trên xe trượt do một hoặc nhiều con ngựa kéo"
   },
   {
     "word": "merry",
     "ipa": "ˈmɛɹi",
+    "type": "",
+    "def": "full of cheerfulness, festive",
     "vi": "rộn rã",
     "viDef": "đầy vui tươi, có không khí lễ"
   }

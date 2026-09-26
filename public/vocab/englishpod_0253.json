@@ -2,72 +2,96 @@
   {
     "word": "weakness",
     "ipa": "ˈwiknəs",
+    "type": "",
+    "def": "a personal defect or failing",
     "vi": "điểm yếu",
     "viDef": "một khuyết điểm hoặc thiếu sót của bản thân"
   },
   {
     "word": "to pinpoint",
     "ipa": "tu ˈpɪnpɔɪnt",
+    "type": "",
+    "def": "to locate or describe exactly or precisely",
     "vi": "chỉ đúng ra",
     "viDef": "xác định hoặc mô tả thật chính xác"
   },
   {
     "word": "go someone's way",
     "ipa": "ɡoʊ ˈsʌmwʌnz weɪ",
+    "type": "",
+    "def": "proceed according to one's plans or wishes",
     "vi": "diễn ra như mình muốn",
     "viDef": "tiến theo đúng dự tính hoặc mong muốn của ai"
   },
   {
     "word": "get someone down",
     "ipa": "ɡɛt ˈsʌmwʌn daʊn",
+    "type": "",
+    "def": "to exhaust, discourage, or depress someone",
     "vi": "làm ai chùng xuống",
     "viDef": "khiến ai mệt mỏi, chán nản hoặc buồn"
   },
   {
     "word": "to shirk",
     "ipa": "tu ʃɝk",
+    "type": "",
+    "def": "to avoid or neglect",
     "vi": "né việc",
     "viDef": "tránh hoặc bỏ mặc trách nhiệm"
   },
   {
     "word": "impression",
     "ipa": "ˌɪmˈpɹɛʃən",
+    "type": "",
+    "def": "the feelings one has after a specific event",
     "vi": "cảm nhận",
     "viDef": "điều mình cảm thấy sau một việc cụ thể"
   },
   {
     "word": "frustrated",
     "ipa": "ˈfɹʌˌstɹeɪtəd",
+    "type": "",
+    "def": "upset",
     "vi": "bực bối",
     "viDef": "thấy khó chịu, bất lực"
   },
   {
     "word": "honest",
     "ipa": "ˈɑnəst",
+    "type": "",
+    "def": "to tell the truth",
     "vi": "thật thà",
     "viDef": "nói ra sự thật"
   },
   {
     "word": "workaholic",
     "ipa": "ˌwɝkəˈhɑlɪk",
+    "type": "",
+    "def": "a person who is obsessed with their work",
     "vi": "người nghiện việc",
     "viDef": "người bị công việc chi phối hết"
   },
   {
     "word": "professional",
     "ipa": "pɹəˈfɛʃənəl",
+    "type": "",
+    "def": "to still behave accordingly even if unhappy",
     "vi": "chuyên nghiệp",
     "viDef": "vẫn xử sự đúng mực dù trong lòng không vui"
   },
   {
     "word": "over-achiever",
     "ipa": "ˈoʊvɚ əˈtʃivɚ",
+    "type": "",
+    "def": "to strive to be the best",
     "vi": "người luôn vươn quá mức",
     "viDef": "nỗ lực để trở thành người giỏi nhất"
   },
   {
     "word": "temper tantrum",
     "ipa": "ˈtɛmpɚ ˈtæntɹəm",
+    "type": "",
+    "def": "to throw a fit if things do no go your way",
     "vi": "cơn nổi tam bành",
     "viDef": "nổi cơn khi mọi việc không theo ý mình"
   }

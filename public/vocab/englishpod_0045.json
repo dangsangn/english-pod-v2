@@ -2,78 +2,104 @@
   {
     "word": "seeing someone",
     "ipa": "ˈsiɪŋ ˈsʌmwʌn",
+    "type": "phrase",
+    "def": "dating or going out with someone",
     "vi": "đang hẹn hò",
     "viDef": "đang qua lại với ai"
   },
   {
     "word": "cheat on (someone)",
     "ipa": "tʃit ɑn ˈsʌmwʌn",
+    "type": "verb",
+    "def": "having a romantic relationship with someone else",
     "vi": "cắm sừng, ngoại tình",
     "viDef": "có quan hệ tình cảm với người khác"
   },
   {
     "word": "on a break",
     "ipa": "ɑn ə bɹeɪk",
+    "type": "phrase",
+    "def": "a relationship that is temporarily on hold",
     "vi": "đang tạm xa nhau",
     "viDef": "quan hệ tạm gác lại một thời gian"
   },
   {
     "word": "pull yourself together",
     "ipa": "pʊl jɚˈsɛlf təˈɡɛðɚ",
+    "type": "phrase",
+    "def": "calm down, relax, organize your thoughts",
     "vi": "bình tĩnh lại",
     "viDef": "hãy dịu xuống, sắp xếp lại suy nghĩ"
   },
   {
     "word": "immature",
     "ipa": "ˌɪməˈtjʊɹ",
+    "type": "Adjective",
+    "def": "acting in a childish way",
     "vi": "trẻ con, non nớt",
     "viDef": "cư xử như đứa trẻ"
   },
   {
     "word": "selfish",
     "ipa": "ˈsɛlfɪʃ",
+    "type": "Adjective",
+    "def": "having or showing concern only for yourself and not for the needs or feelings of other people",
     "vi": "ích kỷ",
     "viDef": "chỉ nghĩ cho mình, không đếm xỉa nhu cầu hay cảm xúc người khác"
   },
   {
     "word": "ruin",
     "ipa": "ˈɹuən",
+    "type": "verb",
+    "def": "damage, destroy something",
     "vi": "phá hỏng",
     "viDef": "làm hư, làm tan nát"
   },
   {
     "word": "break up",
     "ipa": "bɹeɪk ʌp",
+    "type": "verb",
+    "def": "end a relationship",
     "vi": "chia tay",
     "viDef": "kết thúc một mối quan hệ"
   },
   {
     "word": "dump (someone)",
     "ipa": "dʌmp ˈsʌmwʌn",
+    "type": "verb",
+    "def": "end a relationship when the other person does not want to (informal)",
     "vi": "bỏ rơi, đá",
     "viDef": "chấm dứt quan hệ dù bên kia không muốn (thân mật)"
   },
   {
     "word": "partner",
     "ipa": "ˈpɑɹtnɚ",
+    "type": "common noun, singular",
+    "def": "serious, long-term boyfriend of girlfriend",
     "vi": "người bạn đời",
     "viDef": "người yêu lâu dài, nghiêm túc"
   },
   {
     "word": "ex",
     "ipa": "ɛks",
+    "type": "common noun, singular",
+    "def": "former boyfriend, girlfriend, husband, or wife (informal)",
     "vi": "người cũ",
     "viDef": "bạn trai, bạn gái, vợ hoặc chồng trước đây (thân mật)"
   },
   {
     "word": "love life",
     "ipa": "lʌv laɪf",
+    "type": "phrase",
+    "def": "romantic social life",
     "vi": "chuyện tình cảm",
     "viDef": "đời sống yêu đương"
   },
   {
     "word": "it's not the end of the world",
     "ipa": "ɪts nɑt ðə ɛnd ʌv ðə wɝld",
+    "type": "phrase",
+    "def": "don't worry, it is not so serious",
     "vi": "chưa đến mức tận thế",
     "viDef": "đừng lo, chuyện không nghiêm trọng vậy"
   }

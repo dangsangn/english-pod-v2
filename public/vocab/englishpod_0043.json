@@ -2,84 +2,112 @@
   {
     "word": "remain",
     "ipa": "ɹɪˈmeɪn",
+    "type": "principle verb, infinitive",
+    "def": "stay",
     "vi": "ở lại",
     "viDef": "lưu lại"
   },
   {
     "word": "approximately",
     "ipa": "əˈpɹɑksəmətli",
+    "type": "Adjective",
+    "def": "an amount that is almost, but not exact",
     "vi": "khoảng chừng",
     "viDef": "gần đúng nhưng không chính xác"
   },
   {
     "word": "sponsor",
     "ipa": "ˈspɑnsɚ",
+    "type": "principle verb, present progressive",
+    "def": "someone who takes the responsibility for a person applying for a visa",
     "vi": "người bảo lãnh",
     "viDef": "người nhận trách nhiệm cho người xin visa"
   },
   {
     "word": "invitation letter",
     "ipa": "ˌɪnvɪˈteɪʃən ˈlɛtɚ",
+    "type": "common noun, singular",
+    "def": "a formal letter asking a person to come to a place",
     "vi": "thư mời",
     "viDef": "thư chính thức mời ai đến một nơi"
   },
   {
     "word": "tie",
     "ipa": "taɪ",
+    "type": "common noun, plural",
+    "def": "responsibility that links a person to a place or a thing",
     "vi": "ràng buộc",
     "viDef": "trách nhiệm gắn một người với nơi nào hoặc việc gì"
   },
   {
     "word": "evidence",
     "ipa": "ˈɛvədəns",
+    "type": "common noun, non-variable",
+    "def": "something that shows the thing is true",
     "vi": "bằng chứng",
     "viDef": "thứ chứng minh điều đó là thật"
   },
   {
     "word": "financially independent",
     "ipa": "fəˈnænʃəli ˌɪndɪˈpɛndənt",
+    "type": "phrase",
+    "def": "have enough money to live alone; do not need help with money",
     "vi": "tự lo được tài chính",
     "viDef": "đủ tiền sống một mình, không cần ai giúp"
   },
   {
     "word": "assets",
     "ipa": "ˈæsɛts",
+    "type": "common noun, plural",
+    "def": "things that are worth money that you own",
     "vi": "tài sản",
     "viDef": "những thứ có giá trị mình đang sở hữu"
   },
   {
     "word": "grant",
     "ipa": "ɡɹænt",
+    "type": "principle verb, present simple",
+    "def": "let you have something",
     "vi": "cấp cho",
     "viDef": "cho phép ai có được thứ gì"
   },
   {
     "word": "visa officer",
     "ipa": "ˈvizə ˈɔfəsɚ",
+    "type": "common noun, singular",
+    "def": "a person who's job is to interview people for visas",
     "vi": "viên chức xét visa",
     "viDef": "người có việc phỏng vấn người xin visa"
   },
   {
     "word": "resident permit",
     "ipa": "ˈɹɛzɪdənt pɚˈmɪt",
+    "type": "common noun, singular",
+    "def": "an official document that allows you to live in a country",
     "vi": "giấy phép cư trú",
     "viDef": "giấy tờ chính thức cho phép sống ở một nước"
   },
   {
     "word": "embassy",
     "ipa": "ˈɛmbəsi",
+    "type": "common noun, singular",
+    "def": "the group of people who represent your country in another country, located in the capital city",
     "vi": "đại sứ quán",
     "viDef": "cơ quan đại diện nước mình ở nước khác, đặt tại thủ đô"
   },
   {
     "word": "application form",
     "ipa": "ˌæpləˈkeɪʃən fɔɹm",
+    "type": "common noun, singular",
+    "def": "a piece of paper you have to put information on to make a formal request",
     "vi": "đơn xin, mẫu khai",
     "viDef": "tờ giấy phải điền thông tin để làm thủ tục"
   },
   {
     "word": "consulate",
     "ipa": "ˈkɑnsələt",
+    "type": "common noun, singular",
+    "def": "government building representing your country in another country; not located in a capital city",
     "vi": "lãnh sự quán",
     "viDef": "cơ quan đại diện nước mình ở nước khác, không nằm ở thủ đô"
   }

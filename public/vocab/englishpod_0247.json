@@ -2,60 +2,80 @@
   {
     "word": "frustrating",
     "ipa": "ˈfɹʌˌstɹeɪtɪŋ",
+    "type": "",
+    "def": "to cause feelings of discouragement or bafflement",
     "vi": "gây bực",
     "viDef": "khiến người ta thấy chán chường hoặc rối trí"
   },
   {
     "word": "slowly but surely",
     "ipa": "ˈsloʊli bʌt ˈʃʊɹli",
+    "type": "",
+    "def": "happening gradually but inevitably or without fail",
     "vi": "chậm mà chắc",
     "viDef": "diễn ra từ từ nhưng không thể không tới"
   },
   {
     "word": "to prove oneself",
     "ipa": "tu pɹuv wʌnˈsɛlf",
+    "type": "",
+    "def": "to show to have the character or ability expected",
     "vi": "tự chứng tỏ mình",
     "viDef": "cho thấy mình có tính cách hoặc khả năng như mong đợi"
   },
   {
     "word": "long-term",
     "ipa": "lɔŋ tɝm",
+    "type": "",
+    "def": "covering a relatively long period of time",
     "vi": "dài hạn",
     "viDef": "trải qua một khoảng thời gian tương đối dài"
   },
   {
     "word": "challenging",
     "ipa": "ˈtʃæləndʒɪŋ",
+    "type": "",
+    "def": "a test of one's abilities or resources in a demanding but stimulating undertaking",
     "vi": "nhiều thử thách",
     "viDef": "một phép thử năng lực hoặc nguồn lực, đòi hỏi nhiều nhưng kích thích"
   },
   {
     "word": "unsatisfied",
     "ipa": "ənˈsætɪˌsfaɪd",
+    "type": "",
+    "def": "a feeling of unfulfillment",
     "vi": "chưa thấy thỏa",
     "viDef": "cảm giác chưa toại nguyện"
   },
   {
     "word": "promote",
     "ipa": "pɹəˈmoʊt",
+    "type": "",
+    "def": "to go up in rank or status(at your job)",
     "vi": "thăng tiến",
     "viDef": "lên bậc hoặc lên chức ở nơi làm"
   },
   {
     "word": "trial period",
     "ipa": "ˈtɹaɪəl ˈpɪɹiəd",
+    "type": "",
+    "def": "to prove your worth(at your job)",
     "vi": "thời gian thử việc",
     "viDef": "giai đoạn phải chứng tỏ giá trị của mình khi mới vào làm"
   },
   {
     "word": "food critic",
     "ipa": "fud ˈkɹɪtɪk",
+    "type": "",
+    "def": "a person who critiques food at restaurants",
     "vi": "nhà bình phẩm món ăn",
     "viDef": "người nhận xét đồ ăn ở các nhà hàng"
   },
   {
     "word": "disinterested",
     "ipa": "dɪˈsɪntɹɪstɪd",
+    "type": "",
+    "def": "to not have an interest in something",
     "vi": "không hứng thú",
     "viDef": "chẳng còn quan tâm tới điều gì"
   }

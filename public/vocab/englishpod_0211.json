@@ -2,66 +2,88 @@
   {
     "word": "such a",
     "ipa": "sʌtʃ ə",
+    "type": "",
+    "def": "so extreme a degree",
     "vi": "đến mức là",
     "viDef": "ở mức độ quá đỗi"
   },
   {
     "word": "cheat",
     "ipa": "tʃit",
+    "type": "",
+    "def": "to deceive by trickery",
     "vi": "gian, chơi gian",
     "viDef": "lừa bằng mánh"
   },
   {
     "word": "my turn",
     "ipa": "maɪ tɝn",
+    "type": "",
+    "def": "my opportunity to do something",
     "vi": "tới lượt tôi",
     "viDef": "dịp để tôi làm"
   },
   {
     "word": "jail",
     "ipa": "dʒeɪl",
+    "type": "",
+    "def": "place where prisoners are kept",
     "vi": "nhà tù",
     "viDef": "nơi giam giữ tù nhân"
   },
   {
     "word": "can I",
     "ipa": "kæn aɪ",
+    "type": "",
+    "def": "used to ask for permissions",
     "vi": "tôi có thể... không",
     "viDef": "câu dùng để xin phép"
   },
   {
     "word": "banker",
     "ipa": "ˈbæŋkɚ",
+    "type": "",
+    "def": "the player in charge of the bank in gambling games",
     "vi": "người giữ tiền",
     "viDef": "người phụ trách quỹ trong các trò cá cược"
   },
   {
     "word": "Bank Teller",
     "ipa": "bæŋk ˈtɛlɚ",
+    "type": "",
+    "def": "A person who works for the bank",
     "vi": "giao dịch viên ngân hàng",
     "viDef": "người làm việc cho ngân hàng"
   },
   {
     "word": "Crook",
     "ipa": "kɹʊk",
+    "type": "",
+    "def": "A person who steals(usually things of value)",
     "vi": "kẻ trộm cắp",
     "viDef": "người lấy của người khác, thường là thứ có giá trị"
   },
   {
     "word": "Permission",
     "ipa": "pɚˈmɪʃən",
+    "type": "",
+    "def": "To accept a request",
     "vi": "sự cho phép",
     "viDef": "việc đồng ý với một lời xin"
   },
   {
     "word": "Gambling",
     "ipa": "ˈɡæmbəlɪŋ",
+    "type": "",
+    "def": "A game of odds",
     "vi": "cờ bạc",
     "viDef": "trò chơi dựa vào may rủi"
   },
   {
     "word": "Collect",
     "ipa": "kəˈlɛkt",
+    "type": "",
+    "def": "to receive something of yours",
     "vi": "nhận lấy",
     "viDef": "nhận về thứ thuộc phần mình"
   }

@@ -2,72 +2,96 @@
   {
     "word": "strength",
     "ipa": "stɹɛŋkθ",
+    "type": "",
+    "def": "a quality or feature that makes someone or somethi",
     "vi": "điểm mạnh",
     "viDef": "phẩm chất hoặc đặc tính làm cho ai hoặc thứ gì nổi trội"
   },
   {
     "word": "first of all",
     "ipa": "fɝst ʌv ɔl",
+    "type": "",
+    "def": "phrase used to introduce a series of ideas, starting with the first one",
     "vi": "trước hết",
     "viDef": "câu dùng để mở đầu chuỗi ý, bắt đầu từ ý thứ nhất"
   },
   {
     "word": "go on",
     "ipa": "ɡoʊ ɑn",
+    "type": "",
+    "def": "continue, go forward",
     "vi": "tiếp tục",
     "viDef": "nói tiếp, đi tới"
   },
   {
     "word": "Finally",
     "ipa": "ˈfaɪnəli",
+    "type": "",
+    "def": "at last",
     "vi": "cuối cùng",
     "viDef": "sau hết"
   },
   {
     "word": "launch",
     "ipa": "lɔntʃ",
+    "type": "",
+    "def": "to begin",
     "vi": "khởi động, ra mắt",
     "viDef": "bắt đầu"
   },
   {
     "word": "overview",
     "ipa": "ˈoʊvɚˌvju",
+    "type": "",
+    "def": "a general explanation",
     "vi": "phần tổng quan",
     "viDef": "lời trình bày chung"
   },
   {
     "word": "strength to strength",
     "ipa": "stɹɛŋkθ tu stɹɛŋkθ",
+    "type": "",
+    "def": "more and more successful",
     "vi": "càng lúc càng mạnh",
     "viDef": "ngày một thành công hơn"
   },
   {
     "word": "Powerpoint Presentation",
     "ipa": "ˈpaʊɚˌpɔɪnt ˌpɹɛzənˈteɪʃən",
+    "type": "",
+    "def": "A presentation using a computer program called powerpoint",
     "vi": "bài trình chiếu PowerPoint",
     "viDef": "bài thuyết trình dùng chương trình máy tính tên PowerPoint"
   },
   {
     "word": "Projector",
     "ipa": "pɹəˈdʒɛktɚ",
+    "type": "",
+    "def": "a machine used to project a large digital image onto a plain white surface",
     "vi": "máy chiếu",
     "viDef": "máy dùng để phóng hình số lớn lên một mặt phẳng màu trắng"
   },
   {
     "word": "Podium",
     "ipa": "ˈpoʊdiəm",
+    "type": "",
+    "def": "a small usually wooden table used to hold a microphone for use of a speaker",
     "vi": "bục nói",
     "viDef": "chiếc bàn nhỏ, thường bằng gỗ, để đặt micro cho người phát biểu"
   },
   {
     "word": "Speech",
     "ipa": "spitʃ",
+    "type": "",
+    "def": "a public discourse",
     "vi": "bài phát biểu",
     "viDef": "lời nói trước công chúng"
   },
   {
     "word": "Graph",
     "ipa": "ɡɹæf",
+    "type": "",
+    "def": "A graphic image that represents variations and numbers",
     "vi": "đồ thị",
     "viDef": "hình vẽ thể hiện các biến động và con số"
   }

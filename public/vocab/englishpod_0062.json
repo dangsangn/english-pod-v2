@@ -2,114 +2,152 @@
   {
     "word": "educational background",
     "ipa": "ˌɛdʒəˈkeɪʃənəl ˈbækɡɹaʊnd",
+    "type": "phrase",
+    "def": "the history of the education you've had",
     "vi": "quá trình học vấn",
     "viDef": "lịch sử học hành của một người"
   },
   {
     "word": "with honors",
     "ipa": "wɪð ˈɑnɚz",
+    "type": "phrase",
+    "def": "with special recognition for receiving very high marks",
     "vi": "tốt nghiệp loại ưu",
     "viDef": "được ghi nhận riêng vì điểm rất cao"
   },
   {
     "word": "major",
     "ipa": "ˈmeɪdʒɚ",
+    "type": "common noun, singular",
+    "def": "the main field of study in an undergraduate degree",
     "vi": "chuyên ngành chính",
     "viDef": "ngành học chính ở bậc đại học"
   },
   {
     "word": "specialization",
     "ipa": "ˌspɛʃələˈzeɪʃən",
+    "type": "common noun, singular",
+    "def": "a limited area of study",
     "vi": "chuyên môn hẹp",
     "viDef": "lĩnh vực học tập trong phạm vi nhỏ"
   },
   {
     "word": "minor",
     "ipa": "ˈmaɪnɚ",
+    "type": "verb",
+    "def": "to have a secondary area of study in an undergraduate program",
     "vi": "học ngành phụ",
     "viDef": "lấy thêm một ngành thứ hai ở bậc đại học"
   },
   {
     "word": "course of study",
     "ipa": "kɔɹs ʌv ˈstʌdi",
+    "type": "phrase",
+    "def": "the combination of courses taken in a degree program",
     "vi": "chương trình học",
     "viDef": "tổ hợp các môn trong một chương trình cấp bằng"
   },
   {
     "word": "track",
     "ipa": "tɹæk",
+    "type": "common noun, singular",
+    "def": "course of study",
     "vi": "hướng học",
     "viDef": "lộ trình môn học"
   },
   {
     "word": "postgraduate",
     "ipa": "ˌpoʊstˈɡɹædʒuət",
+    "type": "Adjective",
+    "def": "masters or Ph.D; education above the bachelor's degree level",
     "vi": "sau đại học",
     "viDef": "bậc thạc sĩ hoặc tiến sĩ, trên cử nhân"
   },
   {
     "word": "hence",
     "ipa": "hɛns",
+    "type": "General Adverb",
+    "def": "for that reason",
     "vi": "do vậy",
     "viDef": "vì lý do đó"
   },
   {
     "word": "pursue",
     "ipa": "pɚˈsu",
+    "type": "principle verb, past simple",
+    "def": "try to do something over a longer period of time",
     "vi": "theo đuổi",
     "viDef": "kiên trì làm việc gì trong thời gian dài"
   },
   {
     "word": "strive",
     "ipa": "stɹaɪv",
+    "type": "verb",
+    "def": "try hard to do something",
     "vi": "nỗ lực",
     "viDef": "cố gắng hết sức làm việc gì"
   },
   {
     "word": "breadth",
     "ipa": "bɹɛdθ",
+    "type": "common noun, singular",
+    "def": "a wide range or scope of something",
     "vi": "độ rộng, tầm bao quát",
     "viDef": "phạm vi rộng của thứ gì"
   },
   {
     "word": "significant",
     "ipa": "səɡˈnɪfɪkənt",
+    "type": "Adjective",
+    "def": "important and large enough to have a noticeable effect",
     "vi": "đáng kể",
     "viDef": "quan trọng và đủ lớn để thấy được tác động"
   },
   {
     "word": "contribution",
     "ipa": "ˌkɑntɹəˈbjuʃən",
+    "type": "common noun, plural",
+    "def": "adding or giving something",
     "vi": "sự đóng góp",
     "viDef": "việc góp thêm hoặc cho đi điều gì"
   },
   {
     "word": "tertiary education",
     "ipa": "ˈtɝʃɚi ˌɛdʒəˈkeɪʃən",
+    "type": "phrase",
+    "def": "university education",
     "vi": "giáo dục bậc cao",
     "viDef": "học vấn đại học"
   },
   {
     "word": "take initiative",
     "ipa": "teɪk ˌɪˈnɪʃətɪv",
+    "type": "phrase",
+    "def": "take the chance to do something before others do",
     "vi": "chủ động ra tay",
     "viDef": "làm trước khi người khác kịp làm"
   },
   {
     "word": "distinguish",
     "ipa": "dɪˈstɪŋɡwɪʃ",
+    "type": "verb",
+    "def": "make something different in a special way",
     "vi": "tạo nét riêng",
     "viDef": "làm cho thứ gì khác biệt hẳn"
   },
   {
     "word": "attribute",
     "ipa": "ˈætɹəˌbjut",
+    "type": "common noun, singular",
+    "def": "a good quality or feature that someone has",
     "vi": "phẩm chất",
     "viDef": "điểm tốt hoặc đặc điểm hay của một người"
   },
   {
     "word": "scrutinize",
     "ipa": "ˈskɹutəˌnaɪz",
+    "type": "verb",
+    "def": "examine something in a careful and critical way",
     "vi": "xem xét kỹ lưỡng",
     "viDef": "soi thật cẩn thận và khắt khe"
   }

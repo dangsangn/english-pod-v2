@@ -2,126 +2,168 @@
   {
     "word": "aficionado",
     "ipa": "əˌfiʃjəˈnɑˌdoʊ",
+    "type": "common noun, plural",
+    "def": "an enthusiastic admirer or follower; a fan.",
     "vi": "tín đồ",
     "viDef": "người say mê, hâm mộ nhiệt thành"
   },
   {
     "word": "main man",
     "ipa": "meɪn mæn",
+    "type": "phrase",
+    "def": "my right hand man, my important helper",
     "vi": "cánh tay phải",
     "viDef": "người trợ thủ quan trọng của tôi"
   },
   {
     "word": "cash",
     "ipa": "kæʃ",
+    "type": "common noun, singular",
+    "def": "money in the form of bills or coins",
     "vi": "tiền mặt",
     "viDef": "tiền giấy hoặc tiền xu"
   },
   {
     "word": "par",
     "ipa": "pɑɹ",
+    "type": "common noun, singular",
+    "def": "the number of strokes considered necessary to complete",
     "vi": "par, chuẩn gậy",
     "viDef": "số gậy được coi là cần để hoàn thành lỗ"
   },
   {
     "word": "hazard",
     "ipa": "ˈhæzɚd",
+    "type": "common noun, singular",
+    "def": "an obstacle, such as some water, found on a golf course",
     "vi": "chướng ngại",
     "viDef": "vật cản trên sân golf, chẳng hạn hồ nước"
   },
   {
     "word": "hole in one",
     "ipa": "hoʊl ɪn wʌn",
+    "type": "common noun, singular",
+    "def": "using only one shot to put the ball in the hole",
     "vi": "đánh một gậy vào lỗ",
     "viDef": "chỉ một cú là bóng vào lỗ"
   },
   {
     "word": "tee off",
     "ipa": "ti ɔf",
+    "type": "verb",
+    "def": "hit the ball for the first time on a hole",
     "vi": "phát bóng",
     "viDef": "đánh cú đầu tiên ở một lỗ"
   },
   {
     "word": "caddie",
     "ipa": "ˈkædi",
+    "type": "common noun, singular",
+    "def": "person who carries the golf clubs and gives advice",
     "vi": "người phục vụ sân golf",
     "viDef": "người mang gậy và cho lời khuyên"
   },
   {
     "word": "driver",
     "ipa": "ˈdɹaɪvɚ",
+    "type": "common noun, singular",
+    "def": "the club you use to hit the ball long distances",
     "vi": "gậy phát xa",
     "viDef": "gậy dùng để đánh bóng đi thật xa"
   },
   {
     "word": "swing",
     "ipa": "swɪŋ",
+    "type": "common noun, singular",
+    "def": "the action of hitting the golf ball",
     "vi": "cú vung gậy",
     "viDef": "động tác đánh bóng golf"
   },
   {
     "word": "not (someone's) day",
     "ipa": "nɑt ˈsʌmwʌnz deɪ",
+    "type": "phrase",
+    "def": "not a good day for that person",
     "vi": "bữa nay không phải ngày của mình",
     "viDef": "hôm nay không suôn sẻ với người đó"
   },
   {
     "word": "bogey",
     "ipa": "ˈboʊɡi",
+    "type": "common noun, singular",
+    "def": "score that is one higher than it should be in golf",
     "vi": "bogey",
     "viDef": "điểm cao hơn chuẩn một gậy"
   },
   {
     "word": "make par",
     "ipa": "meɪk pɑɹ",
+    "type": "phrase",
+    "def": "get the score you should for a certain hole",
     "vi": "đạt chuẩn par",
     "viDef": "đánh đúng số gậy chuẩn cho lỗ đó"
   },
   {
     "word": "birdie",
     "ipa": "ˈbɝdi",
+    "type": "common noun, singular",
+    "def": "one point lower than the score you should get",
     "vi": "birdie",
     "viDef": "ít hơn chuẩn một gậy"
   },
   {
     "word": "shot",
     "ipa": "ʃɑt",
+    "type": "common noun, singular",
+    "def": "the action of hitting the ball",
     "vi": "cú đánh",
     "viDef": "động tác đánh bóng"
   },
   {
     "word": "hard time",
     "ipa": "hɑɹd taɪm",
+    "type": "phrase",
+    "def": "a difficult time doing something; difficulty",
     "vi": "lúc chật vật",
     "viDef": "giai đoạn làm việc gì rất khó"
   },
   {
     "word": "putt",
     "ipa": "pʌt",
+    "type": "principle verb, present simple",
+    "def": "light golf stroke made on the putting green in an effort to place the ball into the hole.",
     "vi": "cú gạt bóng",
     "viDef": "cú đánh nhẹ trên thảm cỏ quanh lỗ để đưa bóng vào"
   },
   {
     "word": "green",
     "ipa": "ɡɹin",
+    "type": "common noun, singular",
+    "def": "an area of short cut grass around the hole on a golf course",
     "vi": "thảm cỏ quanh lỗ",
     "viDef": "vùng cỏ cắt ngắn bao quanh lỗ golf"
   },
   {
     "word": "break",
     "ipa": "bɹeɪk",
+    "type": "principle verb, present simple",
+    "def": "the action of a ball moving away from it's straight path",
     "vi": "độ lệch đường bóng",
     "viDef": "việc bóng đi chệch khỏi đường thẳng"
   },
   {
     "word": "sand trap",
     "ipa": "sænd tɹæp",
+    "type": "common noun, singular",
+    "def": "a hazard on a golf course consisting of a depression partly filled with sand.",
     "vi": "hố cát",
     "viDef": "chướng ngại là chỗ lõm có cát trên sân golf"
   },
   {
     "word": "iron",
     "ipa": "ˈaɪɚn",
+    "type": "common noun, singular",
+    "def": "golf a club with an angled metal head",
     "vi": "gậy sắt",
     "viDef": "gậy golf có đầu kim loại nghiêng"
   }

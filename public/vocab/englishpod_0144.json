@@ -2,90 +2,120 @@
   {
     "word": "death penalty",
     "ipa": "dɛθ ˈpɛnəlti",
+    "type": "phrase",
+    "def": "the punishment of death",
     "vi": "án tử hình",
     "viDef": "hình phạt bằng cái chết"
   },
   {
     "word": "prison sentence",
     "ipa": "ˈpɹɪzən ˈsɛntəns",
+    "type": "common noun, plural",
+    "def": "the amount of time to keep criminals in jail",
     "vi": "án tù",
     "viDef": "thời gian giam giữ người phạm tội"
   },
   {
     "word": "juvenile offender",
     "ipa": "ˈdʒuvənəl əˈfɛndɚ",
+    "type": "common noun, plural",
+    "def": "underage criminals",
     "vi": "người phạm tội vị thành niên",
     "viDef": "người chưa đủ tuổi mà phạm tội"
   },
   {
     "word": "Draconian",
     "ipa": "dɹeɪˈkoʊniən",
+    "type": "Adjective",
+    "def": "very strict and severe",
     "vi": "hà khắc",
     "viDef": "rất nghiêm và nặng tay"
   },
   {
     "word": "miscarriage of justice",
     "ipa": "mɪˈskɛɹədʒ ʌv ˈdʒʌstəs",
+    "type": "phrase",
+    "def": "an unjust legal decision",
     "vi": "án oan",
     "viDef": "quyết định pháp lý bất công"
   },
   {
     "word": "capital punishment",
     "ipa": "ˈkæpətəl ˈpʌnɪʃmənt",
+    "type": "phrase",
+    "def": "punishment of death",
     "vi": "hình phạt tử hình",
     "viDef": "hình phạt bằng cái chết"
   },
   {
     "word": "fabricate",
     "ipa": "ˈfæbɹəˌkeɪt",
+    "type": "verb",
+    "def": "to make something up to trick people",
     "vi": "dựng chuyện",
     "viDef": "bịa ra để gạt người khác"
   },
   {
     "word": "deterrent",
     "ipa": "dɪˈtɝɹənt",
+    "type": "common noun, singular",
+    "def": "something that prevents people from doing something",
     "vi": "sự răn đe",
     "viDef": "thứ khiến người ta không dám làm"
   },
   {
     "word": "divert",
     "ipa": "daɪˈvɝt",
+    "type": "verb",
+    "def": "to move resources from one thing to another",
     "vi": "chuyển hướng",
     "viDef": "dời nguồn lực từ việc này sang việc khác"
   },
   {
     "word": "dictator",
     "ipa": "dɪkˈteɪtɚ",
+    "type": "common noun, singular",
+    "def": "someone who rules with absolute power",
     "vi": "nhà độc tài",
     "viDef": "người cai trị với quyền lực tuyệt đối"
   },
   {
     "word": "diversion",
     "ipa": "daɪˈvɝʒən",
+    "type": "common noun, singular",
+    "def": "the act of changing the direction or use of something",
     "vi": "sự chuyển hướng",
     "viDef": "việc đổi chiều hoặc đổi công dụng của thứ gì"
   },
   {
     "word": "authoritarian",
     "ipa": "əˌθɔɹəˈtɛɹiən",
+    "type": "Adjective",
+    "def": "expecting or requiring people to obey rules or laws",
     "vi": "độc đoán",
     "viDef": "buộc người ta phải tuân theo quy tắc, luật lệ"
   },
   {
     "word": "divisive topic",
     "ipa": "dɪˈvaɪsɪv ˈtɑpɪk",
+    "type": "phrase",
+    "def": "an issue that causes disagreement between people and causes them to separate into different groups",
     "vi": "đề tài gây chia rẽ",
     "viDef": "vấn đề làm người ta bất đồng và tách thành các phe"
   },
   {
     "word": "recidivist",
     "ipa": "ɹəˈsɪdɪˌvɪst",
+    "type": "common noun, singular",
+    "def": "a person who continues to commit crimes even after being caught and punished",
     "vi": "kẻ tái phạm",
     "viDef": "người vẫn tiếp tục phạm tội dù đã bị bắt và trừng phạt"
   },
   {
     "word": "rehabilitate",
     "ipa": "ˌɹihəˈbɪləˌteɪt",
+    "type": "verb",
+    "def": "to teach (a criminal in prison) to live a normal and productive life",
     "vi": "cải tạo",
     "viDef": "dạy người tù cách sống bình thường, có ích"
   }

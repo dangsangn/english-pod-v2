@@ -2,84 +2,112 @@
   {
     "word": "preoccupied",
     "ipa": "pɹiˈɑkjəˌpaɪd",
+    "type": "Adjective",
+    "def": "worried; thinking about something else",
     "vi": "tâm trí để đâu",
     "viDef": "đang lo hoặc nghĩ chuyện khác"
   },
   {
     "word": "direct",
     "ipa": "dɚˈɛkt",
+    "type": "Adjective",
+    "def": "connected to, related to",
     "vi": "trực tiếp",
     "viDef": "có liên quan, gắn tới"
   },
   {
     "word": "impact",
     "ipa": "ɪmˈpækt",
+    "type": "common noun, singular",
+    "def": "strong influence or effect",
     "vi": "tác động mạnh",
     "viDef": "ảnh hưởng lớn"
   },
   {
     "word": "beat around the bush",
     "ipa": "bit ɚˈaʊnd ðə bʊʃ",
+    "type": "phrase",
+    "def": "avoid saying something by talking about other things",
     "vi": "nói vòng vo",
     "viDef": "tránh vào thẳng vấn đề bằng cách nói chuyện khác"
   },
   {
     "word": "come out with it",
     "ipa": "kʌm aʊt wɪð ɪt",
+    "type": "phrase",
+    "def": "say something directly",
     "vi": "nói thẳng ra đi",
     "viDef": "nói ra cho rõ"
   },
   {
     "word": "let (someone) go",
     "ipa": "lɛt ˈsʌmwʌn ɡoʊ",
+    "type": "phrase",
+    "def": "have someone fired or dismissed",
     "vi": "cho thôi việc",
     "viDef": "sa thải ai"
   },
   {
     "word": "to he honest",
     "ipa": "tu hi ˈɑnəst",
+    "type": "phrase",
+    "def": "used to say something directly",
     "vi": "nói thật lòng",
     "viDef": "câu mở đầu khi nói thẳng"
   },
   {
     "word": "resent",
     "ipa": "ɹɪˈzɛnt",
+    "type": "phrase",
+    "def": "find something very insulting",
     "vi": "thấy bị xúc phạm",
     "viDef": "cho rằng điều đó rất khinh mình"
   },
   {
     "word": "call in sick",
     "ipa": "kɔl ɪn sɪk",
+    "type": "verb",
+    "def": "call the office to say you can't come to work because you're sick",
     "vi": "gọi xin nghỉ bệnh",
     "viDef": "gọi vào công ty báo nghỉ vì ốm"
   },
   {
     "word": "severance package",
     "ipa": "ˈsɛˌvɝəns ˈpækədʒ",
+    "type": "phrase",
+    "def": "money or benefits you give someone when they are fired",
     "vi": "trợ cấp thôi việc",
     "viDef": "tiền hoặc quyền lợi trả cho người bị sa thải"
   },
   {
     "word": "lay off",
     "ipa": "leɪ ɔf",
+    "type": "verb",
+    "def": "end an employment because of business reasons, not performance",
     "vi": "cắt giảm nhân sự",
     "viDef": "cho thôi việc vì lý do kinh doanh chứ không vì năng lực"
   },
   {
     "word": "layoffs",
     "ipa": "ˈleɪɔfs",
+    "type": "common noun, plural",
+    "def": "the action of ending employment because of business reasons",
     "vi": "đợt sa thải",
     "viDef": "việc chấm dứt hợp đồng vì lý do kinh doanh"
   },
   {
     "word": "dismissal letter",
     "ipa": "dɪˈsmɪsəl ˈlɛtɚ",
+    "type": "common noun, singular",
+    "def": "a letter written to tell an employee his is fired",
     "vi": "thư sa thải",
     "viDef": "thư thông báo cho nhân viên biết bị cho thôi việc"
   },
   {
     "word": "terminate",
     "ipa": "ˈtɝməˌneɪt",
+    "type": "verb",
+    "def": "end the employment of a person; fire",
     "vi": "chấm dứt hợp đồng",
     "viDef": "thôi tuyển dụng một người; sa thải"
   }

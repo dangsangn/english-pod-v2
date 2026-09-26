@@ -2,96 +2,128 @@
   {
     "word": "let's talk it over",
     "ipa": "lɛts tɔk ɪt ˈoʊvɚ",
+    "type": "phrase",
+    "def": "let's talk about this problem and solve it",
     "vi": "nói cho ra chuyện đi",
     "viDef": "cùng bàn để giải quyết vấn đề này"
   },
   {
     "word": "come clean",
     "ipa": "kʌm klin",
+    "type": "verb",
+    "def": "confess, tell the truth",
     "vi": "thú thật",
     "viDef": "nhận và nói ra sự thật"
   },
   {
     "word": "time and again",
     "ipa": "taɪm ənd əˈɡɛn",
+    "type": "phrase",
+    "def": "many times",
     "vi": "hết lần này lần khác",
     "viDef": "nhiều lần rồi"
   },
   {
     "word": "deceive",
     "ipa": "dɪˈsiv",
+    "type": "verb",
+    "def": "To cause to believe what is not true; mislead.",
     "vi": "lừa dối",
     "viDef": "làm cho ai tin điều không thật"
   },
   {
     "word": "kidding",
     "ipa": "ˈkɪdɪŋ",
+    "type": "verb",
+    "def": "fool or joke",
     "vi": "giỡn",
     "viDef": "trêu, nói đùa"
   },
   {
     "word": "forthright",
     "ipa": "ˈfɔɹˈθɹaɪt",
+    "type": "Adjective",
+    "def": "direct; honest; with no lies",
     "vi": "thẳng thắn",
     "viDef": "trực tiếp, thật lòng, không dối"
   },
   {
     "word": "undying",
     "ipa": "ənˈdaɪɪŋ",
+    "type": "Adjective",
+    "def": "endless, lasting forever",
     "vi": "bất diệt",
     "viDef": "không dứt, còn mãi"
   },
   {
     "word": "devoted",
     "ipa": "dɪˈvoʊtɪd",
+    "type": "Adjective",
+    "def": "showing or feeling strong loyalty or love",
     "vi": "một lòng",
     "viDef": "thể hiện sự trung thành hoặc yêu thương sâu đậm"
   },
   {
     "word": "cherish",
     "ipa": "ˈtʃɛɹɪʃ",
+    "type": "verb",
+    "def": "to treat with affection and tenderness",
     "vi": "trân trọng",
     "viDef": "đối xử trìu mến và dịu dàng"
   },
   {
     "word": "at the drop of a hat",
     "ipa": "æt ðə dɹɑp ʌv ə hæt",
+    "type": "phrase",
+    "def": "soon, in this very instant",
     "vi": "ngay tức khắc",
     "viDef": "lập tức, chỉ trong khoảnh khắc"
   },
   {
     "word": "foundation",
     "ipa": "faʊnˈdeɪʃən",
+    "type": "common noun, singular",
+    "def": "the base of a structure",
     "vi": "nền tảng",
     "viDef": "phần móng của một kết cấu"
   },
   {
     "word": "integrity",
     "ipa": "ˌɪnˈtɛɡɹəti",
+    "type": "common noun, non-variable",
+    "def": "the quality of being honest and fair",
     "vi": "sự chính trực",
     "viDef": "phẩm chất trung thực và công bằng"
   },
   {
     "word": "cry wolf",
     "ipa": "kɹaɪ wʊlf",
+    "type": "phrase",
+    "def": "make people think there is danger when there is none",
     "vi": "báo động giả",
     "viDef": "làm người ta tưởng có nguy hiểm trong khi không có"
   },
   {
     "word": "be straight with someone",
     "ipa": "bi stɹeɪt wɪð ˈsʌmwʌn",
+    "type": "",
+    "def": "be honest with someone",
     "vi": "nói thẳng với ai",
     "viDef": "thật lòng với ai"
   },
   {
     "word": "level with someone",
     "ipa": "ˈlɛvəl wɪð ˈsʌmwʌn",
+    "type": "phrase",
+    "def": "speak honestly",
     "vi": "nói thật với ai",
     "viDef": "trò chuyện thẳng thắn"
   },
   {
     "word": "give you the lowdown",
     "ipa": "ɡɪv ju ðə ˈloʊdaʊn",
+    "type": "phrase",
+    "def": "tell you true information; tell you the facts",
     "vi": "kể hết ngọn ngành",
     "viDef": "cho biết thông tin thật, đúng sự việc"
   }

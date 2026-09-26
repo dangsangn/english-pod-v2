@@ -2,84 +2,112 @@
   {
     "word": "civil rights",
     "ipa": "ˈsɪvəl ɹaɪts",
+    "type": "phrase",
+    "def": "the rights people have",
     "vi": "quyền công dân",
     "viDef": "các quyền mà con người có"
   },
   {
     "word": "vulnerable",
     "ipa": "ˈvʌlnɚəbəl",
+    "type": "Adjective",
+    "def": "easily hurt or harmed",
     "vi": "dễ tổn thương",
     "viDef": "dễ bị hại"
   },
   {
     "word": "defenseless",
     "ipa": "dɪˈfɛnsləs",
+    "type": "Adjective",
+    "def": "defenseless",
     "vi": "không tự vệ được",
     "viDef": "chẳng có gì để chống đỡ"
   },
   {
     "word": "at the mercy of",
     "ipa": "æt ðə ˈmɝsi ʌv",
+    "type": "phrase",
+    "def": "in a position where you can be harmed",
     "vi": "phó mặc cho",
     "viDef": "ở thế có thể bị hại"
   },
   {
     "word": "transgression",
     "ipa": "tɹænzˈɡɹɛʃən",
+    "type": "common noun, plural",
+    "def": "something that is not allowed",
     "vi": "sự vi phạm",
     "viDef": "điều không được phép làm"
   },
   {
     "word": "apples and oranges",
     "ipa": "ˈæpəlz ənd ˈɔɹəndʒəz",
+    "type": "phrase",
+    "def": "an unfair comparison of two different things",
     "vi": "so trứng với đá",
     "viDef": "phép so sánh không công bằng giữa hai thứ khác nhau"
   },
   {
     "word": "poach",
     "ipa": "poʊtʃ",
+    "type": "principle verb, present progressive",
+    "def": "to illegally hunt protected animals",
     "vi": "săn trộm",
     "viDef": "bắt trái phép các loài được bảo vệ"
   },
   {
     "word": "synthetic",
     "ipa": "sɪnˈθɛtɪk",
+    "type": "Adjective",
+    "def": "not natural",
     "vi": "nhân tạo",
     "viDef": "không phải tự nhiên"
   },
   {
     "word": "do your part",
     "ipa": "du jɔɹ pɑɹt",
+    "type": "phrase",
+    "def": "to help accomplish a goal",
     "vi": "làm phần của mình",
     "viDef": "góp sức để đạt mục tiêu"
   },
   {
     "word": "biodegradable",
     "ipa": "ˌbaɪoʊdəˈɡɹeɪdəbəl",
+    "type": "Adjective",
+    "def": "capable of being decomposed by natural means",
     "vi": "phân hủy sinh học được",
     "viDef": "có thể tự tiêu theo cách tự nhiên"
   },
   {
     "word": "drought",
     "ipa": "dɹaʊt",
+    "type": "common noun, singular",
+    "def": "a prolonged period of time during which no rain falls",
     "vi": "đợt hạn",
     "viDef": "giai đoạn dài không có mưa"
   },
   {
     "word": "famine",
     "ipa": "ˈfæmən",
+    "type": "common noun, singular",
+    "def": "a severe shortage of food",
     "vi": "nạn đói",
     "viDef": "sự thiếu lương thực trầm trọng"
   },
   {
     "word": "biosphere",
     "ipa": "ˈbaɪoʊˌsfɪɹ",
+    "type": "common noun, singular",
+    "def": "the part of the earth's surface and atmosphere inhabited by living things",
     "vi": "sinh quyển",
     "viDef": "phần mặt đất và khí quyển có sinh vật sống"
   },
   {
     "word": "cloning",
     "ipa": "ˈkloʊnɪŋ",
+    "type": "common noun, singular",
+    "def": "a general term for the research activity that creates a copy of some biological entity",
     "vi": "nhân bản",
     "viDef": "hoạt động nghiên cứu tạo bản sao của một thực thể sinh học"
   }

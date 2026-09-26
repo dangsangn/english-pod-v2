@@ -2,48 +2,64 @@
   {
     "word": "soak",
     "ipa": "soʊk",
+    "type": "",
+    "def": "to be thoroughly wet",
     "vi": "ướt sũng",
     "viDef": "bị ướt hoàn toàn"
   },
   {
     "word": "rush",
     "ipa": "ɹʌʃ",
+    "type": "",
+    "def": "in a hurry",
     "vi": "vội",
     "viDef": "đang gấp"
   },
   {
     "word": "personally",
     "ipa": "ˈpɝsənəli",
+    "type": "",
+    "def": "as regards oneself",
     "vi": "về phần tôi",
     "viDef": "xét riêng bản thân mình"
   },
   {
     "word": "suggestion",
     "ipa": "səˈdʒɛstʃən",
+    "type": "",
+    "def": "idea about what someone should do",
     "vi": "lời gợi ý",
     "viDef": "ý kiến về việc ai đó nên làm gì"
   },
   {
     "word": "mention",
     "ipa": "ˈmɛnʃən",
+    "type": "",
+    "def": "talk about something briefly",
     "vi": "nhắc tới",
     "viDef": "nói qua về điều gì"
   },
   {
     "word": "drench",
     "ipa": "dɹɛntʃ",
+    "type": "",
+    "def": "to wet thoroughly",
     "vi": "làm ướt đẫm",
     "viDef": "làm ướt hoàn toàn"
   },
   {
     "word": "scrumptios",
     "ipa": "ˈskɹʌmpʃəs",
+    "type": "",
+    "def": "very pleasing",
     "vi": "ngon tuyệt",
     "viDef": "rất dễ chịu, hết sức thích"
   },
   {
     "word": "haste",
     "ipa": "heɪst",
+    "type": "",
+    "def": "urgent need of quick action",
     "vi": "sự vội vã",
     "viDef": "nhu cầu cấp bách phải hành động nhanh"
   }

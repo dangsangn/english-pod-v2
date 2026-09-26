@@ -2,78 +2,104 @@
   {
     "word": "naive",
     "ipa": "naɪˈiv",
+    "type": "",
+    "def": "ignorant",
     "vi": "non nớt, dễ tin",
     "viDef": "thiếu hiểu biết"
   },
   {
     "word": "reckless",
     "ipa": "ˈɹɛkləs",
+    "type": "",
+    "def": "having or showing no regard for danger",
     "vi": "bất cẩn, liều",
     "viDef": "không để ý gì đến hiểm nguy"
   },
   {
     "word": "clumsy",
     "ipa": "ˈklʌmzi",
+    "type": "",
+    "def": "be careless;lack in skill or physical coordinate",
     "vi": "lóng ngóng",
     "viDef": "cẩu thả, thiếu kỹ năng hoặc phối hợp kém"
   },
   {
     "word": "open-minded",
     "ipa": "ˈoʊpən ˈmaɪndəd",
+    "type": "",
+    "def": "easy to entertain new ideas",
     "vi": "cởi mở",
     "viDef": "dễ tiếp nhận ý mới"
   },
   {
     "word": "settle down",
     "ipa": "ˈsɛtəl daʊn",
+    "type": "",
+    "def": "be quiet",
     "vi": "ngồi yên",
     "viDef": "trở nên im lặng"
   },
   {
     "word": "superstitious",
     "ipa": "ˌsupɚˈstɪʃəs",
+    "type": "",
+    "def": "showing faith in magic or chance ignorant of laws",
     "vi": "tin dị đoan",
     "viDef": "tin vào phép lạ hoặc may rủi, không theo quy luật"
   },
   {
     "word": "extrovert",
     "ipa": "ˈɛkstɹəˌvɝt",
+    "type": "",
+    "def": "a person concerned more with practical realities",
     "vi": "người hướng ngoại",
     "viDef": "người thiên về những gì thực tế bên ngoài"
   },
   {
     "word": "eloquent",
     "ipa": "ˈɛləkwənt",
+    "type": "",
+    "def": "express yourself clearly and effectively",
     "vi": "hùng biện",
     "viDef": "diễn đạt rõ ràng và hiệu quả"
   },
   {
     "word": "Bologna",
     "ipa": "bəˈloʊni",
+    "type": "",
+    "def": "a term used to express disagreement",
     "vi": "nói nhảm",
     "viDef": "từ dùng để tỏ ý không đồng tình"
   },
   {
     "word": "easy going",
     "ipa": "ˈizi ˈɡoʊɪŋ",
+    "type": "",
+    "def": "someone who is easy to get a long with",
     "vi": "dễ tính",
     "viDef": "người dễ hòa hợp"
   },
   {
     "word": "Active",
     "ipa": "ˈæktɪv",
+    "type": "",
+    "def": "to be full of energy",
     "vi": "năng động",
     "viDef": "tràn đầy năng lượng"
   },
   {
     "word": "thrill seeker",
     "ipa": "θɹɪl ˈsikɚ",
+    "type": "",
+    "def": "a person who enjoys being daring",
     "vi": "người thích cảm giác mạnh",
     "viDef": "người ưa những chuyện gan dạ"
   },
   {
     "word": "unsatisfied",
     "ipa": "ənˈsætɪˌsfaɪd",
+    "type": "",
+    "def": "to want more",
     "vi": "chưa thỏa",
     "viDef": "còn muốn thêm"
   }

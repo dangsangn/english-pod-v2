@@ -2,72 +2,96 @@
   {
     "word": "check in",
     "ipa": "tʃɛk ɪn",
+    "type": "principle verb, infinitive",
+    "def": "register at a hotel or airport",
     "vi": "làm thủ tục nhận phòng",
     "viDef": "đăng ký tại khách sạn hoặc sân bay"
   },
   {
     "word": "under the name",
     "ipa": "ˈʌndɚ ðə neɪm",
+    "type": "phrase",
+    "def": "name used for the reservation",
     "vi": "đứng tên",
     "viDef": "tên dùng để đặt chỗ"
   },
   {
     "word": "reservation",
     "ipa": "ˌɹɛzɚˈveɪʃən",
+    "type": "common noun, singular",
+    "def": "booking",
     "vi": "đặt chỗ trước",
     "viDef": "sự đặt chỗ"
   },
   {
     "word": "confirmation",
     "ipa": "ˌkɑnfɚˈmeɪʃən",
+    "type": "common noun, singular",
+    "def": "an approval, verification",
     "vi": "xác nhận",
     "viDef": "sự chấp thuận, sự kiểm chứng"
   },
   {
     "word": "mix-up",
     "ipa": "mɪks ʌp",
+    "type": "common noun, singular",
+    "def": "confusion",
     "vi": "sự nhầm lẫn",
     "viDef": "sự lộn xộn, rối rắm"
   },
   {
     "word": "complimentary upgrade",
     "ipa": "ˌkɑmpləˈmɛntɚi əpˈɡɹeɪd",
+    "type": "phrase",
+    "def": "free improvement of quality",
     "vi": "nâng hạng miễn phí",
     "viDef": "được nâng cấp chất lượng mà không mất phí"
   },
   {
     "word": "overbooked",
     "ipa": "ˈoʊvɚˌbʊkt",
+    "type": "Adjective",
+    "def": "full",
     "vi": "kín chỗ, đặt vượt số",
     "viDef": "hết chỗ"
   },
   {
     "word": "check out",
     "ipa": "tʃɛk aʊt",
+    "type": "verb",
+    "def": "pay and leave a hotel",
     "vi": "trả phòng",
     "viDef": "thanh toán và rời khách sạn"
   },
   {
     "word": "booking",
     "ipa": "ˈbʊkɪŋ",
+    "type": "common noun, singular",
+    "def": "reservation",
     "vi": "việc đặt chỗ",
     "viDef": "sự đặt trước"
   },
   {
     "word": "concierge",
     "ipa": "ˌkɑnsiˈɛɹʒ",
+    "type": "common noun, singular",
+    "def": "hotel employee that helps guests",
     "vi": "nhân viên hỗ trợ khách",
     "viDef": "nhân viên khách sạn giúp đỡ khách"
   },
   {
     "word": "deluxe room",
     "ipa": "dəˈlʌks ɹum",
+    "type": "common noun, singular",
+    "def": "hotel room, better than standard",
     "vi": "phòng hạng sang",
     "viDef": "phòng khách sạn cao cấp hơn phòng tiêu chuẩn"
   },
   {
     "word": "receipt",
     "ipa": "ɹɪˈsit",
+    "type": "common noun, singular",
+    "def": "paper showing payment details",
     "vi": "hóa đơn, biên lai",
     "viDef": "tờ giấy ghi chi tiết thanh toán"
   }

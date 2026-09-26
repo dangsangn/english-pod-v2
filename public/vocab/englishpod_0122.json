@@ -2,60 +2,80 @@
   {
     "word": "it is just not my day",
     "ipa": "ɪt ɪz dʒʌst nɑt maɪ deɪ",
+    "type": "phrase",
+    "def": "a lot of bad things happened to me today",
     "vi": "hôm nay xui thật",
     "viDef": "nhiều chuyện tệ dồn vào tôi hôm nay"
   },
   {
     "word": "cash back",
     "ipa": "kæʃ bæk",
+    "type": "common noun, non-variable",
+    "def": "charging more money to your card in order to receive cash back",
     "vi": "rút tiền khi thanh toán",
     "viDef": "tính thêm vào thẻ để nhận tiền mặt trả lại"
   },
   {
     "word": "cut me some slack",
     "ipa": "kʌt mi sʌm slæk",
+    "type": "phrase",
+    "def": "don't be so strict, bend the rules",
     "vi": "thông cảm cho tôi chút",
     "viDef": "đừng khắt khe quá, linh động một chút"
   },
   {
     "word": "expire",
     "ipa": "ɪkˈspaɪɹ",
+    "type": "principle verb, past simple",
+    "def": "to no longer be valid after a period of time",
     "vi": "hết hạn",
     "viDef": "không còn giá trị sau một thời gian"
   },
   {
     "word": "check-out lane",
     "ipa": "tʃɛk aʊt leɪn",
+    "type": "common noun, singular",
+    "def": "the place you line up to pay for the things you want",
     "vi": "quầy thanh toán",
     "viDef": "chỗ xếp hàng trả tiền cho món mình mua"
   },
   {
     "word": "Stock",
     "ipa": "stɑk",
+    "type": "principle verb, present simple",
+    "def": "To supply (a shop) with merchandise.",
     "vi": "nhập hàng",
     "viDef": "cung ứng hàng hóa cho cửa hàng"
   },
   {
     "word": "Warehouse",
     "ipa": "ˈwɛɹhaʊs",
+    "type": "common noun, singular",
+    "def": "a place where goods are stored prior to their sale or distribution",
     "vi": "nhà kho",
     "viDef": "nơi trữ hàng trước khi bán hoặc phân phối"
   },
   {
     "word": "Poultry",
     "ipa": "ˈpoʊltɹi",
+    "type": "common noun, singular",
+    "def": "Domestic birds, such as chickens, turkeys, ducks, or geese, raised for meat or eggs.",
     "vi": "gia cầm",
     "viDef": "các loại chim nuôi như gà, gà tây, vịt, ngỗng để lấy thịt hoặc trứng"
   },
   {
     "word": "Bag boy",
     "ipa": "bæɡ bɔɪ",
+    "type": "common noun, singular",
+    "def": "A person, usually a teenager that works at a supermarket and places groceries that a person buys in plastic or paper bags",
     "vi": "nhân viên đóng túi",
     "viDef": "người, thường là thiếu niên, làm ở siêu thị và bỏ hàng vào túi cho khách"
   },
   {
     "word": "Bar code",
     "ipa": "bɑɹ koʊd",
+    "type": "common noun, singular",
+    "def": "an arrangement of numbers and parallel lines on a package, which can be electronically scanned at a checkout to give the price of the goods",
     "vi": "mã vạch",
     "viDef": "dãy số và vạch song song trên bao bì, quét ở quầy để hiện giá"
   }

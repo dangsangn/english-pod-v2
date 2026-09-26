@@ -2,90 +2,120 @@
   {
     "word": "obligate",
     "ipa": "ˈɑbləˌɡeɪt",
+    "type": "verb",
+    "def": "make a person do something because it is the right thing to do",
     "vi": "buộc phải làm",
     "viDef": "khiến ai làm việc gì vì đó là điều đúng"
   },
   {
     "word": "cost efficient",
     "ipa": "kɑst ɪˈfɪʃənt",
+    "type": "phrase",
+    "def": "cheap, not expensive",
     "vi": "tiết kiệm chi phí",
     "viDef": "rẻ, không tốn kém"
   },
   {
     "word": "redundancy",
     "ipa": "ɹɪˈdʌndənsi",
+    "type": "common noun, plural",
+    "def": "layoff, the ending of workers' employment",
     "vi": "sự cắt giảm nhân sự",
     "viDef": "việc cho thôi việc, chấm dứt hợp đồng lao động"
   },
   {
     "word": "implement",
     "ipa": "ˈɪmpləmənt",
+    "type": "verb",
+    "def": "put a plan into action",
     "vi": "triển khai",
     "viDef": "đưa kế hoạch vào thực hiện"
   },
   {
     "word": "lead time",
     "ipa": "lɛd taɪm",
+    "type": "common noun, singular",
+    "def": "the time between the beginning of a process and its end",
     "vi": "thời gian hoàn thành",
     "viDef": "khoảng thời gian từ lúc bắt đầu đến khi xong một quy trình"
   },
   {
     "word": "efficiency",
     "ipa": "ɪˈfɪʃənsi",
+    "type": "common noun, singular",
+    "def": "the ability to produce something more quickly",
     "vi": "hiệu suất",
     "viDef": "khả năng làm ra sản phẩm nhanh hơn"
   },
   {
     "word": "work station",
     "ipa": "wɝk ˈsteɪʃən",
+    "type": "common noun, plural",
+    "def": "an area where a person works and does his job",
     "vi": "vị trí làm việc",
     "viDef": "khu vực một người ngồi làm việc"
   },
   {
     "word": "given",
     "ipa": "ˈɡɪvən",
+    "type": "Adjective",
+    "def": "used to refer to a specific time, place or thing",
     "vi": "nhất định, cụ thể",
     "viDef": "chỉ một thời điểm, nơi hoặc vật cụ thể"
   },
   {
     "word": "defective",
     "ipa": "dɪˈfɛktɪv",
+    "type": "Adjective",
+    "def": "having a mistake or error that makes something not perfect",
     "vi": "bị lỗi",
     "viDef": "có sai sót khiến sản phẩm không hoàn hảo"
   },
   {
     "word": "defect",
     "ipa": "ˈdifɛkt",
+    "type": "common noun, plural",
+    "def": "a mistake or error that makes something not perfect",
     "vi": "khuyết điểm, lỗi",
     "viDef": "sai sót làm cho thứ gì không hoàn hảo"
   },
   {
     "word": "inventory",
     "ipa": "ˌɪnvənˈtɔɹi",
+    "type": "common noun, non-variable",
+    "def": "supply of goods stored in a place",
     "vi": "hàng tồn kho",
     "viDef": "lượng hàng đang trữ ở một nơi"
   },
   {
     "word": "carrying cost",
     "ipa": "ˈkæɹiɪŋ kɑst",
+    "type": "phrase",
+    "def": "the cost of holding inventory",
     "vi": "chi phí lưu kho",
     "viDef": "khoản tốn để giữ hàng tồn"
   },
   {
     "word": "warehouse",
     "ipa": "ˈwɛɹhaʊs",
+    "type": "common noun, singular",
+    "def": "large building where products or goods are stored",
     "vi": "nhà kho",
     "viDef": "tòa nhà lớn để chứa hàng"
   },
   {
     "word": "stock",
     "ipa": "stɑk",
+    "type": "common noun, non-variable",
+    "def": "the supply of goods for sale, or available",
     "vi": "lượng hàng có sẵn",
     "viDef": "số hàng đang có để bán"
   },
   {
     "word": "bottleneck",
     "ipa": "ˈbɑtəlˌnɛk",
+    "type": "common noun, singular",
+    "def": "something that slows a process down",
     "vi": "điểm nghẽn",
     "viDef": "chỗ làm cả quy trình chậm lại"
   }

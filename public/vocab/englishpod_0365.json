@@ -2,72 +2,96 @@
   {
     "word": "mess",
     "ipa": "mɛs",
+    "type": "",
+    "def": "disorder",
     "vi": "bừa bộn",
     "viDef": "sự lộn xộn"
   },
   {
     "word": "grounded",
     "ipa": "ˈɡɹaʊndɪd",
+    "type": "",
+    "def": "to be punished and not allowed to go outside",
     "vi": "bị phạt cấm túc",
     "viDef": "bị phạt và không được ra ngoài"
   },
   {
     "word": "sweep",
     "ipa": "swip",
+    "type": "",
+    "def": "to clean the floor with a broom or brush",
     "vi": "quét nhà",
     "viDef": "làm sạch sàn bằng chổi hoặc bàn chải"
   },
   {
     "word": "pull your weight",
     "ipa": "pʊl jɔɹ weɪt",
+    "type": "",
+    "def": "to help or collaborate in the household",
     "vi": "gánh phần việc của mình",
     "viDef": "phụ giúp hoặc góp sức trong việc nhà"
   },
   {
     "word": "dust",
     "ipa": "dʌst",
+    "type": "",
+    "def": "to remove dust and dirt",
     "vi": "lau bụi",
     "viDef": "lấy đi bụi và bẩn"
   },
   {
     "word": "mop",
     "ipa": "mɑp",
+    "type": "",
+    "def": "to clean the floor with water and a mop",
     "vi": "lau sàn",
     "viDef": "làm sạch sàn bằng nước và cây lau"
   },
   {
     "word": "vacuum",
     "ipa": "ˈvækjum",
+    "type": "",
+    "def": "to use an electric device to suction dust and dirt",
     "vi": "hút bụi",
     "viDef": "dùng máy điện hút bụi và bẩn"
   },
   {
     "word": "wax",
     "ipa": "wæks",
+    "type": "",
+    "def": "to put a greasy substance on a surface to make it shiny",
     "vi": "đánh xi",
     "viDef": "phủ một lớp chất nhờn lên bề mặt cho bóng"
   },
   {
     "word": "polish",
     "ipa": "ˈpɑlɪʃ",
+    "type": "",
+    "def": "To make smooth and shiny by rubbing or chemical action.",
     "vi": "đánh bóng",
     "viDef": "làm cho nhẵn và sáng bằng cách chà xát hoặc dùng hóa chất"
   },
   {
     "word": "take out the trash",
     "ipa": "teɪk aʊt ðə tɹæʃ",
+    "type": "",
+    "def": "action of taking the trash outside to be collected",
     "vi": "đem rác ra ngoài",
     "viDef": "việc mang rác ra ngoài để được thu gom"
   },
   {
     "word": "do the dishes",
     "ipa": "du ðə ˈdɪʃəz",
+    "type": "",
+    "def": "to wash the dishes",
     "vi": "rửa chén",
     "viDef": "rửa bát đĩa"
   },
   {
     "word": "iron",
     "ipa": "ˈaɪɚn",
+    "type": "",
+    "def": "action of using a hot flat surface to remove wrinkles from clothes",
     "vi": "ủi đồ",
     "viDef": "việc dùng mặt phẳng nóng để làm phẳng quần áo"
   }

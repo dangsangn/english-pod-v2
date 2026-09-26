@@ -2,72 +2,96 @@
   {
     "word": "how's it going",
     "ipa": "haʊz ɪt ˈɡoʊɪŋ",
+    "type": "phrase",
+    "def": "how are you",
     "vi": "dạo này thế nào",
     "viDef": "bạn khỏe không"
   },
   {
     "word": "around here",
     "ipa": "ɚˈaʊnd hiɹ",
+    "type": "phrase",
+    "def": "close to here",
     "vi": "quanh đây",
     "viDef": "gần chỗ này"
   },
   {
     "word": "around the corner",
     "ipa": "ɚˈaʊnd ðə ˈkɔɹnɚ",
+    "type": "phrase",
+    "def": "on the next street",
     "vi": "ngay góc phố",
     "viDef": "ở con phố kế bên"
   },
   {
     "word": "in bit of a hurry",
     "ipa": "ɪn bɪt ʌv ə ˈhɝi",
+    "type": "phrase",
+    "def": "moving quickly, having no time",
     "vi": "hơi vội",
     "viDef": "đang gấp, không có thời gian"
   },
   {
     "word": "contact details",
     "ipa": "ˈkɑntækt dɪˈteɪlz",
+    "type": "phrase",
+    "def": "information required to contact someone, i.e. telephone number, email address",
     "vi": "thông tin liên hệ",
     "viDef": "thông tin cần để liên lạc, ví dụ số điện thoại, địa chỉ email"
   },
   {
     "word": "slip my mind",
     "ipa": "slɪp maɪ maɪnd",
+    "type": "phrase",
+    "def": "been forgotten",
     "vi": "tôi quên mất",
     "viDef": "bị quên"
   },
   {
     "word": "terrible with",
     "ipa": "ˈtɛɹəbəl wɪð",
+    "type": "phrase",
+    "def": "bad at",
     "vi": "rất kém khoản",
     "viDef": "dở về việc gì đó"
   },
   {
     "word": "around there",
     "ipa": "ɚˈaʊnd ðɛɹ",
+    "type": "phrase",
+    "def": "close to there",
     "vi": "quanh đó",
     "viDef": "gần chỗ đó"
   },
   {
     "word": "to recognize",
     "ipa": "tu ˈɹɛkəɡˌnaɪz",
+    "type": "principle verb, imperative",
+    "def": "to know and remember someone or something you have seen before",
     "vi": "nhận ra",
     "viDef": "biết và nhớ ra người hoặc vật đã từng gặp"
   },
   {
     "word": "acquaintance",
     "ipa": "əˈkweɪntəns",
+    "type": "common noun, singular",
+    "def": "someone you know, but who is not a close friend",
     "vi": "người quen",
     "viDef": "người bạn biết nhưng không thân"
   },
   {
     "word": "in a rush",
     "ipa": "ɪn ə ɹʌʃ",
+    "type": "phrase",
+    "def": "move quickly, not have much time",
     "vi": "đang vội",
     "viDef": "làm nhanh, không có nhiều thời gian"
   },
   {
     "word": "forgetful",
     "ipa": "fɔɹˈɡɛtfəl",
+    "type": "Adjective",
+    "def": "forgetting things easily",
     "vi": "hay quên",
     "viDef": "dễ quên mọi thứ"
   }

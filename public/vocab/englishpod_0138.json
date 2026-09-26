@@ -2,90 +2,120 @@
   {
     "word": "make a reservation",
     "ipa": "meɪk ə ˌɹɛzɚˈveɪʃən",
+    "type": "phrase",
+    "def": "to make an arrangement to hold something for later",
     "vi": "đặt chỗ trước",
     "viDef": "thu xếp để giữ thứ gì cho sau đó"
   },
   {
     "word": "have no",
     "ipa": "hæv noʊ",
+    "type": "phrase",
+    "def": "to not have any",
     "vi": "không còn cái nào",
     "viDef": "chẳng có gì cả"
   },
   {
     "word": "run out",
     "ipa": "ɹʌn aʊt",
+    "type": "phrase",
+    "def": "to have no more",
     "vi": "hết",
     "viDef": "không còn nữa"
   },
   {
     "word": "you better",
     "ipa": "ju ˈbɛtɚ",
+    "type": "phrase",
+    "def": "you should",
     "vi": "tốt nhất anh/chị nên",
     "viDef": "nên làm thế đi"
   },
   {
     "word": "beat the hell out of",
     "ipa": "bit ðə hɛl aʊt ʌv",
+    "type": "phrase",
+    "def": "to purposefully abuse something",
     "vi": "quần cho tơi tả",
     "viDef": "cố tình dùng thứ gì rất thô bạo"
   },
   {
     "word": "mid-size vehicle",
     "ipa": "mɪd saɪz ˈvihɪkəl",
+    "type": "phrase",
+    "def": "a medium sized car",
     "vi": "xe cỡ trung",
     "viDef": "xe hơi hạng vừa"
   },
   {
     "word": "at the moment",
     "ipa": "æt ðə ˈmoʊmənt",
+    "type": "phrase",
+    "def": "at the present time",
     "vi": "hiện giờ",
     "viDef": "vào lúc này"
   },
   {
     "word": "compact",
     "ipa": "ˈkɑmpækt",
+    "type": "common noun, plural",
+    "def": "a small car",
     "vi": "xe cỡ nhỏ",
     "viDef": "xe hơi nhỏ gọn"
   },
   {
     "word": "SUV",
     "ipa": "ˌɛs ju ˈvi",
+    "type": "",
+    "def": "sport utility vehicle",
     "vi": "xe SUV",
     "viDef": "xe thể thao đa dụng"
   },
   {
     "word": "insurance",
     "ipa": "ˌɪnˈʃʊɹəns",
+    "type": "common noun, non-variable",
+    "def": "protection from costs of accidental damage",
     "vi": "bảo hiểm",
     "viDef": "sự che chắn khỏi phí tổn khi có hư hại ngoài ý muốn"
   },
   {
     "word": "rental agreement",
     "ipa": "ˈɹɛntəl əˈɡɹimənt",
+    "type": "phrase",
+    "def": "contract signed with details of car rental",
     "vi": "hợp đồng thuê xe",
     "viDef": "văn bản ký kết ghi chi tiết việc thuê xe"
   },
   {
     "word": "daily rate",
     "ipa": "ˈdeɪli ɹeɪt",
+    "type": "phrase",
+    "def": "the amount of money to be paid per day the car is rented",
     "vi": "giá theo ngày",
     "viDef": "số tiền phải trả cho mỗi ngày thuê xe"
   },
   {
     "word": "book",
     "ipa": "bʊk",
+    "type": "verb",
+    "def": "to make arrangements for later",
     "vi": "đặt trước",
     "viDef": "thu xếp cho lần sau"
   },
   {
     "word": "coverage",
     "ipa": "ˈkʌvɚədʒ",
+    "type": "common noun, non-variable",
+    "def": "the protection that is offered by an insurance policy",
     "vi": "phạm vi bảo hiểm",
     "viDef": "mức che chắn mà hợp đồng bảo hiểm mang lại"
   },
   {
     "word": "leave a deposit",
     "ipa": "liv ə dəˈpɑzɪt",
+    "type": "phrase",
+    "def": "to leave money when you rent a car and that you get back if you return the car in good condition",
     "vi": "đặt cọc",
     "viDef": "gửi tiền khi thuê xe, trả xe nguyên vẹn thì được nhận lại"
   }

@@ -2,90 +2,120 @@
   {
     "word": "ASAP",
     "ipa": "ˈeɪˈɛˈseɪˈpi",
+    "type": "phrase",
+    "def": "as soon as possible",
     "vi": "càng sớm càng tốt",
     "viDef": "nhanh nhất có thể"
   },
   {
     "word": "tech",
     "ipa": "tɛk",
+    "type": "common noun, non-variable",
+    "def": "technology",
     "vi": "bên kỹ thuật",
     "viDef": "công nghệ, nhân viên kỹ thuật"
   },
   {
     "word": "toner",
     "ipa": "ˈtoʊnɚ",
+    "type": "common noun, non-variable",
+    "def": "ink used in a printer or photocopier",
     "vi": "mực in",
     "viDef": "mực dùng cho máy in hoặc máy photocopy"
   },
   {
     "word": "on (someone's) way",
     "ipa": "ɑn ˈsʌmwʌnz weɪ",
+    "type": "phrase",
+    "def": "while moving from one place to another",
     "vi": "đang trên đường",
     "viDef": "trong lúc đi từ nơi này sang nơi khác"
   },
   {
     "word": "break down",
     "ipa": "bɹeɪk daʊn",
+    "type": "verb",
+    "def": "suddenly stop working",
     "vi": "hỏng hóc",
     "viDef": "đột nhiên không chạy nữa"
   },
   {
     "word": "never mind",
     "ipa": "ˈnɛvɚ maɪnd",
+    "type": "phrase",
+    "def": "forget the last thing I said; don't worry about it",
     "vi": "thôi bỏ đi",
     "viDef": "quên câu vừa rồi đi, đừng lo"
   },
   {
     "word": "practical joke",
     "ipa": "ˈpɹæktəkəl dʒoʊk",
+    "type": "common noun, singular",
+    "def": "a joke where something is done, rather than said",
     "vi": "cú chơi khăm",
     "viDef": "trò đùa bằng hành động chứ không phải lời nói"
   },
   {
     "word": "ridiculous",
     "ipa": "ɹɪˈdɪkjələs",
+    "type": "Adjective",
+    "def": "very unreasonable or silly",
     "vi": "vô lý hết sức",
     "viDef": "rất vô lý hoặc ngớ ngẩn"
   },
   {
     "word": "malfunction",
     "ipa": "mælˈfʌŋkʃən",
+    "type": "common noun, singular",
+    "def": "a problem causing a thing to stop working properly",
     "vi": "sự cố hỏng hóc",
     "viDef": "lỗi làm thứ gì không chạy đúng nữa"
   },
   {
     "word": "bug",
     "ipa": "bʌɡ",
+    "type": "common noun, singular",
+    "def": "a technical problem that causes a computer or system to not work properly",
     "vi": "lỗi kỹ thuật",
     "viDef": "sự cố khiến máy hay hệ thống chạy sai"
   },
   {
     "word": "office equipment",
     "ipa": "ˈɔfɪs ɪˈkwɪpmənt",
+    "type": "common noun, non-variable",
+    "def": "tools used in an office",
     "vi": "thiết bị văn phòng",
     "viDef": "các máy móc dùng trong văn phòng"
   },
   {
     "word": "paper jam",
     "ipa": "ˈpeɪpɚ dʒæm",
+    "type": "common noun, singular",
+    "def": "paper getting stuck in a photocopier, fax machine, or printer",
     "vi": "kẹt giấy",
     "viDef": "giấy mắc trong máy photocopy, máy fax hay máy in"
   },
   {
     "word": "damage",
     "ipa": "ˈdæmədʒ",
+    "type": "verb",
+    "def": "break or harm something, make something not work properly, or not look perfect",
     "vi": "làm hư hại",
     "viDef": "làm hỏng, làm không chạy đúng hoặc mất đẹp"
   },
   {
     "word": "power surge",
     "ipa": "ˈpaʊɚ sɝdʒ",
+    "type": "common noun, singular",
+    "def": "an increase in electrical current that can damage electric equipment",
     "vi": "xung điện tăng vọt",
     "viDef": "dòng điện tăng đột ngột, có thể làm hỏng thiết bị"
   },
   {
     "word": "breakdown",
     "ipa": "ˈbɹeɪkdaʊn",
+    "type": "common noun, singular",
+    "def": "the act of a machine suddenly not working properly",
     "vi": "sự hỏng máy",
     "viDef": "việc máy bỗng chạy sai hoặc dừng hẳn"
   }

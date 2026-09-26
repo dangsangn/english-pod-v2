@@ -2,54 +2,72 @@
   {
     "word": "hang on a sec",
     "ipa": "hæŋ ɑn ə sɛk",
+    "type": "",
+    "def": "hold on",
     "vi": "chờ một giây",
     "viDef": "đợi chút"
   },
   {
     "word": "wait ages",
     "ipa": "weɪt ˈeɪdʒəz",
+    "type": "",
+    "def": "wait for a very long time",
     "vi": "chờ dài cổ",
     "viDef": "đợi rất lâu"
   },
   {
     "word": "hold up",
     "ipa": "hoʊld ʌp",
+    "type": "",
+    "def": "stuck",
     "vi": "bị kẹt lại",
     "viDef": "mắc lại, chưa đi được"
   },
   {
     "word": "I am terribly sorry",
     "ipa": "aɪ æm ˈtɛɹəbli ˈsɑɹi",
+    "type": "",
+    "def": "Very sorry",
     "vi": "tôi vô cùng xin lỗi",
     "viDef": "rất lấy làm tiếc"
   },
   {
     "word": "please excuse me",
     "ipa": "pliz ɪkˈskjus mi",
+    "type": "",
+    "def": "pardon",
     "vi": "xin thứ lỗi",
     "viDef": "mong bỏ qua cho"
   },
   {
     "word": "late",
     "ipa": "leɪt",
+    "type": "",
+    "def": "occurring, coming, or being after the usual or proper time",
     "vi": "muộn",
     "viDef": "xảy ra hoặc đến sau giờ thường lệ hay đúng lẽ"
   },
   {
     "word": "absent",
     "ipa": "ˈæbsənt",
+    "type": "",
+    "def": "not in a certain place at a given time",
     "vi": "vắng mặt",
     "viDef": "không có mặt ở một nơi vào một lúc nhất định"
   },
   {
     "word": "excuse",
     "ipa": "ɪkˈskjus",
+    "type": "",
+    "def": "to offer an apology for; seek to remove the blame of",
     "vi": "xin lỗi, biện bạch",
     "viDef": "đưa ra lời xin lỗi, tìm cách gỡ trách nhiệm"
   },
   {
     "word": "slack",
     "ipa": "slæk",
+    "type": "",
+    "def": "negligent; careless",
     "vi": "lơ là",
     "viDef": "cẩu thả, thiếu chú tâm"
   }

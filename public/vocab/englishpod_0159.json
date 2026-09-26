@@ -2,60 +2,80 @@
   {
     "word": "occasion",
     "ipa": "əˈkeɪʒən",
+    "type": "",
+    "def": "occasion",
     "vi": "dịp",
     "viDef": "lúc, cơ hội đặc biệt"
   },
   {
     "word": "dozen",
     "ipa": "ˈdʌzən",
+    "type": "",
+    "def": "a word used to describe twelve units",
     "vi": "một tá",
     "viDef": "từ chỉ mười hai đơn vị"
   },
   {
     "word": "recommend",
     "ipa": "ˌɹɛkəˈmɛnd",
+    "type": "",
+    "def": "say something deserves to be chosen",
     "vi": "gợi ý chọn",
     "viDef": "nói rằng thứ gì đáng được chọn"
   },
   {
     "word": "fragrance",
     "ipa": "ˈfɹeɪɡɹəns",
+    "type": "",
+    "def": "a scent or smell",
     "vi": "hương",
     "viDef": "mùi thơm"
   },
   {
     "word": "chubby",
     "ipa": "ˈtʃʌbi",
+    "type": "",
+    "def": "more polite way of calling someone fat",
     "vi": "tròn trịa",
     "viDef": "cách gọi nhã hơn khi nói ai mập"
   },
   {
     "word": "vase",
     "ipa": "veɪs",
+    "type": "",
+    "def": "a container for holding flowers, usually made of glass or porcelain",
     "vi": "bình hoa",
     "viDef": "đồ đựng hoa, thường bằng thủy tinh hoặc sứ"
   },
   {
     "word": "bouquet",
     "ipa": "buˈkeɪ",
+    "type": "",
+    "def": "a bunch of flowers tied together",
     "vi": "bó hoa",
     "viDef": "chùm hoa buộc lại với nhau"
   },
   {
     "word": "greenery",
     "ipa": "ˈɡɹinɚi",
+    "type": "",
+    "def": "the green plants in a bouquet that are not flowers, such as large leaves",
     "vi": "lá phụ trong bó hoa",
     "viDef": "phần cây xanh không phải hoa trong bó, như lá to"
   },
   {
     "word": "centerpiece",
     "ipa": "ˈsɛntɚˌpis",
+    "type": "",
+    "def": "a decorative object found at the center of a table, usually made of flowers",
     "vi": "đồ trang trí giữa bàn",
     "viDef": "vật đặt chính giữa bàn, thường kết bằng hoa"
   },
   {
     "word": "to suck up",
     "ipa": "tu sʌk ʌp",
+    "type": "",
+    "def": "to flatter someone excessively with words and gifts, in order to get on their good side",
     "vi": "nịnh cho được lòng",
     "viDef": "tán tụng quá mức bằng lời và quà để lấy lòng ai"
   }

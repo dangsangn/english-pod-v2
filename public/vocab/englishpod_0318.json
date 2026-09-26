@@ -2,66 +2,88 @@
   {
     "word": "pollen",
     "ipa": "ˈpɑlən",
+    "type": "",
+    "def": "the fertilizing element of flowering plants, consisting of fine, powdery, yellowish grains or spores",
     "vi": "phấn hoa",
     "viDef": "phần thụ phấn của cây có hoa, gồm những hạt mịn màu vàng nhạt"
   },
   {
     "word": "desensitize",
     "ipa": "dɪˈsɛnsəˌtaɪz",
+    "type": "",
+    "def": "to lessen the sensitiveness of",
     "vi": "giảm mẫn cảm",
     "viDef": "làm cho bớt nhạy cảm"
   },
   {
     "word": "allergic",
     "ipa": "əˈlɝdʒɪk",
+    "type": "",
+    "def": "have allergy towards something",
     "vi": "bị dị ứng",
     "viDef": "có dị ứng với thứ gì"
   },
   {
     "word": "affect",
     "ipa": "əˈfɛkt",
+    "type": "",
+    "def": "to act on; produce an effect or change in",
     "vi": "ảnh hưởng tới",
     "viDef": "tác động lên, gây ra thay đổi"
   },
   {
     "word": "dust",
     "ipa": "dʌst",
+    "type": "",
+    "def": "dry fine powdery material, such as particles of dirt, earth or pollen",
     "vi": "bụi",
     "viDef": "chất bột mịn khô như hạt đất, bùn hoặc phấn hoa"
   },
   {
     "word": "anaphylactic shock",
     "ipa": "ˌænəfəˈlæktɪk ʃɑk",
+    "type": "",
+    "def": "severe and sometimes fatal allergic reaction to a foreign substance such as bee venom",
     "vi": "sốc phản vệ",
     "viDef": "phản ứng dị ứng nặng, đôi khi gây tử vong, với một chất lạ như nọc ong"
   },
   {
     "word": "quarantine",
     "ipa": "ˈkwɔɹənˌtin",
+    "type": "",
+    "def": "a strict isolation imposed to prevent the spread of disease.",
     "vi": "cách ly",
     "viDef": "việc cô lập nghiêm ngặt để ngăn bệnh lây lan"
   },
   {
     "word": "sneeze",
     "ipa": "sniz",
+    "type": "",
+    "def": "to expel air and nasal secretions from the nose involuntarily",
     "vi": "hắt hơi",
     "viDef": "bật khí và dịch mũi ra ngoài không kìm được"
   },
   {
     "word": "hayfever",
     "ipa": "ˈheɪˌfivɚ",
+    "type": "",
+    "def": "an allergic reaction to pollen, dust",
     "vi": "viêm mũi dị ứng",
     "viDef": "phản ứng dị ứng với phấn hoa, bụi"
   },
   {
     "word": "reaction",
     "ipa": "ɹiˈækʃən",
+    "type": "",
+    "def": "action in response to some influence",
     "vi": "phản ứng",
     "viDef": "hành động đáp lại một tác động nào đó"
   },
   {
     "word": "contagious",
     "ipa": "kənˈteɪdʒəs",
+    "type": "",
+    "def": "capable of being transmitted by bodily contact with an infected person or object",
     "vi": "dễ lây",
     "viDef": "có thể truyền qua tiếp xúc với người hoặc vật đã nhiễm"
   }

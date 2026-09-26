@@ -1,0 +1,184 @@
+import { useEffect, useState } from 'react'
+import { X } from 'lucide-react'
+import classNames from 'classnames'
+import { formatDelay, previewDelay, RATINGS, schedule } from '../../lib/srs'
+import { buildQueue, rateCard, useSrs } from '../../lib/srsStore'
+import { speak } from '../../lib/speech'
+import { useNow } from '../../lib/hooks'
+import Flashcard from './Flashcard'
+import SessionSummary from './SessionSummary'
+import { RATING_STYLES } from './stages'
+
+// Learning cards answered in this session come back after a few other cards
+// rather than straight away, so the short-term memory has to do some work.
+const REQUEUE_GAP = 3
+
+export default function StudySession({ episodeId, episode, onExit }) {
+  const srs = useSrs()
+  const now = useNow()
+  const [queue, setQueue] = useState(() => buildQueue(srs, Date.now(), episodeId))
+  // `flipped` is which face is showing; `revealed` is whether the meaning has
+  // been seen at all. The card can be turned back and forth freely, and the
+  // rating buttons stay available once the answer has been revealed.
+  const [flipped, setFlipped] = useState(false)
+  const [revealed, setRevealed] = useState(false)
+  // Bumped on every answer: it keys the card so the same word shown twice in a
+  // row still remounts face-down, and re-triggers auto-speak.
+  const [turn, setTurn] = useState(0)
+  const [stats, setStats] = useState(() => ({
+    startedAt: Date.now(),
+    answers: 0,
+    forgotten: 0,
+    learned: 0,
+  }))
+
+  const card = queue.length ? srs.cards[queue[0]] : null
+  const autoSpeak = srs.settings.autoSpeak
+  const word = card?.word
+
+  useEffect(() => {
+    if (autoSpeak && word) speak(word)
+  }, [turn, word, autoSpeak])
+
+  const flip = () => {
+    setFlipped((f) => !f)
+    setRevealed(true)
+  }
+
+  // `force` is for the on-card Đã thuộc / Chưa thuộc buttons, which may be
+  // pressed without turning the card over first.
+  const rate = (rating, force = false) => {
+    if (!card || (!revealed && !force)) return
+    const answeredAt = Date.now()
+    const next = schedule(card, rating, answeredAt)
+    rateCard(card.id, rating, answeredAt)
+
+    setQueue((q) => {
+      const rest = q.slice(1)
+      if (next.state !== 'review') {
+        rest.splice(Math.min(rest.length, REQUEUE_GAP), 0, card.id)
+      }
+      return rest
+    })
+    setStats((s) => ({
+      ...s,
+      answers: s.answers + 1,
+      forgotten: s.forgotten + (rating === 'again' ? 1 : 0),
+      learned: s.learned + (card.state === 'new' ? 1 : 0),
+    }))
+    setFlipped(false)
+    setRevealed(false)
+    setTurn((t) => t + 1)
+  }
+
+  useEffect(() => {
+    const onKey = (e) => {
+      if (e.target instanceof HTMLInputElement) return
+      if (e.key === ' ' || e.key === 'Enter') {
+        e.preventDefault()
+        flip()
+      } else if (e.key === 'Escape') {
+        onExit()
+      } else if (revealed) {
+        const rating = RATINGS[Number(e.key) - 1]
+        if (rating) rate(rating)
+      }
+    }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  })
+
+  if (!card) {
+    return <SessionSummary stats={stats} onExit={onExit} />
+  }
+
+  // Remaining work by kind, Anki-style: blue new, rose learning, green review.
+  const remaining = { new: 0, learning: 0, review: 0 }
+  for (const id of new Set(queue)) {
+    const c = srs.cards[id]
+    if (!c) continue
+    if (c.state === 'new') remaining.new++
+    else if (c.state === 'review') remaining.review++
+    else remaining.learning++
+  }
+  const progress = stats.answers / (stats.answers + queue.length)
+
+  return (
+    <div className='min-h-full flex flex-col max-w-xl mx-auto px-4'>
+      <header className='h-16 flex items-center gap-3'>
+        <button
+          onClick={onExit}
+          title='Thoát (Esc)'
+          className='p-2 -ml-2 rounded-full text-zinc-500 hover:bg-black/5 dark:hover:bg-white/10'
+        >
+          <X size={22} />
+        </button>
+        <div className='flex-1 h-2.5 rounded-full bg-zinc-200/70 dark:bg-zinc-800 overflow-hidden'>
+          <div
+            className='h-full rounded-full bg-gradient-to-r from-pink-400 to-rose-500 transition-[width] duration-500'
+            style={{ width: `${Math.max(4, progress * 100)}%` }}
+          />
+        </div>
+        <div className='flex gap-2 text-sm font-bold tabular-nums'>
+          <span className='text-sky-500' title='Từ mới'>{remaining.new}</span>
+          <span className='text-rose-500' title='Đang học'>{remaining.learning}</span>
+          <span className='text-emerald-500' title='Cần ôn'>{remaining.review}</span>
+        </div>
+      </header>
+
+      {episode && (
+        <p className='text-center text-xs font-medium text-zinc-500 dark:text-zinc-400'>
+          Bài {episode.id} · {episode.title}
+        </p>
+      )}
+
+      <div className='flex-1 flex flex-col justify-center py-6'>
+        <Flashcard
+          key={turn}
+          card={card}
+          flipped={flipped}
+          canSwipe={revealed}
+          onFlip={flip}
+          onAnswer={(rating) => rate(rating, true)}
+        />
+      </div>
+
+      <footer className='pb-8 pt-2'>
+        {revealed ? (
+          <div className='grid grid-cols-4 gap-2 vocab-rise-in'>
+            {RATINGS.map((rating) => {
+              const style = RATING_STYLES[rating]
+              return (
+                <button
+                  key={rating}
+                  onClick={() => rate(rating)}
+                  className={classNames(
+                    'flex flex-col items-center gap-0.5 py-3 rounded-2xl border font-semibold active:scale-95 transition',
+                    style.className,
+                  )}
+                >
+                  <span>{style.label}</span>
+                  <span className='text-[11px] font-medium opacity-75'>
+                    {formatDelay(previewDelay(card, rating, now))}
+                  </span>
+                </button>
+              )
+            })}
+          </div>
+        ) : (
+          <button
+            onClick={flip}
+            className='w-full py-4 rounded-2xl bg-zinc-900 text-white dark:bg-white dark:text-zinc-900 font-bold text-base shadow-lg active:scale-[0.99] transition'
+          >
+            Hiện nghĩa
+          </button>
+        )}
+        <p className='mt-3 text-center text-xs text-zinc-400 hidden sm:block'>
+          {revealed
+            ? 'Space để lật lại · phím 1–4 để chấm · vuốt phải = Đã thuộc, vuốt trái = Chưa thuộc'
+            : 'Nhấn Space để lật thẻ'}
+        </p>
+      </footer>
+    </div>
+  )
+}

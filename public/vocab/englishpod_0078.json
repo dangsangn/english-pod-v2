@@ -2,114 +2,152 @@
   {
     "word": "national holiday",
     "ipa": "ˈnæʃənəl ˈhɑləˌdeɪ",
+    "type": "common noun, singular",
+    "def": "The day that all people in a country will be on holiday",
     "vi": "ngày lễ toàn quốc",
     "viDef": "ngày cả nước được nghỉ"
   },
   {
     "word": "comprehend",
     "ipa": "ˌkɑmpɹiˈhɛnd",
+    "type": "verb",
+    "def": "understand deeply",
     "vi": "thấu hiểu",
     "viDef": "hiểu sâu"
   },
   {
     "word": "settle down",
     "ipa": "ˈsɛtəl daʊn",
+    "type": "phrase",
+    "def": "relax, become calm",
     "vi": "lắng lại",
     "viDef": "thư giãn, trở nên bình tĩnh"
   },
   {
     "word": "aspect",
     "ipa": "ˈæspɛkt",
+    "type": "common noun, singular",
+    "def": "part",
     "vi": "phương diện",
     "viDef": "một phần, một mặt"
   },
   {
     "word": "genesis",
     "ipa": "ˈdʒɛnəsəs",
+    "type": "common noun, singular",
+    "def": "origin; beginning",
     "vi": "khởi nguồn",
     "viDef": "gốc gác, buổi đầu"
   },
   {
     "word": "appalling",
     "ipa": "əˈpɔlɪŋ",
+    "type": "Adjective",
+    "def": "terrible, horrible, shocking",
     "vi": "kinh khủng",
     "viDef": "tồi tệ, gây sốc"
   },
   {
     "word": "indifference",
     "ipa": "ˌɪnˈdɪfɚəns",
+    "type": "common noun, non-variable",
+    "def": "showing no interest in",
     "vi": "sự thờ ơ",
     "viDef": "tỏ ra chẳng quan tâm"
   },
   {
     "word": "hostility",
     "ipa": "hɑˈstɪləti",
+    "type": "common noun, non-variable",
+    "def": "the attitude of treating something as enemy",
     "vi": "sự thù địch",
     "viDef": "thái độ coi bên kia là kẻ thù"
   },
   {
     "word": "legislative",
     "ipa": "ˈlɛdʒəˌsleɪtɪv",
+    "type": "Adjective",
+    "def": "relating to legal system",
     "vi": "lập pháp",
     "viDef": "liên quan đến hệ thống luật"
   },
   {
     "word": "drastic",
     "ipa": "ˈdɹæstɪk",
+    "type": "Adjective",
+    "def": "sudden and severe",
     "vi": "quyết liệt, đột ngột",
     "viDef": "xảy ra thình lình và nặng nề"
   },
   {
     "word": "resolution",
     "ipa": "ˌɹɛzəˈluʃən",
+    "type": "common noun, singular",
+    "def": "a formal document stating the wishes of a group",
     "vi": "nghị quyết",
     "viDef": "văn bản chính thức nêu ý chí của một nhóm"
   },
   {
     "word": "constitute",
     "ipa": "ˈkɑnstəˌtut",
+    "type": "verb",
+    "def": "form, consist",
     "vi": "cấu thành",
     "viDef": "tạo nên, gồm có"
   },
   {
     "word": "brutality",
     "ipa": "bɹuˈtæləti",
+    "type": "common noun, non-variable",
+    "def": "violent treatment or behavior",
     "vi": "sự tàn bạo",
     "viDef": "hành vi hoặc cách đối xử bạo lực"
   },
   {
     "word": "fire into",
     "ipa": "ˈfaɪɚ ˈɪntu",
+    "type": "phrase",
+    "def": "shoot guns into a place",
     "vi": "nổ súng vào",
     "viDef": "bắn vào một chỗ"
   },
   {
     "word": "in commemoration of",
     "ipa": "ɪn kəˌmɛmɚˈeɪʃən ʌv",
+    "type": "phrase",
+    "def": "describing an event that is done to honor and remember a person or event in history/ in commemoration of",
     "vi": "để tưởng niệm",
     "viDef": "nói về sự kiện tổ chức nhằm vinh danh và tưởng nhớ một người hoặc một sự kiện lịch sử"
   },
   {
     "word": "proletariat",
     "ipa": "ˌpɹoʊləˈtɛɹiət",
+    "type": "common noun, singular",
+    "def": "the lowest socioeconomic class; workers",
     "vi": "giai cấp vô sản",
     "viDef": "tầng lớp thấp nhất về kinh tế - xã hội; người lao động"
   },
   {
     "word": "rally",
     "ipa": "ˈɹæli",
+    "type": "common noun, singular",
+    "def": "a public meeting of a large group of people to support or oppose something",
     "vi": "cuộc tuần hành",
     "viDef": "buổi tập trung đông người để ủng hộ hoặc phản đối điều gì"
   },
   {
     "word": "proclamation",
     "ipa": "ˌpɹɑkləˈmeɪʃən",
+    "type": "common noun, singular",
+    "def": "an offical statement made by a person who has power",
     "vi": "bản tuyên bố",
     "viDef": "lời công bố chính thức của người có quyền"
   },
   {
     "word": "memorial",
     "ipa": "məˈmɔɹiəl",
+    "type": "common noun, singular",
+    "def": "something like a statue, built to remember a person or event from history",
     "vi": "công trình tưởng niệm",
     "viDef": "tượng hoặc vật dựng lên để nhớ về người hay sự kiện lịch sử"
   }

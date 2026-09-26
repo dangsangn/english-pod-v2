@@ -2,66 +2,88 @@
   {
     "word": "get hold of",
     "ipa": "ɡɛt hoʊld ʌv",
+    "type": "verb",
+    "def": "find or contact someone",
     "vi": "liên lạc được",
     "viDef": "tìm hoặc bắt liên lạc với ai"
   },
   {
     "word": "decency",
     "ipa": "ˈdisənsi",
+    "type": "common noun, non-variable",
+    "def": "polite or moral behavior",
     "vi": "sự đứng đắn",
     "viDef": "cách xử sự lịch sự, có đạo lý"
   },
   {
     "word": "do you have any idea",
     "ipa": "du ju hæv ˈɛni aɪˈdiə",
+    "type": "phrase",
+    "def": "do you know",
     "vi": "anh có biết không",
     "viDef": "anh/chị có biết hay không"
   },
   {
     "word": "stand (someone) up",
     "ipa": "stænd ˈsʌmwʌn ʌp",
+    "type": "verb",
+    "def": "fail to keep the appointment to meet someone",
     "vi": "cho leo cây",
     "viDef": "hẹn rồi không đến"
   },
   {
     "word": "get your priorities straight",
     "ipa": "ɡɛt jɔɹ pɹaɪˈɔɹətiz stɹeɪt",
+    "type": "phrase",
+    "def": "realize what is more important",
     "vi": "xem lại cái gì quan trọng hơn",
     "viDef": "nhận ra điều gì cần ưu tiên"
   },
   {
     "word": "head",
     "ipa": "hɛd",
+    "type": "verb",
+    "def": "go towards a specified direction or place",
     "vi": "đi về hướng",
     "viDef": "tiến về phía hoặc nơi nào"
   },
   {
     "word": "break up",
     "ipa": "bɹeɪk ʌp",
+    "type": "verb",
+    "def": "end a relationship",
     "vi": "chia tay",
     "viDef": "kết thúc một mối quan hệ"
   },
   {
     "word": "cheat on (someone)",
     "ipa": "tʃit ɑn ˈsʌmwʌn",
+    "type": "verb",
+    "def": "kiss or have sex with someone who is not your boyfriend, girlfriend, wife or husband",
     "vi": "ngoại tình",
     "viDef": "thân mật với người không phải người yêu hay vợ/chồng mình"
   },
   {
     "word": "get back together",
     "ipa": "ɡɛt bæk təˈɡɛðɚ",
+    "type": "phrase",
+    "def": "restart a relationship that ended",
     "vi": "quay lại với nhau",
     "viDef": "nối lại mối quan hệ đã tan"
   },
   {
     "word": "ex-boyfriend",
     "ipa": "ɛks ˈbɔɪfɹɛnd",
+    "type": "common noun, singular",
+    "def": "person who used to be your boyfriend",
     "vi": "bạn trai cũ",
     "viDef": "người từng là bạn trai của mình"
   },
   {
     "word": "ex-girlfriend",
     "ipa": "ɛks ˈɡɝlfɹɛnd",
+    "type": "",
+    "def": "ex-girlfriend",
     "vi": "bạn gái cũ",
     "viDef": "người từng là bạn gái của mình"
   }

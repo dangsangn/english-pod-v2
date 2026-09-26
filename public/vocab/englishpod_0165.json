@@ -2,54 +2,72 @@
   {
     "word": "interest rate",
     "ipa": "ˈɪntɹəst ɹeɪt",
+    "type": "",
+    "def": "percentage of the money paid to you by the bank ou",
     "vi": "lãi suất",
     "viDef": "tỷ lệ phần trăm tiền lãi ngân hàng trả hoặc thu"
   },
   {
     "word": "general terms",
     "ipa": "ˈdʒɛnɚəl tɝmz",
+    "type": "",
+    "def": "common rules listed in an agreement",
     "vi": "điều khoản chung",
     "viDef": "các quy định thông thường ghi trong hợp đồng"
   },
   {
     "word": "calculate",
     "ipa": "ˈkælkjəˌleɪt",
+    "type": "",
+    "def": "measure",
     "vi": "tính toán",
     "viDef": "đo, tính ra"
   },
   {
     "word": "credit score",
     "ipa": "ˈkɹɛdət skɔɹ",
+    "type": "",
+    "def": "the score given to an individual to determine the",
     "vi": "điểm tín dụng",
     "viDef": "điểm đánh giá một người để xét khả năng trả nợ"
   },
   {
     "word": "mortgage",
     "ipa": "ˈmɔɹɡədʒ",
+    "type": "",
+    "def": "the transfer of an interest in property from a borrower to a lender as a security for a loan of money",
     "vi": "thế chấp",
     "viDef": "việc người vay chuyển quyền lợi trên tài sản cho bên cho vay làm bảo đảm"
   },
   {
     "word": "mortgage broker",
     "ipa": "ˈmɔɹɡədʒ ˈbɹoʊkɚ",
+    "type": "",
+    "def": "person who finds a lender for a homebuyer and brings them together with the goal of them originating a mortgage loan",
     "vi": "người môi giới vay thế chấp",
     "viDef": "người tìm bên cho vay cho khách mua nhà và kết nối hai bên để lập khoản vay"
   },
   {
     "word": "mortgage lender/banker",
     "ipa": "ˈmɔɹɡədʒ ˈlɛndɚ ˈbæŋkɚ",
+    "type": "",
+    "def": "originates and services a loan with a borrower",
     "vi": "bên cho vay thế chấp",
     "viDef": "nơi lập và quản lý khoản vay với người vay"
   },
   {
     "word": "foreclosure",
     "ipa": "fɔɹˈkloʊʒɚ",
+    "type": "",
+    "def": "when a homeowner is unable to make payments on the mortgage so the lender can seize and sell the property as agreed upon in the mortgage contract",
     "vi": "việc siết nhà",
     "viDef": "khi chủ nhà không trả được nợ, bên cho vay được thu giữ và bán tài sản như hợp đồng đã định"
   },
   {
     "word": "creditor",
     "ipa": "ˈkɹɛdətɚ",
+    "type": "",
+    "def": "someone who extends credit by giving permission for a loan if the borrower promises to pay it back at a later date",
     "vi": "chủ nợ",
     "viDef": "người cấp khoản vay khi bên vay hứa sẽ trả lại sau"
   }

@@ -2,54 +2,72 @@
   {
     "word": "vaccine",
     "ipa": "vækˈsin",
+    "type": "",
+    "def": "a medical substance that protects people or animals",
     "vi": "vắc-xin",
     "viDef": "chế phẩm y tế bảo vệ người hoặc động vật"
   },
   {
     "word": "Polio",
     "ipa": "ˈpoʊliˌoʊ",
+    "type": "",
+    "def": "acute viral disease, usually affecting children and young adults",
     "vi": "bệnh bại liệt",
     "viDef": "bệnh do virus, khởi phát cấp tính, thường gặp ở trẻ em và người trẻ"
   },
   {
     "word": "Tetanus",
     "ipa": "ˈtɛtənəs",
+    "type": "",
+    "def": "an infectious, often fatal disease caused by a specific bacterium that enters the body through wounds",
     "vi": "bệnh uốn ván",
     "viDef": "bệnh nhiễm trùng, thường gây tử vong, do một loại vi khuẩn xâm nhập cơ thể qua vết thương"
   },
   {
     "word": "Hepatitis",
     "ipa": "ˌhɛpəˈtaɪtəs",
+    "type": "",
+    "def": "inflammation of the liver, caused by a virus or a toxin",
     "vi": "viêm gan",
     "viDef": "tình trạng gan bị viêm, do virus hoặc do độc tố"
   },
   {
     "word": "Rubella",
     "ipa": "ɹuˈbɛlə",
+    "type": "",
+    "def": "a mild contagious viral disease characterized by fever, mild upper respiratory congestion, and a fine red rash lasting a few days",
     "vi": "bệnh rubella",
     "viDef": "bệnh virus lây nhẹ, biểu hiện là sốt, nghẹt đường hô hấp trên nhẹ và phát ban đỏ li ti kéo dài vài ngày"
   },
   {
     "word": "Chickenpox",
     "ipa": "ˈtʃɪkənpɑks",
+    "type": "",
+    "def": "A disease common of children, characterized by mild headache and fever, and eruption of blisters on the skin",
     "vi": "bệnh thủy đậu",
     "viDef": "bệnh thường gặp ở trẻ em, biểu hiện là nhức đầu nhẹ, sốt và nổi mụn nước trên da"
   },
   {
     "word": "Measles",
     "ipa": "ˈmizəlz",
+    "type": "",
+    "def": "an acute infectious disease occurring mostly in children. red spots being a common sympton",
     "vi": "bệnh sởi",
     "viDef": "bệnh nhiễm cấp tính, phần lớn gặp ở trẻ em, dấu hiệu thường thấy là các nốt đỏ"
   },
   {
     "word": "Mumps",
     "ipa": "mʌmps",
+    "type": "",
+    "def": "characterized by inflammatory swelling of the usually other salivary glands",
     "vi": "bệnh quai bị",
     "viDef": "bệnh làm sưng viêm các tuyến nước bọt"
   },
   {
     "word": "aminister",
     "ipa": "ədˈmɪnɪstɚ",
+    "type": "",
+    "def": "aminister",
     "vi": "chích ngừa, cho dùng",
     "viDef": "thực hiện việc tiêm hoặc cho dùng thuốc"
   }

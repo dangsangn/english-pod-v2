@@ -2,84 +2,112 @@
   {
     "word": "weigh",
     "ipa": "weɪ",
+    "type": "",
+    "def": "to find the weight of something",
     "vi": "cân",
     "viDef": "xác định khối lượng của thứ gì"
   },
   {
     "word": "up to",
     "ipa": "ʌp tu",
+    "type": "",
+    "def": "at least",
     "vi": "tới mức",
     "viDef": "ít nhất, cho tới"
   },
   {
     "word": "take",
     "ipa": "teɪk",
+    "type": "",
+    "def": "cost or require",
     "vi": "mất, tốn",
     "viDef": "đòi hoặc tiêu tốn"
   },
   {
     "word": "rush",
     "ipa": "ɹʌʃ",
+    "type": "",
+    "def": "to be in a hurry",
     "vi": "gửi gấp",
     "viDef": "đang gấp gáp"
   },
   {
     "word": "fragile",
     "ipa": "ˈfɹædʒəl",
+    "type": "",
+    "def": "easily broken or damaged",
     "vi": "dễ vỡ",
     "viDef": "dễ bị hư hoặc hỏng"
   },
   {
     "word": "via",
     "ipa": "ˈvaɪə",
+    "type": "",
+    "def": "travelling through a place on the way to somewhere",
     "vi": "qua ngả",
     "viDef": "đi qua một nơi trên đường tới chỗ khác"
   },
   {
     "word": "priority",
     "ipa": "pɹaɪˈɔɹəti",
+    "type": "",
+    "def": "to be treated as more important than something els",
     "vi": "ưu tiên",
     "viDef": "được xử lý trước những thứ khác"
   },
   {
     "word": "express",
     "ipa": "ɪkˈspɹɛs",
+    "type": "",
+    "def": "a service for carrying things faster than usual",
     "vi": "chuyển phát nhanh",
     "viDef": "dịch vụ chở nhanh hơn thường lệ"
   },
   {
     "word": "standard",
     "ipa": "ˈstændɚd",
+    "type": "",
+    "def": "usual or ordinary",
     "vi": "tiêu chuẩn thường",
     "viDef": "thông thường, bình thường"
   },
   {
     "word": "parcel",
     "ipa": "ˈpɑɹsəl",
+    "type": "",
+    "def": "something wrapped up; a package",
     "vi": "bưu kiện",
     "viDef": "thứ được bọc lại, một gói hàng"
   },
   {
     "word": "forwarder",
     "ipa": "ˈfɔɹwɚdɚ",
+    "type": "",
+    "def": "an agent that facilitates and assures the passage of received goods to their destination.",
     "vi": "đại lý giao nhận",
     "viDef": "bên lo và bảo đảm cho hàng nhận về tới đúng đích"
   },
   {
     "word": "postage",
     "ipa": "ˈpoʊstədʒ",
+    "type": "",
+    "def": "the charge for delivering a piece of mail",
     "vi": "tiền tem, cước gửi",
     "viDef": "khoản phí để chuyển một kiện thư"
   },
   {
     "word": "P.O Box",
     "ipa": "pi oʊ bɑks",
+    "type": "",
+    "def": "a numbered compartment in a post office where mail is put to be called for",
     "vi": "hộp thư bưu điện",
     "viDef": "ô có số ở bưu điện, thư được để vào đó cho người nhận tới lấy"
   },
   {
     "word": "ship",
     "ipa": "ʃɪp",
+    "type": "",
+    "def": "to place, transport, or travel on any conveyance, esp aboard a ship",
     "vi": "gửi hàng",
     "viDef": "đặt lên, chở đi hoặc đi bằng phương tiện nào, nhất là bằng tàu"
   }

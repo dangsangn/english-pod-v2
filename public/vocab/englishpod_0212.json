@@ -2,102 +2,136 @@
   {
     "word": "reside",
     "ipa": "ɹɪˈzaɪd",
+    "type": "",
+    "def": "live in a place permanently",
     "vi": "cư trú",
     "viDef": "sống thường trực ở một nơi"
   },
   {
     "word": "sound",
     "ipa": "saʊnd",
+    "type": "",
+    "def": "free from disease or injury ;in good condition",
     "vi": "minh mẫn, lành mạnh",
     "viDef": "không bệnh tật hay thương tích, ở trạng thái tốt"
   },
   {
     "word": "hereby",
     "ipa": "hɪɹˈbaɪ",
+    "type": "",
+    "def": "by means of or as a result of this",
     "vi": "nay bằng văn bản này",
     "viDef": "bởi hoặc theo văn bản này"
   },
   {
     "word": "last will and testament",
     "ipa": "læst wɪl ənd ˈtɛstəmənt",
+    "type": "",
+    "def": "a paper made to settle property after one's death",
     "vi": "di chúc",
     "viDef": "văn bản lập ra để định đoạt tài sản sau khi mình mất"
   },
   {
     "word": "remains",
     "ipa": "ɹɪˈmeɪnz",
+    "type": "",
+    "def": "the body of a dead person",
     "vi": "di hài",
     "viDef": "thân thể của người đã mất"
   },
   {
     "word": "summit",
     "ipa": "ˈsʌmət",
+    "type": "",
+    "def": "the highest point;top",
     "vi": "đỉnh cao nhất",
     "viDef": "điểm cao nhất, trên chóp"
   },
   {
     "word": "estate",
     "ipa": "ɪˈsteɪt",
+    "type": "",
+    "def": "everything you own;all your assets",
     "vi": "di sản, khối tài sản",
     "viDef": "toàn bộ những gì mình sở hữu"
   },
   {
     "word": "appoint",
     "ipa": "əˈpɔɪnt",
+    "type": "",
+    "def": "choose someone to do a particular job",
     "vi": "chỉ định",
     "viDef": "chọn ai để làm một việc nhất định"
   },
   {
     "word": "affix",
     "ipa": "ˈæfɪks",
+    "type": "",
+    "def": "add or append",
     "vi": "ký kèm, đính vào",
     "viDef": "thêm hoặc gắn vào"
   },
   {
     "word": "subscribe",
     "ipa": "səbˈskɹaɪb",
+    "type": "",
+    "def": "to sign at the end of the will or contract",
     "vi": "ký tên vào cuối",
     "viDef": "ký ở phần cuối di chúc hoặc hợp đồng"
   },
   {
     "word": "spouse",
     "ipa": "spaʊs",
+    "type": "",
+    "def": "a person's partner in marriage",
     "vi": "vợ hoặc chồng",
     "viDef": "người bạn đời trong hôn nhân"
   },
   {
     "word": "revoke",
     "ipa": "ɹɪˈvoʊk",
+    "type": "",
+    "def": "cancel",
     "vi": "thu hồi, hủy",
     "viDef": "bãi bỏ"
   },
   {
     "word": "Responsiblity",
     "ipa": "ɹɪˌspɑnsəˈbɪləti",
+    "type": "",
+    "def": "to be held accountable",
     "vi": "trách nhiệm",
     "viDef": "việc phải chịu phần đối với điều gì"
   },
   {
     "word": "Directions",
     "ipa": "dɚˈɛkʃənz",
+    "type": "",
+    "def": "A set of actions",
     "vi": "các chỉ dẫn",
     "viDef": "một tập hợp việc phải làm"
   },
   {
     "word": "Residence",
     "ipa": "ˈɹɛzɪdəns",
+    "type": "",
+    "def": "A person's house or dwelling",
     "vi": "nơi ở",
     "viDef": "nhà hoặc chỗ trú của một người"
   },
   {
     "word": "Donation",
     "ipa": "doʊˈneɪʃən",
+    "type": "",
+    "def": "To give something free of charge(usually of value)",
     "vi": "sự hiến tặng",
     "viDef": "việc cho không thứ gì, thường là có giá trị"
   },
   {
     "word": "Funeral",
     "ipa": "ˈfjunɚəl",
+    "type": "",
+    "def": "A celebration of a person's life after passing",
     "vi": "lễ tang",
     "viDef": "buổi tưởng niệm cuộc đời một người sau khi họ mất"
   }

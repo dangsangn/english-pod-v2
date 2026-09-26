@@ -2,144 +2,192 @@
   {
     "word": "woo",
     "ipa": "wu",
+    "type": "",
+    "def": "woo",
     "vi": "tán tỉnh",
     "viDef": "ra sức chinh phục ai"
   },
   {
     "word": "manager",
     "ipa": "ˈmænədʒɚ",
+    "type": "",
+    "def": "a person who manages an organization, company",
     "vi": "người quản lý",
     "viDef": "người điều hành một tổ chức, công ty"
   },
   {
     "word": "charming",
     "ipa": "ˈtʃɑɹmɪŋ",
+    "type": "",
+    "def": "delightful; pleasant; attractive",
     "vi": "dễ mến",
     "viDef": "thú vị, dễ chịu, hấp dẫn"
   },
   {
     "word": "interview",
     "ipa": "ˈɪntɚˌvju",
+    "type": "",
+    "def": "a conversation with or questioning of a person",
     "vi": "cuộc phỏng vấn",
     "viDef": "buổi trò chuyện hoặc hỏi đáp với một người"
   },
   {
     "word": "penniless",
     "ipa": "ˈpɛniləs",
+    "type": "",
+    "def": "very poor; almost totally without money",
     "vi": "không một xu",
     "viDef": "rất nghèo, hầu như chẳng còn tiền"
   },
   {
     "word": "salary",
     "ipa": "ˈsælɚi",
+    "type": "",
+    "def": "money paid by the employer each month",
     "vi": "tiền lương",
     "viDef": "khoản chủ trả mỗi tháng"
   },
   {
     "word": "career",
     "ipa": "kɚˈɪɹ",
+    "type": "",
+    "def": "profession that someone does for a long time",
     "vi": "nghề nghiệp",
     "viDef": "công việc người ta theo suốt thời gian dài"
   },
   {
     "word": "position",
     "ipa": "pəˈzɪʃən",
+    "type": "",
+    "def": "job, occupation",
     "vi": "vị trí công việc",
     "viDef": "chỗ làm, chức việc"
   },
   {
     "word": "gas station",
     "ipa": "ɡæs ˈsteɪʃən",
+    "type": "",
+    "def": "place where gasoline is sold",
     "vi": "trạm xăng",
     "viDef": "nơi bán xăng"
   },
   {
     "word": "attendant",
     "ipa": "əˈtɛndənt",
+    "type": "",
+    "def": "a person employed to provide a service",
     "vi": "nhân viên phục vụ",
     "viDef": "người được thuê để làm một dịch vụ"
   },
   {
     "word": "lowly",
     "ipa": "ˈloʊli",
+    "type": "",
+    "def": "humble or low in position",
     "vi": "thấp kém",
     "viDef": "khiêm nhường hoặc ở vị trí thấp"
   },
   {
     "word": "great",
     "ipa": "ɡɹeɪt",
+    "type": "",
+    "def": "great, or big people",
     "vi": "bậc lớn",
     "viDef": "người vĩ đại, có tầm"
   },
   {
     "word": "the",
     "ipa": "ðə",
+    "type": "",
+    "def": "the",
     "vi": "cái, con, người",
     "viDef": "mạo từ xác định trong tiếng Anh"
   },
   {
     "word": "uh-huh",
     "ipa": "ʌ hʌ",
+    "type": "",
+    "def": "a less emphatic variant of yes",
     "vi": "ừ hử",
     "viDef": "cách nói \"vâng\" nhẹ hơn"
   },
   {
     "word": "gasoline",
     "ipa": "ˈɡæsəˌlin",
+    "type": "",
+    "def": "petroleum fuel",
     "vi": "xăng",
     "viDef": "nhiên liệu từ dầu mỏ"
   },
   {
     "word": "job",
     "ipa": "dʒɑb",
+    "type": "",
+    "def": "regular work you do to earn money",
     "vi": "công việc",
     "viDef": "việc làm thường xuyên để kiếm tiền"
   },
   {
     "word": "listing",
     "ipa": "ˈlɪstɪŋ",
+    "type": "",
+    "def": "a database containing an ordered array of items",
     "vi": "bản danh sách",
     "viDef": "kho dữ liệu chứa các mục xếp theo thứ tự"
   },
   {
     "word": "browse",
     "ipa": "bɹaʊz",
+    "type": "",
+    "def": "to search for and read hypertext",
     "vi": "xem dạo",
     "viDef": "tìm và đọc các trang liên kết"
   },
   {
     "word": "employer",
     "ipa": "ɛmˈplɔɪɚ",
+    "type": "",
+    "def": "a person or firm who employs",
     "vi": "nhà tuyển dụng",
     "viDef": "người hoặc công ty thuê lao động"
   },
   {
     "word": "resume",
     "ipa": "ɹɪˈzum",
+    "type": "",
+    "def": "a summary of your academic and work history",
     "vi": "bản lý lịch",
     "viDef": "bản tóm về học vấn và quá trình làm việc"
   },
   {
     "word": "cover",
     "ipa": "ˈkʌvɚ",
+    "type": "",
+    "def": "put something on top of",
     "vi": "che, kèm ngoài",
     "viDef": "đặt lên trên thứ gì"
   },
   {
     "word": "letter",
     "ipa": "ˈlɛtɚ",
+    "type": "",
+    "def": "a written communication addressed to a person, com",
     "vi": "thư",
     "viDef": "văn bản gửi cho một người hoặc công ty"
   },
   {
     "word": "manager",
     "ipa": "ˈmænədʒɚ",
+    "type": "",
+    "def": "a person who manages an organization, company",
     "vi": "người quản lý",
     "viDef": "người điều hành một tổ chức, công ty"
   },
   {
     "word": "address",
     "ipa": "ˈædɹɛs",
+    "type": "",
+    "def": "put an address on an envelope",
     "vi": "ghi địa chỉ",
     "viDef": "viết địa chỉ lên phong bì"
   }

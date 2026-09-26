@@ -2,78 +2,104 @@
   {
     "word": "leftovers",
     "ipa": "ˈlɛfˌtoʊvɚz",
+    "type": "",
+    "def": "food remaining uneaten at the end of a meal",
     "vi": "đồ ăn thừa",
     "viDef": "thức ăn còn lại sau bữa"
   },
   {
     "word": "turkey",
     "ipa": "ˈtɝki",
+    "type": "",
+    "def": "a large American bird similar to the chicken",
     "vi": "gà tây",
     "viDef": "loài chim lớn ở châu Mỹ, giống gà"
   },
   {
     "word": "mix",
     "ipa": "mɪks",
+    "type": "",
+    "def": "of different kinds combined",
     "vi": "trộn lẫn",
     "viDef": "gồm nhiều loại khác nhau hợp lại"
   },
   {
     "word": "dice",
     "ipa": "daɪs",
+    "type": "",
+    "def": "to cut into small cubes",
     "vi": "cắt hạt lựu",
     "viDef": "cắt thành khối vuông nhỏ"
   },
   {
     "word": "bacteria",
     "ipa": "bækˈtɪɹiə",
+    "type": "",
+    "def": "small organisims",
     "vi": "vi khuẩn",
     "viDef": "các sinh vật nhỏ"
   },
   {
     "word": "germ",
     "ipa": "dʒɝm",
+    "type": "",
+    "def": "a microorganism",
     "vi": "mầm bệnh",
     "viDef": "một vi sinh vật"
   },
   {
     "word": "reheat",
     "ipa": "ˌɹiˈhit",
+    "type": "",
+    "def": "to make hot or warm again",
     "vi": "hâm nóng lại",
     "viDef": "làm nóng hoặc ấm lại"
   },
   {
     "word": "refrigerate",
     "ipa": "ɹɪˈfɹɪdʒɚˌeɪt",
+    "type": "",
+    "def": "to make or keep cold",
     "vi": "bỏ tủ lạnh",
     "viDef": "làm lạnh hoặc giữ lạnh"
   },
   {
     "word": "food poisoning",
     "ipa": "fud ˈpɔɪzənɪŋ",
+    "type": "",
+    "def": "becoming sick because of bacteria in food",
     "vi": "ngộ độc thực phẩm",
     "viDef": "bị ốm do vi khuẩn trong thức ăn"
   },
   {
     "word": "sanitary",
     "ipa": "ˈsænɪˌtɛɹi",
+    "type": "",
+    "def": "of or pertaining to health or the conditions affecting health",
     "vi": "hợp vệ sinh",
     "viDef": "liên quan tới sức khỏe hoặc các điều kiện ảnh hưởng tới sức khỏe"
   },
   {
     "word": "microwave",
     "ipa": "ˈmaɪkɹəˌweɪv",
+    "type": "",
+    "def": "to cook, defrost, or otherwise prepare in a microwave oven",
     "vi": "quay lò vi sóng",
     "viDef": "nấu, rã đông hoặc chế biến trong lò vi sóng"
   },
   {
     "word": "soap",
     "ipa": "soʊp",
+    "type": "",
+    "def": "a substance used for washing and cleansing purposes",
     "vi": "xà phòng",
     "viDef": "chất dùng để rửa và làm sạch"
   },
   {
     "word": "contaminate",
     "ipa": "kənˈtæməˌneɪt",
+    "type": "",
+    "def": "to make impure or unsuitable by contact or mixture with something unclean, bad",
     "vi": "làm nhiễm bẩn",
     "viDef": "làm cho không sạch hoặc không dùng được do dính hoặc trộn với thứ bẩn, xấu"
   }

@@ -2,66 +2,88 @@
   {
     "word": "resources",
     "ipa": "ˈɹisɔɹsɪz",
+    "type": "common noun, plural",
+    "def": "money",
     "vi": "nguồn lực, kinh phí",
     "viDef": "tiền"
   },
   {
     "word": "understaffed",
     "ipa": "ˈʌndɚˌstæft",
+    "type": "Adjective",
+    "def": "not enough people to do the job",
     "vi": "thiếu nhân sự",
     "viDef": "không đủ người để làm việc"
   },
   {
     "word": "the timing is just not right",
     "ipa": "ðə ˈtaɪmɪŋ ɪz dʒʌst nɑt ɹaɪt",
+    "type": "phrase",
+    "def": "it is not a good time now",
     "vi": "thời điểm chưa phù hợp",
     "viDef": "bây giờ không phải lúc thích hợp"
   },
   {
     "word": "weight off my shoulders",
     "ipa": "weɪt ɔf maɪ ˈʃoʊldɚz",
+    "type": "phrase",
+    "def": "remove pressure or stress",
     "vi": "trút được gánh nặng",
     "viDef": "gỡ bỏ áp lực hoặc căng thẳng"
   },
   {
     "word": "give me a hand",
     "ipa": "ɡɪv mi ə hænd",
+    "type": "phrase",
+    "def": "help",
     "vi": "giúp tôi một tay",
     "viDef": "giúp đỡ"
   },
   {
     "word": "that sounds reasonable",
     "ipa": "ðæt saʊndz ˈɹizənəbəl",
+    "type": "phrase",
+    "def": "is OK",
     "vi": "nghe hợp lý đấy",
     "viDef": "được, chấp nhận được"
   },
   {
     "word": "recruit",
     "ipa": "ɹəˈkɹut",
+    "type": "principle verb, infinitive",
+    "def": "hire",
     "vi": "tuyển dụng",
     "viDef": "thuê người"
   },
   {
     "word": "overworked",
     "ipa": "ˌoʊvɚˈwɝkt",
+    "type": "Adjective",
+    "def": "working too much",
     "vi": "làm việc quá sức",
     "viDef": "làm việc quá nhiều"
   },
   {
     "word": "short staffed",
     "ipa": "ʃɔɹt stæft",
+    "type": "Adjective",
+    "def": "not enough people to do the job",
     "vi": "thiếu người",
     "viDef": "không đủ nhân lực để làm việc"
   },
   {
     "word": "cut costs",
     "ipa": "kʌt kɑsts",
+    "type": "phrase",
+    "def": "reduce spending",
     "vi": "cắt giảm chi phí",
     "viDef": "giảm chi tiêu"
   },
   {
     "word": "overstaffed",
     "ipa": "ˈoʊvɚˌstæft",
+    "type": "Adjective",
+    "def": "having too many employees",
     "vi": "thừa nhân sự",
     "viDef": "có quá nhiều nhân viên"
   }

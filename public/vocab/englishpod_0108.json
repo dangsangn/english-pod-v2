@@ -2,120 +2,160 @@
   {
     "word": "gory details",
     "ipa": "ˈɡɔɹi dɪˈteɪlz",
+    "type": "phrase",
+    "def": "all the small details",
     "vi": "chi tiết cặn kẽ",
     "viDef": "mọi tình tiết nhỏ"
   },
   {
     "word": "lay it on me",
     "ipa": "leɪ ɪt ɑn mi",
+    "type": "phrase",
+    "def": "tell me the bad news",
     "vi": "nói thẳng đi",
     "viDef": "kể tin xấu cho tôi nghe"
   },
   {
     "word": "plunge",
     "ipa": "plʌndʒ",
+    "type": "verb",
+    "def": "drop down suddenly and quickly",
     "vi": "lao dốc",
     "viDef": "tụt xuống nhanh và bất ngờ"
   },
   {
     "word": "disastrous",
     "ipa": "dɪˈzæstɹəs",
+    "type": "Adjective",
+    "def": "very bad; having bad results",
     "vi": "thảm hại",
     "viDef": "rất tệ, dẫn tới kết quả xấu"
   },
   {
     "word": "in terms of",
     "ipa": "ɪn tɝmz ʌv",
+    "type": "phrase",
+    "def": "regarding, about",
     "vi": "về mặt",
     "viDef": "xét về, liên quan tới"
   },
   {
     "word": "(be) overstocked",
     "ipa": "bi ˈoʊvɚˈstɑkt",
+    "type": "verb",
+    "def": "having too many things to sell",
     "vi": "tồn hàng quá nhiều",
     "viDef": "còn quá nhiều hàng để bán"
   },
   {
     "word": "(be) overstaffed",
     "ipa": "bi ˈoʊvɚˌstæft",
+    "type": "verb",
+    "def": "have too many employees",
     "vi": "thừa nhân sự",
     "viDef": "có quá nhiều nhân viên"
   },
   {
     "word": "inventory",
     "ipa": "ˌɪnvənˈtɔɹi",
+    "type": "common noun, non-variable",
+    "def": "the amount of products you have to sell",
     "vi": "lượng hàng tồn",
     "viDef": "số sản phẩm đang có để bán"
   },
   {
     "word": "get rid of",
     "ipa": "ɡɛt ɹɪd ʌv",
+    "type": "",
+    "def": "remove or take away something that is annoying",
     "vi": "dẹp bỏ",
     "viDef": "bỏ đi thứ gây phiền"
   },
   {
     "word": "redundancies",
     "ipa": "ɹɪˈdʌndənsiz",
+    "type": "common noun, plural",
+    "def": "layoffs; ending employment of staff for money reasons",
     "vi": "các đợt cắt giảm",
     "viDef": "việc cho nhân viên thôi việc vì lý do tiền bạc"
   },
   {
     "word": "shoulder the cost",
     "ipa": "ˈʃoʊldɚ ðə kɑst",
+    "type": "verb",
+    "def": "be responsible for the cost",
     "vi": "gánh chi phí",
     "viDef": "chịu trách nhiệm trả khoản tốn đó"
   },
   {
     "word": "govern",
     "ipa": "ˈɡʌvɚn",
+    "type": "verb",
+    "def": "rule",
     "vi": "cai quản",
     "viDef": "điều hành, trị"
   },
   {
     "word": "for crying out loud",
     "ipa": "fɔɹ ˈkɹaɪɪŋ aʊt laʊd",
+    "type": "phrase",
+    "def": "used to express anger or annoyance",
     "vi": "trời đất ơi",
     "viDef": "câu thốt ra khi tức hoặc bực"
   },
   {
     "word": "chapter elven",
     "ipa": "ˈtʃæptɚ ɪˈlɛvən",
+    "type": "phrase",
+    "def": "bankruptcy; owing more money than you can pay",
     "vi": "phá sản theo chương 11",
     "viDef": "tình trạng nợ nhiều hơn khả năng trả"
   },
   {
     "word": "quality control",
     "ipa": "ˈkwɑləti kənˈtɹoʊl",
+    "type": "",
+    "def": "the process of controlling the quality of production (quality control)",
     "vi": "kiểm soát chất lượng",
     "viDef": "quy trình giám sát chất lượng sản xuất"
   },
   {
     "word": "broke",
     "ipa": "bɹoʊk",
+    "type": "Adjective",
+    "def": "having no money( informal)",
     "vi": "cháy túi",
     "viDef": "không còn tiền (thân mật)"
   },
   {
     "word": "hit rock bottom",
     "ipa": "hɪt ɹɑk ˈbɑtəm",
+    "type": "phrase",
+    "def": "The lowest possible level or absolute bottom",
     "vi": "xuống tận đáy",
     "viDef": "mức thấp nhất có thể"
   },
   {
     "word": "margin",
     "ipa": "ˈmɑɹdʒən",
+    "type": "common noun, singular",
+    "def": "the minimum return below which an enterprise becomes unprofitable",
     "vi": "biên lợi nhuận",
     "viDef": "mức lợi tối thiểu mà thấp hơn thì doanh nghiệp lỗ"
   },
   {
     "word": "revenue",
     "ipa": "ˈɹɛvəˌnu",
+    "type": "common noun, singular",
+    "def": "the entire amount of income before any deductions are made",
     "vi": "doanh thu",
     "viDef": "toàn bộ tiền thu vào trước khi trừ bất cứ khoản nào"
   },
   {
     "word": "skyrocket",
     "ipa": "ˈskaɪˌɹɑkət",
+    "type": "verb",
+    "def": "cause to rise rapidly and suddenly",
     "vi": "tăng vọt",
     "viDef": "làm dâng lên rất nhanh, đột ngột"
   }

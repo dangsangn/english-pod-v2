@@ -2,72 +2,96 @@
   {
     "word": "break up",
     "ipa": "bɹeɪk ʌp",
+    "type": "",
+    "def": "end a romantic relationship",
     "vi": "chia tay",
     "viDef": "kết thúc quan hệ tình cảm"
   },
   {
     "word": "talk about",
     "ipa": "tɔk əˈbaʊt",
+    "type": "",
+    "def": "to deliver or express in speech",
     "vi": "nói về",
     "viDef": "trình bày hoặc diễn đạt bằng lời"
   },
   {
     "word": "figure things out",
     "ipa": "ˈfɪɡjɚ θɪŋz aʊt",
+    "type": "",
+    "def": "think about something until understand",
     "vi": "nghĩ cho ra chuyện",
     "viDef": "nghĩ về việc gì cho đến khi hiểu ra"
   },
   {
     "word": "cliché",
     "ipa": "kliˈʃeɪ",
+    "type": "",
+    "def": "a saying or idea that is overused",
     "vi": "câu sáo cũ",
     "viDef": "lời hoặc ý bị dùng quá nhiều"
   },
   {
     "word": "hit a rough patch",
     "ipa": "hɪt ə ɹʌf pætʃ",
+    "type": "",
+    "def": "go through a difficult time",
     "vi": "gặp đoạn khó",
     "viDef": "trải qua một giai đoạn khó khăn"
   },
   {
     "word": "work out",
     "ipa": "wɝk aʊt",
+    "type": "",
+    "def": "solve, overcome",
     "vi": "giải quyết được",
     "viDef": "xử lý, vượt qua"
   },
   {
     "word": "get dumped",
     "ipa": "ɡɛt dʌmpt",
+    "type": "",
+    "def": "to have someone break up with you",
     "vi": "bị bỏ",
     "viDef": "bị người kia chia tay mình"
   },
   {
     "word": "honeymoon period",
     "ipa": "ˈhʌniˌmun ˈpɪɹiəd",
+    "type": "",
+    "def": "the time at the beginning of a relationship when everything is going well",
     "vi": "giai đoạn mật ngọt",
     "viDef": "thời gian đầu của quan hệ khi mọi thứ đều tốt đẹp"
   },
   {
     "word": "long-distance relationship",
     "ipa": "lɔŋ ˈdɪstəns ɹiˈleɪʃənˌʃɪp",
+    "type": "",
+    "def": "when two people live far away from each other but are in a relationship",
     "vi": "yêu xa",
     "viDef": "khi hai người sống cách xa nhau mà vẫn trong một quan hệ"
   },
   {
     "word": "blind date",
     "ipa": "blaɪnd deɪt",
+    "type": "",
+    "def": "when someone is set up to go on a date with a person he/she does not know",
     "vi": "buổi hẹn xem mắt",
     "viDef": "khi có người sắp xếp cho ai đi hẹn hò với người mình chưa biết"
   },
   {
     "word": "commitment",
     "ipa": "kəˈmɪtmənt",
+    "type": "",
+    "def": "responsibility and sincerity in a relationship",
     "vi": "sự cam kết",
     "viDef": "trách nhiệm và lòng thành trong quan hệ"
   },
   {
     "word": "casual dating",
     "ipa": "ˈkæʒəwəl ˈdeɪtɪŋ",
+    "type": "",
+    "def": "not dating to get married, just having fun, nothing serious",
     "vi": "hẹn hò thoải mái",
     "viDef": "hẹn hò không nhằm cưới xin, chỉ vui vẻ, không nghiêm túc"
   }

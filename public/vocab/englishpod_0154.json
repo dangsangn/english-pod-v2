@@ -2,30 +2,40 @@
   {
     "word": "instrument",
     "ipa": "ˈɪnstɹəmənt",
+    "type": "",
+    "def": "a device that is used to make music",
     "vi": "nhạc cụ",
     "viDef": "dụng cụ dùng để chơi nhạc"
   },
   {
     "word": "a thousand times",
     "ipa": "ə ˈθaʊzənd taɪmz",
+    "type": "",
+    "def": "many times",
     "vi": "cả nghìn lần",
     "viDef": "rất nhiều lần"
   },
   {
     "word": "form",
     "ipa": "fɔɹm",
+    "type": "",
+    "def": "create,organize",
     "vi": "lập ra",
     "viDef": "tạo, tổ chức nên"
   },
   {
     "word": "audition",
     "ipa": "ɑˈdɪʃən",
+    "type": "",
+    "def": "to take part in a trial performance",
     "vi": "thử vai, thử giọng",
     "viDef": "tham gia buổi diễn thử"
   },
   {
     "word": "we are set",
     "ipa": "wi ɑɹ sɛt",
+    "type": "",
+    "def": "we are ready",
     "vi": "thế là đủ bộ",
     "viDef": "chúng ta đã sẵn sàng"
   }

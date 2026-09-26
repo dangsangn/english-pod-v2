@@ -2,60 +2,80 @@
   {
     "word": "conference",
     "ipa": "ˈkɑnfɚəns",
+    "type": "",
+    "def": "a formal meeting where many people talk about ideas",
     "vi": "buổi họp",
     "viDef": "cuộc gặp chính thức để nhiều người cùng bàn về các ý tưởng"
   },
   {
     "word": "report",
     "ipa": "ɹiˈpɔɹt",
+    "type": "",
+    "def": "written document that provides information about something",
     "vi": "bản báo cáo",
     "viDef": "văn bản cung cấp thông tin về việc gì"
   },
   {
     "word": "discuss",
     "ipa": "dɪˈskʌs",
+    "type": "",
+    "def": "talk about",
     "vi": "bàn về",
     "viDef": "nói về"
   },
   {
     "word": "quarter",
     "ipa": "ˈkwɔɹtɚ",
+    "type": "",
+    "def": "one fourth of a calendar or fiscal year",
     "vi": "quý",
     "viDef": "một phần tư của năm dương lịch hoặc năm tài chính"
   },
   {
     "word": "budget",
     "ipa": "ˈbʌdʒɪt",
+    "type": "",
+    "def": "money available to spend",
     "vi": "ngân sách",
     "viDef": "khoản tiền có để chi"
   },
   {
     "word": "advertise",
     "ipa": "ˈædvɚˌtaɪz",
+    "type": "",
+    "def": "to announce or praise in order to raise awarness in a product or service",
     "vi": "quảng cáo",
     "viDef": "loan báo hoặc ca ngợi để người ta biết tới một sản phẩm hoặc dịch vụ"
   },
   {
     "word": "marketing",
     "ipa": "ˈmɑɹkətɪŋ",
+    "type": "",
+    "def": "act of buying or selling in a market",
     "vi": "tiếp thị",
     "viDef": "việc mua hoặc bán trên thị trường"
   },
   {
     "word": "publish",
     "ipa": "ˈpʌblɪʃ",
+    "type": "",
+    "def": "to issue publicly the work of",
     "vi": "công bố",
     "viDef": "phát hành ra công chúng tác phẩm của ai"
   },
   {
     "word": "segment",
     "ipa": "ˈsɛɡmənt",
+    "type": "",
+    "def": "a different group",
     "vi": "phân khúc",
     "viDef": "một nhóm khác"
   },
   {
     "word": "graph",
     "ipa": "ɡɹæf",
+    "type": "",
+    "def": "a diagram representing a system of connections or interrelations among two or more things",
     "vi": "biểu đồ",
     "viDef": "sơ đồ thể hiện mối nối hoặc quan hệ giữa hai thứ trở lên"
   }

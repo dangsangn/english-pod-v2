@@ -2,102 +2,136 @@
   {
     "word": "Don't just stand there",
     "ipa": "doʊnt dʒʌst stænd ðɛɹ",
+    "type": "phrase",
+    "def": "Do something. An action is required",
     "vi": "đừng đứng đó nữa",
     "viDef": "phải làm gì đi, cần có hành động"
   },
   {
     "word": "take a seat",
     "ipa": "teɪk ə sit",
+    "type": "phrase",
+    "def": "choose a place to sit",
     "vi": "ngồi xuống đi",
     "viDef": "chọn chỗ mà ngồi"
   },
   {
     "word": "trim",
     "ipa": "tɹɪm",
+    "type": "common noun, singular",
+    "def": "a short cut of hair to make one look clean",
     "vi": "tỉa gọn",
     "viDef": "cắt bớt tóc cho gọn gàng"
   },
   {
     "word": "fancy",
     "ipa": "ˈfænsi",
+    "type": "Adjective",
+    "def": "very fashionable",
     "vi": "bắt mắt, thời thượng",
     "viDef": "rất hợp thời trang"
   },
   {
     "word": "silky",
     "ipa": "ˈsɪlki",
+    "type": "Adjective",
+    "def": "resembling silk, very smooth",
     "vi": "mượt như tơ",
     "viDef": "giống lụa, rất mượt"
   },
   {
     "word": "shiny",
     "ipa": "ˈʃaɪni",
+    "type": "Adjective",
+    "def": "having a smooth and bright appearance",
     "vi": "bóng loáng",
     "viDef": "trông mịn và sáng"
   },
   {
     "word": "a million bucks",
     "ipa": "ə ˈmɪljən bʌks",
+    "type": "phrase",
+    "def": "Very good. To look great",
     "vi": "bảnh như triệu đô",
     "viDef": "trông cực ngon, rất đẹp"
   },
   {
     "word": "sideburns",
     "ipa": "ˈsaɪdbɝnz",
+    "type": "common noun, plural",
+    "def": "hair that grows on the sides of man",
     "vi": "tóc mai dài",
     "viDef": "phần tóc mọc ở hai bên má của người nam"
   },
   {
     "word": "curly",
     "ipa": "ˈkɝli",
+    "type": "Adjective",
+    "def": "hair in form of round shape",
     "vi": "xoăn",
     "viDef": "tóc uốn thành vòng"
   },
   {
     "word": "fluffy",
     "ipa": "ˈflʌfi",
+    "type": "Adjective",
+    "def": "soft",
     "vi": "bồng bềnh",
     "viDef": "mềm, xốp"
   },
   {
     "word": "grow out",
     "ipa": "ɡɹoʊ aʊt",
+    "type": "phrase",
+    "def": "grow long",
     "vi": "để dài ra",
     "viDef": "nuôi cho dài"
   },
   {
     "word": "afro",
     "ipa": "ˈæfɹoʊ",
+    "type": "common noun, singular",
+    "def": "a kind of hairstyle which very curly hair is formed into round ball",
     "vi": "tóc xù afro",
     "viDef": "kiểu tóc xoăn tít bung thành khối tròn"
   },
   {
     "word": "buzz cut",
     "ipa": "bʌz kʌt",
+    "type": "common noun, singular",
+    "def": "a type of hairstyle where the hair is cut very short with an electric razor",
     "vi": "tóc cạo húi cua",
     "viDef": "kiểu tóc cắt thật ngắn bằng tông đơ"
   },
   {
     "word": "Mohawk",
     "ipa": "ˈmoʊhɔk",
+    "type": "common noun, singular",
+    "def": "a hairstyle which consists of shaving both sides of the head, leaving a strip of noticeably longer hair on top",
     "vi": "tóc mào Mohawk",
     "viDef": "kiểu cạo hai bên đầu, chừa một dải tóc dài ở giữa"
   },
   {
     "word": "flat top",
     "ipa": "flæt tɑp",
+    "type": "common noun, singular",
+    "def": "a type of hairstyle where the hair on top is left a bit long and styled upwards, resulting in square looking haircut",
     "vi": "tóc dựng mặt phẳng",
     "viDef": "kiểu chừa tóc trên hơi dài, dựng lên cho đầu trông vuông"
   },
   {
     "word": "pony tail",
     "ipa": "ˈpoʊni teɪl",
+    "type": "common noun, singular",
+    "def": "in which most or all of the hair on the head is pulled away from the face, gathered and secured at the back of the head with a hair tie or clip and allowed to hang freely from that point",
     "vi": "tóc đuôi ngựa",
     "viDef": "kiểu vuốt hết tóc ra sau, buộc lại bằng dây hoặc kẹp cho rủ xuống"
   },
   {
     "word": "braid",
     "ipa": "bɹeɪd",
+    "type": "common noun, singular",
+    "def": "formed by intertwining three or more strands of hair so that the result is similar to a woven textile.",
     "vi": "bím tóc",
     "viDef": "kiểu bắt chéo ba lọn tóc trở lên thành dải như tấm dệt"
   }

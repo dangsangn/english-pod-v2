@@ -2,120 +2,160 @@
   {
     "word": "scattered",
     "ipa": "ˈskætɚd",
+    "type": "Adjective",
+    "def": "something that is spread all over an area",
     "vi": "rải rác",
     "viDef": "trải khắp một vùng"
   },
   {
     "word": "hover around",
     "ipa": "ˈhʌvɚ ɚˈaʊnd",
+    "type": "phrase",
+    "def": "stay near a certain level or place",
     "vi": "dao động quanh",
     "viDef": "giữ gần một mức hoặc một chỗ"
   },
   {
     "word": "come in from",
     "ipa": "kʌm ɪn fɹʌm",
+    "type": "phrase",
+    "def": "to enter or arrive from somehwere",
     "vi": "tràn vào từ",
     "viDef": "đi tới hoặc kéo đến từ đâu"
   },
   {
     "word": "forecast",
     "ipa": "ˈfɔɹkæst",
+    "type": "common noun, singular",
+    "def": "a statement of what will happen in the future",
     "vi": "bản dự báo",
     "viDef": "lời nói trước điều sẽ xảy ra"
   },
   {
     "word": "mixed bag",
     "ipa": "mɪkst bæɡ",
+    "type": "common noun, singular",
+    "def": "a collection of different kinds of things",
     "vi": "đủ thứ lẫn lộn",
     "viDef": "tập hợp nhiều loại khác nhau"
   },
   {
     "word": "cloud cover",
     "ipa": "klaʊd ˈkʌvɚ",
+    "type": "common noun, non-variable",
+    "def": "the amount of sky that is covered with cloud",
     "vi": "lượng mây che",
     "viDef": "phần trời bị mây phủ"
   },
   {
     "word": "call for",
     "ipa": "kɔl fɔɹ",
+    "type": "phrase",
+    "def": "saying that some type of weather will happen",
     "vi": "dự báo có",
     "viDef": "nói rằng sẽ có loại thời tiết nào"
   },
   {
     "word": "shower",
     "ipa": "ˈʃaʊɚ",
+    "type": "common noun, plural",
+    "def": "rainfall in a short time",
     "vi": "mưa rào",
     "viDef": "cơn mưa trong thời gian ngắn"
   },
   {
     "word": "cold front",
     "ipa": "koʊld fɹʌnt",
+    "type": "common noun, singular",
+    "def": "leading edge of a cooler and drier mass of air",
     "vi": "khối khí lạnh tràn về",
     "viDef": "mép trước của khối không khí lạnh và khô hơn"
   },
   {
     "word": "chilly",
     "ipa": "ˈtʃɪli",
+    "type": "Adjective",
+    "def": "very cold",
     "vi": "lạnh buốt",
     "viDef": "rất lạnh"
   },
   {
     "word": "isolated",
     "ipa": "ˈaɪsəˌleɪtəd",
+    "type": "Adjective",
+    "def": "limited to one area",
     "vi": "cục bộ",
     "viDef": "chỉ trong một khu vực"
   },
   {
     "word": "downpour",
     "ipa": "ˈdaʊnpɔɹ",
+    "type": "common noun, plural",
+    "def": "strong, sudden rain storm",
     "vi": "mưa như trút",
     "viDef": "cơn mưa lớn, đổ xuống thình lình"
   },
   {
     "word": "gust",
     "ipa": "ɡʌst",
+    "type": "common noun, singular",
+    "def": "strong, sudden increase in wind speed",
     "vi": "cơn gió giật",
     "viDef": "gió mạnh lên đột ngột"
   },
   {
     "word": "sleet",
     "ipa": "slit",
+    "type": "common noun, non-variable",
+    "def": "a mix of rain and snow",
     "vi": "mưa tuyết",
     "viDef": "mưa lẫn tuyết"
   },
   {
     "word": "partly-cloudy skies",
     "ipa": "ˈpɑɹtli ˈklaʊdi skaɪz",
+    "type": "phrase",
+    "def": "having some cloud and some sun",
     "vi": "trời có mây rải rác",
     "viDef": "lúc có mây lúc có nắng"
   },
   {
     "word": "hail",
     "ipa": "heɪl",
+    "type": "common noun, non-variable",
+    "def": "small balls of ice that fall from the sky",
     "vi": "mưa đá",
     "viDef": "những viên băng nhỏ rơi từ trời"
   },
   {
     "word": "drizzle",
     "ipa": "ˈdɹɪzəl",
+    "type": "common noun, non-variable",
+    "def": "light rain",
     "vi": "mưa lâm thâm",
     "viDef": "mưa nhẹ"
   },
   {
     "word": "hazy",
     "ipa": "ˈheɪzi",
+    "type": "Adjective",
+    "def": "describes when air is not clear becaause of fog or smog",
     "vi": "mù mịt",
     "viDef": "không khí đục vì sương hoặc khói bụi"
   },
   {
     "word": "fog",
     "ipa": "fɑɡ",
+    "type": "common noun, non-variable",
+    "def": "small drops of water that float in the air",
     "vi": "sương mù",
     "viDef": "những hạt nước nhỏ lơ lửng trong không khí"
   },
   {
     "word": "blizard",
     "ipa": "ˈblɪzɚd",
+    "type": "common noun, singular",
+    "def": "a very strong snow storm",
     "vi": "bão tuyết",
     "viDef": "cơn bão tuyết rất mạnh"
   }

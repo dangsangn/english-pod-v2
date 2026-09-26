@@ -2,60 +2,80 @@
   {
     "word": "amount to",
     "ipa": "əˈmaʊnt tu",
+    "type": "",
+    "def": "to turn out to be",
     "vi": "lên tới",
     "viDef": "hóa ra là, cộng lại thành"
   },
   {
     "word": "dramatically",
     "ipa": "dɹəˈmætɪkli",
+    "type": "",
+    "def": "in a sudden and extreme way",
     "vi": "đột biến rõ rệt",
     "viDef": "theo cách bất ngờ và mạnh"
   },
   {
     "word": "stand",
     "ipa": "stænd",
+    "type": "",
+    "def": "represent",
     "vi": "tượng trưng cho",
     "viDef": "đại diện"
   },
   {
     "word": "reap",
     "ipa": "ɹip",
+    "type": "",
+    "def": "to get something as a result of something",
     "vi": "thu về",
     "viDef": "nhận được điều gì nhờ một việc khác"
   },
   {
     "word": "cut-throat",
     "ipa": "kʌt θɹoʊt",
+    "type": "",
+    "def": "situation in which people compete in an unpleasant way",
     "vi": "cạnh tranh khốc liệt",
     "viDef": "tình thế mà người ta đua nhau theo cách chẳng dễ chịu"
   },
   {
     "word": "pie chart",
     "ipa": "paɪ tʃɑɹt",
+    "type": "",
+    "def": "a circular chart divided into sectors, illustrating proportion",
     "vi": "biểu đồ tròn",
     "viDef": "đồ thị hình tròn chia thành các phần, cho thấy tỉ lệ"
   },
   {
     "word": "bar graph",
     "ipa": "bɑɹ ɡɹæf",
+    "type": "",
+    "def": "a chart with rectangular bars with lengths proportional to the values that they represent.",
     "vi": "biểu đồ cột",
     "viDef": "đồ thị có các cột chữ nhật dài ngắn theo giá trị chúng thể hiện"
   },
   {
     "word": "line chart",
     "ipa": "laɪn tʃɑɹt",
+    "type": "",
+    "def": "a two-dimensional scatterplot of ordered observations where the observations are connected following their order.",
     "vi": "biểu đồ đường",
     "viDef": "đồ thị hai chiều gồm các điểm quan sát theo thứ tự được nối lại theo đúng trình tự"
   },
   {
     "word": "market share",
     "ipa": "ˈmɑɹkət ʃɛɹ",
+    "type": "",
+    "def": "the proportion of industry sales of a good or service that is controlled by a company.",
     "vi": "thị phần",
     "viDef": "tỉ lệ doanh số ngành của một hàng hóa hay dịch vụ mà một công ty nắm"
   },
   {
     "word": "sales forecast",
     "ipa": "seɪlz ˈfɔɹkæst",
+    "type": "",
+    "def": "the estimate of upcoming or future sales",
     "vi": "dự báo doanh số",
     "viDef": "mức bán dự tính cho thời gian tới"
   }

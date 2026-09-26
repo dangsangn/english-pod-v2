@@ -2,78 +2,104 @@
   {
     "word": "turn out",
     "ipa": "tɝn aʊt",
+    "type": "phrase",
+    "def": "to end up like",
     "vi": "hóa thành",
     "viDef": "kết cục lại thành ra như vậy"
   },
   {
     "word": "wonder",
     "ipa": "ˈwʌndɚ",
+    "type": "principle verb, present simple",
+    "def": "to think about",
     "vi": "nghĩ ngợi",
     "viDef": "suy nghĩ về điều gì"
   },
   {
     "word": "now that I think of it",
     "ipa": "naʊ ðæt aɪ θɪŋk ʌv ɪt",
+    "type": "phrase",
+    "def": "used to express a realization",
     "vi": "giờ nghĩ lại",
     "viDef": "câu nói khi chợt nhận ra điều gì"
   },
   {
     "word": "regret",
     "ipa": "ɹəˈɡɹɛt",
+    "type": "common noun, plural",
+    "def": "to feel sad or sorry about something",
     "vi": "hối tiếc",
     "viDef": "thấy buồn hoặc tiếc về điều gì"
   },
   {
     "word": "good life",
     "ipa": "ɡʊd laɪf",
+    "type": "phrase",
+    "def": "a happy and relaxed life",
     "vi": "đời sống sung túc",
     "viDef": "cuộc sống vui vẻ, thoải mái"
   },
   {
     "word": "could have been",
     "ipa": "kʊd hæv bɪn",
+    "type": "phrase",
+    "def": "an alternative scenario",
     "vi": "lẽ ra đã có thể",
     "viDef": "một khả năng khác đã có thể xảy ra"
   },
   {
     "word": "architecture",
     "ipa": "ˈɑɹkəˌtɛktʃɚ",
+    "type": "common noun, non-variable",
+    "def": "the art and science of designing buildings",
     "vi": "kiến trúc",
     "viDef": "nghệ thuật và khoa học thiết kế công trình"
   },
   {
     "word": "accident",
     "ipa": "ˈæksədənt",
+    "type": "common noun, singular",
+    "def": "a sudden event that is not planned",
     "vi": "tai nạn",
     "viDef": "việc xảy ra bất ngờ, ngoài dự tính"
   },
   {
     "word": "architect",
     "ipa": "ˈɑɹkəˌtɛkt",
+    "type": "common noun, singular",
+    "def": "a person who designs buildings",
     "vi": "kiến trúc sư",
     "viDef": "người thiết kế công trình"
   },
   {
     "word": "wreck",
     "ipa": "ɹɛk",
+    "type": "verb",
+    "def": "to ruin or destroy something (like a car)",
     "vi": "làm tan nát",
     "viDef": "phá hỏng thứ gì, chẳng hạn chiếc xe"
   },
   {
     "word": "remorse",
     "ipa": "ɹɪˈmɔɹs",
+    "type": "common noun, non-variable",
+    "def": "a feeling of guilt",
     "vi": "sự ăn năn",
     "viDef": "cảm giác thấy mình có lỗi"
   },
   {
     "word": "ponder",
     "ipa": "ˈpɑndɚ",
+    "type": "verb",
+    "def": "to think deeply about something",
     "vi": "ngẫm nghĩ",
     "viDef": "suy tư sâu về điều gì"
   },
   {
     "word": "reminisce",
     "ipa": "ˌɹɛməˈnɪs",
+    "type": "verb",
+    "def": "to think fondly about the past",
     "vi": "hồi tưởng",
     "viDef": "nghĩ về chuyện xưa với lòng trìu mến"
   }

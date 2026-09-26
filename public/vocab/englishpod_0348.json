@@ -2,60 +2,80 @@
   {
     "word": "facial",
     "ipa": "ˈfeɪʃəl",
+    "type": "",
+    "def": "a treatment to beautify the face.",
     "vi": "chăm sóc da mặt",
     "viDef": "liệu trình làm đẹp cho khuôn mặt"
   },
   {
     "word": "manicure",
     "ipa": "ˈmænɪkjɚ",
+    "type": "",
+    "def": "a cosmetic treatment of the hands and fingernails, including trimming and polishing of the nails.",
     "vi": "làm móng tay",
     "viDef": "liệu trình làm đẹp cho tay và móng tay, gồm cắt tỉa và đánh bóng móng"
   },
   {
     "word": "pedicure",
     "ipa": "ˈpɛdɪkjɚ",
+    "type": "",
+    "def": "professional care and treatment of the feet",
     "vi": "làm móng chân",
     "viDef": "việc chăm sóc và chữa trị bàn chân chuyên nghiệp"
   },
   {
     "word": "spa",
     "ipa": "spɑ",
+    "type": "",
+    "def": "a luxurious resort or resort hotel.",
     "vi": "spa",
     "viDef": "khu nghỉ dưỡng hoặc khách sạn nghỉ dưỡng sang trọng"
   },
   {
     "word": "exfoliate",
     "ipa": "ɛkˈsfoʊlieɪt",
+    "type": "",
+    "def": "to remove the surface of. such as skin and dirt",
     "vi": "tẩy tế bào chết",
     "viDef": "lấy đi lớp bề mặt, như da chết và bụi bẩn"
   },
   {
     "word": "sunscreen",
     "ipa": "sənˈskɹin",
+    "type": "",
+    "def": "a substance formulated to prevent sunburn, skin cancers, and other conditions caused by excessive exposure to the sun",
     "vi": "kem chống nắng",
     "viDef": "chất được bào chế để ngừa cháy nắng, ung thư da và các bệnh khác do phơi nắng quá nhiều"
   },
   {
     "word": "massage",
     "ipa": "məˈsɑʒ",
+    "type": "",
+    "def": "the act or art of treating the body by rubbing, kneading, patting",
     "vi": "xoa bóp",
     "viDef": "việc hoặc nghệ thuật chăm sóc cơ thể bằng cách xoa, nhồi, vỗ"
   },
   {
     "word": "tranquil",
     "ipa": "ˈtɹæŋkwəl",
+    "type": "",
+    "def": "free from commotion or tumult; peaceful; quiet",
     "vi": "tĩnh lặng",
     "viDef": "không xáo động hay ồn ào, yên bình"
   },
   {
     "word": "sunburn",
     "ipa": "ˈsʌnbɝn",
+    "type": "",
+    "def": "inflammation of the skin caused by overexposure to the sun or a sunlamp.",
     "vi": "cháy nắng",
     "viDef": "da bị viêm do phơi nắng hoặc đèn nắng quá nhiều"
   },
   {
     "word": "tan",
     "ipa": "tæn",
+    "type": "",
+    "def": "A brown color on the skin caused by the rays of the sun",
     "vi": "da rám nắng",
     "viDef": "màu nâu trên da do tia nắng gây ra"
   }

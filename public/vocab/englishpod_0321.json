@@ -2,66 +2,88 @@
   {
     "word": "combination",
     "ipa": "ˌkɑmbəˈneɪʃən",
+    "type": "",
+    "def": "the result of mixing two or more things together",
     "vi": "sự kết hợp",
     "viDef": "kết quả của việc trộn hai hay nhiều thứ với nhau"
   },
   {
     "word": "stuff",
     "ipa": "stʌf",
+    "type": "",
+    "def": "filled with food; no longer hungry",
     "vi": "no căng",
     "viDef": "ăn no rồi, không còn thấy đói"
   },
   {
     "word": "creative",
     "ipa": "kɹiˈeɪtɪv",
+    "type": "",
+    "def": "having the ability to think of new ideas",
     "vi": "sáng tạo",
     "viDef": "có khả năng nghĩ ra ý mới"
   },
   {
     "word": "foreigner",
     "ipa": "ˈfɔɹənɚ",
+    "type": "",
+    "def": "a person not native to or naturalized in the country or jurisdiction under consideration",
     "vi": "người nước ngoài",
     "viDef": "người không phải dân bản xứ hoặc chưa nhập tịch tại nơi đang nói tới"
   },
   {
     "word": "delicious",
     "ipa": "dɪˈlɪʃəs",
+    "type": "",
+    "def": "tasty",
     "vi": "ngon",
     "viDef": "có vị ngon"
   },
   {
     "word": "dish",
     "ipa": "dɪʃ",
+    "type": "",
+    "def": "food",
     "vi": "món ăn",
     "viDef": "thức ăn"
   },
   {
     "word": "Stir Fry",
     "ipa": "stɝ fɹaɪ",
+    "type": "",
+    "def": "technique for cooking food in a wok while stirring it",
     "vi": "xào",
     "viDef": "cách nấu thức ăn trong chảo lớn và đảo liên tục"
   },
   {
     "word": "Bitter",
     "ipa": "ˈbɪtɚ",
+    "type": "",
+    "def": "Having or being a taste that is sharp, acrid, and unpleasan",
     "vi": "đắng",
     "viDef": "có vị gắt, chát và khó chịu"
   },
   {
     "word": "Sour",
     "ipa": "ˈsaʊɚ",
+    "type": "",
+    "def": "Having a taste characteristic of that produced by acids; sharp, tart, or tangy",
     "vi": "chua",
     "viDef": "có vị đặc trưng của axit, gắt hoặc the"
   },
   {
     "word": "Fishcake",
     "ipa": "ˈfɪʃkeɪk",
+    "type": "",
+    "def": "A food consisting of a filleted fish and potato patty sometimes coated in breadcrumbs or batter",
     "vi": "chả cá",
     "viDef": "món gồm cá phi lê trộn khoai tây nặn miếng, có khi lăn bột hoặc vụn bánh mì"
   },
   {
     "word": "Tangy",
     "ipa": "ˈtæŋi",
+    "type": "",
+    "def": "A distinctively sharp taste, flavor, or odor, as that of orange juice.",
     "vi": "thanh the",
     "viDef": "vị, hương hoặc mùi sắc riêng, như của nước cam"
   }

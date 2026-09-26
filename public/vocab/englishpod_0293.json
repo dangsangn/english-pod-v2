@@ -2,114 +2,152 @@
   {
     "word": "camembert",
     "ipa": "ˈkæməmbɛɹ",
+    "type": "",
+    "def": "a type of cheese",
     "vi": "phô mai camembert",
     "viDef": "một loại phô mai"
   },
   {
     "word": "mild",
     "ipa": "maɪld",
+    "type": "",
+    "def": "soft, not strong",
     "vi": "nhẹ, dịu",
     "viDef": "mềm, không nồng"
   },
   {
     "word": "cheese",
     "ipa": "tʃiz",
+    "type": "",
+    "def": "solid product made from milk",
     "vi": "phô mai",
     "viDef": "sản phẩm đặc làm từ sữa"
   },
   {
     "word": "flavour",
     "ipa": "ˈfleɪvɚ",
+    "type": "",
+    "def": "the way something tastes",
     "vi": "vị",
     "viDef": "mùi vị của thứ gì"
   },
   {
     "word": "texture",
     "ipa": "ˈtɛkstʃɚ",
+    "type": "",
+    "def": "the way something feels",
     "vi": "kết cấu",
     "viDef": "cảm giác khi chạm vào thứ gì"
   },
   {
     "word": "moisture",
     "ipa": "ˈmɔɪstʃɚ",
+    "type": "",
+    "def": "a small quantity of water",
     "vi": "độ ẩm",
     "viDef": "lượng nước nhỏ"
   },
   {
     "word": "pasteurize",
     "ipa": "ˈpæstʃɚˌaɪz",
+    "type": "",
+    "def": "to destroy micro organisims via elevated temperaures",
     "vi": "thanh trùng",
     "viDef": "diệt vi sinh vật bằng cách nâng nhiệt độ"
   },
   {
     "word": "American",
     "ipa": "əˈmɛɹəkən",
+    "type": "",
+    "def": "Nationality",
     "vi": "phô mai Mỹ",
     "viDef": "chỉ quốc tịch"
   },
   {
     "word": "Colby",
     "ipa": "ˈkoʊlbi",
+    "type": "",
+    "def": "a type of cheese",
     "vi": "phô mai Colby",
     "viDef": "một loại phô mai"
   },
   {
     "word": "co-jack",
     "ipa": "koʊ dʒæk",
+    "type": "",
+    "def": "a type of cheese",
     "vi": "phô mai co-jack",
     "viDef": "một loại phô mai"
   },
   {
     "word": "quesco",
     "ipa": "ˈkeɪsoʊ",
+    "type": "",
+    "def": "a type of cheese",
     "vi": "phô mai queso",
     "viDef": "một loại phô mai"
   },
   {
     "word": "Parmesan",
     "ipa": "ˈpɑɹməˌzɑn",
+    "type": "",
+    "def": "a type of cheese",
     "vi": "phô mai Parmesan",
     "viDef": "một loại phô mai"
   },
   {
     "word": "Romano",
     "ipa": "ɹoʊˈmɑˌnoʊ",
+    "type": "",
+    "def": "a type of cheese",
     "vi": "phô mai Romano",
     "viDef": "một loại phô mai"
   },
   {
     "word": "Asiago",
     "ipa": "ˌɑsiˈɑɡoʊ",
+    "type": "",
+    "def": "a type of cheese",
     "vi": "phô mai Asiago",
     "viDef": "một loại phô mai"
   },
   {
     "word": "Swiss",
     "ipa": "swɪs",
+    "type": "",
+    "def": "a type of cheese",
     "vi": "phô mai Thụy Sĩ",
     "viDef": "một loại phô mai"
   },
   {
     "word": "Gruyere",
     "ipa": "ɡɹuˈjɛɹ",
+    "type": "",
+    "def": "a type of cheese",
     "vi": "phô mai Gruyère",
     "viDef": "một loại phô mai"
   },
   {
     "word": "blue",
     "ipa": "blu",
+    "type": "",
+    "def": "a type of cheese",
     "vi": "phô mai xanh",
     "viDef": "một loại phô mai"
   },
   {
     "word": "mature",
     "ipa": "məˈtʃʊɹ",
+    "type": "",
+    "def": "fully aged",
     "vi": "đã ủ chín",
     "viDef": "để lâu tới độ"
   },
   {
     "word": "organism",
     "ipa": "ˈɔɹɡəˌnɪzəm",
+    "type": "",
+    "def": "a form of life",
     "vi": "sinh vật",
     "viDef": "một dạng sống"
   }

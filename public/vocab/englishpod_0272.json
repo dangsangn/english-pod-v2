@@ -2,72 +2,96 @@
   {
     "word": "exhausted",
     "ipa": "ɪɡˈzɔstɪd",
+    "type": "",
+    "def": "very tired",
     "vi": "kiệt sức",
     "viDef": "rất mệt"
   },
   {
     "word": "hire",
     "ipa": "ˈhaɪɚ",
+    "type": "",
+    "def": "to give work",
     "vi": "thuê người",
     "viDef": "giao việc cho ai"
   },
   {
     "word": "nanny",
     "ipa": "ˈnæni",
+    "type": "",
+    "def": "a woman who is paid to care for a young child",
     "vi": "bảo mẫu",
     "viDef": "người nữ được trả tiền để trông trẻ nhỏ"
   },
   {
     "word": "chore",
     "ipa": "tʃɔɹ",
+    "type": "",
+    "def": "a small job that is done regularly",
     "vi": "việc nhà",
     "viDef": "công việc nhỏ phải làm thường xuyên"
   },
   {
     "word": "errand",
     "ipa": "ˈɛɹənd",
+    "type": "",
+    "def": "short journey that you take to do or get something",
     "vi": "việc chạy ra ngoài",
     "viDef": "chuyến đi ngắn để làm hoặc lấy thứ gì"
   },
   {
     "word": "juggle",
     "ipa": "ˈdʒʌɡəl",
+    "type": "",
+    "def": "to do several things at the same time",
     "vi": "xoay xở nhiều việc",
     "viDef": "làm nhiều việc cùng lúc"
   },
   {
     "word": "refer",
     "ipa": "ɹəˈfɝ",
+    "type": "",
+    "def": "to send someone to a person or place for treatment",
     "vi": "giới thiệu chuyển tới",
     "viDef": "gửi ai tới một người hoặc nơi để được chữa trị"
   },
   {
     "word": "Babysitter",
     "ipa": "ˈbeɪbiˌsɪtɚ",
+    "type": "",
+    "def": "A person that looks after kids when their parents are not home",
     "vi": "người trông trẻ",
     "viDef": "người coi con nhỏ khi cha mẹ không ở nhà"
   },
   {
     "word": "Domestic Help",
     "ipa": "dəˈmɛstɪk hɛlp",
+    "type": "",
+    "def": "Any person that is hired to work at a residence",
     "vi": "người giúp việc nhà",
     "viDef": "người được thuê làm việc tại một gia đình"
   },
   {
     "word": "Minimum Wage",
     "ipa": "ˈmɪnəməm weɪdʒ",
+    "type": "",
+    "def": "The lowest legal wage a person can earn either hourly or monthly",
     "vi": "lương tối thiểu",
     "viDef": "mức lương thấp nhất theo luật mà một người được trả theo giờ hoặc theo tháng"
   },
   {
     "word": "Maid",
     "ipa": "meɪd",
+    "type": "",
+    "def": "A woman that helps with the household chores such as cleaning and cooking",
     "vi": "người giúp việc nữ",
     "viDef": "người nữ giúp làm việc nhà như dọn dẹp và nấu ăn"
   },
   {
     "word": "Butler",
     "ipa": "ˈbʌtlɚ",
+    "type": "",
+    "def": "A man that helps with the household chores such as cleaning and cooking",
     "vi": "quản gia",
     "viDef": "người nam giúp làm việc nhà như dọn dẹp và nấu ăn"
   }

@@ -2,78 +2,104 @@
   {
     "word": "black market",
     "ipa": "blæk ˈmɑɹkət",
+    "type": "",
+    "def": "any system in which goods are sold and bought ille",
     "vi": "chợ đen",
     "viDef": "hệ thống mua bán hàng hóa một cách trái phép"
   },
   {
     "word": "gullible",
     "ipa": "ˈɡʌləbəl",
+    "type": "",
+    "def": "easily believing something that is not true",
     "vi": "dễ tin",
     "viDef": "dễ tin vào điều không thật"
   },
   {
     "word": "urban legend",
     "ipa": "ˈɝbən ˈlɛdʒənd",
+    "type": "",
+    "def": "stories that are exaggerated or not true",
     "vi": "giai thoại thành thị",
     "viDef": "những câu chuyện bị thổi phồng hoặc không có thật"
   },
   {
     "word": "make up",
     "ipa": "meɪk ʌp",
+    "type": "",
+    "def": "invent",
     "vi": "bịa ra",
     "viDef": "tự nghĩ ra"
   },
   {
     "word": "subliminal",
     "ipa": "səˈblɪmɪnəl",
+    "type": "",
+    "def": "something that persuades in a sub conscious way",
     "vi": "tác động ngầm",
     "viDef": "thứ thuyết phục theo lối đi vào tiềm thức"
   },
   {
     "word": "satanic",
     "ipa": "səˈtænɪk",
+    "type": "",
+    "def": "relating to Satan or the devil",
     "vi": "thuộc về quỷ dữ",
     "viDef": "liên quan tới Satan hoặc ma quỷ"
   },
   {
     "word": "naive",
     "ipa": "naɪˈiv",
+    "type": "",
+    "def": "having or showing a lack of experience, judgment,",
     "vi": "ngây thơ",
     "viDef": "thiếu kinh nghiệm, thiếu phán đoán"
   },
   {
     "word": "far fetched",
     "ipa": "fɑɹ fɛtʃt",
+    "type": "",
+    "def": "improbable; not naturally pertinent",
     "vi": "xa vời khó tin",
     "viDef": "khó xảy ra, chẳng ăn nhập tự nhiên"
   },
   {
     "word": "Myth",
     "ipa": "mɪθ",
+    "type": "",
+    "def": "an untrue story",
     "vi": "chuyện hoang đường",
     "viDef": "câu chuyện không có thật"
   },
   {
     "word": "boogie man",
     "ipa": "ˈbuɡi mæn",
+    "type": "",
+    "def": "a fictional being that scares children",
     "vi": "ông ba bị",
     "viDef": "nhân vật hư cấu dùng để dọa trẻ con"
   },
   {
     "word": "cynical",
     "ipa": "ˈsɪnɪkəl",
+    "type": "",
+    "def": "a person who believes that only selfishness motivates human actions",
     "vi": "hoài nghi đời",
     "viDef": "người tin rằng chỉ có lòng ích kỷ mới thúc đẩy hành động của con người"
   },
   {
     "word": "grounded",
     "ipa": "ˈɡɹaʊndɪd",
+    "type": "",
+    "def": "quality of not letting emotions or impulses get the best of you",
     "vi": "vững vàng",
     "viDef": "phẩm chất không để cảm xúc hay bốc đồng lấn át"
   },
   {
     "word": "realist",
     "ipa": "ˈɹiəlɪst",
+    "type": "",
+    "def": "a person who tends to view or represent things as they really are.",
     "vi": "người thực tế",
     "viDef": "người có xu hướng nhìn nhận hoặc trình bày mọi thứ đúng như chúng vốn có"
   }

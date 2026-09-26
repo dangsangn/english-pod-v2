@@ -2,60 +2,80 @@
   {
     "word": "pigsty",
     "ipa": "ˈpɪɡstaɪ",
+    "type": "",
+    "def": "a dirty or untidy place",
     "vi": "như cái chuồng heo",
     "viDef": "chỗ bẩn thỉu hoặc bừa bộn"
   },
   {
     "word": "flush",
     "ipa": "flʌʃ",
+    "type": "",
+    "def": "to cause water to clean a toilet",
     "vi": "xả nước",
     "viDef": "cho nước dội rửa bồn cầu"
   },
   {
     "word": "gross",
     "ipa": "ɡɹoʊs",
+    "type": "",
+    "def": "disgusting",
     "vi": "gớm quá",
     "viDef": "kinh, đáng ghê"
   },
   {
     "word": "are you out of your mind",
     "ipa": "ɑɹ ju aʊt ʌv jɔɹ maɪnd",
+    "type": "",
+    "def": "saying to indicate someones idea or actions is unbelievable or crazy e.g are you out of your mind? you can't fight a bear!",
     "vi": "anh điên rồi à",
     "viDef": "câu nói khi thấy ý hoặc việc ai làm là khó tin hoặc điên rồ"
   },
   {
     "word": "neat freak",
     "ipa": "nit fɹik",
+    "type": "",
+    "def": "likes to have every element of their life tidy and in order",
     "vi": "người sạch sẽ quá mức",
     "viDef": "người muốn mọi thứ trong đời mình đều gọn gàng, đúng chỗ"
   },
   {
     "word": "dump",
     "ipa": "dʌmp",
+    "type": "",
+    "def": "an accumulation of discarded garbage",
     "vi": "bãi rác",
     "viDef": "chỗ rác thải chất đống"
   },
   {
     "word": "litter",
     "ipa": "ˈlɪtɚ",
+    "type": "",
+    "def": "scattered rubbish",
     "vi": "rác vụn",
     "viDef": "rác rưởi bị bỏ bừa"
   },
   {
     "word": "tidy",
     "ipa": "ˈtaɪdi",
+    "type": "",
+    "def": "neat, orderly, or trim",
     "vi": "ngăn nắp",
     "viDef": "gọn, có thứ tự, tươm tất"
   },
   {
     "word": "revolting",
     "ipa": "ɹiˈvoʊltɪŋ",
+    "type": "",
+    "def": "disgusting; repulsive",
     "vi": "kinh tởm",
     "viDef": "gớm ghiếc, đáng ghê"
   },
   {
     "word": "odour",
     "ipa": "ˈoʊdɚ",
+    "type": "",
+    "def": "smell, aroma",
     "vi": "mùi",
     "viDef": "mùi hương, mùi tỏa ra"
   }

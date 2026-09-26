@@ -2,90 +2,120 @@
   {
     "word": "married",
     "ipa": "ˈmɛɹid",
+    "type": "Adjective",
+    "def": "joined in marriage",
     "vi": "đã kết hôn",
     "viDef": "đã nên duyên vợ chồng"
   },
   {
     "word": "it's about time",
     "ipa": "ɪts əˈbaʊt taɪm",
+    "type": "phrase",
+    "def": "finally",
     "vi": "cũng đến lúc rồi",
     "viDef": "cuối cùng thì"
   },
   {
     "word": "bridesmaid",
     "ipa": "ˈbɹaɪdzmeɪd",
+    "type": "common noun, plural",
+    "def": "female friends or relatives who helps the bride at a wedding",
     "vi": "phù dâu",
     "viDef": "bạn gái hoặc người thân nữ giúp cô dâu trong đám cưới"
   },
   {
     "word": "aisle",
     "ipa": "aɪl",
+    "type": "common noun, singular",
+    "def": "a passage between sections of seats",
     "vi": "lối đi giữa hai hàng ghế",
     "viDef": "lối đi ngăn cách các dãy ghế"
   },
   {
     "word": "flower girl",
     "ipa": "ˈflaʊɚ ɡɝl",
+    "type": "common noun, singular",
+    "def": "a girl at a wedding that throws flower petals down the aisle",
     "vi": "bé gái rải hoa",
     "viDef": "bé gái rải cánh hoa dọc lối đi trong đám cưới"
   },
   {
     "word": "ring bearer",
     "ipa": "ɹɪŋ ˈbɛɹɚ",
+    "type": "common noun, singular",
+    "def": "a boy at a wedding that holds the wedding rings",
     "vi": "bé trai bưng nhẫn",
     "viDef": "bé trai giữ nhẫn cưới trong lễ"
   },
   {
     "word": "reception",
     "ipa": "ɹɪˈsɛpʃən",
+    "type": "common noun, singular",
+    "def": "party held to celebrate something or to welcome people",
     "vi": "tiệc chiêu đãi",
     "viDef": "bữa tiệc mừng hoặc đón khách"
   },
   {
     "word": "groom",
     "ipa": "ɡɹum",
+    "type": "common noun, singular",
+    "def": "a man who is about to be married",
     "vi": "chú rể",
     "viDef": "người đàn ông sắp cưới"
   },
   {
     "word": "bride",
     "ipa": "bɹaɪd",
+    "type": "common noun, singular",
+    "def": "female who is about to get married",
     "vi": "cô dâu",
     "viDef": "người phụ nữ sắp cưới"
   },
   {
     "word": "gorgeous",
     "ipa": "ˈɡɔɹdʒəs",
+    "type": "Adjective",
+    "def": "very beautiful or attractive",
     "vi": "lộng lẫy",
     "viDef": "rất đẹp, rất cuốn hút"
   },
   {
     "word": "groomsman",
     "ipa": "ˈɡɹumzmən",
+    "type": "common noun, singular",
+    "def": "male friend or relative who helps the groom on the wedding day",
     "vi": "phù rể",
     "viDef": "bạn trai hoặc người thân nam giúp chú rể ngày cưới"
   },
   {
     "word": "maid of honor",
     "ipa": "meɪd ʌv ˈɑnɚ",
+    "type": "common noun, singular",
+    "def": "female fiend or relative who acts as a witness at the wedding",
     "vi": "phù dâu chính",
     "viDef": "bạn nữ hoặc người thân nữ làm chứng trong lễ cưới"
   },
   {
     "word": "best man",
     "ipa": "bɛst mæn",
+    "type": "common noun, singular",
+    "def": "male friend or relative who acts as a witness at the wedding",
     "vi": "phù rể chính",
     "viDef": "bạn nam hoặc người thân nam làm chứng trong lễ cưới"
   },
   {
     "word": "ushers",
     "ipa": "ˈʌʃɚz",
+    "type": "common noun, plural",
+    "def": "men who help guest find their seats",
     "vi": "người hướng dẫn chỗ ngồi",
     "viDef": "những người giúp khách tìm chỗ ngồi"
   },
   {
     "word": "vows",
     "ipa": "vaʊz",
+    "type": "common noun, plural",
+    "def": "promises that the bride and groom make to each other during the wedding ceremony",
     "vi": "lời thề hôn ước",
     "viDef": "những lời hứa cô dâu và chú rể trao nhau trong lễ cưới"
   }

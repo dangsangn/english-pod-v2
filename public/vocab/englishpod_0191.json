@@ -2,30 +2,40 @@
   {
     "word": "rotation",
     "ipa": "ɹoʊˈteɪʃən",
+    "type": "",
+    "def": "turning",
     "vi": "sự quay",
     "viDef": "việc xoay vòng"
   },
   {
     "word": "daylight savings time",
     "ipa": "ˈdeɪlaɪt ˈseɪvɪŋz taɪm",
+    "type": "",
+    "def": "one hour earlier than standard time",
     "vi": "giờ tiết kiệm ánh sáng",
     "viDef": "sớm hơn giờ chuẩn một tiếng"
   },
   {
     "word": "compensate",
     "ipa": "ˈkɑmpənˌseɪt",
+    "type": "",
+    "def": "make amends to",
     "vi": "bù lại",
     "viDef": "đền cho phần thiếu"
   },
   {
     "word": "time zone",
     "ipa": "taɪm zoʊn",
+    "type": "",
+    "def": "a region where the same standard time is used",
     "vi": "múi giờ",
     "viDef": "vùng dùng cùng một giờ chuẩn"
   },
   {
     "word": "go back in time",
     "ipa": "ɡoʊ bæk ɪn taɪm",
+    "type": "",
+    "def": "be punctual to go back",
     "vi": "lùi giờ lại",
     "viDef": "quay về đúng mốc thời gian cũ"
   }

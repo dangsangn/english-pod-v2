@@ -2,66 +2,88 @@
   {
     "word": "passport",
     "ipa": "ˈpæspɔɹt",
+    "type": "",
+    "def": "A form of identification that allows someone to travel.",
     "vi": "hộ chiếu",
     "viDef": "loại giấy tờ tùy thân cho phép một người đi lại"
   },
   {
     "word": "arrival",
     "ipa": "ɚˈaɪvəl",
+    "type": "",
+    "def": "n act of arriving; a coming",
     "vi": "việc nhập cảnh",
     "viDef": "hành động tới nơi, sự đến"
   },
   {
     "word": "residence",
     "ipa": "ˈɹɛzɪdəns",
+    "type": "",
+    "def": "the place, esp. the house, in which a person lives or resides; dwelling place; home",
     "vi": "nơi cư trú",
     "viDef": "chỗ, nhất là ngôi nhà, mà một người sống hoặc trú ngụ"
   },
   {
     "word": "traveller",
     "ipa": "ˈtɹævəlɚ",
+    "type": "",
+    "def": "a person or thing that travels.",
     "vi": "người đi lại",
     "viDef": "người hoặc vật đang di chuyển"
   },
   {
     "word": "declare",
     "ipa": "dɪˈklɛɹ",
+    "type": "",
+    "def": "to state something officially",
     "vi": "khai báo",
     "viDef": "trình bày điều gì một cách chính thức"
   },
   {
     "word": "purpose",
     "ipa": "ˈpɝpəs",
+    "type": "",
+    "def": "reason for doing something",
     "vi": "mục đích",
     "viDef": "lý do làm việc gì"
   },
   {
     "word": "vacation",
     "ipa": "veɪˈkeɪʃən",
+    "type": "",
+    "def": "have holidays",
     "vi": "đi nghỉ",
     "viDef": "nghỉ phép, đi chơi"
   },
   {
     "word": "metal detector",
     "ipa": "ˈmɛtəl dɪˈtɛktɚ",
+    "type": "",
+    "def": "an electronic device for detecting the presence of metal objects",
     "vi": "máy dò kim loại",
     "viDef": "thiết bị điện tử phát hiện có vật kim loại"
   },
   {
     "word": "luggage",
     "ipa": "ˈlʌɡədʒ",
+    "type": "",
+    "def": "baggage such as suit cases and personal belongings.",
     "vi": "hành lý",
     "viDef": "túi xách như vali và đồ dùng cá nhân"
   },
   {
     "word": "Terroist",
     "ipa": "ˈtɛɹɚɪst",
+    "type": "",
+    "def": "a person, usually a member of a group, who uses or advocates terrorism.",
     "vi": "kẻ khủng bố",
     "viDef": "người, thường thuộc một nhóm, dùng hoặc cổ vũ hành vi khủng bố"
   },
   {
     "word": "body scanner",
     "ipa": "ˈbɑdi ˈskænɚ",
+    "type": "",
+    "def": "a device that virtually strip searches a person in order to look for hidden objects without physically removing clothes or making physical contact",
     "vi": "máy quét toàn thân",
     "viDef": "thiết bị soi người như lột đồ ảo để tìm vật giấu mà không cần cởi đồ hay chạm vào người"
   }

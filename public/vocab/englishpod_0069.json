@@ -2,90 +2,120 @@
   {
     "word": "bake",
     "ipa": "beɪk",
+    "type": "",
+    "def": "cook in the oven",
     "vi": "nướng lò",
     "viDef": "làm chín trong lò"
   },
   {
     "word": "muffin",
     "ipa": "ˈmʌfən",
+    "type": "common noun, plural",
+    "def": "a small break or cake people usually eat for breakfast",
     "vi": "bánh muffin",
     "viDef": "bánh nhỏ thường ăn vào bữa sáng"
   },
   {
     "word": "sunny-side up",
     "ipa": "ˈsʌni saɪd ʌp",
+    "type": "phrase",
+    "def": "with egg fried on only one side",
     "vi": "ốp la một mặt",
     "viDef": "trứng chiên chỉ một mặt"
   },
   {
     "word": "eggs and soldiers",
     "ipa": "ɛɡz ənd ˈsoʊldʒɚz",
+    "type": "phrase",
+    "def": "soft-boiled eggs with strips of buttered toast on it which people usually eat for breakfast",
     "vi": "trứng luộc lòng đào với bánh mì que",
     "viDef": "trứng luộc mềm ăn kèm bánh mì nướng phết bơ cắt que, thường cho bữa sáng"
   },
   {
     "word": "scrambled eggs",
     "ipa": "ˈskɹæmbəld ɛɡz",
+    "type": "common noun, non-variable",
+    "def": "a way of cooking eggs by mixing them in a pan",
     "vi": "trứng bác",
     "viDef": "trứng đánh tan rồi đảo trong chảo"
   },
   {
     "word": "soft boiled egg",
     "ipa": "sɑft bɔɪld ɛɡ",
+    "type": "phrase",
+    "def": "eggs cooked in the shell so the yellow part is still soft and wet",
     "vi": "trứng luộc lòng đào",
     "viDef": "trứng luộc cả vỏ, lòng đỏ còn mềm ướt"
   },
   {
     "word": "hard boiled egg",
     "ipa": "hɑɹd bɔɪld ɛɡ",
+    "type": "phrase",
+    "def": "egg cooked in the shell until the inside becomes solid",
     "vi": "trứng luộc chín kỹ",
     "viDef": "trứng luộc cả vỏ đến khi bên trong đặc lại"
   },
   {
     "word": "picky",
     "ipa": "ˈpɪki",
+    "type": "Adjective",
+    "def": "too careful at selecting things and usually hard to please",
     "vi": "kén chọn",
     "viDef": "quá kỹ tính khi chọn, khó làm cho hài lòng"
   },
   {
     "word": "egg",
     "ipa": "ɛɡ",
+    "type": "common noun, plural",
+    "def": "the egg of a bird (especially a chicken or a duck) people usually eat as food",
     "vi": "quả trứng",
     "viDef": "trứng của loài chim, nhất là gà hoặc vịt, dùng làm thức ăn"
   },
   {
     "word": "hen",
     "ipa": "hɛn",
+    "type": "common noun, singular",
+    "def": "female chicken",
     "vi": "gà mái",
     "viDef": "con gà cái"
   },
   {
     "word": "over-easy",
     "ipa": "ˈoʊvɚ ˈizi",
+    "type": "Adjective",
+    "def": "an egg friend on both sides; cooked so the yolk is still soft",
     "vi": "ốp la hai mặt lòng đào",
     "viDef": "trứng chiên trở cả hai mặt nhưng lòng đỏ vẫn mềm"
   },
   {
     "word": "omelette",
     "ipa": "ˈɑmlət",
+    "type": "common noun, singular",
+    "def": "eggs mixed, then cooked, and then folded in half;",
     "vi": "trứng ốp lết",
     "viDef": "trứng đánh tan, chiên rồi gấp đôi lại"
   },
   {
     "word": "yolk",
     "ipa": "joʊk",
+    "type": "common noun, singular",
+    "def": "the yellow part of the egg",
     "vi": "lòng đỏ",
     "viDef": "phần vàng của quả trứng"
   },
   {
     "word": "egg white",
     "ipa": "ɛɡ waɪt",
+    "type": "common noun, singular",
+    "def": "the white part of the egg",
     "vi": "lòng trắng",
     "viDef": "phần trắng của quả trứng"
   },
   {
     "word": "frying pan",
     "ipa": "ˈfɹaɪɪŋ pæn",
+    "type": "common noun, singular",
+    "def": "a large, flat pot used for cooking eggs and other things",
     "vi": "chảo chiên",
     "viDef": "chảo to, đáy phẳng để chiên trứng và món khác"
   }

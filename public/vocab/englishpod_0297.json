@@ -2,66 +2,88 @@
   {
     "word": "server",
     "ipa": "ˈsɝvɚ",
+    "type": "",
+    "def": "a waiter or waitress",
     "vi": "người phục vụ",
     "viDef": "nhân viên chạy bàn nam hoặc nữ"
   },
   {
     "word": "recommendation",
     "ipa": "ˌɹɛkəmənˈdeɪʃən",
+    "type": "",
+    "def": "a suggestion or proposal",
     "vi": "lời gợi ý",
     "viDef": "một đề xuất hoặc lời khuyên chọn"
   },
   {
     "word": "prawn",
     "ipa": "pɹɔn",
+    "type": "",
+    "def": "a large shrimp",
     "vi": "con tôm lớn",
     "viDef": "loại tôm to"
   },
   {
     "word": "fettuccine",
     "ipa": "ˌfɛtəˈtʃini",
+    "type": "",
+    "def": "pasta in the shape of long narrow strips",
     "vi": "mì fettuccine",
     "viDef": "mì Ý hình dải dài và hẹp"
   },
   {
     "word": "spaghetti",
     "ipa": "spəˈɡɛti",
+    "type": "",
+    "def": "pasta dish originally from Italy",
     "vi": "mì spaghetti",
     "viDef": "món mì có gốc từ nước Ý"
   },
   {
     "word": "penne",
     "ipa": "ˈpɛneɪ",
+    "type": "",
+    "def": "a type of Italian pasta",
     "vi": "mì penne",
     "viDef": "một loại mì ống của Ý"
   },
   {
     "word": "horse tripe",
     "ipa": "hɔɹs tɹaɪp",
+    "type": "",
+    "def": "the stomach of a horse used as food",
     "vi": "dạ dày ngựa",
     "viDef": "bao tử ngựa dùng làm thức ăn"
   },
   {
     "word": "parmesan",
     "ipa": "ˈpɑɹməˌzɑn",
+    "type": "",
+    "def": "a type of cheese, usually goes with spaghetti",
     "vi": "phô mai parmesan",
     "viDef": "loại phô mai thường ăn kèm mì spaghetti"
   },
   {
     "word": "pizza",
     "ipa": "ˈpitsə",
+    "type": "",
+    "def": "an Italian dish, round in shape",
     "vi": "bánh pizza",
     "viDef": "món Ý có dạng tròn"
   },
   {
     "word": "calzone",
     "ipa": "kælˈzoʊn",
+    "type": "",
+    "def": "a turnover made of pizza dough, usually containing cheese",
     "vi": "bánh calzone",
     "viDef": "bánh gấp làm từ bột pizza, thường có phô mai bên trong"
   },
   {
     "word": "ricotta",
     "ipa": "ɹiˈkɑtə",
+    "type": "",
+    "def": "a soft Italian cheese that resembles cottage cheese.",
     "vi": "phô mai ricotta",
     "viDef": "loại phô mai Ý mềm, gần giống phô mai tươi vụn"
   }

@@ -2,60 +2,80 @@
   {
     "word": "end up",
     "ipa": "ɛnd ʌp",
+    "type": "",
+    "def": "turned out or result in",
     "vi": "rồi hóa ra",
     "viDef": "kết cục lại thành, dẫn tới"
   },
   {
     "word": "in charge of",
     "ipa": "ɪn tʃɑɹdʒ ʌv",
+    "type": "",
+    "def": "be responsible for",
     "vi": "phụ trách",
     "viDef": "chịu trách nhiệm về việc gì"
   },
   {
     "word": "manage to",
     "ipa": "ˈmænədʒ tu",
+    "type": "",
+    "def": "be able to",
     "vi": "xoay xở làm được",
     "viDef": "có thể làm được"
   },
   {
     "word": "step down",
     "ipa": "stɛp daʊn",
+    "type": "",
+    "def": "a decrease or reduction in size or amount",
     "vi": "giảm bậc",
     "viDef": "sự hạ xuống về cỡ hoặc lượng"
   },
   {
     "word": "prospect",
     "ipa": "ˈpɹɑspɛkt",
+    "type": "",
+    "def": "a mental picture of something to come",
     "vi": "triển vọng",
     "viDef": "hình dung trong đầu về điều sắp tới"
   },
   {
     "word": "priority",
     "ipa": "pɹaɪˈɔɹəti",
+    "type": "",
+    "def": "to place importance over different objectives",
     "vi": "việc ưu tiên",
     "viDef": "đặt tầm quan trọng lên trên các mục tiêu khác"
   },
   {
     "word": "career",
     "ipa": "kɚˈɪɹ",
+    "type": "",
+    "def": "the specific area of work a person pursues",
     "vi": "con đường sự nghiệp",
     "viDef": "lĩnh vực công việc một người theo đuổi"
   },
   {
     "word": "quit",
     "ipa": "kwɪt",
+    "type": "",
+    "def": "to stop doing an activity",
     "vi": "bỏ, thôi",
     "viDef": "ngưng làm một việc"
   },
   {
     "word": "unemployed",
     "ipa": "ˌʌnɛmˈplɔɪd",
+    "type": "",
+    "def": "to not have a job",
     "vi": "thất nghiệp",
     "viDef": "không có việc làm"
   },
   {
     "word": "employable",
     "ipa": "ɛmˈplɔɪəbəl",
+    "type": "",
+    "def": "the ability to be employed",
     "vi": "có thể tuyển được",
     "viDef": "khả năng được nhận vào làm"
   }

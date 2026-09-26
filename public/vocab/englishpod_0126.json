@@ -2,60 +2,80 @@
   {
     "word": "open mic night",
     "ipa": "ˈoʊpən mɪk naɪt",
+    "type": "common noun, singular",
+    "def": "when a club or restaurant allows for anyone to sign or perform",
     "vi": "đêm diễn tự do",
     "viDef": "buổi mà quán cho bất cứ ai lên hát hoặc diễn"
   },
   {
     "word": "stand-up comedy",
     "ipa": "stænd ʌp ˈkɑmədi",
+    "type": "common noun, singular",
+    "def": "when someone performs comedy while standing on a stage",
     "vi": "tấu hài độc thoại",
     "viDef": "diễn hài một mình trên sân khấu"
   },
   {
     "word": "routine",
     "ipa": "ɹuˈtin",
+    "type": "common noun, singular",
+    "def": "a series of things (such as movements or jokes)",
     "vi": "bài diễn",
     "viDef": "chuỗi động tác hoặc câu chuyện cười đã tập"
   },
   {
     "word": "zinger",
     "ipa": "ˈzɪŋɚ",
+    "type": "common noun, plural",
+    "def": "a quick and clever comment that criticizes",
     "vi": "câu chọc sắc",
     "viDef": "lời nhận xét nhanh, khôn mà đá vào ai"
   },
   {
     "word": "heckler",
     "ipa": "ˈhɛklɚ",
+    "type": "common noun, plural",
+    "def": "someone who interrupts (someone, such as a speaker)",
     "vi": "kẻ chọc ngang",
     "viDef": "người xen vào cắt lời diễn giả"
   },
   {
     "word": "comeback",
     "ipa": "ˈkʌmbæk",
+    "type": "common noun, singular",
+    "def": "A reply to an insult; a witty retort.",
     "vi": "câu đáp trả",
     "viDef": "lời phản pháo lại một câu chọc, đáp lại thông minh"
   },
   {
     "word": "dis",
     "ipa": "dɪs",
+    "type": "principle verb, present simple",
+    "def": "insulting or in some other way defaming someone or something.",
     "vi": "nói hạ",
     "viDef": "lăng mạ hoặc dè bỉu ai"
   },
   {
     "word": "punk",
     "ipa": "pʌŋk",
+    "type": "principle verb, present simple",
+    "def": "to play a joke or prank someone",
     "vi": "chơi lỡm",
     "viDef": "trêu, gạt ai cho vui"
   },
   {
     "word": "mock",
     "ipa": "mɑk",
+    "type": "principle verb, present simple",
+    "def": "make fun of or laugh at someone",
     "vi": "nhại, chê cười",
     "viDef": "lấy ai ra làm trò cười"
   },
   {
     "word": "ad lib",
     "ipa": "æd lɪb",
+    "type": "General Adverb",
+    "def": "In an unrestrained manner; spontaneously.",
     "vi": "diễn tùy hứng",
     "viDef": "không theo bài, ứng khẩu"
   }

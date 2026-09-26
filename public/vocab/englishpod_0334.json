@@ -2,54 +2,72 @@
   {
     "word": "vacation",
     "ipa": "veɪˈkeɪʃən",
+    "type": "",
+    "def": "holiday",
     "vi": "kỳ nghỉ",
     "viDef": "ngày nghỉ"
   },
   {
     "word": "absolutely",
     "ipa": "ˌæbsəˈlutli",
+    "type": "",
+    "def": "to a complete degree",
     "vi": "hoàn toàn",
     "viDef": "ở mức trọn vẹn"
   },
   {
     "word": "awful",
     "ipa": "ˈɑfəl",
+    "type": "",
+    "def": "really bad",
     "vi": "tệ hại",
     "viDef": "rất tệ"
   },
   {
     "word": "plan",
     "ipa": "plæn",
+    "type": "",
+    "def": "To have something set to do in the future.",
     "vi": "dự tính",
     "viDef": "có việc đã định làm về sau"
   },
   {
     "word": "festival",
     "ipa": "ˈfɛstəvəl",
+    "type": "",
+    "def": "a day or time of religious or other celebration",
     "vi": "lễ hội",
     "viDef": "ngày hoặc dịp mừng của tôn giáo hay của một sự kiện khác"
   },
   {
     "word": "random",
     "ipa": "ˈɹændəm",
+    "type": "",
+    "def": "without definite aim, purpose, method",
     "vi": "ngẫu hứng",
     "viDef": "không có mục tiêu, chủ đích hoặc cách thức rõ ràng"
   },
   {
     "word": "terrible",
     "ipa": "ˈtɛɹəbəl",
+    "type": "",
+    "def": "extremely bad; horrible",
     "vi": "kinh khủng",
     "viDef": "cực kỳ tệ, khủng khiếp"
   },
   {
     "word": "parade",
     "ipa": "pɚˈeɪd",
+    "type": "",
+    "def": "a large public procession",
     "vi": "cuộc diễu hành",
     "viDef": "đoàn người đi rước lớn ngoài đường"
   },
   {
     "word": "unsure",
     "ipa": "ənˈʃʊɹ",
+    "type": "",
+    "def": "without sure knowledge; uncertain",
     "vi": "chưa chắc",
     "viDef": "không biết chắc, còn phân vân"
   }

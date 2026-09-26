@@ -2,102 +2,136 @@
   {
     "word": "come on in",
     "ipa": "kʌm ɑn ɪn",
+    "type": "phrase",
+    "def": "please come in",
     "vi": "vào đi",
     "viDef": "mời vào"
   },
   {
     "word": "tenant",
     "ipa": "ˈtɛnənt",
+    "type": "common noun, plural",
+    "def": "the person that rents a house",
     "vi": "người thuê nhà",
     "viDef": "người trả tiền thuê chỗ ở"
   },
   {
     "word": "mess",
     "ipa": "mɛs",
+    "type": "common noun, singular",
+    "def": "disorder, unorganized",
     "vi": "bừa bộn",
     "viDef": "lộn xộn, không ngăn nắp"
   },
   {
     "word": "landlord",
     "ipa": "ˈlændlɔɹd",
+    "type": "common noun, singular",
+    "def": "the owner of the apartment",
     "vi": "chủ nhà",
     "viDef": "người sở hữu căn hộ"
   },
   {
     "word": "airy",
     "ipa": "ˈɛɹi",
+    "type": "Adjective",
+    "def": "spacious so that air moves freely",
     "vi": "thoáng khí",
     "viDef": "rộng nên khí lưu thông tự do"
   },
   {
     "word": "square footage",
     "ipa": "skwɛɹ ˈfʊtɪdʒ",
+    "type": "common noun, non-variable",
+    "def": "showing how big one space is measured in feet",
     "vi": "diện tích tính theo foot vuông",
     "viDef": "con số cho biết chỗ đó rộng bao nhiêu"
   },
   {
     "word": "appliance",
     "ipa": "əˈplaɪəns",
+    "type": "common noun, plural",
+    "def": "electric equiptment found in a house",
     "vi": "thiết bị gia dụng",
     "viDef": "đồ điện dùng trong nhà"
   },
   {
     "word": "professional-grade",
     "ipa": "pɹəˈfɛʃənəl ɡɹeɪd",
+    "type": "Adjective",
+    "def": "good enough to satisfy professional use",
     "vi": "chuẩn nhà nghề",
     "viDef": "đủ tốt để dùng cho công việc chuyên môn"
   },
   {
     "word": "gas range",
     "ipa": "ɡæs ɹeɪndʒ",
+    "type": "common noun, singular",
+    "def": "a stove that uses gas to cook",
     "vi": "bếp gas",
     "viDef": "bếp dùng gas để nấu"
   },
   {
     "word": "spacious",
     "ipa": "ˈspeɪʃəs",
+    "type": "Adjective",
+    "def": "large; having lots of space",
     "vi": "rộng rãi",
     "viDef": "to, nhiều không gian"
   },
   {
     "word": "walk-in closet",
     "ipa": "wɔk ɪn ˈklɑzət",
+    "type": "common noun, singular",
+    "def": "a room contained in a bedroom for storing clothes",
     "vi": "phòng để quần áo",
     "viDef": "buồng nhỏ trong phòng ngủ để chứa áo quần"
   },
   {
     "word": "en suit bathroom",
     "ipa": "ɛn sut ˈbæθɹum",
+    "type": "common noun, singular",
+    "def": "a bathroom within the main bedroom",
     "vi": "nhà tắm trong phòng ngủ",
     "viDef": "phòng tắm nằm ngay trong phòng ngủ chính"
   },
   {
     "word": "attic",
     "ipa": "ˈætɪk",
+    "type": "common noun, singular",
+    "def": "a room or space that is just below the roof of a building and that is often used to store things",
     "vi": "gác mái",
     "viDef": "khoảng ngay dưới mái nhà, thường dùng để chứa đồ"
   },
   {
     "word": "basement",
     "ipa": "ˈbeɪsmənt",
+    "type": "common noun, singular",
+    "def": "the part of a building that is entirely or partly below the ground",
     "vi": "tầng hầm",
     "viDef": "phần tòa nhà nằm hẳn hoặc một phần dưới mặt đất"
   },
   {
     "word": "lawn",
     "ipa": "lɔn",
+    "type": "common noun, singular",
+    "def": "an area of ground (such as the ground around a house or in a garden or park) that is covered with short grass",
     "vi": "bãi cỏ",
     "viDef": "khoảng đất quanh nhà hoặc trong vườn phủ cỏ ngắn"
   },
   {
     "word": "real estate",
     "ipa": "ɹil ɪˈsteɪt",
+    "type": "common noun, singular",
+    "def": "the business of selling land and buildings",
     "vi": "bất động sản",
     "viDef": "nghề mua bán đất và nhà"
   },
   {
     "word": "lease",
     "ipa": "lis",
+    "type": "verb",
+    "def": "to allow someone to use (something) for a period of time in return for payment",
     "vi": "cho thuê",
     "viDef": "cho ai dùng thứ gì một thời gian và nhận tiền"
   }

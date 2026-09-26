@@ -2,60 +2,80 @@
   {
     "word": "beat around the bush",
     "ipa": "bit ɚˈaʊnd ðə bʊʃ",
+    "type": "",
+    "def": "avoid the subject by talking about something else",
     "vi": "nói vòng vo",
     "viDef": "né chủ đề bằng cách nói chuyện khác"
   },
   {
     "word": "raise",
     "ipa": "ɹeɪz",
+    "type": "",
+    "def": "increase in salary",
     "vi": "tăng lương",
     "viDef": "mức lương được nâng lên"
   },
   {
     "word": "take into consideration",
     "ipa": "teɪk ˈɪntu kənˌsɪdɚˈeɪʃən",
+    "type": "",
+    "def": "to think about something before making a decision",
     "vi": "cân nhắc đến",
     "viDef": "nghĩ tới điều gì trước khi quyết"
   },
   {
     "word": "offer",
     "ipa": "ˈɔfɚ",
+    "type": "",
+    "def": "give with the choice of accepting or rejecting",
     "vi": "đưa ra đề nghị",
     "viDef": "đề xuất để bên kia nhận hoặc từ chối"
   },
   {
     "word": "loyalty",
     "ipa": "ˈlɔɪəlti",
+    "type": "",
+    "def": "the quality of being loyal",
     "vi": "sự trung thành",
     "viDef": "phẩm chất một lòng với ai hoặc nơi nào"
   },
   {
     "word": "to demand",
     "ipa": "tu dɪˈmænd",
+    "type": "",
+    "def": "to request forcefully",
     "vi": "yêu cầu dứt khoát",
     "viDef": "đòi một cách cứng rắn"
   },
   {
     "word": "to move up the ladder",
     "ipa": "tu muv ʌp ðə ˈlædɚ",
+    "type": "",
+    "def": "to receive a promotion at work",
     "vi": "leo lên bậc cao hơn",
     "viDef": "được thăng chức ở nơi làm"
   },
   {
     "word": "promotion",
     "ipa": "pɹəˈmoʊʃən",
+    "type": "",
+    "def": "an offer of a better position at the same company",
     "vi": "sự thăng chức",
     "viDef": "lời đề nghị lên vị trí tốt hơn ở cùng công ty"
   },
   {
     "word": "demotion",
     "ipa": "dɪˈmoʊʃən",
+    "type": "",
+    "def": "being asked to do a less important job at the same company",
     "vi": "sự giáng chức",
     "viDef": "bị chuyển sang việc kém quan trọng hơn ở cùng công ty"
   },
   {
     "word": "initiative",
     "ipa": "ˌɪˈnɪʃətɪv",
+    "type": "",
+    "def": "deciding to take the first step; making a decision on one's own",
     "vi": "tính chủ động",
     "viDef": "việc tự bước ra làm trước, tự quyết định"
   }

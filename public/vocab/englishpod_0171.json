@@ -2,60 +2,80 @@
   {
     "word": "point-and-shoot",
     "ipa": "pɔɪnt ənd ʃut",
+    "type": "",
+    "def": "Any compact non-SLR camera with non-interchangeable lenses, using automatic settings and simplified controls. Generally desired by novices and casual users.",
     "vi": "máy ảnh compact",
     "viDef": "máy ảnh gọn, không phải SLR, ống kính liền, chế độ tự động và ít nút, phù hợp người mới hoặc dùng thường ngày"
   },
   {
     "word": "interest someone in",
     "ipa": "ˈɪntɹəst ˈsʌmwʌn ɪn",
+    "type": "",
+    "def": "try to persuade someone to buy, do, or eat something",
     "vi": "giới thiệu cho ai",
     "viDef": "cố thuyết phục ai mua, làm hoặc dùng thứ gì"
   },
   {
     "word": "lens",
     "ipa": "lɛnz",
+    "type": "",
+    "def": "a transparent optical device used to converge or diverge transmitted light and to form images",
     "vi": "thấu kính, ống kính",
     "viDef": "bộ phận quang học trong suốt để hội tụ hoặc phân tán ánh sáng và tạo ảnh"
   },
   {
     "word": "polarizing filter",
     "ipa": "ˈpoʊlɚˌaɪzɪŋ ˈfɪltɚ",
+    "type": "",
+    "def": "a camera lens filter used to control the plane of polarization of light entering the lens.",
     "vi": "kính lọc phân cực",
     "viDef": "kính lọc gắn ống kính để điều tiết mặt phẳng phân cực của ánh sáng vào máy"
   },
   {
     "word": "entry-level",
     "ipa": "ˈɛntɹi ˈlɛvəl",
+    "type": "",
+    "def": "simple and appropriate to an inexperienced person",
     "vi": "dành cho người mới",
     "viDef": "đơn giản, phù hợp người chưa có kinh nghiệm"
   },
   {
     "word": "tripod",
     "ipa": "ˈtɹaɪpɑd",
+    "type": "",
+    "def": "a three-legged stand for a camera",
     "vi": "chân máy ba càng",
     "viDef": "giá ba chân để đặt máy ảnh"
   },
   {
     "word": "filter",
     "ipa": "ˈfɪltɚ",
+    "type": "",
+    "def": "a lens screen of dyed gelatin or glass for controlling color or for diminishing the intensity of light",
     "vi": "kính lọc",
     "viDef": "tấm phim hoặc kính nhuộm màu để điều màu hay giảm cường độ sáng"
   },
   {
     "word": "exposure",
     "ipa": "ɪkˈspoʊʒɚ",
+    "type": "",
+    "def": "the process of light hitting a photosensitive surface, such as film or a digital image sensor",
     "vi": "độ phơi sáng",
     "viDef": "quá trình ánh sáng chiếu vào bề mặt cảm quang như phim hoặc cảm biến"
   },
   {
     "word": "shutter",
     "ipa": "ˈʃʌtɚ",
+    "type": "",
+    "def": "a mechanical device for opening and closing the aperture of a camera lens to expose film",
     "vi": "màn trập",
     "viDef": "bộ phận mở và đóng khẩu ống kính để phơi sáng phim"
   },
   {
     "word": "wide-angle lens",
     "ipa": "waɪd ˈæŋɡəl lɛnz",
+    "type": "",
+    "def": "a lens which has a wide coverage angle so it can take in a great deal of scene, usually any lens shorter than 42mm",
     "vi": "ống kính góc rộng",
     "viDef": "ống kính có góc thu rộng nên bắt được nhiều cảnh, thường là loại dưới 42mm"
   }

@@ -2,60 +2,80 @@
   {
     "word": "dry clean",
     "ipa": "dɹaɪ klin",
+    "type": "",
+    "def": "way to clean clothes without water using chemicals",
     "vi": "giặt khô",
     "viDef": "cách làm sạch quần áo bằng hóa chất, không dùng nước"
   },
   {
     "word": "spill",
     "ipa": "spɪl",
+    "type": "",
+    "def": "to allow something to fall from the container",
     "vi": "làm đổ",
     "viDef": "để thứ gì rơi ra khỏi vật đựng"
   },
   {
     "word": "stained",
     "ipa": "steɪnd",
+    "type": "",
+    "def": "marked or dyed or discolored with foreign matter",
     "vi": "bị vết bẩn",
     "viDef": "bị đánh dấu, loang màu do chất lạ"
   },
   {
     "word": "starch",
     "ipa": "stɑɹtʃ",
+    "type": "",
+    "def": "stiffen (clothes, etc) with starch",
     "vi": "hồ cứng",
     "viDef": "làm cứng quần áo bằng hồ"
   },
   {
     "word": "iron",
     "ipa": "ˈaɪɚn",
+    "type": "",
+    "def": "to smooth clothes with a heated iron",
     "vi": "ủi",
     "viDef": "là cho phẳng bằng bàn ủi nóng"
   },
   {
     "word": "delicate",
     "ipa": "ˈdɛləkət",
+    "type": "",
+    "def": "easily damaged",
     "vi": "dễ hư",
     "viDef": "dễ bị hỏng"
   },
   {
     "word": "fabric",
     "ipa": "ˈfæbɹɪk",
+    "type": "",
+    "def": "cloth",
     "vi": "vải",
     "viDef": "chất liệu vải"
   },
   {
     "word": "neighborhood",
     "ipa": "ˈneɪbɚˌhʊd",
+    "type": "",
+    "def": "the surrounding area",
     "vi": "khu quanh đây",
     "viDef": "vùng lân cận"
   },
   {
     "word": "to press",
     "ipa": "tu pɹɛs",
+    "type": "",
+    "def": "to iron",
     "vi": "ép ủi",
     "viDef": "là phẳng"
   },
   {
     "word": "hanger",
     "ipa": "ˈhæŋɚ",
+    "type": "",
+    "def": "a shoulder-shaped frame with a hook at the top for draping and hanging a piece of clothing when not in use",
     "vi": "móc áo",
     "viDef": "khung hình vai có móc trên đỉnh để treo quần áo khi không dùng"
   }

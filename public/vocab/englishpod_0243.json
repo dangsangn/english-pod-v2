@@ -2,72 +2,96 @@
   {
     "word": "package",
     "ipa": "ˈpækədʒ",
+    "type": "",
+    "def": "a group of services",
     "vi": "gói dịch vụ",
     "viDef": "một nhóm các dịch vụ"
   },
   {
     "word": "round-trip",
     "ipa": "ɹaʊnd tɹɪp",
+    "type": "",
+    "def": "travel both to the place and back again",
     "vi": "khứ hồi",
     "viDef": "đi tới nơi rồi về lại"
   },
   {
     "word": "complimentary",
     "ipa": "ˌkɑmpləˈmɛntɚi",
+    "type": "",
+    "def": "expressing a compliment",
     "vi": "khen ngợi",
     "viDef": "lời tỏ ý ngợi khen"
   },
   {
     "word": "accommodate",
     "ipa": "əˈkɑməˌdeɪt",
+    "type": "",
+    "def": "to provide room for (someone)",
     "vi": "sắp chỗ cho",
     "viDef": "lo chỗ cho ai"
   },
   {
     "word": "restore",
     "ipa": "ɹɪˈstɔɹ",
+    "type": "",
+    "def": "to return (something) to an original condition",
     "vi": "phục hồi",
     "viDef": "đưa thứ gì về lại trạng thái ban đầu"
   },
   {
     "word": "be sold",
     "ipa": "bi soʊld",
+    "type": "",
+    "def": "be persuaded to recognize the worth of",
     "vi": "thấy thuyết phục quá",
     "viDef": "bị làm cho tin vào giá trị của điều gì"
   },
   {
     "word": "getaway",
     "ipa": "ˈɡɛtəˌweɪ",
+    "type": "",
+    "def": "A place appropriate for a vacation.",
     "vi": "chuyến đi nghỉ",
     "viDef": "nơi thích hợp để nghỉ dưỡng"
   },
   {
     "word": "itenerary",
     "ipa": "aɪˈtɪnəˌɹɛɹi",
+    "type": "",
+    "def": "a written plan of events",
     "vi": "hành trình",
     "viDef": "bản kế hoạch các việc theo thứ tự"
   },
   {
     "word": "hotel suite",
     "ipa": "hoʊˈtɛl swit",
+    "type": "",
+    "def": "a luxury room above a standard room",
     "vi": "phòng suite",
     "viDef": "phòng hạng sang trên mức phòng thường"
   },
   {
     "word": "all inclusive",
     "ipa": "ɔl ˌɪnˈklusɪv",
+    "type": "",
+    "def": "a term used for everything provided free of charge",
     "vi": "bao trọn gói",
     "viDef": "từ dùng khi mọi thứ đều được cung cấp miễn phí"
   },
   {
     "word": "first class",
     "ipa": "fɝst klæs",
+    "type": "",
+    "def": "to travel in the luxury seating area",
     "vi": "hạng nhất",
     "viDef": "đi ở khu ghế hạng sang"
   },
   {
     "word": "king sized bed",
     "ipa": "kɪŋ saɪzd bɛd",
+    "type": "",
+    "def": "the largest bed one can request in a hotel",
     "vi": "giường cỡ king",
     "viDef": "giường lớn nhất có thể yêu cầu ở khách sạn"
   }

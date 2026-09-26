@@ -2,72 +2,96 @@
   {
     "word": "air conditioning",
     "ipa": "ɛɹ kənˈdɪʃənɪŋ",
+    "type": "",
+    "def": "something that makes the air cooler",
     "vi": "điều hòa",
     "viDef": "thứ làm cho không khí mát hơn"
   },
   {
     "word": "handyman",
     "ipa": "ˈhændiˌmæn",
+    "type": "",
+    "def": "a person who is skillful at doing small jobs",
     "vi": "thợ sửa chữa lặt vặt",
     "viDef": "người khéo tay làm được nhiều việc nhỏ"
   },
   {
     "word": "on top of that",
     "ipa": "ɑn tɑp ʌv ðæt",
+    "type": "",
+    "def": "besides that",
     "vi": "thêm nữa là",
     "viDef": "ngoài chuyện đó"
   },
   {
     "word": "clog up",
     "ipa": "klɑɡ ʌp",
+    "type": "",
+    "def": "becomes blocked",
     "vi": "bị nghẽn",
     "viDef": "trở nên tắc lại"
   },
   {
     "word": "wiring",
     "ipa": "ˈwaɪɹɪŋ",
+    "type": "",
+    "def": "the system of wires that carry electricity",
     "vi": "hệ dây điện",
     "viDef": "mạng dây dẫn điện"
   },
   {
     "word": "fall apart",
     "ipa": "fɔl əˈpɑɹt",
+    "type": "",
+    "def": "slowly break",
     "vi": "rệu rã",
     "viDef": "hỏng dần từng phần"
   },
   {
     "word": "gutter",
     "ipa": "ˈɡʌtɚ",
+    "type": "",
+    "def": "long, hollow device that is attached to a roof",
     "vi": "máng xối",
     "viDef": "ống dài rỗng gắn vào mái nhà"
   },
   {
     "word": "plumber",
     "ipa": "ˈplʌmɚ",
+    "type": "",
+    "def": "someone who installs the pipes, bathroom fixtures, and fixes toilets, sinks, etc.",
     "vi": "thợ nước",
     "viDef": "người lắp ống, thiết bị nhà tắm và sửa bồn cầu, bồn rửa..."
   },
   {
     "word": "electrician",
     "ipa": "ɪlɛkˈtɹɪʃən",
+    "type": "",
+    "def": "someone who works with the electric wiring of a building",
     "vi": "thợ điện",
     "viDef": "người làm về hệ dây điện của tòa nhà"
   },
   {
     "word": "plunger",
     "ipa": "ˈplʌndʒɚ",
+    "type": "",
+    "def": "a rubber device that helps to unclog toilets",
     "vi": "cây thông cầu",
     "viDef": "dụng cụ cao su giúp thông bồn cầu"
   },
   {
     "word": "insulation",
     "ipa": "ˌɪnsəˈleɪʃən",
+    "type": "",
+    "def": "material used to regulate temperature; keep a building warm in the winter and cool in the summer",
     "vi": "vật liệu cách nhiệt",
     "viDef": "vật liệu dùng điều hòa nhiệt độ, giữ nhà ấm về đông và mát về hè"
   },
   {
     "word": "gutter",
     "ipa": "ˈɡʌtɚ",
+    "type": "",
+    "def": "a channel on the side of a building or street that guides away surface water",
     "vi": "rãnh thoát nước",
     "viDef": "máng bên mé tòa nhà hoặc đường phố dẫn nước mặt đi"
   }

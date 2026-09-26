@@ -2,120 +2,160 @@
   {
     "word": "tantamount",
     "ipa": "ˈtæntəˌmaʊnt",
+    "type": "Adjective",
+    "def": "same as, equivalent to",
     "vi": "ngang như",
     "viDef": "tương đương với"
   },
   {
     "word": "fairly significant",
     "ipa": "ˈfɛɹli səɡˈnɪfɪkənt",
+    "type": "phrase",
+    "def": "very important or very relevant",
     "vi": "khá đáng kể",
     "viDef": "rất quan trọng hoặc rất liên quan"
   },
   {
     "word": "essentially",
     "ipa": "ɛˈsɛnʃəli",
+    "type": "General Adverb",
+    "def": "in essence, basically",
     "vi": "về cơ bản",
     "viDef": "nói cho gọn, thực chất"
   },
   {
     "word": "as a crutch",
     "ipa": "æz ə kɹʌtʃ",
+    "type": "phrase",
+    "def": "used to indicate you justify failure with excuses",
     "vi": "làm cái cớ tựa vào",
     "viDef": "lấy lý do để biện hộ cho thất bại"
   },
   {
     "word": "rationalize",
     "ipa": "ˈɹæʃənəˌlaɪz",
+    "type": "verb",
+    "def": "to explain bad behavior in a way that (falsely) makes it seem proper or better",
     "vi": "bào chữa cho hợp lý",
     "viDef": "giải thích hành vi xấu sao cho nghe như đúng"
   },
   {
     "word": "impact",
     "ipa": "ɪmˈpækt",
+    "type": "verb",
+    "def": "to have an effect on something",
     "vi": "ảnh hưởng tới",
     "viDef": "gây tác động lên điều gì"
   },
   {
     "word": "move forward",
     "ipa": "muv ˈfɔɹwɚd",
+    "type": "phrase",
+    "def": "continue, go on",
     "vi": "tiến lên",
     "viDef": "tiếp tục đi tới"
   },
   {
     "word": "unexpected",
     "ipa": "ˌʌnɪkˈspɛktɪd",
+    "type": "Adjective",
+    "def": "coming without warning",
     "vi": "bất ngờ",
     "viDef": "đến mà không báo trước"
   },
   {
     "word": "last minute",
     "ipa": "læst ˈmɪnət",
+    "type": "phrase",
+    "def": "at the last moment",
     "vi": "nước đến chân",
     "viDef": "vào lúc chót"
   },
   {
     "word": "procrastinate",
     "ipa": "pɹəˈkɹæstəˌneɪt",
+    "type": "verb",
+    "def": "leave tasks or duties for a later time",
     "vi": "chần chừ",
     "viDef": "để việc lại làm sau"
   },
   {
     "word": "pass the buck",
     "ipa": "pæs ðə bʌk",
+    "type": "phrase",
+    "def": "blame someone else, pass on the responsibility",
     "vi": "đẩy trách nhiệm",
     "viDef": "quy lỗi cho người khác, đùn việc"
   },
   {
     "word": "ultimately",
     "ipa": "ˈʌltəmətli",
+    "type": "General Adverb",
+    "def": "at last; in the end; eventually.",
     "vi": "sau cùng",
     "viDef": "cuối cùng thì"
   },
   {
     "word": "on my plate",
     "ipa": "ɑn maɪ pleɪt",
+    "type": "phrase",
+    "def": "another way of saying I have many things to do",
     "vi": "việc đầy trên vai",
     "viDef": "cách nói mình đang có rất nhiều việc"
   },
   {
     "word": "phoney",
     "ipa": "ˈfoʊni",
+    "type": "Adjective",
+    "def": "not true, fake or false",
     "vi": "giả tạo",
     "viDef": "không thật, bịa"
   },
   {
     "word": "in over your head",
     "ipa": "ɪn ˈoʊvɚ jɔɹ hɛd",
+    "type": "phrase",
+    "def": "too much to handle",
     "vi": "quá sức mình",
     "viDef": "nhiều hơn khả năng xử lý"
   },
   {
     "word": "behind schedule",
     "ipa": "bɪˈhaɪnd ˈskɛdʒʊl",
+    "type": "phrase",
+    "def": "later than expected",
     "vi": "trễ tiến độ",
     "viDef": "muộn hơn dự tính"
   },
   {
     "word": "procrastination",
     "ipa": "pɹəˌkɹæstəˈneɪʃən",
+    "type": "common noun, non-variable",
+    "def": "the action of delaying one's work",
     "vi": "sự trì hoãn",
     "viDef": "việc để công việc chậm lại"
   },
   {
     "word": "fabricate",
     "ipa": "ˈfæbɹəˌkeɪt",
+    "type": "verb",
+    "def": "to create an untrue story",
     "vi": "bịa ra",
     "viDef": "dựng chuyện không thật"
   },
   {
     "word": "justify",
     "ipa": "ˈdʒʌstəˌfaɪ",
+    "type": "verb",
+    "def": "to give the reasons why you did something wrong",
     "vi": "biện minh",
     "viDef": "nêu lý do cho việc mình làm sai"
   },
   {
     "word": "tardiness",
     "ipa": "ˈtɑɹdinəs",
+    "type": "common noun, non-variable",
+    "def": "the quality of being late often",
     "vi": "thói đi muộn",
     "viDef": "tính hay trễ giờ"
   }

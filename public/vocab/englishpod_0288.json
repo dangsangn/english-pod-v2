@@ -2,54 +2,72 @@
   {
     "word": "trendy",
     "ipa": "ˈtɹɛndi",
+    "type": "",
+    "def": "following the latest trends",
     "vi": "theo trào lưu",
     "viDef": "chạy theo các trào lưu mới nhất"
   },
   {
     "word": "on top of all that",
     "ipa": "ɑn tɑp ʌv ɔl ðæt",
+    "type": "",
+    "def": "besides that",
     "vi": "trên hết mọi chuyện đó",
     "viDef": "ngoài tất cả những điều đó"
   },
   {
     "word": "reconsider",
     "ipa": "ˌɹikənˈsɪdɚ",
+    "type": "",
+    "def": "to think carefully about something again",
     "vi": "nghĩ lại cho kỹ",
     "viDef": "suy xét lại điều gì thật cẩn thận"
   },
   {
     "word": "hygienic",
     "ipa": "ˌhaɪdʒiˈɛnɪk",
+    "type": "",
+    "def": "clean and unlikely to cause illness",
     "vi": "vệ sinh",
     "viDef": "sạch và ít khả năng gây bệnh"
   },
   {
     "word": "sterilized",
     "ipa": "ˈstɛɹəˌlaɪzd",
+    "type": "",
+    "def": "completely clean and free from germs",
     "vi": "đã tiệt trùng",
     "viDef": "hoàn toàn sạch, không còn vi khuẩn"
   },
   {
     "word": "rebellious",
     "ipa": "ɹɪˈbɛljəs",
+    "type": "",
+    "def": "defying authority, going against the mainstream",
     "vi": "ngỗ ngược, phản kháng",
     "viDef": "chống lại quyền uy, đi ngược dòng chung"
   },
   {
     "word": "body art",
     "ipa": "ˈbɑdi ɑɹt",
+    "type": "",
+    "def": "used to describe tattoos, but also other, more temporary forms of decorating the body",
     "vi": "nghệ thuật trên cơ thể",
     "viDef": "dùng để nói về hình xăm, cũng gồm các cách trang trí cơ thể tạm thời khác"
   },
   {
     "word": "temporary",
     "ipa": "ˈtɛmpɚˌɛɹi",
+    "type": "",
+    "def": "existing for only a short period of time",
     "vi": "tạm thời",
     "viDef": "chỉ tồn tại trong thời gian ngắn"
   },
   {
     "word": "permanent",
     "ipa": "ˈpɝmənənt",
+    "type": "",
+    "def": "something that exists for a long time; does not leave",
     "vi": "vĩnh viễn",
     "viDef": "thứ tồn tại lâu dài, không mất đi"
   }

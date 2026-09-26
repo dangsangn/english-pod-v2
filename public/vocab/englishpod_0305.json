@@ -2,66 +2,88 @@
   {
     "word": "bowling",
     "ipa": "ˈboʊlɪŋ",
+    "type": "",
+    "def": "a game where you try to knock pins down with a bal",
     "vi": "bowling",
     "viDef": "trò dùng quả bóng lăn để hạ các con ky"
   },
   {
     "word": "polish",
     "ipa": "ˈpɑlɪʃ",
+    "type": "",
+    "def": "to make smooth and glossy, esp. by rubbing or friction",
     "vi": "đánh bóng",
     "viDef": "làm cho mượt và sáng, nhất là bằng cách chà xát"
   },
   {
     "word": "lane",
     "ipa": "leɪn",
+    "type": "",
+    "def": "any narrow or well-defined passage, track, channel, or course",
     "vi": "làn, đường lăn",
     "viDef": "lối, rãnh hoặc đường hẹp và rõ ràng"
   },
   {
     "word": "knock",
     "ipa": "nɑk",
+    "type": "",
+    "def": "to strike in collision",
     "vi": "đập trúng",
     "viDef": "va đập vào"
   },
   {
     "word": "gutter",
     "ipa": "ˈɡʌtɚ",
+    "type": "",
+    "def": "a sunken channel on each side of the lane",
     "vi": "rãnh biên",
     "viDef": "máng lõm ở hai bên đường lăn"
   },
   {
     "word": "pro",
     "ipa": "pɹoʊ",
+    "type": "",
+    "def": "an expert player",
     "vi": "tay chuyên nghiệp",
     "viDef": "người chơi giỏi"
   },
   {
     "word": "split",
     "ipa": "splɪt",
+    "type": "",
+    "def": "separate or apart",
     "vi": "thế ky tách",
     "viDef": "tách ra, cách nhau"
   },
   {
     "word": "perfect game",
     "ipa": "pɚˈfɛkt ɡeɪm",
+    "type": "",
+    "def": "a game in bowling of 12 consecutive strikes.",
     "vi": "ván hoàn hảo",
     "viDef": "ván bowling ăn 12 cú strike liên tiếp"
   },
   {
     "word": "pin",
     "ipa": "pɪn",
+    "type": "",
+    "def": "a small, slender, often pointed piece of wood, metal",
     "vi": "con ky",
     "viDef": "thanh gỗ hoặc kim loại nhỏ, thon, thường có đầu nhọn"
   },
   {
     "word": "strike",
     "ipa": "stɹaɪk",
+    "type": "",
+    "def": "to hit, collide",
     "vi": "cú strike",
     "viDef": "đánh trúng, va vào"
   },
   {
     "word": "gutter ball",
     "ipa": "ˈɡʌtɚ bɔl",
+    "type": "",
+    "def": "A ball that goes into the gutter",
     "vi": "bóng lọt rãnh",
     "viDef": "quả bóng lăn xuống rãnh biên"
   }

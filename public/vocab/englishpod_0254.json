@@ -2,60 +2,80 @@
   {
     "word": "brunch",
     "ipa": "bɹʌntʃ",
+    "type": "",
+    "def": "a meal that serves as both breakfast and lunch",
     "vi": "bữa sáng muộn",
     "viDef": "bữa ăn kiêm cả sáng lẫn trưa"
   },
   {
     "word": "kind of",
     "ipa": "kaɪnd ʌv",
+    "type": "",
+    "def": "to some extent; somewhat; rather; sort of",
     "vi": "hơi hơi",
     "viDef": "phần nào, kha khá, đại khái"
   },
   {
     "word": "pancake",
     "ipa": "ˈpænkeɪk",
+    "type": "",
+    "def": "a thin, flat cake of batter fried on both sides",
     "vi": "bánh kếp",
     "viDef": "bánh bột mỏng, dẹt, chiên cả hai mặt"
   },
   {
     "word": "to go all out",
     "ipa": "tu ɡoʊ ɔl aʊt",
+    "type": "",
+    "def": "with maximum effort; using all one's resources",
     "vi": "làm tới bến",
     "viDef": "dốc hết sức, dùng hết những gì mình có"
   },
   {
     "word": "jam",
     "ipa": "dʒæm",
+    "type": "",
+    "def": "a preserve of whole fruit, slightly crushed, boiled with sugar",
     "vi": "mứt trái cây",
     "viDef": "trái cây nguyên quả dầm sơ, nấu với đường để giữ lâu"
   },
   {
     "word": "oatmeal",
     "ipa": "ˈoʊtmil",
+    "type": "",
+    "def": "a meal made from oats softened by boiling water",
     "vi": "cháo yến mạch",
     "viDef": "món làm từ yến mạch nấu mềm với nước sôi"
   },
   {
     "word": "bacon",
     "ipa": "ˈbeɪkən",
+    "type": "",
+    "def": "a strip of fat and meat usually made from pork",
     "vi": "thịt xông khói",
     "viDef": "dải mỡ và thịt, thường làm từ heo"
   },
   {
     "word": "Cap'n Crunch",
     "ipa": "ˈkæpən kɹʌntʃ",
+    "type": "",
+    "def": "a breakfast cereal brand in America",
     "vi": "ngũ cốc Cap'n Crunch",
     "viDef": "một hãng ngũ cốc ăn sáng ở Mỹ"
   },
   {
     "word": "waffles",
     "ipa": "ˈwɑfəlz",
+    "type": "",
+    "def": "a pancake like breakfast made in squares rather than circles",
     "vi": "bánh waffle",
     "viDef": "món bánh ăn sáng như bánh kếp nhưng in ô vuông thay vì tròn"
   },
   {
     "word": "eggs benedict",
     "ipa": "ɛɡz ˈbɛnəˌdɪkt",
+    "type": "",
+    "def": "a poached egg on half of a english muffin with a hollandaise sauce",
     "vi": "trứng benedict",
     "viDef": "trứng chần đặt trên nửa chiếc bánh muffin Anh, rưới sốt hollandaise"
   }

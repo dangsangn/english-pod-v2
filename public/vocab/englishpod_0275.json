@@ -2,54 +2,72 @@
   {
     "word": "blender",
     "ipa": "ˈblɛndɚ",
+    "type": "",
+    "def": "a machine used for cutting food and ice and mixing",
     "vi": "máy xay sinh tố",
     "viDef": "máy dùng cắt thức ăn, đá và trộn lẫn"
   },
   {
     "word": "juicer",
     "ipa": "ˈdʒusɚ",
+    "type": "",
+    "def": "a machine used for making juice",
     "vi": "máy ép trái cây",
     "viDef": "máy dùng để làm nước ép"
   },
   {
     "word": "mixer",
     "ipa": "ˈmɪksɚ",
+    "type": "",
+    "def": "a machine used for mixing things",
     "vi": "máy trộn",
     "viDef": "máy dùng để đánh trộn"
   },
   {
     "word": "toaster",
     "ipa": "ˈtoʊstɚ",
+    "type": "",
+    "def": "a machine used for toasting bread",
     "vi": "máy nướng bánh mì",
     "viDef": "máy dùng để nướng bánh mì"
   },
   {
     "word": "dishwasher",
     "ipa": "ˈdɪʃˌwɑʃɚ",
+    "type": "",
+    "def": "the machine used for washing dishes",
     "vi": "máy rửa bát",
     "viDef": "máy dùng để rửa chén đĩa"
   },
   {
     "word": "microwave oven",
     "ipa": "ˈmaɪkɹəˌweɪv ˈʌvən",
+    "type": "",
+    "def": "an oven that uses waves to heat food",
     "vi": "lò vi sóng",
     "viDef": "lò dùng sóng để hâm thức ăn"
   },
   {
     "word": "sandwich maker",
     "ipa": "ˈsændwɪtʃ ˈmeɪkɚ",
+    "type": "",
+    "def": "small appliance used to press and heat bread to make sandwiches",
     "vi": "máy kẹp bánh",
     "viDef": "thiết bị nhỏ dùng ép và làm nóng bánh mì để làm sandwich"
   },
   {
     "word": "fryer",
     "ipa": "ˈfɹaɪɚ",
+    "type": "",
+    "def": "machine that can heat up cooking oil to fry food",
     "vi": "nồi chiên",
     "viDef": "máy có thể làm nóng dầu để chiên đồ ăn"
   },
   {
     "word": "slow cooker",
     "ipa": "sloʊ ˈkʊkɚ",
+    "type": "",
+    "def": "a pot that uses low continuous heat to cook food",
     "vi": "nồi hầm chậm",
     "viDef": "nồi dùng nhiệt thấp liên tục để nấu thức ăn"
   }

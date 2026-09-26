@@ -2,66 +2,88 @@
   {
     "word": "unbelievable",
     "ipa": "ˌʌnbəˈlivəbəl",
+    "type": "Adjective",
+    "def": "incredible, amazing",
     "vi": "không thể tin nổi",
     "viDef": "khó tin, đáng kinh ngạc"
   },
   {
     "word": "relax",
     "ipa": "ɹɪˈlæks",
+    "type": "principle verb, imperative",
+    "def": "calm down",
     "vi": "bình tĩnh nào",
     "viDef": "hãy bình tĩnh"
   },
   {
     "word": "be a mile long",
     "ipa": "bi ə maɪl lɔŋ",
+    "type": "phrase",
+    "def": "is very long",
     "vi": "dài dằng dặc",
     "viDef": "rất dài"
   },
   {
     "word": "cut in line",
     "ipa": "kʌt ɪn laɪn",
+    "type": "phrase",
+    "def": "move in front of someone waiting in line",
     "vi": "chen hàng",
     "viDef": "chen lên trước người đang xếp hàng"
   },
   {
     "word": "there's no way",
     "ipa": "ðɛɹz noʊ weɪ",
+    "type": "phrase",
+    "def": "it's impossible",
     "vi": "không đời nào",
     "viDef": "không thể nào"
   },
   {
     "word": "traffic jam",
     "ipa": "ˈtɹæfɪk dʒæm",
+    "type": "phrase",
+    "def": "many cars not moving on the road",
     "vi": "tắc đường",
     "viDef": "nhiều xe đứng yên trên đường"
   },
   {
     "word": "a few hours from now",
     "ipa": "ə fju ˈaʊɚz fɹʌm naʊ",
+    "type": "phrase",
+    "def": "soon, in a couple of hours",
     "vi": "vài tiếng nữa",
     "viDef": "sắp tới, trong vài giờ nữa"
   },
   {
     "word": "form a queue",
     "ipa": "fɔɹm ə kju",
+    "type": "phrase",
+    "def": "to get in line",
     "vi": "xếp thành hàng",
     "viDef": "vào hàng"
   },
   {
     "word": "jump the queue",
     "ipa": "dʒʌmp ðə kju",
+    "type": "phrase",
+    "def": "cut in line ( Br E)",
     "vi": "chen hàng",
     "viDef": "chen lên trước (cách nói Anh-Anh)"
   },
   {
     "word": "stand in line",
     "ipa": "stænd ɪn laɪn",
+    "type": "phrase",
+    "def": "wait in line",
     "vi": "đứng xếp hàng",
     "viDef": "chờ theo hàng"
   },
   {
     "word": "line up",
     "ipa": "laɪn ʌp",
+    "type": "phrase",
+    "def": "form a line",
     "vi": "xếp hàng",
     "viDef": "tạo thành hàng"
   }

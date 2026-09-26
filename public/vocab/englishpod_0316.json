@@ -2,48 +2,64 @@
   {
     "word": "contract",
     "ipa": "ˈkɑntɹækt",
+    "type": "",
+    "def": "written agreement between two or more people",
     "vi": "hợp đồng",
     "viDef": "thỏa thuận viết ra giữa hai hay nhiều người"
   },
   {
     "word": "fingers crossed",
     "ipa": "ˈfɪŋɡɚz kɹɔst",
+    "type": "",
+    "def": "hope for luck",
     "vi": "bắt chéo tay cầu may",
     "viDef": "mong cho được may mắn"
   },
   {
     "word": "deal",
     "ipa": "dil",
+    "type": "",
+    "def": "price",
     "vi": "mức giá thỏa thuận",
     "viDef": "giá cả"
   },
   {
     "word": "regard",
     "ipa": "ɹɪˈɡɑɹd",
+    "type": "",
+    "def": "good wishes",
     "vi": "lời hỏi thăm",
     "viDef": "những lời chúc tốt lành"
   },
   {
     "word": "head",
     "ipa": "hɛd",
+    "type": "",
+    "def": "top boss",
     "vi": "sếp lớn",
     "viDef": "người đứng đầu"
   },
   {
     "word": "hopeful",
     "ipa": "ˈhoʊpfəl",
+    "type": "",
+    "def": "full of hope; expressing hope",
     "vi": "đầy hy vọng",
     "viDef": "tràn hy vọng, tỏ ra trông mong"
   },
   {
     "word": "executive",
     "ipa": "ɪɡˈzɛkjətɪv",
+    "type": "",
+    "def": "a person or group of persons having administrative or supervisory authority in an organization",
     "vi": "cấp điều hành",
     "viDef": "người hoặc nhóm người nắm quyền quản lý hoặc giám sát trong một tổ chức"
   },
   {
     "word": "sincere",
     "ipa": "sɪnˈsɪɹ",
+    "type": "",
+    "def": "not hypocritical or deceitful",
     "vi": "chân thành",
     "viDef": "không giả tạo hay dối trá"
   }

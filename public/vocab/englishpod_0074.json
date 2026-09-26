@@ -2,96 +2,128 @@
   {
     "word": "salad",
     "ipa": "ˈsæləd",
+    "type": "common noun, singular",
+    "def": "a dish made of raw vegetables",
     "vi": "món xà lách trộn",
     "viDef": "món làm từ rau sống"
   },
   {
     "word": "positively",
     "ipa": "ˈpɑzətɪvli",
+    "type": "General Adverb",
+    "def": "truly",
     "vi": "thật sự là",
     "viDef": "đúng là, quả thực"
   },
   {
     "word": "famished",
     "ipa": "ˈfæmɪʃt",
+    "type": "Adjective",
+    "def": "very hungry",
     "vi": "đói meo",
     "viDef": "rất đói"
   },
   {
     "word": "at the top of one's lungs",
     "ipa": "æt ðə tɑp ʌv wʌnz lʌŋz",
+    "type": "phrase",
+    "def": "to be as loud as possible",
     "vi": "gào hết cỡ",
     "viDef": "to hết mức có thể"
   },
   {
     "word": "dumbass",
     "ipa": "ˈdʌmbæs",
+    "type": "common noun, singular",
+    "def": "an impolite way of calling someone foolish",
     "vi": "thằng đần",
     "viDef": "cách nói thô để gọi ai là ngu"
   },
   {
     "word": "sexy",
     "ipa": "ˈsɛksi",
+    "type": "Adjective",
+    "def": "sexy to the greatest degree",
     "vi": "quyến rũ hết nấc",
     "viDef": "hấp dẫn ở mức cao nhất"
   },
   {
     "word": "tool",
     "ipa": "tul",
+    "type": "common noun, singular",
+    "def": "someone who is stupid or useless",
     "vi": "thằng vô dụng",
     "viDef": "người ngu hoặc chẳng được việc gì"
   },
   {
     "word": "get it together",
     "ipa": "ɡɛt ɪt təˈɡɛðɚ",
+    "type": "phrase",
+    "def": "control your emotions",
     "vi": "tự chấn chỉnh lại",
     "viDef": "kìm cảm xúc lại"
   },
   {
     "word": "crap",
     "ipa": "kɹæp",
+    "type": "common noun, non-variable",
+    "def": "an impolite way of saying something is bad",
     "vi": "dở tệ",
     "viDef": "cách nói thô khi thấy thứ gì tệ"
   },
   {
     "word": "moron",
     "ipa": "ˈmɔɹɑn",
+    "type": "common noun, singular",
+    "def": "someone who is very stupid",
     "vi": "kẻ đần độn",
     "viDef": "người rất ngu"
   },
   {
     "word": "chill",
     "ipa": "tʃɪl",
+    "type": "verb",
+    "def": "calm down; relax",
     "vi": "bình tĩnh đi",
     "viDef": "hạ nhiệt, thư giãn"
   },
   {
     "word": "feminism",
     "ipa": "ˈfɛmɪˌnɪzəm",
+    "type": "common noun, singular",
+    "def": "the belief that men and women should have equal rights and opportunities",
     "vi": "chủ nghĩa nữ quyền",
     "viDef": "quan điểm nam và nữ phải có quyền và cơ hội như nhau"
   },
   {
     "word": "blind date",
     "ipa": "blaɪnd deɪt",
+    "type": "common noun, singular",
+    "def": "a romantic outing with someone that you have not met before",
     "vi": "buổi hẹn xem mắt",
     "viDef": "cuộc hẹn hò với người chưa từng gặp"
   },
   {
     "word": "spaz",
     "ipa": "spæz",
+    "type": "common noun, singular",
+    "def": "a person who is very clumsy or awkward",
     "vi": "đứa lóng ngóng",
     "viDef": "người rất lóng cóng, vụng về"
   },
   {
     "word": "first impression",
     "ipa": "fɝst ˌɪmˈpɹɛʃən",
+    "type": "phrase",
+    "def": "the way people see or perceive you the first time you meet",
     "vi": "ấn tượng đầu",
     "viDef": "cách người ta nhìn mình trong lần gặp đầu tiên"
   },
   {
     "word": "blow it",
     "ipa": "bloʊ ɪt",
+    "type": "phrase",
+    "def": "to miss an opportunity or chance",
     "vi": "làm hụt mất",
     "viDef": "để cơ hội trôi qua"
   }

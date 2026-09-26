@@ -2,78 +2,104 @@
   {
     "word": "got a little out of hand",
     "ipa": "ɡɑt ə ˈlɪtəl aʊt ʌv hænd",
+    "type": "phrase",
+    "def": "become out of control",
     "vi": "hơi quá đà",
     "viDef": "thành ra mất kiểm soát"
   },
   {
     "word": "hit",
     "ipa": "hɪt",
+    "type": "principle verb, past simple",
+    "def": "to go to (a place)",
     "vi": "ghé, tới",
     "viDef": "đi đến một nơi"
   },
   {
     "word": "turned out",
     "ipa": "tɝnd aʊt",
+    "type": "principle verb, past simple",
+    "def": "to happen a certain way",
     "vi": "hóa ra là",
     "viDef": "kết cục lại diễn ra như vậy"
   },
   {
     "word": "tell me about it",
     "ipa": "tɛl mi əˈbaʊt ɪt",
+    "type": "phrase",
+    "def": "I agree; I understand",
     "vi": "nói làm gì nữa",
     "viDef": "tôi hiểu, tôi cũng thấy vậy"
   },
   {
     "word": "naseous",
     "ipa": "ˈnɔʃəs",
+    "type": "Adjective",
+    "def": "feel like you are going to vomit",
     "vi": "nôn nao",
     "viDef": "cảm giác buồn nôn"
   },
   {
     "word": "threw up",
     "ipa": "θɹu ʌp",
+    "type": "principle verb, past simple",
+    "def": "vomit",
     "vi": "đã nôn",
     "viDef": "trút hết ra"
   },
   {
     "word": "dehydrated",
     "ipa": "dɪˈhaɪdɹeɪtəd",
+    "type": "principle verb, past simple",
+    "def": "lacking water",
     "vi": "mất nước",
     "viDef": "thiếu nước trong người"
   },
   {
     "word": "pounding",
     "ipa": "ˈpaʊndɪŋ",
+    "type": "principle verb, past perfect progressive",
+    "def": "to beat loudly and quickly",
     "vi": "nhức bưng bưng",
     "viDef": "đập mạnh và dồn dập"
   },
   {
     "word": "wasted",
     "ipa": "ˈweɪstɪd",
+    "type": "Adjective",
+    "def": "very drunk (slang)",
     "vi": "say quắc cần câu",
     "viDef": "rất say (tiếng lóng)"
   },
   {
     "word": "barf",
     "ipa": "bɑɹf",
+    "type": "verb",
+    "def": "to vomit",
     "vi": "nôn ọe",
     "viDef": "trút ra ngoài"
   },
   {
     "word": "pain killers",
     "ipa": "peɪn ˈkɪlɚz",
+    "type": "common noun, plural",
+    "def": "medicine you take to cure a headache",
     "vi": "thuốc giảm đau",
     "viDef": "thuốc uống để hết nhức đầu"
   },
   {
     "word": "I feel like death",
     "ipa": "aɪ fil laɪk dɛθ",
+    "type": "phrase",
+    "def": "I feel very bad",
     "vi": "tôi thấy như chết đi",
     "viDef": "trong người rất tệ"
   },
   {
     "word": "hair of the dog",
     "ipa": "hɛɹ ʌv ðə dɔɡ",
+    "type": "phrase",
+    "def": "drink alcohol when you have a hangover to cure it",
     "vi": "uống giải rượu",
     "viDef": "uống thêm chút rượu để giã cơn say"
   }

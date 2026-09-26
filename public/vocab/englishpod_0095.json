@@ -2,102 +2,136 @@
   {
     "word": "how are you",
     "ipa": "haʊ ɑɹ ju",
+    "type": "phrase",
+    "def": "a greeting phrase",
     "vi": "bạn thế nào",
     "viDef": "câu chào hỏi"
   },
   {
     "word": "man",
     "ipa": "mæn",
+    "type": "common noun, singular",
+    "def": "an informal way of calling a person",
     "vi": "này ông bạn",
     "viDef": "cách gọi người khác thân mật"
   },
   {
     "word": "long time no see",
     "ipa": "lɔŋ taɪm noʊ si",
+    "type": "phrase",
+    "def": "a greeting phrase used after two friends have not seen each other for a long time",
     "vi": "lâu quá không gặp",
     "viDef": "câu chào khi hai người bạn lâu ngày mới thấy nhau"
   },
   {
     "word": "in ages",
     "ipa": "ɪn ˈeɪdʒəz",
+    "type": "phrase",
+    "def": "for a long time",
     "vi": "lâu lắc",
     "viDef": "một thời gian rất dài"
   },
   {
     "word": "I am doing great",
     "ipa": "aɪ æm ˈduɪŋ ɡɹeɪt",
+    "type": "phrase",
+    "def": "a phrase you use to respond to a greeting",
     "vi": "tôi ổn lắm",
     "viDef": "câu đáp lại lời chào"
   },
   {
     "word": "run into",
     "ipa": "ɹʌn ˈɪntu",
+    "type": "phrase",
+    "def": "meeting someone accidentally",
     "vi": "tình cờ gặp",
     "viDef": "gặp ai không hẹn trước"
   },
   {
     "word": "catch up on",
     "ipa": "kætʃ ʌp ɑn",
+    "type": "phrase",
+    "def": "learn about recent past events",
     "vi": "cập nhật chuyện cũ",
     "viDef": "nghe lại những việc vừa qua"
   },
   {
     "word": "freak out",
     "ipa": "fɹik aʊt",
+    "type": "verb",
+    "def": "show a lot of emotion; be not able to control emotions",
     "vi": "phát hoảng",
     "viDef": "bộc phát cảm xúc, không kìm được"
   },
   {
     "word": "shriek",
     "ipa": "ʃɹik",
+    "type": "",
+    "def": "screaming in a very high voice",
     "vi": "rú lên",
     "viDef": "la bằng giọng rất cao"
   },
   {
     "word": "stare",
     "ipa": "stɛɹ",
+    "type": "verb",
+    "def": "look at something for a long time with great attention",
     "vi": "nhìn chằm chằm",
     "viDef": "nhìn lâu và rất tập trung"
   },
   {
     "word": "hilarious",
     "ipa": "hɪˈlɛɹiəs",
+    "type": "Adjective",
+    "def": "very amusing",
     "vi": "cười bò",
     "viDef": "rất hài"
   },
   {
     "word": "lose it",
     "ipa": "luz ɪt",
+    "type": "verb",
+    "def": "lose control of your emotions; show strong, negative emotions",
     "vi": "mất kiểm soát",
     "viDef": "không giữ được cảm xúc, bùng ra dữ dội"
   },
   {
     "word": "go nuts",
     "ipa": "ɡoʊ nʌts",
+    "type": "verb",
+    "def": "go crazy; lose control of yourself",
     "vi": "phát điên",
     "viDef": "mất tự chủ"
   },
   {
     "word": "a riot",
     "ipa": "ə ˈɹaɪət",
+    "type": "phrase",
+    "def": "a very fun time; or a funny event",
     "vi": "vui nổ trời",
     "viDef": "khoảng thời gian hoặc chuyện rất hài"
   },
   {
     "word": "ridiculous",
     "ipa": "ɹɪˈdɪkjələs",
+    "type": "Adjective",
+    "def": "very silly or unreasonable",
     "vi": "ngớ ngẩn",
     "viDef": "rất vô lý hoặc dở người"
   },
   {
     "word": "bizarre",
     "ipa": "bəˈzɑɹ",
+    "type": "Adjective",
+    "def": "very strange or unusual",
     "vi": "kỳ dị",
     "viDef": "rất lạ, khác thường"
   },
   {
     "word": "anecdote",
     "ipa": "ˈænəkˌdoʊt",
+    "type": "common noun, singular",
+    "def": "a short, amusing story",
     "vi": "câu chuyện vui",
     "viDef": "mẩu chuyện ngắn, thú vị"
   }

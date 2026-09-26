@@ -2,84 +2,112 @@
   {
     "word": "have a seat",
     "ipa": "hæv ə sit",
+    "type": "phrase",
+    "def": "sit down",
     "vi": "mời ngồi",
     "viDef": "ngồi xuống"
   },
   {
     "word": "toothache",
     "ipa": "ˈtuθeɪk",
+    "type": "common noun, singular",
+    "def": "tooth pain",
     "vi": "đau răng",
     "viDef": "cơn nhức răng"
   },
   {
     "word": "swollen",
     "ipa": "ˈswoʊlən",
+    "type": "Adjective",
+    "def": "some parts are bigger than others due to a certain disease",
     "vi": "sưng lên",
     "viDef": "chỗ nào phồng to hơn bình thường do bệnh"
   },
   {
     "word": "wisdom tooth",
     "ipa": "ˈwɪzdəm tuθ",
+    "type": "common noun, singular",
+    "def": "big tooth at the back of your mouth which grows in one's adulthood",
     "vi": "răng khôn",
     "viDef": "răng lớn phía trong cùng, mọc khi đã trưởng thành"
   },
   {
     "word": "have a look",
     "ipa": "hæv ə lʊk",
+    "type": "phrase",
+    "def": "take a glance",
     "vi": "xem thử",
     "viDef": "ngó qua một cái"
   },
   {
     "word": "cavity",
     "ipa": "ˈkævəti",
+    "type": "common noun, singular",
+    "def": "a hole in a tooth",
     "vi": "lỗ sâu răng",
     "viDef": "chỗ khuyết trên răng"
   },
   {
     "word": "crown",
     "ipa": "kɹaʊn",
+    "type": "common noun, singular",
+    "def": "the part of the tooth which can be seen",
     "vi": "thân răng",
     "viDef": "phần răng nhìn thấy được"
   },
   {
     "word": "filling",
     "ipa": "ˈfɪlɪŋ",
+    "type": "common noun, singular",
+    "def": "something that fills the hole of the tooth",
     "vi": "miếng trám",
     "viDef": "vật liệu bịt lỗ sâu răng"
   },
   {
     "word": "x-rays",
     "ipa": "ɛks ɹeɪz",
+    "type": "common noun, plural",
+    "def": "a medical examination that takes a picture of your bones",
     "vi": "phim chụp X-quang",
     "viDef": "kiểm tra y tế chụp ảnh xương"
   },
   {
     "word": "floss",
     "ipa": "flɑs",
+    "type": "verb",
+    "def": "to use a thin thread or string to clean between your teeth",
     "vi": "dùng chỉ nha khoa",
     "viDef": "dùng sợi chỉ mảnh làm sạch kẽ răng"
   },
   {
     "word": "mouthwash",
     "ipa": "ˈmaʊθwɑʃ",
+    "type": "common noun, singular",
+    "def": "a liquid that is used to clean your mouth and teeth and to make your breath smell better",
     "vi": "nước súc miệng",
     "viDef": "dung dịch làm sạch miệng, răng và cho hơi thở thơm"
   },
   {
     "word": "gingivitis",
     "ipa": "ˌdʒɪndʒəˈvaɪtəs",
+    "type": "common noun, singular",
+    "def": "a disease in which the gums become red, swollen, and sore",
     "vi": "viêm nướu",
     "viDef": "bệnh làm nướu đỏ, sưng và đau"
   },
   {
     "word": "plaque",
     "ipa": "plæk",
+    "type": "common noun, singular",
+    "def": "a thin coating that forms on teeth and contains bacteria",
     "vi": "bợn răng",
     "viDef": "lớp mỏng đóng trên răng, có chứa vi khuẩn"
   },
   {
     "word": "dog breath",
     "ipa": "dɔɡ bɹɛθ",
+    "type": "common noun, singular",
+    "def": "used to describe when somebody has very bad breath",
     "vi": "hơi thở thối",
     "viDef": "cách nói khi ai đó có mùi miệng rất nặng"
   }

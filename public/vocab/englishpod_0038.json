@@ -2,84 +2,112 @@
   {
     "word": "browse",
     "ipa": "bɹaʊz",
+    "type": "verb",
+    "def": "look around to see if anything is interesting",
     "vi": "xem loanh quanh",
     "viDef": "ngó qua xem có gì hay không"
   },
   {
     "word": "sedan",
     "ipa": "səˈdæn",
+    "type": "common noun, singular",
+    "def": "a car with four doors",
     "vi": "xe sedan",
     "viDef": "xe hơi bốn cửa"
   },
   {
     "word": "gas mileage",
     "ipa": "ɡæs ˈmaɪlədʒ",
+    "type": "common noun, singular",
+    "def": "the amount of gas used per mile",
     "vi": "mức tiêu thụ xăng",
     "viDef": "lượng xăng dùng cho mỗi dặm đường"
   },
   {
     "word": "dual airbags",
     "ipa": "ˈduəl ˈɛɹbæɡz",
+    "type": "common noun, plural",
+    "def": "two airbags, one for the driver and one for the passenger",
     "vi": "hai túi khí",
     "viDef": "hai túi khí, một cho người lái và một cho khách"
   },
   {
     "word": "brake",
     "ipa": "bɹeɪk",
+    "type": "common noun, plural",
+    "def": "a device that slows down or stops something",
     "vi": "phanh",
     "viDef": "bộ phận làm chậm hoặc dừng xe"
   },
   {
     "word": "vehicle",
     "ipa": "ˈvihɪkəl",
+    "type": "common noun, singular",
+    "def": "something that carries people from one place to another",
     "vi": "xe cộ",
     "viDef": "phương tiện chở người từ nơi này sang nơi khác"
   },
   {
     "word": "reinforce",
     "ipa": "ˌɹiɪnˈfɔɹs",
+    "type": "Adjective",
+    "def": "strengthen, make something stronger",
     "vi": "gia cố",
     "viDef": "làm cho chắc hơn"
   },
   {
     "word": "sleep on it",
     "ipa": "slip ɑn ɪt",
+    "type": "phrase",
+    "def": "think about something further and make a decision later (informal)",
     "vi": "để mai tính",
     "viDef": "nghĩ thêm rồi quyết định sau (thân mật)"
   },
   {
     "word": "minivan",
     "ipa": "ˈmɪniˈvæn",
+    "type": "common noun, singular",
+    "def": "a vehile that is larger than a car, has four doors and is shaped like a box",
     "vi": "xe van nhỏ",
     "viDef": "xe to hơn xe con, bốn cửa, dáng hộp"
   },
   {
     "word": "SUV",
     "ipa": "ˌɛs ju ˈvi",
+    "type": "common noun, singular",
+    "def": "a large vehicle that is suitable to run on rough surfaces",
     "vi": "xe SUV",
     "viDef": "xe lớn, chạy được đường xấu"
   },
   {
     "word": "sale",
     "ipa": "seɪl",
+    "type": "common noun, singular",
+    "def": "an event where goods or services are sold at a price lower than usual",
     "vi": "đợt giảm giá",
     "viDef": "dịp bán hàng rẻ hơn thường lệ"
   },
   {
     "word": "promotion",
     "ipa": "pɹəˈmoʊʃən",
+    "type": "common noun, singular",
+    "def": "something (usually advertising) that is done to increase sales",
     "vi": "chương trình khuyến mãi",
     "viDef": "hoạt động (thường là quảng cáo) để bán được nhiều hơn"
   },
   {
     "word": "discount",
     "ipa": "dɪˈskaʊnt",
+    "type": "common noun, singular",
+    "def": "the amount of reduction in price",
     "vi": "mức giảm giá",
     "viDef": "phần giá được bớt"
   },
   {
     "word": "bargain",
     "ipa": "ˈbɑɹɡən",
+    "type": "common noun, singular",
+    "def": "something bought or sold at a price lower than its actual value",
     "vi": "món mua được giá",
     "viDef": "thứ mua hoặc bán rẻ hơn giá trị thật"
   }

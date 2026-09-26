@@ -2,72 +2,96 @@
   {
     "word": "dude",
     "ipa": "dud",
+    "type": "",
+    "def": "informal way of calling a man",
     "vi": "ông bạn",
     "viDef": "cách gọi người nam thân mật"
   },
   {
     "word": "kick",
     "ipa": "kɪk",
+    "type": "",
+    "def": "power",
     "vi": "độ nặng đô",
     "viDef": "sức mạnh"
   },
   {
     "word": "tab",
     "ipa": "tæb",
+    "type": "",
+    "def": "an account of expenses that is required to be paid when wanted.",
     "vi": "hóa đơn ghi nợ",
     "viDef": "bảng ghi các khoản đã dùng, phải trả khi được yêu cầu"
   },
   {
     "word": "wasted",
     "ipa": "ˈweɪstɪd",
+    "type": "",
+    "def": "drunk",
     "vi": "say mèm",
     "viDef": "say rượu"
   },
   {
     "word": "kidding",
     "ipa": "ˈkɪdɪŋ",
+    "type": "",
+    "def": "fool or joke",
     "vi": "giỡn",
     "viDef": "trêu, nói đùa"
   },
   {
     "word": "order",
     "ipa": "ˈɔɹdɚ",
+    "type": "",
+    "def": "ask for something",
     "vi": "gọi món",
     "viDef": "yêu cầu thứ gì"
   },
   {
     "word": "cosmo",
     "ipa": "ˈkɔzmoʊ",
+    "type": "",
+    "def": "name of a drink",
     "vi": "cocktail cosmo",
     "viDef": "tên một loại đồ uống"
   },
   {
     "word": "sex on the beach",
     "ipa": "sɛks ɑn ðə bitʃ",
+    "type": "",
+    "def": "alcoholic drink that contains Schnapps, peach Vodka, Cranberry Juice and Orange Juice",
     "vi": "cocktail Sex on the Beach",
     "viDef": "đồ uống có cồn gồm rượu Schnapps, vodka đào, nước ép nam việt quất và nước cam"
   },
   {
     "word": "bloody mary",
     "ipa": "ˈblʌdi ˈmɛɹi",
+    "type": "",
+    "def": "alchoholic drink that contains vodka, tomato juice, Worcestershire sauce,Tabasco sauce, celery stick and ground white pepper",
     "vi": "cocktail Bloody Mary",
     "viDef": "đồ uống có cồn gồm vodka, nước cà chua, sốt Worcestershire, sốt Tabasco, cọng cần tây và tiêu trắng xay"
   },
   {
     "word": "hang over",
     "ipa": "hæŋ ˈoʊvɚ",
+    "type": "",
+    "def": "Unpleasant physical effects following the heavy use of alcohol",
     "vi": "dư vị say",
     "viDef": "các triệu chứng khó chịu sau khi uống nhiều rượu"
   },
   {
     "word": "bouncer",
     "ipa": "ˈbaʊnsɚ",
+    "type": "",
+    "def": "a person who is employed at a bar or nightclub to eject disorderly persons.",
     "vi": "bảo vệ quán",
     "viDef": "người được thuê ở quán bar hoặc hộp đêm để tống những kẻ quậy phá ra"
   },
   {
     "word": "disk jockey",
     "ipa": "dɪsk ˈdʒɑki",
+    "type": "",
+    "def": "a person who selects, plays, and announces records at a nightclub or radio station",
     "vi": "DJ",
     "viDef": "người chọn, phát và giới thiệu các bản nhạc ở hộp đêm hoặc đài phát thanh"
   }

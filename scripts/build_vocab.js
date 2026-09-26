@@ -1,5 +1,6 @@
 /**
- * Builds per-episode vocabulary files with IPA + Vietnamese into public/vocab/.
+ * Builds per-episode vocabulary files into public/vocab/: the word, its IPA,
+ * the English part of speech and definition from the transcript, and Vietnamese.
  *
  * IPA comes from CMUdict offline. api.dictionaryapi.dev was measured returning
  * Cloudflare 1015/429 at ~45 concurrent requests, which makes it useless for
@@ -341,7 +342,16 @@ async function main() {
                 pending.set(vocabKey(item.word, item.definition), { ...item, episodeId: id });
                 continue;
             }
-            entries.push({ word: item.word, ipa, vi: hit.vi, viDef: hit.viDef });
+            // The English definition and part of speech ship too: the study
+            // cards show them, and they are what the Vietnamese was written from.
+            entries.push({
+                word: item.word,
+                ipa,
+                type: item.type,
+                def: item.definition,
+                vi: hit.vi,
+                viDef: hit.viDef,
+            });
         }
 
         const out = path.join(OUT_DIR, `englishpod_${String(id).padStart(4, '0')}.json`);

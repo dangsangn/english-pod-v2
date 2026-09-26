@@ -2,78 +2,104 @@
   {
     "word": "anxious",
     "ipa": "ˈæŋkʃəs",
+    "type": "",
+    "def": "worried or nervous of what may happen",
     "vi": "lo âu",
     "viDef": "lo lắng hoặc bồn chồn về điều có thể xảy ra"
   },
   {
     "word": "mood swing",
     "ipa": "mud swɪŋ",
+    "type": "",
+    "def": "rapid or successive change of your mood",
     "vi": "thay đổi tâm trạng",
     "viDef": "sự đổi tâm trạng nhanh hoặc liên tiếp"
   },
   {
     "word": "ecstatic",
     "ipa": "ɛkˈstætɪk",
+    "type": "",
+    "def": "feeling very excited or happy",
     "vi": "ngất ngây",
     "viDef": "thấy cực kỳ phấn khích hoặc hạnh phúc"
   },
   {
     "word": "blue",
     "ipa": "blu",
+    "type": "",
+    "def": "feeling sad, depressed",
     "vi": "buồn rầu",
     "viDef": "thấy buồn, u uất"
   },
   {
     "word": "detached",
     "ipa": "dɪˈtætʃt",
+    "type": "",
+    "def": "feeling of showing lack of emotional involvement",
     "vi": "dửng dưng",
     "viDef": "tỏ ra không dính dáng gì về mặt cảm xúc"
   },
   {
     "word": "lonely",
     "ipa": "ˈloʊnli",
+    "type": "",
+    "def": "sad from being apart from other people",
     "vi": "cô đơn",
     "viDef": "buồn vì phải xa mọi người"
   },
   {
     "word": "confident",
     "ipa": "ˈkɑnfədənt",
+    "type": "",
+    "def": "assurance: freedom from doubt",
     "vi": "tự tin",
     "viDef": "sự chắc chắn, không còn nghi ngại"
   },
   {
     "word": "brave",
     "ipa": "bɹeɪv",
+    "type": "",
+    "def": "Not feeling any fear",
     "vi": "dũng cảm",
     "viDef": "không thấy sợ hãi gì"
   },
   {
     "word": "maniac depressive",
     "ipa": "ˈmeɪniˌæk dɪˈpɹɛsɪv",
+    "type": "",
+    "def": "suffering from a disorder characterized by alternating mania and depression",
     "vi": "rối loạn lưỡng cực",
     "viDef": "mắc chứng bệnh luân phiên giữa hưng phấn và trầm cảm"
   },
   {
     "word": "anxiety",
     "ipa": "æŋˈzaɪəti",
+    "type": "",
+    "def": "An abnormal sense of fear, nervousness, and apprehension",
     "vi": "sự lo âu",
     "viDef": "cảm giác sợ hãi, bồn chồn và phấp phỏng bất thường"
   },
   {
     "word": "self esteem",
     "ipa": "sɛlf əˈstim",
+    "type": "",
+    "def": "Personal feelings or opinions of oneself",
     "vi": "lòng tự trọng",
     "viDef": "cảm nhận hoặc đánh giá của một người về chính mình"
   },
   {
     "word": "emotional",
     "ipa": "ɪˈmoʊʃənəl",
+    "type": "",
+    "def": "determined or actuated by emotion rather than reason",
     "vi": "thiên về cảm xúc",
     "viDef": "bị cảm xúc chi phối hơn là lý trí"
   },
   {
     "word": "overwhelming",
     "ipa": "ˌoʊvɚˈwɛlmɪŋ",
+    "type": "",
+    "def": "overpowering in effect or force",
     "vi": "áp đảo",
     "viDef": "mạnh tới mức lấn át về tác động hoặc sức lực"
   }

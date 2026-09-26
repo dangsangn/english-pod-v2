@@ -2,66 +2,88 @@
   {
     "word": "bistro",
     "ipa": "ˈbɪstɹoʊ",
+    "type": "",
+    "def": "mid-priced restaurant",
     "vi": "quán bistro",
     "viDef": "nhà hàng tầm giá vừa"
   },
   {
     "word": "make a reservation",
     "ipa": "meɪk ə ˌɹɛzɚˈveɪʃən",
+    "type": "",
+    "def": "to make an arrangement to hold something for later",
     "vi": "đặt chỗ trước",
     "viDef": "thu xếp để giữ thứ gì cho sau đó"
   },
   {
     "word": "fully booked",
     "ipa": "ˈfʊli bʊkt",
+    "type": "",
+    "def": "all sold out or full of reservations",
     "vi": "kín chỗ",
     "viDef": "đã bán hết hoặc đầy lịch đặt"
   },
   {
     "word": "in that case",
     "ipa": "ɪn ðæt keɪs",
+    "type": "",
+    "def": "if something said earlier is true",
     "vi": "nếu vậy thì",
     "viDef": "nếu điều nói trước đó là đúng"
   },
   {
     "word": "attend",
     "ipa": "əˈtɛnd",
+    "type": "",
+    "def": "go to",
     "vi": "tới dự",
     "viDef": "đi đến"
   },
   {
     "word": "reservation",
     "ipa": "ˌɹɛzɚˈveɪʃən",
+    "type": "",
+    "def": "Something that is kept back or withheld",
     "vi": "chỗ đã giữ",
     "viDef": "thứ được giữ lại hoặc dành riêng"
   },
   {
     "word": "steakhouse",
     "ipa": "ˈsteɪkhaʊs",
+    "type": "",
+    "def": "a restaurant that specializes in beef steaks.",
     "vi": "nhà hàng bít tết",
     "viDef": "nhà hàng chuyên về các món bò bít tết"
   },
   {
     "word": "diner",
     "ipa": "ˈdaɪnɚ",
+    "type": "",
+    "def": "A place that offers a wide range of foods, mostly American, a casual atmosphere and late operating hours.",
     "vi": "quán ăn bình dân",
     "viDef": "nơi bán nhiều loại món, phần lớn là món Mỹ, không khí xuề xòa và mở tới khuya"
   },
   {
     "word": "Soup Kitchen",
     "ipa": "sup ˈkɪtʃən",
+    "type": "",
+    "def": "a place where food is offered to the hungry for free or at a reasonably low price",
     "vi": "bếp ăn từ thiện",
     "viDef": "nơi phát đồ ăn cho người đói, miễn phí hoặc với giá rất thấp"
   },
   {
     "word": "saltshaker",
     "ipa": "ˈsɔltˌʃeɪkɚ",
+    "type": "",
+    "def": "a container with a perforated top for sprinkling salt",
     "vi": "lọ rắc muối",
     "viDef": "lọ có nắp đục lỗ để rắc muối"
   },
   {
     "word": "Cutlery",
     "ipa": "ˈkʌtlɚi",
+    "type": "",
+    "def": "Utensils such as knives, forks, and spoons used as tableware",
     "vi": "bộ đồ ăn",
     "viDef": "các dụng cụ như dao, nĩa và thìa dùng trên bàn ăn"
   }

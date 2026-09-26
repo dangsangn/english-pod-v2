@@ -2,84 +2,112 @@
   {
     "word": "foul",
     "ipa": "faʊl",
+    "type": "common noun, singular",
+    "def": "an act in sports that is against the rules",
     "vi": "lỗi",
     "viDef": "hành động phạm luật trong thể thao"
   },
   {
     "word": "referee",
     "ipa": "ˌɹɛfɚˈi",
+    "type": "common noun, singular",
+    "def": "person who makes sure that players act according to the rules in a game or sport (informal)",
     "vi": "trọng tài",
     "viDef": "người giám sát cầu thủ chơi đúng luật (thân mật)"
   },
   {
     "word": "screw up",
     "ipa": "skɹu ʌp",
+    "type": "verb",
+    "def": "make a mistake",
     "vi": "làm hỏng bét",
     "viDef": "gây ra lỗi"
   },
   {
     "word": "free throw",
     "ipa": "fɹi θɹoʊ",
+    "type": "common noun, plural",
+    "def": "a chance to shoot the ball due to a foul made by the opponent",
     "vi": "ném phạt",
     "viDef": "quả ném thưởng do đối phương phạm lỗi"
   },
   {
     "word": "make the shot",
     "ipa": "meɪk ðə ʃɑt",
+    "type": "verb",
+    "def": "successfully throw a ball toward a goal (sports)",
     "vi": "ném vào rổ",
     "viDef": "ném trúng đích (thể thao)"
   },
   {
     "word": "three pointer",
     "ipa": "θɹi ˈpɔɪntɚ",
+    "type": "common noun, singular",
+    "def": "a shot that scores three points in a game",
     "vi": "cú ba điểm",
     "viDef": "quả ném ăn ba điểm"
   },
   {
     "word": "travel",
     "ipa": "ˈtɹævəl",
+    "type": "verb",
+    "def": "take more steps with the basketball than the rule allows",
     "vi": "lỗi chạy bước",
     "viDef": "bước quá số bước luật cho phép khi giữ bóng"
   },
   {
     "word": "beer run",
     "ipa": "bɪɹ ɹʌn",
+    "type": "common noun, non-variable",
+    "def": "the act of quickly going to get beer",
     "vi": "chạy đi mua bia",
     "viDef": "việc tranh đi mua bia một lát"
   },
   {
     "word": "court",
     "ipa": "kɔɹt",
+    "type": "common noun, singular",
+    "def": "place where basketball is played",
     "vi": "sân bóng rổ",
     "viDef": "nơi chơi bóng rổ"
   },
   {
     "word": "assist",
     "ipa": "əˈsɪst",
+    "type": "common noun, singular",
+    "def": "an action where the ball is passed that helps score a goal",
     "vi": "đường kiến tạo",
     "viDef": "cú chuyền giúp đồng đội ghi điểm"
   },
   {
     "word": "block",
     "ipa": "blɑk",
+    "type": "verb",
+    "def": "put your body between an opposing player and the ball",
     "vi": "chắn bóng",
     "viDef": "chắn người mình giữa đối thủ và bóng"
   },
   {
     "word": "jump shot",
     "ipa": "dʒʌmp ʃɑt",
+    "type": "common noun, singular",
+    "def": "jump in the air and shoot the ball while",
     "vi": "cú nhảy ném",
     "viDef": "bật lên không rồi ném bóng"
   },
   {
     "word": "rebound",
     "ipa": "ɹiˈbaʊnd",
+    "type": "verb",
+    "def": "grab and control the ball after the other team missed a shot",
     "vi": "bắt bóng bật bảng",
     "viDef": "giành bóng sau khi đối phương ném trượt"
   },
   {
     "word": "steal",
     "ipa": "stil",
+    "type": "verb",
+    "def": "intercept a pass between two players of the opposite team",
     "vi": "cắt bóng",
     "viDef": "chặn đường chuyền của đối phương"
   }

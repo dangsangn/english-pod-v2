@@ -2,84 +2,112 @@
   {
     "word": "butter",
     "ipa": "ˈbʌtɚ",
+    "type": "Adjective",
+    "def": "put butter on something",
     "vi": "phết bơ",
     "viDef": "quét bơ lên thứ gì"
   },
   {
     "word": "butcher",
     "ipa": "ˈbʊtʃɚ",
+    "type": "Adjective",
+    "def": "cut meat into pieces taking out bones and organs",
     "vi": "xẻ thịt",
     "viDef": "cắt thịt thành miếng, lấy xương và nội tạng ra"
   },
   {
     "word": "Right away",
     "ipa": "ɹaɪt əˈweɪ",
+    "type": "phrase",
+    "def": "quickly, as soon as possible",
     "vi": "ngay lập tức",
     "viDef": "nhanh, càng sớm càng tốt"
   },
   {
     "word": "in the weeds",
     "ipa": "ɪn ðə widz",
+    "type": "phrase",
+    "def": "in a difficult situation",
     "vi": "ngập đầu ngập cổ",
     "viDef": "đang trong tình thế khó"
   },
   {
     "word": "sous chef",
     "ipa": "suz ʃɛf",
+    "type": "common noun, singular",
+    "def": "chef that helps and assists the head chef",
     "vi": "phó bếp",
     "viDef": "đầu bếp giúp việc cho bếp trưởng"
   },
   {
     "word": "peel",
     "ipa": "pil",
+    "type": "verb",
+    "def": "remove the outter skin of a fruit or vegetable",
     "vi": "gọt vỏ",
     "viDef": "bỏ lớp vỏ ngoài của trái cây hay rau củ"
   },
   {
     "word": "chop",
     "ipa": "tʃɑp",
+    "type": "verb",
+    "def": "cut into small pieces",
     "vi": "băm, chặt",
     "viDef": "cắt thành miếng nhỏ"
   },
   {
     "word": "running low on",
     "ipa": "ˈɹʌnɪŋ loʊ ɑn",
+    "type": "phrase",
+    "def": "to not have so much, having not enough",
     "vi": "gần hết",
     "viDef": "còn ít, không còn đủ"
   },
   {
     "word": "stir",
     "ipa": "stɝ",
+    "type": "Adjective",
+    "def": "move or mix something; usually with a spoon",
     "vi": "khuấy",
     "viDef": "trộn hoặc đảo, thường bằng thìa"
   },
   {
     "word": "bake",
     "ipa": "beɪk",
+    "type": "verb",
+    "def": "to cook food at very high and dry heat",
     "vi": "nướng lò",
     "viDef": "làm chín thức ăn bằng nhiệt khô rất cao"
   },
   {
     "word": "pan",
     "ipa": "pæn",
+    "type": "common noun, singular",
+    "def": "a usually shallow and open metal container that has a handle and that is used for cooking or baking",
     "vi": "chảo",
     "viDef": "đồ kim loại lòng nông, có tay cầm, dùng để nấu hoặc nướng"
   },
   {
     "word": "pot",
     "ipa": "pɑt",
+    "type": "common noun, singular",
+    "def": "a deep, round container that is used for cooking",
     "vi": "nồi",
     "viDef": "đồ đựng lòng sâu, tròn, dùng để nấu"
   },
   {
     "word": "dice",
     "ipa": "daɪs",
+    "type": "verb",
+    "def": "to cut something into small cubes",
     "vi": "cắt hạt lựu",
     "viDef": "cắt thành khối vuông nhỏ"
   },
   {
     "word": "stove",
     "ipa": "stoʊv",
+    "type": "common noun, singular",
+    "def": "a flat piece of kitchen equipment for cooking with fire",
     "vi": "bếp lò",
     "viDef": "thiết bị nhà bếp mặt phẳng dùng lửa để nấu"
   }

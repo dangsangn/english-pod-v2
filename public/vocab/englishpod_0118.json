@@ -2,120 +2,160 @@
   {
     "word": "doo-doo",
     "ipa": "du du",
+    "type": "common noun, singular",
+    "def": "solid waste discharged from body (informal)",
     "vi": "cục ị",
     "viDef": "chất thải rắn của cơ thể (thân mật)"
   },
   {
     "word": "up",
     "ipa": "ʌp",
+    "type": "Adjective",
+    "def": "awake",
     "vi": "thức",
     "viDef": "đã tỉnh giấc"
   },
   {
     "word": "your turn",
     "ipa": "jɔɹ tɝn",
+    "type": "phrase",
+    "def": "an opportunity or responsibility to do something",
     "vi": "tới lượt anh/chị",
     "viDef": "dịp hoặc phần việc của mình"
   },
   {
     "word": "widdle",
     "ipa": "ˈwɪdəl",
+    "type": "Adjective",
+    "def": "little (baby talk)",
     "vi": "bé bé",
     "viDef": "nhỏ (lời nựng trẻ)"
   },
   {
     "word": "icky",
     "ipa": "ˈɪki",
+    "type": "Adjective",
+    "def": "gross, disgusting (baby talk)",
     "vi": "ghê ghê",
     "viDef": "gớm, khó chịu (lời nựng trẻ)"
   },
   {
     "word": "diaper",
     "ipa": "ˈdaɪpɚ",
+    "type": "common noun, singular",
+    "def": "a piece of cloth used as underwear that holds body waste",
     "vi": "tã",
     "viDef": "miếng lót thay đồ trong để hứng chất thải"
   },
   {
     "word": "jammies",
     "ipa": "ˈdʒæmiz",
+    "type": "common noun, plural",
+    "def": "pajamas (informal)",
     "vi": "bộ đồ ngủ",
     "viDef": "pyjama (thân mật)"
   },
   {
     "word": "tinkle",
     "ipa": "ˈtɪŋkəl",
+    "type": "principle verb, present simple",
+    "def": "to urinate (informal)",
     "vi": "tè",
     "viDef": "đi tiểu (thân mật)"
   },
   {
     "word": "wee wee",
     "ipa": "wi wi",
+    "type": "common noun, singular",
+    "def": "urine (informal)",
     "vi": "nước tè",
     "viDef": "nước tiểu (thân mật)"
   },
   {
     "word": "hold still",
     "ipa": "hoʊld stɪl",
+    "type": "principle verb, imperative",
+    "def": "don't move",
     "vi": "nằm yên nào",
     "viDef": "đừng cử động"
   },
   {
     "word": "yucky",
     "ipa": "ˈjʌki",
+    "type": "Adjective",
+    "def": "gross, disgusting (informal)",
     "vi": "ghê quá",
     "viDef": "gớm, đáng ghét (thân mật)"
   },
   {
     "word": "nana",
     "ipa": "ˈnænə",
+    "type": "common noun, singular",
+    "def": "grandma (informal)",
     "vi": "bà",
     "viDef": "bà nội hoặc bà ngoại (thân mật)"
   },
   {
     "word": "I could just eat (something) up",
     "ipa": "aɪ kʊd dʒʌst it ˈsʌmθɪŋ ʌp",
+    "type": "phrase",
+    "def": "to enjoy something greatly (informal)",
     "vi": "thương muốn ăn luôn",
     "viDef": "thích thứ gì đến mê mẩn (thân mật)"
   },
   {
     "word": "beddy-bye",
     "ipa": "ˈbɛdi baɪ",
+    "type": "principle verb, infinitive",
+    "def": "go to sleep (informal)",
     "vi": "đi ngủ nhé",
     "viDef": "lên giường ngủ (thân mật)"
   },
   {
     "word": "oopsie-daisy",
     "ipa": "ˈʊpsi ˈdeɪzi",
+    "type": "Interjection",
+    "def": "oops; (an informal interjection when a mistake is",
     "vi": "ui da",
     "viDef": "câu thốt ra khi có sơ suất (thân mật)"
   },
   {
     "word": "din-din",
     "ipa": "dɪn dɪn",
+    "type": "common noun, non-variable",
+    "def": "dinner (informal; childish)",
     "vi": "bữa cơm chiều",
     "viDef": "bữa tối (lời nói với trẻ)"
   },
   {
     "word": "binkie",
     "ipa": "ˈbɪŋki",
+    "type": "common noun, singular",
+    "def": "soother; pacifier; a thing you put in a baby's mouth for it to suck (childish)",
     "vi": "núm vú giả",
     "viDef": "vật cho em bé ngậm để dỗ (lời nói với trẻ)"
   },
   {
     "word": "booboo",
     "ipa": "ˈbubu",
+    "type": "common noun, singular",
+    "def": "a small injury; something that hurts (informal, childish)",
     "vi": "chỗ đau đau",
     "viDef": "vết thương nhỏ (thân mật, lời nói với trẻ)"
   },
   {
     "word": "potty",
     "ipa": "ˈpɑti",
+    "type": "common noun, singular",
+    "def": "toilet (informal; childish)",
     "vi": "bô",
     "viDef": "nhà vệ sinh (lời nói với trẻ)"
   },
   {
     "word": "baba",
     "ipa": "ˈbʌbə",
+    "type": "common noun, singular",
+    "def": "bottle (informal; childish)",
     "vi": "bình sữa",
     "viDef": "bình bú (lời nói với trẻ)"
   }

@@ -2,60 +2,80 @@
   {
     "word": "curriculum",
     "ipa": "kɚˈɪkjələm",
+    "type": "",
+    "def": "the aggregate of courses of study given in a school, college, university, etc.",
     "vi": "chương trình học",
     "viDef": "toàn bộ các môn được dạy ở một trường, đại học..."
   },
   {
     "word": "contraceptive",
     "ipa": "ˌkɑntɹəˈsɛptɪv",
+    "type": "",
+    "def": "device, drug, or chemical agent that prevents conception",
     "vi": "biện pháp tránh thai",
     "viDef": "dụng cụ, thuốc hoặc hóa chất ngăn thụ thai"
   },
   {
     "word": "condom",
     "ipa": "ˈkɑndəm",
+    "type": "",
+    "def": "a thin sheath worn over the penis during sex",
     "vi": "bao cao su",
     "viDef": "túi mỏng dùng khi quan hệ"
   },
   {
     "word": "to prevent",
     "ipa": "tu pɹɪˈvɛnt",
+    "type": "",
+    "def": "to stop from happening",
     "vi": "ngăn ngừa",
     "viDef": "làm cho điều gì không xảy ra"
   },
   {
     "word": "to contract",
     "ipa": "tu ˈkɑntɹækt",
+    "type": "",
+    "def": "to get or acquire, as by exposure to something contagious",
     "vi": "mắc phải",
     "viDef": "nhiễm hoặc bị lây do tiếp xúc với thứ gì"
   },
   {
     "word": "72 hour pill",
     "ipa": "ˈsɛvənti ˈtu ˈaʊɚ pɪl",
+    "type": "",
+    "def": "a pill taken immediately or within 72 hours of having unprotected sex",
     "vi": "thuốc tránh thai 72 giờ",
     "viDef": "viên thuốc uống ngay hoặc trong vòng 72 giờ sau khi quan hệ không an toàn"
   },
   {
     "word": "abortion",
     "ipa": "əˈbɔɹʃən",
+    "type": "",
+    "def": "the termination of a pregnancy",
     "vi": "phá thai",
     "viDef": "việc chấm dứt thai kỳ"
   },
   {
     "word": "planned parenthood",
     "ipa": "plænd ˈpɛɹəntˌhʊd",
+    "type": "",
+    "def": "a clinic in America which deals with sexually active adults",
     "vi": "tổ chức Planned Parenthood",
     "viDef": "phòng khám ở Mỹ phục vụ những người trưởng thành có quan hệ tình dục"
   },
   {
     "word": "syphillis",
     "ipa": "ˈsɪfələs",
+    "type": "",
+    "def": "one form of a sexually transmitted disease",
     "vi": "bệnh giang mai",
     "viDef": "một dạng bệnh lây qua đường tình dục"
   },
   {
     "word": "penicillum",
     "ipa": "ˌpɛnəˈsɪlɪn",
+    "type": "",
+    "def": "an anti-biotic used to treat syphillis",
     "vi": "penicillin",
     "viDef": "kháng sinh dùng chữa giang mai"
   }

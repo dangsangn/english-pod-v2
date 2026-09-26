@@ -2,60 +2,80 @@
   {
     "word": "to activate",
     "ipa": "tu ˈæktəˌveɪt",
+    "type": "",
+    "def": "to cause a device to start working",
     "vi": "kích hoạt",
     "viDef": "làm cho thiết bị bắt đầu chạy"
   },
   {
     "word": "promotion",
     "ipa": "pɹəˈmoʊʃən",
+    "type": "",
+    "def": "something done to make people aware of a product",
     "vi": "hoạt động quảng bá",
     "viDef": "việc làm nhằm giúp mọi người biết đến sản phẩm"
   },
   {
     "word": "surcharge",
     "ipa": "sɚˈtʃɑɹdʒ",
+    "type": "",
+    "def": "money that be paid in addition to the regular",
     "vi": "phụ phí",
     "viDef": "tiền phải trả thêm ngoài khoản thường lệ"
   },
   {
     "word": "surcharge",
     "ipa": "sɚˈtʃɑɹdʒ",
+    "type": "",
+    "def": "money that be paid in addition to the regular",
     "vi": "phụ phí",
     "viDef": "tiền phải trả thêm ngoài khoản thường lệ"
   },
   {
     "word": "ringtone",
     "ipa": "ˈɹɪŋtoʊn",
+    "type": "",
+    "def": "the sound made by a cell phone when it receives a call",
     "vi": "nhạc chuông",
     "viDef": "âm điện thoại phát ra khi có người gọi"
   },
   {
     "word": "smartphone",
     "ipa": "ˈsmɑɹtfoʊn",
+    "type": "",
+    "def": "a phone that has more features than a traditional cell phone, including web browser, in-phone cameras, and different applications",
     "vi": "điện thoại thông minh",
     "viDef": "điện thoại có nhiều tính năng hơn máy thường, gồm trình duyệt web, camera tích hợp và các ứng dụng"
   },
   {
     "word": "headset",
     "ipa": "ˈhɛdsɛt",
+    "type": "",
+    "def": "worn on the head to help you speak and listen while not holding your phone",
     "vi": "tai nghe có mic",
     "viDef": "thứ đeo lên đầu giúp bạn nói và nghe mà không phải giữ điện thoại"
   },
   {
     "word": "rebate",
     "ipa": "ˈɹibeɪt",
+    "type": "",
+    "def": "a partial refund, a discount",
     "vi": "khoản hoàn lại",
     "viDef": "phần tiền trả lại, mức bớt giá"
   },
   {
     "word": "contract",
     "ipa": "ˈkɑntɹækt",
+    "type": "",
+    "def": "an agreement between two or more sides that has specific terms",
     "vi": "hợp đồng",
     "viDef": "thỏa thuận giữa hai hay nhiều bên với các điều khoản cụ thể"
   },
   {
     "word": "hands-free",
     "ipa": "hændz fɹi",
+    "type": "",
+    "def": "something that makes you able to use it without hands",
     "vi": "rảnh tay",
     "viDef": "thứ dùng được mà không cần tay"
   }

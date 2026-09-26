@@ -2,84 +2,112 @@
   {
     "word": "go over",
     "ipa": "ɡoʊ ˈoʊvɚ",
+    "type": "phrase",
+    "def": "revise, check",
     "vi": "rà lại",
     "viDef": "xem lại, kiểm tra"
   },
   {
     "word": "through the roof",
     "ipa": "θɹu ðə ɹuf",
+    "type": "phrase",
+    "def": "suddenly very high",
     "vi": "vọt lên trời",
     "viDef": "đột ngột tăng rất cao"
   },
   {
     "word": "off the charts",
     "ipa": "ɔf ðə tʃɑɹts",
+    "type": "phrase",
+    "def": "very high",
     "vi": "cao ngất ngưởng",
     "viDef": "rất cao"
   },
   {
     "word": "expenditures",
     "ipa": "ɪkˈspɛndətʃɚz",
+    "type": "common noun, plural",
+    "def": "amount of money spent on something",
     "vi": "các khoản chi",
     "viDef": "số tiền đã chi cho việc gì đó"
   },
   {
     "word": "out of control",
     "ipa": "aʊt ʌv kənˈtɹoʊl",
+    "type": "phrase",
+    "def": "not in control",
     "vi": "mất kiểm soát",
     "viDef": "không kiểm soát được"
   },
   {
     "word": "look into",
     "ipa": "lʊk ˈɪntu",
+    "type": "principle verb, Will Future",
+    "def": "investigate, try to get information about something",
     "vi": "xem xét, tìm hiểu",
     "viDef": "điều tra, tìm thông tin về việc gì đó"
   },
   {
     "word": "go on and on",
     "ipa": "ɡoʊ ɑn ənd ɑn",
+    "type": "phrase",
+    "def": "continues",
     "vi": "cứ kéo dài mãi",
     "viDef": "tiếp diễn không dứt"
   },
   {
     "word": "take care of",
     "ipa": "teɪk kɛɹ ʌv",
+    "type": "principle verb, Will Future",
+    "def": "do something about",
     "vi": "lo liệu",
     "viDef": "xử lý việc gì đó"
   },
   {
     "word": "revenue",
     "ipa": "ˈɹɛvəˌnu",
+    "type": "common noun, non-variable",
+    "def": "amount of money paid to a business",
     "vi": "doanh thu",
     "viDef": "số tiền doanh nghiệp thu về"
   },
   {
     "word": "cash flow",
     "ipa": "kæʃ floʊ",
+    "type": "common noun, non-variable",
+    "def": "the movement of money into and out of a business",
     "vi": "dòng tiền",
     "viDef": "luồng tiền ra vào doanh nghiệp"
   },
   {
     "word": "the bottom line",
     "ipa": "ðə ˈbɑtəm laɪn",
+    "type": "phrase",
+    "def": "the net profit; the amount of money a business makes after expenses",
     "vi": "lợi nhuận ròng",
     "viDef": "khoản lãi còn lại sau khi trừ chi phí"
   },
   {
     "word": "finances",
     "ipa": "fɪˈnænsɪz",
+    "type": "common noun, non-variable",
+    "def": "the amount of money you have and how well it is organized",
     "vi": "tình hình tài chính",
     "viDef": "số tiền bạn có và mức độ quản lý nó"
   },
   {
     "word": "income",
     "ipa": "ˈɪnkʌm",
+    "type": "common noun, non-variable",
+    "def": "the amount of money a person or a company makes",
     "vi": "thu nhập",
     "viDef": "số tiền một người hoặc công ty kiếm được"
   },
   {
     "word": "assets",
     "ipa": "ˈæsɛts",
+    "type": "common noun, plural",
+    "def": "things of value that are owned by a company",
     "vi": "tài sản",
     "viDef": "những thứ có giá trị mà công ty sở hữu"
   }

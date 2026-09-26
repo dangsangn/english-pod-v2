@@ -2,66 +2,88 @@
   {
     "word": "out of",
     "ipa": "aʊt ʌv",
+    "type": "",
+    "def": "lack",
     "vi": "hết mất",
     "viDef": "thiếu, không còn"
   },
   {
     "word": "pick up",
     "ipa": "pɪk ʌp",
+    "type": "",
+    "def": "to choose and buy",
     "vi": "chọn mua",
     "viDef": "lựa rồi mua"
   },
   {
     "word": "promotion",
     "ipa": "pɹəˈmoʊʃən",
+    "type": "",
+    "def": "something done to make people aware of a product",
     "vi": "hoạt động quảng bá",
     "viDef": "việc làm nhằm giúp mọi người biết đến sản phẩm"
   },
   {
     "word": "never mind",
     "ipa": "ˈnɛvɚ maɪnd",
+    "type": "",
+    "def": "don't take what you just said into consideration",
     "vi": "thôi bỏ đi",
     "viDef": "đừng để ý câu vừa rồi"
   },
   {
     "word": "last but not least",
     "ipa": "læst bʌt nɑt list",
+    "type": "",
+    "def": "in addition to all the foregoing",
     "vi": "cuối nhưng không kém phần",
     "viDef": "thêm vào tất cả những điều trên"
   },
   {
     "word": "deli",
     "ipa": "ˈdɛli",
+    "type": "",
+    "def": "a shop selling ready-to-eat food products",
     "vi": "quầy đồ ăn sẵn",
     "viDef": "cửa hàng bán thực phẩm ăn liền"
   },
   {
     "word": "Demand",
     "ipa": "dɪˈmænd",
+    "type": "",
+    "def": "To aggressively give orders",
     "vi": "ra lệnh gắt",
     "viDef": "yêu cầu một cách áp đặt"
   },
   {
     "word": "Distraction",
     "ipa": "dɪˈstɹækʃən",
+    "type": "",
+    "def": "To lose focus",
     "vi": "sự mất tập trung",
     "viDef": "việc bị hút chú ý sang chỗ khác"
   },
   {
     "word": "Inconvenient",
     "ipa": "ˌɪnkənˈvinjənt",
+    "type": "",
+    "def": "Have bad timing",
     "vi": "bất tiện",
     "viDef": "không đúng lúc"
   },
   {
     "word": "Decieving",
     "ipa": "dɪˈsivɪŋ",
+    "type": "",
+    "def": "To not be truthful",
     "vi": "dối gạt",
     "viDef": "không nói thật"
   },
   {
     "word": "Expenses",
     "ipa": "ɪkˈspɛnsəz",
+    "type": "",
+    "def": "To be aware of the spending or saving money",
     "vi": "các khoản chi",
     "viDef": "việc để tâm đến chuyện chi hay giữ tiền"
   }

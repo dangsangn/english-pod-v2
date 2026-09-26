@@ -2,66 +2,88 @@
   {
     "word": "inspiration",
     "ipa": "ˌɪnspɚˈeɪʃən",
+    "type": "",
+    "def": "stimulation or arousal of the mind, feelings",
     "vi": "nguồn cảm hứng",
     "viDef": "sự khơi gợi hoặc thức tỉnh trí óc, cảm xúc"
   },
   {
     "word": "open it up",
     "ipa": "ˈoʊpən ɪt ʌp",
+    "type": "",
+    "def": "begin;start",
     "vi": "mở ra cho mọi người",
     "viDef": "bắt đầu phần đó"
   },
   {
     "word": "in regards",
     "ipa": "ɪn ɹɪˈɡɑɹdz",
+    "type": "",
+    "def": "about",
     "vi": "về việc",
     "viDef": "liên quan tới"
   },
   {
     "word": "hit the nail on the head",
     "ipa": "hɪt ðə neɪl ɑn ðə hɛd",
+    "type": "",
+    "def": "to say something that is exactly right",
     "vi": "nói trúng phóc",
     "viDef": "nói ra điều đúng y"
   },
   {
     "word": "elaborate",
     "ipa": "ɪˈlæbɹət",
+    "type": "",
+    "def": "to explain something in a more detailed way",
     "vi": "nói rõ thêm",
     "viDef": "giải thích điều gì chi tiết hơn"
   },
   {
     "word": "pressed for time",
     "ipa": "pɹɛst fɔɹ taɪm",
+    "type": "",
+    "def": "don't have enough time",
     "vi": "bí thời gian",
     "viDef": "không có đủ thời gian"
   },
   {
     "word": "interpret",
     "ipa": "ˌɪnˈtɝpɹət",
+    "type": "",
+    "def": "to construe or understand in a particular way",
     "vi": "hiểu theo, diễn giải",
     "viDef": "lý giải hoặc hiểu theo một cách nhất định"
   },
   {
     "word": "precise",
     "ipa": "pɹɪˈsaɪs",
+    "type": "",
+    "def": "definite or exact in statement",
     "vi": "chính xác",
     "viDef": "rõ ràng hoặc chuẩn xác trong lời nói"
   },
   {
     "word": "jargon",
     "ipa": "ˈdʒɑɹɡən",
+    "type": "",
+    "def": "any talk or writing that one does not understand",
     "vi": "thuật ngữ khó hiểu",
     "viDef": "lời nói hoặc bài viết mà người ta chẳng hiểu nổi"
   },
   {
     "word": "in a rush",
     "ipa": "ɪn ə ɹʌʃ",
+    "type": "",
+    "def": "requiring speed or urgency",
     "vi": "đang gấp",
     "viDef": "cần nhanh hoặc cấp bách"
   },
   {
     "word": "put forth",
     "ipa": "pʊt fɔɹθ",
+    "type": "",
+    "def": "to give an idea or question e.g I put forth this question to challenge your idea's",
     "vi": "nêu ra",
     "viDef": "đưa ra một ý hoặc câu hỏi"
   }

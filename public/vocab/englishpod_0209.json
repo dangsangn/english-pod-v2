@@ -2,60 +2,80 @@
   {
     "word": "hear",
     "ipa": "hiɹ",
+    "type": "",
+    "def": "learn something by the ear (usually in surprise)",
     "vi": "nghe được",
     "viDef": "biết điều gì qua tai, thường là bất ngờ"
   },
   {
     "word": "gossip",
     "ipa": "ˈɡɑsəp",
+    "type": "",
+    "def": "rumor or talk of a personal, sensational nature",
     "vi": "chuyện đồn đại",
     "viDef": "tin đồn hoặc lời bàn về đời tư, mang tính giật gân"
   },
   {
     "word": "whisper",
     "ipa": "ˈwɪspɚ",
+    "type": "",
+    "def": "soft speech produced without full voice",
     "vi": "thì thầm",
     "viDef": "nói nhẹ, không dùng hết giọng"
   },
   {
     "word": "rumor",
     "ipa": "ˈɹumɚ",
+    "type": "",
+    "def": "a mixture of truth and untruth passed around",
     "vi": "tin đồn",
     "viDef": "chuyện lẫn cả thật cả giả được truyền quanh"
   },
   {
     "word": "promotion",
     "ipa": "pɹəˈmoʊʃən",
+    "type": "",
+    "def": "act of raising in rank or position",
     "vi": "sự thăng cấp",
     "viDef": "việc được nâng bậc hoặc chức"
   },
   {
     "word": "talk",
     "ipa": "tɔk",
+    "type": "",
+    "def": "someone who cannot keep a secret",
     "vi": "người miệng rộng",
     "viDef": "người không giữ được điều bí mật"
   },
   {
     "word": "trust",
     "ipa": "tɹʌst",
+    "type": "",
+    "def": "someone who cannot be trusted",
     "vi": "kẻ không đáng tin",
     "viDef": "người không thể tin được"
   },
   {
     "word": "praise",
     "ipa": "pɹeɪz",
+    "type": "",
+    "def": "to speak very well about someone",
     "vi": "khen ngợi",
     "viDef": "nói tốt về ai"
   },
   {
     "word": "bad mouth",
     "ipa": "bæd maʊθ",
+    "type": "",
+    "def": "to speak poorly about someone",
     "vi": "nói xấu",
     "viDef": "nói tệ về ai"
   },
   {
     "word": "Lie",
     "ipa": "laɪ",
+    "type": "",
+    "def": "someone who does not tell the truth",
     "vi": "kẻ dối trá",
     "viDef": "người không nói thật"
   }

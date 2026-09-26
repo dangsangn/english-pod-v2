@@ -2,60 +2,80 @@
   {
     "word": "settle down",
     "ipa": "ˈsɛtəl daʊn",
+    "type": "",
+    "def": "relax",
     "vi": "bình tĩnh lại",
     "viDef": "thư giãn"
   },
   {
     "word": "rip-off",
     "ipa": "ɹɪp ɔf",
+    "type": "",
+    "def": "the act of overcharging",
     "vi": "vụ chặt giá",
     "viDef": "việc tính tiền quá đắt"
   },
   {
     "word": "handle",
     "ipa": "ˈhændəl",
+    "type": "",
+    "def": "deal with",
     "vi": "chịu được, xử được",
     "viDef": "đối phó với việc gì"
   },
   {
     "word": "throw up",
     "ipa": "θɹoʊ ʌp",
+    "type": "",
+    "def": "vomit",
     "vi": "nôn",
     "viDef": "trút ra ngoài"
   },
   {
     "word": "amusement",
     "ipa": "əˈmjuzmənt",
+    "type": "",
+    "def": "entertainment",
     "vi": "sự giải trí",
     "viDef": "chuyện mua vui"
   },
   {
     "word": "loop-the-loop",
     "ipa": "lup ðə lup",
+    "type": "",
+    "def": "a complete vertical loop",
     "vi": "vòng lộn ngược",
     "viDef": "một vòng tròn trọn vẹn theo chiều dọc"
   },
   {
     "word": "steep",
     "ipa": "stip",
+    "type": "",
+    "def": "having a slope that is almost vertical",
     "vi": "dốc dựng",
     "viDef": "độ nghiêng gần như thẳng đứng"
   },
   {
     "word": "lineup",
     "ipa": "ˈlaɪnʌp",
+    "type": "",
+    "def": "a line of people waiting their turn",
     "vi": "hàng người chờ",
     "viDef": "dòng người xếp đợi tới lượt"
   },
   {
     "word": "safety/lap bar",
     "ipa": "ˈseɪfti læp bɑɹ",
+    "type": "",
+    "def": "a bar that goes across a passenger's lap in order to keep them from falling out of the car",
     "vi": "thanh chắn an toàn",
     "viDef": "thanh gác qua chân khách để không bị rơi khỏi khoang"
   },
   {
     "word": "harness",
     "ipa": "ˈhɑɹnəs",
+    "type": "",
+    "def": "straps or a metal restraint that fit around a passenger's shoulders and mid-section in order to keep them from falling out of the car",
     "vi": "dây đai an toàn",
     "viDef": "bộ dây hoặc gọng kim loại ôm vai và bụng để khách không rơi ra"
   }

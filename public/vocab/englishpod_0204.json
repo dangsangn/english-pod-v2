@@ -2,120 +2,160 @@
   {
     "word": "reach a verdict",
     "ipa": "ɹitʃ ə ˈvɝdɪkt",
+    "type": "",
+    "def": "succeed in making the finding of a jury in a trial",
     "vi": "đi đến phán quyết",
     "viDef": "bồi thẩm đoàn đưa ra được kết luận trong phiên xử"
   },
   {
     "word": "guilty",
     "ipa": "ˈɡɪlti",
+    "type": "",
+    "def": "responsible for doing something bad",
     "vi": "có tội",
     "viDef": "phải chịu trách nhiệm vì đã làm điều xấu"
   },
   {
     "word": "your honor",
     "ipa": "jɔɹ ˈɑnɚ",
+    "type": "",
+    "def": "a respectful title used to or of certain judges",
     "vi": "thưa quý tòa",
     "viDef": "cách gọi kính trọng dành cho thẩm phán"
   },
   {
     "word": "jury",
     "ipa": "ˈdʒʊɹi",
+    "type": "",
+    "def": "a body of persons sworn to judge",
     "vi": "bồi thẩm đoàn",
     "viDef": "nhóm người tuyên thệ để phân định vụ án"
   },
   {
     "word": "accuse of",
     "ipa": "əˈkjuz ʌv",
+    "type": "",
+    "def": "to charge someone with a crime",
     "vi": "buộc tội về",
     "viDef": "quy cho ai một tội"
   },
   {
     "word": "commit",
     "ipa": "kəˈmɪt",
+    "type": "",
+    "def": "to do something (usually a crime)",
     "vi": "thực hiện, gây ra",
     "viDef": "làm một việc, thường là phạm tội"
   },
   {
     "word": "prosecution",
     "ipa": "ˌpɹɑsəˈkjuʃən",
+    "type": "",
+    "def": "the lawyers against the defendant",
     "vi": "bên công tố",
     "viDef": "các luật sư đứng về phía chống lại bị đơn"
   },
   {
     "word": "pickpocket",
     "ipa": "ˈpɪkˌpɑkət",
+    "type": "",
+    "def": "one who steals from pockets",
     "vi": "kẻ móc túi",
     "viDef": "người lấy đồ trong túi người khác"
   },
   {
     "word": "testimony",
     "ipa": "ˈtɛstəˌmoʊni",
+    "type": "",
+    "def": "a declaration of truth or fact",
     "vi": "lời khai",
     "viDef": "lời tuyên bố về sự thật hoặc dữ kiện"
   },
   {
     "word": "defendant",
     "ipa": "dɪˈfɛndənt",
+    "type": "",
+    "def": "the person being sued or accused",
     "vi": "bị đơn, bị cáo",
     "viDef": "người bị kiện hoặc bị buộc tội"
   },
   {
     "word": "victim",
     "ipa": "ˈvɪktəm",
+    "type": "",
+    "def": "people affected by a painful or sad experience",
     "vi": "nạn nhân",
     "viDef": "người phải chịu điều đau đớn hoặc mất mát"
   },
   {
     "word": "innocent",
     "ipa": "ˈɪnəsənt",
+    "type": "",
+    "def": "not guilty",
     "vi": "vô tội",
     "viDef": "không có tội"
   },
   {
     "word": "so-called",
     "ipa": "soʊ kɔld",
+    "type": "",
+    "def": "refer to something that is not suitable",
     "vi": "cái gọi là",
     "viDef": "nói về điều mà tên gọi không hợp"
   },
   {
     "word": "evidence",
     "ipa": "ˈɛvədəns",
+    "type": "",
+    "def": "something that shows the thing is true",
     "vi": "bằng chứng",
     "viDef": "thứ chứng minh điều đó là thật"
   },
   {
     "word": "witness",
     "ipa": "ˈwɪtnəs",
+    "type": "",
+    "def": "one who is called on to testify before a court",
     "vi": "nhân chứng",
     "viDef": "người được gọi ra khai trước tòa"
   },
   {
     "word": "Acquittal",
     "ipa": "əˈkwɪtəl",
+    "type": "",
+    "def": "A jury verdict that a criminal defendant is not guilty, or the finding of a judge that the evidence is insufficient to support a conviction.",
     "vi": "sự tuyên vô tội",
     "viDef": "phán quyết của bồi thẩm rằng bị cáo không có tội, hoặc kết luận của thẩm phán rằng chứng cứ không đủ để kết án"
   },
   {
     "word": "Affidavit",
     "ipa": "ˌæfəˈdeɪvət",
+    "type": "",
+    "def": "A written or printed statement made under oath.",
     "vi": "bản khai có tuyên thệ",
     "viDef": "lời khai viết hoặc in ra, lập dưới lời thề"
   },
   {
     "word": "Lawsuit",
     "ipa": "ˈlɔsut",
+    "type": "",
+    "def": "A legal action started by a plaintiff against a defendant based on a complaint that the defendant failed to perform a legal duty which resulted in harm to the plaintiff.",
     "vi": "vụ kiện",
     "viDef": "hành động pháp lý do nguyên đơn khởi kiện bị đơn, dựa trên đơn tố rằng bị đơn không làm tròn nghĩa vụ và gây hại"
   },
   {
     "word": "Plea",
     "ipa": "pli",
+    "type": "",
+    "def": "In a criminal case, the defendant's statement pleading \"guilty\" or \"not guilty\" in answer to the charges.",
     "vi": "lời nhận tội hay phủ nhận",
     "viDef": "trong án hình sự, lời bị cáo đáp lại cáo buộc là \"có tội\" hay \"không có tội\""
   },
   {
     "word": "Warrant",
     "ipa": "ˈwɔɹənt",
+    "type": "",
+    "def": "Court authorization, most often for law enforcement officers, to conduct a search or make an arrest.",
     "vi": "lệnh của tòa",
     "viDef": "giấy tòa cho phép, thường là cho cảnh sát, khám xét hoặc bắt người"
   }

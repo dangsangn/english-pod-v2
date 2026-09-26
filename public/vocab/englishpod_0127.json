@@ -2,60 +2,80 @@
   {
     "word": "genre",
     "ipa": "ˈʒɑnɹə",
+    "type": "common noun, singular",
+    "def": "a kind of literary or artistic work",
     "vi": "thể loại",
     "viDef": "loại tác phẩm văn học hoặc nghệ thuật"
   },
   {
     "word": "acronym",
     "ipa": "ˈækɹənɪm",
+    "type": "common noun, singular",
+    "def": "abbreviations",
     "vi": "từ viết tắt",
     "viDef": "chữ tắt"
   },
   {
     "word": "sudden death",
     "ipa": "ˈsʌdən dɛθ",
+    "type": "common noun, singular",
+    "def": "extra ime to determine a winner after a tie",
     "vi": "loạt phân định",
     "viDef": "thời gian thêm để tìm người thắng sau khi hòa"
   },
   {
     "word": "the pressure is on",
     "ipa": "ðə ˈpɹɛʃɚ ɪz ɑn",
+    "type": "phrase",
+    "def": "the outcome or result depends on you",
     "vi": "áp lực đè lên vai",
     "viDef": "kết quả tùy vào bạn"
   },
   {
     "word": "double or nothing",
     "ipa": "ˈdʌbəl ɔɹ ˈnʌθɪŋ",
+    "type": "phrase",
+    "def": "used when you want to bet twice as much",
     "vi": "gấp đôi hoặc trắng tay",
     "viDef": "câu dùng khi muốn cược lên gấp hai"
   },
   {
     "word": "air guitar",
     "ipa": "ɛɹ ɡɪˈtɑɹ",
+    "type": "common noun, singular",
+    "def": "when a person pretends to play the guitar when listening to music",
     "vi": "đàn ghi-ta tưởng tượng",
     "viDef": "giả vờ chơi ghi-ta khi nghe nhạc"
   },
   {
     "word": "a capella",
     "ipa": "ə kəˈpɛlə",
+    "type": "Adjective",
+    "def": "to sing without any instruments or music",
     "vi": "hát không nhạc đệm",
     "viDef": "hát mà không có nhạc cụ"
   },
   {
     "word": "encore",
     "ipa": "ˈɑnkɔɹ",
+    "type": "common noun, singular",
+    "def": "a demand by an audience for an additional performance at the end of a concert",
     "vi": "tiếng gọi hát thêm",
     "viDef": "khán giả đòi diễn thêm khi buổi nhạc đã hết"
   },
   {
     "word": "chorus",
     "ipa": "ˈkɔɹəs",
+    "type": "common noun, singular",
+    "def": "a part of a song repeated after each verse",
     "vi": "điệp khúc",
     "viDef": "đoạn nhạc lặp lại sau mỗi lời"
   },
   {
     "word": "hit",
     "ipa": "hɪt",
+    "type": "common noun, singular",
+    "def": "a person or thing that gains wide appeal or fame",
     "vi": "bản hit",
     "viDef": "người hoặc thứ được yêu thích rộng rãi"
   }

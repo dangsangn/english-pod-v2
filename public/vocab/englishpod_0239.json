@@ -2,96 +2,128 @@
   {
     "word": "hot air balloon",
     "ipa": "hɑt ɛɹ bəˈlun",
+    "type": "",
+    "def": "a huge balloon risen up by hot air",
     "vi": "khinh khí cầu",
     "viDef": "quả bóng lớn bay lên nhờ khí nóng"
   },
   {
     "word": "in the field",
     "ipa": "ɪn ðə fild",
+    "type": "",
+    "def": "in an area of work, study",
     "vi": "trong ngành",
     "viDef": "trong một lĩnh vực làm việc hoặc học tập"
   },
   {
     "word": "jagged",
     "ipa": "ˈdʒæɡəd",
+    "type": "",
+    "def": "having a sharp surface",
     "vi": "lởm chởm",
     "viDef": "có bề mặt gồ nhọn"
   },
   {
     "word": "oversize",
     "ipa": "ˌoʊvɚˈsaɪz",
+    "type": "",
+    "def": "larger than what is listed",
     "vi": "quá khổ",
     "viDef": "lớn hơn mức đã ghi"
   },
   {
     "word": "in that case",
     "ipa": "ɪn ðæt keɪs",
+    "type": "",
+    "def": "if something said earlier is true",
     "vi": "nếu vậy thì",
     "viDef": "nếu điều nói trước đó là đúng"
   },
   {
     "word": "hang gliding",
     "ipa": "hæŋ ˈɡlaɪdɪŋ",
+    "type": "",
+    "def": "gliding in a hang glider",
     "vi": "bay diều treo",
     "viDef": "việc lượn bằng cánh diều treo người"
   },
   {
     "word": "the closest thing you can get to",
     "ipa": "ðə ˈkloʊsəst θɪŋ ju kæn ɡɛt tu",
+    "type": "",
+    "def": "the easiest way,the most likely thing",
     "vi": "gần nhất với",
     "viDef": "cách dễ nhất, thứ sát nhất với điều đó"
   },
   {
     "word": "mountain biking",
     "ipa": "ˈmaʊntən ˈbaɪkɪŋ",
+    "type": "",
+    "def": "ride a bicycle designed for riding in mountainous",
     "vi": "đạp xe địa hình",
     "viDef": "đạp loại xe thiết kế để đi vùng đồi núi"
   },
   {
     "word": "rock climbing",
     "ipa": "ɹɑk ˈklaɪmɪŋ",
+    "type": "",
+    "def": "the sport of scaling rock masses on mountain sides",
     "vi": "leo núi đá",
     "viDef": "môn trèo lên các khối đá trên vách núi"
   },
   {
     "word": "street luge",
     "ipa": "stɹit ludʒ",
+    "type": "",
+    "def": "the sport of descending a steep road",
     "vi": "trượt ván nằm đường nhựa",
     "viDef": "môn lao xuống một con đường dốc"
   },
   {
     "word": "whitewater rafting",
     "ipa": "ˈwaɪˌtwɔtɚ ˈɹæftɪŋ",
+    "type": "",
+    "def": "The sport of rafting down fast-flowing rivers",
     "vi": "vượt thác bằng bè",
     "viDef": "môn đi bè xuống dòng sông chảy mạnh"
   },
   {
     "word": "sky diving",
     "ipa": "skaɪ ˈdaɪvɪŋ",
+    "type": "",
+    "def": "to jump out an airplane and parachute to the ground",
     "vi": "nhảy dù",
     "viDef": "nhảy ra khỏi máy bay rồi bung dù xuống đất"
   },
   {
     "word": "surfing",
     "ipa": "ˈsɝfɪŋ",
+    "type": "",
+    "def": "to ride a wave on a long wooden board",
     "vi": "lướt sóng",
     "viDef": "cưỡi trên ngọn sóng bằng một tấm ván dài"
   },
   {
     "word": "life insurance",
     "ipa": "laɪf ˌɪnˈʃʊɹəns",
+    "type": "",
+    "def": "insurance to protect your family from your untimely death",
     "vi": "bảo hiểm nhân thọ",
     "viDef": "bảo hiểm để lo cho gia đình nếu mình mất sớm"
   },
   {
     "word": "base jumping",
     "ipa": "beɪs ˈdʒʌmpɪŋ",
+    "type": "",
+    "def": "jumping off a cliff and parachuting to the ground",
     "vi": "nhảy dù từ vách",
     "viDef": "nhảy khỏi mỏm đá rồi bung dù xuống đất"
   },
   {
     "word": "bungie jumping",
     "ipa": "ˈbʌndʒi ˈdʒʌmpɪŋ",
+    "type": "",
+    "def": "to jump off a ledge while attached to a rope",
     "vi": "nhảy bungee",
     "viDef": "nhảy từ bờ cao khi có dây buộc vào người"
   }

@@ -2,78 +2,104 @@
   {
     "word": "protest",
     "ipa": "ˈpɹoʊtɛst",
+    "type": "common noun, singular",
+    "def": "an event where people gather together to show disapproval of something",
     "vi": "cuộc biểu tình",
     "viDef": "sự kiện người dân tụ họp để phản đối điều gì đó"
   },
   {
     "word": "break out",
     "ipa": "bɹeɪk aʊt",
+    "type": "principle verb, present perfect",
+    "def": "start suddenly",
     "vi": "bùng phát",
     "viDef": "khởi phát đột ngột"
   },
   {
     "word": "bailout",
     "ipa": "ˈbeɪlaʊt",
+    "type": "common noun, singular",
+    "def": "the act of saving a company form money problems",
     "vi": "gói giải cứu",
     "viDef": "việc cứu một công ty khỏi khó khăn tài chính"
   },
   {
     "word": "injustice",
     "ipa": "ˌɪnˈdʒʌstɪs",
+    "type": "common noun, singular",
+    "def": "an unfair situation",
     "vi": "sự bất công",
     "viDef": "tình cảnh không công bằng"
   },
   {
     "word": "outrage",
     "ipa": "ˈaʊtɹeɪdʒ",
+    "type": "common noun, singular",
+    "def": "something that is morally wrong",
     "vi": "điều gây phẫn nộ",
     "viDef": "việc sai trái về mặt đạo đức"
   },
   {
     "word": "mismanage",
     "ipa": "mɪˈsmænɪdʒ",
+    "type": "principle verb, present perfect",
+    "def": "manage badly",
     "vi": "quản lý yếu kém",
     "viDef": "điều hành tồi"
   },
   {
     "word": "have the nerve",
     "ipa": "hæv ðə nɝv",
+    "type": "phrase",
+    "def": "dare to",
     "vi": "cả gan",
     "viDef": "dám làm gì đó"
   },
   {
     "word": "placard",
     "ipa": "ˈplækɚd",
+    "type": "common noun, singular",
+    "def": "sign people hold at protests, usually a piece of cardboard on a stick",
     "vi": "biểu ngữ cầm tay",
     "viDef": "tấm bảng người biểu tình cầm, thường là bìa cứng gắn que"
   },
   {
     "word": "rally",
     "ipa": "ˈɹæli",
+    "type": "common noun, singular",
+    "def": "public meeting in support or opposition of something",
     "vi": "cuộc tuần hành",
     "viDef": "buổi tụ họp công khai để ủng hộ hoặc phản đối điều gì"
   },
   {
     "word": "demonstration",
     "ipa": "ˌdɛmənˈstɹeɪʃən",
+    "type": "common noun, singular",
+    "def": "event where people gather together to show that they support or oppose something",
     "vi": "cuộc tuần hành thị uy",
     "viDef": "sự kiện người dân tụ họp để bày tỏ ủng hộ hoặc phản đối"
   },
   {
     "word": "demonstrators",
     "ipa": "ˈdɛmənˌstɹeɪtɚz",
+    "type": "common noun, plural",
+    "def": "people who go to a demonstration or protest",
     "vi": "người tham gia biểu tình",
     "viDef": "những người đi tuần hành hoặc biểu tình"
   },
   {
     "word": "opponent",
     "ipa": "əˈpoʊnənt",
+    "type": "common noun, singular",
+    "def": "a person who opposes something or someone",
     "vi": "người phản đối",
     "viDef": "người chống lại điều gì hoặc ai đó"
   },
   {
     "word": "proponent",
     "ipa": "pɹəˈpoʊnənt",
+    "type": "common noun, singular",
+    "def": "person who supports someone or something",
     "vi": "người ủng hộ",
     "viDef": "người đứng về phía ai đó hoặc điều gì đó"
   }

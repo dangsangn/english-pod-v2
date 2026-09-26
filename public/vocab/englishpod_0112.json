@@ -2,120 +2,160 @@
   {
     "word": "clog",
     "ipa": "klɑɡ",
+    "type": "verb",
+    "def": "slowly forming a block in something",
     "vi": "bị tắc dần",
     "viDef": "từ từ nghẽn lại bên trong"
   },
   {
     "word": "blockage",
     "ipa": "ˈblɑkɪdʒ",
+    "type": "common noun, singular",
+    "def": "something that stops another thing from passing through",
     "vi": "chỗ nghẽn",
     "viDef": "thứ chặn không cho vật khác đi qua"
   },
   {
     "word": "shut off",
     "ipa": "ʃʌt ɔf",
+    "type": "verb",
+    "def": "to cause a machine to stop operating",
     "vi": "tắt, ngắt",
     "viDef": "làm cho máy ngừng chạy"
   },
   {
     "word": "falling apart",
     "ipa": "ˈfɑlɪŋ əˈpɑɹt",
+    "type": "phrase",
+    "def": "slowly break",
     "vi": "rệu rã",
     "viDef": "hỏng dần từng phần"
   },
   {
     "word": "leak",
     "ipa": "lik",
+    "type": "verb",
+    "def": "liquid or gas escaping from its containter through",
     "vi": "rò rỉ",
     "viDef": "nước hoặc khí thoát ra khỏi vật chứa"
   },
   {
     "word": "plumber",
     "ipa": "ˈplʌmɚ",
+    "type": "common noun, singular",
+    "def": "plumber",
     "vi": "thợ sửa ống nước",
     "viDef": "người làm nghề ống nước"
   },
   {
     "word": "flush",
     "ipa": "flʌʃ",
+    "type": "verb",
+    "def": "to cause water to clean a toilet",
     "vi": "xả nước",
     "viDef": "cho nước dội rửa bồn cầu"
   },
   {
     "word": "plunger",
     "ipa": "ˈplʌndʒɚ",
+    "type": "common noun, singular",
+    "def": "a tool for unclogging toilets",
     "vi": "cây thông cầu",
     "viDef": "dụng cụ hút thông bồn cầu"
   },
   {
     "word": "suspect",
     "ipa": "səˈspɛkt",
+    "type": "verb",
+    "def": "have an idea about the reason for something",
     "vi": "đoán là",
     "viDef": "có ý nghĩ về nguyên nhân của việc gì"
   },
   {
     "word": "foreign",
     "ipa": "ˈfɔɹən",
+    "type": "Adjective",
+    "def": "something that doesn't belong",
     "vi": "vật lạ",
     "viDef": "thứ không thuộc về chỗ đó"
   },
   {
     "word": "overflow",
     "ipa": "ˈoʊvɚˌfloʊ",
+    "type": "verb",
+    "def": "to flow over the edge of something",
     "vi": "trào ra",
     "viDef": "chảy vượt qua miệng vật chứa"
   },
   {
     "word": "rusty",
     "ipa": "ˈɹʌsti",
+    "type": "Adjective",
+    "def": "covered with a reddish brown color",
     "vi": "gỉ sét",
     "viDef": "phủ lớp màu nâu đỏ"
   },
   {
     "word": "drain",
     "ipa": "dɹeɪn",
+    "type": "verb",
+    "def": "to remove liquid from something by letting it flow",
     "vi": "xả cạn",
     "viDef": "cho chất lỏng chảy hết ra"
   },
   {
     "word": "faucet",
     "ipa": "ˈfɔsət",
+    "type": "common noun, singular",
+    "def": "a device that controls the flow that comes out of",
     "vi": "vòi nước",
     "viDef": "thiết bị điều chỉnh dòng nước chảy ra"
   },
   {
     "word": "shutting off",
     "ipa": "ˈʃʌtɪŋ ɔf",
+    "type": "verb",
+    "def": "to cause a machine to stop operating",
     "vi": "việc ngắt máy",
     "viDef": "làm cho máy ngừng hoạt động"
   },
   {
     "word": "pump",
     "ipa": "pʌmp",
+    "type": "common noun, singular",
+    "def": "a machine that moves liquid from one place to another",
     "vi": "máy bơm",
     "viDef": "máy đẩy chất lỏng từ nơi này sang nơi khác"
   },
   {
     "word": "burst",
     "ipa": "bɝst",
+    "type": "verb",
+    "def": "break apart suddenly",
     "vi": "vỡ tung",
     "viDef": "nứt bung ra đột ngột"
   },
   {
     "word": "tap",
     "ipa": "tæp",
+    "type": "common noun, singular",
+    "def": "the part of the sink that water comes out of",
     "vi": "vòi bồn rửa",
     "viDef": "chỗ nước chảy ra ở bồn"
   },
   {
     "word": "appliance",
     "ipa": "əˈplaɪəns",
+    "type": "common noun, singular",
+    "def": "an electric machine with a special purpose",
     "vi": "đồ điện gia dụng",
     "viDef": "máy điện dùng cho một việc riêng"
   },
   {
     "word": "flood",
     "ipa": "flʌd",
+    "type": "verb",
+    "def": "water coming into a place where it shouldn't",
     "vi": "ngập nước",
     "viDef": "nước tràn vào nơi không đáng có"
   }

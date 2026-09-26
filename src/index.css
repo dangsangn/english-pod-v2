@@ -83,3 +83,30 @@
   font-synthesis-style: none;
   @apply text-sm text-indigo-600 dark:text-indigo-400 font-medium;
 }
+
+/* Vocabulary study */
+@keyframes vocab-fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes vocab-pop-in {
+  from { opacity: 0; transform: scale(0.94) translateY(12px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes vocab-rise-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+.vocab-fade-in { animation: vocab-fade-in 200ms ease-out; }
+.vocab-pop-in { animation: vocab-pop-in 320ms cubic-bezier(.2,.8,.2,1); }
+.vocab-rise-in { animation: vocab-rise-in 220ms ease-out; }
+
+/* Vietnamese text: never let the browser fake an italic (see .translation). */
+.vi-text { font-synthesis-style: none; }
+
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  .vocab-fade-in, .vocab-pop-in, .vocab-rise-in { animation: none; }
+}

@@ -2,96 +2,128 @@
   {
     "word": "check out",
     "ipa": "tʃɛk aʊt",
+    "type": "phrase",
+    "def": "look at something that is attractive",
     "vi": "ngắm thử",
     "viDef": "để mắt tới thứ gì hấp dẫn"
   },
   {
     "word": "fantastic",
     "ipa": "fænˈtæstɪk",
+    "type": "Adjective",
+    "def": "extremely good",
     "vi": "tuyệt cú mèo",
     "viDef": "cực kỳ ngon"
   },
   {
     "word": "décor",
     "ipa": "di kɔɹ",
+    "type": "common noun, singular",
+    "def": "decoration",
     "vi": "cách bài trí",
     "viDef": "trang trí nội thất"
   },
   {
     "word": "in the mood for",
     "ipa": "ɪn ðə mud fɔɹ",
+    "type": "phrase",
+    "def": "have a desire for something or to do something",
     "vi": "đang thèm",
     "viDef": "có hứng với món gì hoặc muốn làm gì"
   },
   {
     "word": "light",
     "ipa": "laɪt",
+    "type": "Adjective",
+    "def": "not heavy on stomach, easy to digest",
     "vi": "nhẹ bụng",
     "viDef": "không nặng bụng, dễ tiêu"
   },
   {
     "word": "bistro",
     "ipa": "ˈbɪstɹoʊ",
+    "type": "common noun, singular",
+    "def": "small, trendy restaurant or bar",
     "vi": "quán ăn nhỏ kiểu Âu",
     "viDef": "nhà hàng hoặc quán bar nhỏ, hợp mốt"
   },
   {
     "word": "tasty",
     "ipa": "ˈteɪsti",
+    "type": "Adjective",
+    "def": "delicious, tasting good",
     "vi": "ngon miệng",
     "viDef": "ngon, có vị hấp dẫn"
   },
   {
     "word": "outstanding",
     "ipa": "ˌaʊtˈstændɪŋ",
+    "type": "Adjective",
+    "def": "excellent",
     "vi": "xuất sắc",
     "viDef": "tuyệt vời"
   },
   {
     "word": "allergic to",
     "ipa": "əˈlɝdʒɪk tu",
+    "type": "Adjective",
+    "def": "have allergy towards something (usually food)",
     "vi": "bị dị ứng với",
     "viDef": "dị ứng với thứ gì, thường là thức ăn"
   },
   {
     "word": "a hole in the wall",
     "ipa": "ə hoʊl ɪn ðə wɔl",
+    "type": "phrase",
+    "def": "a very small, usually cheap restaurant or bar",
     "vi": "quán cóc",
     "viDef": "nhà hàng hoặc quán bar rất nhỏ, thường rẻ"
   },
   {
     "word": "food poisoning",
     "ipa": "fud ˈpɔɪzənɪŋ",
+    "type": "phrase",
+    "def": "becoming sick because of bacteria in food",
     "vi": "ngộ độc thực phẩm",
     "viDef": "bị ốm do vi khuẩn trong thức ăn"
   },
   {
     "word": "yummy",
     "ipa": "ˈjʌmi",
+    "type": "Adjective",
+    "def": "tasting good",
     "vi": "ngon quá",
     "viDef": "có vị ngon"
   },
   {
     "word": "crazy about",
     "ipa": "ˈkɹeɪzi əˈbaʊt",
+    "type": "phrase",
+    "def": "like very much",
     "vi": "mê tít",
     "viDef": "rất thích"
   },
   {
     "word": "not fond of",
     "ipa": "nɑt fɑnd ʌv",
+    "type": "phrase",
+    "def": "don't like (polite)",
     "vi": "không khoái lắm",
     "viDef": "không thích (cách nói lịch sự)"
   },
   {
     "word": "enjoyable",
     "ipa": "ˌɛnˈdʒɔɪəbəl",
+    "type": "Adjective",
+    "def": "tasting good",
     "vi": "ăn thấy khoái",
     "viDef": "có vị ngon"
   },
   {
     "word": "yum",
     "ipa": "jʌm",
+    "type": "Interjection",
+    "def": "expression you use when you're enjoying food or drink",
     "vi": "ngon quá đi",
     "viDef": "câu thốt lên khi đang thưởng thức đồ ăn thức uống"
   }

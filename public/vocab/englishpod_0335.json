@@ -2,72 +2,96 @@
   {
     "word": "park",
     "ipa": "pɑɹk",
+    "type": "",
+    "def": "an area of land, for the enjoyment of the public",
     "vi": "công viên",
     "viDef": "khu đất dành cho công chúng vui chơi"
   },
   {
     "word": "crowded",
     "ipa": "ˈkɹaʊdəd",
+    "type": "",
+    "def": "filled to excess; packed.",
     "vi": "đông nghịt",
     "viDef": "chật kín người"
   },
   {
     "word": "see-saw",
     "ipa": "si sɔ",
+    "type": "",
+    "def": "a plank used to balance",
     "vi": "bập bênh",
     "viDef": "tấm ván dùng để bập lên xuống cho cân"
   },
   {
     "word": "slide",
     "ipa": "slaɪd",
+    "type": "",
+    "def": "a smooth surface for sliding on",
     "vi": "cầu trượt",
     "viDef": "mặt nhẵn để trượt xuống"
   },
   {
     "word": "sandbox",
     "ipa": "ˈsændbɑks",
+    "type": "",
+    "def": "a box for holding sand, lare enough for children to play in",
     "vi": "hố cát",
     "viDef": "thùng đựng cát, đủ rộng cho trẻ vào chơi"
   },
   {
     "word": "hyper",
     "ipa": "ˈhaɪpɚ",
+    "type": "",
+    "def": "overexcited; overstimulated",
     "vi": "tăng động",
     "viDef": "phấn khích quá mức, bị kích thích quá đà"
   },
   {
     "word": "swing",
     "ipa": "swɪŋ",
+    "type": "",
+    "def": "the action of hitting the golf ball",
     "vi": "cú vung gậy",
     "viDef": "động tác đánh bóng golf"
   },
   {
     "word": "exhausted",
     "ipa": "ɪɡˈzɔstɪd",
+    "type": "",
+    "def": "very tired",
     "vi": "kiệt sức",
     "viDef": "rất mệt"
   },
   {
     "word": "merry-go-round",
     "ipa": "ˈmɛɹi ɡoʊ ɹaʊnd",
+    "type": "",
+    "def": "a revolving, circular platform with wooden horses or other animals, benches, etc., on which people may sit or ride",
     "vi": "vòng ngựa gỗ",
     "viDef": "bệ tròn xoay có ngựa gỗ hoặc con vật khác, ghế... để người ngồi hoặc cưỡi"
   },
   {
     "word": "hop scotch",
     "ipa": "hɑp skɑtʃ",
+    "type": "",
+    "def": "a children's game in which one hops across square spaces",
     "vi": "nhảy lò cò ô",
     "viDef": "trò trẻ con nhảy lò cò qua các ô vuông"
   },
   {
     "word": "marbles",
     "ipa": "ˈmɑɹbəlz",
+    "type": "",
+    "def": "a game for children in which a marble is propelled by the thumb to hit another marble",
     "vi": "trò bắn bi",
     "viDef": "trò trẻ con búng viên bi bằng ngón cái để chạm vào viên bi khác"
   },
   {
     "word": "skipping rope",
     "ipa": "ˈskɪpɪŋ ɹoʊp",
+    "type": "",
+    "def": "a length of rope that is swung around while someone jumps over it",
     "vi": "dây nhảy",
     "viDef": "đoạn dây được quay vòng cho người nhảy qua"
   }

@@ -2,90 +2,120 @@
   {
     "word": "Taj Mahal",
     "ipa": "tɑʒ məˈhɑl",
+    "type": "",
+    "def": "A mausoleum located in India made entirely of white marble.",
     "vi": "đền Taj Mahal",
     "viDef": "lăng mộ ở Ấn Độ, xây hoàn toàn bằng đá cẩm thạch trắng"
   },
   {
     "word": "Great Wall",
     "ipa": "ɡɹeɪt wɔl",
+    "type": "",
+    "def": "An extensive wall in China that kept invaders at bay",
     "vi": "Vạn Lý Trường Thành",
     "viDef": "bức tường dài ở Trung Quốc dùng để chặn quân xâm lược"
   },
   {
     "word": "architecture",
     "ipa": "ˈɑɹkəˌtɛktʃɚ",
+    "type": "",
+    "def": "the art and science of designing buildings",
     "vi": "kiến trúc",
     "viDef": "nghệ thuật và khoa học thiết kế công trình"
   },
   {
     "word": "Petra",
     "ipa": "ˈpɛtɹə",
+    "type": "",
+    "def": "A historical city in Jordan which was carved out of the mountain,",
     "vi": "thành cổ Petra",
     "viDef": "thành phố lịch sử ở Jordan được đục ra từ núi đá"
   },
   {
     "word": "Machu Pichu",
     "ipa": "ˈmɑtʃu ˈpiktʃu",
+    "type": "",
+    "def": "An Inca ancient city set high in the Andes mountains in Peru",
     "vi": "Machu Picchu",
     "viDef": "thành phố cổ của người Inca nằm trên cao trong dãy Andes ở Peru"
   },
   {
     "word": "pyramid",
     "ipa": "ˈpɪɹəmɪd",
+    "type": "",
+    "def": "a structure where the outer surfaces are triangular and converge at a point",
     "vi": "kim tự tháp",
     "viDef": "công trình có các mặt ngoài hình tam giác chụm lại ở một đỉnh"
   },
   {
     "word": "Colosseum",
     "ipa": "ˌkɑləˈsiəm",
+    "type": "",
+    "def": "An ancient amphitheater located in Rome",
     "vi": "đấu trường Colosseum",
     "viDef": "nhà hát vòng tròn cổ ở Rome"
   },
   {
     "word": "wonder",
     "ipa": "ˈwʌndɚ",
+    "type": "",
+    "def": "A monumental human creation that is amazing",
     "vi": "kỳ quan",
     "viDef": "công trình vĩ đại do con người làm nên, gây thán phục"
   },
   {
     "word": "gladiator",
     "ipa": "ˈɡlædiˌeɪtɚ",
+    "type": "",
+    "def": "A person trained to entertain the public by engaging in mortal combat",
     "vi": "đấu sĩ",
     "viDef": "người được huấn luyện để mua vui cho công chúng bằng những trận đấu sinh tử"
   },
   {
     "word": "tomb",
     "ipa": "tum",
+    "type": "",
+    "def": "A grave or other place of burial",
     "vi": "ngôi mộ",
     "viDef": "phần mộ hoặc nơi chôn cất"
   },
   {
     "word": "world heritage site",
     "ipa": "wɝld ˈhɛɹətədʒ saɪt",
+    "type": "",
+    "def": "an area or structure designated by UNESCO as being of global significance",
     "vi": "di sản thế giới",
     "viDef": "khu vực hoặc công trình được UNESCO công nhận là có ý nghĩa toàn cầu"
   },
   {
     "word": "Mausoleum",
     "ipa": "ˌmɔsəˈliəm",
+    "type": "",
+    "def": "an external free-standing building constructed as a monument enclosing the interment space or burial chamber of a deceased person",
     "vi": "lăng mộ",
     "viDef": "công trình đứng riêng bên ngoài, dựng như một đài tưởng niệm bao lấy phần mộ hoặc phòng an táng của người đã khuất"
   },
   {
     "word": "Temple",
     "ipa": "ˈtɛmpəl",
+    "type": "",
+    "def": "a structure reserved for religious or spiritual activities, such as prayer and sacrifice",
     "vi": "đền thờ",
     "viDef": "công trình dành cho các hoạt động tôn giáo hoặc tâm linh như cầu nguyện và tế lễ"
   },
   {
     "word": "Ruins",
     "ipa": "ˈɹuənz",
+    "type": "",
+    "def": "the remains of human-made architecture: structures that were once complete, as time went by, have fallen into a state of partial or complete deterioration",
     "vi": "phế tích",
     "viDef": "phần còn lại của công trình do người xây, từng nguyên vẹn nhưng theo thời gian đã hư hại một phần hoặc hoàn toàn"
   },
   {
     "word": "Ancient",
     "ipa": "ˈeɪntʃənt",
+    "type": "",
+    "def": "having been of long duration; of great age; very old.",
     "vi": "cổ xưa",
     "viDef": "đã tồn tại rất lâu, tuổi đời rất cao"
   }

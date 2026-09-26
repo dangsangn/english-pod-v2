@@ -2,60 +2,80 @@
   {
     "word": "foster",
     "ipa": "ˈfɑstɚ",
+    "type": "principle verb, infinitive",
+    "def": "to help (something) grow or develop",
     "vi": "nuôi dưỡng",
     "viDef": "giúp điều gì lớn lên, phát triển"
   },
   {
     "word": "yearn",
     "ipa": "jɝn",
+    "type": "principle verb, present simple",
+    "def": "to feel a strong desire or wish for something",
     "vi": "khát khao",
     "viDef": "mong mỏi điều gì mãnh liệt"
   },
   {
     "word": "pre-eminence",
     "ipa": "pɹi ˈɛmənəns",
+    "type": "common noun, non-variable",
+    "def": "more important, skillful, or successful than other",
     "vi": "vị thế trổi vượt",
     "viDef": "quan trọng, tài giỏi hoặc thành công hơn những người khác"
   },
   {
     "word": "scourge",
     "ipa": "skɝdʒ",
+    "type": "common noun, plural",
+    "def": "someone or something that causes a great amount of trouble",
     "vi": "tai họa",
     "viDef": "người hoặc thứ gây ra vô số khốn khó"
   },
   {
     "word": "we now stand",
     "ipa": "wi naʊ stænd",
+    "type": "phrase",
+    "def": "to be in a particular place or position",
     "vi": "nay ta đang đứng",
     "viDef": "ở một vị trí hoặc chỗ nhất định"
   },
   {
     "word": "stricken",
     "ipa": "ˈstɹɪkən",
+    "type": "Adjective",
+    "def": "badly affected by disease, pain, grief, etc",
     "vi": "bị giáng đòn nặng",
     "viDef": "chịu ảnh hưởng nặng vì bệnh, đau hay mất mát"
   },
   {
     "word": "Democrat",
     "ipa": "ˈdɛməˌkɹæt",
+    "type": "common noun, singular",
+    "def": "US politics a member or supporter of the Democratic Party, the more liberal of the two main political parties in the US",
     "vi": "đảng viên Dân chủ",
     "viDef": "thành viên hoặc người ủng hộ Đảng Dân chủ, bên cấp tiến hơn trong hai đảng lớn ở Mỹ"
   },
   {
     "word": "Republican",
     "ipa": "ɹɪˈpʌblɪkən",
+    "type": "common noun, singular",
+    "def": "belonging to the Republican Party, the more conservative of the two main political parties in the US",
     "vi": "thuộc Đảng Cộng hòa",
     "viDef": "thuộc Đảng Cộng hòa, bên bảo thủ hơn trong hai đảng lớn ở Mỹ"
   },
   {
     "word": "first lady",
     "ipa": "fɝst ˈleɪdi",
+    "type": "common noun, singular",
+    "def": "(in the US) the wife of the president elect",
     "vi": "đệ nhất phu nhân",
     "viDef": "ở Mỹ là vợ của tổng thống đắc cử"
   },
   {
     "word": "campaign",
     "ipa": "kæmˈpeɪn",
+    "type": "common noun, singular",
+    "def": "An operation or series of operations energetically pursued to accomplish a purpose",
     "vi": "chiến dịch",
     "viDef": "chuỗi hoạt động dốc sức làm để đạt một mục đích"
   }

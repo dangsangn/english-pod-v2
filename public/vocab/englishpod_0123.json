@@ -2,66 +2,88 @@
   {
     "word": "mad props",
     "ipa": "mæd pɹɑps",
+    "type": "common noun, singular",
+    "def": "recognition (informal)",
     "vi": "ngả mũ bái phục",
     "viDef": "sự ghi nhận, khen ngợi (thân mật)"
   },
   {
     "word": "tripping",
     "ipa": "ˈtɹɪpɪŋ",
+    "type": "principle verb, present progressive",
+    "def": "being agitated, upset",
     "vi": "quá khích",
     "viDef": "đang kích động, nổi nóng"
   },
   {
     "word": "bounce",
     "ipa": "baʊns",
+    "type": "principle verb, present simple",
+    "def": "informal of saying let's go",
     "vi": "đi thôi",
     "viDef": "cách nói thân mật của \"let's go\""
   },
   {
     "word": "go postal",
     "ipa": "ɡoʊ ˈpoʊstəl",
+    "type": "principle verb, Going to Future",
+    "def": "to act violently or aggressively",
     "vi": "nổi cơn hung",
     "viDef": "hành xử bạo lực, hung hăng"
   },
   {
     "word": "I was like",
     "ipa": "aɪ wɑz laɪk",
+    "type": "phrase",
+    "def": "an informal way to introduce a piece of dialogue",
     "vi": "tôi kiểu như",
     "viDef": "cách dẫn lời thoại kiểu thân mật"
   },
   {
     "word": "What's up",
     "ipa": "wʌts ʌp",
+    "type": "phrase",
+    "def": "What's up (informal)",
     "vi": "sao rồi",
     "viDef": "câu hỏi thăm thân mật"
   },
   {
     "word": "All that and a bag a chips",
     "ipa": "ɔl ðæt ənd ə bæɡ ə tʃɪps",
+    "type": "phrase",
+    "def": "Slang way of saying; I'm the best and more",
     "vi": "nhất rồi còn hơn thế",
     "viDef": "tiếng lóng khoe mình hơn cả nhất"
   },
   {
     "word": "Bling-Bling",
     "ipa": "ˈblɪŋ blɪŋ",
+    "type": "phrase",
+    "def": "wearing gold or precious stones",
     "vi": "vàng bạc lấp lánh",
     "viDef": "đeo vàng hoặc đá quý"
   },
   {
     "word": "The Bomb",
     "ipa": "ðə bɑm",
+    "type": "phrase",
+    "def": "Something is cool, it's great",
     "vi": "số một",
     "viDef": "thứ gì rất ngầu, tuyệt"
   },
   {
     "word": "My Bad",
     "ipa": "maɪ bæd",
+    "type": "phrase",
+    "def": "Expression used to say my mistake or I'm sorry",
     "vi": "lỗi tôi",
     "viDef": "câu nói khi nhận sai hoặc xin lỗi"
   },
   {
     "word": "I'm down with that",
     "ipa": "aɪm daʊn wɪð ðæt",
+    "type": "phrase",
+    "def": "That sounds good to me, I agree",
     "vi": "tôi ok đó",
     "viDef": "nghe hay đấy, tôi đồng ý"
   }

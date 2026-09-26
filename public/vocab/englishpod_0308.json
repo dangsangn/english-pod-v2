@@ -2,54 +2,72 @@
   {
     "word": "boxers",
     "ipa": "ˈbɑksɚz",
+    "type": "",
+    "def": "loose-fitting undershorts with an elastic waistband",
     "vi": "quần đùi lót",
     "viDef": "quần lót rộng có lưng thun"
   },
   {
     "word": "laundry",
     "ipa": "ˈlɔndɹi",
+    "type": "",
+    "def": "clothes that need to be washed",
     "vi": "đồ giặt",
     "viDef": "quần áo cần được giặt"
   },
   {
     "word": "briefs",
     "ipa": "bɹifs",
+    "type": "",
+    "def": "close-fitting, legless underpants with an elastic waistband",
     "vi": "quần lót ôm",
     "viDef": "quần lót bó, không ống, có lưng thun"
   },
   {
     "word": "hilarious",
     "ipa": "hɪˈlɛɹiəs",
+    "type": "",
+    "def": "very amusing",
     "vi": "cười bò",
     "viDef": "rất hài"
   },
   {
     "word": "undies",
     "ipa": "ˈʌndiz",
+    "type": "",
+    "def": "underwear (informal)",
     "vi": "đồ lót",
     "viDef": "quần áo lót (thân mật)"
   },
   {
     "word": "bra",
     "ipa": "bɹɑ",
+    "type": "",
+    "def": "a woman's undergarment for supporting the breasts",
     "vi": "áo ngực",
     "viDef": "đồ lót của người nữ để nâng đỡ ngực"
   },
   {
     "word": "iron",
     "ipa": "ˈaɪɚn",
+    "type": "",
+    "def": "an appliance with a flat metal bottom, used when heated, as by electricity, to press or smooth clothes",
     "vi": "bàn ủi",
     "viDef": "thiết bị đáy phẳng bằng kim loại, khi nóng lên nhờ điện thì dùng để là quần áo"
   },
   {
     "word": "maid",
     "ipa": "meɪd",
+    "type": "",
+    "def": "a female servant",
     "vi": "người giúp việc",
     "viDef": "người giúp việc nữ"
   },
   {
     "word": "washing machine",
     "ipa": "ˈwɑʃɪŋ məˈʃin",
+    "type": "",
+    "def": "appliance for washing clothing",
     "vi": "máy giặt",
     "viDef": "thiết bị dùng để giặt quần áo"
   }

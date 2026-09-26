@@ -2,54 +2,72 @@
   {
     "word": "shooting range",
     "ipa": "ˈʃutɪŋ ɹeɪndʒ",
+    "type": "",
+    "def": "a specified place to practice shooting",
     "vi": "trường bắn",
     "viDef": "nơi được chỉ định để tập bắn"
   },
   {
     "word": "target",
     "ipa": "ˈtɑɹɡət",
+    "type": "",
+    "def": "object to be aimed at in shooting practice",
     "vi": "bia bắn",
     "viDef": "vật để nhắm vào khi tập bắn"
   },
   {
     "word": "revolver",
     "ipa": "ɹɪˈvɑlvɚ",
+    "type": "",
+    "def": "a small gun with a container for bullets",
     "vi": "súng ổ quay",
     "viDef": "súng nhỏ có ổ chứa đạn"
   },
   {
     "word": "inspect",
     "ipa": "ɪnˈspɛkt",
+    "type": "",
+    "def": "to look at (something) carefully",
     "vi": "kiểm tra",
     "viDef": "xem xét thứ gì cẩn thận"
   },
   {
     "word": "rifle",
     "ipa": "ˈɹaɪfəl",
+    "type": "",
+    "def": "a shoulder firearm with spiral grooves cut in the inner surface of the gun barrel",
     "vi": "súng trường",
     "viDef": "súng bắn tì vai, nòng có khía xoắn bên trong"
   },
   {
     "word": "scope",
     "ipa": "skoʊp",
+    "type": "",
+    "def": "instrument on a gun for viewing and aiming at the target",
     "vi": "ống ngắm",
     "viDef": "thiết bị trên súng để quan sát và nhắm bia"
   },
   {
     "word": "magazine",
     "ipa": "ˈmæɡəˌzin",
+    "type": "",
+    "def": "a metal receptacle for a number of cartridges, inserted into certain types of automatic weapons",
     "vi": "băng đạn",
     "viDef": "hộp kim loại chứa nhiều viên đạn, gắn vào một số loại súng tự động"
   },
   {
     "word": "round",
     "ipa": "ɹaʊnd",
+    "type": "",
+    "def": "ammunition for a single shot",
     "vi": "một viên đạn",
     "viDef": "lượng đạn cho một phát bắn"
   },
   {
     "word": "barrel",
     "ipa": "ˈbæɹəl",
+    "type": "",
+    "def": "the metal, cylindrical part of a firearm through which the bullet travels",
     "vi": "nòng súng",
     "viDef": "phần kim loại hình ống của súng, nơi đạn đi qua"
   }

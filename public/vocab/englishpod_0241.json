@@ -2,102 +2,136 @@
   {
     "word": "BA",
     "ipa": "biˈeɪ",
+    "type": "",
+    "def": "bachelor of arts",
     "vi": "bằng cử nhân",
     "viDef": "bachelor of arts"
   },
   {
     "word": "major",
     "ipa": "ˈmeɪdʒɚ",
+    "type": "",
+    "def": "the main subject studied in a college",
     "vi": "chuyên ngành",
     "viDef": "môn học chính ở đại học"
   },
   {
     "word": "minor",
     "ipa": "ˈmaɪnɚ",
+    "type": "",
+    "def": "a second subject studied in a college",
     "vi": "ngành phụ",
     "viDef": "môn học thứ hai ở đại học"
   },
   {
     "word": "distinction",
     "ipa": "dɪˈstɪŋkʃən",
+    "type": "",
+    "def": "excellence",
     "vi": "loại xuất sắc",
     "viDef": "sự vượt trội"
   },
   {
     "word": "bookworm",
     "ipa": "ˈbʊkwɝm",
+    "type": "",
+    "def": "a person who likes reading and studying",
     "vi": "con mọt sách",
     "viDef": "người thích đọc và học"
   },
   {
     "word": "pay off",
     "ipa": "peɪ ɔf",
+    "type": "",
+    "def": "to effect positively",
     "vi": "gặt kết quả",
     "viDef": "mang lại tác dụng tốt"
   },
   {
     "word": "extra-curricular",
     "ipa": "ˈɛkstɹə kɚˈɪkjəˌlɝ",
+    "type": "",
+    "def": "extra activities",
     "vi": "ngoại khóa",
     "viDef": "các hoạt động thêm ngoài giờ học"
   },
   {
     "word": "keen on",
     "ipa": "kin ɑn",
+    "type": "",
+    "def": "willing or eager to do something",
     "vi": "hăng hái với",
     "viDef": "sẵn lòng hoặc háo hức làm việc gì"
   },
   {
     "word": "volunteer",
     "ipa": "ˌvɑlənˈtɪɹ",
+    "type": "",
+    "def": "want to do something without being forced or pay",
     "vi": "tình nguyện",
     "viDef": "muốn làm việc gì mà không bị buộc hay được trả tiền"
   },
   {
     "word": "involve",
     "ipa": "ɪnˈvɑlv",
+    "type": "",
+    "def": "contain",
     "vi": "bao gồm",
     "viDef": "chứa trong đó"
   },
   {
     "word": "fulfilling",
     "ipa": "fʊlˈfɪlɪŋ",
+    "type": "",
+    "def": "full of happiness and satisfaction",
     "vi": "thấy đầy ý nghĩa",
     "viDef": "tràn hạnh phúc và toại nguyện"
   },
   {
     "word": "push sb.",
     "ipa": "pʊʃ ˈsʌmˌbɑdi",
+    "type": "",
+    "def": "to encourage or persuade (someone) to do something",
     "vi": "thúc ai",
     "viDef": "động viên hoặc thuyết phục ai làm điều gì"
   },
   {
     "word": "validictorian",
     "ipa": "ˌvælədɪkˈtɔɹiən",
+    "type": "",
+    "def": "a distinction given to the top graduate",
     "vi": "thủ khoa đọc lời từ biệt",
     "viDef": "danh hiệu dành cho người tốt nghiệp đứng đầu"
   },
   {
     "word": "admiration",
     "ipa": "ˌædmɚˈeɪʃən",
+    "type": "",
+    "def": "to have respect for a person",
     "vi": "sự nể phục",
     "viDef": "lòng kính trọng dành cho một người"
   },
   {
     "word": "over achiever",
     "ipa": "ˈoʊvɚ əˈtʃivɚ",
+    "type": "",
+    "def": "a person who strives to be the best",
     "vi": "người luôn vươn quá mức",
     "viDef": "người nỗ lực để giỏi nhất"
   },
   {
     "word": "honors",
     "ipa": "ˈɑnɚz",
+    "type": "",
+    "def": "a distinction given when graduating with high marks",
     "vi": "bằng loại ưu",
     "viDef": "danh hiệu khi tốt nghiệp với điểm cao"
   },
   {
     "word": "class ring",
     "ipa": "klæs ɹɪŋ",
+    "type": "",
+    "def": "a ring signifying the school and year graduated",
     "vi": "nhẫn khóa học",
     "viDef": "chiếc nhẫn ghi tên trường và năm tốt nghiệp"
   }

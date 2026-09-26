@@ -2,96 +2,128 @@
   {
     "word": "lease",
     "ipa": "lis",
+    "type": "",
+    "def": "A contract granting use of property",
     "vi": "hợp đồng thuê",
     "viDef": "văn bản cho phép sử dụng tài sản"
   },
   {
     "word": "renew",
     "ipa": "ɹɪˈnu",
+    "type": "",
+    "def": "to cause something to continue to be effective",
     "vi": "gia hạn",
     "viDef": "làm cho tiếp tục có hiệu lực"
   },
   {
     "word": "pack",
     "ipa": "pæk",
+    "type": "",
+    "def": "wrap up",
     "vi": "gói lại",
     "viDef": "bọc, đóng gói"
   },
   {
     "word": "pack",
     "ipa": "pæk",
+    "type": "",
+    "def": "to put articles in a case or container for moving",
     "vi": "đóng thùng",
     "viDef": "xếp đồ vào hộp hoặc thùng để chuyển đi"
   },
   {
     "word": "place",
     "ipa": "pleɪs",
+    "type": "",
+    "def": "A building or an area",
     "vi": "chỗ, nơi",
     "viDef": "tòa nhà hoặc một khu"
   },
   {
     "word": "storage",
     "ipa": "ˈstɔɹədʒ",
+    "type": "",
+    "def": "A space for storing goods",
     "vi": "kho chứa",
     "viDef": "chỗ để trữ đồ"
   },
   {
     "word": "look after",
     "ipa": "lʊk ˈæftɚ",
+    "type": "",
+    "def": "take care of",
     "vi": "trông coi",
     "viDef": "chăm lo"
   },
   {
     "word": "make way for",
     "ipa": "meɪk weɪ fɔɹ",
+    "type": "",
+    "def": "to create space for something else",
     "vi": "nhường chỗ cho",
     "viDef": "dọn chỗ cho thứ khác"
   },
   {
     "word": "ASAP",
     "ipa": "ˈeɪˈɛˈseɪˈpi",
+    "type": "",
+    "def": "as soon as possible",
     "vi": "càng sớm càng tốt",
     "viDef": "nhanh nhất có thể"
   },
   {
     "word": "decent",
     "ipa": "ˈdisənt",
+    "type": "",
+    "def": "good",
     "vi": "tạm ổn, tử tế",
     "viDef": "khá, được"
   },
   {
     "word": "look after",
     "ipa": "lʊk ˈæftɚ",
+    "type": "",
+    "def": "take care of",
     "vi": "trông coi",
     "viDef": "chăm lo"
   },
   {
     "word": "moving truck",
     "ipa": "ˈmuvɪŋ tɹʌk",
+    "type": "",
+    "def": "a big truck that can be hired or rented to carry furniture and boxes to another place",
     "vi": "xe tải chuyển nhà",
     "viDef": "xe lớn thuê để chở đồ đạc và thùng sang chỗ mới"
   },
   {
     "word": "bubble wrap",
     "ipa": "ˈbʌbəl ɹæp",
+    "type": "",
+    "def": "transparent plastic material commonly used for packing fragile items",
     "vi": "xốp bong bóng",
     "viDef": "màng nhựa trong dùng bọc đồ dễ vỡ"
   },
   {
     "word": "real estate agent",
     "ipa": "ɹil ɪˈsteɪt ˈeɪdʒənt",
+    "type": "",
+    "def": "One that is autohirzed to sell land or property",
     "vi": "người môi giới nhà đất",
     "viDef": "người được phép bán đất hoặc nhà"
   },
   {
     "word": "deposit",
     "ipa": "dəˈpɑzɪt",
+    "type": "",
+    "def": "A sum of money given as security for an item acquired for temporary use.",
     "vi": "tiền cọc",
     "viDef": "khoản tiền đặt bảo đảm khi lấy thứ gì dùng tạm"
   },
   {
     "word": "movers",
     "ipa": "ˈmuvɚz",
+    "type": "",
+    "def": "One that transports household or office goods from one location to another as an occupation",
     "vi": "nhân viên chuyển dọn",
     "viDef": "người làm nghề chở đồ nhà hoặc đồ văn phòng sang chỗ khác"
   }

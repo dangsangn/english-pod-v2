@@ -2,60 +2,80 @@
   {
     "word": "womb",
     "ipa": "wum",
+    "type": "",
+    "def": "the uterus of the human female",
     "vi": "tử cung",
     "viDef": "tử cung của người nữ"
   },
   {
     "word": "ovulation",
     "ipa": "ˌoʊvjəˈleɪʃən",
+    "type": "",
+    "def": "the discharge of a mature ovum from the ovary",
     "vi": "sự rụng trứng",
     "viDef": "việc trứng chín rời khỏi buồng trứng"
   },
   {
     "word": "ejaculation",
     "ipa": "iˌdʒækjuˈleɪʃən",
+    "type": "",
+    "def": "the discharge of semen by the male reproductive organs",
     "vi": "sự xuất tinh",
     "viDef": "việc cơ quan sinh dục nam phóng tinh dịch"
   },
   {
     "word": "embryo",
     "ipa": "ˈɛmbɹiˌoʊ",
+    "type": "",
+    "def": "in humans, the young in the early stages of development within the womb",
     "vi": "phôi",
     "viDef": "ở người là mầm sống trong giai đoạn phát triển đầu trong tử cung"
   },
   {
     "word": "wall",
     "ipa": "wɔl",
+    "type": "",
+    "def": "the outermost layer defining the physical limits of an object",
     "vi": "thành, vách",
     "viDef": "lớp ngoài cùng xác định giới hạn của một vật"
   },
   {
     "word": "urethra",
     "ipa": "ˌjɝˈiθɹə",
+    "type": "",
+    "def": "the part of the male anatomy which transports semen",
     "vi": "niệu đạo",
     "viDef": "phần trong cơ thể nam dẫn tinh dịch ra"
   },
   {
     "word": "vas deferens",
     "ipa": "ˈvæs ˈdɛfɚənz",
+    "type": "",
+    "def": "the specific tube which semen travel through",
     "vi": "ống dẫn tinh",
     "viDef": "ống mà tinh dịch đi qua"
   },
   {
     "word": "scrotum",
     "ipa": "ˈskɹoʊtəm",
+    "type": "",
+    "def": "a pouch with holds the testes",
     "vi": "bìu",
     "viDef": "túi da chứa tinh hoàn"
   },
   {
     "word": "pre menstrual syndrome",
     "ipa": "pɹi ˈmɛnstɹuəl ˈsɪndɹoʊm",
+    "type": "",
+    "def": "a disorder during a woman's menstrual cycle characterized by depression and stomach cramps",
     "vi": "hội chứng tiền kinh nguyệt",
     "viDef": "rối loạn trong chu kỳ của người nữ với biểu hiện buồn rầu và đau quặn bụng"
   },
   {
     "word": "vagina",
     "ipa": "vəˈdʒaɪnə",
+    "type": "",
+    "def": "the female reproductive organ",
     "vi": "âm đạo",
     "viDef": "cơ quan sinh dục của người nữ"
   }

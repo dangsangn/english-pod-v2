@@ -2,60 +2,80 @@
   {
     "word": "urgent",
     "ipa": "ˈɝdʒənt",
+    "type": "",
+    "def": "important, needing immediate attention",
     "vi": "gấp",
     "viDef": "quan trọng, cần xử ngay"
   },
   {
     "word": "take one through",
     "ipa": "teɪk wʌn θɹu",
+    "type": "",
+    "def": "guide someone along the process",
     "vi": "hướng dẫn từng bước",
     "viDef": "dẫn ai đi qua các bước"
   },
   {
     "word": "procedure",
     "ipa": "pɹəˈsidʒɚ",
+    "type": "",
+    "def": "a series of actions",
     "vi": "quy trình",
     "viDef": "chuỗi các việc phải làm"
   },
   {
     "word": "transaction",
     "ipa": "tɹænˈzækʃən",
+    "type": "",
+    "def": "an occurrence in which money is transfered from one account to another",
     "vi": "giao dịch",
     "viDef": "lần chuyển tiền từ tài khoản này sang tài khoản khác"
   },
   {
     "word": "overdue",
     "ipa": "ˈoʊvɚˈdu",
+    "type": "",
+    "def": "not paid at an expected or required time, missing the deadline",
     "vi": "quá hạn",
     "viDef": "chưa trả đúng lúc phải trả, đã trễ hạn"
   },
   {
     "word": "vault",
     "ipa": "vɔlt",
+    "type": "",
+    "def": "a large solid steel box used to keep money or valuables",
     "vi": "hầm két",
     "viDef": "hộp thép lớn và chắc để giữ tiền hoặc vật giá trị"
   },
   {
     "word": "ATM",
     "ipa": "ˈeɪˌtiˈɛm",
+    "type": "",
+    "def": "Automatic Teller Machine",
     "vi": "máy ATM",
     "viDef": "Automatic Teller Machine, máy rút tiền tự động"
   },
   {
     "word": "Letter of Credit",
     "ipa": "ˈlɛtɚ ʌv ˈkɹɛdət",
+    "type": "",
+    "def": "a trade document used primarily in trade finance, which usually provides an irrevocable payment undertaking.",
     "vi": "thư tín dụng",
     "viDef": "chứng từ dùng chủ yếu trong tài trợ thương mại, thường kèm cam kết trả tiền không thể hủy ngang"
   },
   {
     "word": "travelers cheque",
     "ipa": "ˈtɹævəlɚz tʃɛk",
+    "type": "",
+    "def": "a preprinted, fixed-amount cheque designed to allow the person signing it to make an unconditional payment to someone else",
     "vi": "chi phiếu du lịch",
     "viDef": "tờ chi phiếu in trước với số tiền cố định, cho người ký được trả tiền vô điều kiện cho người khác"
   },
   {
     "word": "withdrawal",
     "ipa": "wɪðˈdɹɔəl",
+    "type": "",
+    "def": "removal from a place of deposit or investment",
     "vi": "việc rút ra",
     "viDef": "việc lấy khỏi nơi gửi hoặc khoản đầu tư"
   }

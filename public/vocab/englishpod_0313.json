@@ -2,48 +2,64 @@
   {
     "word": "long time no see",
     "ipa": "lɔŋ taɪm noʊ si",
+    "type": "",
+    "def": "a greeting phrase used after two friends have not",
     "vi": "lâu quá không gặp",
     "viDef": "câu chào khi hai người bạn lâu ngày mới thấy nhau"
   },
   {
     "word": "same old same old",
     "ipa": "seɪm oʊld seɪm oʊld",
+    "type": "",
+    "def": "nothing new",
     "vi": "vẫn vậy thôi",
     "viDef": "chẳng có gì mới"
   },
   {
     "word": "promotion",
     "ipa": "pɹəˈmoʊʃən",
+    "type": "",
+    "def": "new position",
     "vi": "thăng chức",
     "viDef": "vị trí mới"
   },
   {
     "word": "networking",
     "ipa": "ˈnɛˌtwɝkɪŋ",
+    "type": "",
+    "def": "meeting new people",
     "vi": "mở rộng quan hệ",
     "viDef": "việc gặp gỡ người mới"
   },
   {
     "word": "split",
     "ipa": "splɪt",
+    "type": "",
+    "def": "leave here",
     "vi": "dông",
     "viDef": "rời khỏi đây"
   },
   {
     "word": "demote",
     "ipa": "dɪˈmoʊt",
+    "type": "",
+    "def": "to reduce to a lower grade, rank, class, or position",
     "vi": "giáng cấp",
     "viDef": "hạ xuống bậc, cấp, hạng hoặc vị trí thấp hơn"
   },
   {
     "word": "depart",
     "ipa": "dɪˈpɑɹt",
+    "type": "",
+    "def": "to go away,leave",
     "vi": "rời đi",
     "viDef": "đi khỏi, ra đi"
   },
   {
     "word": "blog",
     "ipa": "blɔɡ",
+    "type": "",
+    "def": "a journal written on-line and accessible to users of the internet",
     "vi": "blog",
     "viDef": "nhật ký viết trên mạng cho người dùng internet đọc được"
   }

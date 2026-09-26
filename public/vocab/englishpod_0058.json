@@ -2,90 +2,120 @@
   {
     "word": "turbulence",
     "ipa": "ˈtɝbjələns",
+    "type": "common noun, non-variable",
+    "def": "sudden, strong movement of air especially that causes a plane to move up and down in the air",
     "vi": "nhiễu động không khí",
     "viDef": "luồng khí xáo động mạnh làm máy bay lên xuống"
   },
   {
     "word": "rough",
     "ipa": "ɹʌf",
+    "type": "Adjective",
+    "def": "having or causing sudden violent movements",
     "vi": "xóc, dằn",
     "viDef": "có hoặc gây ra những cú lắc mạnh bất chợt"
   },
   {
     "word": "patch",
     "ipa": "pætʃ",
+    "type": "common noun, singular",
+    "def": "small area",
     "vi": "vùng nhỏ",
     "viDef": "một khoảng nhỏ"
   },
   {
     "word": "bumpy",
     "ipa": "ˈbʌmpi",
+    "type": "Adjective",
+    "def": "having sudden up and down movements",
     "vi": "gập ghềnh, xóc nảy",
     "viDef": "có những cú nhô lên hụp xuống bất chợt"
   },
   {
     "word": "fasten",
     "ipa": "ˈfæsən",
+    "type": "",
+    "def": "to fasten",
     "vi": "cài, thắt",
     "viDef": "buộc hoặc gài chặt lại"
   },
   {
     "word": "cabin baggage",
     "ipa": "ˈkæbən ˈbæɡədʒ",
+    "type": "common noun, non-variable",
+    "def": "suitcases and luggage that travels inside the plane with the passengers",
     "vi": "hành lý mang lên khoang",
     "viDef": "vali và túi được đem vào trong khoang cùng khách"
   },
   {
     "word": "stow",
     "ipa": "stoʊ",
+    "type": "",
+    "def": "stowed",
     "vi": "xếp gọn",
     "viDef": "đặt và cất vào chỗ cho gọn"
   },
   {
     "word": "suspend",
     "ipa": "səˈspɛnd",
+    "type": "",
+    "def": "will be suspending",
     "vi": "tạm ngừng",
     "viDef": "dừng lại một thời gian"
   },
   {
     "word": "refrain",
     "ipa": "ɹɪˈfɹeɪn",
+    "type": "verb",
+    "def": "avoid doing",
     "vi": "xin đừng, kiềm chế",
     "viDef": "tránh không làm việc gì"
   },
   {
     "word": "lavatory",
     "ipa": "ˈlævəˌtɔɹi",
+    "type": "common noun, singular",
+    "def": "room with a sink and toilet, chiefly on an airplane or train",
     "vi": "nhà vệ sinh",
     "viDef": "buồng có bồn rửa và bồn cầu, nhất là trên máy bay hoặc tàu"
   },
   {
     "word": "overhead bin",
     "ipa": "ˈoʊvɚˈhɛd bɪn",
+    "type": "common noun, singular",
+    "def": "place above the seat in an airplane where you can store luggage",
     "vi": "khoang hành lý phía trên",
     "viDef": "chỗ trên đầu ghế máy bay để cất hành lý"
   },
   {
     "word": "carry-on",
     "ipa": "ˈkæɹi ɑn",
+    "type": "common noun, non-variable",
+    "def": "a suit case that you bring onto the plane",
     "vi": "hành lý xách tay",
     "viDef": "vali được mang lên máy bay"
   },
   {
     "word": "table tray",
     "ipa": "ˈteɪbəl tɹeɪ",
+    "type": "common noun, singular",
+    "def": "a table that folds down from the seat in front of you on a an airplane",
     "vi": "bàn gấp",
     "viDef": "mặt bàn hạ xuống từ lưng ghế trước trên máy bay"
   },
   {
     "word": "life jacket",
     "ipa": "laɪf ˈdʒækət",
+    "type": "common noun, singular",
+    "def": "piece of clothing that you ware to stay floating in water /life jacket",
     "vi": "áo phao",
     "viDef": "áo mặc vào để nổi được trên nước"
   },
   {
     "word": "oxygen mask",
     "ipa": "ˈɑksədʒən mæsk",
+    "type": "common noun, singular",
+    "def": "a mask worn over your mouth and nose so you can breathe",
     "vi": "mặt nạ ô-xy",
     "viDef": "mặt nạ trùm miệng và mũi để thở được"
   }

@@ -2,72 +2,96 @@
   {
     "word": "such a mess",
     "ipa": "sʌtʃ ə mɛs",
+    "type": "phrase",
+    "def": "very dirty, disordered",
     "vi": "bừa bộn quá thể",
     "viDef": "rất bẩn và lộn xộn"
   },
   {
     "word": "tidy up",
     "ipa": "ˈtaɪdi ʌp",
+    "type": "principle verb, present simple",
+    "def": "put things in place, organize",
     "vi": "dọn dẹp",
     "viDef": "sắp xếp đồ đạc gọn gàng"
   },
   {
     "word": "spotless",
     "ipa": "ˈspɑtləs",
+    "type": "Adjective",
+    "def": "perfectly clean",
     "vi": "sạch bong",
     "viDef": "sạch hoàn toàn"
   },
   {
     "word": "in the middle of something",
     "ipa": "ɪn ðə ˈmɪdəl ʌv ˈsʌmθɪŋ",
+    "type": "phrase",
+    "def": "busy doing something at the moment",
     "vi": "đang dở tay",
     "viDef": "đang bận làm việc gì đó"
   },
   {
     "word": "chores",
     "ipa": "tʃɔɹz",
+    "type": "common noun, plural",
+    "def": "common house tasks",
     "vi": "việc nhà",
     "viDef": "những công việc thường ngày trong nhà"
   },
   {
     "word": "groceries",
     "ipa": "ˈɡɹoʊsɚiz",
+    "type": "common noun, plural",
+    "def": "food that you buy at a store",
     "vi": "thực phẩm đi chợ",
     "viDef": "đồ ăn mua ở cửa hàng"
   },
   {
     "word": "spring cleaning",
     "ipa": "spɹɪŋ ˈklinɪŋ",
+    "type": "phrase",
+    "def": "careful, thorough house cleaning usually done in the spring/ spring cleaning",
     "vi": "tổng vệ sinh mùa xuân",
     "viDef": "dọn dẹp nhà kỹ lưỡng, thường làm vào mùa xuân"
   },
   {
     "word": "immaculate",
     "ipa": "ˌɪˈmækjulɪt",
+    "type": "Adjective",
+    "def": "perfectly clean, having no dirt at all",
     "vi": "sạch không tì vết",
     "viDef": "sạch tuyệt đối, không chút bụi bẩn"
   },
   {
     "word": "do the laundry",
     "ipa": "du ðə ˈlɔndɹi",
+    "type": "phrase",
+    "def": "wash the dirty clothes",
     "vi": "giặt giũ",
     "viDef": "giặt quần áo bẩn"
   },
   {
     "word": "dish detergent",
     "ipa": "dɪʃ dɪˈtɝdʒənt",
+    "type": "phrase",
+    "def": "soap used to wash the plates, knives, forks, bowls, etc.",
     "vi": "nước rửa chén",
     "viDef": "chất tẩy rửa dùng để rửa đĩa, dao, nĩa, bát"
   },
   {
     "word": "trash",
     "ipa": "tɹæʃ",
+    "type": "common noun, non-variable",
+    "def": "garbage (AmE)",
     "vi": "rác",
     "viDef": "rác (cách nói Anh-Mỹ)"
   },
   {
     "word": "rubbish",
     "ipa": "ˈɹʌbɪʃ",
+    "type": "common noun, non-variable",
+    "def": "garbage (BrE)",
     "vi": "rác",
     "viDef": "rác (cách nói Anh-Anh)"
   }

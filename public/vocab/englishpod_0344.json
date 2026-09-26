@@ -2,66 +2,88 @@
   {
     "word": "buffet",
     "ipa": "ˈbʌfət",
+    "type": "",
+    "def": "a meal laid out on a table or sideboard so that guests may serve themselves",
     "vi": "tiệc tự chọn",
     "viDef": "bữa ăn bày sẵn trên bàn hoặc tủ để khách tự lấy"
   },
   {
     "word": "reservation",
     "ipa": "ˌɹɛzɚˈveɪʃən",
+    "type": "",
+    "def": "an arrangement to secure accommodations at a restaurant or hotel",
     "vi": "việc đặt chỗ",
     "viDef": "sự sắp xếp để giữ chỗ ở nhà hàng hoặc khách sạn"
   },
   {
     "word": "availablity",
     "ipa": "əˌveɪləˈbɪləti",
+    "type": "",
+    "def": "the quality of being at hand when needed",
     "vi": "tình trạng còn chỗ",
     "viDef": "việc sẵn có khi cần"
   },
   {
     "word": "check in",
     "ipa": "tʃɛk ɪn",
+    "type": "",
+    "def": "confirm details at at front desk",
     "vi": "làm thủ tục nhận phòng",
     "viDef": "xác nhận thông tin ở quầy lễ tân"
   },
   {
     "word": "superior",
     "ipa": "suˈpɪɹiɚ",
+    "type": "",
+    "def": "better than others",
     "vi": "hạng cao hơn",
     "viDef": "tốt hơn các loại khác"
   },
   {
     "word": "suite",
     "ipa": "swit",
+    "type": "",
+    "def": "a connected series of rooms to be used together",
     "vi": "phòng suite",
     "viDef": "chuỗi phòng thông nhau dùng chung"
   },
   {
     "word": "reserve",
     "ipa": "ɹɪˈzɝv",
+    "type": "",
+    "def": "to keep back or save for future use",
     "vi": "giữ chỗ",
     "viDef": "để dành hoặc giữ lại cho lần sau"
   },
   {
     "word": "room service",
     "ipa": "ɹum ˈsɝvəs",
+    "type": "",
+    "def": "Food and beverages served to a guest in his or her hotel room.",
     "vi": "phục vụ tại phòng",
     "viDef": "đồ ăn và thức uống mang tới tận phòng cho khách"
   },
   {
     "word": "concierge",
     "ipa": "ˌkɑnsiˈɛɹʒ",
+    "type": "",
+    "def": "some one who handles luggage and mail, makes reservations, and arranges tours",
     "vi": "nhân viên hỗ trợ khách",
     "viDef": "người lo hành lý và thư từ, đặt chỗ và sắp xếp các chuyến tham quan"
   },
   {
     "word": "maid",
     "ipa": "meɪd",
+    "type": "",
+    "def": "A woman servant employed in cleaning.",
     "vi": "nhân viên dọn phòng",
     "viDef": "người nữ được thuê để làm việc dọn dẹp"
   },
   {
     "word": "chauffeur",
     "ipa": "ʃoʊˈfɝ",
+    "type": "",
+    "def": "To serve as a driver for another person",
     "vi": "tài xế riêng",
     "viDef": "làm người lái xe cho người khác"
   }

@@ -2,60 +2,80 @@
   {
     "word": "sign up for",
     "ipa": "saɪn ʌp fɔɹ",
+    "type": "phrase",
+    "def": "officially put your name on a list for something",
     "vi": "đăng ký",
     "viDef": "ghi tên chính thức vào danh sách"
   },
   {
     "word": "major",
     "ipa": "ˈmeɪdʒɚ",
+    "type": "common noun, singular",
+    "def": "the field one studies in university",
     "vi": "chuyên ngành",
     "viDef": "lĩnh vực học ở đại học"
   },
   {
     "word": "credit",
     "ipa": "ˈkɹɛdət",
+    "type": "common noun, plural",
+    "def": "points you count towards your degree in university",
     "vi": "tín chỉ",
     "viDef": "điểm tích lũy để lấy bằng đại học"
   },
   {
     "word": "schedule",
     "ipa": "ˈskɛdʒʊl",
+    "type": "common noun, singular",
+    "def": "timetable; list of appointments and times",
     "vi": "thời khóa biểu",
     "viDef": "bảng giờ và các cuộc hẹn"
   },
   {
     "word": "tuition",
     "ipa": "tjuˈɪʃən",
+    "type": "common noun, singular",
+    "def": "educational fees",
     "vi": "học phí",
     "viDef": "tiền phải trả cho việc học"
   },
   {
     "word": "enroll",
     "ipa": "ɛnˈɹoʊl",
+    "type": "principle verb, present simple",
+    "def": "To place one's name on a roll or register; sign up",
     "vi": "nhập học",
     "viDef": "ghi tên vào danh sách, đăng ký"
   },
   {
     "word": "essay",
     "ipa": "ɛˈseɪ",
+    "type": "common noun, singular",
+    "def": "a short piece of writing that argues one point of view",
     "vi": "bài luận",
     "viDef": "bài viết ngắn bảo vệ một quan điểm"
   },
   {
     "word": "term paper",
     "ipa": "tɝm ˈpeɪpɚ",
+    "type": "common noun, singular",
+    "def": "a long piece of writing you must write at the end of a course",
     "vi": "tiểu luận cuối kỳ",
     "viDef": "bài viết dài phải làm khi kết thúc môn"
   },
   {
     "word": "midterm",
     "ipa": "ˈmɪdtɝm",
+    "type": "common noun, singular",
+    "def": "a exam or big test given halfway though the course",
     "vi": "thi giữa kỳ",
     "viDef": "bài kiểm tra lớn vào giữa khóa"
   },
   {
     "word": "finals",
     "ipa": "ˈfaɪnəlz",
+    "type": "common noun, plural",
+    "def": "the last exams at the end of a semister",
     "vi": "thi cuối kỳ",
     "viDef": "các bài thi cuối học kỳ"
   }

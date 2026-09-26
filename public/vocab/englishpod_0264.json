@@ -2,66 +2,88 @@
   {
     "word": "swollen",
     "ipa": "ˈswoʊlən",
+    "type": "",
+    "def": "increase in size with liquid or internal pressure",
     "vi": "sưng phồng",
     "viDef": "to lên do dịch hoặc áp lực bên trong"
   },
   {
     "word": "wisdom tooth",
     "ipa": "ˈwɪzdəm tuθ",
+    "type": "",
+    "def": "one of four rearmost molars on each side of both jaws",
     "vi": "răng khôn",
     "viDef": "một trong bốn răng hàm trong cùng ở mỗi bên của hai hàm"
   },
   {
     "word": "to experience",
     "ipa": "tu ɪkˈspɪɹiəns",
+    "type": "",
+    "def": "have the experience of; undergo; feel",
     "vi": "trải qua",
     "viDef": "có trải nghiệm, hứng chịu, cảm thấy"
   },
   {
     "word": "that is what one gets for",
     "ipa": "ðæt ɪz wʌt wʌn ɡɛts fɔɹ",
+    "type": "",
+    "def": "that is what one deserves for",
     "vi": "đáng đời vì",
     "viDef": "đó là điều người ta phải nhận vì đã làm vậy"
   },
   {
     "word": "to brush",
     "ipa": "tu bɹʌʃ",
+    "type": "",
+    "def": "to clean with a brush",
     "vi": "chải, đánh",
     "viDef": "làm sạch bằng bàn chải"
   },
   {
     "word": "to administer",
     "ipa": "tu ədˈmɪnəstɚ",
+    "type": "",
+    "def": "to give or apply as a remedy or relief",
     "vi": "cho dùng",
     "viDef": "đưa hoặc bôi vào như một cách trị hoặc giảm đau"
   },
   {
     "word": "fluoride",
     "ipa": "ˈflʊɹaɪd",
+    "type": "",
+    "def": "a mouthwash given by the dentist that contains fluoride",
     "vi": "nước fluor",
     "viDef": "nước súc miệng có fluor do nha sĩ cho dùng"
   },
   {
     "word": "root canal",
     "ipa": "ɹut kəˈnæl",
+    "type": "",
+    "def": "a dental operation to save a tooth by removing the diseased contents from the canal of the root of the tooth and filling it with a protective substance",
     "vi": "lấy tủy răng",
     "viDef": "thủ thuật cứu răng bằng cách lấy phần bệnh trong ống tủy ra rồi trám bằng chất bảo vệ"
   },
   {
     "word": "rinse your mouth",
     "ipa": "ɹɪns jɔɹ maʊθ",
+    "type": "",
+    "def": "put water in one's mouth, swish it around and spit it back out",
     "vi": "súc miệng",
     "viDef": "lấy nước vào miệng, đảo quanh rồi nhổ ra"
   },
   {
     "word": "gums",
     "ipa": "ɡʌmz",
+    "type": "",
+    "def": "the firm, fleshy tissue that covers the inside of the jaws and that surrounds the bases of the teeth",
     "vi": "nướu",
     "viDef": "phần thịt chắc phủ bên trong hàm và bao quanh chân răng"
   },
   {
     "word": "molar",
     "ipa": "ˈmoʊləɹ",
+    "type": "",
+    "def": "a type of tooth at the back of the mouth with a rounded or flattened surface for grinding food",
     "vi": "răng hàm",
     "viDef": "loại răng ở phía trong miệng, mặt tròn hoặc phẳng để nghiền thức ăn"
   }

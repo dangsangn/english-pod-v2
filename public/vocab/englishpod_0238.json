@@ -2,60 +2,80 @@
   {
     "word": "impress",
     "ipa": "ɪmˈpɹɛs",
+    "type": "",
+    "def": "cause someone to feel admiration",
     "vi": "gây ấn tượng",
     "viDef": "khiến ai thấy nể phục"
   },
   {
     "word": "a brief overview",
     "ipa": "ə bɹif ˈoʊvɚˌvju",
+    "type": "",
+    "def": "a general description",
     "vi": "đôi nét khái quát",
     "viDef": "phần trình bày chung, ngắn gọn"
   },
   {
     "word": "settle down",
     "ipa": "ˈsɛtəl daʊn",
+    "type": "",
+    "def": "to calm down",
     "vi": "bình tĩnh lại",
     "viDef": "trở nên điềm tĩnh"
   },
   {
     "word": "pass on",
     "ipa": "pæs ɑn",
+    "type": "",
+    "def": "hand in",
     "vi": "chuyển tới",
     "viDef": "đưa lại, trao lên"
   },
   {
     "word": "feel free",
     "ipa": "fil fɹi",
+    "type": "",
+    "def": "feel relaxed",
     "vi": "cứ thoải mái",
     "viDef": "thấy tự nhiên, không phải ngại"
   },
   {
     "word": "concise",
     "ipa": "kənˈsaɪs",
+    "type": "",
+    "def": "to be short and clear",
     "vi": "ngắn gọn",
     "viDef": "ngắn mà rõ"
   },
   {
     "word": "world traveller",
     "ipa": "wɝld ˈtɹævəlɚ",
+    "type": "",
+    "def": "a person who has traveled to many different countries",
     "vi": "người đi khắp thế giới",
     "viDef": "người từng tới nhiều nước khác nhau"
   },
   {
     "word": "cover page",
     "ipa": "ˈkʌvɚ peɪdʒ",
+    "type": "",
+    "def": "a page briefly describing the interviewee",
     "vi": "trang bìa",
     "viDef": "trang giới thiệu ngắn về người ứng tuyển"
   },
   {
     "word": "qualities",
     "ipa": "ˈkwɑlətiz",
+    "type": "",
+    "def": "certain positive characteristics a person has",
     "vi": "các phẩm chất",
     "viDef": "những nét tích cực mà một người có"
   },
   {
     "word": "expatriate",
     "ipa": "ɛkˈspeɪtɹiˌeɪt",
+    "type": "",
+    "def": "a person who leaves their home country to work in another country",
     "vi": "người ra nước ngoài làm việc",
     "viDef": "người rời quê hương để đi làm ở nước khác"
   }

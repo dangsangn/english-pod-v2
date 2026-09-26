@@ -2,102 +2,136 @@
   {
     "word": "seem to be",
     "ipa": "sim tu bi",
+    "type": "phrase",
+    "def": "appears or is",
     "vi": "có vẻ như",
     "viDef": "trông như, dường như là"
   },
   {
     "word": "struggle",
     "ipa": "ˈstɹʌɡəl",
+    "type": "verb",
+    "def": "try very hard",
     "vi": "vật lộn",
     "viDef": "cố hết sức"
   },
   {
     "word": "20/20 vision",
     "ipa": "ˌtwɛnti ˈtwɛnti ˈvɪʒən",
+    "type": "phrase",
+    "def": "perfect eyesight",
     "vi": "thị lực hoàn hảo",
     "viDef": "mắt nhìn rõ tuyệt đối"
   },
   {
     "word": "make out",
     "ipa": "meɪk aʊt",
+    "type": "verb",
+    "def": "see",
     "vi": "nhìn ra",
     "viDef": "thấy được"
   },
   {
     "word": "far sighted",
     "ipa": "fɑɹ ˈsaɪtɪd",
+    "type": "phrase",
+    "def": "see far-away things more clearly than things nearby",
     "vi": "viễn thị",
     "viDef": "nhìn xa rõ hơn nhìn gần"
   },
   {
     "word": "as blind as a bat",
     "ipa": "æz blaɪnd æz ə bæt",
+    "type": "phrase",
+    "def": "have really poor vision",
     "vi": "mù dở",
     "viDef": "mắt kém lắm"
   },
   {
     "word": "vision",
     "ipa": "ˈvɪʒən",
+    "type": "common noun, singular",
+    "def": "ability to see things",
     "vi": "thị lực",
     "viDef": "khả năng nhìn"
   },
   {
     "word": "blurry",
     "ipa": "ˈblɝi",
+    "type": "Adjective",
+    "def": "not clear",
     "vi": "mờ nhòe",
     "viDef": "không rõ nét"
   },
   {
     "word": "pick out",
     "ipa": "pɪk aʊt",
+    "type": "phrase",
+    "def": "choose",
     "vi": "chọn ra",
     "viDef": "lựa"
   },
   {
     "word": "prescription",
     "ipa": "pɹəˈskɹɪpʃən",
+    "type": "common noun, singular",
+    "def": "a message written by a doctor that tells people what medicine to take",
     "vi": "đơn thuốc",
     "viDef": "giấy bác sĩ ghi loại thuốc cần dùng"
   },
   {
     "word": "check-up",
     "ipa": "tʃɛk ʌp",
+    "type": "common noun, singular",
+    "def": "regular examination by a doctor to make sure a person is healthy",
     "vi": "khám định kỳ",
     "viDef": "lần kiểm tra thường kỳ của bác sĩ để chắc rằng bạn khỏe"
   },
   {
     "word": "short sighted",
     "ipa": "ʃɔɹt ˈsaɪtɪd",
+    "type": "Adjective",
+    "def": "unable to see things far away (AmE)",
     "vi": "cận thị",
     "viDef": "không nhìn rõ vật ở xa (cách nói Anh-Mỹ)"
   },
   {
     "word": "nearsighted",
     "ipa": "ˈniɹˌsaɪtɪd",
+    "type": "Adjective",
+    "def": "unable to see things far away (BrE)",
     "vi": "cận thị",
     "viDef": "không nhìn rõ vật ở xa (cách nói Anh-Anh)"
   },
   {
     "word": "contacts",
     "ipa": "ˈkɑntækts",
+    "type": "common noun, plural",
+    "def": "lenses you wear directly on your eyes to help you see",
     "vi": "kính áp tròng",
     "viDef": "thấu kính đeo trực tiếp lên mắt để nhìn rõ"
   },
   {
     "word": "optometrist",
     "ipa": "ɑpˈtɑmətɹɪst",
+    "type": "common noun, singular",
+    "def": "eye doctor",
     "vi": "bác sĩ nhãn khoa",
     "viDef": "bác sĩ mắt"
   },
   {
     "word": "prescribe",
     "ipa": "pɹəˈskɹaɪb",
+    "type": "verb",
+    "def": "officially tell someone to use a medicine or treatment",
     "vi": "kê đơn",
     "viDef": "chính thức chỉ định ai đó dùng thuốc hoặc liệu pháp"
   },
   {
     "word": "lenses",
     "ipa": "ˈlɛnzəz",
+    "type": "common noun, plural",
+    "def": "clear, curved piece of glass that helps people see better",
     "vi": "tròng kính",
     "viDef": "miếng kính trong, cong giúp nhìn rõ hơn"
   }

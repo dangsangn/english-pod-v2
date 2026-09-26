@@ -2,96 +2,128 @@
   {
     "word": "pack of smokes",
     "ipa": "pæk ʌv smoʊks",
+    "type": "common noun, singular",
+    "def": "a box of cigarettes",
     "vi": "bao thuốc",
     "viDef": "hộp thuốc lá"
   },
   {
     "word": "urge",
     "ipa": "ɝdʒ",
+    "type": "common noun, singular",
+    "def": "a strong impulse, inner drive, or yearning",
     "vi": "cơn thèm",
     "viDef": "sự thúc bên trong, ham muốn mạnh"
   },
   {
     "word": "light up",
     "ipa": "laɪt ʌp",
+    "type": "phrase",
+    "def": "to start smoking a cigarette",
     "vi": "châm một điếu",
     "viDef": "bắt đầu hút thuốc"
   },
   {
     "word": "willpower",
     "ipa": "ˈwɪlˌpaʊɚ",
+    "type": "common noun, singular",
+    "def": "the strength of mind to carry out a decision",
     "vi": "ý chí",
     "viDef": "sức mạnh tinh thần để làm theo quyết định"
   },
   {
     "word": "nicotine chewing gum",
     "ipa": "ˈnɪkəˌtin ˈtʃuɪŋ ɡʌm",
+    "type": "common noun, singular",
+    "def": "gum that slowly releases nicotine into the body",
     "vi": "kẹo cao su nicotine",
     "viDef": "kẹo nhả nicotine dần vào người"
   },
   {
     "word": "crack down",
     "ipa": "kɹæk daʊn",
+    "type": "phrase",
+    "def": "To act more forcefully to regulate or repress",
     "vi": "siết chặt",
     "viDef": "ra tay mạnh hơn để quản lý hoặc dẹp"
   },
   {
     "word": "cold turkey",
     "ipa": "koʊld ˈtɝki",
+    "type": "phrase",
+    "def": "Immediate, complete withdrawal from something",
     "vi": "cắt hẳn một lần",
     "viDef": "ngưng hoàn toàn ngay lập tức"
   },
   {
     "word": "nicotine patch",
     "ipa": "ˈnɪkəˌtin pætʃ",
+    "type": "common noun, singular",
+    "def": "a patch that slowly releases nicotine into the body",
     "vi": "miếng dán nicotine",
     "viDef": "miếng dán nhả nicotine dần vào cơ thể"
   },
   {
     "word": "ashtray",
     "ipa": "ˈæʃtɹeɪ",
+    "type": "common noun, singular",
+    "def": "A receptacle for tobacco ashes and cigarettes and cigars",
     "vi": "gạt tàn",
     "viDef": "đồ đựng tro và đầu thuốc"
   },
   {
     "word": "cut down",
     "ipa": "kʌt daʊn",
+    "type": "principle verb, present simple",
+    "def": "reduce he amount taken or used",
     "vi": "giảm bớt",
     "viDef": "dùng hoặc hút ít hơn"
   },
   {
     "word": "drag",
     "ipa": "dɹæɡ",
+    "type": "common noun, singular",
+    "def": "smoking a cigarette once, a puff, share a cigar with someone",
     "vi": "hơi thuốc",
     "viDef": "một hơi hút, hoặc chia điếu thuốc với ai"
   },
   {
     "word": "tar",
     "ipa": "tɑɹ",
+    "type": "common noun, singular",
+    "def": "A solid, sticky substance that remains when tobacco is burned. It accumulates in the lungs of smokers and is considered carcinogenic.",
     "vi": "nhựa thuốc lá",
     "viDef": "chất dính đọng lại khi thuốc cháy, tích trong phổi người hút và bị coi là gây ung thư"
   },
   {
     "word": "lighter",
     "ipa": "ˈlaɪtɚ",
+    "type": "common noun, singular",
+    "def": "A mechanical device for lighting a cigarette, cigar, or pipe.",
     "vi": "bật lửa",
     "viDef": "dụng cụ để mồi thuốc lá, xì gà hoặc tẩu"
   },
   {
     "word": "match",
     "ipa": "mætʃ",
+    "type": "common noun, singular",
+    "def": "a thin strip of wood or cardboard tipped with a chemical that ignites when scraped against a rough or specially treated surface",
     "vi": "que diêm",
     "viDef": "thanh gỗ hoặc giấy nhỏ đầu có hóa chất, quẹt vào mặt nhám thì bùng lửa"
   },
   {
     "word": "stogie",
     "ipa": "ˈstoʊɡi",
+    "type": "common noun, singular",
+    "def": "informal of saying cigarette",
     "vi": "điếu thuốc",
     "viDef": "cách gọi thân mật của thuốc lá"
   },
   {
     "word": "butt",
     "ipa": "bʌt",
+    "type": "common noun, singular",
+    "def": "the end of the cigarette which contains the filter and is placed in the mouth to smoke",
     "vi": "đầu lọc",
     "viDef": "phần cuối điếu thuốc có bộ lọc, đưa vào miệng khi hút"
   }

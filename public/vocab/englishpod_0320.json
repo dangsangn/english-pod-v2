@@ -2,84 +2,112 @@
   {
     "word": "corporate",
     "ipa": "ˈkɔɹpɚət",
+    "type": "",
+    "def": "related to business",
     "vi": "thuộc doanh nghiệp",
     "viDef": "liên quan tới kinh doanh"
   },
   {
     "word": "management",
     "ipa": "ˈmænədʒmənt",
+    "type": "",
+    "def": "the action of controlling an area of a business",
     "vi": "việc quản trị",
     "viDef": "hoạt động điều hành một mảng của doanh nghiệp"
   },
   {
     "word": "graduate",
     "ipa": "ˈɡɹædʒəwət",
+    "type": "",
+    "def": "person who finished university",
     "vi": "người tốt nghiệp",
     "viDef": "người đã học xong đại học"
   },
   {
     "word": "GMAT",
     "ipa": "ˈdʒiˌmæt",
+    "type": "",
+    "def": "Graduate Management Admissions Test",
     "vi": "kỳ thi GMAT",
     "viDef": "Graduate Management Admissions Test"
   },
   {
     "word": "analytical",
     "ipa": "ˌænəˈlɪtɪkəl",
+    "type": "",
+    "def": "pertaining to or proceeding by analysis",
     "vi": "mang tính phân tích",
     "viDef": "liên quan tới hoặc tiến hành bằng phân tích"
   },
   {
     "word": "quantitative",
     "ipa": "ˈkwɑntɪˌteɪtɪv",
+    "type": "",
+    "def": "type of information based in quantities",
     "vi": "định lượng",
     "viDef": "loại thông tin dựa trên số lượng"
   },
   {
     "word": "verbal",
     "ipa": "ˈvɝbəl",
+    "type": "",
+    "def": "consisting of or in the form of words",
     "vi": "bằng ngôn từ",
     "viDef": "gồm hoặc thể hiện dưới dạng chữ nghĩa"
   },
   {
     "word": "MBA",
     "ipa": "ˈɛmˈbiˈeɪ",
+    "type": "",
+    "def": "Master of Business Administration",
     "vi": "bằng MBA",
     "viDef": "Master of Business Administration, thạc sĩ quản trị kinh doanh"
   },
   {
     "word": "fat cat",
     "ipa": "fæt kæt",
+    "type": "",
+    "def": "A wealthy and privileged person",
     "vi": "tay lắm tiền",
     "viDef": "người giàu có và nhiều đặc quyền"
   },
   {
     "word": "greed",
     "ipa": "ɡɹid",
+    "type": "",
+    "def": "excessive desire, as for wealth or power",
     "vi": "lòng tham",
     "viDef": "ham muốn quá mức về của cải hoặc quyền lực"
   },
   {
     "word": "wizard",
     "ipa": "ˈwɪzɚd",
+    "type": "",
+    "def": "a person of amazing skill or accomplishment",
     "vi": "bậc kỳ tài",
     "viDef": "người có kỹ năng hoặc thành tựu đáng kinh ngạc"
   },
   {
     "word": "market",
     "ipa": "ˈmɑɹkət",
+    "type": "",
+    "def": "the field of trade or business",
     "vi": "thương trường",
     "viDef": "lĩnh vực buôn bán hoặc kinh doanh"
   },
   {
     "word": "thesis",
     "ipa": "ˈθisəs",
+    "type": "",
+    "def": "a dissertation on a particular subject in which one has done original research",
     "vi": "luận văn",
     "viDef": "bài viết dài về một đề tài mà tác giả đã tự nghiên cứu"
   },
   {
     "word": "professor",
     "ipa": "pɹəˈfɛsɚ",
+    "type": "",
+    "def": "a teacher of the highest academic rank in a college or university",
     "vi": "giáo sư",
     "viDef": "người dạy ở cấp học thuật cao nhất trong trường đại học"
   }

@@ -2,60 +2,80 @@
   {
     "word": "hear",
     "ipa": "hiɹ",
+    "type": "verb",
+    "def": "get the information from someone",
     "vi": "nghe nói",
     "viDef": "biết tin từ ai đó"
   },
   {
     "word": "juicy detail",
     "ipa": "ˈdʒusi dɪˈteɪl",
+    "type": "common noun, plural",
+    "def": "exciting pieces of information",
     "vi": "chi tiết ly kỳ",
     "viDef": "những mẩu tin hấp dẫn"
   },
   {
     "word": "fill me in",
     "ipa": "fɪl mi ɪn",
+    "type": "verb",
+    "def": "give me more information",
     "vi": "kể tôi nghe với",
     "viDef": "cho tôi biết thêm thông tin"
   },
   {
     "word": "good looking",
     "ipa": "ɡʊd ˈlʊkɪŋ",
+    "type": "Adjective",
+    "def": "handsome",
     "vi": "ưa nhìn",
     "viDef": "đẹp trai"
   },
   {
     "word": "hot",
     "ipa": "hɑt",
+    "type": "Adjective",
+    "def": "attractive",
     "vi": "nóng bỏng",
     "viDef": "hấp dẫn, cuốn hút"
   },
   {
     "word": "career path",
     "ipa": "kɚˈɪɹ pæθ",
+    "type": "common noun, singular",
+    "def": "a planned, logical progression of jobs within a profession throughout working life",
     "vi": "lộ trình sự nghiệp",
     "viDef": "chuỗi công việc có tính toán, tiến dần trong nghề suốt đời làm việc"
   },
   {
     "word": "attractive",
     "ipa": "əˈtɹæktɪv",
+    "type": "Adjective",
+    "def": "have a pleasing appearance",
     "vi": "hấp dẫn",
     "viDef": "ngoại hình dễ mến"
   },
   {
     "word": "sexy",
     "ipa": "ˈsɛksi",
+    "type": "Adjective",
+    "def": "attractive, exciting and appealing",
     "vi": "quyến rũ",
     "viDef": "hấp dẫn, cuốn hút, đầy sức hút"
   },
   {
     "word": "tender",
     "ipa": "ˈtɛndɚ",
+    "type": "Adjective",
+    "def": "very loving and gentle",
     "vi": "dịu dàng",
     "viDef": "rất trìu mến và nhẹ nhàng"
   },
   {
     "word": "handsome",
     "ipa": "ˈhænsəm",
+    "type": "Adjective",
+    "def": "good looking",
     "vi": "đẹp trai",
     "viDef": "ưa nhìn"
   }

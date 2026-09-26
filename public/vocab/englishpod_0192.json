@@ -2,60 +2,80 @@
   {
     "word": "bizzard",
     "ipa": "ˈblɪzɚd",
+    "type": "",
+    "def": "great snow",
     "vi": "bão tuyết",
     "viDef": "trận tuyết lớn"
   },
   {
     "word": "drought",
     "ipa": "dɹaʊt",
+    "type": "",
+    "def": "a prolonged period of scanty rainfall",
     "vi": "đợt hạn hán",
     "viDef": "giai đoạn dài mưa rất ít"
   },
   {
     "word": "hurricane",
     "ipa": "ˈhɝəˌkeɪn",
+    "type": "",
+    "def": "very big rain and wind storm",
     "vi": "bão lớn",
     "viDef": "trận mưa gió rất mạnh"
   },
   {
     "word": "tsunami",
     "ipa": "tsuˈnɑmi",
+    "type": "",
+    "def": "a large sea wave produced by an earthquake",
     "vi": "sóng thần",
     "viDef": "ngọn sóng biển lớn do địa chấn gây ra"
   },
   {
     "word": "seismic activity",
     "ipa": "ˈsaɪzmɪk ækˈtɪvəti",
+    "type": "",
+    "def": "something that tech relating to or caused by an ea",
     "vi": "hoạt động địa chấn",
     "viDef": "những gì liên quan hoặc do động đất gây ra"
   },
   {
     "word": "Hail",
     "ipa": "heɪl",
+    "type": "",
+    "def": "small pieces of ice that fall from the sky instead of rain",
     "vi": "mưa đá",
     "viDef": "những viên băng nhỏ rơi từ trời thay cho mưa"
   },
   {
     "word": "Tornado",
     "ipa": "tɔɹˈneɪˌdoʊ",
+    "type": "",
+    "def": "A strong whirl of air that moves quickly",
     "vi": "lốc xoáy",
     "viDef": "cột khí xoáy mạnh di chuyển rất nhanh"
   },
   {
     "word": "Typhoon",
     "ipa": "taɪˈfun",
+    "type": "",
+    "def": "A tropical cyclone occurring in the western Pacific or Indian oceans.",
     "vi": "bão nhiệt đới ở Thái Bình Dương",
     "viDef": "xoáy thuận nhiệt đới xảy ra ở tây Thái Bình Dương hoặc Ấn Độ Dương"
   },
   {
     "word": "Hurricane",
     "ipa": "ˈhɝəˌkeɪn",
+    "type": "",
+    "def": "A severe tropical cyclone having winds greater than one hundren kilometers per hour",
     "vi": "bão nhiệt đới mạnh",
     "viDef": "xoáy thuận nhiệt đới dữ dội có gió trên một trăm ki-lô-mét mỗi giờ"
   },
   {
     "word": "Heat Wave",
     "ipa": "hit weɪv",
+    "type": "",
+    "def": "A period of unusually hot weather.",
     "vi": "đợt nắng nóng",
     "viDef": "giai đoạn thời tiết nóng bất thường"
   }

@@ -2,66 +2,88 @@
   {
     "word": "inconsiderate",
     "ipa": "ˌɪnkənˈsɪdɚət",
+    "type": "Adjective",
+    "def": "not thinking of the feelings of other people; not thoughtful",
     "vi": "vô ý tứ",
     "viDef": "không nghĩ đến cảm nhận của người khác, thiếu tế nhị"
   },
   {
     "word": "not such a big deal",
     "ipa": "nɑt sʌtʃ ə bɪɡ dil",
+    "type": "phrase",
+    "def": "not a big problem",
     "vi": "có gì to tát đâu",
     "viDef": "không phải vấn đề lớn"
   },
   {
     "word": "can't hear a thing",
     "ipa": "kænt hiɹ ə θɪŋ",
+    "type": "phrase",
+    "def": "unable to hear",
     "vi": "chẳng nghe được gì",
     "viDef": "không nghe thấy gì"
   },
   {
     "word": "keep it down",
     "ipa": "kip ɪt daʊn",
+    "type": "phrase",
+    "def": "be quiet",
     "vi": "nhỏ tiếng lại",
     "viDef": "giữ im lặng"
   },
   {
     "word": "switch off",
     "ipa": "swɪtʃ ɔf",
+    "type": "phrase",
+    "def": "turn off",
     "vi": "tắt đi",
     "viDef": "tắt"
   },
   {
     "word": "do you mind",
     "ipa": "du ju maɪnd",
+    "type": "phrase",
+    "def": "could you please",
     "vi": "phiền bạn",
     "viDef": "làm ơn có thể"
   },
   {
     "word": "noisy",
     "ipa": "ˈnɔɪzi",
+    "type": "Adjective",
+    "def": "very loud",
     "vi": "ồn ào",
     "viDef": "rất to tiếng"
   },
   {
     "word": "rude",
     "ipa": "ɹud",
+    "type": "Adjective",
+    "def": "impolite",
     "vi": "thô lỗ",
     "viDef": "bất lịch sự"
   },
   {
     "word": "to disturb",
     "ipa": "tu dɪˈstɝb",
+    "type": "principle verb, infinitive",
+    "def": "to interrupt, bother, or upset",
     "vi": "làm phiền",
     "viDef": "cắt ngang, quấy rầy hoặc làm khó chịu"
   },
   {
     "word": "to interrupt",
     "ipa": "tu ˌɪntɚˈʌpt",
+    "type": "principle verb, infinitive",
+    "def": "to speak or make noise when someone else is speaking",
     "vi": "cắt ngang",
     "viDef": "nói hoặc gây ồn khi người khác đang nói"
   },
   {
     "word": "to whisper",
     "ipa": "tu ˈwɪspɚ",
+    "type": "principle verb, infinitive",
+    "def": "to speak very softly",
     "vi": "thì thầm",
     "viDef": "nói rất khẽ"
   }

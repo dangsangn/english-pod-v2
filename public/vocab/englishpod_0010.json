@@ -2,90 +2,120 @@
   {
     "word": "concrete solutions",
     "ipa": "kənˈkɹit səˈluʃənz",
+    "type": "phrase",
+    "def": "a real or specific solution to a problem",
     "vi": "giải pháp cụ thể",
     "viDef": "cách giải quyết thiết thực, rõ ràng cho vấn đề"
   },
   {
     "word": "drive sales",
     "ipa": "dɹaɪv seɪlz",
+    "type": "Preposition",
+    "def": "increase sales",
     "vi": "thúc đẩy doanh số",
     "viDef": "tăng doanh số"
   },
   {
     "word": "in the market",
     "ipa": "ɪn ðə ˈmɑɹkət",
+    "type": "phrase",
+    "def": "in the industry",
     "vi": "trên thị trường",
     "viDef": "trong ngành"
   },
   {
     "word": "to match the competitors",
     "ipa": "tu mætʃ ðə kəmˈpɛtətɚz",
+    "type": "principle verb, infinitive",
+    "def": "be the as good as or better than others companies in the same industry",
     "vi": "theo kịp đối thủ",
     "viDef": "ngang bằng hoặc hơn các công ty khác cùng ngành"
   },
   {
     "word": "will never fly",
     "ipa": "wɪl ˈnɛvɚ flaɪ",
+    "type": "phrase",
+    "def": "will not work, will not be approved",
     "vi": "chắc chắn không xuôi",
     "viDef": "sẽ không hiệu quả, sẽ không được duyệt"
   },
   {
     "word": "promotion",
     "ipa": "pɹəˈmoʊʃən",
+    "type": "phrase",
+    "def": "something done to make people aware of a product",
     "vi": "hoạt động quảng bá",
     "viDef": "việc làm nhằm giúp mọi người biết đến sản phẩm"
   },
   {
     "word": "be here any minute",
     "ipa": "bi hiɹ ˈɛni ˈmɪnət",
+    "type": "phrase",
+    "def": "will arrive very soon",
     "vi": "tới nơi bây giờ",
     "viDef": "sắp đến ngay"
   },
   {
     "word": "to consider",
     "ipa": "tu kənˈsɪdɚ",
+    "type": "principle verb, infinitive",
+    "def": "thinking about",
     "vi": "cân nhắc",
     "viDef": "suy nghĩ về"
   },
   {
     "word": "brilliant",
     "ipa": "ˈbɹɪljənt",
+    "type": "Adjective",
+    "def": "excellent",
     "vi": "xuất sắc",
     "viDef": "tuyệt vời"
   },
   {
     "word": "competitive",
     "ipa": "kəmˈpɛtətɪv",
+    "type": "Adjective",
+    "def": "as good as or better than others of the same type",
     "vi": "có sức cạnh tranh",
     "viDef": "ngang bằng hoặc tốt hơn những thứ cùng loại"
   },
   {
     "word": "win sales",
     "ipa": "wɪn seɪlz",
+    "type": "phrase",
+    "def": "make sales sucessfully",
     "vi": "chốt được đơn",
     "viDef": "bán hàng thành công"
   },
   {
     "word": "sales strategy",
     "ipa": "seɪlz ˈstɹætədʒi",
+    "type": "phrase",
+    "def": "plans for a company's sales activities",
     "vi": "chiến lược bán hàng",
     "viDef": "kế hoạch cho hoạt động bán hàng của công ty"
   },
   {
     "word": "sales cycle",
     "ipa": "seɪlz ˈsaɪkəl",
+    "type": "phrase",
+    "def": "the process a customer goes though when deciding to buy a product",
     "vi": "chu kỳ bán hàng",
     "viDef": "quá trình khách hàng trải qua khi quyết định mua sản phẩm"
   },
   {
     "word": "to outsell",
     "ipa": "tu aʊtˈsɛl",
+    "type": "principle verb, infinitive",
+    "def": "to sell more than others",
     "vi": "bán chạy hơn",
     "viDef": "bán được nhiều hơn người khác"
   },
   {
     "word": "customer loyalty",
     "ipa": "ˈkʌstəmɚ ˈlɔɪəlti",
+    "type": "phrase",
+    "def": "when a customer buys the same brand over and over",
     "vi": "lòng trung thành của khách hàng",
     "viDef": "khi khách hàng mua đi mua lại cùng một thương hiệu"
   }

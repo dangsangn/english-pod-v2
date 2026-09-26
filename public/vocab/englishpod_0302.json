@@ -2,96 +2,128 @@
   {
     "word": "trip",
     "ipa": "tɹɪp",
+    "type": "",
+    "def": "journey to a place",
     "vi": "chuyến đi",
     "viDef": "hành trình tới một nơi"
   },
   {
     "word": "terrify",
     "ipa": "ˈtɛɹəˌfaɪ",
+    "type": "",
+    "def": "to fill with terror or alarm; make greatly afraid",
     "vi": "làm kinh hoàng",
     "viDef": "khiến người ta sợ hoặc hoảng dữ dội"
   },
   {
     "word": "aerophobia",
     "ipa": "ˌɛɹoʊˈfoʊbiə",
+    "type": "",
+    "def": "an abnormal fear of drafts of air, gases, or airborne matter",
     "vi": "chứng sợ bay",
     "viDef": "nỗi sợ bất thường với luồng khí, khí hoặc các thứ trong không khí"
   },
   {
     "word": "chronic",
     "ipa": "ˈkɹɑnɪk",
+    "type": "",
+    "def": "constant, habitual",
     "vi": "dai dẳng",
     "viDef": "thường trực, thành lệ"
   },
   {
     "word": "phobia",
     "ipa": "ˈfoʊbiə",
+    "type": "",
+    "def": "irrational fear of a specific object, activity",
     "vi": "chứng sợ",
     "viDef": "nỗi sợ vô lý với một vật hoặc việc cụ thể"
   },
   {
     "word": "glossophobia",
     "ipa": "ˌɡlɑsəˈfoʊbiə",
+    "type": "",
+    "def": "the fear of public speaking",
     "vi": "chứng sợ nói trước đám đông",
     "viDef": "nỗi sợ phải phát biểu trước công chúng"
   },
   {
     "word": "Acrophobia",
     "ipa": "ˌækɹəˈfoʊbiə",
+    "type": "",
+    "def": "a pathological fear of heights",
     "vi": "chứng sợ độ cao",
     "viDef": "nỗi sợ bệnh lý đối với độ cao"
   },
   {
     "word": "sweat",
     "ipa": "swɛt",
+    "type": "",
+    "def": "to excrete (perspiration, moisture, etc.) through the pores of the skin",
     "vi": "đổ mồ hôi",
     "viDef": "tiết mồ hôi, hơi ẩm... qua lỗ chân lông"
   },
   {
     "word": "nervous",
     "ipa": "ˈnɝvəs",
+    "type": "",
+    "def": "being worried about what might happen",
     "vi": "lo lắng",
     "viDef": "đang lo về điều có thể xảy ra"
   },
   {
     "word": "kidding",
     "ipa": "ˈkɪdɪŋ",
+    "type": "",
+    "def": "fool or joke",
     "vi": "giỡn",
     "viDef": "trêu, nói đùa"
   },
   {
     "word": "claustrophobia",
     "ipa": "ˌklɔstɹəˈfoʊbiə",
+    "type": "",
+    "def": "an abnormal fear of being in enclosed or narrow places.",
     "vi": "chứng sợ nơi kín",
     "viDef": "nỗi sợ bất thường khi ở trong không gian kín hoặc chật"
   },
   {
     "word": "confess",
     "ipa": "kənˈfɛs",
+    "type": "",
+    "def": "To admit or acknowledge something damaging",
     "vi": "thừa nhận",
     "viDef": "nhận hoặc thú ra điều gì bất lợi cho mình"
   },
   {
     "word": "weirdo",
     "ipa": "ˈwɪɹdoʊ",
+    "type": "",
+    "def": "a strange person",
     "vi": "kẻ dị",
     "viDef": "người kỳ quái"
   },
   {
     "word": "Venustraphobia",
     "ipa": "vəˌnʌstɹəˈfoʊbiə",
+    "type": "",
+    "def": "the fear of beautiful women",
     "vi": "chứng sợ gái đẹp",
     "viDef": "nỗi sợ những người nữ xinh đẹp"
   },
   {
     "word": "panic",
     "ipa": "ˈpænɪk",
+    "type": "",
+    "def": "a sudden overwhelming fear",
     "vi": "cơn hoảng loạn",
     "viDef": "nỗi sợ bất chợt tràn ngập"
   },
   {
     "word": "scary",
     "ipa": "ˈskɛɹi",
+    "type": "",
+    "def": "causing fright or alarm.",
     "vi": "đáng sợ",
     "viDef": "gây hoảng hoặc lo"
   }

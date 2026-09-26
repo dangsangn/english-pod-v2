@@ -2,60 +2,80 @@
   {
     "word": "infant",
     "ipa": "ˈɪnfənt",
+    "type": "",
+    "def": "baby",
     "vi": "hài nhi",
     "viDef": "em bé sơ sinh"
   },
   {
     "word": "quake at the sight",
     "ipa": "kweɪk æt ðə saɪt",
+    "type": "",
+    "def": "shake or tremble when see something",
     "vi": "rúng động khi thấy",
     "viDef": "run lên khi trông thấy điều gì"
   },
   {
     "word": "afar",
     "ipa": "əˈfɑɹ",
+    "type": "",
+    "def": "from or to a great distance",
     "vi": "nơi xa",
     "viDef": "từ hoặc tới một khoảng rất xa"
   },
   {
     "word": "saviour",
     "ipa": "ˈseɪvjɚ",
+    "type": "",
+    "def": "a person who rescues people from harm or danger",
     "vi": "đấng cứu độ",
     "viDef": "người cứu người khác khỏi tai họa hoặc nguy hiểm"
   },
   {
     "word": "thy",
     "ipa": "ðaɪ",
+    "type": "",
+    "def": "an old-fashioned, poetic, or religious word for 'your'",
     "vi": "của ngươi",
     "viDef": "từ cổ, có tính thi ca hoặc tôn giáo, nghĩa là \"của bạn\""
   },
   {
     "word": "Magi",
     "ipa": "ˈmeɪdʒaɪ",
+    "type": "",
+    "def": "the wise men, generally assumed to be three in number, who travelled to the infant Jesus to worship him",
     "vi": "ba nhà đạo sĩ",
     "viDef": "các nhà thông thái, thường cho là ba người, tìm đến bái hài nhi Giêsu"
   },
   {
     "word": "proclamation",
     "ipa": "ˌpɹɑkləˈmeɪʃən",
+    "type": "",
+    "def": "a public and official announcement",
     "vi": "lời tuyên xưng",
     "viDef": "lời loan báo công khai và chính thức"
   },
   {
     "word": "stable",
     "ipa": "ˈsteɪbəl",
+    "type": "",
+    "def": "a building for the shelter and feeding of domestic animals, especially horses and cattle",
     "vi": "chuồng gia súc",
     "viDef": "nhà để nuôi và cho ăn gia súc, nhất là ngựa và bò"
   },
   {
     "word": "manger",
     "ipa": "ˈmeɪndʒɚ",
+    "type": "",
+    "def": "a box or trough in a stable or barn from which horses or cattle eat",
     "vi": "máng cỏ",
     "viDef": "thùng hoặc rãnh trong chuồng để ngựa, bò ăn"
   },
   {
     "word": "nativity scene",
     "ipa": "nəˈtɪvəti sin",
+    "type": "",
+    "def": "a depiction of Jesus's birth in a manger, including the parents, Mary and Joseph",
     "vi": "hang đá Giáng sinh",
     "viDef": "cảnh dựng lại việc Chúa Giêsu sinh trong máng cỏ, có Mẹ Maria và thánh Giuse"
   }

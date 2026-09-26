@@ -2,78 +2,104 @@
   {
     "word": "bargain",
     "ipa": "ˈbɑɹɡən",
+    "type": "common noun, singular",
+    "def": "a good deal, a cheap price",
     "vi": "món hời",
     "viDef": "mua được giá tốt, giá rẻ"
   },
   {
     "word": "shop around",
     "ipa": "ʃɑp ɚˈaʊnd",
+    "type": "phrase",
+    "def": "look in many stores and try to find the best price",
     "vi": "đi khảo giá",
     "viDef": "ghé nhiều cửa hàng để tìm giá tốt nhất"
   },
   {
     "word": "discount",
     "ipa": "dɪˈskaʊnt",
+    "type": "common noun, singular",
+    "def": "a lowering of the price of something",
     "vi": "giảm giá",
     "viDef": "việc hạ giá món hàng"
   },
   {
     "word": "exclusive",
     "ipa": "ɪkˈsklusɪv",
+    "type": "Adjective",
+    "def": "not common, unique",
     "vi": "độc quyền, hàng hiếm",
     "viDef": "không phổ biến, có một"
   },
   {
     "word": "out of my price range",
     "ipa": "aʊt ʌv maɪ pɹaɪs ɹeɪndʒ",
+    "type": "phrase",
+    "def": "too expensive, can't afford it",
     "vi": "quá tầm giá của tôi",
     "viDef": "đắt quá, không mua nổi"
   },
   {
     "word": "offer",
     "ipa": "ˈɔfɚ",
+    "type": "common noun, singular",
+    "def": "an opportunity to buy something at a low price",
     "vi": "ưu đãi",
     "viDef": "dịp mua được giá thấp"
   },
   {
     "word": "pricey",
     "ipa": "ˈpɹaɪsi",
+    "type": "Adjective",
+    "def": "expensive",
     "vi": "đắt đỏ",
     "viDef": "giá cao"
   },
   {
     "word": "deal",
     "ipa": "dil",
+    "type": "common noun, singular",
+    "def": "agreement to buy something",
     "vi": "thỏa thuận mua",
     "viDef": "sự đồng ý mua bán"
   },
   {
     "word": "promotion",
     "ipa": "pɹəˈmoʊʃən",
+    "type": "common noun, singular",
+    "def": "a special discount or offer on goods and services",
     "vi": "khuyến mãi",
     "viDef": "ưu đãi hoặc giảm giá đặc biệt cho hàng hóa, dịch vụ"
   },
   {
     "word": "cash",
     "ipa": "kæʃ",
+    "type": "common noun, singular",
+    "def": "money in the form of coins and bills",
     "vi": "tiền mặt",
     "viDef": "tiền xu và tiền giấy"
   },
   {
     "word": "credit card",
     "ipa": "ˈkɹɛdət kɑɹd",
+    "type": "common noun, singular",
+    "def": "card that is used to buy things and pay at a later time",
     "vi": "thẻ tín dụng",
     "viDef": "thẻ mua hàng rồi trả tiền sau"
   },
   {
     "word": "negotiate",
     "ipa": "nəˈɡoʊʃiˌeɪt",
+    "type": "principle verb, present simple",
+    "def": "to discuss and fight for a better price",
     "vi": "mặc cả",
     "viDef": "thương lượng để có giá tốt hơn"
   },
   {
     "word": "freebie",
     "ipa": "ˈfɹibi",
+    "type": "common noun, singular",
+    "def": "a free item that is usually given to promote a product",
     "vi": "quà tặng kèm",
     "viDef": "món cho không, thường để quảng bá sản phẩm"
   }

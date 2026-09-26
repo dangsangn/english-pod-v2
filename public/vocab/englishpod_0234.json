@@ -2,72 +2,96 @@
   {
     "word": "swollen",
     "ipa": "ˈswoʊlən",
+    "type": "",
+    "def": "some parts are bigger than others due to a certain",
     "vi": "sưng",
     "viDef": "chỗ nào phồng to hơn bình thường do bệnh"
   },
   {
     "word": "come down with",
     "ipa": "kʌm daʊn wɪð",
+    "type": "",
+    "def": "get sick",
     "vi": "nhiễm bệnh",
     "viDef": "bị đổ bệnh"
   },
   {
     "word": "antibiotics",
     "ipa": "ˌæntibaɪˈɑtɪks",
+    "type": "",
+    "def": "chemical substance that can kill a virus",
     "vi": "thuốc kháng sinh",
     "viDef": "chất hóa học có thể diệt vi khuẩn"
   },
   {
     "word": "contagious",
     "ipa": "kənˈteɪdʒəs",
+    "type": "",
+    "def": "having a sickness that other people can catch",
     "vi": "lây",
     "viDef": "mang bệnh người khác có thể nhiễm phải"
   },
   {
     "word": "a doctor’s note",
     "ipa": "ə ˈdɑktɚ ɛs noʊt",
+    "type": "",
+    "def": "note from doctor explaining a patient's absence due to sickness",
     "vi": "giấy bác sĩ",
     "viDef": "giấy bác sĩ ghi rõ bệnh nhân nghỉ vì bệnh"
   },
   {
     "word": "dehydrated",
     "ipa": "dɪˈhaɪdɹeɪtəd",
+    "type": "",
+    "def": "not having enough water in the body",
     "vi": "mất nước",
     "viDef": "trong người không đủ nước"
   },
   {
     "word": "breathless",
     "ipa": "ˈbɹɛθləs",
+    "type": "",
+    "def": "unable to take enough air into your lungs",
     "vi": "hụt hơi",
     "viDef": "không hít đủ khí vào phổi"
   },
   {
     "word": "injection",
     "ipa": "ˌɪnˈdʒɛkʃən",
+    "type": "",
+    "def": "a liquid injected into the body for medicinal purposes by use of a needle",
     "vi": "thuốc tiêm",
     "viDef": "dịch được đưa vào người bằng kim để trị bệnh"
   },
   {
     "word": "waiting room",
     "ipa": "ˈweɪtɪŋ ɹum",
+    "type": "",
+    "def": "a room for people to wait before going in to see the doctor",
     "vi": "phòng chờ",
     "viDef": "phòng để người ta ngồi đợi trước khi vào gặp bác sĩ"
   },
   {
     "word": "stethoscope",
     "ipa": "ˈstɛθəˌskoʊp",
+    "type": "",
+    "def": "instrument used for listening to sounds produced within the body, such as the heartbeat",
     "vi": "ống nghe",
     "viDef": "dụng cụ để nghe các âm trong người, chẳng hạn nhịp tim"
   },
   {
     "word": "otoscope",
     "ipa": "ˈoʊtəskoʊp",
+    "type": "",
+    "def": "instrument for examining the interior of the ear, especially the eardrum, consisting essentially of a magnifying lens and a light",
     "vi": "đèn soi tai",
     "viDef": "dụng cụ soi bên trong tai, nhất là màng nhĩ, gồm kính phóng đại và đèn"
   },
   {
     "word": "examining (exam) room",
     "ipa": "ɪɡˈzæmɪnɪŋ ɪɡˈzæm ɹum",
+    "type": "",
+    "def": "a small room where a physician may examine a patient with some privacy",
     "vi": "phòng khám",
     "viDef": "phòng nhỏ để bác sĩ khám bệnh nhân được kín đáo"
   }

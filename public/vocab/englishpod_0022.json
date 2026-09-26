@@ -2,102 +2,136 @@
   {
     "word": "take someone to jail",
     "ipa": "teɪk ˈsʌmwʌn tu dʒeɪl",
+    "type": "phrase",
+    "def": "take someone who is arrested to a place where other criminals are kept",
     "vi": "áp giải vào tù",
     "viDef": "đưa người bị bắt đến nơi giam giữ tội phạm"
   },
   {
     "word": "book",
     "ipa": "bʊk",
+    "type": "verb",
+    "def": "arrest (informal)",
     "vi": "còng đầu",
     "viDef": "bắt giữ (thân mật)"
   },
   {
     "word": "claim",
     "ipa": "kleɪm",
+    "type": "verb",
+    "def": "say something is true when some people say it may not be true",
     "vi": "khẳng định",
     "viDef": "quả quyết điều gì là thật trong khi có người cho là không"
   },
   {
     "word": "stocking",
     "ipa": "ˈstɑkɪŋ",
+    "type": "common noun, singular",
+    "def": "large sock; traditionally, Christmas gifts are put inside on the Christmas Eve",
     "vi": "tất Giáng sinh",
     "viDef": "chiếc tất lớn, theo truyền thống quà Giáng sinh được bỏ vào đêm Noel"
   },
   {
     "word": "speed",
     "ipa": "spid",
+    "type": "verb",
+    "def": "drive faster than legal speed limit",
     "vi": "chạy quá tốc độ",
     "viDef": "lái nhanh hơn giới hạn cho phép"
   },
   {
     "word": "impound",
     "ipa": "ɪmˈpaʊnd",
+    "type": "verb",
+    "def": "held by the police",
     "vi": "bị tạm giữ",
     "viDef": "bị cảnh sát giữ lại"
   },
   {
     "word": "ruined",
     "ipa": "ˈɹuənd",
+    "type": "Adjective",
+    "def": "damaged or destroyed",
     "vi": "hỏng bét",
     "viDef": "bị hư hại hoặc phá hủy"
   },
   {
     "word": "reindeer",
     "ipa": "ˈɹeɪndɪɹ",
+    "type": "common noun, non-variable",
+    "def": "large deer that lives in the north part of the globe",
     "vi": "tuần lộc",
     "viDef": "loài hươu lớn sống ở vùng phía bắc địa cầu"
   },
   {
     "word": "elf",
     "ipa": "ɛlf",
+    "type": "common noun, singular",
+    "def": "small creature (in stories) that have pointed ears and magic powers",
     "vi": "yêu tinh nhỏ",
     "viDef": "sinh vật nhỏ trong truyện, tai nhọn và có phép thuật"
   },
   {
     "word": "candy cane",
     "ipa": "ˈkændi keɪn",
+    "type": "common noun, plural",
+    "def": "a stick-shaped candy with red and white curves on the top",
     "vi": "kẹo gậy",
     "viDef": "cây kẹo hình gậy sọc đỏ trắng cong ở đầu"
   },
   {
     "word": "under heavy",
     "ipa": "ˈʌndɚ ˈhɛvi",
+    "type": "phrase",
+    "def": "being attacked or hurt",
     "vi": "đang bị tấn công dữ dội",
     "viDef": "bị công kích hoặc bị thương"
   },
   {
     "word": "backup",
     "ipa": "ˈbækʌp",
+    "type": "common noun, non-variable",
+    "def": "help",
     "vi": "chi viện",
     "viDef": "sự hỗ trợ"
   },
   {
     "word": "charge",
     "ipa": "tʃɑɹdʒ",
+    "type": "verb",
+    "def": "formally accuse someone of a crime",
     "vi": "buộc tội",
     "viDef": "chính thức cáo buộc ai đó phạm tội"
   },
   {
     "word": "pull someone over",
     "ipa": "pʊl ˈsʌmwʌn ˈoʊvɚ",
+    "type": "phrase",
+    "def": "make a moving car move to the side of the road",
     "vi": "chặn xe lại",
     "viDef": "buộc xe đang chạy tấp vào lề đường"
   },
   {
     "word": "ambush",
     "ipa": "ˈæmbʊʃ",
+    "type": "common noun, singular",
+    "def": "a sudden attack",
     "vi": "cuộc phục kích",
     "viDef": "đòn tấn công bất ngờ"
   },
   {
     "word": "stocking stuffer",
     "ipa": "ˈstɑkɪŋ ˈstʌfɚ",
+    "type": "common noun, singular",
+    "def": "small gifts that are put in the Christmas stocking",
     "vi": "quà nhỏ nhét tất",
     "viDef": "những món quà nhỏ bỏ vào tất Giáng sinh"
   },
   {
     "word": "Christmas ornament",
     "ipa": "ˈkɹɪsməs ˈɔɹnəmənt",
+    "type": "common noun, singular",
+    "def": "decoration that is used to make the Christmas tree beautiful",
     "vi": "đồ trang trí cây thông",
     "viDef": "vật trang trí làm đẹp cây thông Noel"
   }

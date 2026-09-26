@@ -2,60 +2,80 @@
   {
     "word": "United Nations",
     "ipa": "juˈnaɪtɪd ˈneɪʃənz",
+    "type": "",
+    "def": "an international political organization",
     "vi": "Liên Hợp Quốc",
     "viDef": "một tổ chức chính trị quốc tế"
   },
   {
     "word": "array",
     "ipa": "ɚˈeɪ",
+    "type": "",
+    "def": "a large group or quantity of people or things",
     "vi": "dàn, loạt",
     "viDef": "một nhóm hoặc số lượng lớn người hay vật"
   },
   {
     "word": "opportunity",
     "ipa": "ˌɑpɚˈtunəti",
+    "type": "",
+    "def": "chance",
     "vi": "cơ hội",
     "viDef": "dịp may"
   },
   {
     "word": "language barrier",
     "ipa": "ˈlæŋɡwədʒ ˈbæɹiɚ",
+    "type": "",
+    "def": "trouble communicating because speak different languages",
     "vi": "rào cản ngôn ngữ",
     "viDef": "sự khó giao tiếp vì nói các thứ tiếng khác nhau"
   },
   {
     "word": "stay the course",
     "ipa": "steɪ ðə kɔɹs",
+    "type": "",
+    "def": "remain or persevere to the end",
     "vi": "theo tới cùng",
     "viDef": "giữ hoặc bền chí đến hết"
   },
   {
     "word": "Dutch",
     "ipa": "dʌtʃ",
+    "type": "",
+    "def": "relating to the people of Netherlands",
     "vi": "người Hà Lan",
     "viDef": "thuộc về người dân Hà Lan"
   },
   {
     "word": "Finn",
     "ipa": "fɪn",
+    "type": "",
+    "def": "A person from Finland",
     "vi": "người Phần Lan",
     "viDef": "người đến từ Phần Lan"
   },
   {
     "word": "Dane",
     "ipa": "deɪn",
+    "type": "",
+    "def": "A person from Denmark",
     "vi": "người Đan Mạch",
     "viDef": "người đến từ Đan Mạch"
   },
   {
     "word": "naturalize",
     "ipa": "ˈnætʃɚəˌlaɪz",
+    "type": "",
+    "def": "process by which a person becomes a citizen of another country",
     "vi": "nhập tịch",
     "viDef": "quá trình một người trở thành công dân của nước khác"
   },
   {
     "word": "ethnic",
     "ipa": "ˈɛθnɪk",
+    "type": "",
+    "def": "relating to groups of people that have common racial, tribal or religious traits",
     "vi": "thuộc sắc tộc",
     "viDef": "liên quan tới các nhóm người có chung nét chủng tộc, bộ tộc hoặc tôn giáo"
   }

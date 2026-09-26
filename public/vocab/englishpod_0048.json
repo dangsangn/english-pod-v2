@@ -2,60 +2,80 @@
   {
     "word": "prestigious",
     "ipa": "pɹɛˈstɪdʒəs",
+    "type": "Adjective",
+    "def": "being respected and admired for being successful or important",
     "vi": "danh giá",
     "viDef": "được kính trọng và ngưỡng mộ vì thành công hoặc quan trọng"
   },
   {
     "word": "ticket scalper",
     "ipa": "ˈtɪkət ˈskælpɚ",
+    "type": "common noun, singular",
+    "def": "person that buys and re-sales tickets at a higher price",
     "vi": "dân bán vé chợ đen",
     "viDef": "người mua vé rồi bán lại giá cao hơn"
   },
   {
     "word": "once in a lifetime",
     "ipa": "wʌns ɪn ə ˈlaɪftaɪm",
+    "type": "phrase",
+    "def": "something that happens very rarely, not common",
     "vi": "cả đời có một lần",
     "viDef": "chuyện rất hiếm khi xảy ra"
   },
   {
     "word": "float",
     "ipa": "floʊt",
+    "type": "common noun, singular",
+    "def": "a vehicle with a platform used to carry an exhibit in a parade",
     "vi": "xe hoa",
     "viDef": "xe có bệ chở mô hình trong đoàn diễu hành"
   },
   {
     "word": "good thing",
     "ipa": "ɡʊd θɪŋ",
+    "type": "phrase",
+    "def": "it is good that something happened",
     "vi": "may mà",
     "viDef": "may là chuyện đó đã xảy ra"
   },
   {
     "word": "stadium",
     "ipa": "ˈsteɪdiəm",
+    "type": "common noun, singular",
+    "def": "a large structure where sport events are held",
     "vi": "sân vận động",
     "viDef": "công trình lớn để tổ chức thi đấu thể thao"
   },
   {
     "word": "festival",
     "ipa": "ˈfɛstəvəl",
+    "type": "common noun, singular",
+    "def": "a special time or event when people gather to celebrate something",
     "vi": "lễ hội",
     "viDef": "dịp mọi người tụ họp để ăn mừng"
   },
   {
     "word": "Brasilia",
     "ipa": "bɹəˈzɪljə",
+    "type": "",
+    "def": "the capital of Brazil",
     "vi": "Brasília",
     "viDef": "thủ đô của Brazil"
   },
   {
     "word": "take a chance",
     "ipa": "teɪk ə tʃæns",
+    "type": "phrase",
+    "def": "take a risk, do something that you would not usually do",
     "vi": "thử liều xem",
     "viDef": "mạo hiểm, làm điều mình thường không làm"
   },
   {
     "word": "ditch",
     "ipa": "dɪtʃ",
+    "type": "verb",
+    "def": "leave someone on purpose (informal)",
     "vi": "bỏ mặc, cắt đuôi",
     "viDef": "cố tình để ai lại (thân mật)"
   }

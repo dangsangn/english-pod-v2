@@ -2,60 +2,80 @@
   {
     "word": "bill",
     "ipa": "bɪl",
+    "type": "",
+    "def": "a document that shows how much you must pay",
     "vi": "hóa đơn",
     "viDef": "giấy ghi số tiền phải trả"
   },
   {
     "word": "go halves",
     "ipa": "ɡoʊ hævz",
+    "type": "",
+    "def": "divide equally",
     "vi": "chia đôi",
     "viDef": "chia đều nhau"
   },
   {
     "word": "move out",
     "ipa": "muv aʊt",
+    "type": "",
+    "def": "to vacate a residence, cause to leave",
     "vi": "dọn ra",
     "viDef": "rời khỏi chỗ ở, đi khỏi nơi đó"
   },
   {
     "word": "what I am getting at",
     "ipa": "wʌt aɪ æm ˈɡɛtɪŋ æt",
+    "type": "",
+    "def": "what I am trying to say",
     "vi": "ý tôi muốn nói là",
     "viDef": "điều tôi đang cố diễn đạt"
   },
   {
     "word": "way more",
     "ipa": "weɪ mɔɹ",
+    "type": "",
+    "def": "much more, a lot more",
     "vi": "nhiều hơn hẳn",
     "viDef": "nhiều hơn rất nhiều"
   },
   {
     "word": "Landlord",
     "ipa": "ˈlændlɔɹd",
+    "type": "",
+    "def": "One that owns and rents land, buildings, or dwelling units.",
     "vi": "chủ cho thuê",
     "viDef": "người sở hữu và cho thuê đất, nhà hoặc căn hộ"
   },
   {
     "word": "Lease",
     "ipa": "lis",
+    "type": "",
+    "def": "A contract granting use or occupation of property during a specified period in exchange for a specified rent.",
     "vi": "hợp đồng thuê",
     "viDef": "thỏa thuận cho dùng hoặc ở trong tài sản một thời hạn nhất định để đổi lấy tiền thuê đã định"
   },
   {
     "word": "Utility",
     "ipa": "juˈtɪləti",
+    "type": "",
+    "def": "A commodity or service, such as electricity, water, or public transportation, that is provided by a public utility",
     "vi": "dịch vụ thiết yếu",
     "viDef": "hàng hóa hoặc dịch vụ như điện, nước hay giao thông công cộng do đơn vị công ích cung cấp"
   },
   {
     "word": "Dower",
     "ipa": "daʊɹ",
+    "type": "",
+    "def": "The rights of a widow in the property of her husband at his death.",
     "vi": "phần của quả phụ",
     "viDef": "quyền của người vợ đối với tài sản của chồng khi chồng mất"
   },
   {
     "word": "Breach Of Contract",
     "ipa": "bɹitʃ ʌv ˈkɑntɹækt",
+    "type": "",
+    "def": "A legal violation of an established contract between two parties",
     "vi": "vi phạm hợp đồng",
     "viDef": "việc phá vỡ hợp đồng đã lập giữa hai bên về mặt pháp lý"
   }

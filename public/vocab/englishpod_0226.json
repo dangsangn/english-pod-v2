@@ -2,66 +2,88 @@
   {
     "word": "raise",
     "ipa": "ɹeɪz",
+    "type": "",
+    "def": "increase in size, quantity, or worth",
     "vi": "gây quỹ, nâng lên",
     "viDef": "làm tăng về cỡ, số lượng hoặc giá trị"
   },
   {
     "word": "door to door",
     "ipa": "dɔɹ tu dɔɹ",
+    "type": "",
+    "def": "from one house to the next",
     "vi": "gõ từng nhà",
     "viDef": "từ nhà này sang nhà kế"
   },
   {
     "word": "driveway",
     "ipa": "ˈdɹaɪvweɪ",
+    "type": "",
+    "def": "short private road from a street to a house",
     "vi": "đường vào nhà",
     "viDef": "lối riêng ngắn từ đường lớn vào nhà"
   },
   {
     "word": "sponsor",
     "ipa": "ˈspɑnsɚ",
+    "type": "",
+    "def": "agree to pay for an event or activity",
     "vi": "tài trợ",
     "viDef": "đồng ý chi tiền cho một sự kiện hoặc hoạt động"
   },
   {
     "word": "donation",
     "ipa": "doʊˈneɪʃən",
+    "type": "",
+    "def": "the act of giving to a fund or cause",
     "vi": "khoản quyên góp",
     "viDef": "việc góp vào một quỹ hoặc một việc thiện"
   },
   {
     "word": "solicit",
     "ipa": "səˈlɪsɪt",
+    "type": "",
+    "def": "seek to obtain by persuasion, entreaty, or formal",
     "vi": "vận động xin",
     "viDef": "tìm cách nhận được bằng cách thuyết phục, cầu xin hoặc theo thể thức chính thức"
   },
   {
     "word": "fundraiser",
     "ipa": "ˈfʌnˌdɹeɪzɚ",
+    "type": "",
+    "def": "a person or an action which collects money for particular purposes",
     "vi": "buổi gây quỹ",
     "viDef": "người hoặc hoạt động thu tiền cho một mục đích nhất định"
   },
   {
     "word": "generous",
     "ipa": "ˈdʒɛnɚəs",
+    "type": "",
+    "def": "to be very giving",
     "vi": "hào tâm",
     "viDef": "rất sẵn lòng cho đi"
   },
   {
     "word": "embarrassed",
     "ipa": "ɪmˈbɛɹəst",
+    "type": "",
+    "def": "the feeling of being uncomfortable",
     "vi": "ngượng",
     "viDef": "cảm giác không thoải mái"
   },
   {
     "word": "stingy",
     "ipa": "ˈstɪndʒi",
+    "type": "",
+    "def": "the reluctance to be giving",
     "vi": "bủn xỉn",
     "viDef": "không muốn cho đi"
   },
   {
     "word": "avoid",
     "ipa": "əˈvɔɪd",
+    "type": "",
+    "def": "to stay clear of someone or something",
     "vi": "tránh mặt",
     "viDef": "giữ khoảng cách với ai hoặc điều gì"
   }

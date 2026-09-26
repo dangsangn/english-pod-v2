@@ -2,102 +2,136 @@
   {
     "word": "oh man",
     "ipa": "oʊ mæn",
+    "type": "",
+    "def": "to express emotion or feeling, like God, Jesus",
     "vi": "ôi trời",
     "viDef": "câu thốt ra để tỏ cảm xúc"
   },
   {
     "word": "calm down",
     "ipa": "kɑm daʊn",
+    "type": "",
+    "def": "become quiet or calm, relax",
     "vi": "bình tĩnh lại",
     "viDef": "trở nên yên, thư giãn"
   },
   {
     "word": "laptop",
     "ipa": "ˈlæptɑp",
+    "type": "",
+    "def": "a small computer which is easily carried",
     "vi": "máy tính xách tay",
     "viDef": "máy tính nhỏ dễ mang đi"
   },
   {
     "word": "I mean",
     "ipa": "aɪ min",
+    "type": "",
+    "def": "to express ones own opinion, meaning",
     "vi": "ý tôi là",
     "viDef": "câu dùng khi nêu ý mình muốn nói"
   },
   {
     "word": "monitor",
     "ipa": "ˈmɑnətɚ",
+    "type": "",
+    "def": "an electronic display that shows images",
     "vi": "màn hình",
     "viDef": "thiết bị điện tử hiển thị hình ảnh"
   },
   {
     "word": "virus",
     "ipa": "ˈvaɪɹəs",
+    "type": "",
+    "def": "a program designed to harm a computer",
     "vi": "virus máy tính",
     "viDef": "chương trình được viết ra để làm hại máy"
   },
   {
     "word": "nope",
     "ipa": "noʊp",
+    "type": "",
+    "def": "no (informal)",
     "vi": "hổng có",
     "viDef": "không (thân mật)"
   },
   {
     "word": "program",
     "ipa": "ˈpɹoʊɡɹæm",
+    "type": "",
+    "def": "a set of instructions to perform",
     "vi": "chương trình",
     "viDef": "bộ lệnh để máy thực hiện"
   },
   {
     "word": "crash",
     "ipa": "kɹæʃ",
+    "type": "",
+    "def": "stop working or functioning properly",
     "vi": "sập",
     "viDef": "ngừng chạy hoặc chạy sai"
   },
   {
     "word": "antivirus",
     "ipa": "ˌæntiˈvaɪɹəs",
+    "type": "",
+    "def": "a program designed to identify and remove computer viruses",
     "vi": "phần mềm diệt virus",
     "viDef": "chương trình để nhận diện và xóa virus máy tính"
   },
   {
     "word": "run",
     "ipa": "ɹʌn",
+    "type": "",
+    "def": "to work or be in operation",
     "vi": "chạy",
     "viDef": "hoạt động, đang vận hành"
   },
   {
     "word": "spyware",
     "ipa": "ˈspaɪwɛɹ",
+    "type": "",
+    "def": "software that secretly gathers information",
     "vi": "phần mềm theo dõi",
     "viDef": "phần mềm ngấm ngầm thu thập thông tin"
   },
   {
     "word": "Hotline",
     "ipa": "ˈhɑtlaɪn",
+    "type": "",
+    "def": "A telephone line that gives quick and direct access to a source of information or help",
     "vi": "đường dây nóng",
     "viDef": "số điện thoại cho phép liên lạc nhanh và trực tiếp tới nơi cung cấp thông tin hoặc trợ giúp"
   },
   {
     "word": "Phisihing",
     "ipa": "ˈfɪʃɪŋ",
+    "type": "",
+    "def": "To request confidential information over the Internet under false pretenses in order to fraudulently obtain credit card numbers, passwords, or other personal data",
     "vi": "lừa lấy thông tin",
     "viDef": "giả danh trên mạng để đòi thông tin mật nhằm chiếm số thẻ, mật khẩu hoặc dữ liệu cá nhân"
   },
   {
     "word": "Crack",
     "ipa": "kɹæk",
+    "type": "",
+    "def": "To break open or into something such as a safe or a computer system",
     "vi": "phá khóa",
     "viDef": "phá vào thứ gì như tủ sắt hoặc hệ thống máy tính"
   },
   {
     "word": "Format",
     "ipa": "ˈfɔɹmæt",
+    "type": "",
+    "def": "To divide (a disk) into marked sectors so that it may store data.",
     "vi": "định dạng ổ",
     "viDef": "chia ổ đĩa thành các cung để lưu được dữ liệu"
   },
   {
     "word": "Hardware",
     "ipa": "ˈhɑɹdwɛɹ",
+    "type": "",
+    "def": "A computer and the associated physical equipment directly involved in the performance of data-processing or communications functions.",
     "vi": "phần cứng",
     "viDef": "máy tính và các thiết bị vật lý gắn liền, trực tiếp làm việc xử lý dữ liệu hoặc truyền tin"
   }

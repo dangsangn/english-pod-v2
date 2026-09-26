@@ -2,90 +2,120 @@
   {
     "word": "relieved",
     "ipa": "ɹɪˈlivd",
+    "type": "Adjective",
+    "def": "relaxed and happy that something difficult has been stopped",
     "vi": "nhẹ cả người",
     "viDef": "thấy thoải mái vì chuyện khó khăn đã qua"
   },
   {
     "word": "make it up",
     "ipa": "meɪk ɪt ʌp",
+    "type": "verb",
+    "def": "do something good as a balance to a bad or hurtful action",
     "vi": "bù đắp",
     "viDef": "làm điều tốt để đền cho lỗi đã gây ra"
   },
   {
     "word": "my treat",
     "ipa": "maɪ tɹit",
+    "type": "phrase",
+    "def": "I will pay",
     "vi": "tôi mời",
     "viDef": "để tôi trả tiền"
   },
   {
     "word": "pick up",
     "ipa": "pɪk ʌp",
+    "type": "verb",
+    "def": "go somewhere in order to get someone or something",
     "vi": "đi đón, đi lấy",
     "viDef": "đến chỗ nào để đón người hoặc lấy đồ"
   },
   {
     "word": "ordinary",
     "ipa": "ˈɔɹdəˌnɛɹi",
+    "type": "Adjective",
+    "def": "normal",
     "vi": "bình thường",
     "viDef": "thường, không có gì đặc biệt"
   },
   {
     "word": "twist of fate",
     "ipa": "twɪst ʌv feɪt",
+    "type": "phrase",
+    "def": "unplanned events that has a big impact on the future",
     "vi": "bước ngoặt số phận",
     "viDef": "chuyện bất ngờ làm thay đổi cả về sau"
   },
   {
     "word": "crash",
     "ipa": "kɹæʃ",
+    "type": "verb",
+    "def": "hit something causing serious damage",
     "vi": "đâm, va chạm",
     "viDef": "húc vào vật gì gây hư hỏng nặng"
   },
   {
     "word": "fall in love",
     "ipa": "fɔl ɪn lʌv",
+    "type": "phrase",
+    "def": "start being in love",
     "vi": "phải lòng",
     "viDef": "bắt đầu yêu"
   },
   {
     "word": "go on a date",
     "ipa": "ɡoʊ ɑn ə deɪt",
+    "type": "phrase",
+    "def": "go to an event or activity with a boyfriend or girlfriend",
     "vi": "đi hẹn hò",
     "viDef": "đi chơi cùng người yêu"
   },
   {
     "word": "ask you out",
     "ipa": "æsk ju aʊt",
+    "type": "verb",
+    "def": "invite or ask someone to go on a date (informal)",
     "vi": "mời đi hẹn hò",
     "viDef": "ngỏ lời rủ ai đi chơi (thân mật)"
   },
   {
     "word": "take you out",
     "ipa": "teɪk ju aʊt",
+    "type": "verb",
+    "def": "invite someone to go and do something",
     "vi": "dẫn đi chơi",
     "viDef": "mời ai đi đâu làm gì cùng"
   },
   {
     "word": "turn down",
     "ipa": "tɝn daʊn",
+    "type": "verb",
+    "def": "decline an invitation",
     "vi": "từ chối",
     "viDef": "không nhận lời mời"
   },
   {
     "word": "look forward to",
     "ipa": "lʊk ˈfɔɹwɚd tu",
+    "type": "verb",
+    "def": "an expression to show excitement about something",
     "vi": "mong lắm",
     "viDef": "cách nói thể hiện sự háo hức"
   },
   {
     "word": "see someone",
     "ipa": "si ˈsʌmwʌn",
+    "type": "verb",
+    "def": "be in a relationship with someone",
     "vi": "đang qua lại với ai",
     "viDef": "đang trong quan hệ tình cảm với ai"
   },
   {
     "word": "flirt",
     "ipa": "flɝt",
+    "type": "verb",
+    "def": "behave in a way that expresses a sexual attraction for someone",
     "vi": "tán tỉnh",
     "viDef": "cư xử tỏ ý thích ai đó"
   }

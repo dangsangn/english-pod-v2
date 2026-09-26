@@ -2,78 +2,104 @@
   {
     "word": "next to nothing",
     "ipa": "nɛkst tu ˈnʌθɪŋ",
+    "type": "phrase",
+    "def": "very cheap, inexpensive",
     "vi": "rẻ như cho",
     "viDef": "giá cực thấp"
   },
   {
     "word": "board",
     "ipa": "bɔɹd",
+    "type": "verb",
+    "def": "get on the plane",
     "vi": "lên máy bay",
     "viDef": "vào khoang máy bay"
   },
   {
     "word": "intercontinental",
     "ipa": "ˌɪntɚˌkɑntəˈnɛntəl",
+    "type": "Adjective",
+    "def": "between continents",
     "vi": "liên lục địa",
     "viDef": "giữa các châu lục"
   },
   {
     "word": "carry-on luggage",
     "ipa": "ˈkæɹi ɑn ˈlʌɡədʒ",
+    "type": "common noun, non-variable",
+    "def": "the bags that one can carry onto the plane",
     "vi": "hành lý xách tay",
     "viDef": "túi được phép mang lên máy bay"
   },
   {
     "word": "piece",
     "ipa": "pis",
+    "type": "common noun, plural",
+    "def": "piece of luggage; one bag",
     "vi": "kiện",
     "viDef": "một kiện hành lý, một túi"
   },
   {
     "word": "check",
     "ipa": "tʃɛk",
+    "type": "verb",
+    "def": "register bags with the airline and give them to be put on the plane",
     "vi": "gửi hành lý",
     "viDef": "khai và giao túi cho hãng bay xếp lên máy bay"
   },
   {
     "word": "passport",
     "ipa": "ˈpæspɔɹt",
+    "type": "common noun, singular",
+    "def": "a document showing the identity of someone when outside his country",
     "vi": "hộ chiếu",
     "viDef": "giấy tờ chứng minh danh tính khi ra nước ngoài"
   },
   {
     "word": "an arm and a leg",
     "ipa": "æn ɑɹm ənd ə lɛɡ",
+    "type": "phrase",
+    "def": "phrase used to indicate that something is very expensive",
     "vi": "đắt cắt cổ",
     "viDef": "câu chỉ thứ gì rất đắt"
   },
   {
     "word": "metal detector",
     "ipa": "ˈmɛtəl dɪˈtɛktɚ",
+    "type": "common noun, singular",
+    "def": "A device that senses the presence of metal",
     "vi": "máy dò kim loại",
     "viDef": "thiết bị phát hiện có kim loại"
   },
   {
     "word": "boarding pass",
     "ipa": "ˈbɔɹdɪŋ pæs",
+    "type": "common noun, singular",
+    "def": "A pass that authorizes a passenger to get on an airplane",
     "vi": "thẻ lên máy bay",
     "viDef": "giấy cho phép khách vào máy bay"
   },
   {
     "word": "scale",
     "ipa": "skeɪl",
+    "type": "common noun, singular",
+    "def": "An instrument or machine for weighing",
     "vi": "cái cân",
     "viDef": "dụng cụ hoặc máy để cân"
   },
   {
     "word": "layover",
     "ipa": "ˈleɪˌoʊvɚ",
+    "type": "common noun, singular",
+    "def": "A short stop or break in a journey, usually imposed by scheduling requirements",
     "vi": "chặng nối chuyến",
     "viDef": "lần dừng ngắn giữa hành trình, thường do lịch bay"
   },
   {
     "word": "round trip",
     "ipa": "ɹaʊnd tɹɪp",
+    "type": "common noun, singular",
+    "def": "A trip from one place to another and back, usually over the same route",
     "vi": "chuyến khứ hồi",
     "viDef": "đi từ nơi này tới nơi khác rồi về, thường cùng lộ trình"
   }

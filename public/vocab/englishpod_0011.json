@@ -2,78 +2,104 @@
   {
     "word": "I don't know if you heard",
     "ipa": "aɪ doʊnt noʊ ɪf ju hɝd",
+    "type": "phrase",
+    "def": "phrase used to introduce a piece of information",
     "vi": "không biết bạn nghe chưa",
     "viDef": "câu dùng để mở đầu khi báo một thông tin"
   },
   {
     "word": "fill me in",
     "ipa": "fɪl mi ɪn",
+    "type": "phrase",
+    "def": "tell me about it",
     "vi": "kể tôi nghe với",
     "viDef": "nói cho tôi biết chuyện đó"
   },
   {
     "word": "a bad feeling",
     "ipa": "ə bæd ˈfilɪŋ",
+    "type": "phrase",
+    "def": "a sense or feeling that something bad is going to happen",
     "vi": "linh cảm chẳng lành",
     "viDef": "cảm giác sắp có chuyện xấu xảy ra"
   },
   {
     "word": "weird",
     "ipa": "wɪɹd",
+    "type": "Adjective",
+    "def": "strange, unusual",
     "vi": "kỳ quặc",
     "viDef": "lạ lùng, khác thường"
   },
   {
     "word": "kick out",
     "ipa": "kɪk aʊt",
+    "type": "principle verb, past simple",
+    "def": "make or force someone leave when they don't want to",
     "vi": "đuổi đi",
     "viDef": "buộc ai đó phải rời đi dù họ không muốn"
   },
   {
     "word": "creep me out",
     "ipa": "kɹip mi aʊt",
+    "type": "phrase",
+    "def": "make me feel uncomfortable and a bit scared",
     "vi": "làm tôi rợn người",
     "viDef": "khiến tôi thấy khó chịu và hơi sợ"
   },
   {
     "word": "you'll never guess",
     "ipa": "jul ˈnɛvɚ ɡɛs",
+    "type": "phrase",
+    "def": "phrase used to introduce a piece of news",
     "vi": "đố bạn đoán được",
     "viDef": "câu dùng để mở đầu một tin mới"
   },
   {
     "word": "scare the heck out of me",
     "ipa": "skɛɹ ðə hɛk aʊt ʌv mi",
+    "type": "phrase",
+    "def": "cause someone to feel a lot of fear",
     "vi": "làm tôi sợ chết khiếp",
     "viDef": "khiến ai đó sợ hãi tột độ"
   },
   {
     "word": "bizarre",
     "ipa": "bəˈzɑɹ",
+    "type": "Adjective",
+    "def": "strange or unusual",
     "vi": "quái dị",
     "viDef": "lạ lùng hoặc khác thường"
   },
   {
     "word": "creepy",
     "ipa": "ˈkɹipi",
+    "type": "Adjective",
+    "def": "strange or scary, causing people to feel nervous and afraid",
     "vi": "rùng rợn",
     "viDef": "kỳ quái hoặc đáng sợ, khiến người ta bất an và sợ hãi"
   },
   {
     "word": "vampire",
     "ipa": "ˈvæmpaɪɹ",
+    "type": "common noun, singular",
+    "def": "a dead person who drinks the blood of living people",
     "vi": "ma cà rồng",
     "viDef": "người chết hút máu người sống"
   },
   {
     "word": "have you heard",
     "ipa": "hæv ju hɝd",
+    "type": "phrase",
+    "def": "phrase used to introduce a piece of gossip",
     "vi": "bạn nghe tin chưa",
     "viDef": "câu dùng để mở đầu một chuyện đồn"
   },
   {
     "word": "guess what",
     "ipa": "ɡɛs wʌt",
+    "type": "phrase",
+    "def": "phrase used to introduce an interesting or surprising piece of information",
     "vi": "đoán xem nào",
     "viDef": "câu dùng để mở đầu một thông tin thú vị hoặc bất ngờ"
   }

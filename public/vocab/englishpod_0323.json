@@ -2,60 +2,80 @@
   {
     "word": "reservation",
     "ipa": "ˌɹɛzɚˈveɪʃən",
+    "type": "",
+    "def": "an arrangement to secure accommodations at a restaurant or hotel",
     "vi": "việc đặt chỗ",
     "viDef": "sự sắp xếp để giữ chỗ ở nhà hàng hoặc khách sạn"
   },
   {
     "word": "cancel",
     "ipa": "ˈkænsəl",
+    "type": "",
+    "def": "to decide that something will not happen",
     "vi": "hủy",
     "viDef": "quyết định rằng việc gì sẽ không diễn ra"
   },
   {
     "word": "inconvenience",
     "ipa": "ˌɪnkənˈvinjəns",
+    "type": "",
+    "def": "he quality or state of being inconvenient.",
     "vi": "sự bất tiện",
     "viDef": "tình trạng gây phiền phức"
   },
   {
     "word": "urgent",
     "ipa": "ˈɝdʒənt",
+    "type": "",
+    "def": "important",
     "vi": "gấp",
     "viDef": "quan trọng"
   },
   {
     "word": "scheduled",
     "ipa": "ˈskɛdʒʊld",
+    "type": "",
+    "def": "planned at a specific time",
     "vi": "đã lên lịch",
     "viDef": "được sắp xếp vào một giờ cụ thể"
   },
   {
     "word": "route",
     "ipa": "ɹut",
+    "type": "",
+    "def": "a customary or regular line of passage or travel",
     "vi": "tuyến đường",
     "viDef": "lộ trình đi lại quen thuộc hoặc thường lệ"
   },
   {
     "word": "diversion",
     "ipa": "daɪˈvɝʒən",
+    "type": "",
+    "def": "the act of diverting or turning aside, as from a course or purpose",
     "vi": "việc đổi hướng",
     "viDef": "hành động chuyển hướng khỏi lộ trình hoặc mục đích ban đầu"
   },
   {
     "word": "delay",
     "ipa": "dɪˈleɪ",
+    "type": "",
+    "def": "to put off to a later time",
     "vi": "hoãn lại",
     "viDef": "dời sang lúc muộn hơn"
   },
   {
     "word": "depart",
     "ipa": "dɪˈpɑɹt",
+    "type": "",
+    "def": "to go away, leave",
     "vi": "khởi hành",
     "viDef": "đi khỏi, rời đi"
   },
   {
     "word": "refund",
     "ipa": "ɹɪˈfʌnd",
+    "type": "",
+    "def": "To give back, especially money; return or repay:",
     "vi": "hoàn lại",
     "viDef": "trả lại, nhất là trả lại tiền"
   }

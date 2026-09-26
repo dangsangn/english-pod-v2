@@ -2,66 +2,88 @@
   {
     "word": "sharp",
     "ipa": "ʃɑɹp",
+    "type": "",
+    "def": "stylish or fashionable",
     "vi": "bảnh bao",
     "viDef": "có phong cách, hợp mốt"
   },
   {
     "word": "broad",
     "ipa": "bɹɔd",
+    "type": "",
+    "def": "wide;a lot",
     "vi": "rộng, nhiều",
     "viDef": "bề ngang lớn, số lượng nhiều"
   },
   {
     "word": "preferably",
     "ipa": "ˈpɹɛfɚəbli",
+    "type": "",
+    "def": "most wanted or preferred",
     "vi": "tốt nhất là",
     "viDef": "được mong hoặc ưa hơn cả"
   },
   {
     "word": "accompany",
     "ipa": "əˈkʌmpəni",
+    "type": "",
+    "def": "to go together with",
     "vi": "đi kèm với",
     "viDef": "đi cùng nhau"
   },
   {
     "word": "Collar",
     "ipa": "ˈkɑlɚ",
+    "type": "",
+    "def": "the cloth around the neckline of a shirt, that is folded over",
     "vi": "cổ áo",
     "viDef": "phần vải quanh viền cổ áo, được gập lại"
   },
   {
     "word": "Impression",
     "ipa": "ˌɪmˈpɹɛʃən",
+    "type": "",
+    "def": "the first feeling you give when you encounter/meet someone",
     "vi": "ấn tượng",
     "viDef": "cảm giác đầu tiên bạn tạo ra khi gặp ai"
   },
   {
     "word": "Custom-made",
     "ipa": "ˈkʌstəm meɪd",
+    "type": "",
+    "def": "made according to your own specifications",
     "vi": "đặt riêng",
     "viDef": "được làm theo đúng yêu cầu của bạn"
   },
   {
     "word": "Alteration",
     "ipa": "ˌɔltɚˈeɪʃən",
+    "type": "",
+    "def": "a change (in length, width, fit) made to an item of clothing",
     "vi": "việc sửa đồ",
     "viDef": "thay đổi về dài, rộng hoặc độ vừa của một món quần áo"
   },
   {
     "word": "Dry-Clean",
     "ipa": "dɹaɪ klin",
+    "type": "",
+    "def": "A cleaning process that uses chemicals to clean clothes",
     "vi": "giặt khô",
     "viDef": "quy trình làm sạch quần áo bằng hóa chất"
   },
   {
     "word": "Herringbone",
     "ipa": "ˈhɛɹɪŋboʊn",
+    "type": "",
+    "def": "A type of pattern, common on suits, that resembles thin, \"saw-like\" lines",
     "vi": "họa tiết xương cá",
     "viDef": "kiểu vân thường thấy trên áo vest, trông như các đường răng cưa mảnh"
   },
   {
     "word": "Garment",
     "ipa": "ˈɡɑɹmənt",
+    "type": "",
+    "def": "an article of clothing",
     "vi": "món quần áo",
     "viDef": "một thứ đồ mặc"
   }

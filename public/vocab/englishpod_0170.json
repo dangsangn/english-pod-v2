@@ -2,60 +2,80 @@
   {
     "word": "wedding party",
     "ipa": "ˈwɛdɪŋ ˈpɑɹti",
+    "type": "",
+    "def": "a party of people at a wedding",
     "vi": "đoàn nhà cưới",
     "viDef": "nhóm người tham dự trong lễ cưới"
   },
   {
     "word": "get cold feet",
     "ipa": "ɡɛt koʊld fit",
+    "type": "",
+    "def": "become nervous and reconsider a decision about an",
     "vi": "chùn chân",
     "viDef": "bỗng lo và tính lại quyết định"
   },
   {
     "word": "freak out",
     "ipa": "fɹik aʊt",
+    "type": "",
+    "def": "lose one's nerve",
     "vi": "mất bình tĩnh",
     "viDef": "run, hoảng lên"
   },
   {
     "word": "soul-searching",
     "ipa": "soʊl ˈsɝtʃɪŋ",
+    "type": "",
+    "def": "long and careful examination of one's thoughts and",
     "vi": "tự vấn lòng mình",
     "viDef": "việc soi xét lâu và kỹ suy nghĩ của bản thân"
   },
   {
     "word": "slap some sense into",
     "ipa": "slæp sʌm sɛns ˈɪntu",
+    "type": "",
+    "def": "remind someone to stay calm",
     "vi": "tát cho tỉnh ra",
     "viDef": "nhắc ai bình tĩnh lại"
   },
   {
     "word": "fiance/fiancee",
     "ipa": "fiˈɑnˌseɪ fiˈænsi",
+    "type": "",
+    "def": "male/female who is engaged to be married",
     "vi": "vị hôn phu, hôn thê",
     "viDef": "người nam hoặc nữ đã hứa hôn"
   },
   {
     "word": "bridesgroom",
     "ipa": "ˈbɹaɪdɡɹum",
+    "type": "",
+    "def": "groom",
     "vi": "chú rể",
     "viDef": "người nam trong lễ cưới"
   },
   {
     "word": "betrothal",
     "ipa": "bɪˈtɹoʊðəl",
+    "type": "",
+    "def": "engagement",
     "vi": "lễ hứa hôn",
     "viDef": "việc đính ước"
   },
   {
     "word": "unfaithful",
     "ipa": "ənˈfeɪθfəl",
+    "type": "",
+    "def": "not sexually faithful to a spouse or lover",
     "vi": "không chung thủy",
     "viDef": "không giữ lòng với vợ, chồng hay người yêu"
   },
   {
     "word": "don't see eye to eye",
     "ipa": "doʊnt si aɪ tu aɪ",
+    "type": "",
+    "def": "have differences of opinion",
     "vi": "không đồng quan điểm",
     "viDef": "có ý kiến khác nhau"
   }

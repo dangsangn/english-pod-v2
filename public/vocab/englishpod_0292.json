@@ -2,48 +2,64 @@
   {
     "word": "illustrate",
     "ipa": "ˈɪləˌstɹeɪt",
+    "type": "",
+    "def": "to give examples to make something easier to under",
     "vi": "minh họa",
     "viDef": "nêu ví dụ cho dễ hiểu hơn"
   },
   {
     "word": "side-track",
     "ipa": "saɪd tɹæk",
+    "type": "",
+    "def": "change topic",
     "vi": "lạc đề",
     "viDef": "chuyển sang chuyện khác"
   },
   {
     "word": "get back to you",
     "ipa": "ɡɛt bæk tu ju",
+    "type": "",
+    "def": "to talk to or write to you at a later time",
     "vi": "trả lời anh/chị sau",
     "viDef": "sẽ nói hoặc viết lại cho bạn vào lúc khác"
   },
   {
     "word": "take five",
     "ipa": "teɪk faɪv",
+    "type": "",
+    "def": "have rest",
     "vi": "nghỉ năm phút",
     "viDef": "nghỉ một chút"
   },
   {
     "word": "tangent",
     "ipa": "ˈtændʒənt",
+    "type": "",
+    "def": "a separate, loosely related train of thought",
     "vi": "nhánh chuyện tách ra",
     "viDef": "dòng suy nghĩ riêng, chỉ liên quan lỏng lẻo"
   },
   {
     "word": "befuddle",
     "ipa": "bɪˈfʌdəl",
+    "type": "",
+    "def": "to confuse, make unclear",
     "vi": "làm rối trí",
     "viDef": "gây lẫn lộn, làm không rõ ràng"
   },
   {
     "word": "clumsy",
     "ipa": "ˈklʌmzi",
+    "type": "",
+    "def": "awkward in movements or action",
     "vi": "lóng ngóng",
     "viDef": "thô kệch trong cử động hoặc hành động"
   },
   {
     "word": "get tongue-tied",
     "ipa": "ɡɛt tʌŋ taɪd",
+    "type": "",
+    "def": "get confused, to not know what to say",
     "vi": "líu cả lưỡi",
     "viDef": "rối lên, không biết nói gì"
   }

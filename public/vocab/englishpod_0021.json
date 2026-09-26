@@ -2,96 +2,128 @@
   {
     "word": "go on about",
     "ipa": "ɡoʊ ɑn əˈbaʊt",
+    "type": "phrase",
+    "def": "talk about something a lot",
     "vi": "nói mãi về",
     "viDef": "kể lể nhiều về chuyện gì đó"
   },
   {
     "word": "Fortune 500",
     "ipa": "ˈfɔɹtʃən faɪv ˈhʌndɹəd",
+    "type": "phrase",
+    "def": "top 500 companies, rated by revenue",
     "vi": "Fortune 500",
     "viDef": "500 công ty hàng đầu xếp theo doanh thu"
   },
   {
     "word": "implement",
     "ipa": "ˈɪmpləmənt",
+    "type": "principle verb, present progressive",
+    "def": "begin to do something, put into action",
     "vi": "triển khai",
     "viDef": "bắt đầu thực hiện, đưa vào áp dụng"
   },
   {
     "word": "responsible",
     "ipa": "ɹiˈspɑnsəbəl",
+    "type": "Adjective",
+    "def": "have the duty or job of taking care of something",
     "vi": "chịu trách nhiệm",
     "viDef": "có nhiệm vụ trông coi việc gì đó"
   },
   {
     "word": "nationwide",
     "ipa": "ˈneɪʃənˈwaɪd",
+    "type": "Adjective",
+    "def": "in the whole country",
     "vi": "trên toàn quốc",
     "viDef": "khắp cả nước"
   },
   {
     "word": "look after",
     "ipa": "lʊk ˈæftɚ",
+    "type": "principle verb, infinitive",
+    "def": "take care of",
     "vi": "trông coi",
     "viDef": "chăm lo"
   },
   {
     "word": "oversee",
     "ipa": "ˈoʊvɚˌsi",
+    "type": "principle verb, present simple",
+    "def": "watch and direct to make sure a job is done correctly",
     "vi": "giám sát",
     "viDef": "theo dõi và chỉ đạo để công việc được làm đúng"
   },
   {
     "word": "quality control",
     "ipa": "ˈkwɑləti kənˈtɹoʊl",
+    "type": "common noun, non-variable",
+    "def": "checking goods to make sure that they are good enough to sell",
     "vi": "kiểm soát chất lượng",
     "viDef": "kiểm tra hàng hóa để chắc rằng đủ tiêu chuẩn bán"
   },
   {
     "word": "under me",
     "ipa": "ˈʌndɚ mi",
+    "type": "phrase",
+    "def": "working for me",
     "vi": "dưới quyền tôi",
     "viDef": "làm việc cho tôi"
   },
   {
     "word": "develop relationships",
     "ipa": "dɪˈvɛləp ɹiˈleɪʃənˌʃɪps",
+    "type": "phrase",
+    "def": "make good relationships",
     "vi": "xây dựng quan hệ",
     "viDef": "tạo dựng mối quan hệ tốt"
   },
   {
     "word": "handle complaints",
     "ipa": "ˈhændəl kəmˈpleɪnts",
+    "type": "phrase",
+    "def": "look after or take care of complaints",
     "vi": "xử lý khiếu nại",
     "viDef": "tiếp nhận và giải quyết phàn nàn"
   },
   {
     "word": "draft",
     "ipa": "dɹæft",
+    "type": "phrase",
+    "def": "/ write official documents",
     "vi": "soạn thảo",
     "viDef": "viết các văn bản chính thức"
   },
   {
     "word": "coordinate",
     "ipa": "koʊˈɔɹdənət",
+    "type": "verb",
+    "def": "make arrangements or plans with a group of people",
     "vi": "điều phối",
     "viDef": "sắp xếp hoặc lên kế hoạch cùng một nhóm người"
   },
   {
     "word": "monitor",
     "ipa": "ˈmɑnətɚ",
+    "type": "verb",
+    "def": "watch and check",
     "vi": "theo dõi",
     "viDef": "quan sát và kiểm tra"
   },
   {
     "word": "supervise",
     "ipa": "ˈsupɚˌvaɪz",
+    "type": "verb",
+    "def": "be in charge of something , watch and direct",
     "vi": "quản lý, giám sát",
     "viDef": "phụ trách việc gì đó, theo dõi và chỉ đạo"
   },
   {
     "word": "ensure",
     "ipa": "ɛnˈʃʊɹ",
+    "type": "verb",
+    "def": "make sure",
     "vi": "bảo đảm",
     "viDef": "chắc chắn rằng"
   }

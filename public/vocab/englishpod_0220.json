@@ -2,66 +2,88 @@
   {
     "word": "floor lamp",
     "ipa": "flɔɹ læmp",
+    "type": "",
+    "def": "a tall lamp with a base that stands on the floor",
     "vi": "đèn cây",
     "viDef": "đèn cao có chân đứng trên sàn"
   },
   {
     "word": "armoire",
     "ipa": "ˈɑmwɑɹ",
+    "type": "",
+    "def": "a large wardrobe or cabinet",
     "vi": "tủ áo lớn",
     "viDef": "tủ quần áo hoặc tủ đứng cỡ lớn"
   },
   {
     "word": "dresser",
     "ipa": "ˈdɹɛsɚ",
+    "type": "",
+    "def": "a set of shelves usually used for holding clothes",
     "vi": "tủ ngăn kéo",
     "viDef": "bộ kệ thường dùng để đựng quần áo"
   },
   {
     "word": "nightstand",
     "ipa": "ˈnaɪtstænd",
+    "type": "",
+    "def": "a small table or stand placed at a bedside",
     "vi": "tủ đầu giường",
     "viDef": "bàn hoặc kệ nhỏ đặt cạnh giường"
   },
   {
     "word": "love seat",
     "ipa": "lʌv sit",
+    "type": "",
+    "def": "small sofa that seats two people",
     "vi": "ghế đôi",
     "viDef": "sofa nhỏ cho hai người ngồi"
   },
   {
     "word": "recliner",
     "ipa": "ɹɪˈklaɪnɚ",
+    "type": "",
+    "def": "an armchair that can be reclined",
     "vi": "ghế ngả",
     "viDef": "ghế bành có thể ngả lưng ra"
   },
   {
     "word": "while you are at it",
     "ipa": "waɪl ju ɑɹ æt ɪt",
+    "type": "",
+    "def": "during the time you are there",
     "vi": "tiện thể luôn",
     "viDef": "trong lúc bạn đang ở đó"
   },
   {
     "word": "Sectional",
     "ipa": "ˈsɛkʃənəl",
+    "type": "",
+    "def": "one large couch with different sections",
     "vi": "sofa ghép modul",
     "viDef": "một bộ ghế dài lớn gồm nhiều khối rời"
   },
   {
     "word": "coffee table",
     "ipa": "ˈkɑfi ˈteɪbəl",
+    "type": "",
+    "def": "A table that is set in the middle of a living room",
     "vi": "bàn trà",
     "viDef": "bàn đặt giữa phòng khách"
   },
   {
     "word": "bar stools",
     "ipa": "bɑɹ stulz",
+    "type": "",
+    "def": "Chairs that are placed at a bar",
     "vi": "ghế quầy bar",
     "viDef": "các ghế đặt ở quầy bar"
   },
   {
     "word": "family room",
     "ipa": "ˈfæməli ɹum",
+    "type": "",
+    "def": "the room where the family spends time together",
     "vi": "phòng sinh hoạt chung",
     "viDef": "phòng cả nhà quây quần"
   }

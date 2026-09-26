@@ -2,84 +2,112 @@
   {
     "word": "encompass",
     "ipa": "ɛnˈkʌmpəs",
+    "type": "",
+    "def": "to include (something) as a part",
     "vi": "bao trùm",
     "viDef": "chứa cả thứ gì trong đó"
   },
   {
     "word": "conceptual",
     "ipa": "kənˈsɛptʃuəl",
+    "type": "",
+    "def": "based on or relating to ideas or concepts",
     "vi": "mang tính khái niệm",
     "viDef": "dựa trên hoặc liên quan tới ý tưởng và khái niệm"
   },
   {
     "word": "grasp",
     "ipa": "ɡɹæsp",
+    "type": "",
+    "def": "an understanding of something",
     "vi": "sự nắm bắt",
     "viDef": "việc hiểu được điều gì"
   },
   {
     "word": "black hole",
     "ipa": "blæk hoʊl",
+    "type": "",
+    "def": "an invisible area in outer space",
     "vi": "lỗ đen",
     "viDef": "vùng không thấy được ngoài không gian"
   },
   {
     "word": "quantum mechanics",
     "ipa": "ˈkwɑntəm məˈkænɪks",
+    "type": "",
+    "def": "the branch of physics that deals with energy and matter on an atomic level",
     "vi": "cơ học lượng tử",
     "viDef": "nhánh vật lý nghiên cứu năng lượng và vật chất ở cấp nguyên tử"
   },
   {
     "word": "hypothetical",
     "ipa": "ˌhaɪpəˈθɛtəkəl",
+    "type": "",
+    "def": "involving or based on a suggested idea or theory",
     "vi": "mang tính giả thuyết",
     "viDef": "dựa trên hoặc gắn với một ý hoặc lý thuyết được nêu ra"
   },
   {
     "word": "thermodynamics",
     "ipa": "ˌθɝmoʊˌdaɪˈnæmɪks",
+    "type": "",
+    "def": "a science that deals with the action of heat",
     "vi": "nhiệt động lực học",
     "viDef": "ngành khoa học nghiên cứu tác động của nhiệt"
   },
   {
     "word": "electromagnetism",
     "ipa": "ˌɪˌlɛktɹoʊˈmæɡnəˌtɪzəm",
+    "type": "",
+    "def": "a magnetic field that is produced by a current of electricity",
     "vi": "điện từ học",
     "viDef": "từ trường sinh ra bởi dòng điện"
   },
   {
     "word": "nuclear physics",
     "ipa": "ˈnukliɚ ˈfɪzɪks",
+    "type": "",
+    "def": "the area of physics which deals with nuclei",
     "vi": "vật lý hạt nhân",
     "viDef": "nhánh vật lý nghiên cứu về hạt nhân"
   },
   {
     "word": "academia",
     "ipa": "ˌækəˈdimiə",
+    "type": "",
+    "def": "the various interests of a university and those who teach there",
     "vi": "giới học thuật",
     "viDef": "các mối quan tâm của một trường đại học và những người dạy ở đó"
   },
   {
     "word": "applicable",
     "ipa": "ˈæpləkəbəl",
+    "type": "",
+    "def": "something that can be used in real-life situations",
     "vi": "áp dụng được",
     "viDef": "thứ dùng được trong tình huống thực tế"
   },
   {
     "word": "gravity",
     "ipa": "ˈɡɹævəti",
+    "type": "",
+    "def": "the force of attraction between two objects",
     "vi": "lực hấp dẫn",
     "viDef": "lực hút giữa hai vật"
   },
   {
     "word": "ivory tower",
     "ipa": "ˈaɪvɚi ˈtaʊɚ",
+    "type": "",
+    "def": "refers to those who live in intellectual isolation, often without contact or applicability to the outside world",
     "vi": "tháp ngà",
     "viDef": "chỉ những người sống tách biệt trong thế giới trí thức, thường chẳng tiếp xúc hay áp dụng gì với bên ngoài"
   },
   {
     "word": "relevant",
     "ipa": "ˈɹɛləvənt",
+    "type": "",
+    "def": "knowledge that can be applied to everyday situations",
     "vi": "thiết thực, liên quan",
     "viDef": "kiến thức áp dụng được vào chuyện thường ngày"
   }

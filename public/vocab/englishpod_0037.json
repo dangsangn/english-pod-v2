@@ -2,66 +2,88 @@
   {
     "word": "excited",
     "ipa": "ɪkˈsaɪtəd",
+    "type": "Adjective",
+    "def": "very happy about something",
     "vi": "háo hức",
     "viDef": "rất vui vì điều gì đó"
   },
   {
     "word": "dumpling",
     "ipa": "ˈdʌmplɪŋ",
+    "type": "common noun, plural",
+    "def": "small lump of dough that is steamed or boiled, traditional Chinese New Year food",
     "vi": "bánh bao, sủi cảo",
     "viDef": "viên bột hấp hoặc luộc, món Tết truyền thống của người Trung Quốc"
   },
   {
     "word": "firecracker",
     "ipa": "ˈfaɪɚˌkɹækɚ",
+    "type": "common noun, plural",
+    "def": "a cylinder filled with explosive substance that makes loud noise when it explodes",
     "vi": "pháo",
     "viDef": "ống nhồi thuốc nổ, phát tiếng lớn khi nổ"
   },
   {
     "word": "look forward to",
     "ipa": "lʊk ˈfɔɹwɚd tu",
+    "type": "phrase",
+    "def": "excited and happy about something that will happen in the future",
     "vi": "trông đợi",
     "viDef": "háo hức, vui vì chuyện sắp tới"
   },
   {
     "word": "can't wait",
     "ipa": "kænt weɪt",
+    "type": "phrase",
+    "def": "eager or excited about doing something or for something to begin",
     "vi": "không chờ được nữa",
     "viDef": "nóng lòng muốn làm hoặc muốn việc gì bắt đầu"
   },
   {
     "word": "set off",
     "ipa": "sɛt ɔf",
+    "type": "verb",
+    "def": "cause something to explode",
     "vi": "đốt, cho nổ",
     "viDef": "làm cho thứ gì phát nổ"
   },
   {
     "word": "Lunar New Year",
     "ipa": "ˈlunɚ nu jɪɹ",
+    "type": "",
+    "def": "Chinese New Year, based on the cycles of the moon",
     "vi": "Tết Nguyên đán",
     "viDef": "Tết Trung Quốc, tính theo chu kỳ mặt trăng"
   },
   {
     "word": "Spring Festival",
     "ipa": "spɹɪŋ ˈfɛstəvəl",
+    "type": "",
+    "def": "Chinese New Year",
     "vi": "Tết Xuân",
     "viDef": "Tết của người Trung Quốc"
   },
   {
     "word": "lunar calendar",
     "ipa": "ˈlunɚ ˈkæləndɚ",
+    "type": "common noun, singular",
+    "def": "a calendar based on the cycles and phases of the moon",
     "vi": "âm lịch",
     "viDef": "lịch tính theo chu kỳ và pha của mặt trăng"
   },
   {
     "word": "can hardly wait",
     "ipa": "kæn ˈhɑɹdli weɪt",
+    "type": "phrase",
+    "def": "very excited about something that will happen in the future",
     "vi": "nóng lòng lắm rồi",
     "viDef": "rất háo hức về chuyện sắp diễn ra"
   },
   {
     "word": "impatient",
     "ipa": "ˌɪmˈpeɪʃənt",
+    "type": "Adjective",
+    "def": "not happy or willing to wait for something",
     "vi": "nôn nóng",
     "viDef": "không muốn phải chờ"
   }

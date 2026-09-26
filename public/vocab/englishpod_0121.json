@@ -2,60 +2,80 @@
   {
     "word": "tenuous",
     "ipa": "ˈtɛnjəwəs",
+    "type": "Adjective",
+    "def": "flimsy, weak, or uncertain",
     "vi": "mong manh",
     "viDef": "yếu ớt, không chắc chắn"
   },
   {
     "word": "solemn",
     "ipa": "ˈsɑləm",
+    "type": "Adjective",
+    "def": "serious, formal",
     "vi": "trang nghiêm",
     "viDef": "nghiêm túc, trọng thể"
   },
   {
     "word": "vest",
     "ipa": "vɛst",
+    "type": "principle verb, past simple",
+    "def": "to give (someone) the legal right or power to do something",
     "vi": "trao quyền",
     "viDef": "giao cho ai quyền hạn theo luật"
   },
   {
     "word": "Godspeed",
     "ipa": "ˈɡɑdspid",
+    "type": "common noun, non-variable",
+    "def": "used to wish success to someone who is going away",
     "vi": "chúc thượng lộ bình an",
     "viDef": "lời chúc thành công cho người sắp đi"
   },
   {
     "word": "resolution",
     "ipa": "ˌɹɛzəˈluʃən",
+    "type": "common noun, singular",
+    "def": "a formal statement of agreement",
     "vi": "nghị quyết",
     "viDef": "văn bản chính thức ghi sự đồng thuận"
   },
   {
     "word": "Congress",
     "ipa": "ˈkɑŋɡɹəs",
+    "type": "common noun, singular",
+    "def": "The national legislative body of the United States, consisting of the Senate and the House of Representatives.",
     "vi": "Quốc hội Mỹ",
     "viDef": "cơ quan lập pháp của Hoa Kỳ, gồm Thượng viện và Hạ viện"
   },
   {
     "word": "Capitol Hill",
     "ipa": "ˈkæpɪtəl hɪl",
+    "type": "common noun, singular",
+    "def": "a hill in Washington, D.C., where the Capitol Building sits and Congress meets",
     "vi": "Đồi Capitol",
     "viDef": "ngọn đồi ở Washington D.C. nơi có tòa Capitol và Quốc hội họp"
   },
   {
     "word": "Bestow",
     "ipa": "bɪˈstoʊ",
+    "type": "principle verb, present simple",
+    "def": "To present as a gift or an honor; confer:",
     "vi": "ban tặng",
     "viDef": "trao như một món quà hoặc một danh dự"
   },
   {
     "word": "Arduous",
     "ipa": "ˈɑɹdʒuəs",
+    "type": "Adjective",
+    "def": "difficult to accomplish; strenuous",
     "vi": "gian nan",
     "viDef": "khó làm cho xong, đòi nhiều sức"
   },
   {
     "word": "Prosperity",
     "ipa": "pɹɑˈspɛɹəti",
+    "type": "common noun, singular",
+    "def": "an economic state of growth with rising profits and full employment",
     "vi": "sự phồn vinh",
     "viDef": "trạng thái kinh tế tăng trưởng, lợi nhuận lên và đủ việc làm"
   }

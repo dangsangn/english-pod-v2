@@ -2,60 +2,80 @@
   {
     "word": "afraid",
     "ipa": "əˈfɹeɪd",
+    "type": "",
+    "def": "scared",
     "vi": "e là",
     "viDef": "sợ"
   },
   {
     "word": "drizzle",
     "ipa": "ˈdɹɪzəl",
+    "type": "",
+    "def": "a light fall of rain",
     "vi": "mưa phùn",
     "viDef": "cơn mưa nhẹ"
   },
   {
     "word": "thunderstorm",
     "ipa": "ˈθʌndɚˌstɔɹm",
+    "type": "",
+    "def": "fall of rain accompanied by lightning and thunder",
     "vi": "mưa dông",
     "viDef": "mưa kèm sấm và sét"
   },
   {
     "word": "chance",
     "ipa": "tʃæns",
+    "type": "",
+    "def": "probability",
     "vi": "khả năng",
     "viDef": "xác suất"
   },
   {
     "word": "hail",
     "ipa": "heɪl",
+    "type": "",
+    "def": "rain that is frozen into chunks of ice",
     "vi": "mưa đá",
     "viDef": "mưa đóng thành cục băng"
   },
   {
     "word": "tornado",
     "ipa": "tɔɹˈneɪˌdoʊ",
+    "type": "",
+    "def": "a violent, rotating column of air",
     "vi": "lốc xoáy",
     "viDef": "cột khí xoay dữ dội"
   },
   {
     "word": "hurricane",
     "ipa": "ˈhɝəˌkeɪn",
+    "type": "",
+    "def": "a powerful, spiraling storm that brings heavy winds and rain",
     "vi": "bão lớn",
     "viDef": "cơn bão xoáy mạnh mang theo gió lớn và mưa"
   },
   {
     "word": "blizzard",
     "ipa": "ˈblɪzɚd",
+    "type": "",
+    "def": "a severe storm condition characterized by low temperatures, strong winds, and heavy snow.",
     "vi": "bão tuyết",
     "viDef": "tình trạng bão dữ với nhiệt độ thấp, gió mạnh và tuyết dày"
   },
   {
     "word": "blackout",
     "ipa": "ˈblækaʊt",
+    "type": "",
+    "def": "Loss of lighting or communication. Power outage",
     "vi": "mất điện",
     "viDef": "việc mất đèn hoặc mất liên lạc; sự cố điện"
   },
   {
     "word": "heatwave",
     "ipa": "ˈhitweɪv",
+    "type": "",
+    "def": "a prolonged period of excessively hot weather, which may be accompanied by high humidity",
     "vi": "đợt nắng nóng",
     "viDef": "giai đoạn dài nóng quá mức, có thể kèm độ ẩm cao"
   }

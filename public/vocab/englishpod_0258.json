@@ -2,54 +2,72 @@
   {
     "word": "curfew",
     "ipa": "ˈkɝfju",
+    "type": "",
+    "def": "order requiring one to be indoors at a certain time",
     "vi": "giờ giới nghiêm",
     "viDef": "lệnh buộc phải có mặt trong nhà vào một giờ nhất định"
   },
   {
     "word": "allowance",
     "ipa": "əˈlaʊəns",
+    "type": "",
+    "def": "money given on a regular basis for personal use",
     "vi": "tiền tiêu hằng tuần",
     "viDef": "tiền cho đều đặn để dùng riêng"
   },
   {
     "word": "ground",
     "ipa": "ɡɹaʊnd",
+    "type": "",
+    "def": "to restrict one's activities, esp. of a child",
     "vi": "cấm cửa, phạt ở nhà",
     "viDef": "hạn chế hoạt động của ai, nhất là của trẻ con"
   },
   {
     "word": "drop one off",
     "ipa": "dɹɑp wʌn ɔf",
+    "type": "",
+    "def": "to unload someone as from a car, ship etc.",
     "vi": "thả xuống",
     "viDef": "cho ai xuống xe, tàu..."
   },
   {
     "word": "furious",
     "ipa": "ˈfjʊɹiəs",
+    "type": "",
+    "def": "overly angry or upset",
     "vi": "giận sôi",
     "viDef": "tức hoặc bực quá đỗi"
   },
   {
     "word": "punish",
     "ipa": "ˈpʌnɪʃ",
+    "type": "",
+    "def": "to be reprimanded",
     "vi": "trừng phạt",
     "viDef": "bị khiển trách, chịu hình phạt"
   },
   {
     "word": "unexcusable",
     "ipa": "ˌʌnɪkˈskjuzəbəl",
+    "type": "",
+    "def": "have no reason or excuse",
     "vi": "không thể tha",
     "viDef": "chẳng có lý do hay cớ gì bào chữa"
   },
   {
     "word": "unreliable",
     "ipa": "ˌʌnɹɪˈlaɪəbəl",
+    "type": "",
+    "def": "a person who cannot be trusted to do something",
     "vi": "không đáng tin",
     "viDef": "người không thể tin sẽ làm việc gì"
   },
   {
     "word": "dissappointed",
     "ipa": "ˌdɪsəˈpɔɪntəd",
+    "type": "",
+    "def": "to be angry or sad when an expectation is not met",
     "vi": "thất vọng",
     "viDef": "tức hoặc buồn khi điều mong đợi không thành"
   }

@@ -2,84 +2,112 @@
   {
     "word": "possess",
     "ipa": "pəˈzɛs",
+    "type": "verb",
+    "def": "have or own",
     "vi": "sở hữu",
     "viDef": "có, nắm giữ"
   },
   {
     "word": "survival",
     "ipa": "sɚˈvaɪvəl",
+    "type": "common noun, non-variable",
+    "def": "the state of living and being alive",
     "vi": "sự sống còn",
     "viDef": "việc còn sống, tồn tại được"
   },
   {
     "word": "defend",
     "ipa": "dɪˈfɛnd",
+    "type": "verb",
+    "def": "fight in order to keep something or someone safe",
     "vi": "bảo vệ",
     "viDef": "chiến đấu để giữ an toàn cho ai hoặc cái gì"
   },
   {
     "word": "rough",
     "ipa": "ɹʌf",
+    "type": "phrase",
+    "def": "be tough,difficult, violent",
     "vi": "gian nan, dữ dội",
     "viDef": "khắc nghiệt, khó, bạo lực"
   },
   {
     "word": "no matter what",
     "ipa": "noʊ ˈmætɚ wʌt",
+    "type": "common noun, singular",
+    "def": "even if it's difficult",
     "vi": "dù thế nào",
     "viDef": "dẫu có khó đến đâu"
   },
   {
     "word": "get down",
     "ipa": "ɡɛt daʊn",
+    "type": "phrase",
+    "def": "lower your body, not standing",
     "vi": "nằm xuống, cúi xuống",
     "viDef": "hạ người xuống, không đứng"
   },
   {
     "word": "stand in someone's way",
     "ipa": "stænd ɪn ˈsʌmwʌnz weɪ",
+    "type": "phrase",
+    "def": "prevent a person from doing something",
     "vi": "cản đường ai",
     "viDef": "ngăn không cho ai làm gì"
   },
   {
     "word": "at all costs",
     "ipa": "æt ɔl kɑsts",
+    "type": "phrase",
+    "def": "regardless of the cost involved, even if it's difficult",
     "vi": "bằng mọi giá",
     "viDef": "bất kể tốn kém, dù có khó"
   },
   {
     "word": "horror film",
     "ipa": "ˈhɔɹɚ fɪlm",
+    "type": "common noun, singular",
+    "def": "a very scary movie",
     "vi": "phim kinh dị",
     "viDef": "phim rất đáng sợ"
   },
   {
     "word": "comedy",
     "ipa": "ˈkɑmədi",
+    "type": "common noun, singular",
+    "def": "a funny movie",
     "vi": "phim hài",
     "viDef": "phim gây cười"
   },
   {
     "word": "romantic comedy",
     "ipa": "ɹoʊˈmæntɪk ˈkɑmədi",
+    "type": "common noun, singular",
+    "def": "a funny movie where two people fall in love",
     "vi": "phim hài lãng mạn",
     "viDef": "phim vui về hai người yêu nhau"
   },
   {
     "word": "animated film",
     "ipa": "ˈænəˌmeɪtɪd fɪlm",
+    "type": "common noun, singular",
+    "def": "a movie made with a series of drawings; not with live people",
     "vi": "phim hoạt hình",
     "viDef": "phim làm từ tranh vẽ, không có diễn viên thật"
   },
   {
     "word": "thriller",
     "ipa": "ˈθɹɪlɚ",
+    "type": "common noun, singular",
+    "def": "a very exciting film",
     "vi": "phim gay cấn",
     "viDef": "phim rất kịch tính"
   },
   {
     "word": "drama",
     "ipa": "ˈdɹɑmə",
+    "type": "common noun, singular",
+    "def": "a movie about a serious subject",
     "vi": "phim chính kịch",
     "viDef": "phim về đề tài nghiêm túc"
   }

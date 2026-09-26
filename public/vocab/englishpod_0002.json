@@ -2,60 +2,80 @@
   {
     "word": "was hoping",
     "ipa": "wɑz ˈhoʊpɪŋ",
+    "type": "phrase",
+    "def": "to kindly expect",
     "vi": "vốn đang mong",
     "viDef": "ngỏ ý mong muốn một cách lịch sự"
   },
   {
     "word": "calling in sick",
     "ipa": "ˈkɔlɪŋ ɪn sɪk",
+    "type": "phrase",
+    "def": "report that you will not go to work because you are sick",
     "vi": "gọi báo nghỉ ốm",
     "viDef": "báo rằng bạn sẽ không đi làm vì bị ốm"
   },
   {
     "word": "coming down",
     "ipa": "ˈkʌmɪŋ daʊn",
+    "type": "phrase",
+    "def": "getting, acquiring",
     "vi": "đang chớm bị (bệnh)",
     "viDef": "bắt đầu nhiễm, mắc phải"
   },
   {
     "word": "quite ill",
     "ipa": "kwaɪt ɪl",
+    "type": "phrase",
+    "def": "very sick",
     "vi": "ốm khá nặng",
     "viDef": "bệnh nặng"
   },
   {
     "word": "how may I help you?",
     "ipa": "haʊ meɪ aɪ hɛlp ju",
+    "type": "phrase",
+    "def": "Polite offer to help",
     "vi": "tôi có thể giúp gì cho anh/chị?",
     "viDef": "câu ngỏ ý giúp đỡ một cách lịch sự"
   },
   {
     "word": "impolite",
     "ipa": "ˌɪmpəˈlaɪt",
+    "type": "Adjective",
+    "def": "rude",
     "vi": "bất lịch sự",
     "viDef": "thô lỗ"
   },
   {
     "word": "permission",
     "ipa": "pɚˈmɪʃən",
+    "type": "common noun, singular",
+    "def": "allow",
     "vi": "sự cho phép",
     "viDef": "cho phép"
   },
   {
     "word": "symptom",
     "ipa": "ˈsɪmptəm",
+    "type": "common noun, singular",
+    "def": "a sign, indication",
     "vi": "triệu chứng",
     "viDef": "dấu hiệu, biểu hiện"
   },
   {
     "word": "sick day",
     "ipa": "sɪk deɪ",
+    "type": "phrase",
+    "def": "day off because you're sick",
     "vi": "ngày nghỉ ốm",
     "viDef": "ngày nghỉ làm vì bị ốm"
   },
   {
     "word": "make it into work",
     "ipa": "meɪk ɪt ˈɪntu wɝk",
+    "type": "phrase",
+    "def": "go to work",
     "vi": "đến được chỗ làm",
     "viDef": "đi làm"
   }

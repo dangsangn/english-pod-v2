@@ -2,78 +2,104 @@
   {
     "word": "suitable",
     "ipa": "ˈsutəbəl",
+    "type": "",
+    "def": "having the right qualities",
     "vi": "phù hợp",
     "viDef": "có đúng những tính chất cần có"
   },
   {
     "word": "assured",
     "ipa": "əˈʃʊɹd",
+    "type": "",
+    "def": "to be sure, certain",
     "vi": "chắc chắn",
     "viDef": "đã yên tâm, xác tín"
   },
   {
     "word": "long run",
     "ipa": "lɔŋ ɹʌn",
+    "type": "",
+    "def": "phrase used to express a long period of time.",
     "vi": "về lâu dài",
     "viDef": "câu dùng để nói về một khoảng thời gian dài"
   },
   {
     "word": "contract",
     "ipa": "ˈkɑntɹækt",
+    "type": "",
+    "def": "a formal written agreement between two or more people",
     "vi": "hợp đồng",
     "viDef": "thỏa thuận lập thành văn bản giữa hai hay nhiều người"
   },
   {
     "word": "negotiate",
     "ipa": "nəˈɡoʊʃiˌeɪt",
+    "type": "",
+    "def": "to reach an agreement on money, terms, etc",
     "vi": "thương lượng",
     "viDef": "đạt được thỏa thuận về tiền, điều khoản..."
   },
   {
     "word": "sole",
     "ipa": "soʊl",
+    "type": "",
+    "def": "unique. One and only",
     "vi": "duy nhất",
     "viDef": "độc nhất, chỉ một"
   },
   {
     "word": "supplier",
     "ipa": "səˈplaɪɚ",
+    "type": "",
+    "def": "person or company who sells you goods",
     "vi": "nhà cung cấp",
     "viDef": "người hoặc công ty bán hàng cho bạn"
   },
   {
     "word": "the long run",
     "ipa": "ðə lɔŋ ɹʌn",
+    "type": "",
+    "def": "a long period of time",
     "vi": "đường dài",
     "viDef": "một khoảng thời gian dài"
   },
   {
     "word": "lead time",
     "ipa": "lɛd taɪm",
+    "type": "",
+    "def": "time needed to ship or manufacture goods",
     "vi": "thời gian chờ hàng",
     "viDef": "thời gian cần để giao hoặc sản xuất hàng"
   },
   {
     "word": "payment terms",
     "ipa": "ˈpeɪmənt tɝmz",
+    "type": "",
+    "def": "terms or conditions for payment",
     "vi": "điều khoản thanh toán",
     "viDef": "các điều kiện về việc trả tiền"
   },
   {
     "word": "backorder",
     "ipa": "ˈbækˌɔɹdɚ",
+    "type": "",
+    "def": "order which cannot be taken or filled now",
     "vi": "đơn chờ hàng",
     "viDef": "đơn hiện chưa nhận hoặc chưa đáp ứng được"
   },
   {
     "word": "wholesale",
     "ipa": "ˈhoʊlseɪl",
+    "type": "",
+    "def": "sale of goods and services to retailers",
     "vi": "bán buôn",
     "viDef": "việc bán hàng và dịch vụ cho các nhà bán lẻ"
   },
   {
     "word": "buyer",
     "ipa": "ˈbaɪɚ",
+    "type": "",
+    "def": "Professional purchaser specializing in a specific group of materials, goods, or services",
     "vi": "chuyên viên mua hàng",
     "viDef": "người mua hàng chuyên trách một nhóm vật liệu, hàng hóa hoặc dịch vụ nhất định"
   }

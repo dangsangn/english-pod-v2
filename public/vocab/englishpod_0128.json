@@ -2,60 +2,80 @@
   {
     "word": "all she ever does",
     "ipa": "ɔl ʃi ˈɛvɚ dʌz",
+    "type": "phrase",
+    "def": "indicates something (she) does very often",
     "vi": "suốt ngày cô ấy chỉ",
     "viDef": "câu chỉ việc ai làm rất thường xuyên"
   },
   {
     "word": "pride and joy",
     "ipa": "pɹaɪd ənd dʒɔɪ",
+    "type": "phrase",
+    "def": "someone or something that makes you very proud",
     "vi": "niềm tự hào",
     "viDef": "người hoặc điều làm mình rất hãnh diện"
   },
   {
     "word": "pine",
     "ipa": "paɪn",
+    "type": "principle verb, present progressive",
+    "def": "to want or desire (someone or something) very much",
     "vi": "khắc khoải mong",
     "viDef": "khao khát ai hoặc điều gì đến da diết"
   },
   {
     "word": "go through with",
     "ipa": "ɡoʊ θɹu wɪð",
+    "type": "phrase",
+    "def": "to do (something that you have thought or talked about)",
     "vi": "làm cho tới",
     "viDef": "thực hiện điều đã tính hoặc đã bàn"
   },
   {
     "word": "incorrigible",
     "ipa": "ˌɪnˈkɑɹədʒəbəl",
+    "type": "Adjective",
+    "def": "not able to be corrected or changed",
     "vi": "không sửa nổi",
     "viDef": "chẳng thể chỉnh hoặc đổi được"
   },
   {
     "word": "mother-in-law",
     "ipa": "ˈmʌðɚ ɪn lɔ",
+    "type": "common noun, singular",
+    "def": "the mother of someone's wife",
     "vi": "mẹ vợ",
     "viDef": "mẹ của người vợ"
   },
   {
     "word": "elope",
     "ipa": "ɪˈloʊp",
+    "type": "principle verb, present simple",
+    "def": "To run away with a lover, especially with the intention of getting married.",
     "vi": "bỏ trốn theo nhau",
     "viDef": "cùng người yêu đi biệt, nhất là để cưới nhau"
   },
   {
     "word": "arranged marriage",
     "ipa": "ɚˈeɪndʒd ˈmɛɹɪdʒ",
+    "type": "common noun, singular",
+    "def": "a marriage arranged by someone other than the persons getting married",
     "vi": "cuộc hôn nhân sắp đặt",
     "viDef": "đám cưới do người khác định thay cho đôi trẻ"
   },
   {
     "word": "dowry",
     "ipa": "ˈdaʊɹi",
+    "type": "common noun, singular",
+    "def": "Money or property brought by a bride to her husband at marriage",
     "vi": "của hồi môn",
     "viDef": "tiền hoặc tài sản cô dâu mang về nhà chồng"
   },
   {
     "word": "spouse",
     "ipa": "spaʊs",
+    "type": "common noun, singular",
+    "def": "A marriage partner; a husband or wife.",
     "vi": "vợ hoặc chồng",
     "viDef": "người bạn đời trong hôn nhân"
   }

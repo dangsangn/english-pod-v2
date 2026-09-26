@@ -2,96 +2,128 @@
   {
     "word": "mumbo jumbo",
     "ipa": "ˈmʌmboʊ ˈdʒʌmboʊ",
+    "type": "",
+    "def": "unintelligible or incomprehensible language",
     "vi": "lời rối rắm khó hiểu",
     "viDef": "ngôn từ tối nghĩa, chẳng hiểu nổi"
   },
   {
     "word": "heat up",
     "ipa": "hit ʌp",
+    "type": "",
+    "def": "gain heat or get hot",
     "vi": "nóng lên",
     "viDef": "thu nhiệt hoặc trở nên nóng"
   },
   {
     "word": "preserve",
     "ipa": "pɹəˈzɝv",
+    "type": "",
+    "def": "maintain in safety from injury, peril, or harm",
     "vi": "giữ gìn",
     "viDef": "duy trì cho khỏi hư hại, hiểm nguy hoặc tổn thất"
   },
   {
     "word": "boonies",
     "ipa": "ˈbuniz",
+    "type": "",
+    "def": "rural country or jungle",
     "vi": "vùng hẻo hút",
     "viDef": "vùng nông thôn hoặc rừng rú"
   },
   {
     "word": "sustainability",
     "ipa": "səˌsteɪnəˈbɪlɪti",
+    "type": "",
+    "def": "keep in existence and maintain",
     "vi": "tính bền vững",
     "viDef": "việc giữ cho tồn tại và duy trì được"
   },
   {
     "word": "drastic",
     "ipa": "ˈdɹæstɪk",
+    "type": "",
+    "def": "sudden and severe",
     "vi": "quyết liệt, đột ngột",
     "viDef": "xảy ra thình lình và nặng nề"
   },
   {
     "word": "feasible",
     "ipa": "ˈfizəbəl",
+    "type": "",
+    "def": "capable of being done with means at hand",
     "vi": "khả thi",
     "viDef": "làm được bằng những phương tiện sẵn có"
   },
   {
     "word": "refit",
     "ipa": "ɹiˈfɪt",
+    "type": "",
+    "def": "add new parts",
     "vi": "thay bộ phận mới",
     "viDef": "gắn thêm các phần mới"
   },
   {
     "word": "refit",
     "ipa": "ɹiˈfɪt",
+    "type": "",
+    "def": "prepare and equip for additional use",
     "vi": "tân trang lại",
     "viDef": "chuẩn bị và trang bị lại để dùng thêm"
   },
   {
     "word": "resource",
     "ipa": "ˈɹisɔɹs",
+    "type": "",
+    "def": "available source of wealth",
     "vi": "tài nguyên",
     "viDef": "nguồn của cải sẵn có"
   },
   {
     "word": "car pool",
     "ipa": "kɑɹ pul",
+    "type": "",
+    "def": "share the car with others to work",
     "vi": "đi xe chung",
     "viDef": "cùng đi một xe với người khác tới nơi làm"
   },
   {
     "word": "going green",
     "ipa": "ˈɡoʊɪŋ ɡɹin",
+    "type": "",
+    "def": "the term used for being more environmentally friendly",
     "vi": "sống xanh",
     "viDef": "cách nói về việc thân thiện hơn với môi trường"
   },
   {
     "word": "energy star",
     "ipa": "ˈɛnɚdʒi stɑɹ",
+    "type": "",
+    "def": "a label given to efficient appliances.",
     "vi": "nhãn Energy Star",
     "viDef": "nhãn dán cho các thiết bị tiết kiệm điện"
   },
   {
     "word": "realization",
     "ipa": "ˈɹiləˈzeɪʃən",
+    "type": "",
+    "def": "to come to a sudden conclusion",
     "vi": "sự chợt nhận ra",
     "viDef": "việc bỗng đi tới một kết luận"
   },
   {
     "word": "skeptic",
     "ipa": "ˈskɛptɪk",
+    "type": "",
+    "def": "a person who questions popular thought",
     "vi": "người hoài nghi",
     "viDef": "người đặt dấu hỏi với suy nghĩ phổ biến"
   },
   {
     "word": "alternatives",
     "ipa": "ɔlˈtɝnətɪvz",
+    "type": "",
+    "def": "to replace something with something of equal use",
     "vi": "các phương án thay thế",
     "viDef": "việc đổi sang thứ khác có công dụng tương đương"
   }

@@ -2,72 +2,96 @@
   {
     "word": "untapped",
     "ipa": "ənˈtæpt",
+    "type": "",
+    "def": "available but not used",
     "vi": "chưa khai thác",
     "viDef": "có sẵn nhưng chưa dùng tới"
   },
   {
     "word": "developing market",
     "ipa": "dɪˈvɛləpɪŋ ˈmɑɹkət",
+    "type": "",
+    "def": "markets that are in growth",
     "vi": "thị trường đang phát triển",
     "viDef": "các thị trường đang tăng trưởng"
   },
   {
     "word": "mature markets",
     "ipa": "məˈtʃʊɹ ˈmɑɹkəts",
+    "type": "",
+    "def": "developed market",
     "vi": "thị trường đã chín",
     "viDef": "thị trường đã phát triển"
   },
   {
     "word": "marketing message",
     "ipa": "ˈmɑɹkətɪŋ ˈmɛsədʒ",
+    "type": "",
+    "def": "the information of the sale of a product",
     "vi": "thông điệp tiếp thị",
     "viDef": "nội dung truyền đi để bán một sản phẩm"
   },
   {
     "word": "tackle",
     "ipa": "ˈtækəl",
+    "type": "",
+    "def": "deal with something that is difficult",
     "vi": "xử lý, đối phó",
     "viDef": "giải quyết việc gì khó"
   },
   {
     "word": "white collar",
     "ipa": "waɪt ˈkɑlɚ",
+    "type": "",
+    "def": "a person that works in an office",
     "vi": "dân cổ cồn trắng",
     "viDef": "người làm việc trong văn phòng"
   },
   {
     "word": "Q and A",
     "ipa": "kju ənd ə",
+    "type": "",
+    "def": "question and answer",
     "vi": "phần hỏi đáp",
     "viDef": "question and answer"
   },
   {
     "word": "consumerism",
     "ipa": "kənˈsumɚˌɪzəm",
+    "type": "",
+    "def": "the increasing consumption of goods; a movement that emphasizes quality and consumer awareness",
     "vi": "chủ nghĩa tiêu dùng",
     "viDef": "việc tiêu thụ hàng hóa ngày càng nhiều; cũng là phong trào đề cao chất lượng và ý thức của người mua"
   },
   {
     "word": "bottom of pyramid",
     "ipa": "ˈbɑtəm ʌv ˈpɪɹəmɪd",
+    "type": "",
+    "def": "those people who earn around $1USD/day, the majority of the world's people belong to this consumer segment",
     "vi": "đáy kim tự tháp",
     "viDef": "những người kiếm khoảng 1 đô mỗi ngày, phần đông dân số thế giới thuộc phân khúc này"
   },
   {
     "word": "promote",
     "ipa": "pɹəˈmoʊt",
+    "type": "",
+    "def": "to encourage, to advertise something",
     "vi": "quảng bá",
     "viDef": "cổ xúy, tiếp thị cho thứ gì"
   },
   {
     "word": "out of reach",
     "ipa": "aʊt ʌv ɹitʃ",
+    "type": "",
+    "def": "something that cannot be obtained",
     "vi": "ngoài tầm với",
     "viDef": "thứ không thể có được"
   },
   {
     "word": "wallet-friendly",
     "ipa": "ˈwɔlət ˈfɹɛndli",
+    "type": "",
+    "def": "an inexpensive product; anything that saves you money",
     "vi": "nhẹ ví",
     "viDef": "sản phẩm không đắt, bất cứ thứ gì giúp bạn tiết kiệm"
   }

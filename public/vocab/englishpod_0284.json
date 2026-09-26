@@ -2,78 +2,104 @@
   {
     "word": "road trip",
     "ipa": "ɹoʊd tɹɪp",
+    "type": "",
+    "def": "long trip by car",
     "vi": "chuyến đi đường dài",
     "viDef": "chuyến đi xa bằng xe hơi"
   },
   {
     "word": "piston",
     "ipa": "ˈpɪstən",
+    "type": "",
+    "def": "a part of an engine that moves up and down inside",
     "vi": "pít-tông",
     "viDef": "bộ phận trong động cơ chạy lên xuống bên trong"
   },
   {
     "word": "spark plug",
     "ipa": "spɑɹk plʌɡ",
+    "type": "",
+    "def": "a device in the engine which produces electric spa",
     "vi": "bugi",
     "viDef": "thiết bị trong động cơ tạo tia lửa điện"
   },
   {
     "word": "break down",
     "ipa": "bɹeɪk daʊn",
+    "type": "",
+    "def": "stop working",
     "vi": "hỏng máy",
     "viDef": "ngừng chạy"
   },
   {
     "word": "engine",
     "ipa": "ˈɛndʒən",
+    "type": "",
+    "def": "the device which helps cars getting running",
     "vi": "động cơ",
     "viDef": "bộ phận giúp xe chạy được"
   },
   {
     "word": "clutch",
     "ipa": "klʌtʃ",
+    "type": "",
+    "def": "pedal that you press before you change gear",
     "vi": "chân côn",
     "viDef": "bàn đạp phải nhấn trước khi sang số"
   },
   {
     "word": "brake",
     "ipa": "bɹeɪk",
+    "type": "",
+    "def": "a device that slows down or stops something",
     "vi": "phanh",
     "viDef": "bộ phận làm chậm hoặc dừng xe"
   },
   {
     "word": "regular",
     "ipa": "ˈɹɛɡjəlɚ",
+    "type": "",
+    "def": "ordinary",
     "vi": "loại thường",
     "viDef": "bình thường"
   },
   {
     "word": "smoothly",
     "ipa": "ˈsmuðli",
+    "type": "",
+    "def": "without problems or difficulties",
     "vi": "êm ru",
     "viDef": "không gặp trở ngại hoặc khó khăn"
   },
   {
     "word": "brake pads",
     "ipa": "bɹeɪk pædz",
+    "type": "",
+    "def": "part of the disk brake, brake pads are squeezed together to help the car brake",
     "vi": "má phanh",
     "viDef": "phần của phanh đĩa, hai má ép vào nhau để xe dừng"
   },
   {
     "word": "antifreeze",
     "ipa": "ˈæntiˌfɹiz",
+    "type": "",
+    "def": "a chemical compound used in internal combustion engines, helps to regulate the temperature of the engine",
     "vi": "nước làm mát chống đông",
     "viDef": "hợp chất hóa học dùng trong động cơ đốt trong, giúp điều hòa nhiệt độ máy"
   },
   {
     "word": "ABS; anti-lock braking system",
     "ipa": "ˈeɪˈbiˈɛs ˈænti lɑk ˈbɹeɪkɪŋ ˈsɪstəm",
+    "type": "",
+    "def": "prevents the wheels of the car from locking up while braking",
     "vi": "hệ thống chống bó phanh ABS",
     "viDef": "ngăn không cho bánh xe bị khóa cứng khi phanh"
   },
   {
     "word": "mileage",
     "ipa": "ˈmaɪlədʒ",
+    "type": "",
+    "def": "the number of miles traveled over a period of time",
     "vi": "số dặm đã đi",
     "viDef": "số dặm chạy được trong một khoảng thời gian"
   }

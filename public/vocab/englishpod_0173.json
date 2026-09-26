@@ -2,60 +2,80 @@
   {
     "word": "skyrocket",
     "ipa": "ˈskaɪˌɹɑkət",
+    "type": "",
+    "def": "rise rapidly, as in price",
     "vi": "tăng vọt",
     "viDef": "dâng lên rất nhanh, như về giá"
   },
   {
     "word": "out of control",
     "ipa": "aʊt ʌv kənˈtɹoʊl",
+    "type": "",
+    "def": "beyond the ability to direct the actions of something",
     "vi": "vượt kiểm soát",
     "viDef": "không còn điều khiển được"
   },
   {
     "word": "budget",
     "ipa": "ˈbʌdʒɪt",
+    "type": "",
+    "def": "plan the way to spend money in order to save more",
     "vi": "lập ngân sách",
     "viDef": "tính cách chi tiêu để tiết kiệm hơn"
   },
   {
     "word": "allocate",
     "ipa": "ˈæləˌkeɪt",
+    "type": "",
+    "def": "assign",
     "vi": "phân bổ",
     "viDef": "chia phần cho từng mục"
   },
   {
     "word": "frankly speaking",
     "ipa": "ˈfɹæŋkli ˈspikɪŋ",
+    "type": "",
+    "def": "to be honest, to say it directly",
     "vi": "nói thẳng ra",
     "viDef": "nói thật, nói trực tiếp"
   },
   {
     "word": "capital",
     "ipa": "ˈkæpətəl",
+    "type": "",
+    "def": "the wealth in money or property one owns",
     "vi": "vốn",
     "viDef": "tài sản bằng tiền hoặc của cải mình có"
   },
   {
     "word": "finances",
     "ipa": "fɪˈnænsɪz",
+    "type": "",
+    "def": "one's monetary resources",
     "vi": "tình hình tài chính",
     "viDef": "nguồn tiền của một người"
   },
   {
     "word": "to bring in the dough",
     "ipa": "tu bɹɪŋ ɪn ðə doʊ",
+    "type": "",
+    "def": "to make money",
     "vi": "kiếm ra tiền",
     "viDef": "làm ra tiền"
   },
   {
     "word": "breadwinner",
     "ipa": "ˈbɹɛˌdwɪnɚ",
+    "type": "",
+    "def": "one whose earnings are the primary source of support for one's dependents",
     "vi": "trụ cột kinh tế",
     "viDef": "người có thu nhập chính nuôi cả nhà"
   },
   {
     "word": "to itemize",
     "ipa": "tu ˈaɪtəˌmaɪz",
+    "type": "",
+    "def": "to place or include on a list of items",
     "vi": "liệt kê từng mục",
     "viDef": "đưa vào danh sách theo từng khoản"
   }

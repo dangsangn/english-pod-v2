@@ -2,120 +2,160 @@
   {
     "word": "in luck",
     "ipa": "ɪn lʌk",
+    "type": "verb",
+    "def": "you are lucky right now; we have what you need",
     "vi": "may cho anh/chị rồi",
     "viDef": "đúng lúc có thứ bạn cần"
   },
   {
     "word": "compatible with",
     "ipa": "kəmˈpætəbəl wɪð",
+    "type": "phrase",
+    "def": "able to work well together",
     "vi": "tương thích với",
     "viDef": "dùng chung được với nhau"
   },
   {
     "word": "monthly rate plan",
     "ipa": "ˈmʌnθli ɹeɪt plæn",
+    "type": "common noun, singular",
+    "def": "a program that needs you to pay every month",
     "vi": "gói trả tháng",
     "viDef": "chương trình phải đóng tiền hằng tháng"
   },
   {
     "word": "activate",
     "ipa": "ˈæktəˌveɪt",
+    "type": "verb",
+    "def": "cause something to start working",
     "vi": "kích hoạt",
     "viDef": "làm cho bắt đầu hoạt động"
   },
   {
     "word": "prepaid rate plan",
     "ipa": "pɹiˈpeɪd ɹeɪt plæn",
+    "type": "Adjective",
+    "def": "a prgram where you pay for cell phone time in advance",
     "vi": "gói trả trước",
     "viDef": "chương trình nạp tiền trước để gọi"
   },
   {
     "word": "throw in",
     "ipa": "θɹoʊ ɪn",
+    "type": "verb",
+    "def": "give something extra for free",
     "vi": "tặng kèm",
     "viDef": "cho thêm mà không lấy tiền"
   },
   {
     "word": "what is the catch",
     "ipa": "wʌt ɪz ðə kætʃ",
+    "type": "phrase",
+    "def": "what is the hidden drawback",
     "vi": "có bẫy gì ở đây",
     "viDef": "điểm bất lợi ẩn là gì"
   },
   {
     "word": "any time minutes",
     "ipa": "ˈɛni taɪm ˈmɪnəts",
+    "type": "phrase",
+    "def": "cell phone time you can use at any time",
     "vi": "phút gọi giờ nào cũng được",
     "viDef": "thời lượng gọi dùng bất cứ lúc nào"
   },
   {
     "word": "text message",
     "ipa": "tɛkst ˈmɛsədʒ",
+    "type": "common noun, plural",
+    "def": "short messages sent by mobile phone",
     "vi": "tin nhắn",
     "viDef": "mẩu tin ngắn gửi bằng điện thoại"
   },
   {
     "word": "unlimited",
     "ipa": "ənˈlɪmətɪd",
+    "type": "Adjective",
+    "def": "with out limit; as much as you want",
     "vi": "không giới hạn",
     "viDef": "dùng bao nhiêu cũng được"
   },
   {
     "word": "evening and weekend minutes",
     "ipa": "ˈivnɪŋ ənd ˈwikɛnd ˈmɪnəts",
+    "type": "phrase",
+    "def": "cell phone minutes you can use on evenings and wee",
     "vi": "phút gọi tối và cuối tuần",
     "viDef": "thời lượng gọi dùng vào buổi tối và ngày cuối tuần"
   },
   {
     "word": "rollover",
     "ipa": "ˈɹoʊˌloʊvɚ",
+    "type": "Adjective",
+    "def": "allow unused minutes to be used the next month",
     "vi": "chuyển phút sang tháng sau",
     "viDef": "cho dồn số phút chưa dùng sang tháng kế"
   },
   {
     "word": "handset",
     "ipa": "ˈhændsɛt",
+    "type": "common noun, singular",
+    "def": "mobile phone",
     "vi": "máy điện thoại",
     "viDef": "chiếc điện thoại di động"
   },
   {
     "word": "fee",
     "ipa": "fi",
+    "type": "common noun, singular",
+    "def": "the amount of money you need to pay",
     "vi": "phí",
     "viDef": "số tiền phải trả"
   },
   {
     "word": "charge",
     "ipa": "tʃɑɹdʒ",
+    "type": "common noun, plural",
+    "def": "the amount of money you need to pay",
     "vi": "khoản thu",
     "viDef": "số tiền bị tính"
   },
   {
     "word": "device",
     "ipa": "dɪˈvaɪs",
+    "type": "common noun, singular",
+    "def": "an object or machine made for a specific purpose",
     "vi": "thiết bị",
     "viDef": "vật hoặc máy làm ra cho một mục đích riêng"
   },
   {
     "word": "data package",
     "ipa": "ˈdeɪtə ˈpækədʒ",
+    "type": "common noun, singular",
+    "def": "a part of a cell phone package that lets you go on the internet",
     "vi": "gói dữ liệu",
     "viDef": "phần trong gói điện thoại cho phép vào mạng"
   },
   {
     "word": "text",
     "ipa": "tɛkst",
+    "type": "verb",
+    "def": "write and send a text message",
     "vi": "nhắn tin",
     "viDef": "viết và gửi tin nhắn"
   },
   {
     "word": "landline",
     "ipa": "ˈlændlaɪn",
+    "type": "common noun, singular",
+    "def": "a phone that attaches to the network by a wire",
     "vi": "điện thoại cố định",
     "viDef": "máy nối vào mạng bằng dây"
   },
   {
     "word": "SIM card",
     "ipa": "sɪm kɑɹd",
+    "type": "common noun, singular",
+    "def": "a computer chip you put in your cell phone",
     "vi": "thẻ SIM",
     "viDef": "con chip cắm vào điện thoại"
   }

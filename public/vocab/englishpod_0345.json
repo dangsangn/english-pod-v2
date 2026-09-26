@@ -2,96 +2,128 @@
   {
     "word": "gym",
     "ipa": "dʒɪm",
+    "type": "",
+    "def": "a place where you go to exercise",
     "vi": "phòng tập",
     "viDef": "nơi bạn tới để tập thể dục"
   },
   {
     "word": "personal trainer",
     "ipa": "ˈpɝsɪnəl ˈtɹeɪnɚ",
+    "type": "",
+    "def": "professional who educates people about physical fitness.",
     "vi": "huấn luyện viên riêng",
     "viDef": "người chuyên hướng dẫn về rèn luyện thể chất"
   },
   {
     "word": "case",
     "ipa": "keɪs",
+    "type": "",
+    "def": "argument",
     "vi": "lý lẽ",
     "viDef": "lập luận"
   },
   {
     "word": "obligate",
     "ipa": "ˈɑbləˌɡeɪt",
+    "type": "",
+    "def": "do something because you feel it is the right thing to do",
     "vi": "thấy phải làm",
     "viDef": "làm điều gì vì thấy đó là việc đúng"
   },
   {
     "word": "to work out",
     "ipa": "tu wɝk aʊt",
+    "type": "",
+    "def": "to find a solution or create a plan by thinking",
     "vi": "nghĩ ra cách",
     "viDef": "tìm ra lời giải hoặc lập kế hoạch bằng cách suy nghĩ"
   },
   {
     "word": "muscle",
     "ipa": "ˈmʌsəl",
+    "type": "",
+    "def": "tissue composed of fibers capable of contracting to effect bodily movement",
     "vi": "cơ bắp",
     "viDef": "mô gồm các sợi co lại được để tạo chuyển động cho cơ thể"
   },
   {
     "word": "muscle tone",
     "ipa": "ˈmʌsəl toʊn",
+    "type": "",
+    "def": "strength or firmness of muscles and skin",
     "vi": "độ săn chắc",
     "viDef": "sức mạnh hoặc độ chắc của cơ và da"
   },
   {
     "word": "abdominals",
     "ipa": "æbˈdɑmənəlz",
+    "type": "",
+    "def": "muscles of the front area of the stomach",
     "vi": "cơ bụng",
     "viDef": "các cơ ở phía trước vùng bụng"
   },
   {
     "word": "pectoral",
     "ipa": "ˈpɛktɚəl",
+    "type": "",
+    "def": "the chest or breast area",
     "vi": "cơ ngực",
     "viDef": "vùng ngực"
   },
   {
     "word": "bicep",
     "ipa": "ˈbaɪsɛp",
+    "type": "",
+    "def": "a large muscle at the front of the upper arm",
     "vi": "cơ tay trước",
     "viDef": "cơ lớn ở mặt trước cánh tay trên"
   },
   {
     "word": "hamstring",
     "ipa": "ˈhæmstɹɪŋ",
+    "type": "",
+    "def": "Any of the tendons at the rear of the human knee",
     "vi": "gân kheo",
     "viDef": "các gân ở phía sau đầu gối người"
   },
   {
     "word": "squat",
     "ipa": "skwɑt",
+    "type": "",
+    "def": "A lift or a weightlifting exercise in which one squats and stands while holding a weighted barbell supported by the back of the shoulders",
     "vi": "bài squat",
     "viDef": "động tác nâng tạ mà người tập ngồi xuống rồi đứng lên trong khi thanh tạ tì trên vai sau"
   },
   {
     "word": "steroids",
     "ipa": "ˈstɛɹɔɪdz",
+    "type": "",
+    "def": "compounds that help to grow muscles at a fast rate and help in recovery.",
     "vi": "thuốc tăng cơ steroid",
     "viDef": "hợp chất giúp cơ lớn nhanh và hồi phục nhanh"
   },
   {
     "word": "deadlift",
     "ipa": "ˈdɛdlɪft",
+    "type": "",
+    "def": "A lift in which one pulls a bar from the ground to the waist.",
     "vi": "bài deadlift",
     "viDef": "động tác nâng thanh tạ từ mặt đất lên tới ngang eo"
   },
   {
     "word": "bodybuilder",
     "ipa": "ˈbɑdiˌbɪldɚ",
+    "type": "",
+    "def": "a person who practices bodybuilding.",
     "vi": "vận động viên thể hình",
     "viDef": "người tập thể hình"
   },
   {
     "word": "locker room",
     "ipa": "ˈlɑkɚ ɹum",
+    "type": "",
+    "def": "oom containing lockers, as in a gymnasium, factory, or school, for changing clothes and for the storage and safekeeping of personal belongings.",
     "vi": "phòng thay đồ",
     "viDef": "phòng có tủ khóa, như ở nhà thi đấu, nhà máy hay trường học, để thay đồ và cất giữ đồ cá nhân"
   }

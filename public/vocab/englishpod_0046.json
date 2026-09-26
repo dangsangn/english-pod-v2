@@ -2,108 +2,144 @@
   {
     "word": "intensive care",
     "ipa": "ˌɪnˈtɛnsɪv kɛɹ",
+    "type": "common noun, singular",
+    "def": "place in the hospital where very ill patients are treated",
     "vi": "khoa hồi sức tích cực",
     "viDef": "nơi trong bệnh viện điều trị bệnh nhân rất nặng"
   },
   {
     "word": "critical condition",
     "ipa": "ˈkɹɪtɪkəl kənˈdɪʃən",
+    "type": "Adjective",
+    "def": "state where a person is very sick or injured, and has a risk of dying",
     "vi": "tình trạng nguy kịch",
     "viDef": "bệnh hoặc thương rất nặng, có nguy cơ tử vong"
   },
   {
     "word": "out of the woods",
     "ipa": "aʊt ʌv ðə wʊdz",
+    "type": "phrase",
+    "def": "out trouble or danger,",
     "vi": "qua cơn nguy",
     "viDef": "đã thoát khỏi rắc rối hoặc hiểm nguy"
   },
   {
     "word": "stabilize",
     "ipa": "ˈsteɪbəˌlaɪz",
+    "type": "verb",
+    "def": "stop a patient from getting worse",
     "vi": "làm ổn định",
     "viDef": "giữ cho bệnh nhân không xấu thêm"
   },
   {
     "word": "intubate",
     "ipa": "ˈɪntʊbeɪt",
+    "type": "verb",
+    "def": "place a plastic tube in a persons mouth to facilitate breathing",
     "vi": "đặt nội khí quản",
     "viDef": "đưa ống nhựa qua miệng để giúp thở"
   },
   {
     "word": "acute respiratory failure",
     "ipa": "əˈkjut ˈɹɛspɚəˌtɔɹi ˈfeɪljɚ",
+    "type": "common noun, singular",
+    "def": "condition in which a person stops breathing",
     "vi": "suy hô hấp cấp",
     "viDef": "tình trạng người bệnh ngừng thở"
   },
   {
     "word": "defibrillator",
     "ipa": "diˈfɪbɹɪˌleɪtɚ",
+    "type": "common noun, singular",
+    "def": "electric machine that shocks the heart and makes it start working again",
     "vi": "máy sốc điện tim",
     "viDef": "máy dùng điện giật cho tim đập lại"
   },
   {
     "word": "BP",
     "ipa": "ˌbi ˈpi",
+    "type": "common noun, singular",
+    "def": "blood pressure",
     "vi": "huyết áp",
     "viDef": "áp huyết"
   },
   {
     "word": "flatline",
     "ipa": "ˈflætlaɪn",
+    "type": "verb",
+    "def": "condition where the heart stops working",
     "vi": "ngừng tim",
     "viDef": "tình trạng tim không còn hoạt động"
   },
   {
     "word": "pulse",
     "ipa": "pʌls",
+    "type": "common noun, singular",
+    "def": "the number of times your heart beats per minute",
     "vi": "mạch",
     "viDef": "số nhịp tim mỗi phút"
   },
   {
     "word": "hold still",
     "ipa": "hoʊld stɪl",
+    "type": "phrase",
+    "def": "not move",
     "vi": "giữ yên",
     "viDef": "đừng cử động"
   },
   {
     "word": "hook up",
     "ipa": "hʊk ʌp",
+    "type": "phrase",
+    "def": "connect someone or something to a machine",
     "vi": "gắn máy vào",
     "viDef": "nối người hoặc vật vào máy"
   },
   {
     "word": "CPR",
     "ipa": "ˌsi pi ˈɑɹ",
+    "type": "common noun, singular",
+    "def": "procedure in which air is blown into another persons lungs though their mouth",
     "vi": "hồi sức tim phổi",
     "viDef": "thao tác thổi khí qua miệng vào phổi người khác"
   },
   {
     "word": "chest compressions",
     "ipa": "tʃɛst kəmˈpɹɛʃənz",
+    "type": "common noun, plural",
+    "def": "act of pushing on someone's chest to restart their heart",
     "vi": "ép tim ngoài lồng ngực",
     "viDef": "ấn lên ngực để tim đập lại"
   },
   {
     "word": "resuscitate",
     "ipa": "ɹɪˈsʌsɪˌteɪt",
+    "type": "verb",
+    "def": "make someone who stopped breathing start breathing again",
     "vi": "hồi sinh",
     "viDef": "làm người đã ngừng thở thở lại"
   },
   {
     "word": "defibrillator",
     "ipa": "diˈfɪbɹɪˌleɪtɚ",
+    "type": "common noun, singular",
+    "def": "machine that uses electricity to shock and restart the heart",
     "vi": "máy khử rung tim",
     "viDef": "máy dùng điện sốc để tim đập lại"
   },
   {
     "word": "ER",
     "ipa": "ˌi ˈɑɹ",
+    "type": "phrase",
+    "def": "Emergency Room; place in the hospital where you bring sick or injured people in an emergency",
     "vi": "phòng cấp cứu",
     "viDef": "nơi trong bệnh viện tiếp nhận người bệnh hoặc bị thương khẩn cấp"
   },
   {
     "word": "ICU",
     "ipa": "ˌaɪ si ˈju",
+    "type": "phrase",
+    "def": "Intensive Care Unit; place in the hospital where very sick or severely injured people are taken care of",
     "vi": "khoa chăm sóc đặc biệt",
     "viDef": "nơi chăm sóc người bệnh rất nặng hoặc thương nặng"
   }

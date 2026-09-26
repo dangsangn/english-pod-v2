@@ -2,60 +2,80 @@
   {
     "word": "gruesome",
     "ipa": "ˈɡɹusəm",
+    "type": "Adjective",
+    "def": "causes horror or disgust",
     "vi": "rùng rợn",
     "viDef": "gây kinh hãi hoặc ghê tởm"
   },
   {
     "word": "square off",
     "ipa": "skwɛɹ ɔf",
+    "type": "principle verb, present simple",
+    "def": "to prepare to fight",
     "vi": "vào thế đối đầu",
     "viDef": "sẵn sàng lâm chiến"
   },
   {
     "word": "land",
     "ipa": "lænd",
+    "type": "principle verb, present simple",
+    "def": "land",
     "vi": "đánh trúng",
     "viDef": "giáng được cú đánh vào đích"
   },
   {
     "word": "dodges",
     "ipa": "ˈdɑdʒɪz",
+    "type": "principle verb, present simple",
+    "def": "avoid being hit by something",
     "vi": "né",
     "viDef": "tránh không bị đánh trúng"
   },
   {
     "word": "pounded",
     "ipa": "ˈpaʊndɪd",
+    "type": "principle verb, past simple",
+    "def": "hit hard multiple times",
     "vi": "bị nện tơi tả",
     "viDef": "bị đánh mạnh nhiều lần"
   },
   {
     "word": "mouth guard",
     "ipa": "maʊθ ɡɑɹd",
+    "type": "common noun, singular",
+    "def": "a plastic protective piece placed inside the mouth to protect the teeth",
     "vi": "miếng bảo vệ răng",
     "viDef": "miếng nhựa đặt trong miệng để che răng"
   },
   {
     "word": "trunks",
     "ipa": "tɹʌŋks",
+    "type": "common noun, plural",
+    "def": "shorts worn for swimming or athletics",
     "vi": "quần đùi thể thao",
     "viDef": "quần ngắn mặc khi bơi hoặc thi đấu"
   },
   {
     "word": "jock strap",
     "ipa": "dʒɑk stɹæp",
+    "type": "common noun, singular",
+    "def": "an elasticated belt with a pouch to support the genitals, worn by male athletes",
     "vi": "quần bảo hộ nam",
     "viDef": "dây thun có túi đỡ phần dưới, dành cho nam vận động viên"
   },
   {
     "word": "head butt",
     "ipa": "hɛd bʌt",
+    "type": "common noun, singular",
+    "def": "a quick strong blow with the head",
     "vi": "húc đầu",
     "viDef": "cú đánh mạnh bằng đầu"
   },
   {
     "word": "low blow",
     "ipa": "loʊ bloʊ",
+    "type": "common noun, singular",
+    "def": "an ilegal blow below the waist",
     "vi": "cú đánh dưới đai",
     "viDef": "đòn phạm luật nhắm dưới thắt lưng"
   }

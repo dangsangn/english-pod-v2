@@ -2,54 +2,72 @@
   {
     "word": "operator",
     "ipa": "ˈɑpɚˌeɪtɚ",
+    "type": "",
+    "def": "a person who operates a telephone switchboard",
     "vi": "nhân viên tổng đài",
     "viDef": "người vận hành bảng nối điện thoại"
   },
   {
     "word": "charge",
     "ipa": "tʃɑɹdʒ",
+    "type": "",
+    "def": "amount of money to be paid",
     "vi": "khoản tính tiền",
     "viDef": "số tiền phải trả"
   },
   {
     "word": "credit",
     "ipa": "ˈkɹɛdət",
+    "type": "",
+    "def": "the positive balance in a person's mobile phone account",
     "vi": "tiền còn trong tài khoản",
     "viDef": "số dư dương trong tài khoản điện thoại di động"
   },
   {
     "word": "payphone",
     "ipa": "ˈpeɪfoʊn",
+    "type": "",
+    "def": "a public telephone operated by coins or a phonecard",
     "vi": "điện thoại công cộng",
     "viDef": "điện thoại dùng chung, chạy bằng xu hoặc thẻ"
   },
   {
     "word": "collect call",
     "ipa": "kəˈlɛkt kɔl",
+    "type": "",
+    "def": "a telephone call that the receiving party is asked to pay for",
     "vi": "cuộc gọi người nhận trả tiền",
     "viDef": "cuộc gọi mà bên nhận được đề nghị trả cước"
   },
   {
     "word": "network",
     "ipa": "ˈnɛtwɝk",
+    "type": "",
+    "def": "telephones interconnected by telecommunication equipment or cables",
     "vi": "mạng điện thoại",
     "viDef": "các máy điện thoại nối với nhau qua thiết bị viễn thông hoặc dây cáp"
   },
   {
     "word": "landline",
     "ipa": "ˈlændlaɪn",
+    "type": "",
+    "def": "a home telephone",
     "vi": "máy bàn",
     "viDef": "điện thoại cố định ở nhà"
   },
   {
     "word": "connect",
     "ipa": "kəˈnɛkt",
+    "type": "",
+    "def": "to establish communication between",
     "vi": "nối máy",
     "viDef": "thiết lập liên lạc giữa hai bên"
   },
   {
     "word": "reception",
     "ipa": "ɹɪˈsɛpʃən",
+    "type": "",
+    "def": "the quality attained in receiving radio or television broadcasts",
     "vi": "sóng, chất lượng thu",
     "viDef": "mức thu được của sóng phát thanh hoặc truyền hình"
   }

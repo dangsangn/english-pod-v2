@@ -2,66 +2,88 @@
   {
     "word": "norm",
     "ipa": "nɔɹm",
+    "type": "",
+    "def": "something is usual or expected",
     "vi": "chuyện thường tình",
     "viDef": "điều vẫn thường thấy hoặc được trông đợi"
   },
   {
     "word": "Currency",
     "ipa": "ˈkɝənsi",
+    "type": "",
+    "def": "the money that a country uses",
     "vi": "đồng tiền",
     "viDef": "loại tiền một nước dùng"
   },
   {
     "word": "margin deposit",
     "ipa": "ˈmɑɹdʒən dəˈpɑzɪt",
+    "type": "",
+    "def": "he sum of money required to reinstate",
     "vi": "tiền ký quỹ",
     "viDef": "khoản tiền phải nộp để duy trì vị thế"
   },
   {
     "word": "drastically",
     "ipa": "ˈdɹæstɪkli",
+    "type": "",
+    "def": "taking effect rapidly",
     "vi": "mạnh và nhanh",
     "viDef": "phát tác thật nhanh"
   },
   {
     "word": "split second",
     "ipa": "splɪt ˈsɛkənd",
+    "type": "",
+    "def": "very quickly;just a second",
     "vi": "trong tích tắc",
     "viDef": "rất nhanh, chỉ trong một giây"
   },
   {
     "word": "bid",
     "ipa": "bɪd",
+    "type": "",
+    "def": "an offer to pay a particular amount of money",
     "vi": "giá đặt mua",
     "viDef": "lời chào trả một mức tiền nhất định"
   },
   {
     "word": "depreciate",
     "ipa": "dɪˈpɹiʃiˌeɪt",
+    "type": "",
+    "def": "decrease in the value of a currency in response to market demands",
     "vi": "mất giá",
     "viDef": "giá trị đồng tiền giảm đi theo cung cầu của thị trường"
   },
   {
     "word": "spread",
     "ipa": "spɹɛd",
+    "type": "",
+    "def": "the difference between the bid and the ask for a given currency pair",
     "vi": "chênh lệch giá",
     "viDef": "khoảng cách giữa giá đặt mua và giá chào bán của một cặp tiền"
   },
   {
     "word": "OTC (over the counter) market",
     "ipa": "ˌoʊ ti ˈsi ˈmɑɹkət",
+    "type": "",
+    "def": "a market that has no central exchange so exchanges are done interbank between two parties",
     "vi": "thị trường OTC",
     "viDef": "thị trường không có sàn trung tâm, giao dịch diễn ra liên ngân hàng giữa hai bên"
   },
   {
     "word": "speculative",
     "ipa": "ˈspɛkjələtɪv",
+    "type": "",
+    "def": "buying and selling in the hope of making a profit, rather than for some business-related need",
     "vi": "mang tính đầu cơ",
     "viDef": "mua bán để mong lời chứ không vì nhu cầu kinh doanh"
   },
   {
     "word": "base currency",
     "ipa": "beɪs ˈkɝənsi",
+    "type": "",
+    "def": "the currency in which the investor buys or sells",
     "vi": "đồng tiền yết giá",
     "viDef": "đồng tiền mà nhà đầu tư dùng để mua hoặc bán"
   }

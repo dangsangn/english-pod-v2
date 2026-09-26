@@ -2,60 +2,80 @@
   {
     "word": "cut that out",
     "ipa": "kʌt ðæt aʊt",
+    "type": "",
+    "def": "tell sb to stop",
     "vi": "thôi ngay đi",
     "viDef": "câu bảo ai dừng lại"
   },
   {
     "word": "You 've got to be kidding me",
     "ipa": "juv ɡɑt tu bi ˈkɪdɪŋ mi",
+    "type": "",
+    "def": "You must be making jokes with me",
     "vi": "anh nói giỡn chắc",
     "viDef": "chắc anh đang đùa với tôi"
   },
   {
     "word": "shoot the breeze",
     "ipa": "ʃut ðə bɹiz",
+    "type": "",
+    "def": "chat",
     "vi": "tán chuyện",
     "viDef": "nói chuyện tào lao"
   },
   {
     "word": "accumulated",
     "ipa": "əˈkjumjəˌleɪtɪd",
+    "type": "",
+    "def": "gathered",
     "vi": "dồn lại",
     "viDef": "tích tụ dần"
   },
   {
     "word": "let off steam",
     "ipa": "lɛt ɔf stim",
+    "type": "",
+    "def": "to release excess energy, emotion etc",
     "vi": "xả bớt hơi",
     "viDef": "trút ra chỗ năng lượng hoặc cảm xúc dư"
   },
   {
     "word": "keep up",
     "ipa": "kip ʌp",
+    "type": "",
+    "def": "carry on",
     "vi": "cứ tiếp tục",
     "viDef": "làm tiếp"
   },
   {
     "word": "forgive and forget",
     "ipa": "fɚˈɡɪv ənd fɚˈɡɛt",
+    "type": "",
+    "def": "stop feeling anger and decide to let it go",
     "vi": "tha rồi cho qua",
     "viDef": "thôi giận và quyết định bỏ qua"
   },
   {
     "word": "call a truce",
     "ipa": "kɔl ə tɹus",
+    "type": "",
+    "def": "stop fighting",
     "vi": "ngưng chiến",
     "viDef": "thôi đánh nhau"
   },
   {
     "word": "considerate",
     "ipa": "kənˈsɪdɚət",
+    "type": "",
+    "def": "thinking about the feelings of other people",
     "vi": "biết nghĩ cho người khác",
     "viDef": "để tâm đến cảm xúc của người ta"
   },
   {
     "word": "slurp",
     "ipa": "slɝp",
+    "type": "",
+    "def": "eat or drink (something) noisily",
     "vi": "ăn uống chèm chẹp",
     "viDef": "ăn hoặc uống phát ra tiếng"
   }

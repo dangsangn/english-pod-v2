@@ -2,48 +2,64 @@
   {
     "word": "impress",
     "ipa": "ɪmˈpɹɛs",
+    "type": "",
+    "def": "cause someone to feel admiration",
     "vi": "gây ấn tượng",
     "viDef": "khiến ai thấy nể phục"
   },
   {
     "word": "wrap up",
     "ipa": "ɹæp ʌp",
+    "type": "",
+    "def": "to finish or end (something)",
     "vi": "gói lại phần cuối",
     "viDef": "kết thúc hoặc chốt lại việc gì"
   },
   {
     "word": "boom",
     "ipa": "bum",
+    "type": "",
+    "def": "to grow or expand suddenly",
     "vi": "bùng nổ",
     "viDef": "tăng hoặc nở rộ đột ngột"
   },
   {
     "word": "sum up",
     "ipa": "sʌm ʌp",
+    "type": "",
+    "def": "to tell information again using fewer words",
     "vi": "tóm lại",
     "viDef": "nói lại thông tin bằng ít lời hơn"
   },
   {
     "word": "at the outset",
     "ipa": "æt ðə ˈaʊtsɛt",
+    "type": "",
+    "def": "at the beginning of something",
     "vi": "ngay từ đầu",
     "viDef": "ở lúc mở đầu của việc gì"
   },
   {
     "word": "trend",
     "ipa": "tɹɛnd",
+    "type": "",
+    "def": "the general course or prevailing tendency",
     "vi": "xu thế",
     "viDef": "chiều hướng chung hoặc khuynh hướng nổi trội"
   },
   {
     "word": "Emphasis",
     "ipa": "ˈɛmfəsəs",
+    "type": "",
+    "def": "special stress laid upon, or importance attached to",
     "vi": "sự nhấn mạnh",
     "viDef": "trọng tâm đặt vào hoặc tầm quan trọng gán cho điều gì"
   },
   {
     "word": "illustration",
     "ipa": "ˌɪləˈstɹeɪʃən",
+    "type": "",
+    "def": "the act of clarifying or explaining",
     "vi": "việc minh họa",
     "viDef": "hành động làm rõ hoặc giải thích"
   }

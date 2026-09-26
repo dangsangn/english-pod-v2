@@ -2,84 +2,112 @@
   {
     "word": "ATM",
     "ipa": "ˈeɪˌtiˈɛm",
+    "type": "",
+    "def": "a machine outside a bank which people use to get money from their account",
     "vi": "máy ATM",
     "viDef": "máy đặt ngoài ngân hàng để rút tiền từ tài khoản"
   },
   {
     "word": "insert",
     "ipa": "ɪnˈsɝt",
+    "type": "verb",
+    "def": "put something into something",
     "vi": "đưa vào",
     "viDef": "cho vật gì vào trong"
   },
   {
     "word": "slot",
     "ipa": "slɑt",
+    "type": "common noun, singular",
+    "def": "a narrow place to put in a card or paper",
     "vi": "khe",
     "viDef": "rãnh hẹp để đút thẻ hoặc giấy"
   },
   {
     "word": "PIN",
     "ipa": "pɪn",
+    "type": "common noun, non-variable",
+    "def": "personal identity number",
     "vi": "mã PIN",
     "viDef": "số nhận dạng cá nhân"
   },
   {
     "word": "pound key",
     "ipa": "paʊnd ki",
+    "type": "common noun, singular",
+    "def": "the pushbotton marked with #",
     "vi": "nút thăng",
     "viDef": "nút có dấu #"
   },
   {
     "word": "withdrawal",
     "ipa": "wɪðˈdɹɔəl",
+    "type": "common noun, non-variable",
+    "def": "the action of getting money from account",
     "vi": "việc rút tiền",
     "viDef": "lần lấy tiền ra khỏi tài khoản"
   },
   {
     "word": "withdraw",
     "ipa": "wɪðˈdɹɔ",
+    "type": "verb",
+    "def": "get money from account",
     "vi": "rút tiền",
     "viDef": "lấy tiền từ tài khoản"
   },
   {
     "word": "transfer",
     "ipa": "tɹænˈsfɝ",
+    "type": "verb",
+    "def": "to move money from your account into others'",
     "vi": "chuyển tiền",
     "viDef": "đưa tiền từ tài khoản mình sang tài khoản người khác"
   },
   {
     "word": "authority",
     "ipa": "əˈθɔɹəti",
+    "type": "common noun, plural",
+    "def": "government organization which keeps the order of certain place",
     "vi": "cơ quan chức năng",
     "viDef": "tổ chức nhà nước giữ trật tự ở một nơi"
   },
   {
     "word": "deposit",
     "ipa": "dəˈpɑzɪt",
+    "type": "verb",
+    "def": "to put money into a bank account",
     "vi": "nạp tiền",
     "viDef": "gửi tiền vào tài khoản"
   },
   {
     "word": "fund",
     "ipa": "fʌnd",
+    "type": "common noun, singular",
+    "def": "an amount of money that is used for a special purpose",
     "vi": "quỹ tiền",
     "viDef": "khoản tiền dành cho mục đích riêng"
   },
   {
     "word": "safe",
     "ipa": "seɪf",
+    "type": "common noun, singular",
+    "def": "a strong metal box with a lock that is used to store money or valuable things",
     "vi": "tủ sắt, két",
     "viDef": "hộp kim loại chắc có khóa để giữ tiền và vật giá trị"
   },
   {
     "word": "balance",
     "ipa": "ˈbæləns",
+    "type": "common noun, singular",
+    "def": "the amount of money that is left in your bank account",
     "vi": "số dư",
     "viDef": "số tiền còn lại trong tài khoản"
   },
   {
     "word": "inquiry",
     "ipa": "ˌɪnˈkwaɪˌɹi",
+    "type": "common noun, singular",
+    "def": "a request for information",
     "vi": "yêu cầu tra thông tin",
     "viDef": "lời đề nghị cung cấp thông tin"
   }

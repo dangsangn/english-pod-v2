@@ -2,90 +2,120 @@
   {
     "word": "receipt",
     "ipa": "ɹɪˈsit",
+    "type": "",
+    "def": "a piece of paper that proves you bought something",
     "vi": "hóa đơn",
     "viDef": "tờ giấy chứng minh bạn đã mua thứ gì"
   },
   {
     "word": "return",
     "ipa": "ɹɪˈtɝn",
+    "type": "",
+    "def": "go back to the original place",
     "vi": "trả lại",
     "viDef": "đưa về chỗ ban đầu"
   },
   {
     "word": "keyboard",
     "ipa": "ˈkibɔɹd",
+    "type": "",
+    "def": "controller device for computer",
     "vi": "bàn phím",
     "viDef": "thiết bị điều khiển của máy tính"
   },
   {
     "word": "product",
     "ipa": "ˈpɹɑdəkt",
+    "type": "",
+    "def": "things that a company makes or sells",
     "vi": "sản phẩm",
     "viDef": "những thứ công ty làm ra hoặc bán"
   },
   {
     "word": "flicker",
     "ipa": "ˈflɪkɚ",
+    "type": "",
+    "def": "to move to and fro; vibrate; quiver",
     "vi": "nhấp nháy chớp chớp",
     "viDef": "lay qua lay lại, rung, run rẩy"
   },
   {
     "word": "spill",
     "ipa": "spɪl",
+    "type": "",
+    "def": "to cause or allow to run or fall from a container",
     "vi": "làm tràn",
     "viDef": "khiến hoặc để thứ gì chảy hay rơi ra khỏi vật đựng"
   },
   {
     "word": "exchange",
     "ipa": "ɪksˈtʃeɪndʒ",
+    "type": "",
+    "def": "give something and receive something in return",
     "vi": "đổi",
     "viDef": "đưa thứ này và nhận lại thứ khác"
   },
   {
     "word": "defective",
     "ipa": "dɪˈfɛktɪv",
+    "type": "",
+    "def": "having a mistake or error",
     "vi": "bị lỗi",
     "viDef": "có sai sót hoặc khuyết điểm"
   },
   {
     "word": "refund",
     "ipa": "ɹɪˈfʌnd",
+    "type": "",
+    "def": "to get your money back",
     "vi": "hoàn tiền",
     "viDef": "được lấy lại tiền của mình"
   },
   {
     "word": "delicate",
     "ipa": "ˈdɛləkət",
+    "type": "",
+    "def": "fragile; easily damaged",
     "vi": "mong manh",
     "viDef": "dễ vỡ, dễ bị hư"
   },
   {
     "word": "complaint",
     "ipa": "kəmˈpleɪnt",
+    "type": "",
+    "def": "an expression of discontent",
     "vi": "lời khiếu nại",
     "viDef": "sự bày tỏ điều không hài lòng"
   },
   {
     "word": "invoice",
     "ipa": "ˈɪnvɔɪs",
+    "type": "",
+    "def": "a document issued by a seller to a buyer showing the goods or services supplied and money due",
     "vi": "hóa đơn bán hàng",
     "viDef": "chứng từ bên bán lập cho bên mua, ghi rõ hàng hóa hoặc dịch vụ đã cấp và số tiền phải trả"
   },
   {
     "word": "policy",
     "ipa": "ˈpɑləsi",
+    "type": "",
+    "def": "a plan of action adopted or pursued by an individual, government, party, business",
     "vi": "chính sách",
     "viDef": "phương hướng hành động mà một cá nhân, nhà nước, tổ chức hoặc doanh nghiệp theo"
   },
   {
     "word": "quality",
     "ipa": "ˈkwɑləti",
+    "type": "",
+    "def": "degree or standard of excellence",
     "vi": "chất lượng",
     "viDef": "mức độ hoặc chuẩn mực tốt"
   },
   {
     "word": "warranty",
     "ipa": "ˈwɔɹənti",
+    "type": "",
+    "def": "guarantee given to the purchaser by the dealer, manufacturer will make repairs or replace defective parts free of charge for a stated period of time.",
     "vi": "giấy bảo hành",
     "viDef": "cam kết bên bán hoặc nhà sản xuất dành cho người mua, sẽ sửa hoặc đổi bộ phận bị lỗi miễn phí trong một thời hạn đã nêu"
   }

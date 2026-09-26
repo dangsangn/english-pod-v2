@@ -2,84 +2,112 @@
   {
     "word": "support",
     "ipa": "səˈpɔɹt",
+    "type": "",
+    "def": "something that holds a person",
     "vi": "sự đỡ chân",
     "viDef": "thứ nâng đỡ cho người ta"
   },
   {
     "word": "strappy sandals",
     "ipa": "ˈstɹæpi ˈsændəlz",
+    "type": "",
+    "def": "a shoe with a bottom part having straps",
     "vi": "xăng-đan quai mảnh",
     "viDef": "giày phần dưới có các dây quai"
   },
   {
     "word": "edgy pump",
     "ipa": "ˈɛdʒi pʌmp",
+    "type": "",
+    "def": "a low-cut low-heeled shoe",
     "vi": "giày cao gót cá tính",
     "viDef": "giày khoét thấp, gót thấp"
   },
   {
     "word": "open-toe shoe",
     "ipa": "ˈoʊpən toʊ ʃu",
+    "type": "",
+    "def": "the shoe with the toes exposed",
     "vi": "giày hở mũi",
     "viDef": "giày để hở các ngón chân"
   },
   {
     "word": "two-inch heel",
     "ipa": "tu ɪntʃ hil",
+    "type": "",
+    "def": "length of the heel is 2 inches",
     "vi": "gót hai inch",
     "viDef": "chiều cao gót là 2 inch"
   },
   {
     "word": "pointed shoe",
     "ipa": "ˈpɔɪntɪd ʃu",
+    "type": "",
+    "def": "the shoe having a narrow top",
     "vi": "giày mũi nhọn",
     "viDef": "giày có phần trên thu hẹp"
   },
   {
     "word": "pinch",
     "ipa": "pɪntʃ",
+    "type": "",
+    "def": "squeeze between the thumb and a finger",
     "vi": "cấn, kẹp đau",
     "viDef": "kẹp giữa ngón cái và ngón khác"
   },
   {
     "word": "insole",
     "ipa": "ˈɪnsoʊl",
+    "type": "",
+    "def": "the inner sole of a shoe",
     "vi": "lót trong",
     "viDef": "lớp đế bên trong của chiếc giày"
   },
   {
     "word": "cut into",
     "ipa": "kʌt ˈɪntu",
+    "type": "",
+    "def": "tight and hurt the body with a sharp thing",
     "vi": "cấn vào da",
     "viDef": "chật quá làm đau người bởi chỗ sắc"
   },
   {
     "word": "snug",
     "ipa": "snʌɡ",
+    "type": "",
+    "def": "fitting closely",
     "vi": "vừa khít",
     "viDef": "ôm sát người"
   },
   {
     "word": "loose",
     "ipa": "lus",
+    "type": "",
+    "def": "not fitting closely or tightly",
     "vi": "rộng thùng thình",
     "viDef": "không ôm sát hay chật"
   },
   {
     "word": "the (next) size up",
     "ipa": "ðə nɛkst saɪz ʌp",
+    "type": "",
+    "def": "one size bigger",
     "vi": "cỡ lớn hơn một số",
     "viDef": "cỡ to hơn một bậc"
   },
   {
     "word": "the (next) size down",
     "ipa": "ðə nɛkst saɪz daʊn",
+    "type": "",
+    "def": "one size smaller",
     "vi": "cỡ nhỏ hơn một số",
     "viDef": "cỡ nhỏ hơn một bậc"
   },
   {
     "word": "break in",
     "ipa": "bɹeɪk ɪn",
+    "type": "",
+    "def": "to wear or use in order to make comfortable",
     "vi": "đi cho giãn",
     "viDef": "mặc hoặc dùng cho quen chân, êm hơn"
   }

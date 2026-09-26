@@ -2,72 +2,96 @@
   {
     "word": "go to sleep",
     "ipa": "ɡoʊ tu slip",
+    "type": "",
+    "def": "fall asleep",
     "vi": "đi vào giấc",
     "viDef": "ngủ được"
   },
   {
     "word": "sedative",
     "ipa": "ˈsɛdətɪv",
+    "type": "",
+    "def": "a drug that calms or relaxes someone",
     "vi": "thuốc an thần",
     "viDef": "thuốc làm cho dịu hoặc thư giãn"
   },
   {
     "word": "nightmare",
     "ipa": "ˈnaɪtmɛɹ",
+    "type": "",
+    "def": "a dream that cause horror",
     "vi": "cơn ác mộng",
     "viDef": "giấc mơ gây kinh hoàng"
   },
   {
     "word": "sleeping pattern",
     "ipa": "ˈslipɪŋ ˈpætɚn",
+    "type": "",
+    "def": "the regular time of sleeping",
     "vi": "nếp ngủ",
     "viDef": "giờ ngủ đều đặn"
   },
   {
     "word": "do the trick",
     "ipa": "du ðə tɹɪk",
+    "type": "",
+    "def": "accomplish the desired task",
     "vi": "thế là xong việc",
     "viDef": "đạt được điều mình muốn"
   },
   {
     "word": "sleeping disorder",
     "ipa": "ˈslipɪŋ dɪˈsɔɹdɚ",
+    "type": "",
+    "def": "people who have a medical disorder of the sleep",
     "vi": "rối loạn giấc ngủ",
     "viDef": "người mắc bệnh về giấc ngủ"
   },
   {
     "word": "get to sleep",
     "ipa": "ɡɛt tu slip",
+    "type": "",
+    "def": "fall asleep",
     "vi": "ngủ được",
     "viDef": "chìm vào giấc"
   },
   {
     "word": "sleeping pills",
     "ipa": "ˈslipɪŋ pɪlz",
+    "type": "",
+    "def": "medication used to help you fall asleep",
     "vi": "thuốc ngủ",
     "viDef": "thuốc dùng để dễ vào giấc"
   },
   {
     "word": "night terrors",
     "ipa": "naɪt ˈtɛɹɚz",
+    "type": "",
+    "def": "severe nightmares",
     "vi": "hoảng sợ ban đêm",
     "viDef": "những cơn ác mộng dữ dội"
   },
   {
     "word": "sleep apnea",
     "ipa": "slip ˈæpniə",
+    "type": "",
+    "def": "a sleep disorder where the breathing is irregular",
     "vi": "ngưng thở khi ngủ",
     "viDef": "chứng rối loạn khiến hơi thở lúc ngủ không đều"
   },
   {
     "word": "REM cycle",
     "ipa": "ɹɛm ˈsaɪkəl",
+    "type": "",
+    "def": "the sleeping cycle",
     "vi": "chu kỳ REM",
     "viDef": "chu kỳ của giấc ngủ"
   },
   {
     "word": "sleep deprivation",
     "ipa": "slip ˌdɛpɹəˈveɪʃən",
+    "type": "",
+    "def": "to go without sleep for a long period of time",
     "vi": "thiếu ngủ",
     "viDef": "việc phải sống không ngủ trong thời gian dài"
   }

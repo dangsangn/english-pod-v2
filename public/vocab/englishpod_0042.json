@@ -2,84 +2,112 @@
   {
     "word": "press kit",
     "ipa": "pɹɛs kɪt",
+    "type": "common noun, singular",
+    "def": "group of photos, documents, articles, and information about a company given to reporters, newspapers, magazines, etc.",
     "vi": "bộ tài liệu báo chí",
     "viDef": "tập ảnh, văn bản, bài viết và thông tin về công ty phát cho báo chí"
   },
   {
     "word": "I've been meaning to",
     "ipa": "aɪv bɪn ˈminɪŋ tu",
+    "type": "verb",
+    "def": "intend, plan to do something",
     "vi": "tôi vẫn định...",
     "viDef": "có ý, dự tính làm việc gì"
   },
   {
     "word": "extension",
     "ipa": "ɪkˈstɛnʃən",
+    "type": "common noun, singular",
+    "def": "make a deadline longer, extra time to do something",
     "vi": "gia hạn",
     "viDef": "nới hạn chót, thêm thời gian để làm"
   },
   {
     "word": "deadline",
     "ipa": "ˈdɛdlaɪn",
+    "type": "common noun, singular",
+    "def": "the date when something must be finished",
     "vi": "hạn chót",
     "viDef": "ngày phải hoàn thành"
   },
   {
     "word": "finalize",
     "ipa": "ˈfaɪnəˌlaɪz",
+    "type": "verb",
+    "def": "finish, decide on all the details",
     "vi": "chốt lại",
     "viDef": "làm xong, quyết hết các chi tiết"
   },
   {
     "word": "delay",
     "ipa": "dɪˈleɪ",
+    "type": "verb",
+    "def": "late",
     "vi": "trễ, chậm",
     "viDef": "muộn"
   },
   {
     "word": "run into",
     "ipa": "ɹʌn ˈɪntu",
+    "type": "phrase",
+    "def": "meet or encounter",
     "vi": "gặp phải",
     "viDef": "tình cờ gặp hoặc vướng phải"
   },
   {
     "word": "beyond someone's control",
     "ipa": "bɪˈɑnd ˈsʌmwʌnz kənˈtɹoʊl",
+    "type": "phrase",
+    "def": "not able to control something",
     "vi": "ngoài tầm kiểm soát",
     "viDef": "không kiểm soát được"
   },
   {
     "word": "put (something) off",
     "ipa": "pʊt ˈsʌmθɪŋ ɔf",
+    "type": "verb",
+    "def": "plan to do something later",
     "vi": "hoãn lại",
     "viDef": "định để sau mới làm"
   },
   {
     "word": "due",
     "ipa": "du",
+    "type": "Adjective",
+    "def": "the date when something must be finished or happen",
     "vi": "đến hạn",
     "viDef": "ngày phải xong hoặc phải diễn ra"
   },
   {
     "word": "procrastinate",
     "ipa": "pɹəˈkɹæstəˌneɪt",
+    "type": "verb",
+    "def": "not do something now that should be done; do something later procrastinate",
     "vi": "chần chừ",
     "viDef": "việc đáng làm ngay thì không làm mà để lại sau"
   },
   {
     "word": "behind",
     "ipa": "bɪˈhaɪnd",
+    "type": "Adjective",
+    "def": "late with a project or things you have to do",
     "vi": "trễ tiến độ",
     "viDef": "chậm so với công việc phải làm"
   },
   {
     "word": "hold up",
     "ipa": "hoʊld ʌp",
+    "type": "phrase",
+    "def": "delay or slow something",
     "vi": "làm chậm lại",
     "viDef": "gây trì hoãn hoặc làm chậm việc gì"
   },
   {
     "word": "tight deadline",
     "ipa": "taɪt ˈdɛdlaɪn",
+    "type": "phrase",
+    "def": "a deadline that is really difficult to meet",
     "vi": "hạn gấp",
     "viDef": "hạn chót rất khó kịp"
   }

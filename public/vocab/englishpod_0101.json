@@ -2,120 +2,160 @@
   {
     "word": "right on",
     "ipa": "ɹaɪt ɑn",
+    "type": "phrase",
+    "def": "used to say that something that makes sense",
     "vi": "đúng thế",
     "viDef": "câu tán đồng khi thấy điều gì hợp lý"
   },
   {
     "word": "how is it hanging",
     "ipa": "haʊ ɪz ɪt ˈhæŋɪŋ",
+    "type": "phrase",
+    "def": "how's it going, how are you",
     "vi": "dạo này sao rồi",
     "viDef": "bạn thế nào"
   },
   {
     "word": "groovy",
     "ipa": "ˈɡɹuvi",
+    "type": "Adjective",
+    "def": "cool, excellent, enjoyable",
     "vi": "bắt tai",
     "viDef": "ngầu, tuyệt, thú vị"
   },
   {
     "word": "roller rink",
     "ipa": "ˈɹoʊlɚ ɹɪŋk",
+    "type": "common noun, singular",
+    "def": "an enclosed place for roller skating",
     "vi": "sân trượt patin",
     "viDef": "nơi có mái để trượt bánh xe"
   },
   {
     "word": "far out",
     "ipa": "fɑɹ aʊt",
+    "type": "Adjective",
+    "def": "the latest, cool",
     "vi": "xịn hết cỡ",
     "viDef": "mới nhất, ngầu"
   },
   {
     "word": "foxy",
     "ipa": "ˈfɑksi",
+    "type": "Adjective",
+    "def": "sexy, attractive",
     "vi": "bốc lửa",
     "viDef": "quyến rũ, hấp dẫn"
   },
   {
     "word": "block",
     "ipa": "blɑk",
+    "type": "common noun, singular",
+    "def": "part of a neighborhood surrounded by four streets",
     "vi": "khu phố",
     "viDef": "phần khu dân cư nằm giữa bốn con đường"
   },
   {
     "word": "chat (someone) up",
     "ipa": "tʃæt ˈsʌmwʌn ʌp",
+    "type": "verb",
+    "def": "talk informally to a person you're attracted to",
     "vi": "bắt chuyện tán tỉnh",
     "viDef": "nói chuyện suồng sã với người mình để ý"
   },
   {
     "word": "mellow out",
     "ipa": "ˈmɛloʊ aʊt",
+    "type": "verb",
+    "def": "relax",
     "vi": "dịu lại",
     "viDef": "thư giãn"
   },
   {
     "word": "bread",
     "ipa": "bɹɛd",
+    "type": "common noun, non-variable",
+    "def": "money (informal and old fashioned)",
     "vi": "tiền",
     "viDef": "tiền (cách nói thân mật, xưa)"
   },
   {
     "word": "gravy",
     "ipa": "ˈɡɹeɪvi",
+    "type": "Adjective",
+    "def": "alright, cool",
     "vi": "ổn cả",
     "viDef": "được, ngon"
   },
   {
     "word": "jive turkey",
     "ipa": "dʒaɪv ˈtɝki",
+    "type": "common noun, singular",
+    "def": "a person who is unreliable or irresponsible",
     "vi": "tay không đáng tin",
     "viDef": "người thiếu tin cậy, không có trách nhiệm"
   },
   {
     "word": "hit someone up for",
     "ipa": "hɪt ˈsʌmwʌn ʌp fɔɹ",
+    "type": "phrase",
+    "def": "ask someone for money",
     "vi": "xin tiền ai",
     "viDef": "hỏi ai vay hoặc cho tiền"
   },
   {
     "word": "book",
     "ipa": "bʊk",
+    "type": "verb",
+    "def": "leave quickly",
     "vi": "dông cho lẹ",
     "viDef": "rời đi nhanh"
   },
   {
     "word": "grub",
     "ipa": "ɡɹʌb",
+    "type": "common noun, non-variable",
+    "def": "food (informal)",
     "vi": "đồ ăn",
     "viDef": "thức ăn (thân mật)"
   },
   {
     "word": "Disco",
     "ipa": "ˈdɪskoʊ",
+    "type": "common noun, singular",
+    "def": "popular dance music, especially of the late 1970s",
     "vi": "nhạc disco",
     "viDef": "nhạc nhảy thịnh hành, nhất là cuối thập niên 1970"
   },
   {
     "word": "crib",
     "ipa": "kɹɪb",
+    "type": "common noun, singular",
+    "def": "house",
     "vi": "nhà",
     "viDef": "chỗ ở"
   },
   {
     "word": "gig",
     "ipa": "ɡɪɡ",
+    "type": "common noun, singular",
+    "def": "a performance especially by a band",
     "vi": "buổi diễn",
     "viDef": "sô diễn, nhất là của một nhóm nhạc"
   },
   {
     "word": "the man",
     "ipa": "ðə mæn",
+    "type": "phrase",
+    "def": "an authority figure, like the boss or government",
     "vi": "bên trên",
     "viDef": "người có quyền, như cấp trên hoặc chính quyền"
   },
   {
     "word": "bummer",
     "ipa": "ˈbʌmɚ",
+    "type": "",
+    "def": "a negative situation",
     "vi": "chuyện chán",
     "viDef": "tình huống tệ"
   }

@@ -2,84 +2,112 @@
   {
     "word": "CRM",
     "ipa": "ˈsiˈɑˈɹɛm",
+    "type": "common noun, singular",
+    "def": "processes, services, technology, and people used to attract and keep customers",
     "vi": "quản trị quan hệ khách hàng",
     "viDef": "quy trình, dịch vụ, công nghệ và con người dùng để thu hút và giữ khách"
   },
   {
     "word": "custom",
     "ipa": "ˈkʌstəm",
+    "type": "Adjective",
+    "def": "specially made to fit the needs of a person or organization",
     "vi": "làm theo yêu cầu riêng",
     "viDef": "được làm riêng cho nhu cầu của một người hoặc tổ chức"
   },
   {
     "word": "core values",
     "ipa": "kɔɹ ˈvæljuz",
+    "type": "common noun, plural",
+    "def": "most important beliefs",
     "vi": "giá trị cốt lõi",
     "viDef": "những điều tin tưởng quan trọng nhất"
   },
   {
     "word": "growth opportunity",
     "ipa": "ɡɹoʊθ ˌɑpɚˈtunəti",
+    "type": "phrase",
+    "def": "chance to gain new skills",
     "vi": "cơ hội phát triển",
     "viDef": "dịp học thêm kỹ năng mới"
   },
   {
     "word": "industry leader",
     "ipa": "ˈɪndəstɹi ˈlidɚ",
+    "type": "phrase",
+    "def": "being the best in that particular field or industry",
     "vi": "dẫn đầu ngành",
     "viDef": "đứng nhất trong lĩnh vực đó"
   },
   {
     "word": "undisputed",
     "ipa": "ˌʌndɪˈspjutɪd",
+    "type": "Adjective",
+    "def": "definitely true, not doubted",
     "vi": "không ai bàn cãi",
     "viDef": "đúng hẳn, không ai nghi ngờ"
   },
   {
     "word": "read up",
     "ipa": "ɹɛd ʌp",
+    "type": "verb",
+    "def": "read to gain the most recent information on a subject",
     "vi": "đọc tìm hiểu",
     "viDef": "đọc để nắm thông tin mới nhất về một đề tài"
   },
   {
     "word": "unleash",
     "ipa": "ənˈliʃ",
+    "type": "verb",
+    "def": "release; allow something to happen",
     "vi": "giải phóng, tung ra",
     "viDef": "thả ra, để điều gì diễn ra"
   },
   {
     "word": "resonate",
     "ipa": "ˈɹɛzəˌneɪt",
+    "type": "verb",
+    "def": "have a special meaning or importance for someone",
     "vi": "gây đồng cảm",
     "viDef": "có ý nghĩa riêng, đánh trúng lòng ai"
   },
   {
     "word": "integrated solutions",
     "ipa": "ˈɪntəˌɡɹeɪtəd səˈluʃənz",
+    "type": "phrase",
+    "def": "combine things to find a plan or a way to deal with a problem (esp. in business)",
     "vi": "giải pháp tích hợp",
     "viDef": "gộp nhiều thứ lại thành cách xử lý một vấn đề (nhất là trong kinh doanh)"
   },
   {
     "word": "competitive advantage",
     "ipa": "kəmˈpɛtətɪv ædˈvæntɪdʒ",
+    "type": "phrase",
+    "def": "something that places a company above the competition",
     "vi": "lợi thế cạnh tranh",
     "viDef": "thứ giúp công ty vượt lên đối thủ"
   },
   {
     "word": "optimize",
     "ipa": "ˈɑptəˌmaɪz",
+    "type": "verb",
+    "def": "make something as effective as possible",
     "vi": "tối ưu hóa",
     "viDef": "làm cho hiệu quả nhất có thể"
   },
   {
     "word": "align",
     "ipa": "əˈlaɪn",
+    "type": "verb",
+    "def": "join a group in supporting something",
     "vi": "đồng hành, gắn kết",
     "viDef": "cùng nhóm ủng hộ một điều gì"
   },
   {
     "word": "platform",
     "ipa": "ˈplætfɔɹm",
+    "type": "common noun, singular",
+    "def": "a program that tells a computer how to work",
     "vi": "nền tảng",
     "viDef": "chương trình chỉ cho máy tính cách hoạt động"
   }

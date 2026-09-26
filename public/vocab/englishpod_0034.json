@@ -2,96 +2,128 @@
   {
     "word": "deliver",
     "ipa": "dɪˈlɪvɚ",
+    "type": "verb",
+    "def": "give information by speaking; say something officially",
     "vi": "đọc, phát biểu",
     "viDef": "nói ra thông tin; phát ngôn chính thức"
   },
   {
     "word": "swear in",
     "ipa": "swɛɹ ɪn",
+    "type": "verb",
+    "def": "place someone in a new position by holding an official ceremony where he promises to do the job well",
     "vi": "làm lễ tuyên thệ",
     "viDef": "nhận chức qua buổi lễ chính thức có lời thề làm tốt nhiệm vụ"
   },
   {
     "word": "oath",
     "ipa": "oʊθ",
+    "type": "common noun, singular",
+    "def": "official, serious promise",
     "vi": "lời thề",
     "viDef": "lời hứa trang trọng, chính thức"
   },
   {
     "word": "who's who",
     "ipa": "huz hu",
+    "type": "phrase",
+    "def": "important and famous people in a particular industry",
     "vi": "toàn nhân vật tên tuổi",
     "viDef": "những người quan trọng và nổi tiếng trong một giới"
   },
   {
     "word": "dignitary",
     "ipa": "ˈdɪɡnəˌtɛɹi",
+    "type": "common noun, plural",
+    "def": "person with a high rank or position, especially in government or religion",
     "vi": "quan chức cấp cao",
     "viDef": "người có địa vị cao, nhất là trong chính quyền hoặc tôn giáo"
   },
   {
     "word": "palpable",
     "ipa": "ˈpælpəbəl",
+    "type": "Adjective",
+    "def": "so strong you can feel it, obvious",
     "vi": "cảm nhận rõ rệt",
     "viDef": "mạnh đến mức cảm thấy được, rõ mồn một"
   },
   {
     "word": "in a word",
     "ipa": "ɪn ə wɝd",
+    "type": "phrase",
+    "def": "to describe something in one word",
     "vi": "nói gọn một chữ",
     "viDef": "diễn tả điều gì bằng đúng một từ"
   },
   {
     "word": "fellow",
     "ipa": "ˈfɛloʊ",
+    "type": "Adjective",
+    "def": "used to describe people of the same group",
     "vi": "đồng bào, cùng hội",
     "viDef": "chỉ những người cùng một nhóm"
   },
   {
     "word": "go down in history",
     "ipa": "ɡoʊ daʊn ɪn ˈhɪstɚi",
+    "type": "phrase",
+    "def": "be remembered",
     "vi": "đi vào lịch sử",
     "viDef": "được người sau ghi nhớ"
   },
   {
     "word": "ceremony",
     "ipa": "ˈsɛɹəˌmoʊni",
+    "type": "common noun, singular",
+    "def": "activity or action that are the official part of a formal official state or social occasion",
     "vi": "buổi lễ",
     "viDef": "phần nghi thức chính thức của một dịp trọng đại"
   },
   {
     "word": "festivities",
     "ipa": "fɛˈstɪvətiz",
+    "type": "common noun, non-variable",
+    "def": "celebration, enjoyment, and happiness",
     "vi": "không khí lễ hội",
     "viDef": "sự chúc tụng, vui vẻ, náo nhiệt"
   },
   {
     "word": "president-elect",
     "ipa": "ˈpɹɛzəˌdɛnt ɪˈlɛkt",
+    "type": "common noun, singular",
+    "def": "a person who has been voted president, but not yet officially made president",
     "vi": "tổng thống đắc cử",
     "viDef": "người đã được bầu làm tổng thống nhưng chưa nhận chức"
   },
   {
     "word": "parade",
     "ipa": "pɚˈeɪd",
+    "type": "common noun, singular",
+    "def": "a public celebration of an event where many people move down a street in groups or on vehicles; usually involves a marching band",
     "vi": "cuộc diễu hành",
     "viDef": "lễ mừng ngoài đường, người đi thành đoàn hoặc trên xe, thường có đội kèn"
   },
   {
     "word": "term",
     "ipa": "tɝm",
+    "type": "common noun, singular",
+    "def": "time allowed for one person to remain President after one election; in America a presidential term is four years",
     "vi": "nhiệm kỳ",
     "viDef": "thời gian giữ chức tổng thống sau một lần bầu; ở Mỹ là bốn năm"
   },
   {
     "word": "affirmation",
     "ipa": "ˌæfɚˈmeɪʃən",
+    "type": "common noun, singular",
+    "def": "a show of agreement or dedication",
     "vi": "sự khẳng định",
     "viDef": "biểu thị sự đồng thuận hoặc cam kết"
   },
   {
     "word": "inaugural luncheon",
     "ipa": "ˌɪˈnɔɡɚəl ˈlʌntʃən",
+    "type": "phrase",
+    "def": "formal lunch celebrating the inauguration",
     "vi": "tiệc trưa nhậm chức",
     "viDef": "bữa trưa trang trọng mừng lễ nhậm chức"
   }

@@ -2,78 +2,104 @@
   {
     "word": "accurate",
     "ipa": "ˈækjɚət",
+    "type": "Adjective",
+    "def": "having no mistakes or errors",
     "vi": "chính xác",
     "viDef": "không có sai sót"
   },
   {
     "word": "conceived",
     "ipa": "kənˈsivd",
+    "type": "principle verb, past simple",
+    "def": "be created",
     "vi": "được thụ thai",
     "viDef": "được tạo ra"
   },
   {
     "word": "due date",
     "ipa": "du deɪt",
+    "type": "phrase",
+    "def": "date when the doctor thinks the baby will be born",
     "vi": "ngày dự sinh",
     "viDef": "ngày bác sĩ cho là em bé sẽ ra đời"
   },
   {
     "word": "everything seems to be in order",
     "ipa": "ˈɛvɹiˌθɪŋ simz tu bi ɪn ˈɔɹdɚ",
+    "type": "phrase",
+    "def": "everything is okay, everything is normal",
     "vi": "mọi thứ đều ổn cả",
     "viDef": "không có gì bất thường"
   },
   {
     "word": "first thing in the morning",
     "ipa": "fɝst θɪŋ ɪn ðə ˈmɔɹnɪŋ",
+    "type": "phrase",
+    "def": "early in the morning",
     "vi": "sáng sớm, việc đầu tiên trong ngày",
     "viDef": "vào lúc sáng sớm"
   },
   {
     "word": "break",
     "ipa": "bɹeɪk",
+    "type": "common noun, singular",
+    "def": "temporary stop in a romantic relationship",
     "vi": "thời gian tạm xa nhau",
     "viDef": "tạm ngưng chuyện tình cảm một thời gian"
   },
   {
     "word": "in the middle of nowhere",
     "ipa": "ɪn ðə ˈmɪdəl ʌv ˈnoʊwɛɹ",
+    "type": "phrase",
+    "def": "far from a city or town",
     "vi": "giữa nơi đồng không mông quạnh",
     "viDef": "xa thành phố hay thị trấn"
   },
   {
     "word": "blaze",
     "ipa": "bleɪz",
+    "type": "common noun, singular",
+    "def": "a large, strong, dangerous fire",
     "vi": "đám cháy lớn",
     "viDef": "ngọn lửa lớn, mạnh, nguy hiểm"
   },
   {
     "word": "firefighter",
     "ipa": "ˈfaɪɹˌfaɪtɚ",
+    "type": "common noun, singular",
+    "def": "a person whose job is to put out fires (male or female)",
     "vi": "lính cứu hỏa",
     "viDef": "người làm nghề dập lửa (nam hay nữ)"
   },
   {
     "word": "the boonies",
     "ipa": "ðə ˈbuniz",
+    "type": "phrase",
+    "def": "a place far from cities or towns (informal)",
     "vi": "vùng khỉ ho cò gáy",
     "viDef": "nơi cách xa phố thị (thân mật)"
   },
   {
     "word": "first thing in the afternoon",
     "ipa": "fɝst θɪŋ ɪn ðə ˌæftɚˈnun",
+    "type": "phrase",
+    "def": "early in the afternoon, before anything else",
     "vi": "đầu giờ chiều",
     "viDef": "ngay lúc chiều mới bắt đầu, trước mọi việc khác"
   },
   {
     "word": "pregnancy test",
     "ipa": "ˈpɹɛɡnənsi tɛst",
+    "type": "common noun, singular",
+    "def": "a medical test done to see if a woman is pregnant",
     "vi": "que thử thai",
     "viDef": "xét nghiệm xem người phụ nữ có mang thai không"
   },
   {
     "word": "check-up",
     "ipa": "tʃɛk ʌp",
+    "type": "common noun, singular",
+    "def": "an appointment to see the doctor to make sure the person is healthy",
     "vi": "buổi kiểm tra sức khỏe",
     "viDef": "hẹn gặp bác sĩ để xem sức khỏe có ổn không"
   }

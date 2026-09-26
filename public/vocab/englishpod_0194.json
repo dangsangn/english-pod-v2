@@ -2,192 +2,256 @@
   {
     "word": "bite-sized",
     "ipa": "baɪt saɪzd",
+    "type": "",
+    "def": "you can eat it with one bite",
     "vi": "cỡ một miếng",
     "viDef": "nhỏ vừa đủ ăn một lần"
   },
   {
     "word": "soy",
     "ipa": "sɔɪ",
+    "type": "",
+    "def": "a source of oil and is eaten as food",
     "vi": "đậu nành",
     "viDef": "nguồn dầu và cũng dùng làm thức ăn"
   },
   {
     "word": "oyster",
     "ipa": "ˈɔɪstɚ",
+    "type": "",
+    "def": "a large flat shelfish",
     "vi": "con hàu",
     "viDef": "loài hải sản có vỏ dẹt lớn"
   },
   {
     "word": "wilted",
     "ipa": "ˈwɪltɪd",
+    "type": "",
+    "def": "dying",
     "vi": "héo rũ",
     "viDef": "đang tàn"
   },
   {
     "word": "bean",
     "ipa": "bin",
+    "type": "",
+    "def": "the seed of a climbing plant",
     "vi": "hạt đậu",
     "viDef": "hạt của loài cây leo"
   },
   {
     "word": "sprout",
     "ipa": "spɹaʊt",
+    "type": "",
+    "def": "a new growth on a plant",
     "vi": "mầm",
     "viDef": "phần non mới nhú trên cây"
   },
   {
     "word": "hearty",
     "ipa": "ˈhɑɹti",
+    "type": "",
+    "def": "large(used for meals)",
     "vi": "thịnh soạn",
     "viDef": "nhiều, đầy đặn (nói về bữa ăn)"
   },
   {
     "word": "chunk",
     "ipa": "tʃʌŋk",
+    "type": "",
+    "def": "a solid piece or lump",
     "vi": "khúc, tảng",
     "viDef": "miếng đặc hoặc cục"
   },
   {
     "word": "sliver",
     "ipa": "ˈslɪvɚ",
+    "type": "",
+    "def": "small thin sharp pieces",
     "vi": "sợi mỏng",
     "viDef": "những mảnh nhỏ, mỏng và sắc"
   },
   {
     "word": "bell pepper",
     "ipa": "bɛl ˈpɛpɚ",
+    "type": "",
+    "def": "a kind of pepper, with hot-tasting",
     "vi": "ớt ngọt",
     "viDef": "một loại ớt, có vị nồng"
   },
   {
     "word": "wok",
     "ipa": "wɑk",
+    "type": "",
+    "def": "a large metal Chinese cooking pot",
     "vi": "cái chảo lớn",
     "viDef": "chảo kim loại to kiểu Trung Quốc"
   },
   {
     "word": "be equivalent to",
     "ipa": "bi ɪˈkwɪvələnt tu",
+    "type": "",
+    "def": "equal to",
     "vi": "tương đương với",
     "viDef": "bằng với"
   },
   {
     "word": "fajita",
     "ipa": "fəˈdʒitə",
+    "type": "",
+    "def": "a Mexican meal consists of chicken and vegetables",
     "vi": "món fajita",
     "viDef": "món Mexico gồm thịt gà và rau"
   },
   {
     "word": "bite-sized",
     "ipa": "baɪt saɪzd",
+    "type": "",
+    "def": "you can eat it with one bite",
     "vi": "cỡ một miếng",
     "viDef": "nhỏ vừa đủ ăn một lần"
   },
   {
     "word": "soy",
     "ipa": "sɔɪ",
+    "type": "",
+    "def": "a source of oil and is eaten as food",
     "vi": "đậu nành",
     "viDef": "nguồn dầu và cũng dùng làm thức ăn"
   },
   {
     "word": "oyster",
     "ipa": "ˈɔɪstɚ",
+    "type": "",
+    "def": "a large flat shelfish",
     "vi": "con hàu",
     "viDef": "loài hải sản có vỏ dẹt lớn"
   },
   {
     "word": "wilted",
     "ipa": "ˈwɪltɪd",
+    "type": "",
+    "def": "dying",
     "vi": "héo rũ",
     "viDef": "đang tàn"
   },
   {
     "word": "bean sprout",
     "ipa": "bin spɹaʊt",
+    "type": "",
+    "def": "the sprout of beans, eaten as a vegetable",
     "vi": "giá đỗ",
     "viDef": "mầm đậu, dùng như rau"
   },
   {
     "word": "hearty",
     "ipa": "ˈhɑɹti",
+    "type": "",
+    "def": "large(used for meals)",
     "vi": "thịnh soạn",
     "viDef": "nhiều, đầy đặn (nói về bữa ăn)"
   },
   {
     "word": "chunk",
     "ipa": "tʃʌŋk",
+    "type": "",
+    "def": "a solid piece or lump",
     "vi": "khúc, tảng",
     "viDef": "miếng đặc hoặc cục"
   },
   {
     "word": "sliver",
     "ipa": "ˈslɪvɚ",
+    "type": "",
+    "def": "small thin sharp pieces",
     "vi": "sợi mỏng",
     "viDef": "những mảnh nhỏ, mỏng và sắc"
   },
   {
     "word": "bell pepper",
     "ipa": "bɛl ˈpɛpɚ",
+    "type": "",
+    "def": "large bell-shaped sweet pepper in green or red or",
     "vi": "ớt chuông",
     "viDef": "quả ớt to hình chuông, vị ngọt, màu xanh hoặc đỏ"
   },
   {
     "word": "wok",
     "ipa": "wɑk",
+    "type": "",
+    "def": "a large metal Chinese cooking pot",
     "vi": "cái chảo lớn",
     "viDef": "chảo kim loại to kiểu Trung Quốc"
   },
   {
     "word": "be equivalent to",
     "ipa": "bi ɪˈkwɪvələnt tu",
+    "type": "",
+    "def": "equal to",
     "vi": "tương đương với",
     "viDef": "bằng với"
   },
   {
     "word": "fajita",
     "ipa": "fəˈdʒitə",
+    "type": "",
+    "def": "a Mexican meal consists of chicken and vegetables",
     "vi": "món fajita",
     "viDef": "món Mexico gồm thịt gà và rau"
   },
   {
     "word": "throw in",
     "ipa": "θɹoʊ ɪn",
+    "type": "",
+    "def": "action of adding something",
     "vi": "cho thêm vào",
     "viDef": "động tác bỏ thêm thứ gì vào"
   },
   {
     "word": "die for",
     "ipa": "daɪ fɔɹ",
+    "type": "",
+    "def": "extremely desirable",
     "vi": "ngon chết đi được",
     "viDef": "hấp dẫn đến mê mẩn"
   },
   {
     "word": "disgrace",
     "ipa": "dɪsˈɡɹeɪs",
+    "type": "",
+    "def": "shame, loss of reputation or dishonour",
     "vi": "sự nhục nhã",
     "viDef": "điều làm mất mặt, mất danh"
   },
   {
     "word": "Chop suey",
     "ipa": "tʃɑp ˈsui",
+    "type": "",
+    "def": "American-Chinese dish consisting of meats cooked quickly with vegetables and bound in a starch-thickened sauce",
     "vi": "món chop suey",
     "viDef": "món Mỹ-Trung gồm thịt xào nhanh với rau, sốt sánh bằng bột"
   },
   {
     "word": "Kung Pow Chicken",
     "ipa": "kʌŋ paʊ ˈtʃɪkən",
+    "type": "",
+    "def": "Chinese dish made with peanuts and marinated with chilli peppers",
     "vi": "gà Kung Pao",
     "viDef": "món Trung Quốc làm với đậu phộng, ướp cùng ớt"
   },
   {
     "word": "Fortune Cookie",
     "ipa": "ˈfɔɹtʃən ˈkʊki",
+    "type": "",
+    "def": "",
     "vi": "bánh quy may mắn",
     "viDef": "bánh giòn có mẩu giấy ghi lời tiên đoán bên trong"
   },
   {
     "word": "Chow Mein",
     "ipa": "tʃaʊ min",
+    "type": "",
+    "def": "",
     "vi": "mì xào chow mein",
     "viDef": "món mì xào kiểu Trung Quốc"
   }

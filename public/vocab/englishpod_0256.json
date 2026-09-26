@@ -2,60 +2,80 @@
   {
     "word": "remuneration package",
     "ipa": "ɹɪˌmjunɚˈeɪʃən ˈpækədʒ",
+    "type": "",
+    "def": "money and benefits given to someone for the work",
     "vi": "gói lương thưởng",
     "viDef": "tiền và các quyền lợi trả cho người làm việc"
   },
   {
     "word": "per annum",
     "ipa": "pɝ ˈænəm",
+    "type": "",
+    "def": "each year",
     "vi": "mỗi năm",
     "viDef": "tính theo từng năm"
   },
   {
     "word": "housing allowance",
     "ipa": "ˈhaʊzɪŋ əˈlaʊəns",
+    "type": "",
+    "def": "money that a company provides for rent of a house",
     "vi": "phụ cấp nhà ở",
     "viDef": "khoản công ty chi để thuê nhà"
   },
   {
     "word": "flexible",
     "ipa": "ˈflɛksəbəl",
+    "type": "",
+    "def": "able to change or to do different things",
     "vi": "linh động",
     "viDef": "có thể đổi hoặc làm nhiều việc khác nhau"
   },
   {
     "word": "go through",
     "ipa": "ɡoʊ θɹu",
+    "type": "",
+    "def": "to study or look at (something) in a careful way",
     "vi": "xem lại từng phần",
     "viDef": "nghiên cứu hoặc soi thứ gì thật cẩn thận"
   },
   {
     "word": "Gross",
     "ipa": "ɡɹoʊs",
+    "type": "",
+    "def": "Overall sum excluding tax and any deductions",
     "vi": "tổng gộp",
     "viDef": "tổng số chưa trừ thuế và các khoản khấu"
   },
   {
     "word": "Net",
     "ipa": "nɛt",
+    "type": "",
+    "def": "Free from all charges or deductions",
     "vi": "thực nhận",
     "viDef": "đã trừ hết mọi khoản phí và khấu"
   },
   {
     "word": "Income Tax",
     "ipa": "ˈɪnkʌm tæks",
+    "type": "",
+    "def": "A tax on the amount of money you earn",
     "vi": "thuế thu nhập",
     "viDef": "thuế tính trên số tiền mình kiếm được"
   },
   {
     "word": "Stock Options",
     "ipa": "stɑk ˈɑpʃənz",
+    "type": "",
+    "def": "A benefit offered by a company to purchase stock for a fixed price",
     "vi": "quyền mua cổ phiếu",
     "viDef": "quyền lợi công ty cho phép mua cổ phiếu ở một giá định trước"
   },
   {
     "word": "Bonus",
     "ipa": "ˈboʊnəs",
+    "type": "",
+    "def": "An additional payment or reward given for good work or performance",
     "vi": "tiền thưởng",
     "viDef": "khoản trả thêm để ghi nhận làm tốt hoặc kết quả tốt"
   }

@@ -2,102 +2,136 @@
   {
     "word": "scratch",
     "ipa": "skɹætʃ",
+    "type": "principle verb, present progressive",
+    "def": "to rub your skin to stop an itch",
     "vi": "gãi",
     "viDef": "chà lên da cho đỡ ngứa"
   },
   {
     "word": "itchy",
     "ipa": "ˈɪtʃi",
+    "type": "Adjective",
+    "def": "an unpleasant feeling on your skin, makes you want to scratch",
     "vi": "ngứa ngáy",
     "viDef": "cảm giác khó chịu trên da, làm muốn gãi"
   },
   {
     "word": "come down with (something)",
     "ipa": "kʌm daʊn wɪð ˈsʌmθɪŋ",
+    "type": "phrase",
+    "def": "to become ill",
     "vi": "nhiễm bệnh",
     "viDef": "bắt đầu đổ bệnh"
   },
   {
     "word": "lightheaded",
     "ipa": "ˌlaɪtˈhɛdəd",
+    "type": "Adjective",
+    "def": "to feel dizzy",
     "vi": "choáng đầu",
     "viDef": "thấy chóng mặt"
   },
   {
     "word": "chicken pox",
     "ipa": "ˈtʃɪkən pɑks",
+    "type": "phrase",
+    "def": "a childhood disease that leaves red spots on the skin",
     "vi": "bệnh thủy đậu",
     "viDef": "bệnh trẻ con để lại các nốt đỏ trên da"
   },
   {
     "word": "contagious",
     "ipa": "kənˈteɪdʒəs",
+    "type": "Adjective",
+    "def": "having a sickness that can be passed to someone else",
     "vi": "lây được",
     "viDef": "mang bệnh có thể truyền sang người khác"
   },
   {
     "word": "rash",
     "ipa": "ɹæʃ",
+    "type": "common noun, singular",
+    "def": "a skin irritation",
     "vi": "nốt mẩn",
     "viDef": "chỗ da bị kích ứng"
   },
   {
     "word": "allergy",
     "ipa": "ˈælɚdʒi",
+    "type": "common noun, singular",
+    "def": "medical condition that causes someone to become sick after eating, touching, or breathing something",
     "vi": "dị ứng",
     "viDef": "tình trạng phát bệnh sau khi ăn, chạm hoặc hít phải thứ gì"
   },
   {
     "word": "in the meantime",
     "ipa": "ɪn ðə ˈmintaɪm",
+    "type": "phrase",
+    "def": "for the present time",
     "vi": "trong lúc đó",
     "viDef": "tạm thời bây giờ"
   },
   {
     "word": "biohazard",
     "ipa": "ˌbaɪoʊˈhæzɚd",
+    "type": "common noun, singular",
+    "def": "a harmful substance",
     "vi": "chất nguy hại sinh học",
     "viDef": "chất gây hại"
   },
   {
     "word": "blow (something) out of proportion",
     "ipa": "bloʊ ˈsʌmθɪŋ aʊt ʌv pɹəˈpɔɹʃən",
+    "type": "phrase",
+    "def": "to make something seem more serious",
     "vi": "thổi phồng",
     "viDef": "làm cho chuyện nghe nghiêm trọng hơn thực tế"
   },
   {
     "word": "in the meantime",
     "ipa": "ɪn ðə ˈmintaɪm",
+    "type": "phrase",
+    "def": "for the present time",
     "vi": "trong lúc đó",
     "viDef": "tạm thời bây giờ"
   },
   {
     "word": "flu",
     "ipa": "flu",
+    "type": "common noun, non-variable",
+    "def": "influenza, a contagious virus",
     "vi": "bệnh cúm",
     "viDef": "influenza, loại virus lây nhiễm"
   },
   {
     "word": "cold",
     "ipa": "koʊld",
+    "type": "common noun, singular",
+    "def": "a contagious common sickness",
     "vi": "cảm lạnh",
     "viDef": "bệnh thường gặp và lây được"
   },
   {
     "word": "fever",
     "ipa": "ˈfivɚ",
+    "type": "common noun, singular",
+    "def": "a high body temperature caused by illness",
     "vi": "sốt",
     "viDef": "nhiệt độ cơ thể tăng cao do bệnh"
   },
   {
     "word": "nauseous",
     "ipa": "ˈnɔʃəs",
+    "type": "Adjective",
+    "def": "feelings of upset stomach and dizziness caused by illness",
     "vi": "buồn nôn",
     "viDef": "cảm giác xót bụng và chóng mặt khi bệnh"
   },
   {
     "word": "allergic",
     "ipa": "əˈlɝdʒɪk",
+    "type": "Adjective",
+    "def": "having allergies to something",
     "vi": "bị dị ứng",
     "viDef": "có phản ứng dị ứng với thứ gì"
   }

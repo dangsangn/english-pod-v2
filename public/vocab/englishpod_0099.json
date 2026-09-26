@@ -2,138 +2,184 @@
   {
     "word": "dare to say",
     "ipa": "dɛɹ tu seɪ",
+    "type": "phrase",
+    "def": "have the confidence to say",
     "vi": "dám nói rằng",
     "viDef": "đủ tự tin để nói ra"
   },
   {
     "word": "rightfully",
     "ipa": "ˈɹaɪtfəli",
+    "type": "General Adverb",
+    "def": "according to law",
     "vi": "một cách chính đáng",
     "viDef": "theo đúng luật"
   },
   {
     "word": "erudite",
     "ipa": "ˈɛɹəˌdaɪt",
+    "type": "Adjective",
+    "def": "having a lot of knowladge; espically gained from studying",
     "vi": "uyên bác",
     "viDef": "có nhiều kiến thức, nhất là do học hành"
   },
   {
     "word": "impression",
     "ipa": "ˌɪmˈpɹɛʃən",
+    "type": "common noun, singular",
+    "def": "the feelings one has after a specific event",
     "vi": "cảm nhận",
     "viDef": "điều mình cảm thấy sau một việc cụ thể"
   },
   {
     "word": "depict",
     "ipa": "dɪˈpɪkt",
+    "type": "",
+    "def": "describe, show, especially in art or pictures",
     "vi": "khắc họa",
     "viDef": "mô tả, thể hiện, nhất là bằng nghệ thuật hay hình ảnh"
   },
   {
     "word": "fable",
     "ipa": "ˈfeɪbəl",
+    "type": "common noun, singular",
+    "def": "beautiful story about animals that has a moral or lesson",
     "vi": "truyện ngụ ngôn",
     "viDef": "câu chuyện hay về loài vật, kèm bài học đạo lý"
   },
   {
     "word": "eternal",
     "ipa": "ɪˈtɝnəl",
+    "type": "Adjective",
+    "def": "lasting forever",
     "vi": "vĩnh cửu",
     "viDef": "còn mãi"
   },
   {
     "word": "accusation",
     "ipa": "ˌækjəˈzeɪʃən",
+    "type": "common noun, plural",
+    "def": "action of caliming something is wrong",
     "vi": "lời cáo buộc",
     "viDef": "việc quy rằng điều gì là sai"
   },
   {
     "word": "plagiarism",
     "ipa": "ˈpleɪdʒɚˌɪzəm",
+    "type": "common noun, non-variable",
+    "def": "practice of copying others' ideas",
     "vi": "sự sao chép ý tưởng",
     "viDef": "việc lấy ý của người khác làm của mình"
   },
   {
     "word": "enchanting",
     "ipa": "ɛnˈtʃæntɪŋ",
+    "type": "Adjective",
+    "def": "attractive, holding one's attention",
     "vi": "mê hoặc",
     "viDef": "hấp dẫn, giữ được sự chú ý"
   },
   {
     "word": "score",
     "ipa": "skɔɹ",
+    "type": "common noun, singular",
+    "def": "written work showing notes of music",
     "vi": "bản nhạc phim",
     "viDef": "văn bản ghi các nốt nhạc"
   },
   {
     "word": "predictable",
     "ipa": "pɹɪˈdɪktəbəl",
+    "type": "Adjective",
+    "def": "easy for others to foresee what is going to happen",
     "vi": "dễ đoán",
     "viDef": "người ta dễ biết trước điều sẽ xảy ra"
   },
   {
     "word": "portrayal",
     "ipa": "pɔɹˈtɹeɪəl",
+    "type": "common noun, singular",
+    "def": "the act of showing or describing somehting, especially in art",
     "vi": "sự thể hiện",
     "viDef": "việc trình bày hoặc mô tả điều gì, nhất là trong nghệ thuật"
   },
   {
     "word": "grim",
     "ipa": "ɡɹɪm",
+    "type": "Adjective",
+    "def": "unpleasant",
     "vi": "u tối",
     "viDef": "không dễ chịu"
   },
   {
     "word": "linear",
     "ipa": "ˈlɪniɚ",
+    "type": "Adjective",
+    "def": "moving in logical way, from start to end",
     "vi": "tuyến tính",
     "viDef": "diễn tiến theo trình tự từ đầu đến cuối"
   },
   {
     "word": "cliche",
     "ipa": "kliˈʃeɪ",
+    "type": "common noun, singular",
+    "def": "something that is too often used so that it loses meaning or importance",
     "vi": "sáo rỗng",
     "viDef": "thứ dùng nhiều quá đến mất ý nghĩa"
   },
   {
     "word": "time-honoured",
     "ipa": "taɪm ˈɑnɚd",
+    "type": "Adjective",
+    "def": "something that survives the testing of time",
     "vi": "bền qua thời gian",
     "viDef": "thứ trụ được qua thử thách của thời gian"
   },
   {
     "word": "soft",
     "ipa": "sɑft",
+    "type": "Adjective",
+    "def": "not critical enough",
     "vi": "nhẹ tay",
     "viDef": "chưa đủ khắt khe"
   },
   {
     "word": "screen play",
     "ipa": "skɹin pleɪ",
+    "type": "common noun, singular",
+    "def": "the written words from a film",
     "vi": "kịch bản phim",
     "viDef": "phần lời được viết ra cho một bộ phim"
   },
   {
     "word": "performance",
     "ipa": "pɚˈfɔɹməns",
+    "type": "common noun, singular",
+    "def": "the activity of an actor in a play",
     "vi": "diễn xuất",
     "viDef": "phần thể hiện của diễn viên"
   },
   {
     "word": "central character",
     "ipa": "ˈsɛntɹəl ˈkɛɹɪktɚ",
+    "type": "common noun, singular",
+    "def": "the main person in a movie",
     "vi": "nhân vật trung tâm",
     "viDef": "người chính trong phim"
   },
   {
     "word": "plot",
     "ipa": "plɑt",
+    "type": "common noun, singular",
+    "def": "story in a movie or book",
     "vi": "cốt truyện",
     "viDef": "mạch chuyện trong phim hoặc sách"
   },
   {
     "word": "cinematography",
     "ipa": "ˌsɪnɪməˈtɑɡɹəfi",
+    "type": "common noun, non-variable",
+    "def": "used to describe the camera work in a movie",
     "vi": "nghệ thuật quay phim",
     "viDef": "nói về phần hình ảnh, máy quay của bộ phim"
   }

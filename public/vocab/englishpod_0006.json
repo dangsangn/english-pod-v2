@@ -2,84 +2,112 @@
   {
     "word": "all ready to go",
     "ipa": "ɔl ˈɹɛdi tu ɡoʊ",
+    "type": "phrase",
+    "def": "prepared, ready to leave",
     "vi": "sẵn sàng lên đường",
     "viDef": "đã chuẩn bị xong, sẵn sàng đi"
   },
   {
     "word": "packed",
     "ipa": "pækt",
+    "type": "Adjective",
+    "def": "full, everything is inside",
     "vi": "đã xếp đồ xong",
     "viDef": "đầy, mọi thứ đã ở bên trong"
   },
   {
     "word": "munchies",
     "ipa": "ˈmʌntʃiz",
+    "type": "common noun, non-variable",
+    "def": "snacks, food",
     "vi": "đồ ăn vặt",
     "viDef": "bánh kẹo, đồ nhấm nháp"
   },
   {
     "word": "fill up the tank",
     "ipa": "fɪl ʌp ðə tæŋk",
+    "type": "phrase",
+    "def": "put gas in the car",
     "vi": "đổ đầy bình xăng",
     "viDef": "bơm xăng cho xe"
   },
   {
     "word": "all set",
     "ipa": "ɔl sɛt",
+    "type": "phrase",
+    "def": "ready",
     "vi": "xong xuôi cả rồi",
     "viDef": "đã sẵn sàng"
   },
   {
     "word": "got all the bases covered",
     "ipa": "ɡɑt ɔl ðə ˈbeɪsəz ˈkʌvɚd",
+    "type": "phrase",
+    "def": "have everything ready",
     "vi": "lo liệu đâu vào đấy",
     "viDef": "đã chuẩn bị mọi thứ chu toàn"
   },
   {
     "word": "get going",
     "ipa": "ɡɛt ˈɡoʊɪŋ",
+    "type": "phrase",
+    "def": "start, leave, depart",
     "vi": "lên đường thôi",
     "viDef": "bắt đầu, khởi hành"
   },
   {
     "word": "road trip",
     "ipa": "ɹoʊd tɹɪp",
+    "type": "phrase",
+    "def": "long car trip",
     "vi": "chuyến đi chơi xa bằng ô tô",
     "viDef": "chuyến đi ô tô đường dài"
   },
   {
     "word": "pit stop",
     "ipa": "pɪt stɑp",
+    "type": "phrase",
+    "def": "quick stop for food or gas",
     "vi": "chặng dừng ngắn",
     "viDef": "dừng nhanh để ăn hoặc đổ xăng"
   },
   {
     "word": "trunk",
     "ipa": "tɹʌŋk",
+    "type": "common noun, singular",
+    "def": "the luggage area of a car",
     "vi": "cốp xe",
     "viDef": "khoang để hành lý của ô tô"
   },
   {
     "word": "passenger",
     "ipa": "ˈpæsəndʒɚ",
+    "type": "common noun, singular",
+    "def": "person in a car, not the driver",
     "vi": "hành khách",
     "viDef": "người ngồi trên xe, không phải tài xế"
   },
   {
     "word": "freeway",
     "ipa": "ˈfɹiweɪ",
+    "type": "common noun, singular",
+    "def": "highway",
     "vi": "đường cao tốc",
     "viDef": "xa lộ"
   },
   {
     "word": "rental car",
     "ipa": "ˈɹɛntəl kɑɹ",
+    "type": "phrase",
+    "def": "a car you rent, a car you pay to borrow",
     "vi": "xe thuê",
     "viDef": "chiếc xe bạn trả tiền để mượn"
   },
   {
     "word": "highway toll",
     "ipa": "ˈhaɪweɪ toʊl",
+    "type": "phrase",
+    "def": "fee paid for using the highway",
     "vi": "phí cầu đường",
     "viDef": "khoản phí trả để đi đường cao tốc"
   }

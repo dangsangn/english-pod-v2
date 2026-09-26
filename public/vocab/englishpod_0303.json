@@ -2,54 +2,72 @@
   {
     "word": "corona",
     "ipa": "kɚˈoʊnə",
+    "type": "",
+    "def": "a type of beer from mexico",
     "vi": "bia Corona",
     "viDef": "một loại bia của Mexico"
   },
   {
     "word": "jalapeno",
     "ipa": "ˌhæləˈpinjoʊ",
+    "type": "",
+    "def": "a spicy green pepper",
     "vi": "ớt jalapeño",
     "viDef": "loại ớt xanh cay"
   },
   {
     "word": "guacamole",
     "ipa": "ˌɡwɑkəˈmoʊli",
+    "type": "",
+    "def": "a dip of mashed avocado mixed with tomato, onion, and seasonings",
     "vi": "sốt bơ guacamole",
     "viDef": "món sốt chấm làm từ bơ dầm trộn cà chua, hành và gia vị"
   },
   {
     "word": "melt",
     "ipa": "mɛlt",
+    "type": "",
+    "def": "to become liquefied by warmth or heat",
     "vi": "tan chảy",
     "viDef": "hóa lỏng do nóng hoặc nhiệt"
   },
   {
     "word": "burrito",
     "ipa": "bɚˈitoʊ",
+    "type": "",
+    "def": "a tortilla folded over a filling",
     "vi": "bánh burrito",
     "viDef": "chiếc bánh tortilla gấp lại quanh phần nhân"
   },
   {
     "word": "taco",
     "ipa": "ˈtɑkoʊ",
+    "type": "",
+    "def": "crisply fried tortilla folded over and filled",
     "vi": "bánh taco",
     "viDef": "bánh tortilla chiên giòn gấp lại và cho nhân vào"
   },
   {
     "word": "tortilla",
     "ipa": "tɔɹˈtiə",
+    "type": "",
+    "def": "a kind of thin pancake made from corn, cooked on a hot griddle until dry",
     "vi": "bánh tortilla",
     "viDef": "loại bánh mỏng làm từ ngô, áp trên chảo nóng cho ráo"
   },
   {
     "word": "dip",
     "ipa": "dɪp",
+    "type": "",
+    "def": "a liquid or soft substance into which something is dipped",
     "vi": "sốt chấm",
     "viDef": "chất lỏng hoặc mềm để chấm đồ ăn vào"
   },
   {
     "word": "Churro",
     "ipa": "ˈtʃʊɹoʊ",
+    "type": "",
+    "def": "a Spanish and Mexican pastry resembling a doughnut or cruller and made from deep-fried dough",
     "vi": "bánh churro",
     "viDef": "món bánh Tây Ban Nha và Mexico giống bánh vòng, làm từ bột chiên ngập dầu"
   }

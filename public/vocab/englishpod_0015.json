@@ -2,78 +2,104 @@
   {
     "word": "feel terrible",
     "ipa": "fil ˈtɛɹəbəl",
+    "type": "phrase",
+    "def": "sorry",
     "vi": "thấy áy náy quá",
     "viDef": "lấy làm tiếc"
   },
   {
     "word": "mean",
     "ipa": "min",
+    "type": "principle verb, present simple",
+    "def": "intend, plan",
     "vi": "cố ý",
     "viDef": "chủ định, có ý định"
   },
   {
     "word": "explode",
     "ipa": "ɪkˈsploʊd",
+    "type": "principle verb, past simple",
+    "def": "suddenly break apart",
     "vi": "nổ tung",
     "viDef": "vỡ tan đột ngột"
   },
   {
     "word": "accident",
     "ipa": "ˈæksədənt",
+    "type": "common noun, singular",
+    "def": "an event that is not planed or intended",
     "vi": "sự cố ngoài ý muốn",
     "viDef": "việc xảy ra không định trước"
   },
   {
     "word": "familiar",
     "ipa": "fəˈmɪljɚ",
+    "type": "Adjective",
+    "def": "probably known, but not clearly remembered",
     "vi": "quen quen",
     "viDef": "hình như từng biết nhưng không nhớ rõ"
   },
   {
     "word": "place",
     "ipa": "pleɪs",
+    "type": "common noun, singular",
+    "def": "house",
     "vi": "nhà, chỗ ở",
     "viDef": "căn nhà"
   },
   {
     "word": "coincidence",
     "ipa": "koʊˈɪnsɪdəns",
+    "type": "common noun, singular",
+    "def": "situation when two or more things happen at the same time in an unplanned way",
     "vi": "sự trùng hợp",
     "viDef": "khi hai việc trở lên cùng xảy ra một cách tình cờ"
   },
   {
     "word": "knock over",
     "ipa": "nɑk ˈoʊvɚ",
+    "type": "principle verb, infinitive",
+    "def": "make something fall over",
     "vi": "làm đổ",
     "viDef": "khiến vật gì ngã xuống"
   },
   {
     "word": "regret",
     "ipa": "ɹəˈɡɹɛt",
+    "type": "principle verb, present simple",
+    "def": "feel sad or sorry about something",
     "vi": "hối tiếc",
     "viDef": "thấy buồn hoặc tiếc về việc gì đó"
   },
   {
     "word": "apologetic",
     "ipa": "əˌpɑləˈdʒɛtɪk",
+    "type": "Adjective",
+    "def": "feeling or showing regret, showing an apology",
     "vi": "tỏ vẻ hối lỗi",
     "viDef": "cảm thấy hoặc thể hiện sự ân hận, có ý xin lỗi"
   },
   {
     "word": "feel guilty",
     "ipa": "fil ˈɡɪlti",
+    "type": "phrase",
+    "def": "feel responsible for doing something bad",
     "vi": "thấy có lỗi",
     "viDef": "thấy mình phải chịu trách nhiệm vì đã làm điều xấu"
   },
   {
     "word": "unfamiliar",
     "ipa": "ˌʌnfəˈmɪljɚ",
+    "type": "Adjective",
+    "def": "not familiar",
     "vi": "xa lạ",
     "viDef": "không quen thuộc"
   },
   {
     "word": "love at first sight",
     "ipa": "lʌv æt fɝst saɪt",
+    "type": "phrase",
+    "def": "falling in love the first time you see someone",
     "vi": "yêu từ cái nhìn đầu tiên",
     "viDef": "phải lòng ngay lần đầu gặp mặt"
   }

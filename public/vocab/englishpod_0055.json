@@ -2,90 +2,120 @@
   {
     "word": "goalie",
     "ipa": "ˈɡoʊli",
+    "type": "common noun, singular",
+    "def": "position in hockey; person who tries to stop the puck from going in the net",
     "vi": "thủ môn",
     "viDef": "vị trí trong khúc côn cầu; người chặn không cho đĩa vào lưới"
   },
   {
     "word": "breakaway",
     "ipa": "ˈbɹeɪkəˌweɪ",
+    "type": "common noun, singular",
+    "def": "state of becoming separated from a large group (especially in sports)",
     "vi": "cú thoát ly",
     "viDef": "việc tách ra khỏi cả nhóm (nhất là trong thể thao)"
   },
   {
     "word": "save",
     "ipa": "seɪv",
+    "type": "common noun, singular",
+    "def": "the act of preventing a ball or puck from going in the net",
     "vi": "cú cản phá",
     "viDef": "việc chặn bóng hoặc đĩa vào lưới"
   },
   {
     "word": "puck",
     "ipa": "pʌk",
+    "type": "common noun, singular",
+    "def": "small, round, black object that is used to play hockey",
     "vi": "đĩa côn cầu",
     "viDef": "vật nhỏ, tròn, màu đen dùng để chơi khúc côn cầu"
   },
   {
     "word": "win possession",
     "ipa": "wɪn pəˈzɛʃən",
+    "type": "phrase",
+    "def": "get control",
     "vi": "giành được bóng",
     "viDef": "nắm quyền kiểm soát"
   },
   {
     "word": "check",
     "ipa": "tʃɛk",
+    "type": "verb",
+    "def": "use your body to push someone in hockey",
     "vi": "húc chắn",
     "viDef": "dùng người đẩy đối thủ trong khúc côn cầu"
   },
   {
     "word": "ref",
     "ipa": "ɹɛf",
+    "type": "common noun, singular",
+    "def": "person who makes sure the players follow the rules in a game",
     "vi": "trọng tài",
     "viDef": "người giám sát cầu thủ chơi đúng luật"
   },
   {
     "word": "face-off",
     "ipa": "feɪs ɔf",
+    "type": "common noun, singular",
+    "def": "a way of beginning a game by dropping the puck between two players",
     "vi": "pha tranh đĩa mở đầu",
     "viDef": "cách bắt đầu trận bằng việc thả đĩa giữa hai cầu thủ"
   },
   {
     "word": "key",
     "ipa": "ki",
+    "type": "Adjective",
+    "def": "very important",
     "vi": "then chốt",
     "viDef": "rất quan trọng"
   },
   {
     "word": "finals",
     "ipa": "ˈfaɪnəlz",
+    "type": "common noun, plural",
+    "def": "last game or series of games in a tournament or championship",
     "vi": "vòng chung kết",
     "viDef": "trận hoặc loạt trận cuối của giải"
   },
   {
     "word": "hockey stick",
     "ipa": "ˈhɑki stɪk",
+    "type": "common noun, singular",
+    "def": "long wooden stick shaped like an L; used for playing hockey",
     "vi": "gậy côn cầu",
     "viDef": "gậy gỗ dài hình chữ L để chơi khúc côn cầu"
   },
   {
     "word": "arena",
     "ipa": "ɚˈinə",
+    "type": "common noun, singular",
+    "def": "large building where sports are played",
     "vi": "nhà thi đấu",
     "viDef": "tòa nhà lớn để chơi thể thao"
   },
   {
     "word": "rink",
     "ipa": "ɹɪŋk",
+    "type": "common noun, singular",
+    "def": "ice surface used to play hockey or skate on",
     "vi": "sân băng",
     "viDef": "mặt băng để chơi côn cầu hoặc trượt"
   },
   {
     "word": "NHL",
     "ipa": "ˌɛn eɪtʃ ˈɛl",
+    "type": "",
+    "def": "National Hockey League; group of professional hockey teams that play in Canada and the US",
     "vi": "giải NHL",
     "viDef": "National Hockey League; các đội côn cầu chuyên nghiệp ở Canada và Mỹ"
   },
   {
     "word": "league",
     "ipa": "liɡ",
+    "type": "common noun, singular",
+    "def": "a group of sports teams that play against each other",
     "vi": "giải đấu",
     "viDef": "nhóm các đội thi đấu với nhau"
   }

@@ -2,72 +2,96 @@
   {
     "word": "urgent",
     "ipa": "ˈɝdʒənt",
+    "type": "",
+    "def": "important",
     "vi": "gấp",
     "viDef": "quan trọng"
   },
   {
     "word": "get robbed",
     "ipa": "ɡɛt ɹɑbd",
+    "type": "",
+    "def": "to be victim of a robbery, something stolen",
     "vi": "bị cướp",
     "viDef": "trở thành nạn nhân của một vụ cướp, bị lấy mất thứ gì"
   },
   {
     "word": "wire",
     "ipa": "ˈwaɪɚ",
+    "type": "",
+    "def": "to send money electronically",
     "vi": "chuyển khoản",
     "viDef": "gửi tiền bằng đường điện tử"
   },
   {
     "word": "dodgy",
     "ipa": "ˈdɑdʒi",
+    "type": "",
+    "def": "questionable, suspicious",
     "vi": "ám muội",
     "viDef": "khả nghi, đáng ngờ"
   },
   {
     "word": "hack",
     "ipa": "hæk",
+    "type": "",
+    "def": "to gain access illegally or without authorization",
     "vi": "xâm nhập trái phép",
     "viDef": "truy cập bất hợp pháp hoặc không được cho phép"
   },
   {
     "word": "scam",
     "ipa": "skæm",
+    "type": "",
+    "def": "to swindle (someone) by means of a trick",
     "vi": "lừa đảo",
     "viDef": "gạt ai bằng một mánh khóe"
   },
   {
     "word": "con artist",
     "ipa": "kɑn ˈɑɹtəst",
+    "type": "",
+    "def": "a swindler who exploits the confidence of his vict",
     "vi": "tay lừa chuyên nghiệp",
     "viDef": "kẻ lừa gạt lợi dụng lòng tin của nạn nhân"
   },
   {
     "word": "swindle",
     "ipa": "ˈswɪndəl",
+    "type": "",
+    "def": "To cheat or defraud of money or property",
     "vi": "bịp lấy tiền",
     "viDef": "gian lận hoặc chiếm đoạt tiền, tài sản"
   },
   {
     "word": "Ponzi Scheme",
     "ipa": "ˈpɑnzi skim",
+    "type": "",
+    "def": "is an investment fraud that involves the payment of purported returns to existing investors from funds contributed by new investors.",
     "vi": "mô hình Ponzi",
     "viDef": "trò gian lận đầu tư mà tiền trả cho nhà đầu tư cũ lại lấy từ khoản góp của nhà đầu tư mới"
   },
   {
     "word": "con",
     "ipa": "kɑn",
+    "type": "",
+    "def": "to persuade by deception",
     "vi": "lừa",
     "viDef": "thuyết phục bằng cách gạt"
   },
   {
     "word": "Fraud",
     "ipa": "fɹɔd",
+    "type": "",
+    "def": "a person who makes deceitful pretenses",
     "vi": "kẻ giả mạo",
     "viDef": "người bày ra những vẻ ngoài dối trá"
   },
   {
     "word": "Pirate",
     "ipa": "ˈpaɪɹət",
+    "type": "",
+    "def": "a person who uses or reproduces the work or invention of another without authorization.",
     "vi": "kẻ ăn cắp bản quyền",
     "viDef": "người dùng hoặc sao chép tác phẩm, sáng chế của người khác mà không xin phép"
   }

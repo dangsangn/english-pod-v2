@@ -2,84 +2,112 @@
   {
     "word": "definitive conclusion",
     "ipa": "dɪˈfɪnɪtɪv kənˈkluʒən",
+    "type": "phrase",
+    "def": "a final judgment that is not able to be changed; that is final",
     "vi": "kết luận dứt khoát",
     "viDef": "phán quyết cuối, không thể thay đổi"
   },
   {
     "word": "single-handedly",
     "ipa": "ˈsɪŋɡəl ˈhændɪdli",
+    "type": "Adjective",
+    "def": "do something on your own, without help",
     "vi": "một tay làm nên",
     "viDef": "tự mình làm, không cần ai giúp"
   },
   {
     "word": "investigative approach",
     "ipa": "ˌɪnˈvɛstəˌɡeɪtɪv əˈpɹoʊtʃ",
+    "type": "phrase",
+    "def": "way of looking for information",
     "vi": "cách tiếp cận điều tra",
     "viDef": "phương pháp đi tìm thông tin"
   },
   {
     "word": "flawed",
     "ipa": "flɔd",
+    "type": "Adjective",
+    "def": "having errors or mistake",
     "vi": "có sai sót",
     "viDef": "chứa lỗi"
   },
   {
     "word": "preposterous",
     "ipa": "pɹɪˈpɑstɚəs",
+    "type": "Adjective",
+    "def": "crazy, foolish, or silly",
     "vi": "nghe mà buồn cười",
     "viDef": "điên rồ, ngớ ngẩn"
   },
   {
     "word": "oblivious to",
     "ipa": "əˈblɪviəs tu",
+    "type": "phrase",
+    "def": "unaware or don't know",
     "vi": "không hay biết",
     "viDef": "chẳng nhận ra, không biết"
   },
   {
     "word": "extensive research",
     "ipa": "ɪkˈstɛnsɪv ɹiˈsɝtʃ",
+    "type": "phrase",
+    "def": "very full and complete study to find information",
     "vi": "nghiên cứu sâu rộng",
     "viDef": "công trình tìm hiểu thật đầy đủ, kỹ càng"
   },
   {
     "word": "systematic",
     "ipa": "ˌsɪstəˈmætɪk",
+    "type": "Adjective",
+    "def": "using a careful system or method",
     "vi": "có hệ thống",
     "viDef": "làm theo một cách thức, quy trình cẩn thận"
   },
   {
     "word": "irrefutable",
     "ipa": "ˌɪɹəˈfjutəbəl",
+    "type": "Adjective",
+    "def": "correct; not able to be proved wrong",
     "vi": "không thể phản bác",
     "viDef": "đúng, không ai bắt lỗi được"
   },
   {
     "word": "associated with",
     "ipa": "əˈsoʊsiˌeɪtɪd wɪð",
+    "type": "phrase",
+    "def": "linked or connected with",
     "vi": "liên quan tới",
     "viDef": "gắn hoặc nối với"
   },
   {
     "word": "circumstantial evidence",
     "ipa": "ˌsɝkəmˈstænʃəl ˈɛvədəns",
+    "type": "phrase",
+    "def": "a collection of facts that implies or suggests something to be true, but does not prove it",
     "vi": "chứng cứ gián tiếp",
     "viDef": "các dữ kiện chỉ ngụ ý điều gì là thật chứ không chứng minh được"
   },
   {
     "word": "indicate",
     "ipa": "ˈɪndəˌkeɪt",
+    "type": "verb",
+    "def": "show something to be true",
     "vi": "cho thấy",
     "viDef": "chỉ ra điều gì là đúng"
   },
   {
     "word": "a compelling case",
     "ipa": "ə kəmˈpɛlɪŋ keɪs",
+    "type": "phrase",
+    "def": "an argument that is capable of making people believe that point of view",
     "vi": "lập luận thuyết phục",
     "viDef": "lý lẽ đủ sức làm người ta tin theo"
   },
   {
     "word": "determine",
     "ipa": "dəˈtɝmən",
+    "type": "verb",
+    "def": "find out if something is true",
     "vi": "xác định",
     "viDef": "tìm ra xem điều gì có đúng không"
   }

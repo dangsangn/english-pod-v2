@@ -2,96 +2,128 @@
   {
     "word": "salad",
     "ipa": "ˈsæləd",
+    "type": "",
+    "def": "mixed vegetables served cold",
     "vi": "xà lách trộn",
     "viDef": "rau củ trộn dọn nguội"
   },
   {
     "word": "french fries",
     "ipa": "fɹɛntʃ fɹaɪz",
+    "type": "",
+    "def": "deep fired strips of potato",
     "vi": "khoai tây chiên",
     "viDef": "các thanh khoai tây chiên ngập dầu"
   },
   {
     "word": "hamburger",
     "ipa": "ˈhæmbɚɡɚ",
+    "type": "",
+    "def": "a type of sandwich with a beef patty",
     "vi": "bánh hamburger",
     "viDef": "loại bánh kẹp có miếng thịt bò"
   },
   {
     "word": "junk food",
     "ipa": "dʒʌŋk fud",
+    "type": "",
+    "def": "food that is not healthy",
     "vi": "đồ ăn vặt kém lành",
     "viDef": "thức ăn không tốt cho sức khỏe"
   },
   {
     "word": "clog",
     "ipa": "klɑɡ",
+    "type": "",
+    "def": "to block or get in the way of something",
     "vi": "làm tắc",
     "viDef": "chặn hoặc cản đường thứ gì"
   },
   {
     "word": "cholesterol",
     "ipa": "kəˈlɛstɚˌɔl",
+    "type": "",
+    "def": "a fatty substance found in animal tissue",
     "vi": "cholesterol",
     "viDef": "chất béo có trong mô động vật"
   },
   {
     "word": "how about",
     "ipa": "haʊ əˈbaʊt",
+    "type": "",
+    "def": "what do you think",
     "vi": "còn... thì sao",
     "viDef": "anh/chị thấy thế nào"
   },
   {
     "word": "pizza",
     "ipa": "ˈpitsə",
+    "type": "",
+    "def": "bread with tomato sauce and cheese on top",
     "vi": "bánh pizza",
     "viDef": "bánh mì phủ sốt cà chua và phô mai"
   },
   {
     "word": "fried chicken",
     "ipa": "fɹaɪd ˈtʃɪkən",
+    "type": "",
+    "def": "chicken pieces cooked in hot oil",
     "vi": "gà rán",
     "viDef": "các miếng gà chiên trong dầu nóng"
   },
   {
     "word": "hot dog",
     "ipa": "hɑt dɔɡ",
+    "type": "",
+    "def": "a food with bread and a sausage in the middle",
     "vi": "bánh mì kẹp xúc xích",
     "viDef": "món có bánh mì và cây xúc xích ở giữa"
   },
   {
     "word": "lost cause",
     "ipa": "lɔst kɑz",
+    "type": "",
+    "def": "a useless or hopeless situation",
     "vi": "trường hợp hết thuốc chữa",
     "viDef": "tình huống vô ích hoặc vô vọng"
   },
   {
     "word": "tofu",
     "ipa": "ˈtoʊfu",
+    "type": "",
+    "def": "A protein-rich food coagulated from an extract of soybeans and used in salads and various cooked foods.",
     "vi": "đậu phụ",
     "viDef": "thực phẩm giàu đạm kết tủa từ dịch đậu nành, dùng trong món trộn và nhiều món nấu"
   },
   {
     "word": "MSG",
     "ipa": "ˌɛm ɛs ˈdʒi",
+    "type": "",
+    "def": "a flavor enhancer used in food",
     "vi": "bột ngọt",
     "viDef": "chất tăng vị dùng trong thức ăn"
   },
   {
     "word": "greasy",
     "ipa": "ˈɡɹisi",
+    "type": "",
+    "def": "Having a lot of grease or oil",
     "vi": "nhiều dầu mỡ",
     "viDef": "chứa nhiều mỡ hoặc dầu"
   },
   {
     "word": "Take out",
     "ipa": "teɪk aʊt",
+    "type": "",
+    "def": "Taking food away or having it delivered,",
     "vi": "mang đi",
     "viDef": "lấy đồ ăn đem về hoặc gọi giao tận nơi"
   },
   {
     "word": "doggy bag",
     "ipa": "ˈdɔɡi bæɡ",
+    "type": "",
+    "def": "a bag or box used to take left over food home from a restaurant",
     "vi": "túi đựng đồ ăn thừa",
     "viDef": "túi hoặc hộp dùng mang phần ăn còn lại ở nhà hàng về nhà"
   }

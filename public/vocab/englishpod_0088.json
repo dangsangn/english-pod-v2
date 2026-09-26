@@ -2,66 +2,88 @@
   {
     "word": "two of us",
     "ipa": "tu ʌv ʌs",
+    "type": "phrase",
+    "def": "you and me",
     "vi": "hai ta",
     "viDef": "anh và tôi"
   },
   {
     "word": "all to our selves",
     "ipa": "ɔl tu ˈaʊɚ sɛlvz",
+    "type": "phrase",
+    "def": "just for us and no one else",
     "vi": "chỉ riêng hai người",
     "viDef": "dành cho mình thôi, không ai khác"
   },
   {
     "word": "here is the thing",
     "ipa": "hiɹ ɪz ðə θɪŋ",
+    "type": "phrase",
+    "def": "phrase used to begin explaining a situation or problem",
     "vi": "chuyện là thế này",
     "viDef": "câu mở đầu khi bắt đầu giải thích một việc"
   },
   {
     "word": "pros and cons",
     "ipa": "pɹoʊz ənd kɑnz",
+    "type": "phrase",
+    "def": "good things and bad things about a person",
     "vi": "điểm hay và điểm dở",
     "viDef": "mặt tốt và mặt xấu của một người"
   },
   {
     "word": "guts",
     "ipa": "ɡʌts",
+    "type": "common noun, plural",
+    "def": "courage, brave",
     "vi": "gan",
     "viDef": "sự can đảm"
   },
   {
     "word": "give (someone) a shot",
     "ipa": "ɡɪv ˈsʌmwʌn ə ʃɑt",
+    "type": "phrase",
+    "def": "to let someone have a try",
     "vi": "cho ai một cơ hội",
     "viDef": "để ai thử một lần"
   },
   {
     "word": "going out",
     "ipa": "ˈɡoʊɪŋ aʊt",
+    "type": "phrase",
+    "def": "phrase used to indicate that you are dating someone",
     "vi": "đang hẹn hò",
     "viDef": "câu chỉ việc đang qua lại với ai"
   },
   {
     "word": "get with",
     "ipa": "ɡɛt wɪð",
+    "type": "verb",
+    "def": "to become someone's boyfriend/girlfriend",
     "vi": "nên đôi với",
     "viDef": "trở thành người yêu của ai"
   },
   {
     "word": "ask out",
     "ipa": "æsk aʊt",
+    "type": "verb",
+    "def": "to ask someone to join you on a romantic date",
     "vi": "mời đi hẹn hò",
     "viDef": "rủ ai đi chơi kiểu tình cảm"
   },
   {
     "word": "intimate",
     "ipa": "ˈɪntəmət",
+    "type": "Adjective",
+    "def": "having a very close relationship; very warm and friendly",
     "vi": "thân mật",
     "viDef": "quan hệ rất gần, ấm áp và thân thiện"
   },
   {
     "word": "make-out",
     "ipa": "meɪk aʊt",
+    "type": "verb",
+    "def": "to kiss",
     "vi": "âu yếm nhau",
     "viDef": "ôm hôn"
   }

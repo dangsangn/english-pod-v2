@@ -2,60 +2,80 @@
   {
     "word": "appreciate",
     "ipa": "əˈpɹiʃiˌeɪt",
+    "type": "principle verb, present simple",
+    "def": "to be grateful for (something)",
     "vi": "biết ơn",
     "viDef": "cảm kích về điều gì"
   },
   {
     "word": "upgrade",
     "ipa": "əpˈɡɹeɪd",
+    "type": "principle verb, infinitive",
+    "def": "get something better, more modern, more useful",
     "vi": "nâng cấp",
     "viDef": "đổi lên thứ tốt hơn, mới hơn"
   },
   {
     "word": "hook up",
     "ipa": "hʊk ʌp",
+    "type": "principle verb, present simple",
+    "def": "connect",
     "vi": "gắn nối",
     "viDef": "kết nối vào"
   },
   {
     "word": "set me back",
     "ipa": "sɛt mi bæk",
+    "type": "phrase",
+    "def": "cost",
     "vi": "tốn của tôi",
     "viDef": "khiến mình mất bao nhiêu tiền"
   },
   {
     "word": "the works",
     "ipa": "ðə wɝks",
+    "type": "phrase",
+    "def": "the best things offered",
     "vi": "đủ bộ xịn nhất",
     "viDef": "tất cả những thứ tốt nhất có"
   },
   {
     "word": "projector",
     "ipa": "pɹəˈdʒɛktɚ",
+    "type": "common noun, singular",
+    "def": "A machine for projecting an image onto a screen or other surface.",
     "vi": "máy chiếu",
     "viDef": "máy phóng hình lên màn hoặc mặt phẳng"
   },
   {
     "word": "plug in",
     "ipa": "plʌɡ ɪn",
+    "type": "phrase",
+    "def": "To connect (an appliance) to an electrical outlet.",
     "vi": "cắm điện",
     "viDef": "nối thiết bị vào ổ điện"
   },
   {
     "word": "speaker",
     "ipa": "ˈspikɚ",
+    "type": "common noun, singular",
+    "def": "a device that converts electrical signals into sounds loud enough to be heard at a distance",
     "vi": "loa",
     "viDef": "thiết bị biến tín hiệu điện thành âm thanh nghe được từ xa"
   },
   {
     "word": "remote control",
     "ipa": "ɹɪˈmoʊt kənˈtɹoʊl",
+    "type": "common noun, singular",
+    "def": "A device used to control an apparatus or machine from a distance.",
     "vi": "điều khiển từ xa",
     "viDef": "thiết bị dùng để điều khiển máy từ xa"
   },
   {
     "word": "cable television",
     "ipa": "ˈkeɪbəl ˈtɛləˌvɪʒən",
+    "type": "common noun, singular",
+    "def": "a television service in which the subscriber's television is connected to a central receiver by cable",
     "vi": "truyền hình cáp",
     "viDef": "dịch vụ tivi nối vào đầu thu trung tâm bằng dây cáp"
   }

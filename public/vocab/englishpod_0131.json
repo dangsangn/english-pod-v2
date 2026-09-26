@@ -2,60 +2,80 @@
   {
     "word": "freak out",
     "ipa": "fɹik aʊt",
+    "type": "principle verb, first conditional",
+    "def": "to lose one's nerve, become suddenly anxious",
     "vi": "mất bình tĩnh",
     "viDef": "run, bỗng lo lắng dữ dội"
   },
   {
     "word": "ask (someone) out",
     "ipa": "æsk ˈsʌmwʌn aʊt",
+    "type": "principle verb, past simple",
+    "def": "to request a date",
     "vi": "mời ai đi hẹn hò",
     "viDef": "ngỏ lời rủ đi chơi"
   },
   {
     "word": "commit",
     "ipa": "kəˈmɪt",
+    "type": "principle verb, second conditional",
+    "def": "put in a mental hospital",
     "vi": "đưa vào viện tâm thần",
     "viDef": "cho nhập bệnh viện tâm thần"
   },
   {
     "word": "get married",
     "ipa": "ɡɛt ˈmɛɹid",
+    "type": "principle verb, Going to Future",
+    "def": "to join in marriage",
     "vi": "kết hôn",
     "viDef": "lấy nhau, thành vợ chồng"
   },
   {
     "word": "date",
     "ipa": "deɪt",
+    "type": "common noun, singular",
+    "def": "a romantic meeting",
     "vi": "buổi hẹn hò",
     "viDef": "cuộc gặp mang tính tình cảm"
   },
   {
     "word": "be in your shoes",
     "ipa": "bi ɪn jɔɹ ʃuz",
+    "type": "phrase",
+    "def": "to be in the place of someone",
     "vi": "ở vào vị trí của bạn",
     "viDef": "đặt mình vào chỗ của người khác"
   },
   {
     "word": "sleepover",
     "ipa": "ˈsliˌpoʊvɚ",
+    "type": "common noun, singular",
+    "def": "An instance of spending the night as a guest at another's home.",
     "vi": "ngủ lại nhà bạn",
     "viDef": "việc qua đêm ở nhà người khác"
   },
   {
     "word": "hypothetical",
     "ipa": "ˌhaɪpəˈθɛtəkəl",
+    "type": "Adjective",
+    "def": "Suppositional; uncertain",
     "vi": "giả định",
     "viDef": "chỉ là phỏng đoán, chưa chắc"
   },
   {
     "word": "gossip",
     "ipa": "ˈɡɑsəp",
+    "type": "common noun, singular",
+    "def": "Rumor or talk of a personal, sensational, or intimate nature.",
     "vi": "chuyện bàn tán",
     "viDef": "tin đồn hoặc lời bàn về đời tư ai đó"
   },
   {
     "word": "daydream",
     "ipa": "ˈdeɪdɹim",
+    "type": "principle verb, present simple",
+    "def": "To have dreamlike musings or fantasies while awake.",
     "vi": "mơ mộng giữa ban ngày",
     "viDef": "thả trí tưởng tượng khi vẫn đang thức"
   }

@@ -2,84 +2,112 @@
   {
     "word": "class",
     "ipa": "klæs",
+    "type": "",
+    "def": "high class",
     "vi": "sang",
     "viDef": "hạng cao"
   },
   {
     "word": "pricey",
     "ipa": "ˈpɹaɪsi",
+    "type": "",
+    "def": "expensive",
     "vi": "đắt đỏ",
     "viDef": "giá cao"
   },
   {
     "word": "marinated",
     "ipa": "ˈmɛɹəˌneɪtɪd",
+    "type": "",
+    "def": "To leave something to be soaked in a sauce for its flavour",
     "vi": "đã ướp",
     "viDef": "để ngâm trong nước sốt cho thấm vị"
   },
   {
     "word": "starter",
     "ipa": "ˈstɑɹtɚ",
+    "type": "",
+    "def": "as the first step or part",
     "vi": "món khai vị",
     "viDef": "phần hoặc bước đầu tiên"
   },
   {
     "word": "platter",
     "ipa": "ˈplætɚ",
+    "type": "",
+    "def": "a course of a meal, usually consisting of a variety of foods served on the same plate.",
     "vi": "đĩa thập cẩm",
     "viDef": "một phần của bữa ăn, thường gồm nhiều món dọn trên cùng một đĩa"
   },
   {
     "word": "clams",
     "ipa": "klæmz",
+    "type": "",
+    "def": "Edible sea creature that buries it self in the sand.",
     "vi": "nghêu",
     "viDef": "sinh vật biển ăn được, vùi mình trong cát"
   },
   {
     "word": "scallops",
     "ipa": "ˈskæləps",
+    "type": "",
+    "def": "Edible sea creature similar to oysters that move in the water by opening and closing their shell.",
     "vi": "sò điệp",
     "viDef": "sinh vật biển ăn được giống hàu, di chuyển bằng cách đóng mở vỏ"
   },
   {
     "word": "squid",
     "ipa": "skwɪd",
+    "type": "",
+    "def": "a sea creature having a having a torpedo-shaped body",
     "vi": "mực ống",
     "viDef": "sinh vật biển có thân hình như quả ngư lôi"
   },
   {
     "word": "mussels",
     "ipa": "ˈmʌsəlz",
+    "type": "",
+    "def": "Edible sea creature that attaches it to something such as a rock",
     "vi": "vẹm",
     "viDef": "sinh vật biển ăn được, bám mình vào vật gì như tảng đá"
   },
   {
     "word": "calamari",
     "ipa": "kɑlɑˈmɑɹi",
+    "type": "",
+    "def": "cooked squid cut into rings.",
     "vi": "mực cắt khoanh",
     "viDef": "mực đã chế biến, cắt thành vòng"
   },
   {
     "word": "eel",
     "ipa": "il",
+    "type": "",
+    "def": "a creature with a long snakelike body, a smooth slimy skin",
     "vi": "lươn, cá chình",
     "viDef": "loài vật thân dài như rắn, da trơn nhớt"
   },
   {
     "word": "sushi",
     "ipa": "ˈsuʃi",
+    "type": "",
+    "def": "cold boiled rice moistened with rice vinegar, usually shaped into bite-size pieces and topped with raw seafood",
     "vi": "sushi",
     "viDef": "cơm nguội trộn giấm, thường nắm thành miếng vừa ăn và phủ hải sản sống"
   },
   {
     "word": "dodgy",
     "ipa": "ˈdɑdʒi",
+    "type": "",
+    "def": "something not good",
     "vi": "đáng ngờ",
     "viDef": "thứ gì đó không ổn"
   },
   {
     "word": "crab",
     "ipa": "kɹæb",
+    "type": "",
+    "def": "A hard shelled sea creature",
     "vi": "cua",
     "viDef": "sinh vật biển có vỏ cứng"
   }

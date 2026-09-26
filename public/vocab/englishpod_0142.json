@@ -2,78 +2,104 @@
   {
     "word": "dinner party",
     "ipa": "ˈdɪnɚ ˈpɑɹti",
+    "type": "phrase",
+    "def": "an event where you eat at a friend's house",
     "vi": "bữa tiệc tối",
     "viDef": "dịp ăn uống ở nhà một người bạn"
   },
   {
     "word": "hemline",
     "ipa": "ˈhɛmlaɪn",
+    "type": "common noun, singular",
+    "def": "the line formed by the lower edge of clothing",
     "vi": "viền gấu áo",
     "viDef": "đường tạo bởi mép dưới của bộ đồ"
   },
   {
     "word": "fashion sense",
     "ipa": "ˈfæʃən sɛns",
+    "type": "phrase",
+    "def": "an idea for what clothing looks good",
     "vi": "gu thời trang",
     "viDef": "cảm nhận về việc đồ nào trông đẹp"
   },
   {
     "word": "checkered",
     "ipa": "ˈtʃɛkɚd",
+    "type": "Adjective",
+    "def": "a pattern with alternating squares",
     "vi": "kẻ ô vuông",
     "viDef": "họa tiết các ô vuông xen kẽ"
   },
   {
     "word": "striped",
     "ipa": "stɹaɪpt",
+    "type": "Adjective",
+    "def": "having stripes or bands of color",
     "vi": "kẻ sọc",
     "viDef": "có các vạch hoặc dải màu"
   },
   {
     "word": "sandal",
     "ipa": "ˈsændəl",
+    "type": "common noun, plural",
+    "def": "a type of footwear with open toes",
     "vi": "xăng-đan",
     "viDef": "loại giày hở ngón"
   },
   {
     "word": "cut",
     "ipa": "kʌt",
+    "type": "common noun, singular",
+    "def": "the shape and style of a piece of clothing",
     "vi": "kiểu cắt",
     "viDef": "dáng và lối may của bộ đồ"
   },
   {
     "word": "corduroy",
     "ipa": "ˈkɔɹdɚˌɔɪ",
+    "type": "common noun, non-variable",
+    "def": "a ribbed cotton clothing material",
     "vi": "vải nhung tăm",
     "viDef": "loại vải cotton có gân sọc"
   },
   {
     "word": "sneakers",
     "ipa": "ˈsnikɚz",
+    "type": "common noun, non-variable",
+    "def": "casual tennis shoes",
     "vi": "giày thể thao",
     "viDef": "giày vải kiểu thường ngày"
   },
   {
     "word": "polka dot",
     "ipa": "ˈpoʊlkɑ dɑt",
+    "type": "common noun, singular",
+    "def": "a fabric pattern with many circles",
     "vi": "họa tiết bi tròn",
     "viDef": "kiểu vải in nhiều hình tròn"
   },
   {
     "word": "denim",
     "ipa": "ˈdɛnəm",
+    "type": "common noun, non-variable",
+    "def": "a type of fabric used to make jeans",
     "vi": "vải bò",
     "viDef": "loại vải dùng may quần jean"
   },
   {
     "word": "out of fashion",
     "ipa": "aʊt ʌv ˈfæʃən",
+    "type": "phrase",
+    "def": "used to describe something that is no longer popular",
     "vi": "hết mốt",
     "viDef": "nói về thứ không còn được ưa nữa"
   },
   {
     "word": "tailor",
     "ipa": "ˈteɪlɚ",
+    "type": "common noun, singular",
+    "def": "a person who makes clothes, adjusts the fit",
     "vi": "thợ may",
     "viDef": "người may đồ và sửa cho vừa người"
   }

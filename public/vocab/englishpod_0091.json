@@ -2,126 +2,168 @@
   {
     "word": "constellation",
     "ipa": "ˌkɑnstəˈleɪʃən",
+    "type": "common noun, singular",
+    "def": "a particular shape formed by a group of stars",
     "vi": "chòm sao",
     "viDef": "hình cụ thể do một nhóm sao tạo thành"
   },
   {
     "word": "blink",
     "ipa": "blɪŋk",
+    "type": "verb",
+    "def": "produce light every several seconds",
     "vi": "nhấp nháy",
     "viDef": "phát sáng theo từng nhịp vài giây"
   },
   {
     "word": "UFO",
     "ipa": "ˌjuˌɛˈfoʊ",
+    "type": "",
+    "def": "unidentified flying object",
     "vi": "UFO",
     "viDef": "vật thể bay không xác định"
   },
   {
     "word": "earthlings",
     "ipa": "ˈɝθlɪŋz",
+    "type": "common noun, plural",
+    "def": "human beings that live on earth",
     "vi": "người Trái Đất",
     "viDef": "con người sống trên Trái Đất"
   },
   {
     "word": "from afar",
     "ipa": "fɹʌm əˈfɑɹ",
+    "type": "General Adverb",
+    "def": "from a long distance",
     "vi": "từ xa",
     "viDef": "từ khoảng cách rất xa"
   },
   {
     "word": "galaxy",
     "ipa": "ˈɡæləksi",
+    "type": "common noun, singular",
+    "def": "any of numerous large-scale collections of stars, gas, and dust that make up the visible universe.",
     "vi": "thiên hà",
     "viDef": "tập hợp lớn gồm sao, khí và bụi tạo nên vũ trụ ta thấy được"
   },
   {
     "word": "capacity",
     "ipa": "kəˈpæsəti",
+    "type": "common noun, singular",
+    "def": "the ability to do something",
     "vi": "năng lực",
     "viDef": "khả năng làm được việc gì"
   },
   {
     "word": "wonder",
     "ipa": "ˈwʌndɚ",
+    "type": "common noun, plural",
+    "def": "A monumental human creation that is amazing",
     "vi": "kỳ quan",
     "viDef": "công trình vĩ đại do con người làm nên, gây thán phục"
   },
   {
     "word": "masterpiece",
     "ipa": "ˈmæstɚˌpis",
+    "type": "common noun, singular",
+    "def": "wonderful pieces of work",
     "vi": "kiệt tác",
     "viDef": "tác phẩm tuyệt vời"
   },
   {
     "word": "consequence",
     "ipa": "ˈkɑnsəkwəns",
+    "type": "common noun, singular",
+    "def": "a logical result or effect of an action",
     "vi": "hệ quả",
     "viDef": "kết quả tất yếu của một hành động"
   },
   {
     "word": "ambition",
     "ipa": "æmˈbɪʃən",
+    "type": "common noun, non-variable",
+    "def": "the desire to achieve more",
     "vi": "tham vọng",
     "viDef": "khát khao đạt được nhiều hơn"
   },
   {
     "word": "downfall",
     "ipa": "ˈdaʊnfɔl",
+    "type": "common noun, singular",
+    "def": "something that brings failure",
     "vi": "nguyên nhân sụp đổ",
     "viDef": "thứ dẫn tới thất bại"
   },
   {
     "word": "figure out",
     "ipa": "ˈfɪɡjɚ aʊt",
+    "type": "verb",
+    "def": "completely understand, comprehend.",
     "vi": "hiểu ra",
     "viDef": "nắm được hoàn toàn"
   },
   {
     "word": "play God",
     "ipa": "pleɪ ɡɑd",
+    "type": "phrase",
+    "def": "decide the fate of someone or something",
     "vi": "làm thay ông trời",
     "viDef": "tự định số phận của người hoặc vật"
   },
   {
     "word": "belligerent",
     "ipa": "bəˈlɪdʒɚənt",
+    "type": "Adjective",
+    "def": "angry, aggressive, wanting to fight",
     "vi": "hung hăng",
     "viDef": "tức tối, hiếu chiến, muốn đánh"
   },
   {
     "word": "anguish",
     "ipa": "ˈæŋɡwɪʃ",
+    "type": "common noun, non-variable",
+    "def": "very strong and terrible physical or mental pain; torment",
     "vi": "nỗi đau quặn",
     "viDef": "cơn đau thể xác hoặc tinh thần dữ dội; sự giày vò"
   },
   {
     "word": "spacecraft",
     "ipa": "ˈspeɪskɹæft",
+    "type": "common noun, singular",
+    "def": "a vehicle that travels in space",
     "vi": "phi thuyền",
     "viDef": "thiết bị bay trong không gian"
   },
   {
     "word": "hoax",
     "ipa": "hoʊks",
+    "type": "common noun, singular",
+    "def": "an event when people do something to play a joke on or fool others",
     "vi": "vụ lừa bịp",
     "viDef": "việc dựng ra để đùa hoặc gạt người khác"
   },
   {
     "word": "astronomy",
     "ipa": "əˈstɹɑnəmi",
+    "type": "common noun, non-variable",
+    "def": "the study of the stars and space",
     "vi": "thiên văn học",
     "viDef": "ngành nghiên cứu các ngôi sao và không gian"
   },
   {
     "word": "supernatural",
     "ipa": "ˌsupɚˈnætʃɚəl",
+    "type": "Adjective",
+    "def": "unable to be explained by science",
     "vi": "siêu nhiên",
     "viDef": "khoa học không giải thích được"
   },
   {
     "word": "flying saucer",
     "ipa": "ˈflaɪɪŋ ˈsɔsɚ",
+    "type": "common noun, singular",
+    "def": "a name for a UFO",
     "vi": "đĩa bay",
     "viDef": "tên gọi khác của UFO"
   }

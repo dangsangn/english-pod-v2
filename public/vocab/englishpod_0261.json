@@ -2,54 +2,72 @@
   {
     "word": "dimple",
     "ipa": "ˈdɪmpəl",
+    "type": "",
+    "def": "a small natural indentation in the flesh",
     "vi": "má lúm",
     "viDef": "chỗ hõm nhỏ tự nhiên trên da thịt"
   },
   {
     "word": "mole",
     "ipa": "moʊl",
+    "type": "",
+    "def": "a small, dark brown spot on a person's skin",
     "vi": "nốt ruồi",
     "viDef": "chấm nhỏ màu nâu sẫm trên da người"
   },
   {
     "word": "freckle",
     "ipa": "ˈfɹɛkəl",
+    "type": "",
+    "def": "a small, brownish spot on someone's skin",
     "vi": "nốt tàn nhang",
     "viDef": "chấm nhỏ màu nâu trên da"
   },
   {
     "word": "oval",
     "ipa": "ˈoʊvəl",
+    "type": "",
+    "def": "having the shape of an egg",
     "vi": "bầu, hình trứng",
     "viDef": "có dáng như quả trứng"
   },
   {
     "word": "cheeks",
     "ipa": "tʃiks",
+    "type": "",
+    "def": "the fleshy side of the face",
     "vi": "gò má",
     "viDef": "phần thịt hai bên mặt"
   },
   {
     "word": "nostrils",
     "ipa": "ˈnɑstɹəlz",
+    "type": "",
+    "def": "the holes in the nose that allow the pass of air",
     "vi": "lỗ mũi",
     "viDef": "hai lỗ trên mũi cho khí đi qua"
   },
   {
     "word": "forehead",
     "ipa": "ˈfɔɹhɛd",
+    "type": "",
+    "def": "a part of the face above the eyes",
     "vi": "vầng trán",
     "viDef": "phần mặt phía trên mắt"
   },
   {
     "word": "eyelash",
     "ipa": "ˈaɪlæʃ",
+    "type": "",
+    "def": "the hair on the eyelid that protects the eye",
     "vi": "lông mi",
     "viDef": "lông trên mí giúp che mắt"
   },
   {
     "word": "chin",
     "ipa": "tʃɪn",
+    "type": "",
+    "def": "the lower portion of the face including the jaw",
     "vi": "cằm",
     "viDef": "phần dưới của mặt, gồm cả xương hàm"
   }

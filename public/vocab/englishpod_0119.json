@@ -2,78 +2,104 @@
   {
     "word": "spooky",
     "ipa": "ˈspuki",
+    "type": "Adjective",
+    "def": "strange and a little frightening",
     "vi": "rờn rợn",
     "viDef": "lạ và hơi đáng sợ"
   },
   {
     "word": "scary looking",
     "ipa": "ˈskɛɹi ˈlʊkɪŋ",
+    "type": "Adjective",
+    "def": "frightening in appearance",
     "vi": "trông đáng sợ",
     "viDef": "vẻ ngoài gây sợ"
   },
   {
     "word": "scaredy cat",
     "ipa": "ˈskɛɹdi kæt",
+    "type": "common noun, singular",
+    "def": "someone who is always scared of things",
     "vi": "thỏ đế",
     "viDef": "người lúc nào cũng sợ"
   },
   {
     "word": "coward",
     "ipa": "ˈkaʊɚd",
+    "type": "common noun, singular",
+    "def": "someone who is too afraid to do what is right",
     "vi": "kẻ nhát gan",
     "viDef": "người sợ đến mức không dám làm điều đúng"
   },
   {
     "word": "goosebumps",
     "ipa": "ˈɡusbʌmps",
+    "type": "common noun, plural",
+    "def": "small bumps on your skin caused by fear, cold, exc",
     "vi": "da nổi gai ốc",
     "viDef": "những nốt nhỏ trên da do sợ hoặc lạnh"
   },
   {
     "word": "haunt",
     "ipa": "hɔnt",
+    "type": "verb",
+    "def": "(a ghost) lives or visit a place",
     "vi": "ám nơi nào",
     "viDef": "hồn ma ở hoặc lui về một chỗ"
   },
   {
     "word": "investigate",
     "ipa": "ˌɪnˈvɛstəˌɡeɪt",
+    "type": "verb",
+    "def": "to try and get information about something",
     "vi": "điều tra",
     "viDef": "tìm hiểu thông tin về việc gì"
   },
   {
     "word": "mansion",
     "ipa": "ˈmænʃən",
+    "type": "common noun, singular",
+    "def": "a very large house",
     "vi": "dinh thự",
     "viDef": "căn nhà rất lớn"
   },
   {
     "word": "supernatural",
     "ipa": "ˌsupɚˈnætʃɚəl",
+    "type": "Adjective",
+    "def": "unable to be explained by science",
     "vi": "siêu nhiên",
     "viDef": "khoa học không giải thích được"
   },
   {
     "word": "terrifying",
     "ipa": "ˈtɛɹəˌfaɪɪŋ",
+    "type": "Adjective",
+    "def": "extremly scary",
     "vi": "kinh hoàng",
     "viDef": "cực kỳ đáng sợ"
   },
   {
     "word": "creepy",
     "ipa": "ˈkɹipi",
+    "type": "Adjective",
+    "def": "strange or scary (informal)",
     "vi": "gờm gớm",
     "viDef": "lạ hoặc đáng sợ (thân mật)"
   },
   {
     "word": "creep (someone) out",
     "ipa": "kɹip ˈsʌmwʌn aʊt",
+    "type": "phrase",
+    "def": "make someone scared and uncomfortable",
     "vi": "làm ai rợn người",
     "viDef": "khiến ai thấy sợ và bất an"
   },
   {
     "word": "chilling",
     "ipa": "ˈtʃɪlɪŋ",
+    "type": "Adjective",
+    "def": "very disturbing or frightening",
     "vi": "lạnh sống lưng",
     "viDef": "rất bất an hoặc đáng sợ"
   }

@@ -2,72 +2,96 @@
   {
     "word": "accidentally",
     "ipa": "ˌæksəˈdɛntəli",
+    "type": "",
+    "def": "by accident",
     "vi": "vô tình",
     "viDef": "do sơ ý"
   },
   {
     "word": "lead",
     "ipa": "lɛd",
+    "type": "",
+    "def": "advanced;fashionable",
     "vi": "tiên phong",
     "viDef": "dẫn đầu, hợp thời"
   },
   {
     "word": "application",
     "ipa": "ˌæpləˈkeɪʃən",
+    "type": "",
+    "def": "software program",
     "vi": "ứng dụng",
     "viDef": "chương trình phần mềm"
   },
   {
     "word": "network",
     "ipa": "ˈnɛtwɝk",
+    "type": "",
+    "def": "a tele-communication system",
     "vi": "mạng viễn thông",
     "viDef": "hệ thống liên lạc"
   },
   {
     "word": "hotspot",
     "ipa": "ˈhɑtspɑt",
+    "type": "",
+    "def": "place with internet connectivity",
     "vi": "điểm phát wifi",
     "viDef": "nơi có kết nối internet"
   },
   {
     "word": "smart phone",
     "ipa": "smɑɹt foʊn",
+    "type": "",
+    "def": "a phone with wireless internet capacity",
     "vi": "điện thoại thông minh",
     "viDef": "điện thoại vào được internet không dây"
   },
   {
     "word": "Android OS",
     "ipa": "ˈændɹɔɪd ɑs",
+    "type": "",
+    "def": "management system",
     "vi": "hệ điều hành Android",
     "viDef": "hệ quản lý của máy"
   },
   {
     "word": "device",
     "ipa": "dɪˈvaɪs",
+    "type": "",
+    "def": "instrument",
     "vi": "thiết bị",
     "viDef": "dụng cụ, máy"
   },
   {
     "word": "Nokia",
     "ipa": "ˈnoʊkiə",
+    "type": "",
+    "def": "popular cell phone brand",
     "vi": "Nokia",
     "viDef": "hãng điện thoại nổi tiếng"
   },
   {
     "word": "SIM card",
     "ipa": "sɪm kɑɹd",
+    "type": "",
+    "def": "\"Subscriber Identity Module;\" card used in cell phones to place and receive calls, messages",
     "vi": "thẻ SIM",
     "viDef": "\"Subscriber Identity Module\", thẻ trong điện thoại để gọi, nhận cuộc gọi và tin nhắn"
   },
   {
     "word": "iTunes app store",
     "ipa": "ˈaɪtunz æp stɔɹ",
+    "type": "",
+    "def": "an online store created by Apple to sell applications for smart phones",
     "vi": "cửa hàng ứng dụng iTunes",
     "viDef": "gian hàng trực tuyến của Apple để bán ứng dụng cho điện thoại thông minh"
   },
   {
     "word": "to surf the web",
     "ipa": "tu sɝf ðə wɛb",
+    "type": "",
+    "def": "to use the internet",
     "vi": "lướt web",
     "viDef": "dùng internet"
   }

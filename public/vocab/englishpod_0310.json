@@ -2,54 +2,72 @@
   {
     "word": "recommend",
     "ipa": "ˌɹɛkəˈmɛnd",
+    "type": "",
+    "def": "say something deserves to be chosen",
     "vi": "gợi ý chọn",
     "viDef": "nói rằng thứ gì đáng được chọn"
   },
   {
     "word": "service",
     "ipa": "ˈsɝvəs",
+    "type": "",
+    "def": "an act of help or assistance",
     "vi": "sự giúp đỡ",
     "viDef": "một hành động trợ giúp"
   },
   {
     "word": "colleague",
     "ipa": "ˈkɑliɡ",
+    "type": "",
+    "def": "the person who works with you together",
     "vi": "đồng nghiệp",
     "viDef": "người làm việc cùng bạn"
   },
   {
     "word": "barbecue",
     "ipa": "ˈbɑɹbɪˌkju",
+    "type": "",
+    "def": "a framework, as a grill or a spit, or a fireplace for cooking meat or vegetables over an open fire",
     "vi": "bữa nướng ngoài trời",
     "viDef": "khung như vỉ hoặc xiên, hay chỗ đốt lửa để nướng thịt và rau trên lửa mở"
   },
   {
     "word": "introduce",
     "ipa": "ˌɪntɹəˈdus",
+    "type": "",
+    "def": "to present (a person) to another so as to make acquainted.",
     "vi": "giới thiệu",
     "viDef": "đưa một người ra để làm quen với người khác"
   },
   {
     "word": "acquaint",
     "ipa": "əˈkweɪnt",
+    "type": "",
+    "def": "to become more or less familiar, aware of something",
     "vi": "làm quen với",
     "viDef": "trở nên biết ít nhiều, nắm được về thứ gì"
   },
   {
     "word": "advocate",
     "ipa": "ˈædvəkət",
+    "type": "",
+    "def": "to speak or write in favor of; support or urge by argument",
     "vi": "lên tiếng ủng hộ",
     "viDef": "nói hoặc viết để bênh vực, dùng lý lẽ cổ vũ cho điều gì"
   },
   {
     "word": "impression",
     "ipa": "ˌɪmˈpɹɛʃən",
+    "type": "",
+    "def": "a strong, favourable, or remarkable effect",
     "vi": "ấn tượng mạnh",
     "viDef": "tác động mạnh, thuận lợi hoặc đáng nhớ"
   },
   {
     "word": "picnic",
     "ipa": "ˈpɪknɪk",
+    "type": "",
+    "def": "excursion or outing in which the people carry food with them and share a meal in the open air.",
     "vi": "buổi dã ngoại",
     "viDef": "chuyến đi chơi mà mọi người mang theo đồ ăn và cùng dùng bữa ngoài trời"
   }

@@ -2,84 +2,112 @@
   {
     "word": "if you don't mind me saying so",
     "ipa": "ɪf ju doʊnt maɪnd mi ˈseɪɪŋ soʊ",
+    "type": "phrase",
+    "def": "a polite phrase to use where you are saying something sensitive",
     "vi": "nếu anh/chị không phiền khi tôi nói",
     "viDef": "câu rào lịch sự trước khi nói điều dễ chạm"
   },
   {
     "word": "come in from",
     "ipa": "kʌm ɪn fɹʌm",
+    "type": "phrase",
+    "def": "arrive",
     "vi": "từ đâu tới",
     "viDef": "đến từ nơi nào"
   },
   {
     "word": "nosy",
     "ipa": "ˈnoʊzi",
+    "type": "Adjective",
+    "def": "too interested in others' private matters",
     "vi": "tò mò chuyện người khác",
     "viDef": "quá quan tâm việc riêng của người ta"
   },
   {
     "word": "in that case",
     "ipa": "ɪn ðæt keɪs",
+    "type": "phrase",
+    "def": "because of that",
     "vi": "vậy thì",
     "viDef": "vì lẽ đó"
   },
   {
     "word": "don't get me wrong",
     "ipa": "doʊnt ɡɛt mi ɹɔŋ",
+    "type": "phrase",
+    "def": "do not misunderstand me",
     "vi": "đừng hiểu sai ý tôi",
     "viDef": "xin chớ hiểu lệch lời tôi"
   },
   {
     "word": "where to",
     "ipa": "wɛɹ tu",
+    "type": "phrase",
+    "def": "where would you like to go",
     "vi": "đi đâu ạ",
     "viDef": "anh/chị muốn tới đâu"
   },
   {
     "word": "overseas",
     "ipa": "ˈoʊvɚˈsiz",
+    "type": "General Adverb",
+    "def": "in foreign countries",
     "vi": "ở nước ngoài",
     "viDef": "tại các nước khác"
   },
   {
     "word": "to be born and raised",
     "ipa": "tu bi bɔɹn ənd ɹeɪzd",
+    "type": "phrase",
+    "def": "to live in a place your whole life",
     "vi": "sinh ra và lớn lên",
     "viDef": "sống ở một nơi suốt cả đời"
   },
   {
     "word": "the good old U.S of A",
     "ipa": "ðə ɡʊd oʊld ju ɛs ʌv ə",
+    "type": "phrase",
+    "def": "the United States",
     "vi": "nước Mỹ thân thương",
     "viDef": "Hợp chúng quốc Hoa Kỳ"
   },
   {
     "word": "mind your own business",
     "ipa": "maɪnd jɔɹ oʊn ˈbɪznəs",
+    "type": "phrase",
+    "def": "that subject is too personal (impolite)",
     "vi": "lo chuyện của mình đi",
     "viDef": "chuyện đó quá riêng tư (nói mất lịch sự)"
   },
   {
     "word": "that's personal",
     "ipa": "ðæts ˈpɝsɪnəl",
+    "type": "phrase",
+    "def": "phrase you use when you don't want to answer a question",
     "vi": "chuyện riêng tư mà",
     "viDef": "câu dùng khi không muốn trả lời"
   },
   {
     "word": "TMI",
     "ipa": "ˌti ɛm ˈaɪ",
+    "type": "phrase",
+    "def": "too much information",
     "vi": "nói nhiều quá rồi",
     "viDef": "quá nhiều thông tin"
   },
   {
     "word": "personal",
     "ipa": "ˈpɝsɪnəl",
+    "type": "Adjective",
+    "def": "about a person's private thoughs, feelings, etc.",
     "vi": "riêng tư",
     "viDef": "thuộc về suy nghĩ, cảm xúc riêng của một người"
   },
   {
     "word": "snoop",
     "ipa": "snup",
+    "type": "verb",
+    "def": "to look for private information about someone",
     "vi": "dò xét",
     "viDef": "đi tìm thông tin riêng tư của ai"
   }

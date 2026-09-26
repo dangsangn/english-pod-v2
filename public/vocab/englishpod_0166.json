@@ -2,60 +2,80 @@
   {
     "word": "vain",
     "ipa": "veɪn",
+    "type": "",
+    "def": "too proud of good looks",
     "vi": "tự mê nhan sắc",
     "viDef": "quá tự đắc về vẻ ngoài"
   },
   {
     "word": "wrinkle",
     "ipa": "ˈɹɪŋkəl",
+    "type": "",
+    "def": "a fold, ridge or crease in the skin",
     "vi": "nếp nhăn",
     "viDef": "chỗ gấp hoặc hằn trên da"
   },
   {
     "word": "Botox",
     "ipa": "ˈboʊtɔks",
+    "type": "",
+    "def": "a medical protein injected into facial muscles to",
     "vi": "Botox",
     "viDef": "loại protein y tế tiêm vào cơ mặt để làm căng da"
   },
   {
     "word": "cosmetic surgery",
     "ipa": "kɑzˈmɛtɪk ˈsɝdʒɚi",
+    "type": "",
+    "def": "plastic surgery",
     "vi": "phẫu thuật thẩm mỹ",
     "viDef": "mổ tạo hình làm đẹp"
   },
   {
     "word": "breast implant",
     "ipa": "bɹɛst ɪmˈplænt",
+    "type": "",
+    "def": "a plastic surgery on breasts to make them bigger",
     "vi": "nâng ngực",
     "viDef": "phẫu thuật làm ngực to hơn"
   },
   {
     "word": "injection",
     "ipa": "ˌɪnˈdʒɛkʃən",
+    "type": "",
+    "def": "the act of forcing a fluid into the body by means of a needle",
     "vi": "mũi tiêm",
     "viDef": "việc dùng kim đưa dịch vào cơ thể"
   },
   {
     "word": "skin graft",
     "ipa": "skɪn ɡɹæft",
+    "type": "",
+    "def": "skin removed from a healthy area of the body and placed on an area with damaged skin in order to heal it",
     "vi": "ghép da",
     "viDef": "lấy da ở vùng lành đắp lên chỗ da bị tổn thương cho lành lại"
   },
   {
     "word": "cosmetic laser surgery",
     "ipa": "kɑzˈmɛtɪk ˈleɪzɚ ˈsɝdʒɚi",
+    "type": "",
+    "def": "cosmetic surgery performed with the use of lasers",
     "vi": "thẩm mỹ bằng laser",
     "viDef": "phẫu thuật làm đẹp có dùng tia laser"
   },
   {
     "word": "stretch mark",
     "ipa": "stɹɛtʃ mɑɹk",
+    "type": "",
+    "def": "skin with off-colour scars caused by rapid stretching of the skin",
     "vi": "vết rạn da",
     "viDef": "các vệt sẫm màu do da bị căng ra quá nhanh"
   },
   {
     "word": "chemical peel",
     "ipa": "ˈkɛməkəl pil",
+    "type": "",
+    "def": "a chemical solution used on the face that causes dead skin to fall off in order to improve the texture of the skin",
     "vi": "lột da bằng hóa chất",
     "viDef": "dung dịch bôi lên mặt làm bong lớp da chết để da mịn hơn"
   }

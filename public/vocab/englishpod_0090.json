@@ -2,84 +2,112 @@
   {
     "word": "whereabouts",
     "ipa": "ˈwɛɹəˌbaʊts",
+    "type": "common noun, plural",
+    "def": "the approximate place, where a person or thing is",
     "vi": "tung tích",
     "viDef": "nơi phỏng đoán mà người hoặc vật đang ở"
   },
   {
     "word": "vow",
     "ipa": "vaʊ",
+    "type": "verb",
+    "def": "promised",
     "vi": "thề",
     "viDef": "đã hứa chắc"
   },
   {
     "word": "millennium",
     "ipa": "məˈlɛniəm",
+    "type": "",
+    "def": "1000 years",
     "vi": "thiên niên kỷ",
     "viDef": "một nghìn năm"
   },
   {
     "word": "renowned",
     "ipa": "ɹɪˈnaʊnd",
+    "type": "Adjective",
+    "def": "well known",
     "vi": "lừng danh",
     "viDef": "nổi tiếng"
   },
   {
     "word": "claim",
     "ipa": "kleɪm",
+    "type": "",
+    "def": "to assert as a fact",
     "vi": "khẳng định",
     "viDef": "nói chắc rằng đó là thật"
   },
   {
     "word": "spy",
     "ipa": "spaɪ",
+    "type": "common noun, singular",
+    "def": "a person employed to find out secret information about other countries or organizations",
     "vi": "điệp viên",
     "viDef": "người được thuê để lấy tin mật của nước hoặc tổ chức khác"
   },
   {
     "word": "honest",
     "ipa": "ˈɑnəst",
+    "type": "Adjective",
+    "def": "truthful and moral in behaviour; trustworthy",
     "vi": "thật thà",
     "viDef": "nói thật, xử sự có đạo lý, đáng tin"
   },
   {
     "word": "go on",
     "ipa": "ɡoʊ ɑn",
+    "type": "verb",
+    "def": "happening",
     "vi": "đang diễn ra",
     "viDef": "đang xảy ra"
   },
   {
     "word": "come clean",
     "ipa": "kʌm klin",
+    "type": "phrase",
+    "def": "confess, tell everything, tell the truth",
     "vi": "thú thật hết",
     "viDef": "nhận và kể hết sự thật"
   },
   {
     "word": "FBI",
     "ipa": "ˈɛfˈbiˈaɪ",
+    "type": "",
+    "def": "Federal Bureau of Investigation",
     "vi": "FBI",
     "viDef": "Cục Điều tra Liên bang Mỹ"
   },
   {
     "word": "undercover",
     "ipa": "ˌʌndɚˈkʌvɚ",
+    "type": "Adjective",
+    "def": "done or acting in secret",
     "vi": "nằm vùng, bí mật",
     "viDef": "làm hoặc hoạt động ngầm"
   },
   {
     "word": "notorious",
     "ipa": "noʊˈtɔɹiəs",
+    "type": "Adjective",
+    "def": "well known for some bad reason",
     "vi": "khét tiếng",
     "viDef": "nổi tiếng vì điều xấu"
   },
   {
     "word": "white lie",
     "ipa": "waɪt laɪ",
+    "type": "common noun, singular",
+    "def": "an unimportant, small lie",
     "vi": "lời dối vô hại",
     "viDef": "câu nói dối nhỏ, không quan trọng"
   },
   {
     "word": "pull (someone's) leg",
     "ipa": "pʊl ˈsʌmwʌnz lɛɡ",
+    "type": "phrase",
+    "def": "tell false information to for fun",
     "vi": "trêu, chọc chơi",
     "viDef": "nói sai sự thật để đùa"
   }

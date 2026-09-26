@@ -2,126 +2,168 @@
   {
     "word": "ground beef",
     "ipa": "ɡɹaʊnd bif",
+    "type": "common noun, non-variable",
+    "def": "beef that has been put through a grinder",
     "vi": "thịt bò xay",
     "viDef": "thịt bò đưa qua máy nghiền"
   },
   {
     "word": "if you know what I mean",
     "ipa": "ɪf ju noʊ wʌt aɪ min",
+    "type": "phrase",
+    "def": "used to express the listener is aware of something that is assumed to be known",
     "vi": "anh/chị hiểu ý tôi mà",
     "viDef": "câu nói khi tin rằng người nghe đã ngầm hiểu"
   },
   {
     "word": "lean",
     "ipa": "lin",
+    "type": "Adjective",
+    "def": "having a low fat content",
     "vi": "nạc",
     "viDef": "ít mỡ"
   },
   {
     "word": "pork chop",
     "ipa": "pɔɹk tʃɑp",
+    "type": "common noun, plural",
+    "def": "a cut of pork in a individual size",
     "vi": "sườn heo cốt lết",
     "viDef": "miếng thịt heo cắt vừa một phần ăn"
   },
   {
     "word": "chicken breast",
     "ipa": "ˈtʃɪkən bɹɛst",
+    "type": "common noun, plural",
+    "def": "the meaty breast portion of a chicken",
     "vi": "ức gà",
     "viDef": "phần thịt ở ngực con gà"
   },
   {
     "word": "boneless",
     "ipa": "ˈboʊnləs",
+    "type": "Adjective",
+    "def": "with the bones removed",
     "vi": "đã lọc xương",
     "viDef": "phần thịt bỏ hết xương"
   },
   {
     "word": "chicken thigh",
     "ipa": "ˈtʃɪkən θaɪ",
+    "type": "common noun, plural",
+    "def": "the upper leg portion of meat on a chicken",
     "vi": "đùi gà",
     "viDef": "phần thịt trên của chân gà"
   },
   {
     "word": "smoked ham",
     "ipa": "smoʊkt hæm",
+    "type": "common noun, singular",
+    "def": "a ham which has been seasoned with smoke",
     "vi": "giăm bông xông khói",
     "viDef": "thịt giăm bông ướp bằng khói"
   },
   {
     "word": "cold cuts",
     "ipa": "koʊld kʌts",
+    "type": "phrase",
+    "def": "cold cooked meat, used for sandwiches",
     "vi": "thịt nguội",
     "viDef": "thịt đã nấu để nguội, dùng kẹp bánh"
   },
   {
     "word": "salami",
     "ipa": "səˈlɑmi",
+    "type": "common noun, non-variable",
+    "def": "spicy dry sausage",
     "vi": "xúc xích salami",
     "viDef": "xúc xích khô, có vị cay"
   },
   {
     "word": "bologna",
     "ipa": "bəˈloʊni",
+    "type": "common noun, non-variable",
+    "def": "wide sausage that is sliced",
     "vi": "xúc xích bologna",
     "viDef": "xúc xích khổ lớn được cắt lát"
   },
   {
     "word": "T-bone",
     "ipa": "ti boʊn",
+    "type": "common noun, singular",
+    "def": "a thick piece of beef with a T shaped bone in it",
     "vi": "thịt bò xương chữ T",
     "viDef": "miếng bò dày có khúc xương hình chữ T"
   },
   {
     "word": "rib eye",
     "ipa": "ɹɪb aɪ",
+    "type": "common noun, singular",
+    "def": "a tender cut of beef from the outer side of the ri",
     "vi": "thịt bò rib eye",
     "viDef": "miếng bò mềm lấy ở mé ngoài phần sườn"
   },
   {
     "word": "slaughter house",
     "ipa": "ˈslɔtɚ haʊs",
+    "type": "common noun, singular",
+    "def": "the place where animals are killed for their meat",
     "vi": "lò mổ",
     "viDef": "nơi giết gia súc để lấy thịt"
   },
   {
     "word": "sirloin",
     "ipa": "ˈsɝlɔɪn",
+    "type": "common noun, non-variable",
+    "def": "a piece of beef from lower back of the cow",
     "vi": "thịt thăn lưng",
     "viDef": "miếng bò lấy ở phần lưng dưới"
   },
   {
     "word": "steak",
     "ipa": "steɪk",
+    "type": "common noun, plural",
+    "def": "a slice of beef",
     "vi": "miếng bít tết",
     "viDef": "lát thịt bò"
   },
   {
     "word": "turkey",
     "ipa": "ˈtɝki",
+    "type": "common noun, non-variable",
+    "def": "a type of meat from a large bird, similar to chicken",
     "vi": "thịt gà tây",
     "viDef": "thịt của loài chim lớn, giống gà"
   },
   {
     "word": "hot dog",
     "ipa": "hɑt dɔɡ",
+    "type": "common noun, singular",
+    "def": "a type of small sausage",
     "vi": "xúc xích hot dog",
     "viDef": "loại xúc xích nhỏ"
   },
   {
     "word": "cleaver",
     "ipa": "ˈklivɚ",
+    "type": "common noun, singular",
+    "def": "a type of knife a butcher uses",
     "vi": "dao phay",
     "viDef": "loại dao của người bán thịt"
   },
   {
     "word": "chopping block",
     "ipa": "ˈtʃɑpɪŋ blɑk",
+    "type": "common noun, singular",
+    "def": "the table that a butcher works on",
     "vi": "thớt chặt",
     "viDef": "mặt bàn người bán thịt làm việc trên đó"
   },
   {
     "word": "butcher paper",
     "ipa": "ˈbʊtʃɚ ˈpeɪpɚ",
+    "type": "common noun, non-variable",
+    "def": "the waxy paper a butcher uses to wrap meat in",
     "vi": "giấy gói thịt",
     "viDef": "giấy có sáp mà người bán thịt dùng để bọc"
   }

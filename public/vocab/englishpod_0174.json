@@ -2,60 +2,80 @@
   {
     "word": "get someone's nails done",
     "ipa": "ɡɛt ˈsʌmwʌnz neɪlz dʌn",
+    "type": "",
+    "def": "have a manicure",
     "vi": "đi làm nail",
     "viDef": "đi làm móng tay"
   },
   {
     "word": "pamper",
     "ipa": "ˈpæmpɚ",
+    "type": "",
+    "def": "treat with excessive indulgence",
     "vi": "chăm chuốt cho sướng",
     "viDef": "chiều theo mọi ý một cách quá đỗi"
   },
   {
     "word": "file",
     "ipa": "faɪl",
+    "type": "",
+    "def": "smooth with a file",
     "vi": "dũa",
     "viDef": "mài cho nhẵn bằng cái dũa"
   },
   {
     "word": "coat",
     "ipa": "koʊt",
+    "type": "",
+    "def": "cover, surface",
     "vi": "phủ một lớp",
     "viDef": "trải hoặc bao một lớp lên bề mặt"
   },
   {
     "word": "apply",
     "ipa": "əˈplaɪ",
+    "type": "",
+    "def": "to place in contact with; to lay or spread on",
     "vi": "thoa lên",
     "viDef": "đặt vào, trải hoặc bôi lên"
   },
   {
     "word": "French Manicure",
     "ipa": "fɹɛntʃ ˈmænɪkjɚ",
+    "type": "",
+    "def": "a special way of painting the nails so that it mimics the color of natural nails, with a clear, beige or soft pink polish on most of the nail and a white finish at the tips",
     "vi": "móng kiểu Pháp",
     "viDef": "lối sơn móng cho giống màu tự nhiên, phần lớn móng sơn trong, be hoặc hồng nhạt, đầu móng sơn trắng"
   },
   {
     "word": "nail clipper",
     "ipa": "neɪl ˈklɪpɚ",
+    "type": "",
+    "def": "a mechanical device used to trim fingernails and toenails",
     "vi": "kìm bấm móng",
     "viDef": "dụng cụ cắt móng tay, móng chân"
   },
   {
     "word": "nail polish remover",
     "ipa": "neɪl ˈpɑlɪʃ ɹɪˈmuvɚ",
+    "type": "",
+    "def": "a solution made of acetone or ethyl acetate used to remove nail polish",
     "vi": "nước tẩy sơn móng",
     "viDef": "dung dịch acetone hoặc ethyl acetate dùng xóa sơn móng"
   },
   {
     "word": "acrylic nails",
     "ipa": "əˈkɹɪlɪk neɪlz",
+    "type": "",
+    "def": "fake nails made of acrylic: liquid acrylic is applied to a real nail and then hardened",
     "vi": "móng bột acrylic",
     "viDef": "móng giả bằng acrylic: đắp acrylic lỏng lên móng thật rồi làm cứng"
   },
   {
     "word": "gel nails",
     "ipa": "dʒɛl neɪlz",
+    "type": "",
+    "def": "fake nails made of a gel: gel is applied to a real nail and then hardened",
     "vi": "móng gel",
     "viDef": "móng giả bằng gel: phủ gel lên móng thật rồi làm cứng"
   }

@@ -2,114 +2,152 @@
   {
     "word": "world class",
     "ipa": "wɝld klæs",
+    "type": "Adjective",
+    "def": "ranking with the best in the whole world",
     "vi": "đẳng cấp thế giới",
     "viDef": "xếp ngang hàng những gì hay nhất toàn cầu"
   },
   {
     "word": "national anthem",
     "ipa": "ˈnæʃənəl ˈænθəm",
+    "type": "common noun, singular",
+    "def": "the song that represents a country and is played in ceremonies",
     "vi": "quốc ca",
     "viDef": "bài hát đại diện cho một nước, cử trong các buổi lễ"
   },
   {
     "word": "umpire",
     "ipa": "ˈʌmˌpaɪɚ",
+    "type": "common noun, singular",
+    "def": "a person who controls and judges a baseball game",
     "vi": "trọng tài bóng chày",
     "viDef": "người điều hành và phân định trận bóng chày"
   },
   {
     "word": "up at bat",
     "ipa": "ʌp æt bæt",
+    "type": "phrase",
+    "def": "get ready to hit the ball",
     "vi": "vào lượt đánh",
     "viDef": "sẵn sàng đánh bóng"
   },
   {
     "word": "wind up",
     "ipa": "waɪnd ʌp",
+    "type": "phrase",
+    "def": "get the energy to throw the ball",
     "vi": "lấy đà ném",
     "viDef": "vươn tay lấy lực để ném bóng"
   },
   {
     "word": "curve ball",
     "ipa": "kɝv bɔl",
+    "type": "common noun, singular",
+    "def": "a ball thrown on a curve (i.e. not straight) that is hard to hit",
     "vi": "đường bóng xoáy",
     "viDef": "quả ném đi vòng, không thẳng, rất khó đánh"
   },
   {
     "word": "pitcher",
     "ipa": "ˈpɪtʃɚ",
+    "type": "common noun, singular",
+    "def": "the player who throws the ball to the batter",
     "vi": "người ném bóng",
     "viDef": "cầu thủ ném bóng cho người đánh"
   },
   {
     "word": "catcher",
     "ipa": "ˈkætʃɝ",
+    "type": "common noun, singular",
+    "def": "the player behind home plate who catches the ball without being hit",
     "vi": "người bắt bóng",
     "viDef": "cầu thủ ngồi sau chốt nhà để bắt bóng"
   },
   {
     "word": "line drive",
     "ipa": "laɪn dɹaɪv",
+    "type": "phrase",
+    "def": "a hit that travels low along the baseline",
     "vi": "cú đánh sệt",
     "viDef": "quả bóng bay thấp theo đường biên"
   },
   {
     "word": "scramble",
     "ipa": "ˈskɹæmbəl",
+    "type": "verb",
+    "def": "do something quickly and in a disorganized way",
     "vi": "nhào lộn xoay xở",
     "viDef": "làm gấp gáp, lộn xộn"
   },
   {
     "word": "outfielder",
     "ipa": "ˈaʊtˌfildɚ",
+    "type": "common noun, singular",
+    "def": "a player who plays in the area that is relatively far from the pitch",
     "vi": "cầu thủ sân ngoài",
     "viDef": "người chơi ở khu vực xa chỗ ném bóng"
   },
   {
     "word": "safe",
     "ipa": "seɪf",
+    "type": "Adjective",
+    "def": "successfully gets to the base",
     "vi": "đến chốt an toàn",
     "viDef": "chạy tới chốt kịp, không bị loại"
   },
   {
     "word": "home run",
     "ipa": "hoʊm ɹʌn",
+    "type": "phrase",
+    "def": "a hit that strikes the ball out of the field",
     "vi": "cú home run",
     "viDef": "quả đánh bay bóng ra khỏi sân"
   },
   {
     "word": "inning",
     "ipa": "ˈɪnɪŋ",
+    "type": "common noun, singular",
+    "def": "a set of baseball containing a turn at bat and a turn in field for each side",
     "vi": "lượt chơi",
     "viDef": "một hiệp gồm lượt đánh và lượt phòng của mỗi bên"
   },
   {
     "word": "up to bat",
     "ipa": "ʌp tu bæt",
+    "type": "phrase",
+    "def": "the next in line to do something",
     "vi": "tới lượt mình",
     "viDef": "người kế tiếp trong hàng"
   },
   {
     "word": "ballpark figure",
     "ipa": "ˈbɔlpɑɹk ˈfɪɡjɚ",
+    "type": "phrase",
+    "def": "an approximate number",
     "vi": "số ước chừng",
     "viDef": "con số áng chừng"
   },
   {
     "word": "hit it out of the park",
     "ipa": "hɪt ɪt aʊt ʌv ðə pɑɹk",
+    "type": "phrase",
+    "def": "to do something very well, or very successfully",
     "vi": "làm quá xuất sắc",
     "viDef": "làm việc gì rất giỏi, rất thành công"
   },
   {
     "word": "off the bat",
     "ipa": "ɔf ðə bæt",
+    "type": "phrase",
+    "def": "immediately, with out delay",
     "vi": "ngay tức thì",
     "viDef": "lập tức, không chậm trễ"
   },
   {
     "word": "screwball",
     "ipa": "ˈskɹubɔl",
+    "type": "common noun, singular",
+    "def": "an unusual, crazy, or eccentric person",
     "vi": "kẻ quái chiêu",
     "viDef": "người khác thường, hơi điên"
   }

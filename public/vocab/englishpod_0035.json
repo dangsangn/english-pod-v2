@@ -2,84 +2,112 @@
   {
     "word": "concern",
     "ipa": "kənˈsɝn",
+    "type": "common noun, plural",
+    "def": "worry",
     "vi": "điều lo ngại",
     "viDef": "sự lo lắng"
   },
   {
     "word": "bottom line",
     "ipa": "ˈbɑtəm laɪn",
+    "type": "phrase",
+    "def": "most important point",
     "vi": "điều cốt lõi",
     "viDef": "ý quan trọng nhất"
   },
   {
     "word": "overall",
     "ipa": "ˈoʊvɚˌɔl",
+    "type": "Adjective",
+    "def": "general",
     "vi": "nhìn chung",
     "viDef": "tổng thể, chung chung"
   },
   {
     "word": "performance",
     "ipa": "pɚˈfɔɹməns",
+    "type": "common noun, singular",
+    "def": "how well someone does their job",
     "vi": "hiệu suất làm việc",
     "viDef": "mức độ làm tốt công việc"
   },
   {
     "word": "unreliable",
     "ipa": "ˌʌnɹɪˈlaɪəbəl",
+    "type": "Adjective",
+    "def": "not able to be trusted",
     "vi": "không đáng tin",
     "viDef": "không thể trông cậy"
   },
   {
     "word": "productive",
     "ipa": "pɹəˈdʌktɪv",
+    "type": "Adjective",
+    "def": "doing a lot in a short amount of time",
     "vi": "năng suất cao",
     "viDef": "làm được nhiều việc trong thời gian ngắn"
   },
   {
     "word": "perfectly good",
     "ipa": "ˈpɝfəktli ɡʊd",
+    "type": "phrase",
+    "def": "having no problems, just fine",
     "vi": "vẫn tốt chán",
     "viDef": "chẳng có vấn đề gì, ổn cả"
   },
   {
     "word": "work ethic",
     "ipa": "wɝk ˈɛθɪk",
+    "type": "common noun, non-variable",
+    "def": "attitude to work",
     "vi": "tinh thần làm việc",
     "viDef": "thái độ với công việc"
   },
   {
     "word": "coach",
     "ipa": "koʊtʃ",
+    "type": "verb",
+    "def": "teach and train someone new skills",
     "vi": "kèm cặp",
     "viDef": "dạy và huấn luyện kỹ năng mới cho ai"
   },
   {
     "word": "poor judgment",
     "ipa": "puɹ ˈdʒʌdʒmənt",
+    "type": "phrase",
+    "def": "regularly makes bad decisions",
     "vi": "phán đoán kém",
     "viDef": "hay đưa ra quyết định sai"
   },
   {
     "word": "poor work ethic",
     "ipa": "puɹ wɝk ˈɛθɪk",
+    "type": "phrase",
+    "def": "bad attitude to work",
     "vi": "thái độ làm việc tệ",
     "viDef": "tinh thần với công việc kém"
   },
   {
     "word": "dependable",
     "ipa": "dɪˈpɛndəbəl",
+    "type": "Adjective",
+    "def": "able to be trusted and relied upon",
     "vi": "đáng tin cậy",
     "viDef": "có thể tin và trông cậy được"
   },
   {
     "word": "a bad apple",
     "ipa": "ə bæd ˈæpəl",
+    "type": "phrase",
+    "def": "a bad member of a group who makes things more difficult for others",
     "vi": "con sâu làm rầu nồi canh",
     "viDef": "thành viên tệ khiến cả nhóm thêm khó"
   },
   {
     "word": "unproductive",
     "ipa": "ˌʌnpɹəˈdʌktɪv",
+    "type": "Adjective",
+    "def": "not productive, not doing a lot",
     "vi": "năng suất kém",
     "viDef": "không làm được nhiều việc"
   }

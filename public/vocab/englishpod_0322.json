@@ -2,72 +2,96 @@
   {
     "word": "tourist",
     "ipa": "ˈtʊɹəst",
+    "type": "",
+    "def": "a person who is traveling",
     "vi": "khách du lịch",
     "viDef": "người đang đi du lịch"
   },
   {
     "word": "amazing",
     "ipa": "əˈmeɪzɪŋ",
+    "type": "",
+    "def": "causing wonder or astonishment",
     "vi": "tuyệt vời",
     "viDef": "gây ngạc nhiên hoặc kinh ngạc"
   },
   {
     "word": "modern",
     "ipa": "ˈmɑdɚn",
+    "type": "",
+    "def": "high-tech",
     "vi": "hiện đại",
     "viDef": "công nghệ cao"
   },
   {
     "word": "originally",
     "ipa": "ɚˈɪdʒənəli",
+    "type": "",
+    "def": "originally",
     "vi": "vốn dĩ",
     "viDef": "ban đầu là"
   },
   {
     "word": "peaceful",
     "ipa": "ˈpisfəl",
+    "type": "",
+    "def": "calm or tranquil",
     "vi": "yên bình",
     "viDef": "êm ả, tĩnh lặng"
   },
   {
     "word": "imagine",
     "ipa": "ˌɪˈmædʒən",
+    "type": "",
+    "def": "to form a mental image of",
     "vi": "hình dung",
     "viDef": "dựng lên một hình ảnh trong đầu"
   },
   {
     "word": "exciting",
     "ipa": "ɪkˈsaɪtɪŋ",
+    "type": "",
+    "def": "excite",
     "vi": "thú vị",
     "viDef": "gây phấn khích"
   },
   {
     "word": "ego",
     "ipa": "ˈiɡoʊ",
+    "type": "",
+    "def": "self-importance",
     "vi": "cái tôi",
     "viDef": "sự tự cho mình là quan trọng"
   },
   {
     "word": "vain",
     "ipa": "veɪn",
+    "type": "",
+    "def": "excessively proud of or concerned about one's own appearance, qualities, achievements",
     "vi": "tự phụ",
     "viDef": "quá tự hào hoặc quá bận tâm về ngoại hình, phẩm chất, thành tựu của mình"
   },
   {
     "word": "historic",
     "ipa": "hɪˈstɔɹɪk",
+    "type": "",
+    "def": "well-known or important in history",
     "vi": "có tính lịch sử",
     "viDef": "nổi tiếng hoặc quan trọng trong lịch sử"
   },
   {
     "word": "seclude",
     "ipa": "səˈklud",
+    "type": "",
+    "def": "sheltered or screened from general activity",
     "vi": "tách biệt",
     "viDef": "được che chắn hoặc khuất khỏi hoạt động chung"
   },
   {
     "word": "off the beaten track",
     "ipa": "ɔf ðə ˈbitən tɹæk",
+    "type": "",
+    "def": "out of the way",
     "vi": "ngoài lối mòn",
     "viDef": "nằm khuất, ít người lui tới"
   }

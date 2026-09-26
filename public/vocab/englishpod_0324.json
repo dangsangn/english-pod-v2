@@ -2,90 +2,120 @@
   {
     "word": "Thanksgiving",
     "ipa": "ˌθæŋksˈɡɪvɪŋ",
+    "type": "",
+    "def": "a holiday",
     "vi": "Lễ Tạ Ơn",
     "viDef": "một ngày lễ"
   },
   {
     "word": "tradition",
     "ipa": "tɹəˈdɪʃən",
+    "type": "",
+    "def": "special way of doing things that is accepted by a",
     "vi": "truyền thống",
     "viDef": "cách làm riêng được mọi người công nhận"
   },
   {
     "word": "celebrate",
     "ipa": "ˈsɛləˌbɹeɪt",
+    "type": "",
+    "def": "hold a feast in memorial of",
     "vi": "ăn mừng",
     "viDef": "tổ chức tiệc để tưởng nhớ"
   },
   {
     "word": "religious",
     "ipa": "ɹɪˈlɪdʒəs",
+    "type": "",
+    "def": "exhibiting religion, faithful, devout",
     "vi": "sùng đạo",
     "viDef": "có đức tin, mộ đạo"
   },
   {
     "word": "persecution",
     "ipa": "ˌpɝsəˈkjuʃən",
+    "type": "",
+    "def": "to exterminate, drive away, or subjugate a people because of their religion, race, or beliefs",
     "vi": "sự bức hại",
     "viDef": "việc tiêu diệt, xua đuổi hoặc áp chế một nhóm người vì tôn giáo, chủng tộc hay niềm tin của họ"
   },
   {
     "word": "befriend",
     "ipa": "bɪˈfɹɛnd",
+    "type": "",
+    "def": "to make friends or become friendly with",
     "vi": "kết thân",
     "viDef": "làm bạn hoặc trở nên thân thiện với ai"
   },
   {
     "word": "native",
     "ipa": "ˈneɪtɪv",
+    "type": "",
+    "def": "of indigenous origin",
     "vi": "người bản địa",
     "viDef": "thuộc về gốc gác bản xứ"
   },
   {
     "word": "harvest",
     "ipa": "ˈhɑɹvəst",
+    "type": "",
+    "def": "the gathering of crops",
     "vi": "vụ thu hoạch",
     "viDef": "việc gặt hái mùa màng"
   },
   {
     "word": "gravy",
     "ipa": "ˈɡɹeɪvi",
+    "type": "",
+    "def": "sauce for meat, potatoes",
     "vi": "nước sốt thịt",
     "viDef": "sốt chan cho thịt, khoai tây"
   },
   {
     "word": "turkey",
     "ipa": "ˈtɝki",
+    "type": "",
+    "def": "a large American bird similar to the chicken",
     "vi": "gà tây",
     "viDef": "loài chim lớn ở châu Mỹ, giống gà"
   },
   {
     "word": "Cranberry",
     "ipa": "ˈkɹænˌbɛɹi",
+    "type": "",
+    "def": "a firm, sour, edible, red berry",
     "vi": "quả nam việt quất",
     "viDef": "quả mọng đỏ, chắc, vị chua, ăn được"
   },
   {
     "word": "Pilgrim",
     "ipa": "ˈpɪlɡɹəm",
+    "type": "",
+    "def": "the English settlers of New England, who celebrated the \"First Thanksgiving\" with the Natives",
     "vi": "người Hành hương",
     "viDef": "nhóm di dân người Anh tới New England, đã mừng \"Lễ Tạ Ơn đầu tiên\" cùng người bản địa"
   },
   {
     "word": "Cider",
     "ipa": "ˈsaɪdɚ",
+    "type": "",
+    "def": "a fermented beverage made from apple juice",
     "vi": "rượu táo",
     "viDef": "đồ uống lên men từ nước ép táo"
   },
   {
     "word": "Cornucopia",
     "ipa": "ˌkɔɹnəˈkoʊpiə",
+    "type": "",
+    "def": "a hollow, horn-shaped wicker basket filled with various kinds of festive fruit and vegetables",
     "vi": "sừng đầy ắp",
     "viDef": "giỏ mây rỗng hình sừng, chất đầy các loại trái cây và rau củ ngày lễ"
   },
   {
     "word": "Yam",
     "ipa": "jæm",
+    "type": "",
+    "def": "specifically its orange-fleshed cultivars, often marketed as 'yams' in North America and as 'kumara' in New Zealand",
     "vi": "khoai lang ruột cam",
     "viDef": "nhất là các giống ruột cam, ở Bắc Mỹ hay gọi là \"yams\", ở New Zealand gọi là \"kumara\""
   }

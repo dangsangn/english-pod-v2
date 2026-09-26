@@ -2,78 +2,104 @@
   {
     "word": "facial hair",
     "ipa": "ˈfeɪʃəl hɛɹ",
+    "type": "",
+    "def": "hair on the face",
     "vi": "râu trên mặt",
     "viDef": "lông mọc ở mặt"
   },
   {
     "word": "beard",
     "ipa": "bɪɹd",
+    "type": "",
+    "def": "the hair growing on the lower part of a man's face",
     "vi": "râu",
     "viDef": "phần lông mọc ở nửa dưới mặt người nam"
   },
   {
     "word": "mustache",
     "ipa": "ˈmʌstæʃ",
+    "type": "",
+    "def": "an unshaved growth of hair on the upper lip",
     "vi": "râu mép",
     "viDef": "lông chưa cạo ở môi trên"
   },
   {
     "word": "goatee",
     "ipa": "ˈɡoʊˈti",
+    "type": "",
+    "def": "a small chin beard trimmed into a point",
     "vi": "râu chóp",
     "viDef": "chòm râu nhỏ ở chóp cằm, tỉa thành mũi nhọn"
   },
   {
     "word": "sideburns",
     "ipa": "ˈsaɪdbɝnz",
+    "type": "",
+    "def": "hair that grows on the sides of man",
     "vi": "tóc mai dài",
     "viDef": "phần tóc mọc ở hai bên má của người nam"
   },
   {
     "word": "thick",
     "ipa": "θɪk",
+    "type": "",
+    "def": "not thin;great in extent from the surface",
     "vi": "dày",
     "viDef": "không mỏng, nhô cao khỏi mặt phẳng"
   },
   {
     "word": "ridiculous",
     "ipa": "ɹɪˈdɪkjələs",
+    "type": "",
+    "def": "very unreasonable or silly",
     "vi": "vô lý hết sức",
     "viDef": "rất vô lý hoặc ngớ ngẩn"
   },
   {
     "word": "why yes",
     "ipa": "waɪ jɛs",
+    "type": "",
+    "def": "as a matter of fact",
     "vi": "ồ có chứ",
     "viDef": "thực ra là có"
   },
   {
     "word": "Sketch Artist",
     "ipa": "skɛtʃ ˈɑɹtəst",
+    "type": "",
+    "def": "A person who can draw a face from instruction",
     "vi": "họa sĩ vẽ theo lời kể",
     "viDef": "người vẽ được khuôn mặt dựa trên lời mô tả"
   },
   {
     "word": "razor",
     "ipa": "ˈɹeɪzɚ",
+    "type": "",
+    "def": "a sharp instrument used to shave a beard",
     "vi": "dao cạo",
     "viDef": "dụng cụ sắc dùng cạo râu"
   },
   {
     "word": "Shaving cream",
     "ipa": "ˈʃeɪvɪŋ kɹim",
+    "type": "",
+    "def": "a lather applied to the face for a smooth shave",
     "vi": "kem cạo râu",
     "viDef": "bọt bôi lên mặt để cạo cho mượt"
   },
   {
     "word": "Hair Clippers",
     "ipa": "hɛɹ ˈklɪpɚz",
+    "type": "",
+    "def": "An electric machine that cuts hair",
     "vi": "tông đơ",
     "viDef": "máy điện dùng để cắt tóc"
   },
   {
     "word": "Muttonchops",
     "ipa": "ˈmʌtəntʃɑps",
+    "type": "",
+    "def": "Sideburns that are long and extend towards the corner of the mouth",
     "vi": "tóc mai dài kiểu quai nón",
     "viDef": "tóc mai để dài, ăn xuống tới khóe miệng"
   }

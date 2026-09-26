@@ -2,72 +2,96 @@
   {
     "word": "bar",
     "ipa": "bɑɹ",
+    "type": "",
+    "def": "a place one goes to drink alcohol",
     "vi": "quán bar",
     "viDef": "nơi người ta tới uống rượu"
   },
   {
     "word": "girlfriend",
     "ipa": "ˈɡɝlfɹɛnd",
+    "type": "",
+    "def": "a female friend with whom a man or boy is romantically involved with",
     "vi": "bạn gái",
     "viDef": "người bạn nữ mà một người nam đang có quan hệ tình cảm"
   },
   {
     "word": "break the ice",
     "ipa": "bɹeɪk ðə aɪs",
+    "type": "",
+    "def": "to overcome reserve, awkwardness, or formality within a group",
     "vi": "phá tan không khí ngại ngùng",
     "viDef": "vượt qua sự dè dặt, ngượng nghịu hoặc khách sáo trong một nhóm"
   },
   {
     "word": "lame",
     "ipa": "leɪm",
+    "type": "",
+    "def": "not cool",
     "vi": "nhạt, dở ẹc",
     "viDef": "chẳng hay ho"
   },
   {
     "word": "pick up lines",
     "ipa": "pɪk ʌp laɪnz",
+    "type": "",
+    "def": "conversation opener with the intent of engaging an unfamiliar person for romance or dating.",
     "vi": "câu tán tỉnh",
     "viDef": "câu mở lời nhằm bắt chuyện với người lạ để tán tỉnh hoặc hẹn hò"
   },
   {
     "word": "fool",
     "ipa": "ful",
+    "type": "",
+    "def": "a silly person",
     "vi": "kẻ khờ",
     "viDef": "người ngớ ngẩn"
   },
   {
     "word": "enchant",
     "ipa": "ɛnˈtʃænt",
+    "type": "",
+    "def": "to delight to a high degree,charm",
     "vi": "làm mê mẩn",
     "viDef": "khiến ai thích thú tột độ, quyến rũ"
   },
   {
     "word": "seduce",
     "ipa": "sɪˈdus",
+    "type": "",
+    "def": "to persuade or induce to have sexual intercourse",
     "vi": "quyến rũ",
     "viDef": "thuyết phục hoặc dụ ai vào chuyện chăn gối"
   },
   {
     "word": "flirt",
     "ipa": "flɝt",
+    "type": "",
+    "def": "toy or play with another's affections",
     "vi": "tán tỉnh",
     "viDef": "đùa cợt với tình cảm của người khác"
   },
   {
     "word": "connection",
     "ipa": "kəˈnɛkʃən",
+    "type": "",
+    "def": "a bond between two people",
     "vi": "sự kết nối",
     "viDef": "mối gắn bó giữa hai người"
   },
   {
     "word": "wing man",
     "ipa": "wɪŋ mæn",
+    "type": "",
+    "def": "Wingman is a role that a person may take when a friend needs support with approaching potential partners",
     "vi": "người trợ lực",
     "viDef": "vai trò một người nhận khi bạn mình cần hỗ trợ để tiếp cận đối tượng tiềm năng"
   },
   {
     "word": "stud",
     "ipa": "stʌd",
+    "type": "",
+    "def": "a man seen as desirable",
     "vi": "soái ca",
     "viDef": "người nam được xem là hấp dẫn"
   }

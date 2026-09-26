@@ -2,108 +2,144 @@
   {
     "word": "wingman",
     "ipa": "ˈwɪŋmən",
+    "type": "common noun, singular",
+    "def": "a person who provides help, support, or protection",
     "vi": "người trợ giúp bên cạnh",
     "viDef": "người luôn giúp, hỗ trợ hoặc che chắn cho mình"
   },
   {
     "word": "on the brink",
     "ipa": "ɑn ðə bɹɪŋk",
+    "type": "phrase",
+    "def": "at a critical point",
     "vi": "bên bờ, sát ngưỡng",
     "viDef": "ở thời điểm quyết định"
   },
   {
     "word": "tied",
     "ipa": "taɪd",
+    "type": "Adjective",
+    "def": "having the same score",
     "vi": "hòa điểm",
     "viDef": "hai bên cùng tỉ số"
   },
   {
     "word": "kick off",
     "ipa": "kɪk ɔf",
+    "type": "common noun, singular",
+    "def": "the first movement or kick of the ball to begin the game",
     "vi": "cú phát bóng khai cuộc",
     "viDef": "lần chạm bóng đầu tiên để bắt đầu trận"
   },
   {
     "word": "throw in",
     "ipa": "θɹoʊ ɪn",
+    "type": "common noun, singular",
+    "def": "action of throwing the ball onto the field with your hands to restart the game",
     "vi": "quả ném biên",
     "viDef": "dùng tay ném bóng vào sân để chơi tiếp"
   },
   {
     "word": "no question about it",
     "ipa": "noʊ ˈkwɛstʃən əˈbaʊt ɪt",
+    "type": "phrase",
+    "def": "there is no doubt, it is correct",
     "vi": "không phải nghi ngờ gì",
     "viDef": "chắc chắn đúng"
   },
   {
     "word": "by a mile",
     "ipa": "baɪ ə maɪl",
+    "type": "phrase",
+    "def": "a lot",
     "vi": "hơn hẳn một trời một vực",
     "viDef": "nhiều, cách biệt lớn"
   },
   {
     "word": "foul",
     "ipa": "faʊl",
+    "type": "common noun, singular",
+    "def": "illegal action committed against a player",
     "vi": "lỗi phạm",
     "viDef": "hành động phạm luật với cầu thủ khác"
   },
   {
     "word": "penalty kick",
     "ipa": "ˈpɛnəlti kɪk",
+    "type": "common noun, singular",
+    "def": "a kick against only the goalkeeper as a reward for a foul",
     "vi": "quả phạt đền",
     "viDef": "cú sút chỉ đối mặt thủ môn, thưởng do đối phương phạm lỗi"
   },
   {
     "word": "goal kick",
     "ipa": "ɡoʊl kɪk",
+    "type": "common noun, singular",
+    "def": "when the goalie kicks the ball to re-start play",
     "vi": "quả phát bóng lên",
     "viDef": "khi thủ môn phát bóng để chơi tiếp"
   },
   {
     "word": "corner kick",
     "ipa": "ˈkɔɹnɚ kɪk",
+    "type": "common noun, singular",
+    "def": "when a player kicks the ball from a corner after a penalty",
     "vi": "quả phạt góc",
     "viDef": "cú sút từ góc sân sau một lỗi"
   },
   {
     "word": "out of bounds",
     "ipa": "aʊt ʌv baʊndz",
+    "type": "phrase",
+    "def": "outside the area that is allowed for play",
     "vi": "ra ngoài biên",
     "viDef": "ngoài phạm vi được phép chơi"
   },
   {
     "word": "offside",
     "ipa": "ˈɔfsaɪd",
+    "type": "Adjective",
+    "def": "a position on the opponent's part of the field where your are not allowed to be",
     "vi": "việt vị",
     "viDef": "vị trí trong nửa sân đối phương mà cầu thủ không được đứng"
   },
   {
     "word": "goalkeeper",
     "ipa": "ˈɡoʊlˌkipɚ",
+    "type": "common noun, singular",
+    "def": "person who prevents the ball from going into the net (BrE)",
     "vi": "thủ môn",
     "viDef": "người chặn bóng vào lưới (Anh-Anh)"
   },
   {
     "word": "defender",
     "ipa": "dɪˈfɛndɚ",
+    "type": "common noun, singular",
+    "def": "person who prevents the other team from getting near the net",
     "vi": "hậu vệ",
     "viDef": "người ngăn đối phương áp sát khung thành"
   },
   {
     "word": "match",
     "ipa": "mætʃ",
+    "type": "common noun, singular",
+    "def": "game (BrE)",
     "vi": "trận đấu",
     "viDef": "ván đấu (Anh-Anh)"
   },
   {
     "word": "pitch",
     "ipa": "pɪtʃ",
+    "type": "common noun, singular",
+    "def": "soccer field (BrE)",
     "vi": "sân bóng",
     "viDef": "sân bóng đá (Anh-Anh)"
   },
   {
     "word": "championship",
     "ipa": "ˈtʃæmpiənˌʃɪp",
+    "type": "common noun, singular",
+    "def": "final game in a series that determines the overall winner",
     "vi": "trận tranh vô địch",
     "viDef": "trận cuối quyết định người thắng chung cuộc"
   }

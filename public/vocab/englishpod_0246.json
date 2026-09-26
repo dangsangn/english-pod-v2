@@ -2,60 +2,80 @@
   {
     "word": "one way ticket",
     "ipa": "wʌn weɪ ˈtɪkət",
+    "type": "",
+    "def": "a ticket that allows you only to go to a certain destination",
     "vi": "vé một chiều",
     "viDef": "vé chỉ cho đi tới một điểm đến"
   },
   {
     "word": "depart",
     "ipa": "dɪˈpɑɹt",
+    "type": "",
+    "def": "to leave, start a voyage",
     "vi": "khởi hành",
     "viDef": "rời đi, bắt đầu chuyến đi"
   },
   {
     "word": "platform",
     "ipa": "ˈplætfɔɹm",
+    "type": "",
+    "def": "A flat elevated portion of ground",
     "vi": "sân ke tàu",
     "viDef": "khoảng mặt bằng cao lên"
   },
   {
     "word": "on the dot",
     "ipa": "ɑn ðə dɑt",
+    "type": "",
+    "def": "on time, precisely at a certain time",
     "vi": "đúng boong",
     "viDef": "đúng giờ, chính xác vào lúc đó"
   },
   {
     "word": "scheduled departure time",
     "ipa": "ˈskɛdʒʊld dɪˈpɑɹtʃɚ taɪm",
+    "type": "",
+    "def": "planned at a specific time to leave",
     "vi": "giờ khởi hành theo lịch",
     "viDef": "thời điểm đã định để đi"
   },
   {
     "word": "round-trip ticket",
     "ipa": "ɹaʊnd tɹɪp ˈtɪkət",
+    "type": "",
+    "def": "a ticket to travel to and from your destination",
     "vi": "vé khứ hồi",
     "viDef": "vé đi tới nơi và về lại"
   },
   {
     "word": "coach",
     "ipa": "koʊtʃ",
+    "type": "",
+    "def": "a less expensive travel seating option",
     "vi": "ghế phổ thông",
     "viDef": "lựa chọn chỗ ngồi ít tốn kém hơn"
   },
   {
     "word": "hard-sleeper",
     "ipa": "hɑɹd ˈslipɚ",
+    "type": "",
+    "def": "a sleeping train car with less padding",
     "vi": "giường cứng",
     "viDef": "toa giường ngủ có lớp đệm mỏng"
   },
   {
     "word": "soft-sleeper",
     "ipa": "sɑft ˈslipɚ",
+    "type": "",
+    "def": "a sleeping train car with more padding",
     "vi": "giường mềm",
     "viDef": "toa giường ngủ có lớp đệm dày hơn"
   },
   {
     "word": "train conductor",
     "ipa": "tɹeɪn kənˈdʌktɚ",
+    "type": "",
+    "def": "the person in charge of operating the train",
     "vi": "trưởng tàu",
     "viDef": "người phụ trách vận hành đoàn tàu"
   }

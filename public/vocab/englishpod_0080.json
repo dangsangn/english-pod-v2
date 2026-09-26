@@ -2,90 +2,120 @@
   {
     "word": "tackle",
     "ipa": "ˈtækəl",
+    "type": "verb",
+    "def": "deal with something that is difficult",
     "vi": "xử lý, đối phó",
     "viDef": "giải quyết việc gì khó"
   },
   {
     "word": "no matter what",
     "ipa": "noʊ ˈmætɚ wʌt",
+    "type": "phrase",
+    "def": "despite of anything may happen",
     "vi": "dù có chuyện gì",
     "viDef": "bất chấp mọi điều có thể xảy ra"
   },
   {
     "word": "soul mate",
     "ipa": "soʊl meɪt",
+    "type": "common noun, singular",
+    "def": "a close friend who has a deep understanding of you",
     "vi": "bạn tri kỷ",
     "viDef": "người thân thiết hiểu mình sâu sắc"
   },
   {
     "word": "not a day goes by",
     "ipa": "nɑt ə deɪ ɡoʊz baɪ",
+    "type": "phrase",
+    "def": "phrase used to show you always do something",
     "vi": "không ngày nào mà không",
     "viDef": "câu nói cho thấy mình luôn làm việc gì"
   },
   {
     "word": "on purpose",
     "ipa": "ɑn ˈpɝpəs",
+    "type": "phrase",
+    "def": "with intention",
     "vi": "cố tình",
     "viDef": "có ý làm"
   },
   {
     "word": "get worked up",
     "ipa": "ɡɛt wɝkt ʌp",
+    "type": "phrase",
+    "def": "angry, excited, or upset about something",
     "vi": "nóng đầu lên",
     "viDef": "tức, xúc động hoặc bực vì chuyện gì"
   },
   {
     "word": "nut job",
     "ipa": "nʌt dʒɑb",
+    "type": "phrase",
+    "def": "crazy person (informal)",
     "vi": "thằng điên",
     "viDef": "người mất trí (thân mật)"
   },
   {
     "word": "stalk",
     "ipa": "stɔk",
+    "type": "verb",
+    "def": "follow and watch a person (usually dangerous)",
     "vi": "theo dõi bám riết",
     "viDef": "lẽo đẽo theo và quan sát ai (thường là nguy hiểm)"
   },
   {
     "word": "show up",
     "ipa": "ʃoʊ ʌp",
+    "type": "phrase",
+    "def": "appear; come to a place",
     "vi": "xuất hiện",
     "viDef": "ló mặt tới một nơi"
   },
   {
     "word": "insane",
     "ipa": "ɪnˈseɪn",
+    "type": "Adjective",
+    "def": "crazy, not normal",
     "vi": "điên",
     "viDef": "mất trí, không bình thường"
   },
   {
     "word": "stalker",
     "ipa": "ˈstɔkɚ",
+    "type": "common noun, singular",
+    "def": "a person who follows someone for a long period of time in a way that is dangerous",
     "vi": "kẻ bám theo quấy rối",
     "viDef": "người theo dõi ai suốt thời gian dài một cách nguy hiểm"
   },
   {
     "word": "perpetrator",
     "ipa": "ˈpɝpəˌtɹeɪtɚ",
+    "type": "common noun, singular",
+    "def": "person who commits a crime",
     "vi": "kẻ gây án",
     "viDef": "người thực hiện hành vi phạm tội"
   },
   {
     "word": "threaten",
     "ipa": "ˈθɹɛtən",
+    "type": "verb",
+    "def": "say that you will do something to hurt or cause harm to a person",
     "vi": "đe dọa",
     "viDef": "nói sẽ làm điều gây hại cho ai"
   },
   {
     "word": "harass",
     "ipa": "hɚˈæs",
+    "type": "verb",
+    "def": "to annoy or bother someone many times",
     "vi": "quấy rối",
     "viDef": "làm phiền hoặc chọc ai nhiều lần"
   },
   {
     "word": "insanity",
     "ipa": "ˌɪnˈsænəti",
+    "type": "common noun, non-variable",
+    "def": "severe mental illness; the state of being crazy",
     "vi": "sự điên loạn",
     "viDef": "bệnh tâm thần nặng; trạng thái mất trí"
   }

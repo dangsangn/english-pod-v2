@@ -2,108 +2,144 @@
   {
     "word": "encounter",
     "ipa": "ɪnˈkaʊntɚ",
+    "type": "common noun, singular",
+    "def": "meet for a game or battle",
     "vi": "đối đầu",
     "viDef": "gặp nhau trong trận đấu hoặc cuộc chiến"
   },
   {
     "word": "ahead of (someone)",
     "ipa": "əˈhɛd ʌv ˈsʌmwʌn",
+    "type": "Preposition",
+    "def": "in the future",
     "vi": "đang chờ phía trước",
     "viDef": "ở thời gian tới"
   },
   {
     "word": "powerhouse",
     "ipa": "ˈpaʊɚˌhaʊs",
+    "type": "common noun, singular",
+    "def": "a highly energetic, strong team",
     "vi": "đội mạnh",
     "viDef": "tập thể sung sức, hùng hậu"
   },
   {
     "word": "qualify",
     "ipa": "ˈkwɑləˌfaɪ",
+    "type": "verb",
+    "def": "to reach the later stages of a selection process or contest by competing successfully in earlier rounds",
     "vi": "giành suất vào vòng sau",
     "viDef": "thắng ở vòng trước để vào vòng kế tiếp"
   },
   {
     "word": "in top shape",
     "ipa": "ɪn tɑp ʃeɪp",
+    "type": "phrase",
+    "def": "in their best condition",
     "vi": "sung sức nhất",
     "viDef": "đang ở phong độ tốt nhất"
   },
   {
     "word": "serve",
     "ipa": "sɝv",
+    "type": "verb",
+    "def": "hits the ball to start a set of the game",
     "vi": "phát bóng",
     "viDef": "đánh bóng để bắt đầu một ván"
   },
   {
     "word": "bump",
     "ipa": "bʌmp",
+    "type": "verb",
+    "def": "to pass (a volleyball) by redirecting it with the forearms",
     "vi": "đỡ bóng bằng tay",
     "viDef": "chuyền bóng chuyền bằng cẳng tay"
   },
   {
     "word": "set",
     "ipa": "sɛt",
+    "type": "common noun, singular",
+    "def": "the action of putting ball in the air so as to be driven to opponents' court",
     "vi": "nâng bóng",
     "viDef": "đẩy bóng lên cao để đồng đội đập sang sân đối phương"
   },
   {
     "word": "spike",
     "ipa": "spaɪk",
+    "type": "verb",
+    "def": "strongly hit the ball to opponents' court using the palm of the hand",
     "vi": "đập bóng",
     "viDef": "dùng lòng bàn tay đánh mạnh bóng sang sân đối phương"
   },
   {
     "word": "anticipate",
     "ipa": "ænˈtɪsəˌpeɪt",
+    "type": "verb",
+    "def": "to foresee and act in advance of",
     "vi": "đoán trước",
     "viDef": "thấy trước và ra tay sớm"
   },
   {
     "word": "jump serve",
     "ipa": "dʒʌmp sɝv",
+    "type": "common noun, singular",
+    "def": "a serve with the ball firstly thrown overhead and then the player jumping to hit it",
     "vi": "phát bóng bật nhảy",
     "viDef": "tung bóng lên cao rồi bật người đánh"
   },
   {
     "word": "let serve",
     "ipa": "lɛt sɝv",
+    "type": "common noun, singular",
+    "def": "the ball touches the net in a serve but still crosses into the opponents' court",
     "vi": "bóng phát chạm lưới vẫn qua",
     "viDef": "quả phát vướng lưới nhưng vẫn sang được sân đối phương"
   },
   {
     "word": "time out",
     "ipa": "taɪm aʊt",
+    "type": "common noun, singular",
+    "def": "a pause during a game",
     "vi": "hội ý",
     "viDef": "khoảng dừng giữa trận"
   },
   {
     "word": "side out",
     "ipa": "saɪd aʊt",
+    "type": "common noun, singular",
+    "def": "when the team that served the ball loses the rally, causing the other team to serve the next point.",
     "vi": "đổi quyền phát bóng",
     "viDef": "khi bên phát bóng thua đợt cầu, bên kia được phát"
   },
   {
     "word": "whiff",
     "ipa": "wɪf",
+    "type": "phrase",
+    "def": "a mishit — when a player attempts to hit (or spike) the ball with the open hand and nearly misses the ball",
     "vi": "cú đánh trượt",
     "viDef": "khi cầu thủ vung tay đập mà gần như không trúng bóng"
   },
   {
     "word": "dig",
     "ipa": "dɪɡ",
+    "type": "phrase",
+    "def": "the ability to prevent the ball from touching one's court after a spike or attack, particularly a ball that is nearly touching the ground",
     "vi": "cứu bóng sát sàn",
     "viDef": "khả năng đỡ không cho bóng chạm sân sau cú đập, nhất là bóng gần mặt đất"
   },
   {
     "word": "coin toss",
     "ipa": "kɔɪn tɔs",
+    "type": "common noun, singular",
+    "def": "is the practice of throwing a coin in the air to resolve a dispute between two parties",
     "vi": "tung đồng xu",
     "viDef": "cách tung xu để phân định giữa hai bên"
   },
   {
     "word": "draw",
     "ipa": "dɹɔ",
+    "type": "common noun, singular",
+    "def": "a contest or game ending in a tie",
     "vi": "trận hòa",
     "viDef": "cuộc đấu kết thúc với tỉ số bằng nhau"
   }

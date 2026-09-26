@@ -2,66 +2,88 @@
   {
     "word": "weed",
     "ipa": "wid",
+    "type": "",
+    "def": "a drug,Marijuana",
     "vi": "cỏ, cần sa",
     "viDef": "một loại chất gây nghiện, cần sa"
   },
   {
     "word": "come on",
     "ipa": "kʌm ɑn",
+    "type": "",
+    "def": "to ask someone to do something (informal)",
     "vi": "thôi nào",
     "viDef": "câu dùng để rủ hoặc nhờ ai làm gì (thân mật)"
   },
   {
     "word": "connection",
     "ipa": "kəˈnɛkʃən",
+    "type": "",
+    "def": "A person, especially one of influence or importance, with whom one is associated",
     "vi": "đầu mối quan hệ",
     "viDef": "người, nhất là người có ảnh hưởng hoặc quan trọng, mà mình có liên hệ"
   },
   {
     "word": "under arrest",
     "ipa": "ˈʌndɚ ɚˈɛst",
+    "type": "",
+    "def": "the act of legally taking someone to jail",
     "vi": "bị bắt giữ",
     "viDef": "việc chính thức đưa ai vào giam"
   },
   {
     "word": "illicit",
     "ipa": "ˌɪˈlɪsət",
+    "type": "",
+    "def": "illegal, not authorized",
     "vi": "trái phép",
     "viDef": "bất hợp pháp, không được cho phép"
   },
   {
     "word": "undercover",
     "ipa": "ˌʌndɚˈkʌvɚ",
+    "type": "",
+    "def": "to work under the disguise of someone else",
     "vi": "chìm, nằm vùng",
     "viDef": "hoạt động dưới vỏ bọc một người khác"
   },
   {
     "word": "rehab",
     "ipa": "ɹihæb",
+    "type": "",
+    "def": "a place to recover from addicition",
     "vi": "trung tâm cai",
     "viDef": "nơi để hồi phục khỏi cơn nghiện"
   },
   {
     "word": "withdrawal",
     "ipa": "wɪðˈdɹɔəl",
+    "type": "",
+    "def": "to stop using something; the feeling you get when you stop using drugs",
     "vi": "hội chứng cai",
     "viDef": "việc ngưng dùng thứ gì; cảm giác khi cắt thuốc"
   },
   {
     "word": "craving",
     "ipa": "ˈkɹeɪvɪŋ",
+    "type": "",
+    "def": "a desire to do something (eat, do drugs, smoke, etc.)",
     "vi": "cơn thèm",
     "viDef": "ham muốn làm việc gì như ăn, dùng thuốc, hút..."
   },
   {
     "word": "high",
     "ipa": "haɪ",
+    "type": "",
+    "def": "a feeling you get when you are on drugs",
     "vi": "cảm giác phê",
     "viDef": "trạng thái khi đang chịu tác dụng của chất gây nghiện"
   },
   {
     "word": "hallucinate",
     "ipa": "həˈlusəneɪt",
+    "type": "",
+    "def": "to have hallucinations, where your brain imagines things that are not there",
     "vi": "bị ảo giác",
     "viDef": "thấy những thứ do đầu tự tưởng ra chứ không có thật"
   }

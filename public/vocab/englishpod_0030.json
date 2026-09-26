@@ -2,66 +2,88 @@
   {
     "word": "thoughtful",
     "ipa": "ˈθɔtfəl",
+    "type": "Adjective",
+    "def": "showing concern for the needs and feelings of other people",
     "vi": "chu đáo",
     "viDef": "để tâm đến nhu cầu và cảm xúc của người khác"
   },
   {
     "word": "appetite",
     "ipa": "ˈæpəˌtaɪt",
+    "type": "common noun, singular",
+    "def": "a physical desire of food",
     "vi": "cảm giác thèm ăn",
     "viDef": "nhu cầu muốn ăn của cơ thể"
   },
   {
     "word": "give the creeps",
     "ipa": "ɡɪv ðə kɹips",
+    "type": "phrase",
+    "def": "make someone to feel scared and uncomfortable",
     "vi": "làm rợn người",
     "viDef": "khiến ai thấy sợ và khó chịu"
   },
   {
     "word": "get to know",
     "ipa": "ɡɛt tu noʊ",
+    "type": "verb",
+    "def": "start to know, become familiar with someone",
     "vi": "làm quen",
     "viDef": "bắt đầu biết và thân dần với ai"
   },
   {
     "word": "why on earth",
     "ipa": "waɪ ɑn ɝθ",
+    "type": "phrase",
+    "def": "(expression to emphasize surprise or frustration)",
     "vi": "sao lại thế được",
     "viDef": "cách nói nhấn mạnh sự ngạc nhiên hoặc bực dọc"
   },
   {
     "word": "decline",
     "ipa": "dɪˈklaɪn",
+    "type": "verb",
+    "def": "say you will not or cannot do something",
     "vi": "từ chối",
     "viDef": "nói rằng mình không làm hoặc không thể làm"
   },
   {
     "word": "rope into",
     "ipa": "ɹoʊp ˈɪntu",
+    "type": "verb",
+    "def": "convince someone to do something",
     "vi": "lôi vào việc",
     "viDef": "thuyết phục ai làm gì"
   },
   {
     "word": "make yourself at home",
     "ipa": "meɪk jɚˈsɛlf æt hoʊm",
+    "type": "phrase",
+    "def": "polite way to ask guests to make themselves comfortable",
     "vi": "cứ tự nhiên nhé",
     "viDef": "câu mời khách thoải mái như ở nhà"
   },
   {
     "word": "hospitable",
     "ipa": "ˈhɑˈspɪtəbəl",
+    "type": "Adjective",
+    "def": "being a friendly and caring host to the guests",
     "vi": "hiếu khách",
     "viDef": "chủ nhà thân thiện, chu đáo với khách"
   },
   {
     "word": "potluck",
     "ipa": "ˈpɑtlʌk",
+    "type": "common noun, singular",
+    "def": "a party that requires everybody to bring food",
     "vi": "tiệc góp món",
     "viDef": "buổi tiệc ai cũng mang một món tới"
   },
   {
     "word": "housewaming",
     "ipa": "ˈhaʊswɔɹmɪŋ",
+    "type": "common noun, singular",
+    "def": "a party to celebrate moving into a new home",
     "vi": "tiệc tân gia",
     "viDef": "tiệc mừng dọn về nhà mới"
   }

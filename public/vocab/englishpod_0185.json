@@ -2,66 +2,88 @@
   {
     "word": "country",
     "ipa": "ˈkʌntɹi",
+    "type": "",
+    "def": "rural areas",
     "vi": "vùng nông thôn",
     "viDef": "các khu vực nông thôn"
   },
   {
     "word": "graze",
     "ipa": "ɡɹeɪz",
+    "type": "",
+    "def": "to feed in a meadow or pasture",
     "vi": "gặm cỏ",
     "viDef": "ăn trên đồng cỏ hoặc bãi chăn"
   },
   {
     "word": "milk",
     "ipa": "mɪlk",
+    "type": "",
+    "def": "get the milk from a cow",
     "vi": "vắt sữa",
     "viDef": "lấy sữa từ con bò"
   },
   {
     "word": "don't know the first thing about",
     "ipa": "doʊnt noʊ ðə fɝst θɪŋ əˈbaʊt",
+    "type": "",
+    "def": "know little about",
     "vi": "không biết một mảy",
     "viDef": "biết rất ít về việc gì"
   },
   {
     "word": "stable",
     "ipa": "ˈsteɪbəl",
+    "type": "",
+    "def": "a building for the shelter and feeding of domestic animals, especially horses and cattle",
     "vi": "chuồng gia súc",
     "viDef": "nhà để nuôi và cho ăn gia súc, nhất là ngựa và bò"
   },
   {
     "word": "hack it",
     "ipa": "hæk ɪt",
+    "type": "",
+    "def": "be able to manage or manage successfully",
     "vi": "kham được",
     "viDef": "lo nổi, làm được việc đó"
   },
   {
     "word": "stall",
     "ipa": "stɔl",
+    "type": "",
+    "def": "a compartment for one domestic animal in a barn or shed",
     "vi": "ô chuồng",
     "viDef": "khoang riêng cho một con gia súc trong chuồng hoặc lán"
   },
   {
     "word": "pig sty",
     "ipa": "pɪɡ staɪ",
+    "type": "",
+    "def": "a pen or enclosure for pigs; pigpen",
     "vi": "chuồng heo",
     "viDef": "ô hoặc khu rào cho lợn"
   },
   {
     "word": "pen",
     "ipa": "pɛn",
+    "type": "",
+    "def": "a small enclosure for domestic animals",
     "vi": "ràn, ô rào",
     "viDef": "khu rào nhỏ cho gia súc"
   },
   {
     "word": "chicken coop",
     "ipa": "ˈtʃɪkən kup",
+    "type": "",
+    "def": "an enclosure or cage for chickens",
     "vi": "chuồng gà",
     "viDef": "ô hoặc lồng nuôi gà"
   },
   {
     "word": "herd",
     "ipa": "hɝd",
+    "type": "",
+    "def": "a group of cattle or other domestic animals of a single kind kept together",
     "vi": "đàn gia súc",
     "viDef": "nhóm bò hoặc gia súc cùng loài nuôi chung"
   }

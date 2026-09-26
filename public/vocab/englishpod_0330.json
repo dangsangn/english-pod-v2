@@ -2,78 +2,104 @@
   {
     "word": "medium",
     "ipa": "ˈmidiəm",
+    "type": "",
+    "def": "a person through whom the spirits of the dead are alleged to be able to contact the living.",
     "vi": "người gọi hồn",
     "viDef": "người được cho là có thể giúp hồn người chết liên lạc với người sống"
   },
   {
     "word": "gifted",
     "ipa": "ˈɡɪftəd",
+    "type": "",
+    "def": "having great special talent or ability",
     "vi": "có thiên bẩm",
     "viDef": "có tài năng hoặc khả năng đặc biệt"
   },
   {
     "word": "psychic",
     "ipa": "ˈsaɪkɪk",
+    "type": "",
+    "def": "sensitive to influences or forces of a nonphysical or supernatural nature.",
     "vi": "nhạy cảm siêu nhiên",
     "viDef": "nhạy với những tác động hoặc lực thuộc về phi vật chất hay siêu nhiên"
   },
   {
     "word": "historic",
     "ipa": "hɪˈstɔɹɪk",
+    "type": "",
+    "def": "of, pertaining to, treating, or characteristic of history or past events",
     "vi": "thuộc lịch sử",
     "viDef": "liên quan tới, bàn về hoặc mang tính lịch sử và các sự kiện đã qua"
   },
   {
     "word": "practice",
     "ipa": "ˈpɹæktəs",
+    "type": "",
+    "def": "to do or perform (something) repeatedly",
     "vi": "hành nghề, luyện tập",
     "viDef": "làm hoặc thực hiện điều gì nhiều lần"
   },
   {
     "word": "tarot",
     "ipa": "tæˈɹoʊ",
+    "type": "",
+    "def": "any of a set of 22 playing cards bearing allegorical representations, used for fortunetelling",
     "vi": "lá bài tarot",
     "viDef": "một trong bộ 22 lá bài mang hình ẩn dụ, dùng để đoán vận"
   },
   {
     "word": "ash",
     "ipa": "æʃ",
+    "type": "",
+    "def": "the powdery residue of matter that remains after burning",
     "vi": "tro",
     "viDef": "phần bột còn lại sau khi thứ gì cháy hết"
   },
   {
     "word": "superstition",
     "ipa": "ˌsupɚˈstɪʃən",
+    "type": "",
+    "def": "irrational fear of what is unknown or mysterious",
     "vi": "sự mê tín",
     "viDef": "nỗi sợ vô lý trước những gì chưa biết hoặc khó hiểu"
   },
   {
     "word": "hocus pocus mumbo jumbo",
     "ipa": "ˈhoʊkəs ˈpoʊkəs ˈmʌmboʊ ˈdʒʌmboʊ",
+    "type": "",
+    "def": "foolish religious reverence, ritual, or incantation",
     "vi": "trò bùa chú vớ vẩn",
     "viDef": "sự sùng bái, nghi thức hoặc câu thần chú ngớ ngẩn"
   },
   {
     "word": "talent",
     "ipa": "ˈtælənt",
+    "type": "",
+    "def": "a special natural ability or aptitude",
     "vi": "tài năng",
     "viDef": "khả năng hoặc năng khiếu trời cho"
   },
   {
     "word": "far fetched",
     "ipa": "fɑɹ fɛtʃt",
+    "type": "",
+    "def": "improbable",
     "vi": "xa vời khó tin",
     "viDef": "khó có khả năng xảy ra"
   },
   {
     "word": "voodoo",
     "ipa": "ˈvudu",
+    "type": "",
+    "def": "black magic; sorcery",
     "vi": "bùa voodoo",
     "viDef": "ma thuật đen; pháp thuật"
   },
   {
     "word": "gypsie",
     "ipa": "ˈdʒɪpsi",
+    "type": "",
+    "def": "a member of a people scattered throughout Europe and North America",
     "vi": "người Digan",
     "viDef": "thành viên của một tộc người sống rải rác khắp châu Âu và Bắc Mỹ"
   }

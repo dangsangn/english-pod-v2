@@ -2,84 +2,112 @@
   {
     "word": "run through",
     "ipa": "ɹʌn θɹu",
+    "type": "",
+    "def": "rehearse quickly",
     "vi": "rà lại một lượt",
     "viDef": "diễn thử nhanh cho nhớ"
   },
   {
     "word": "snoop",
     "ipa": "snup",
+    "type": "",
+    "def": "pry into the private affairs of others",
     "vi": "dò xét",
     "viDef": "chọc vào chuyện riêng của người khác"
   },
   {
     "word": "outta",
     "ipa": "ˈutə",
+    "type": "",
+    "def": "out of",
     "vi": "ra khỏi",
     "viDef": "cách nói tắt của \"out of\""
   },
   {
     "word": "slammer",
     "ipa": "ˈslæmɚ",
+    "type": "",
+    "def": "a prison or jail",
     "vi": "nhà đá",
     "viDef": "nhà tù, chỗ giam"
   },
   {
     "word": "intel",
     "ipa": "ɪnˈtɛl",
+    "type": "",
+    "def": "short for intelligence;information or instructions",
     "vi": "tin tình báo",
     "viDef": "dạng ngắn của \"intelligence\": thông tin hoặc chỉ thị"
   },
   {
     "word": "lookout",
     "ipa": "ˈlʊkaʊt",
+    "type": "",
+    "def": "person who watches and warns if there is danger",
     "vi": "người canh đường",
     "viDef": "người quan sát và báo khi có nguy hiểm"
   },
   {
     "word": "go-ahead",
     "ipa": "ɡoʊ əˈhɛd",
+    "type": "",
+    "def": "permission to do something",
     "vi": "cái gật đầu",
     "viDef": "sự cho phép làm việc gì"
   },
   {
     "word": "rendezvous",
     "ipa": "ˈɹɑndɪˌvu",
+    "type": "",
+    "def": "a meeting planned at a certain time and place",
     "vi": "điểm hẹn",
     "viDef": "cuộc gặp đã định giờ và địa điểm"
   },
   {
     "word": "hitch",
     "ipa": "hɪtʃ",
+    "type": "",
+    "def": "mistake;an unforeseen obstacle",
     "vi": "trục trặc",
     "viDef": "sai sót, chướng ngại không lường trước"
   },
   {
     "word": "for Pete’s sake",
     "ipa": "fɔɹ pit ɛs seɪk",
+    "type": "",
+    "def": "a phrase used to express frustration",
     "vi": "trời ạ",
     "viDef": "câu dùng để tỏ sự bực dọc"
   },
   {
     "word": "forgetful",
     "ipa": "fɔɹˈɡɛtfəl",
+    "type": "",
+    "def": "someone who forgets details very easily",
     "vi": "hay quên",
     "viDef": "người rất dễ quên chi tiết"
   },
   {
     "word": "details",
     "ipa": "dɪˈteɪlz",
+    "type": "",
+    "def": "specific and important information",
     "vi": "chi tiết",
     "viDef": "thông tin cụ thể và quan trọng"
   },
   {
     "word": "misdirection",
     "ipa": "ˌmɪsdəˈɹɛkʃən",
+    "type": "",
+    "def": "to give the impression of one act but do another",
     "vi": "đánh lạc hướng",
     "viDef": "làm như đang làm việc này mà thật ra làm việc khác"
   },
   {
     "word": "unreliable",
     "ipa": "ˌʌnɹɪˈlaɪəbəl",
+    "type": "",
+    "def": "a person who cannot be trusted to do what is asked",
     "vi": "không đáng cậy",
     "viDef": "người không thể tin sẽ làm điều được nhờ"
   }

@@ -2,60 +2,80 @@
   {
     "word": "sicko",
     "ipa": "ˈsɪkoʊ",
+    "type": "",
+    "def": "A deranged, psychotic, or morbidly obsessed person",
     "vi": "kẻ bệnh hoạn",
     "viDef": "người loạn trí hoặc bị ám bởi những thứ bệnh hoạn"
   },
   {
     "word": "red handed",
     "ipa": "ɹɛd ˈhændəd",
+    "type": "",
+    "def": "doing something wrong or illegal",
     "vi": "quả tang",
     "viDef": "đang làm điều sai hoặc trái luật"
   },
   {
     "word": "invade",
     "ipa": "ɪnˈveɪd",
+    "type": "",
+    "def": "to affect in an unwanted way",
     "vi": "xâm phạm",
     "viDef": "tác động vào theo cách không ai muốn"
   },
   {
     "word": "paranoid",
     "ipa": "ˈpɛɹəˌnɔɪd",
+    "type": "",
+    "def": "having an feeling that people will harm you",
     "vi": "hoang tưởng bị hại",
     "viDef": "cảm giác người ta sẽ làm hại mình"
   },
   {
     "word": "need to know basis",
     "ipa": "nid tu noʊ ˈbeɪsəs",
+    "type": "",
+    "def": "situation where you have only the information you need",
     "vi": "chỉ biết phần cần biết",
     "viDef": "tình trạng chỉ được cho thông tin vừa đủ dùng"
   },
   {
     "word": "schizophrenia",
     "ipa": "ˌskɪtsəˈfɹiniə",
+    "type": "",
+    "def": "a psychotic disorder characterized by withdrawal from reality, hallucinations, or emotional instability",
     "vi": "bệnh tâm thần phân liệt",
     "viDef": "chứng loạn thần với biểu hiện tách rời thực tại, ảo giác hoặc cảm xúc bất định"
   },
   {
     "word": "the grid",
     "ipa": "ðə ɡɹɪd",
+    "type": "",
+    "def": "informal way of describing the network of information that can be used to keep track of someone",
     "vi": "mạng lưới theo dõi",
     "viDef": "cách nói thân mật về hệ thông tin dùng để lần ra một người"
   },
   {
     "word": "trace",
     "ipa": "tɹeɪs",
+    "type": "",
+    "def": "To locate or discover by searching or researching evidence",
     "vi": "truy ra",
     "viDef": "tìm hoặc phát hiện bằng cách lần theo dấu vết"
   },
   {
     "word": "peeping tom",
     "ipa": "ˈpipɪŋ tɑm",
+    "type": "",
+    "def": "A person who gets pleasure, from secretly watching others; a voyeur.",
     "vi": "kẻ nhìn trộm",
     "viDef": "người thích rình xem người khác"
   },
   {
     "word": "delusion",
     "ipa": "dɪˈluʒən",
+    "type": "",
+    "def": "A false belief strongly held in spite of invalidating evidence, especially as a symptom of mental illness",
     "vi": "ảo tưởng",
     "viDef": "niềm tin sai mà vẫn giữ chặt dù chứng cứ phủ nhận, nhất là dấu hiệu bệnh tâm thần"
   }

@@ -2,72 +2,96 @@
   {
     "word": "freeze",
     "ipa": "fɹiz",
+    "type": "principle verb, present simple",
+    "def": "to stop working properly",
     "vi": "đơ, treo máy",
     "viDef": "ngừng hoạt động bình thường"
   },
   {
     "word": "take a look",
     "ipa": "teɪk ə lʊk",
+    "type": "phrase",
+    "def": "see, revise",
     "vi": "xem thử",
     "viDef": "nhìn qua, kiểm tra lại"
   },
   {
     "word": "act up",
     "ipa": "ækt ʌp",
+    "type": "principle verb, present simple",
+    "def": "not working properly",
     "vi": "giở chứng",
     "viDef": "chạy không đúng, trục trặc"
   },
   {
     "word": "be right up",
     "ipa": "bi ɹaɪt ʌp",
+    "type": "phrase",
+    "def": "go upstairs soon",
     "vi": "lên ngay đây",
     "viDef": "sẽ lên lầu ngay"
   },
   {
     "word": "pick up",
     "ipa": "pɪk ʌp",
+    "type": "principle verb, present simple",
+    "def": "get, acquire",
     "vi": "dính, nhiễm phải",
     "viDef": "nhận, mắc phải"
   },
   {
     "word": "browse",
     "ipa": "bɹaʊz",
+    "type": "principle verb, present simple",
+    "def": "look, search",
     "vi": "lướt xem",
     "viDef": "xem, tìm kiếm"
   },
   {
     "word": "up to date",
     "ipa": "ʌp tu deɪt",
+    "type": "phrase",
+    "def": "having all the most recent information",
     "vi": "cập nhật mới nhất",
     "viDef": "có đầy đủ thông tin mới nhất"
   },
   {
     "word": "monitor",
     "ipa": "ˈmɑnətɚ",
+    "type": "common noun, singular",
+    "def": "computer screen",
     "vi": "màn hình máy tính",
     "viDef": "màn hình vi tính"
   },
   {
     "word": "computer tech",
     "ipa": "kəmˈpjutɚ tɛk",
+    "type": "common noun, singular",
+    "def": "person in a company who fixes computers",
     "vi": "nhân viên kỹ thuật máy tính",
     "viDef": "người trong công ty chuyên sửa máy tính"
   },
   {
     "word": "corrupt file",
     "ipa": "kɚˈʌpt faɪl",
+    "type": "common noun, singular",
+    "def": "damaged or broken computer file that can't be opened",
     "vi": "tệp bị hỏng",
     "viDef": "tệp máy tính bị lỗi, không mở được"
   },
   {
     "word": "surf the net",
     "ipa": "sɝf ðə nɛt",
+    "type": "phrase",
+    "def": "look for information on the internet",
     "vi": "lướt mạng",
     "viDef": "tìm thông tin trên internet"
   },
   {
     "word": "web browser",
     "ipa": "wɛb ˈbɹaʊzɚ",
+    "type": "common noun, singular",
+    "def": "computer program that allows you to go on the internet",
     "vi": "trình duyệt web",
     "viDef": "phần mềm giúp bạn truy cập internet"
   }

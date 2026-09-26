@@ -2,126 +2,168 @@
   {
     "word": "quite the (noun)",
     "ipa": "kwaɪt ðə naʊn",
+    "type": "phrase",
+    "def": "used to say it was good",
     "vi": "quả là một...",
     "viDef": "câu dùng để khen điều gì hay"
   },
   {
     "word": "presentation",
     "ipa": "ˌpɹɛzənˈteɪʃən",
+    "type": "common noun, singular",
+    "def": "speech, demo, a meeting where you present something",
     "vi": "bài trình bày",
     "viDef": "buổi thuyết trình hoặc giới thiệu"
   },
   {
     "word": "honestly",
     "ipa": "ˈɑnəstli",
+    "type": "General Adverb",
+    "def": "to tell the truth, frankly speaking",
     "vi": "thật lòng mà nói",
     "viDef": "nói thẳng, nói thật"
   },
   {
     "word": "blow (someone) away",
     "ipa": "bloʊ ˈsʌmwʌn əˈweɪ",
+    "type": "verb",
+    "def": "impressed by",
     "vi": "làm ai nể phục",
     "viDef": "gây ấn tượng mạnh"
   },
   {
     "word": "wow (someone)",
     "ipa": "waʊ ˈsʌmwʌn",
+    "type": "verb",
+    "def": "amaze, impress",
     "vi": "làm ai trầm trồ",
     "viDef": "khiến ai thán phục"
   },
   {
     "word": "it was nothing",
     "ipa": "ɪt wɑz ˈnʌθɪŋ",
+    "type": "phrase",
+    "def": "use to show humbleness",
     "vi": "có gì đâu",
     "viDef": "câu nói cho thấy mình khiêm tốn"
   },
   {
     "word": "deserve",
     "ipa": "dɪˈzɝv",
+    "type": "verb",
+    "def": "are entitled to",
     "vi": "xứng đáng được",
     "viDef": "có quyền nhận"
   },
   {
     "word": "recognition",
     "ipa": "ˌɹɛkəɡˈnɪʃən",
+    "type": "common noun, non-variable",
+    "def": "praises, credit",
     "vi": "sự ghi công",
     "viDef": "lời khen, sự công nhận"
   },
   {
     "word": "look back on",
     "ipa": "lʊk bæk ɑn",
+    "type": "verb",
+    "def": "recall the past",
     "vi": "ngoảnh lại",
     "viDef": "nhớ lại chuyện đã qua"
   },
   {
     "word": "improvement",
     "ipa": "ˌɪmˈpɹuvmənt",
+    "type": "common noun, singular",
+    "def": "advance, progress",
     "vi": "sự tiến bộ",
     "viDef": "bước tiến, sự khá lên"
   },
   {
     "word": "give someone a hand",
     "ipa": "ɡɪv ˈsʌmwʌn ə hænd",
+    "type": "phrase",
+    "def": "help someone",
     "vi": "phụ ai một tay",
     "viDef": "giúp đỡ ai"
   },
   {
     "word": "wiz",
     "ipa": "wɪz",
+    "type": "common noun, singular",
+    "def": "genius",
     "vi": "thần đồng",
     "viDef": "người cực giỏi"
   },
   {
     "word": "take on board",
     "ipa": "teɪk ɑn bɔɹd",
+    "type": "verb",
+    "def": "adopt",
     "vi": "tiếp thu",
     "viDef": "nhận lấy để áp dụng"
   },
   {
     "word": "feedback",
     "ipa": "ˈfidbæk",
+    "type": "common noun, non-variable",
+    "def": "other people's opinions",
     "vi": "góp ý",
     "viDef": "ý kiến của người khác"
   },
   {
     "word": "think though",
     "ipa": "θɪŋk ðoʊ",
+    "type": "verb",
+    "def": "to carefully consider and think about it",
     "vi": "nghĩ cho thấu",
     "viDef": "cân nhắc kỹ lưỡng"
   },
   {
     "word": "well done",
     "ipa": "wɛl dʌn",
+    "type": "phrase",
+    "def": "good job",
     "vi": "làm tốt lắm",
     "viDef": "khá lắm"
   },
   {
     "word": "constructive criticism",
     "ipa": "kənˈstɹʌktɪv ˈkɹɪtɪˌsɪzəm",
+    "type": "common noun, non-variable",
+    "def": "suggestions for improvement",
     "vi": "góp ý mang tính xây dựng",
     "viDef": "lời gợi ý để làm tốt hơn"
   },
   {
     "word": "recognize",
     "ipa": "ˈɹɛkəɡˌnaɪz",
+    "type": "verb",
+    "def": "to publicity give special attention to someone for doing a good job",
     "vi": "tuyên dương",
     "viDef": "công khai ghi nhận ai làm tốt"
   },
   {
     "word": "praise",
     "ipa": "pɹeɪz",
+    "type": "common noun, non-variable",
+    "def": "the action of saying a person did a good job",
     "vi": "lời khen",
     "viDef": "việc nói rằng ai đã làm tốt"
   },
   {
     "word": "encourage",
     "ipa": "ɛnˈkɝɪdʒ",
+    "type": "verb",
+    "def": "make someone confident; help them do better",
     "vi": "động viên",
     "viDef": "làm ai tự tin, giúp họ làm tốt hơn"
   },
   {
     "word": "give credit",
     "ipa": "ɡɪv ˈkɹɛdət",
+    "type": "phrase",
+    "def": "praise given to someone for doing a good job",
     "vi": "ghi nhận công",
     "viDef": "khen người làm tốt"
   }

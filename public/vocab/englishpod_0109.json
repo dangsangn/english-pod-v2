@@ -2,60 +2,80 @@
   {
     "word": "ups and downs",
     "ipa": "ʌps ənd daʊnz",
+    "type": "phrase",
+    "def": "good times and bad times",
     "vi": "lúc thăng lúc trầm",
     "viDef": "khi vui khi buồn"
   },
   {
     "word": "break up",
     "ipa": "bɹeɪk ʌp",
+    "type": "verb",
+    "def": "end the romantic relationship",
     "vi": "chia tay",
     "viDef": "kết thúc quan hệ tình cảm"
   },
   {
     "word": "work out",
     "ipa": "wɝk aʊt",
+    "type": "phrase",
+    "def": "solve, overcome",
     "vi": "giải quyết được",
     "viDef": "xử lý, vượt qua"
   },
   {
     "word": "get through",
     "ipa": "ɡɛt θɹu",
+    "type": "phrase",
+    "def": "solve, overcome",
     "vi": "vượt qua",
     "viDef": "giải quyết, chịu đựng cho qua"
   },
   {
     "word": "stick together",
     "ipa": "stɪk təˈɡɛðɚ",
+    "type": "phrase",
+    "def": "stay together and help each other",
     "vi": "sát cánh bên nhau",
     "viDef": "ở bên nhau và cùng giúp nhau"
   },
   {
     "word": "call off",
     "ipa": "kɔl ɔf",
+    "type": "verb",
+    "def": "to cancel or postpone",
     "vi": "hủy, hoãn",
     "viDef": "bỏ hoặc dời lại"
   },
   {
     "word": "settle down",
     "ipa": "ˈsɛtəl daʊn",
+    "type": "verb",
+    "def": "to begin living a stable and orderly life",
     "vi": "an cư lập nghiệp",
     "viDef": "bắt đầu sống ổn định, có nề nếp"
   },
   {
     "word": "cohabit",
     "ipa": "koʊˈhæbɪt",
+    "type": "principle verb, present simple",
+    "def": "to live together in a sexual relationship, especially when not legally married.",
     "vi": "sống chung",
     "viDef": "ở cùng nhau như vợ chồng dù chưa cưới"
   },
   {
     "word": "propose",
     "ipa": "pɹəˈpoʊz",
+    "type": "principle verb, present simple",
+    "def": "To form or make a proposal, especially of marriage.",
     "vi": "cầu hôn",
     "viDef": "ngỏ lời, nhất là lời cưới xin"
   },
   {
     "word": "cheat on",
     "ipa": "tʃit ɑn",
+    "type": "phrase",
+    "def": "be sexually unfaithful to one's partner in marriage",
     "vi": "ngoại tình",
     "viDef": "không chung thủy với vợ hoặc chồng mình"
   }

@@ -2,84 +2,112 @@
   {
     "word": "hurry up",
     "ipa": "ˈhɝi ʌp",
+    "type": "phrase",
+    "def": "move faster",
     "vi": "nhanh lên",
     "viDef": "đi nhanh hơn"
   },
   {
     "word": "make a left",
     "ipa": "meɪk ə lɛft",
+    "type": "phrase",
+    "def": "turn left",
     "vi": "rẽ trái",
     "viDef": "quẹo trái"
   },
   {
     "word": "step on it",
     "ipa": "stɛp ɑn ɪt",
+    "type": "phrase",
+    "def": "drive a lot faster",
     "vi": "đạp ga lên",
     "viDef": "lái nhanh hơn nhiều"
   },
   {
     "word": "nuts",
     "ipa": "nʌts",
+    "type": "Adjective",
+    "def": "crazy",
     "vi": "khùng",
     "viDef": "điên rồ"
   },
   {
     "word": "speed up",
     "ipa": "spid ʌp",
+    "type": "verb",
+    "def": "go faster",
     "vi": "tăng tốc",
     "viDef": "đi nhanh hơn"
   },
   {
     "word": "have a fit",
     "ipa": "hæv ə fɪt",
+    "type": "phrase",
+    "def": "get very angry",
     "vi": "nổi đóa",
     "viDef": "nổi giận đùng đùng"
   },
   {
     "word": "cut through",
     "ipa": "kʌt θɹu",
+    "type": "phrase",
+    "def": "quickly go past or though something that blocks you",
     "vi": "cắt ngang qua",
     "viDef": "đi tắt qua chỗ đang bị chắn"
   },
   {
     "word": "packed",
     "ipa": "pækt",
+    "type": "Adjective",
+    "def": "full, having lots of cars",
     "vi": "chật cứng xe",
     "viDef": "đầy, rất nhiều xe"
   },
   {
     "word": "road rage",
     "ipa": "ɹoʊd ɹeɪdʒ",
+    "type": "phrase",
+    "def": "be very angry at other drivers while driving",
     "vi": "cơn giận khi lái xe",
     "viDef": "nổi nóng với tài xế khác lúc đang lái"
   },
   {
     "word": "back street",
     "ipa": "bæk stɹit",
+    "type": "phrase",
+    "def": "small street that is away from the main streets",
     "vi": "đường hẻm",
     "viDef": "đường nhỏ nằm xa các trục đường chính"
   },
   {
     "word": "u-turn",
     "ipa": "ju tɝn",
+    "type": "phrase",
+    "def": "a 180 degree turn in the car",
     "vi": "quay đầu xe",
     "viDef": "cú quay 180 độ bằng ô tô"
   },
   {
     "word": "to back up",
     "ipa": "tu bæk ʌp",
+    "type": "principle verb, infinitive",
+    "def": "to move backwards, the opposite of go forwards",
     "vi": "lùi xe",
     "viDef": "đi lùi, ngược với tiến"
   },
   {
     "word": "to pass",
     "ipa": "tu pæs",
+    "type": "principle verb, infinitive",
+    "def": "to drive past another car on the road to pass a car on the road",
     "vi": "vượt xe",
     "viDef": "lái vượt qua xe khác trên đường"
   },
   {
     "word": "to park",
     "ipa": "tu pɑɹk",
+    "type": "principle verb, infinitive",
+    "def": "to stop the car and turn off the engine",
     "vi": "đỗ xe",
     "viDef": "dừng xe và tắt máy"
   }

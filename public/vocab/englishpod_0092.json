@@ -2,96 +2,128 @@
   {
     "word": "heya",
     "ipa": "ˈheɪə",
+    "type": "Interjection",
+    "def": "hi, you (informal)",
     "vi": "ê, chào",
     "viDef": "cách chào thân mật"
   },
   {
     "word": "swell",
     "ipa": "swɛl",
+    "type": "Adjective",
+    "def": "really good (old-fashioned)",
     "vi": "tuyệt cú mèo",
     "viDef": "rất hay (cách nói xưa)"
   },
   {
     "word": "sock hop",
     "ipa": "sɑk hɑp",
+    "type": "common noun, singular",
+    "def": "dances held usually in high school gym or cafeteria",
     "vi": "buổi nhảy trường",
     "viDef": "buổi khiêu vũ thường tổ chức ở nhà thể thao hoặc căng tin trường"
   },
   {
     "word": "a blast",
     "ipa": "ə blæst",
+    "type": "common noun, singular",
+    "def": "a very fun time",
     "vi": "một buổi cực vui",
     "viDef": "khoảng thời gian rất vui"
   },
   {
     "word": "Sadie Hawkins dance",
     "ipa": "ˈsædi ˈhɔkɪnz dæns",
+    "type": "",
+    "def": "an informal dance usually in high school with girls invite boys",
     "vi": "buổi nhảy nữ mời nam",
     "viDef": "buổi khiêu vũ ở trường mà con gái mời con trai"
   },
   {
     "word": "have one's eye on (someone)",
     "ipa": "hæv wʌnz aɪ ɑn ˈsʌmwʌn",
+    "type": "phrase",
+    "def": "focus your attention on something you want",
     "vi": "để ý ai",
     "viDef": "chú mắt vào thứ mình muốn"
   },
   {
     "word": "ease off",
     "ipa": "iz ɔf",
+    "type": "phrase",
+    "def": "stop putting pressure on someone",
     "vi": "nới tay ra",
     "viDef": "thôi gây áp lực cho ai"
   },
   {
     "word": "knuckle-sandwich",
     "ipa": "ˈnʌkəl ˈsændwɪtʃ",
+    "type": "common noun, singular",
+    "def": "a punch",
     "vi": "một quả đấm",
     "viDef": "cú đánh bằng tay"
   },
   {
     "word": "cool it",
     "ipa": "kul ɪt",
+    "type": "phrase",
+    "def": "relax, take it easy",
     "vi": "hạ nhiệt đi",
     "viDef": "bình tĩnh, từ từ"
   },
   {
     "word": "pipsqueak",
     "ipa": "ˈpɪpskwik",
+    "type": "common noun, singular",
+    "def": "someone who is not important",
     "vi": "thằng cắc ké",
     "viDef": "người chẳng quan trọng gì"
   },
   {
     "word": "go ape",
     "ipa": "ɡoʊ eɪp",
+    "type": "phrase",
+    "def": "get really angry and explode",
     "vi": "nổi điên",
     "viDef": "tức đến bùng nổ"
   },
   {
     "word": "be on cloud nine",
     "ipa": "bi ɑn klaʊd naɪn",
+    "type": "phrase",
+    "def": "be really happy",
     "vi": "như trên chín tầng mây",
     "viDef": "vui hết sức"
   },
   {
     "word": "cool cat",
     "ipa": "kul kæt",
+    "type": "phrase",
+    "def": "a very cool person",
     "vi": "tay chịu chơi",
     "viDef": "người rất ngầu"
   },
   {
     "word": "flick",
     "ipa": "flɪk",
+    "type": "common noun, singular",
+    "def": "movie, film",
     "vi": "phim",
     "viDef": "bộ phim"
   },
   {
     "word": "party pooper",
     "ipa": "ˈpɑɹti ˈpupɚ",
+    "type": "common noun, singular",
+    "def": "a person who is not fun",
     "vi": "kẻ làm mất vui",
     "viDef": "người chẳng biết chơi"
   },
   {
     "word": "no sweat",
     "ipa": "noʊ swɛt",
+    "type": "phrase",
+    "def": "it's no problem",
     "vi": "dễ mà",
     "viDef": "không vấn đề gì"
   }

@@ -2,60 +2,80 @@
   {
     "word": "hold",
     "ipa": "hoʊld",
+    "type": "",
+    "def": "to cause to take place",
     "vi": "tổ chức",
     "viDef": "làm cho việc gì diễn ra"
   },
   {
     "word": "bib",
     "ipa": "bɪb",
+    "type": "",
+    "def": "a napkin tied under the chin of baby while eating",
     "vi": "khăn yếm",
     "viDef": "khăn buộc dưới cổ em bé khi ăn"
   },
   {
     "word": "come in handy",
     "ipa": "kʌm ɪn ˈhændi",
+    "type": "",
+    "def": "be useful for a certain purpose",
     "vi": "dùng được lắm",
     "viDef": "có ích cho một việc nào đó"
   },
   {
     "word": "crib",
     "ipa": "kɹɪb",
+    "type": "",
+    "def": "baby bed with high sides",
     "vi": "cũi em bé",
     "viDef": "giường trẻ có thành cao"
   },
   {
     "word": "the baby be due",
     "ipa": "ðə ˈbeɪbi bi du",
+    "type": "",
+    "def": "expected date of childbirth",
     "vi": "ngày bé chào đời",
     "viDef": "ngày dự kiến sinh"
   },
   {
     "word": "Expectation",
     "ipa": "ˌɛkspɛkˈteɪʃən",
+    "type": "",
+    "def": "a pre-conceived thought of what could or should happen",
     "vi": "điều mong đợi",
     "viDef": "ý nghĩ định trước về việc có thể hoặc nên xảy ra"
   },
   {
     "word": "Gratitude",
     "ipa": "ˈɡɹætəˌtud",
+    "type": "",
+    "def": "To be overly thankful",
     "vi": "lòng biết ơn",
     "viDef": "sự cảm tạ tràn đầy"
   },
   {
     "word": "Surprise",
     "ipa": "sɚˈpɹaɪz",
+    "type": "",
+    "def": "To have something happen unexpectedly",
     "vi": "điều bất ngờ",
     "viDef": "việc xảy ra ngoài dự tính"
   },
   {
     "word": "Necessity",
     "ipa": "nəˈsɛsəti",
+    "type": "",
+    "def": "To must have something",
     "vi": "thứ thiết yếu",
     "viDef": "điều nhất định phải có"
   },
   {
     "word": "Practical",
     "ipa": "ˈpɹæktəkəl",
+    "type": "",
+    "def": "something which fits a certain need",
     "vi": "thiết thực",
     "viDef": "thứ đáp ứng đúng một nhu cầu"
   }

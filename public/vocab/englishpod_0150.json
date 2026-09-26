@@ -2,60 +2,80 @@
   {
     "word": "scratch",
     "ipa": "skɹætʃ",
+    "type": "",
+    "def": "to rub your skin with something sharp",
     "vi": "cào xước",
     "viDef": "chà lên da bằng vật nhọn"
   },
   {
     "word": "sneaky",
     "ipa": "ˈsniki",
+    "type": "",
+    "def": "behaving in a secret and usually dishonest manner",
     "vi": "gian, lén lút",
     "viDef": "hành xử ngấm ngầm, thường là không thật"
   },
   {
     "word": "put up with",
     "ipa": "pʊt ʌp wɪð",
+    "type": "",
+    "def": "to allow to exist or happen",
     "vi": "cam chịu",
     "viDef": "để cho tồn tại hoặc xảy ra"
   },
   {
     "word": "bug spray",
     "ipa": "bʌɡ spɹeɪ",
+    "type": "",
+    "def": "a liquid used to prevent being bitten by bugs",
     "vi": "thuốc xịt chống muỗi",
     "viDef": "dung dịch xịt để khỏi bị bọ đốt"
   },
   {
     "word": "mosquito",
     "ipa": "məˈskitoʊ",
+    "type": "",
+    "def": "a small flying insect that bites the skin",
     "vi": "con muỗi",
     "viDef": "loài bọ nhỏ bay và đốt da"
   },
   {
     "word": "mosquito net",
     "ipa": "məˈskitoʊ nɛt",
+    "type": "",
+    "def": "a net placed usually around a bed to prevent somone sleeping from being bitten",
     "vi": "mùng, màn chống muỗi",
     "viDef": "lưới quây quanh giường để người ngủ không bị đốt"
   },
   {
     "word": "rash",
     "ipa": "ɹæʃ",
+    "type": "",
+    "def": "an outbreak of spots or patches on the skin, caused by illness or allergy",
     "vi": "mẩn đỏ",
     "viDef": "các nốt hoặc vùng nổi trên da do bệnh hoặc dị ứng"
   },
   {
     "word": "malaria",
     "ipa": "məˈlɛɹiə",
+    "type": "",
+    "def": "a disease with recurring attacks of fever, caused by the bite of some types of mosquito",
     "vi": "bệnh sốt rét",
     "viDef": "bệnh gây các cơn sốt lặp lại, do một số loài muỗi đốt"
   },
   {
     "word": "bug zapper",
     "ipa": "bʌɡ ˈzæpɚ",
+    "type": "",
+    "def": "a device that attracts and kills insects that are attracted by light",
     "vi": "đèn bắt muỗi",
     "viDef": "thiết bị dùng đèn hút rồi diệt côn trùng"
   },
   {
     "word": "pesticide",
     "ipa": "ˈpɛstəˌsaɪd",
+    "type": "",
+    "def": "a chemical used to destroy pests, esp. insects",
     "vi": "thuốc trừ sâu",
     "viDef": "hóa chất dùng diệt sinh vật gây hại, nhất là côn trùng"
   }

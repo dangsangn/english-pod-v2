@@ -2,78 +2,104 @@
   {
     "word": "prescription",
     "ipa": "pɹəˈskɹɪpʃən",
+    "type": "common noun, singular",
+    "def": "a list of drugs written by doctor",
     "vi": "đơn thuốc",
     "viDef": "danh sách thuốc do bác sĩ kê"
   },
   {
     "word": "milligram",
     "ipa": "ˈmɪləˌɡɹæm",
+    "type": "common noun, plural",
+    "def": "a unit for measuring weight",
     "vi": "mi-li-gam",
     "viDef": "đơn vị đo khối lượng"
   },
   {
     "word": "capsule",
     "ipa": "ˈkæpsəl",
+    "type": "common noun, singular",
+    "def": "(drug) contained in a plastic container",
     "vi": "viên nhộng",
     "viDef": "thuốc bọc trong vỏ nhựa"
   },
   {
     "word": "tablet",
     "ipa": "ˈtæblət",
+    "type": "common noun, singular",
+    "def": "(drug) formed in round hard shape",
     "vi": "viên nén",
     "viDef": "thuốc ép thành viên tròn, cứng"
   },
   {
     "word": "overdose",
     "ipa": "ˈoʊvɚˌdoʊs",
+    "type": "verb",
+    "def": "take more drugs than suggested",
     "vi": "dùng quá liều",
     "viDef": "uống nhiều thuốc hơn liều khuyến nghị"
   },
   {
     "word": "eye drop",
     "ipa": "aɪ dɹɑp",
+    "type": "common noun, plural",
+    "def": "liquid used to drop into eyes to treat eye diseases",
     "vi": "thuốc nhỏ mắt",
     "viDef": "dung dịch nhỏ vào mắt để trị bệnh mắt"
   },
   {
     "word": "hang on",
     "ipa": "hæŋ ɑn",
+    "type": "phrase",
+    "def": "hold on",
     "vi": "chờ chút",
     "viDef": "đợi một lát"
   },
   {
     "word": "get a price check",
     "ipa": "ɡɛt ə pɹaɪs tʃɛk",
+    "type": "phrase",
+    "def": "type in the number of something to check it's price",
     "vi": "kiểm tra giá",
     "viDef": "nhập mã hàng để tra giá"
   },
   {
     "word": "syringe",
     "ipa": "sɚˈɪndʒ",
+    "type": "common noun, singular",
+    "def": "a device made of a hollow tube and a needle that is used to force fluids into or take fluids out of the body",
     "vi": "ống tiêm",
     "viDef": "dụng cụ gồm ống rỗng và kim, dùng bơm hoặc hút dịch trong người"
   },
   {
     "word": "cough syrup",
     "ipa": "kɑf ˈsɝəp",
+    "type": "common noun, singular",
+    "def": "a usually sweet liquid that contains medicine used to stop coughing —called also cough medicine",
     "vi": "siro ho",
     "viDef": "dung dịch ngọt có thuốc dùng để trị ho"
   },
   {
     "word": "bandage",
     "ipa": "ˈbændɪdʒ",
+    "type": "common noun, singular",
+    "def": "a covering (such as a strip of cloth) that protects or supports part of the body that has been hurt",
     "vi": "băng gạc",
     "viDef": "dải vải băng lại để che hoặc đỡ chỗ bị thương"
   },
   {
     "word": "hydrogen peroxide",
     "ipa": "ˈhaɪdɹədʒən pɚˈɑkˌsaɪd",
+    "type": "common noun, singular",
+    "def": "a liquid that is used to make things lighter in color or to kill bacteria",
     "vi": "ô-xy già",
     "viDef": "dung dịch dùng làm nhạt màu hoặc diệt khuẩn"
   },
   {
     "word": "ointment",
     "ipa": "ˈɔɪntmənt",
+    "type": "common noun, singular",
+    "def": "a smooth substance that is rubbed on the skin to help heal a wound or to reduce pain or discomfort",
     "vi": "thuốc mỡ",
     "viDef": "chất mịn bôi lên da để lành vết thương hoặc giảm đau"
   }

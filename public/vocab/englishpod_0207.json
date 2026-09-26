@@ -2,78 +2,104 @@
   {
     "word": "absurd",
     "ipa": "əbˈsɝd",
+    "type": "",
+    "def": "ridiculous",
     "vi": "vô lý",
     "viDef": "ngớ ngẩn"
   },
   {
     "word": "rip off",
     "ipa": "ɹɪp ɔf",
+    "type": "",
+    "def": "be cheated violently;be stolen from",
     "vi": "bị chặt giá, bị móc",
     "viDef": "bị lừa trắng trợn hoặc bị lấy của"
   },
   {
     "word": "trustworthy",
     "ipa": "ˈtɹʌsˌtwɝði",
+    "type": "",
+    "def": "reliable, or dependable;worthy of being trusted",
     "vi": "đáng tin",
     "viDef": "tin cậy được, xứng đáng được tin"
   },
   {
     "word": "hack",
     "ipa": "hæk",
+    "type": "",
+    "def": "gain unauthorized access to another computer syste",
     "vi": "xâm nhập trái phép",
     "viDef": "vào hệ thống máy tính của người khác mà không được phép"
   },
   {
     "word": "browse",
     "ipa": "bɹaʊz",
+    "type": "",
+    "def": "to inspect something leisurely and casually",
     "vi": "xem qua",
     "viDef": "xem xét thứ gì một cách thư thả, ngẫu nhiên"
   },
   {
     "word": "point system",
     "ipa": "pɔɪnt ˈsɪstəm",
+    "type": "",
+    "def": "a system of evaluation based on awarding points",
     "vi": "hệ điểm tích lũy",
     "viDef": "cách đánh giá dựa trên việc cộng điểm"
   },
   {
     "word": "credit card",
     "ipa": "ˈkɹɛdət kɑɹd",
+    "type": "",
+    "def": "a plastic card enables the holder to pay on credit",
     "vi": "thẻ tín dụng",
     "viDef": "thẻ nhựa cho phép chủ thẻ trả tiền theo hình thức ghi nợ"
   },
   {
     "word": "no turning back",
     "ipa": "noʊ ˈtɝnɪŋ bæk",
+    "type": "",
+    "def": "not to halt the advance of; no to regret",
     "vi": "không lùi được nữa",
     "viDef": "không chặn được bước tiến, không thể tiếc lại"
   },
   {
     "word": "electronic commerce",
     "ipa": "ˌɪˌlɛkˈtɹɑnɪk ˈkɑmɚs",
+    "type": "",
+    "def": "the buying and selling of products or services over the internet",
     "vi": "thương mại điện tử",
     "viDef": "việc mua bán sản phẩm hoặc dịch vụ qua internet"
   },
   {
     "word": "search engine",
     "ipa": "sɝtʃ ˈɛndʒən",
+    "type": "",
+    "def": "A program that searches documents for specified keywords and returns a list of the documents where the keywords were found.",
     "vi": "máy tìm kiếm",
     "viDef": "chương trình tìm tài liệu theo từ khóa và trả về danh sách các tài liệu chứa từ đó"
   },
   {
     "word": "COD",
     "ipa": "kɑd",
+    "type": "",
+    "def": "Charge on Delivery, a payment method that allows you to pay for goods once they have been delivered.",
     "vi": "thanh toán khi nhận hàng",
     "viDef": "Charge on Delivery, cách trả tiền sau khi hàng đã được giao"
   },
   {
     "word": "wire transfer",
     "ipa": "ˈwaɪɚ tɹænˈsfɝ",
+    "type": "",
+    "def": "An electronic transfer of funds from one account to another",
     "vi": "chuyển khoản",
     "viDef": "việc chuyển tiền bằng điện tử từ tài khoản này sang tài khoản khác"
   },
   {
     "word": "webstore",
     "ipa": "ˈwɛbstɔɹ",
+    "type": "",
+    "def": "A webstore is a website that sells products or services and typically has an online shopping cart associated with it",
     "vi": "gian hàng trực tuyến",
     "viDef": "trang web bán sản phẩm hoặc dịch vụ, thường có giỏ hàng đi kèm"
   }

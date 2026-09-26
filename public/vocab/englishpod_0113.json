@@ -2,84 +2,112 @@
   {
     "word": "backed up",
     "ipa": "bækt ʌp",
+    "type": "verb",
+    "def": "blocked so you can't move forward",
     "vi": "ùn tắc",
     "viDef": "bị nghẽn nên không nhích lên được"
   },
   {
     "word": "get tied up",
     "ipa": "ɡɛt taɪd ʌp",
+    "type": "phrase",
+    "def": "became busy; unable to leave",
     "vi": "bị vướng việc",
     "viDef": "bận nên chưa đi được"
   },
   {
     "word": "running late",
     "ipa": "ˈɹʌnɪŋ leɪt",
+    "type": "verb",
+    "def": "going to be late",
     "vi": "sắp trễ rồi",
     "viDef": "sẽ đến muộn"
   },
   {
     "word": "run over",
     "ipa": "ɹʌn ˈoʊvɚ",
+    "type": "verb",
+    "def": "to go beyond a limit",
     "vi": "quá giờ",
     "viDef": "vượt qua mức giới hạn"
   },
   {
     "word": "stuck in traffic",
     "ipa": "stʌk ɪn ˈtɹæfɪk",
+    "type": "phrase",
+    "def": "so may cars on the road that you can not drive or move forward",
     "vi": "mắc kẹt xe",
     "viDef": "đường quá nhiều xe nên không nhích được"
   },
   {
     "word": "in a sec",
     "ipa": "ɪn ə sɛk",
+    "type": "phrase",
+    "def": "soon",
     "vi": "một giây thôi",
     "viDef": "sắp, ngay bây giờ"
   },
   {
     "word": "huge",
     "ipa": "hjudʒ",
+    "type": "Adjective",
+    "def": "very big",
     "vi": "bự tổ chảng",
     "viDef": "rất to"
   },
   {
     "word": "traffic jam",
     "ipa": "ˈtɹæfɪk dʒæm",
+    "type": "common noun, singular",
+    "def": "a lot of cars stopped from moving",
     "vi": "tắc đường",
     "viDef": "nhiều xe đứng lại không di chuyển"
   },
   {
     "word": "pileup",
     "ipa": "ˈpaɪlʌp",
+    "type": "common noun, singular",
+    "def": "an accident where many cars crash into each other",
     "vi": "vụ đâm liên hoàn",
     "viDef": "tai nạn nhiều xe húc vào nhau"
   },
   {
     "word": "punctual",
     "ipa": "ˈpʌŋktʃuəl",
+    "type": "Adjective",
+    "def": "the quality of always being on time",
     "vi": "đúng giờ",
     "viDef": "luôn có mặt kịp giờ"
   },
   {
     "word": "behind schedule",
     "ipa": "bɪˈhaɪnd ˈskɛdʒʊl",
+    "type": "",
+    "def": "later than planed; late",
     "vi": "chậm lịch",
     "viDef": "muộn hơn dự kiến"
   },
   {
     "word": "sleep in",
     "ipa": "slip ɪn",
+    "type": "verb",
+    "def": "sleep later than planned",
     "vi": "ngủ nướng",
     "viDef": "ngủ quá giờ đã định"
   },
   {
     "word": "tardiness",
     "ipa": "ˈtɑɹdinəs",
+    "type": "Adjective",
+    "def": "the quality of often being late",
     "vi": "tính hay trễ",
     "viDef": "thói thường xuyên đến muộn"
   },
   {
     "word": "hustle",
     "ipa": "ˈhʌsəl",
+    "type": "verb",
+    "def": "move very quickly",
     "vi": "nhanh chân lên",
     "viDef": "di chuyển thật nhanh"
   }

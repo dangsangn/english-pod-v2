@@ -2,90 +2,120 @@
   {
     "word": "get a load of",
     "ipa": "ɡɛt ə loʊd ʌv",
+    "type": "phrase",
+    "def": "look at (informal)",
     "vi": "nhìn kìa",
     "viDef": "xem cái này đi (thân mật)"
   },
   {
     "word": "license",
     "ipa": "ˈlaɪsəns",
+    "type": "common noun, singular",
+    "def": "official document that shows you have permission to drive a car",
     "vi": "bằng lái xe",
     "viDef": "giấy tờ chính thức chứng minh bạn được phép lái ô tô"
   },
   {
     "word": "eggnog",
     "ipa": "ˈɛɡnɔɡ",
+    "type": "common noun, non-variable",
+    "def": "traditional Christmas drink containing eggs, cream, sugar and rum",
     "vi": "rượu trứng Giáng sinh",
     "viDef": "thức uống Giáng sinh truyền thống gồm trứng, kem, đường và rum"
   },
   {
     "word": "vehicle",
     "ipa": "ˈvihɪkəl",
+    "type": "common noun, singular",
+    "def": "machine use to carry people, i.e. a car or truck",
     "vi": "phương tiện",
     "viDef": "cỗ máy chở người, ví dụ ô tô hay xe tải"
   },
   {
     "word": "step out",
     "ipa": "stɛp aʊt",
+    "type": "principle verb, imperative",
+    "def": "briefly go out of a place",
     "vi": "bước ra ngoài",
     "viDef": "ra khỏi chỗ nào đó một lát"
   },
   {
     "word": "take that tone",
     "ipa": "teɪk ðæt toʊn",
+    "type": "phrase",
+    "def": "speak in that tone of voice",
     "vi": "nói cái giọng đó",
     "viDef": "dùng giọng điệu ấy để nói"
   },
   {
     "word": "invoice",
     "ipa": "ˈɪnvɔɪs",
+    "type": "common noun, singular",
+    "def": "official document that shows you have paid for something you bought",
     "vi": "hóa đơn",
     "viDef": "chứng từ chính thức cho thấy bạn đã trả tiền món đồ đã mua"
   },
   {
     "word": "arrest",
     "ipa": "ɚˈɛst",
+    "type": "phrase",
+    "def": "the act of legally taking someone to jail",
     "vi": "sự bắt giữ",
     "viDef": "việc hợp pháp đưa ai đó vào tù"
   },
   {
     "word": "pout",
     "ipa": "paʊt",
+    "type": "principle verb, present simple",
+    "def": "push out your lips to show that you are unhappy",
     "vi": "bĩu môi",
     "viDef": "chu môi ra để tỏ vẻ không vui"
   },
   {
     "word": "sleigh",
     "ipa": "sleɪ",
+    "type": "common noun, singular",
+    "def": "large, open vehicle that is pulled by horses over snow or ice",
     "vi": "xe trượt tuyết",
     "viDef": "xe lớn không mui do ngựa kéo trên tuyết hoặc băng"
   },
   {
     "word": "handcuffs",
     "ipa": "ˈhændkʌfs",
+    "type": "common noun, plural",
+    "def": "a set of two metal rings that are used to join a persons hands together, esp. by police",
     "vi": "còng tay",
     "viDef": "hai vòng kim loại dùng để khóa hai tay lại, thường do cảnh sát dùng"
   },
   {
     "word": "prison",
     "ipa": "ˈpɹɪzən",
+    "type": "common noun, singular",
+    "def": "a building where criminals are kept as punishment",
     "vi": "nhà tù",
     "viDef": "nơi giam giữ tội phạm để trừng phạt"
   },
   {
     "word": "read someone's rights",
     "ipa": "ɹɛd ˈsʌmwʌnz ɹaɪts",
+    "type": "phrase",
+    "def": "tell someone their legal rights, usually when they are arrested",
     "vi": "đọc quyền cho người bị bắt",
     "viDef": "thông báo quyền hợp pháp cho ai đó, thường là khi họ bị bắt"
   },
   {
     "word": "DUI",
     "ipa": "ˌdi ju ˈaɪ",
+    "type": "phrase",
+    "def": "driving under the influence of alcohol or drugs",
     "vi": "lái xe khi say",
     "viDef": "lái xe trong tình trạng có rượu bia hoặc ma túy"
   },
   {
     "word": "speeding ticket",
     "ipa": "ˈspidɪŋ ˈtɪkət",
+    "type": "common noun, singular",
+    "def": "a piece of paper the police give if you are diving too fast",
     "vi": "vé phạt chạy quá tốc độ",
     "viDef": "giấy phạt cảnh sát lập khi bạn lái quá nhanh"
   }

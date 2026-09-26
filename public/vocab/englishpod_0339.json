@@ -2,72 +2,96 @@
   {
     "word": "teacher",
     "ipa": "ˈtitʃɚ",
+    "type": "",
+    "def": "a person who teaches or instructs",
     "vi": "giáo viên",
     "viDef": "người dạy hoặc chỉ bảo"
   },
   {
     "word": "conference",
     "ipa": "ˈkɑnfɚəns",
+    "type": "",
+    "def": "a formal meeting where many people talk about ideas",
     "vi": "buổi họp",
     "viDef": "cuộc gặp chính thức để nhiều người cùng bàn về các ý tưởng"
   },
   {
     "word": "insight",
     "ipa": "ˈɪnsaɪt",
+    "type": "",
+    "def": "an instance of apprehending the true nature of a thing",
     "vi": "sự thấu hiểu",
     "viDef": "lần nắm được bản chất thật của một điều gì"
   },
   {
     "word": "struggle",
     "ipa": "ˈstɹʌɡəl",
+    "type": "",
+    "def": "try very hard to do something that is difficult",
     "vi": "chật vật",
     "viDef": "cố hết sức làm việc gì khó"
   },
   {
     "word": "compliment",
     "ipa": "ˈkɑmpləmɛnt",
+    "type": "",
+    "def": "an expression of praise",
     "vi": "lời khen",
     "viDef": "câu bày tỏ sự ngợi khen"
   },
   {
     "word": "tutor",
     "ipa": "ˈtutɚ",
+    "type": "",
+    "def": "a person employed to instruct another in some branch or branches of learning, esp. a private instructor.",
     "vi": "gia sư",
     "viDef": "người được thuê để kèm ai học một hoặc vài môn, nhất là dạy riêng"
   },
   {
     "word": "tution",
     "ipa": "tuˈɪʃən",
+    "type": "",
+    "def": "the charge or fee for instruction",
     "vi": "học phí",
     "viDef": "khoản phí trả cho việc dạy học"
   },
   {
     "word": "overdue",
     "ipa": "ˈoʊvɚˈdu",
+    "type": "",
+    "def": "past due",
     "vi": "quá hạn",
     "viDef": "đã trễ hạn"
   },
   {
     "word": "repeat",
     "ipa": "ɹɪˈpit",
+    "type": "",
+    "def": "to go through or undergo again",
     "vi": "học lại",
     "viDef": "trải qua hoặc làm lại lần nữa"
   },
   {
     "word": "excel",
     "ipa": "ɪkˈsɛl",
+    "type": "",
+    "def": "to surpass others or be superior in some respect or area",
     "vi": "vượt trội",
     "viDef": "hơn người khác hoặc giỏi hơn ở mặt nào đó"
   },
   {
     "word": "bully",
     "ipa": "ˈbʊli",
+    "type": "",
+    "def": "a person who intimidates smaller or weaker people.",
     "vi": "kẻ bắt nạt",
     "viDef": "người đe dọa những người nhỏ hoặc yếu hơn"
   },
   {
     "word": "fee",
     "ipa": "fi",
+    "type": "",
+    "def": "a sum paid or charged for a privilege",
     "vi": "khoản phí",
     "viDef": "số tiền trả hoặc bị thu cho một quyền lợi"
   }

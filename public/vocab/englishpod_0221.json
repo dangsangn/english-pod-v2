@@ -2,78 +2,104 @@
   {
     "word": "go through",
     "ipa": "ɡoʊ θɹu",
+    "type": "",
+    "def": "look at (something) in a careful way",
     "vi": "soi lại từng phần",
     "viDef": "xem xét thứ gì một cách cẩn thận"
   },
   {
     "word": "ignition",
     "ipa": "ˌɪɡˈnɪʃən",
+    "type": "",
+    "def": "a device to start up the car",
     "vi": "bộ đề, ổ khởi động",
     "viDef": "thiết bị để nổ máy xe"
   },
   {
     "word": "spark plug",
     "ipa": "spɑɹk plʌɡ",
+    "type": "",
+    "def": "electrical device that ignites the gas by electric",
     "vi": "bugi",
     "viDef": "thiết bị điện đánh lửa cho khí xăng"
   },
   {
     "word": "starter motor",
     "ipa": "ˈstɑɹtɚ ˈmoʊtɚ",
+    "type": "",
+    "def": "an electric motor for starting an engine",
     "vi": "mô-tơ đề",
     "viDef": "động cơ điện dùng khởi động máy"
   },
   {
     "word": "crank",
     "ipa": "kɹæŋk",
+    "type": "",
+    "def": "to start (an engine, motor, etc.)",
     "vi": "đề máy",
     "viDef": "làm cho động cơ chạy"
   },
   {
     "word": "engine",
     "ipa": "ˈɛndʒən",
+    "type": "",
+    "def": "the device which helps cars getting running",
     "vi": "động cơ",
     "viDef": "bộ phận giúp xe chạy được"
   },
   {
     "word": "accelerator",
     "ipa": "ækˈsɛlɚˌeɪtɚ",
+    "type": "",
+    "def": "a pedal that controls the throttle valve",
     "vi": "chân ga",
     "viDef": "bàn đạp điều khiển bướm ga"
   },
   {
     "word": "carburetor",
     "ipa": "ˈkɑɹbɚˌeɪtɚ",
+    "type": "",
+    "def": "mixes air with gasoline vapor prior to explosion",
     "vi": "bộ hòa khí",
     "viDef": "bộ trộn khí với hơi xăng trước khi cháy nổ"
   },
   {
     "word": "to stall",
     "ipa": "tu stɔl",
+    "type": "",
+    "def": "when a car's engine will not start",
     "vi": "chết máy",
     "viDef": "khi động cơ xe không nổ được"
   },
   {
     "word": "brakes",
     "ipa": "bɹeɪks",
+    "type": "",
+    "def": "the mechanism which stops the car",
     "vi": "phanh",
     "viDef": "cơ cấu làm xe dừng"
   },
   {
     "word": "gas tank",
     "ipa": "ɡæs tæŋk",
+    "type": "",
+    "def": "the tank which carries the car's gasoline",
     "vi": "bình xăng",
     "viDef": "thùng chứa xăng của xe"
   },
   {
     "word": "seat belt",
     "ipa": "sit bɛlt",
+    "type": "",
+    "def": "the strap which protects from an accident",
     "vi": "dây an toàn",
     "viDef": "dây bảo vệ khi có tai nạn"
   },
   {
     "word": "tow truck",
     "ipa": "toʊ tɹʌk",
+    "type": "",
+    "def": "a service which repairs or retrieves a broken car",
     "vi": "xe cứu hộ",
     "viDef": "dịch vụ sửa hoặc kéo xe bị hỏng về"
   }

@@ -2,72 +2,96 @@
   {
     "word": "date",
     "ipa": "deɪt",
+    "type": "",
+    "def": "a appointment, engagement, or occasion with another person",
     "vi": "buổi hẹn",
     "viDef": "một cuộc hẹn hoặc dịp gặp với người khác"
   },
   {
     "word": "chat",
     "ipa": "tʃæt",
+    "type": "",
+    "def": "talk with another person",
     "vi": "tán chuyện",
     "viDef": "nói chuyện với người khác"
   },
   {
     "word": "online",
     "ipa": "ˈɔnlaɪn",
+    "type": "",
+    "def": "over the internet",
     "vi": "trên mạng",
     "viDef": "qua internet"
   },
   {
     "word": "psycho",
     "ipa": "ˈsaɪkoʊ",
+    "type": "",
+    "def": "a crazy person",
     "vi": "kẻ tâm thần",
     "viDef": "người điên"
   },
   {
     "word": "characteristic",
     "ipa": "ˌkɛɹəktɚˈɪstɪk",
+    "type": "",
+    "def": "a distinguishing feature or quality",
     "vi": "đặc điểm",
     "viDef": "nét hoặc phẩm chất riêng biệt"
   },
   {
     "word": "preference",
     "ipa": "ˈpɹɛfɚəns",
+    "type": "",
+    "def": "the favoring of one thing over another",
     "vi": "sự ưu ái",
     "viDef": "việc thích thứ này hơn thứ kia"
   },
   {
     "word": "hang out",
     "ipa": "hæŋ aʊt",
+    "type": "",
+    "def": "spend time with a friend",
     "vi": "đi chơi cùng",
     "viDef": "dành thời gian với một người bạn"
   },
   {
     "word": "reject",
     "ipa": "ɹɪˈdʒɛkt",
+    "type": "",
+    "def": "to refuse to accept",
     "vi": "từ chối",
     "viDef": "không chịu nhận"
   },
   {
     "word": "hunk",
     "ipa": "hʌŋk",
+    "type": "",
+    "def": "a handsome man",
     "vi": "anh chàng vạm vỡ",
     "viDef": "người nam bảnh trai"
   },
   {
     "word": "compatible",
     "ipa": "kəmˈpætəbəl",
+    "type": "",
+    "def": "able to exist together harmoniously",
     "vi": "hợp nhau",
     "viDef": "có thể ở cùng nhau hòa thuận"
   },
   {
     "word": "ugly",
     "ipa": "ˈʌɡli",
+    "type": "",
+    "def": "very unattractive or unpleasant to look at",
     "vi": "xấu",
     "viDef": "rất kém hấp dẫn hoặc trông không dễ chịu"
   },
   {
     "word": "sexy",
     "ipa": "ˈsɛksi",
+    "type": "",
+    "def": "excitingly appealing; glamorous",
     "vi": "gợi cảm",
     "viDef": "hấp dẫn đến mức cuốn hút; hào nhoáng"
   }

@@ -2,84 +2,112 @@
   {
     "word": "legalize",
     "ipa": "ˈliɡəˌlaɪz",
+    "type": "principle verb, present progressive",
+    "def": "to make (something) legal",
     "vi": "hợp pháp hóa",
     "viDef": "làm cho điều gì thành hợp luật"
   },
   {
     "word": "vice",
     "ipa": "vaɪs",
+    "type": "common noun, non-variable",
+    "def": "bad or immoral behavior or habits",
     "vi": "tệ nạn",
     "viDef": "hành vi hoặc thói xấu trái đạo lý"
   },
   {
     "word": "exploitation",
     "ipa": "ˌɛkˌsplɔɪˈteɪʃən",
+    "type": "common noun, non-variable",
+    "def": "using someone for something unfairly",
     "vi": "sự bóc lột",
     "viDef": "lợi dụng người khác một cách bất công"
   },
   {
     "word": "sole purpose",
     "ipa": "soʊl ˈpɝpəs",
+    "type": "phrase",
+    "def": "only reason",
     "vi": "mục đích duy nhất",
     "viDef": "lý do độc nhất"
   },
   {
     "word": "monetary",
     "ipa": "ˈmɑnəˌtɛɹi",
+    "type": "Adjective",
+    "def": "about money",
     "vi": "về tiền tệ",
     "viDef": "liên quan đến tiền"
   },
   {
     "word": "gambling",
     "ipa": "ˈɡæmbəlɪŋ",
+    "type": "common noun, non-variable",
+    "def": "the practice of risking money in a game or bet",
     "vi": "cờ bạc",
     "viDef": "việc bỏ tiền ra đánh cược"
   },
   {
     "word": "casino",
     "ipa": "kəˈsinoʊ",
+    "type": "common noun, plural",
+    "def": "a building or room that has games you can bet on",
     "vi": "sòng bạc",
     "viDef": "tòa nhà hoặc phòng có các trò để đánh cược"
   },
   {
     "word": "bookie",
     "ipa": "ˈbʊki",
+    "type": "common noun, plural",
+    "def": "a person who organizes bets (informal)",
     "vi": "nhà cái",
     "viDef": "người tổ chức cá cược (thân mật)"
   },
   {
     "word": "addicted",
     "ipa": "əˈdɪktɪd",
+    "type": "Adjective",
+    "def": "unable to stop doing something that is harmful",
     "vi": "nghiện",
     "viDef": "không dứt được việc gì có hại"
   },
   {
     "word": "Texas Hold'em",
     "ipa": "ˈtɛksəs ˈhoʊldəm",
+    "type": "common noun, singular",
+    "def": "a variation of poker where there are five community cards and each player has two personal cards.",
     "vi": "trò Texas Hold'em",
     "viDef": "biến thể poker có năm lá chung và mỗi người hai lá riêng"
   },
   {
     "word": "slot machine",
     "ipa": "slɑt məˈʃin",
+    "type": "common noun, singular",
+    "def": "a machine featuring an electronic game on which to gamble, worked by placing a coin in a slot",
     "vi": "máy đánh xèng",
     "viDef": "máy chơi cược điện tử, bỏ xu vào khe để chơi"
   },
   {
     "word": "roulette",
     "ipa": "ɹuˈlɛt",
+    "type": "common noun, singular",
+    "def": "A gambling game in which the players bet on which slot of a rotating disk a small ball will come to rest in.",
     "vi": "trò roulette",
     "viDef": "trò cược xem viên bi dừng ở ô nào trên bàn quay"
   },
   {
     "word": "odds",
     "ipa": "ɑdz",
+    "type": "common noun, plural",
+    "def": "the probability, expressed as a ratio, that something will or will not happen",
     "vi": "tỷ lệ cược",
     "viDef": "xác suất, tính theo tỉ lệ, cho việc gì xảy ra hay không"
   },
   {
     "word": "online gambling",
     "ipa": "ˈɔnlaɪn ˈɡæmbəlɪŋ",
+    "type": "common noun, singular",
+    "def": "a form to gamble via the interet visiting web sites and using a credit card",
     "vi": "cá cược trên mạng",
     "viDef": "hình thức đánh bạc qua các trang web, trả bằng thẻ tín dụng"
   }

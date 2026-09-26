@@ -2,78 +2,104 @@
   {
     "word": "Long time no see",
     "ipa": "lɔŋ taɪm noʊ si",
+    "type": "",
+    "def": "phrase used to express that you haven't seen someone in a very long time",
     "vi": "lâu quá không gặp",
     "viDef": "câu nói khi lâu rồi mới thấy lại một người"
   },
   {
     "word": "orientation",
     "ipa": "ˌɔɹiɛnˈteɪʃən",
+    "type": "",
+    "def": "a class where instructions are given on the first day at school",
     "vi": "buổi định hướng",
     "viDef": "buổi hướng dẫn trong ngày đầu tới trường"
   },
   {
     "word": "settle into",
     "ipa": "ˈsɛtəl ˈɪntu",
+    "type": "",
+    "def": "to become accustomed to one's new surroundings",
     "vi": "làm quen dần",
     "viDef": "trở nên quen với môi trường mới"
   },
   {
     "word": "frat house",
     "ipa": "fɹæt haʊs",
+    "type": "",
+    "def": "Fraternity house, place where members of a fraternity live and socialize",
     "vi": "nhà hội nam sinh",
     "viDef": "nơi các thành viên hội nam sinh ở và sinh hoạt"
   },
   {
     "word": "frat boy",
     "ipa": "fɹæt bɔɪ",
+    "type": "",
+    "def": "a term used to call people that are part of a fraternity",
     "vi": "thành viên hội nam sinh",
     "viDef": "từ dùng để gọi những người thuộc một hội nam sinh"
   },
   {
     "word": "drop",
     "ipa": "dɹɑp",
+    "type": "",
+    "def": "to quit or not continue a class",
     "vi": "bỏ môn",
     "viDef": "nghỉ hoặc không học tiếp một lớp"
   },
   {
     "word": "credit",
     "ipa": "ˈkɹɛdət",
+    "type": "",
+    "def": "academic mark",
     "vi": "tín chỉ",
     "viDef": "điểm học thuật"
   },
   {
     "word": "major",
     "ipa": "ˈmeɪdʒɚ",
+    "type": "",
+    "def": "the specific focus of your undergraduate program",
     "vi": "chuyên ngành",
     "viDef": "trọng tâm cụ thể của chương trình đại học"
   },
   {
     "word": "gap year",
     "ipa": "ɡæp jɪɹ",
+    "type": "",
+    "def": "A temporary one year absence from university",
     "vi": "năm gián đoạn",
     "viDef": "một năm tạm nghỉ khỏi trường đại học"
   },
   {
     "word": "thesis",
     "ipa": "ˈθisəs",
+    "type": "",
+    "def": "A dissertation advancing an original point of view as a result of research",
     "vi": "luận văn",
     "viDef": "bài viết dài nêu một quan điểm mới có được từ nghiên cứu"
   },
   {
     "word": "minor",
     "ipa": "ˈmaɪnɚ",
+    "type": "",
+    "def": "secondary course of study",
     "vi": "ngành phụ",
     "viDef": "hướng học thứ hai"
   },
   {
     "word": "pre-law",
     "ipa": "pɹi lɔ",
+    "type": "",
+    "def": "any course of study taken by an undergraduate in preparation for study at a law school",
     "vi": "dự bị luật",
     "viDef": "bất cứ chương trình nào sinh viên đại học học để chuẩn bị vào trường luật"
   },
   {
     "word": "freshman",
     "ipa": "ˈfɹɛʃmən",
+    "type": "",
+    "def": "a first year student in high school or university",
     "vi": "sinh viên năm nhất",
     "viDef": "học sinh hoặc sinh viên năm đầu ở trung học hay đại học"
   }

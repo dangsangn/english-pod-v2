@@ -2,66 +2,88 @@
   {
     "word": "text",
     "ipa": "tɛkst",
+    "type": "",
+    "def": "act of sending a text message via a mobile phone",
     "vi": "nhắn tin",
     "viDef": "việc gửi tin nhắn bằng điện thoại di động"
   },
   {
     "word": "SMS",
     "ipa": "ˌɛˌsɛˈmɛs",
+    "type": "",
+    "def": "abbreviation for Short Message Service",
     "vi": "tin nhắn SMS",
     "viDef": "viết tắt của Short Message Service"
   },
   {
     "word": "credit",
     "ipa": "ˈkɹɛdət",
+    "type": "",
+    "def": "amount of money that you have available to make ca",
     "vi": "tiền trong tài khoản",
     "viDef": "số tiền bạn còn để gọi"
   },
   {
     "word": "use it up",
     "ipa": "jus ɪt ʌp",
+    "type": "",
+    "def": "to completely finish or extinguish something",
     "vi": "dùng hết sạch",
     "viDef": "xài cho hết hoặc làm cạn thứ gì"
   },
   {
     "word": "unlimited",
     "ipa": "ənˈlɪmətɪd",
+    "type": "",
+    "def": "without limits or restrictions",
     "vi": "không giới hạn",
     "viDef": "không có mức trần hay ràng buộc"
   },
   {
     "word": "no wonder",
     "ipa": "noʊ ˈwʌndɚ",
+    "type": "",
+    "def": "not surprisingly",
     "vi": "chẳng lạ gì",
     "viDef": "thế thì không có gì đáng ngạc nhiên"
   },
   {
     "word": "voicemail",
     "ipa": "ˈvɔɪsmeɪl",
+    "type": "",
+    "def": "A service that allows you to leave a recorded message",
     "vi": "hộp thư thoại",
     "viDef": "dịch vụ cho phép để lại lời nhắn được ghi âm"
   },
   {
     "word": "calling card",
     "ipa": "ˈkɔlɪŋ kɑɹd",
+    "type": "",
+    "def": "A prepaid card that allows you to make international phone calls",
     "vi": "thẻ gọi",
     "viDef": "thẻ trả trước cho phép bạn gọi quốc tế"
   },
   {
     "word": "pay as you go",
     "ipa": "peɪ æz ju ɡoʊ",
+    "type": "",
+    "def": "Credit purchased in advance in order to make phone calls on a mobile phone",
     "vi": "trả trước dùng dần",
     "viDef": "tiền nạp sẵn để gọi bằng điện thoại di động"
   },
   {
     "word": "coverage",
     "ipa": "ˈkʌvɚədʒ",
+    "type": "",
+    "def": "The area that the mobile phone operator covers or allows for making phone calls",
     "vi": "vùng phủ sóng",
     "viDef": "khu vực mà nhà mạng phủ tới hoặc cho phép gọi"
   },
   {
     "word": "drop a call",
     "ipa": "dɹɑp ə kɔl",
+    "type": "",
+    "def": "To lose connection of a call",
     "vi": "rớt cuộc gọi",
     "viDef": "bị mất kết nối giữa cuộc gọi"
   }

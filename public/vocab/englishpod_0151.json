@@ -2,66 +2,88 @@
   {
     "word": "sick and tired",
     "ipa": "sɪk ənd ˈtaɪɚd",
+    "type": "",
+    "def": "bored or annoyed",
     "vi": "chán tận cổ",
     "viDef": "nhàm hoặc bực mình"
   },
   {
     "word": "at odds with",
     "ipa": "æt ɑdz wɪð",
+    "type": "",
+    "def": "in a state of disagreement",
     "vi": "bất đồng với",
     "viDef": "ở trong tình trạng không thống nhất"
   },
   {
     "word": "coherent",
     "ipa": "koʊˈhɪɹənt",
+    "type": "",
+    "def": "logical and consistent",
     "vi": "mạch lạc",
     "viDef": "hợp lý và nhất quán"
   },
   {
     "word": "minimize",
     "ipa": "ˈmɪnəˌmaɪz",
+    "type": "",
+    "def": "to make something as small as possible",
     "vi": "giảm tối đa",
     "viDef": "làm cho nhỏ nhất có thể"
   },
   {
     "word": "full of holes",
     "ipa": "fʊl ʌv hoʊlz",
+    "type": "",
+    "def": "including many faults",
     "vi": "đầy lỗ hổng",
     "viDef": "chứa nhiều điểm sai"
   },
   {
     "word": "academy",
     "ipa": "əˈkædəmi",
+    "type": "",
+    "def": "a school that provides training in special subject",
     "vi": "học viện",
     "viDef": "trường dạy chuyên về một môn"
   },
   {
     "word": "natural selection",
     "ipa": "ˈnætʃɚəl səˈlɛkʃən",
+    "type": "",
+    "def": "a process by which best creatures survive",
     "vi": "chọn lọc tự nhiên",
     "viDef": "quá trình mà loài thích nghi nhất sống sót"
   },
   {
     "word": "conundrum",
     "ipa": "kəˈnʌndɹəm",
+    "type": "",
+    "def": "a confusing or difficult problem",
     "vi": "nan đề",
     "viDef": "vấn đề rắc rối hoặc khó giải"
   },
   {
     "word": "creationism",
     "ipa": "kɹiˈeɪʃəˌnɪzəm",
+    "type": "",
+    "def": "Belief in the literal interpretation of the account of the creation of the universe and of all living things related in the Bible.",
     "vi": "thuyết sáng thế",
     "viDef": "niềm tin hiểu theo đúng từng chữ chuyện Kinh Thánh kể về việc tạo ra vũ trụ và muôn loài"
   },
   {
     "word": "naturalism",
     "ipa": "ˈnætʃɚəˌlɪzəm",
+    "type": "",
+    "def": "the doctrine that the world can be understood in scientific terms without recourse to spiritual or supernatural explanations",
     "vi": "chủ nghĩa duy nhiên",
     "viDef": "quan điểm cho rằng thế giới hiểu được bằng khoa học, không cần viện tới thần linh hay siêu nhiên"
   },
   {
     "word": "transmutation",
     "ipa": "ˌtɹænzmjuˈteɪʃən",
+    "type": "",
+    "def": "the process or act of change, especially from one thing to another",
     "vi": "sự biến đổi",
     "viDef": "quá trình chuyển từ dạng này sang dạng khác"
   }

@@ -2,60 +2,80 @@
   {
     "word": "flashy",
     "ipa": "ˈflæʃi",
+    "type": "",
+    "def": "smart and noticeable, but in a rather vulgar way",
     "vi": "lòe loẹt",
     "viDef": "bắt mắt nhưng hơi kém thẩm mỹ"
   },
   {
     "word": "yap",
     "ipa": "jæp",
+    "type": "",
+    "def": "bark in a high-pitched tone, nag",
     "vi": "ăng ẳng, càm ràm",
     "viDef": "kêu giọng cao, hoặc nói nhằng nhẵng"
   },
   {
     "word": "exchange",
     "ipa": "ɪksˈtʃeɪndʒ",
+    "type": "",
+    "def": "give something and receive something in return",
     "vi": "đổi",
     "viDef": "đưa thứ này và nhận lại thứ khác"
   },
   {
     "word": "sale",
     "ipa": "seɪl",
+    "type": "",
+    "def": "an occasion for buying at special price",
     "vi": "đợt hạ giá",
     "viDef": "dịp mua được giá đặc biệt"
   },
   {
     "word": "do someone the favor",
     "ipa": "du ˈsʌmwʌn ðə ˈfeɪvɚ",
+    "type": "",
+    "def": "help someone",
     "vi": "giúp ai một việc",
     "viDef": "làm giúp người khác"
   },
   {
     "word": "craziness",
     "ipa": "ˈkɹeɪzinəs",
+    "type": "",
+    "def": "wild excitement, the act of being crazy",
     "vi": "sự náo loạn",
     "viDef": "cảnh nhộn nhạo, hành động điên khùng"
   },
   {
     "word": "discount",
     "ipa": "dɪˈskaʊnt",
+    "type": "",
+    "def": "an amount deducted from the usual list price",
     "vi": "mức trừ giá",
     "viDef": "khoản bớt so với giá niêm yết"
   },
   {
     "word": "flier",
     "ipa": "ˈflaɪɚ",
+    "type": "",
+    "def": "a pamphlet for mass distribution",
     "vi": "tờ rơi",
     "viDef": "tờ giấy in phát rộng cho nhiều người"
   },
   {
     "word": "merchandise",
     "ipa": "ˈmɝtʃənˌdaɪz",
+    "type": "",
+    "def": "the manufactured goods bought and sold in any business",
     "vi": "hàng hóa",
     "viDef": "các mặt hàng được mua bán trong kinh doanh"
   },
   {
     "word": "jam-packed with people",
     "ipa": "dʒæm pækt wɪð ˈpipəl",
+    "type": "",
+    "def": "crowded",
     "vi": "chật cứng người",
     "viDef": "đông nghẹt"
   }

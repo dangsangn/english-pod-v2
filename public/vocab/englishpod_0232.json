@@ -2,90 +2,120 @@
   {
     "word": "mold",
     "ipa": "moʊld",
+    "type": "",
+    "def": "a container used to give its shape to something",
     "vi": "cái khuôn",
     "viDef": "vật đựng dùng tạo hình cho thứ khác"
   },
   {
     "word": "collectible",
     "ipa": "kəˈlɛktəbəl",
+    "type": "",
+    "def": "considered valuable by collectors",
     "vi": "món đáng sưu tầm",
     "viDef": "được người sưu tập coi là có giá"
   },
   {
     "word": "action figure",
     "ipa": "ˈækʃən ˈfɪɡjɚ",
+    "type": "",
+    "def": "a posable plastic figurine of a character",
     "vi": "mô hình nhân vật",
     "viDef": "tượng nhựa nhân vật có thể tạo dáng được"
   },
   {
     "word": "Yoyo",
     "ipa": "ˈjoʊjoʊ",
+    "type": "",
+    "def": "a kind of toy",
     "vi": "con yoyo",
     "viDef": "một loại đồ chơi"
   },
   {
     "word": "Spongebob Squarepants",
     "ipa": "ˈspʌndʒbɑb ˈskwɛɹpænts",
+    "type": "",
+    "def": "an animated television series",
     "vi": "Bob Bọt Biển",
     "viDef": "một bộ phim hoạt hình dài kỳ"
   },
   {
     "word": "Pirates Lego set",
     "ipa": "ˈpaɪɹəts ˈlɛɡoʊ sɛt",
+    "type": "",
+    "def": "a toy set of Lego",
     "vi": "bộ Lego cướp biển",
     "viDef": "một bộ đồ chơi xếp hình Lego"
   },
   {
     "word": "set",
     "ipa": "sɛt",
+    "type": "",
+    "def": "a group of similar things that belong together",
     "vi": "bộ",
     "viDef": "nhóm những thứ tương tự đi cùng nhau"
   },
   {
     "word": "X-Men",
     "ipa": "ɛks mɛn",
+    "type": "",
+    "def": "a fictional superhero team",
     "vi": "nhóm X-Men",
     "viDef": "đội siêu anh hùng trong truyện tranh"
   },
   {
     "word": "PLAY-DOH",
     "ipa": "pleɪ doʊ",
+    "type": "",
+    "def": "a modeling compound used by children",
     "vi": "đất sét nặn PLAY-DOH",
     "viDef": "chất dẻo để trẻ con nặn hình"
   },
   {
     "word": "Treasure chest",
     "ipa": "ˈtɹɛʒɚ tʃɛst",
+    "type": "",
+    "def": "a chest filled with valuables",
     "vi": "hòm châu báu",
     "viDef": "chiếc hòm đầy của quý"
   },
   {
     "word": "jigsaw puzzle",
     "ipa": "ˈdʒɪɡsɔ ˈpʌzəl",
+    "type": "",
+    "def": "irregularly cut pieces that form a picture when fitted together",
     "vi": "tranh xếp hình",
     "viDef": "các mảnh cắt lô nhô, ghép lại thành một bức tranh"
   },
   {
     "word": "plush toy",
     "ipa": "plʌʃ tɔɪ",
+    "type": "",
+    "def": "toy sewn from fabric stuffed with a material such as cotton",
     "vi": "thú nhồi bông",
     "viDef": "đồ chơi may bằng vải, nhồi bông hoặc chất tương tự"
   },
   {
     "word": "skipping rope / jump rope",
     "ipa": "ˈskɪpɪŋ ɹoʊp dʒʌmp ɹoʊp",
+    "type": "",
+    "def": "rope with handles on each end swung around while someone jumps over it",
     "vi": "dây nhảy",
     "viDef": "dây có tay cầm hai đầu, quay vòng cho người nhảy qua"
   },
   {
     "word": "building blocks",
     "ipa": "ˈbɪldɪŋ blɑks",
+    "type": "",
+    "def": "set of cube-shaped blocks used by children to make simple constructions",
     "vi": "khối xếp hình",
     "viDef": "bộ khối vuông cho trẻ con xếp thành công trình đơn giản"
   },
   {
     "word": "train set",
     "ipa": "tɹeɪn sɛt",
+    "type": "",
+    "def": "toy consisting of small models of railroad trains and the track for them to run on",
     "vi": "bộ xe lửa mô hình",
     "viDef": "đồ chơi gồm các đầu tàu, toa nhỏ và đường ray để chạy"
   }

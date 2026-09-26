@@ -2,90 +2,120 @@
   {
     "word": "inevitable",
     "ipa": "ˌɪˈnɛvətəbəl",
+    "type": "Adjective",
+    "def": "unavoidable",
     "vi": "tất yếu",
     "viDef": "không thể tránh khỏi"
   },
   {
     "word": "nest egg",
     "ipa": "nɛst ɛɡ",
+    "type": "common noun, singular",
+    "def": "money that is saved to pay for something in the future, usually a house, or retirement",
     "vi": "khoản để dành",
     "viDef": "tiền tích lũy cho sau này, thường để mua nhà hoặc dưỡng già"
   },
   {
     "word": "turmoil",
     "ipa": "ˈtɝmɔɪl",
+    "type": "common noun, non-variable",
+    "def": "a state of confusion, disorder, disturbance",
     "vi": "sự rối loạn",
     "viDef": "tình trạng hỗn loạn, xáo trộn"
   },
   {
     "word": "stimulus package",
     "ipa": "ˈstɪmjələs ˈpækədʒ",
+    "type": "phrase",
+    "def": "amount of money the government uses to improve the economy",
     "vi": "gói kích thích kinh tế",
     "viDef": "khoản tiền nhà nước bỏ ra để vực dậy kinh tế"
   },
   {
     "word": "instability",
     "ipa": "ˌɪnstəˈbɪlɪti",
+    "type": "common noun, non-variable",
+    "def": "state of not being stable, being likely to change",
     "vi": "sự bất ổn",
     "viDef": "trạng thái không vững, dễ thay đổi"
   },
   {
     "word": "emerging market",
     "ipa": "ɪˈmɝdʒɪŋ ˈmɑɹkət",
+    "type": "common noun, plural",
+    "def": "nations undergoing quick industrialization",
     "vi": "thị trường mới nổi",
     "viDef": "các nước đang công nghiệp hóa nhanh"
   },
   {
     "word": "aggregate",
     "ipa": "ˈæɡɹəɡət",
+    "type": "Adjective",
+    "def": "combined",
     "vi": "gộp chung, tổng hợp",
     "viDef": "cộng gộp lại"
   },
   {
     "word": "devalue",
     "ipa": "dɪˈvæˌlju",
+    "type": "verb",
+    "def": "reduced in value",
     "vi": "phá giá, mất giá",
     "viDef": "bị giảm giá trị"
   },
   {
     "word": "hit up",
     "ipa": "hɪt ʌp",
+    "type": "verb",
+    "def": "ask for money",
     "vi": "hỏi vay tiền",
     "viDef": "xin hoặc mượn tiền ai"
   },
   {
     "word": "depreciation",
     "ipa": "dɪˌpɹiʃiˈeɪʃən",
+    "type": "common noun, non-variable",
+    "def": "an decrease in the value of something",
     "vi": "sự giảm giá trị",
     "viDef": "giá trị của thứ gì đó đi xuống"
   },
   {
     "word": "appreciation",
     "ipa": "əˌpɹiʃiˈeɪʃən",
+    "type": "common noun, non-variable",
+    "def": "an increase in the value of something",
     "vi": "sự tăng giá trị",
     "viDef": "giá trị của thứ gì đó đi lên"
   },
   {
     "word": "inflation",
     "ipa": "ˌɪnˈfleɪʃən",
+    "type": "common noun, non-variable",
+    "def": "an continual increase in price",
     "vi": "lạm phát",
     "viDef": "giá cả tăng liên tục"
   },
   {
     "word": "developing economy",
     "ipa": "dɪˈvɛləpɪŋ ɪˈkɑnəmi",
+    "type": "common noun, plural",
+    "def": "growing economy",
     "vi": "nền kinh tế đang phát triển",
     "viDef": "kinh tế đang đi lên"
   },
   {
     "word": "rapidly developing country",
     "ipa": "ˈɹæpədli dɪˈvɛləpɪŋ ˈkʌntɹi",
+    "type": "common noun, plural",
+    "def": "countries undergoing quick industrialization",
     "vi": "nước phát triển nhanh",
     "viDef": "quốc gia đang công nghiệp hóa nhanh"
   },
   {
     "word": "industrialized nation",
     "ipa": "ˌɪnˈdʌstɹiəˌlaɪzd ˈneɪʃən",
+    "type": "common noun, plural",
+    "def": "nations that have developed factories and businesses",
     "vi": "nước công nghiệp",
     "viDef": "quốc gia đã có nhà máy và doanh nghiệp phát triển"
   }

@@ -2,72 +2,96 @@
   {
     "word": "trouble",
     "ipa": "ˈtɹʌbəl",
+    "type": "principle verb, present simple",
+    "def": "disturb or bother",
     "vi": "làm phiền",
     "viDef": "quấy rầy hoặc làm bận lòng"
   },
   {
     "word": "recession",
     "ipa": "ɹɪˈsɛʃən",
+    "type": "common noun, singular",
+    "def": "a period of time when the economy of a country is bad",
     "vi": "suy thoái kinh tế",
     "viDef": "giai đoạn nền kinh tế của một nước sa sút"
   },
   {
     "word": "hit me pretty hard",
     "ipa": "hɪt mi ˈpɹɪti hɑɹd",
+    "type": "phrase",
+    "def": "had a strong, negative affect on me",
     "vi": "giáng vào tôi khá nặng",
     "viDef": "gây ảnh hưởng xấu và mạnh đến tôi"
   },
   {
     "word": "debt",
     "ipa": "dɛt",
+    "type": "common noun, non-variable",
+    "def": "the amount of money you owe to a person, bank, company, etc.",
     "vi": "khoản nợ",
     "viDef": "số tiền bạn nợ một người, ngân hàng hay công ty"
   },
   {
     "word": "on top of all that",
     "ipa": "ɑn tɑp ʌv ɔl ðæt",
+    "type": "phrase",
+    "def": "besides that, in addition to",
     "vi": "chưa hết",
     "viDef": "ngoài ra, thêm vào đó"
   },
   {
     "word": "broke",
     "ipa": "bɹoʊk",
+    "type": "Adjective",
+    "def": "not have any money",
     "vi": "cháy túi",
     "viDef": "không còn đồng nào"
   },
   {
     "word": "borrow",
     "ipa": "ˈbɑɹoʊ",
+    "type": "principle verb, present simple",
+    "def": "take and use some money, and return the equal amount of money at a later time",
     "vi": "vay",
     "viDef": "lấy tiền dùng rồi trả lại đúng số đó sau"
   },
   {
     "word": "pay back",
     "ipa": "peɪ bæk",
+    "type": "phrase",
+    "def": "return the money you borrowed",
     "vi": "trả nợ",
     "viDef": "hoàn lại số tiền đã vay"
   },
   {
     "word": "a loan",
     "ipa": "ə loʊn",
+    "type": "common noun, singular",
+    "def": "amount of money borrowed",
     "vi": "khoản vay",
     "viDef": "số tiền đi vay"
   },
   {
     "word": "take out a loan",
     "ipa": "teɪk aʊt ə loʊn",
+    "type": "phrase",
+    "def": "borrow money",
     "vi": "vay một khoản",
     "viDef": "đi vay tiền"
   },
   {
     "word": "unemployed",
     "ipa": "ˌʌnɛmˈplɔɪd",
+    "type": "Adjective",
+    "def": "having no job",
     "vi": "thất nghiệp",
     "viDef": "không có việc làm"
   },
   {
     "word": "downturn",
     "ipa": "ˈdaʊntɝn",
+    "type": "common noun, singular",
+    "def": "a time when the economy is worse than usual",
     "vi": "giai đoạn đi xuống",
     "viDef": "thời kỳ kinh tế kém hơn bình thường"
   }

@@ -2,72 +2,96 @@
   {
     "word": "what's up",
     "ipa": "wʌts ʌp",
+    "type": "phrase",
+    "def": "what is the matter",
     "vi": "có chuyện gì thế",
     "viDef": "chuyện gì đang xảy ra"
   },
   {
     "word": "reschedule",
     "ipa": "ɹiˈskɛdʒul",
+    "type": "verb",
+    "def": "schedule something for a different time",
     "vi": "hẹn lại",
     "viDef": "xếp lại sang giờ khác"
   },
   {
     "word": "inconvenience",
     "ipa": "ˌɪnkənˈvinjəns",
+    "type": "verb",
+    "def": "cause problem or trouble",
     "vi": "gây bất tiện",
     "viDef": "làm ai phải phiền, phải khó"
   },
   {
     "word": "come up",
     "ipa": "kʌm ʌp",
+    "type": "verb",
+    "def": "occur in an unexpected way",
     "vi": "phát sinh",
     "viDef": "xảy ra bất ngờ"
   },
   {
     "word": "make it",
     "ipa": "meɪk ɪt",
+    "type": "verb",
+    "def": "come",
     "vi": "đến được",
     "viDef": "có mặt, tới được"
   },
   {
     "word": "postpone",
     "ipa": "poʊstˈpoʊn",
+    "type": "verb",
+    "def": "decide to do something at a later time",
     "vi": "hoãn lại",
     "viDef": "quyết định làm vào lúc khác muộn hơn"
   },
   {
     "word": "no wonder",
     "ipa": "noʊ ˈwʌndɚ",
+    "type": "phrase",
+    "def": "not surprisingly",
     "vi": "chẳng lạ gì",
     "viDef": "thế thì không có gì đáng ngạc nhiên"
   },
   {
     "word": "scheduling conflict",
     "ipa": "ˈskɛdʒʊlɪŋ ˈkɑnflɪkt",
+    "type": "common noun, singular",
+    "def": "two or more appointments scheduled at the same time",
     "vi": "trùng lịch",
     "viDef": "hai cuộc hẹn trở lên đặt cùng giờ"
   },
   {
     "word": "call off",
     "ipa": "kɔl ɔf",
+    "type": "verb",
+    "def": "cancel",
     "vi": "hủy",
     "viDef": "bỏ, không làm nữa"
   },
   {
     "word": "double-book",
     "ipa": "ˈdʌbəl bʊk",
+    "type": "verb",
+    "def": "have two appointments or meetings at the same time",
     "vi": "đặt trùng hai hẹn",
     "viDef": "cùng lúc có hai cuộc hẹn"
   },
   {
     "word": "push back",
     "ipa": "pʊʃ bæk",
+    "type": "phrase",
+    "def": "move a meeting or appointment to a later time",
     "vi": "đẩy lùi lại",
     "viDef": "chuyển cuộc hẹn sang giờ muộn hơn"
   },
   {
     "word": "rain check",
     "ipa": "ɹeɪn tʃɛk",
+    "type": "phrase",
+    "def": "a promise or offer to do something in the future that is not possible to do now",
     "vi": "hẹn dịp khác",
     "viDef": "hứa để lần sau vì bây giờ chưa được"
   }

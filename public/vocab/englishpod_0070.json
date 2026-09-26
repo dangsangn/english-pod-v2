@@ -2,96 +2,128 @@
   {
     "word": "mortifying",
     "ipa": "ˈmɔɹtəˌfaɪɪŋ",
+    "type": "Adjective",
+    "def": "extremely embarassing",
     "vi": "nhục hết chỗ nói",
     "viDef": "cực kỳ mắc cỡ"
   },
   {
     "word": "boy shorts",
     "ipa": "bɔɪ ʃɔɹts",
+    "type": "common noun, plural",
+    "def": "women's underwear that looks like little, tight shorts",
     "vi": "quần lót đùi",
     "viDef": "đồ lót nữ trông như quần đùi nhỏ, bó"
   },
   {
     "word": "bikini briefs",
     "ipa": "bɪˈkini bɹifs",
+    "type": "common noun, singular",
+    "def": "women's underwear worn on the lower part of the body",
     "vi": "quần lót bikini",
     "viDef": "đồ lót nữ mặc ở phần dưới cơ thể"
   },
   {
     "word": "undies",
     "ipa": "ˈʌndiz",
+    "type": "common noun, plural",
+    "def": "informal way of saying underwear",
     "vi": "đồ lót",
     "viDef": "cách gọi thân mật của quần áo lót"
   },
   {
     "word": "push-up bra",
     "ipa": "pʊʃ ʌp bɹɑ",
+    "type": "common noun, singular",
+    "def": "a bra that raises the breasts so as to offer additional size through padding",
     "vi": "áo ngực đệm nâng",
     "viDef": "áo ngực có đệm để nâng và trông đầy hơn"
   },
   {
     "word": "nighties",
     "ipa": "ˈnaɪtiz",
+    "type": "common noun, plural",
+    "def": "a night dress, night gown",
     "vi": "váy ngủ",
     "viDef": "áo đầm mặc khi ngủ"
   },
   {
     "word": "get out of here",
     "ipa": "ɡɛt aʊt ʌv hiɹ",
+    "type": "phrase",
+    "def": "leave this place",
     "vi": "ra khỏi đây đi",
     "viDef": "rời khỏi chỗ này"
   },
   {
     "word": "sleepwear",
     "ipa": "ˈslipwɛɹ",
+    "type": "common noun, singular",
+    "def": "clothes you use for sleeping",
     "vi": "đồ ngủ",
     "viDef": "quần áo mặc khi đi ngủ"
   },
   {
     "word": "lingerie",
     "ipa": "ˈlɑnʒɚˌeɪ",
+    "type": "common noun, non-variable",
+    "def": "women's underwear",
     "vi": "nội y nữ",
     "viDef": "đồ lót của phụ nữ"
   },
   {
     "word": "panties",
     "ipa": "ˈpæntiz",
+    "type": "common noun, plural",
+    "def": "women's underwear",
     "vi": "quần lót nữ",
     "viDef": "đồ lót của phụ nữ"
   },
   {
     "word": "bra",
     "ipa": "bɹɑ",
+    "type": "common noun, singular",
+    "def": "clothes a women wears to support her breasts",
     "vi": "áo ngực",
     "viDef": "áo phụ nữ mặc để đỡ ngực"
   },
   {
     "word": "going commando",
     "ipa": "ˈɡoʊɪŋ kəˈmænˌdoʊ",
+    "type": "phrase",
+    "def": "term used to describe when a person is not wearing any underwear",
     "vi": "không mặc đồ lót",
     "viDef": "cách nói khi ai đó chẳng mặc gì bên trong"
   },
   {
     "word": "briefs",
     "ipa": "bɹifs",
+    "type": "common noun, plural",
+    "def": "normal or traditional underwear for men, similar to the shape and size of panties",
     "vi": "quần lót nam ôm",
     "viDef": "đồ lót nam kiểu thường, dáng và cỡ như quần lót nữ"
   },
   {
     "word": "boxer shorts",
     "ipa": "ˈbɑksɚ ʃɔɹts",
+    "type": "common noun, plural",
+    "def": "type of underwear that men use which are similar to shorts",
     "vi": "quần lót đùi nam",
     "viDef": "đồ lót nam giống chiếc quần đùi"
   },
   {
     "word": "corset",
     "ipa": "ˈkɔɹsət",
+    "type": "common noun, singular",
+    "def": "a garment worn under the clothing used to mold and shape the torso into a desired shape for aesthetic or medical purposes",
     "vi": "áo nịt định hình",
     "viDef": "áo mặc bên trong để bó và tạo dáng phần thân, vì thẩm mỹ hoặc y tế"
   },
   {
     "word": "knickers",
     "ipa": "ˈnɪkɚz",
+    "type": "common noun, plural",
+    "def": "BrE. same as panties",
     "vi": "quần lót nữ",
     "viDef": "tiếng Anh-Anh, giống panties"
   }

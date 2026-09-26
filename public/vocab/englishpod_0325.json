@@ -2,60 +2,80 @@
   {
     "word": "vacation",
     "ipa": "veɪˈkeɪʃən",
+    "type": "",
+    "def": "have holidays",
     "vi": "đi nghỉ",
     "viDef": "nghỉ phép, đi chơi"
   },
   {
     "word": "jealous",
     "ipa": "ˈdʒɛləs",
+    "type": "",
+    "def": "feeling resentment against someone because of that person's rivalry, success, or advantages",
     "vi": "ganh tị",
     "viDef": "thấy khó chịu với ai vì người đó hơn mình, thành công hoặc có lợi thế"
   },
   {
     "word": "catch up",
     "ipa": "kætʃ ʌp",
+    "type": "",
+    "def": "meet each other",
     "vi": "gặp hàn huyên",
     "viDef": "gặp lại nhau"
   },
   {
     "word": "floor",
     "ipa": "flɔɹ",
+    "type": "",
+    "def": "one of the many levels of a building",
     "vi": "tầng",
     "viDef": "một trong nhiều tầng của tòa nhà"
   },
   {
     "word": "take care",
     "ipa": "teɪk kɛɹ",
+    "type": "",
+    "def": "deal with",
     "vi": "lo liệu",
     "viDef": "xử lý việc gì"
   },
   {
     "word": "for sure",
     "ipa": "fɔɹ ʃʊɹ",
+    "type": "",
+    "def": "phrase of agreement",
     "vi": "chắc chắn rồi",
     "viDef": "câu tỏ ý đồng tình"
   },
   {
     "word": "envy",
     "ipa": "ˈɛnvi",
+    "type": "",
+    "def": "a feeling of discontent with regard to another's advantages, success, possessions",
     "vi": "sự ganh tị",
     "viDef": "cảm giác không bằng lòng trước lợi thế, thành công hoặc của cải của người khác"
   },
   {
     "word": "tourist",
     "ipa": "ˈtʊɹəst",
+    "type": "",
+    "def": "a person who is traveling",
     "vi": "khách du lịch",
     "viDef": "người đang đi du lịch"
   },
   {
     "word": "rat race",
     "ipa": "ɹæt ɹeɪs",
+    "type": "",
+    "def": "endless pursuit with little reward or purpose such as job.",
     "vi": "vòng xoáy cơm áo",
     "viDef": "cuộc đua bất tận mà thu về chẳng bao nhiêu hoặc chẳng để làm gì, chẳng hạn công việc"
   },
   {
     "word": "mid life crisis",
     "ipa": "mɪd laɪf ˈkɹaɪsəs",
+    "type": "",
+    "def": "period of dramatic self-doubt that is felt by some individuals in the \"middle years\" or middle age of life",
     "vi": "khủng hoảng tuổi trung niên",
     "viDef": "giai đoạn hoài nghi bản thân dữ dội mà một số người trải qua ở tuổi giữa đời"
   }

@@ -2,60 +2,80 @@
   {
     "word": "huge",
     "ipa": "hjudʒ",
+    "type": "",
+    "def": "very big",
     "vi": "bự tổ chảng",
     "viDef": "rất to"
   },
   {
     "word": "ornament",
     "ipa": "ˈɔɹnəmənt",
+    "type": "",
+    "def": "decoration, something used to beautify",
     "vi": "đồ trang trí",
     "viDef": "vật dùng để làm đẹp"
   },
   {
     "word": "decorate",
     "ipa": "ˈdɛkɚˌeɪt",
+    "type": "",
+    "def": "beautify",
     "vi": "trang trí",
     "viDef": "làm cho đẹp thêm"
   },
   {
     "word": "of course",
     "ipa": "ʌv kɔɹs",
+    "type": "",
+    "def": "certainly true",
     "vi": "tất nhiên",
     "viDef": "chắc chắn là vậy"
   },
   {
     "word": "stocking",
     "ipa": "ˈstɑkɪŋ",
+    "type": "",
+    "def": "large sock; traditionally Christmas gifts are put inside",
     "vi": "chiếc bít tất lớn",
     "viDef": "vớ to; theo lệ Giáng sinh người ta nhét quà vào trong"
   },
   {
     "word": "tinsel",
     "ipa": "ˈtɪnsəl",
+    "type": "",
+    "def": "very thin strips of shiny metallic material",
     "vi": "dây kim tuyến",
     "viDef": "những dải mảnh bằng vật liệu kim loại lấp lánh"
   },
   {
     "word": "garland",
     "ipa": "ˈɡɑɹlənd",
+    "type": "",
+    "def": "a chain of flowers, leaves, or tinsel",
     "vi": "dây kết hoa lá",
     "viDef": "chuỗi hoa, lá hoặc kim tuyến"
   },
   {
     "word": "wreath",
     "ipa": "ɹiθ",
+    "type": "",
+    "def": "a closed circle of garland",
     "vi": "vòng hoa treo",
     "viDef": "vòng tròn kết bằng dây hoa lá"
   },
   {
     "word": "light up the Christmas tree",
     "ipa": "laɪt ʌp ðə ˈkɹɪsməs tɹi",
+    "type": "",
+    "def": "turn on the Christmas tree lights",
     "vi": "bật đèn cây Noel",
     "viDef": "mở đèn trên cây Giáng sinh"
   },
   {
     "word": "Christmas star/angel",
     "ipa": "ˈkɹɪsməs stɑɹ ˈeɪndʒəl",
+    "type": "",
+    "def": "a large ornament in the shape of a star or an angel, usually with lights, placed on the very top of the Christmas tree",
     "vi": "ngôi sao hoặc thiên thần trên ngọn cây",
     "viDef": "món trang trí lớn hình sao hoặc thiên thần, thường có đèn, gắn trên đỉnh cây Noel"
   }

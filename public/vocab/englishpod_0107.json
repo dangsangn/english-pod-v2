@@ -2,126 +2,168 @@
   {
     "word": "appetizer",
     "ipa": "ˈæpəˌtaɪzɚ",
+    "type": "common noun, plural",
+    "def": "little dish people have before meal",
     "vi": "món khai vị",
     "viDef": "món nhỏ ăn trước bữa chính"
   },
   {
     "word": "establishment",
     "ipa": "ɪˈstæblɪʃmənt",
+    "type": "common noun, singular",
+    "def": "place of business like a restaurant or hotel",
     "vi": "cơ sở kinh doanh",
     "viDef": "chỗ làm ăn như nhà hàng hay khách sạn"
   },
   {
     "word": "service",
     "ipa": "ˈsɝvəs",
+    "type": "common noun, singular",
+    "def": "work done by someone to serve customers",
     "vi": "dịch vụ phục vụ",
     "viDef": "việc làm để phục vụ khách"
   },
   {
     "word": "order",
     "ipa": "ˈɔɹdɚ",
+    "type": "common noun, singular",
+    "def": "the list containing your choices of dishes",
     "vi": "phần gọi món",
     "viDef": "danh sách món mình chọn"
   },
   {
     "word": "foie gras",
     "ipa": "fɔɪ ɡɹæs",
+    "type": "common noun, non-variable",
+    "def": "a food made from the livers of geese",
     "vi": "gan ngỗng béo",
     "viDef": "món làm từ gan ngỗng"
   },
   {
     "word": "runny",
     "ipa": "ˈɹʌni",
+    "type": "Adjective",
+    "def": "more liquid than expected",
     "vi": "loãng nhão",
     "viDef": "nhiều nước hơn mức đáng có"
   },
   {
     "word": "over-seasoned",
     "ipa": "ˈoʊvɚ ˈsizənd",
+    "type": "Adjective",
+    "def": "too salty",
     "vi": "nêm quá tay",
     "viDef": "mặn quá"
   },
   {
     "word": "inedible",
     "ipa": "ˌɪˈnɛdəbəl",
+    "type": "Adjective",
+    "def": "can not be eaten",
     "vi": "không ăn được",
     "viDef": "chẳng thể ăn nổi"
   },
   {
     "word": "rubbery",
     "ipa": "ˈɹʌbɚi",
+    "type": "Adjective",
+    "def": "difficult to chew",
     "vi": "dai như cao su",
     "viDef": "khó nhai"
   },
   {
     "word": "overcooked",
     "ipa": "ˌoʊvɚˈkʊkt",
+    "type": "Adjective",
+    "def": "be cooked overtime",
     "vi": "nấu quá lửa",
     "viDef": "bị nấu quá lâu"
   },
   {
     "word": "portion size",
     "ipa": "ˈpɔɹʃən saɪz",
+    "type": "common noun, singular",
+    "def": "the amount of food that is served to a person",
     "vi": "khẩu phần",
     "viDef": "lượng đồ ăn dọn cho một người"
   },
   {
     "word": "sliver",
     "ipa": "ˈslɪvɚ",
+    "type": "common noun, singular",
+    "def": "a small, thin piece",
     "vi": "miếng mỏng tí",
     "viDef": "mẩu nhỏ và mỏng"
   },
   {
     "word": "make a big deal",
     "ipa": "meɪk ə bɪɡ dil",
+    "type": "phrase",
+    "def": "get very upset about something small",
     "vi": "làm to chuyện",
     "viDef": "nổi giận vì việc cỏn con"
   },
   {
     "word": "comp",
     "ipa": "kɑmp",
+    "type": "verb",
+    "def": "be given to customers for free",
     "vi": "miễn phí cho khách",
     "viDef": "được tặng, không tính tiền"
   },
   {
     "word": "shell out",
     "ipa": "ʃɛl aʊt",
+    "type": "phrase",
+    "def": "to spend money",
     "vi": "bỏ tiền ra",
     "viDef": "chi tiền"
   },
   {
     "word": "hard earned",
     "ipa": "hɑɹd ɝnd",
+    "type": "phrase",
+    "def": "money you work hard for",
     "vi": "mồ hôi nước mắt",
     "viDef": "tiền phải làm vất vả mới có"
   },
   {
     "word": "a bad aftertaste",
     "ipa": "ə bæd ˈæftɚˌteɪst",
+    "type": "phrase",
+    "def": "a bad second taste",
     "vi": "hậu vị dở",
     "viDef": "vị còn lại sau khi ăn không ngon"
   },
   {
     "word": "bitter",
     "ipa": "ˈbɪtɚ",
+    "type": "Adjective",
+    "def": "a strong, unpleasant taste that is opposite of sweet",
     "vi": "đắng",
     "viDef": "vị gắt, khó chịu, trái với ngọt"
   },
   {
     "word": "rank",
     "ipa": "ɹæŋk",
+    "type": "Adjective",
+    "def": "a strong, unpleasant smell",
     "vi": "nồng khét",
     "viDef": "mùi mạnh, khó chịu"
   },
   {
     "word": "rancid",
     "ipa": "ˈɹænsɪd",
+    "type": "Adjective",
+    "def": "a rotten taste or smell",
     "vi": "hôi dầu, trở mùi",
     "viDef": "vị hoặc mùi như đã hỏng"
   },
   {
     "word": "unappealing",
     "ipa": "ˌʌnəˈpilɪŋ",
+    "type": "Adjective",
+    "def": "not appealing; not attractive or tasty",
     "vi": "chẳng hấp dẫn",
     "viDef": "không bắt mắt cũng chẳng ngon"
   }

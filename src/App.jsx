@@ -6,7 +6,10 @@ import { ThemeProvider } from './components/ThemeProvider'
 import ThemeToggle from './components/ThemeToggle'
 import Footer from './components/Footer'
 import UserGuideModal from './components/UserGuideModal'
-import { BookOpen } from 'lucide-react'
+import VocabApp from './components/vocab/VocabApp'
+import EpisodeVocabButton from './components/vocab/EpisodeVocabButton'
+import { navigate, useHashRoute } from './lib/hooks'
+import { BookOpen, Flower2 } from 'lucide-react'
 // We will import data, assuming it exists (might need to handle if script hasn't finished, but we know it generated episodes.json)
 import episodesData from './data/episodes.json'
 
@@ -37,6 +40,8 @@ function AppContent() {
   const [currentEpisodeId, setCurrentEpisodeId] = useState(() => getLastEpisodeId())
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [isGuideOpen, setIsGuideOpen] = useState(false)
+  const route = useHashRoute()
+  const isVocabOpen = route === 'vocab' || route.startsWith('vocab/')
 
   // Save current episode to localStorage whenever it changes
   useEffect(() => {
@@ -79,6 +84,18 @@ function AppContent() {
         onClose={() => setIsGuideOpen(false)}
       />
 
+      {/* Rendered over the podcast view, which stays mounted so audio keeps playing. */}
+      {isVocabOpen && (
+        <VocabApp
+          route={route}
+          episodes={episodesData}
+          onOpenEpisode={(id) => {
+            setCurrentEpisodeId(id)
+            navigate('')
+          }}
+        />
+      )}
+
       {/* Light mode ambient background mesh */}
       <div className='absolute inset-0 z-0 pointer-events-none overflow-hidden dark:hidden'>
         <div className='absolute top-[-10%] left-[-10%] w-[40%] h-[40%] rounded-full bg-indigo-200/30 blur-[100px]' />
@@ -87,6 +104,13 @@ function AppContent() {
 
       {/* Mobile sidebar toggle */}
       <div className='lg:hidden fixed top-4 right-4 z-50 flex gap-2'>
+        <button
+          onClick={() => navigate('vocab')}
+          className='p-2 bg-rose-500 rounded-full shadow-lg text-white hover:bg-rose-600 transition-colors'
+          title='Vocabulary'
+        >
+          <Flower2 size={20} />
+        </button>
         <button
           onClick={() => setIsGuideOpen(true)}
           className='p-2 bg-emerald-600 rounded-full shadow-lg text-white hover:bg-emerald-700 transition-colors'
@@ -134,6 +158,14 @@ function AppContent() {
               <BookOpen size={14} />
               User Manual Guide
             </button>
+
+            <button
+              onClick={() => navigate('vocab')}
+              className='mt-2 flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-rose-700 dark:text-rose-300 bg-rose-100 dark:bg-rose-900/30 border border-rose-200 dark:border-rose-800/50 rounded-full hover:bg-rose-200 dark:hover:bg-rose-900/50 transition-colors'
+            >
+              <Flower2 size={14} />
+              Vocabulary Garden
+            </button>
           </div>
           <div className='hidden lg:block'>
             <ThemeToggle />
@@ -163,6 +195,7 @@ function AppContent() {
                 <h2 className='text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-white tracking-tight'>
                   {currentEpisode.title}
                 </h2>
+                <EpisodeVocabButton episode={currentEpisode} />
               </div>
 
               <Transcript episode={currentEpisode} />

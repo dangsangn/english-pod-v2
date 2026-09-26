@@ -2,102 +2,136 @@
   {
     "word": "review",
     "ipa": "ɹiˈvju",
+    "type": "verb",
+    "def": "go over what have been learned",
     "vi": "ôn lại",
     "viDef": "xem lại phần đã học"
   },
   {
     "word": "plus",
     "ipa": "plʌs",
+    "type": "Preposition",
+    "def": "add (+)",
     "vi": "cộng",
     "viDef": "phép thêm vào (+)"
   },
   {
     "word": "teacher's pet",
     "ipa": "ˈtitʃɚz pɛt",
+    "type": "common noun, singular",
+    "def": "the student a teacher likes best",
     "vi": "học sinh ruột của cô",
     "viDef": "đứa được thầy cô thương nhất"
   },
   {
     "word": "minus",
     "ipa": "ˈmaɪnəs",
+    "type": "Preposition",
+    "def": "take away; subtract (-)",
     "vi": "trừ",
     "viDef": "phép bớt đi (-)"
   },
   {
     "word": "times",
     "ipa": "taɪmz",
+    "type": "principle verb, present simple",
+    "def": "multiply; (x)",
     "vi": "nhân",
     "viDef": "phép nhân (x)"
   },
   {
     "word": "suck up",
     "ipa": "sʌk ʌp",
+    "type": "common noun, singular",
+    "def": "a person who always tries to make the teacher or boss like him or her",
     "vi": "kẻ nịnh",
     "viDef": "người luôn tìm cách lấy lòng thầy cô hoặc cấp trên"
   },
   {
     "word": "divided by",
     "ipa": "dɪˈvaɪdɪd baɪ",
+    "type": "verb",
+    "def": "separate to some parts",
     "vi": "chia cho",
     "viDef": "tách ra thành các phần"
   },
   {
     "word": "smarty pants",
     "ipa": "ˈsmɑɹti pænts",
+    "type": "common noun, plural",
+    "def": "a person who tries to show he is so smart",
     "vi": "kẻ tỏ ra thông thái",
     "viDef": "người hay tỏ vẻ mình giỏi"
   },
   {
     "word": "square root",
     "ipa": "skwɛɹ ɹut",
+    "type": "common noun, singular",
+    "def": "the number got when a number is multiplied by itself",
     "vi": "căn bậc hai",
     "viDef": "số mà nhân với chính nó thì ra số đã cho"
   },
   {
     "word": "I'll bet",
     "ipa": "aɪl bɛt",
+    "type": "phrase",
+    "def": "I think something is likely to happen",
     "vi": "tôi cá là",
     "viDef": "tôi cho rằng chuyện đó dễ xảy ra"
   },
   {
     "word": "know-it-all",
     "ipa": "noʊ ɪt ɔl",
+    "type": "common noun, singular",
+    "def": "the person claims or pretends to know everything",
     "vi": "kẻ tỏ ra biết tuốt",
     "viDef": "người tự nhận hoặc làm như mình biết mọi thứ"
   },
   {
     "word": "equation",
     "ipa": "ɪˈkweɪʒən",
+    "type": "common noun, singular",
+    "def": "a math problem where each side is equal (3+6=9)",
     "vi": "phương trình",
     "viDef": "bài toán mà hai vế bằng nhau (3+6=9)"
   },
   {
     "word": "operation",
     "ipa": "ˌɑpɚˈeɪʃən",
+    "type": "common noun, singular",
+    "def": "a mathematical process such as +, x, -, etc.",
     "vi": "phép tính",
     "viDef": "thao tác toán học như +, x, -..."
   },
   {
     "word": "multiplication",
     "ipa": "ˌmʌltəpləˈkeɪʃən",
+    "type": "common noun, non-variable",
+    "def": "the process of adding a number to itself a certain number of times",
     "vi": "phép nhân",
     "viDef": "việc cộng một số với chính nó nhiều lần"
   },
   {
     "word": "addition",
     "ipa": "əˈdɪʃən",
+    "type": "common noun, non-variable",
+    "def": "the process of adding two numbers together",
     "vi": "phép cộng",
     "viDef": "việc cộng hai số lại"
   },
   {
     "word": "subtraction",
     "ipa": "səbˈtɹækʃən",
+    "type": "common noun, non-variable",
+    "def": "the process of taking one number away from another",
     "vi": "phép trừ",
     "viDef": "việc lấy số này bớt đi số kia"
   },
   {
     "word": "division",
     "ipa": "dɪˈvɪʒən",
+    "type": "common noun, non-variable",
+    "def": "the process of divining something into parts",
     "vi": "phép chia",
     "viDef": "việc tách thứ gì thành các phần"
   }

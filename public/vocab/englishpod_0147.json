@@ -2,66 +2,88 @@
   {
     "word": "chick flick",
     "ipa": "tʃɪk flɪk",
+    "type": "",
+    "def": "a film that appeals to women",
     "vi": "phim cho phái nữ",
     "viDef": "bộ phim hợp thị hiếu phụ nữ"
   },
   {
     "word": "sarcastic",
     "ipa": "sɑɹˈkæstɪk",
+    "type": "",
+    "def": "the use of words to show irritation",
     "vi": "châm chọc",
     "viDef": "dùng lời để tỏ ý bực"
   },
   {
     "word": "in touch with",
     "ipa": "ɪn tʌtʃ wɪð",
+    "type": "",
+    "def": "to be in close contact with",
     "vi": "gần gũi với",
     "viDef": "giữ liên hệ sát sao"
   },
   {
     "word": "one-night-stand",
     "ipa": "wʌn naɪt stænd",
+    "type": "",
+    "def": "a random and temporary romantic encounter",
     "vi": "qua đêm một lần",
     "viDef": "cuộc gần gũi tình cờ, chỉ một lần"
   },
   {
     "word": "criticize",
     "ipa": "ˈkɹɪtɪˌsaɪz",
+    "type": "",
+    "def": "to express disapproval",
     "vi": "chỉ trích",
     "viDef": "tỏ ý không tán thành"
   },
   {
     "word": "unbearable",
     "ipa": "ənˈbɛɹəbəl",
+    "type": "",
+    "def": "too bad to be accepted or endured",
     "vi": "không chịu nổi",
     "viDef": "tệ tới mức không chấp nhận hay chịu đựng được"
   },
   {
     "word": "intolerable",
     "ipa": "ˌɪnˈtɑlɚəbəl",
+    "type": "",
+    "def": "too bad to be accepted or endured",
     "vi": "quá sức chịu đựng",
     "viDef": "tệ đến mức không thể nhận hoặc kham được"
   },
   {
     "word": "chauvinist",
     "ipa": "ˈʃoʊvənəst",
+    "type": "",
+    "def": "Prejudiced belief in the superiority of one's own gender, group, or kind",
     "vi": "kẻ tự tôn phái mình",
     "viDef": "người định kiến rằng phái, nhóm hoặc loại của mình hơn hẳn"
   },
   {
     "word": "make fun of",
     "ipa": "meɪk fʌn ʌv",
+    "type": "",
+    "def": "To mock; ridicule.",
     "vi": "lấy ra làm trò cười",
     "viDef": "nhại, chê cười"
   },
   {
     "word": "brag",
     "ipa": "bɹæɡ",
+    "type": "",
+    "def": "to speak arrogantly and boastfully",
     "vi": "khoe mẽ",
     "viDef": "nói năng tự cao, khoác lác"
   },
   {
     "word": "discuss",
     "ipa": "dɪˈskʌs",
+    "type": "",
+    "def": "to consider (something) by talking it over",
     "vi": "bàn bạc",
     "viDef": "cùng nói ra để xem xét việc gì"
   }

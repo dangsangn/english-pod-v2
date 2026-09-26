@@ -2,60 +2,80 @@
   {
     "word": "spew",
     "ipa": "spju",
+    "type": "principle verb, present progressive",
+    "def": "to flow out of something in a fast and forceful way",
     "vi": "phun trào",
     "viDef": "chảy ra ào ào, mạnh"
   },
   {
     "word": "die on",
     "ipa": "daɪ ɑn",
+    "type": "principle verb, past simple",
+    "def": "to stop working or running while in use by someone",
     "vi": "chết máy giữa đường",
     "viDef": "ngừng chạy khi đang dùng"
   },
   {
     "word": "busted",
     "ipa": "ˈbʌstɪd",
+    "type": "Adjective",
+    "def": "broken",
     "vi": "tan tành",
     "viDef": "bị hỏng"
   },
   {
     "word": "take apart",
     "ipa": "teɪk əˈpɑɹt",
+    "type": "principle verb, present simple",
+    "def": "to remove all the pieces",
     "vi": "tháo rời",
     "viDef": "bung hết các bộ phận ra"
   },
   {
     "word": "how about",
     "ipa": "haʊ əˈbaʊt",
+    "type": "phrase",
+    "def": "introduces request or suggestion",
     "vi": "hay là",
     "viDef": "câu mở đầu khi đề nghị hoặc gợi ý"
   },
   {
     "word": "gearbox",
     "ipa": "ˈɡɪɹbɑks",
+    "type": "common noun, singular",
+    "def": "the metal casing enclosing a set of gears in a motor vehicle",
     "vi": "hộp số",
     "viDef": "vỏ kim loại chứa bộ bánh răng của xe"
   },
   {
     "word": "muffler",
     "ipa": "ˈmʌflɚ",
+    "type": "common noun, singular",
+    "def": "a tubular acoustic device inserted in the exhaust system that is designed to reduce noise",
     "vi": "ống giảm âm",
     "viDef": "ống gắn vào hệ xả để giảm tiếng ồn"
   },
   {
     "word": "cruise control",
     "ipa": "kɹuz kənˈtɹoʊl",
+    "type": "common noun, singular",
+    "def": "control mechanism for keeping an automobile at a set speed",
     "vi": "ga tự động",
     "viDef": "cơ chế giữ xe chạy ở tốc độ đã đặt"
   },
   {
     "word": "overtake",
     "ipa": "ˈoʊvɚˌteɪk",
+    "type": "principle verb, present simple",
+    "def": "To pass after catching up with another vehcile on the road",
     "vi": "vượt xe",
     "viDef": "bắt kịp rồi qua xe khác trên đường"
   },
   {
     "word": "boot",
     "ipa": "but",
+    "type": "common noun, singular",
+    "def": "a device that is locked on the wheel of a car by the police to prevent it from moving",
     "vi": "khóa bánh xe",
     "viDef": "thiết bị cảnh sát khóa vào bánh để xe không đi được"
   }

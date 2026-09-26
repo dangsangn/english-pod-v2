@@ -2,96 +2,128 @@
   {
     "word": "bakery",
     "ipa": "ˈbeɪkɚi",
+    "type": "",
+    "def": "store that bakes and sells bread and pastries",
     "vi": "tiệm bánh",
     "viDef": "cửa hàng nướng và bán bánh mì cùng bánh ngọt"
   },
   {
     "word": "loaf",
     "ipa": "loʊf",
+    "type": "",
+    "def": "any shaped or moulded mass of food",
     "vi": "ổ bánh",
     "viDef": "khối thức ăn được tạo hình hoặc đổ khuôn"
   },
   {
     "word": "slice",
     "ipa": "slaɪs",
+    "type": "",
+    "def": "cut into thin slices",
     "vi": "cắt lát",
     "viDef": "thái thành lát mỏng"
   },
   {
     "word": "wheat",
     "ipa": "wit",
+    "type": "",
+    "def": "the grain of of some grasses, used in making flour, pasta, etc",
     "vi": "lúa mì",
     "viDef": "hạt của một số loài cỏ, dùng làm bột mì, mì ống..."
   },
   {
     "word": "bread",
     "ipa": "bɹɛd",
+    "type": "",
+    "def": "a kind of food made of flour",
     "vi": "bánh mì",
     "viDef": "loại thức ăn làm từ bột"
   },
   {
     "word": "muffin",
     "ipa": "ˈmʌfən",
+    "type": "",
+    "def": "a small cake",
     "vi": "bánh muffin",
     "viDef": "một loại bánh nhỏ"
   },
   {
     "word": "blueberry",
     "ipa": "ˈbluˌbɛɹi",
+    "type": "",
+    "def": "the edible, usually bluish berry of various shrubs",
     "vi": "việt quất",
     "viDef": "quả ăn được, thường màu xanh lam, của một số loài cây bụi"
   },
   {
     "word": "rye",
     "ipa": "ɹaɪ",
+    "type": "",
+    "def": "a widely cultivated cereal grass",
     "vi": "lúa mạch đen",
     "viDef": "một loại ngũ cốc được trồng rộng rãi"
   },
   {
     "word": "total",
     "ipa": "ˈtoʊtəl",
+    "type": "",
+    "def": "complete amount",
     "vi": "tổng cộng",
     "viDef": "toàn bộ số tiền"
   },
   {
     "word": "cheesecake",
     "ipa": "ˈtʃizkeɪk",
+    "type": "",
+    "def": "a type of cake",
     "vi": "bánh phô mai",
     "viDef": "một loại bánh ngọt"
   },
   {
     "word": "cake",
     "ipa": "keɪk",
+    "type": "",
+    "def": "a baked dessert",
     "vi": "bánh ngọt",
     "viDef": "món tráng miệng được nướng"
   },
   {
     "word": "sausage roll",
     "ipa": "ˈsɔsədʒ ɹoʊl",
+    "type": "",
+    "def": "a roll of sausage meat in pastry",
     "vi": "bánh cuộn xúc xích",
     "viDef": "cuộn thịt xúc xích bọc trong lớp bột"
   },
   {
     "word": "pavlova",
     "ipa": "pævˈloʊvə",
+    "type": "",
+    "def": "a meringue cake topped with whipped cream and fruit",
     "vi": "bánh pavlova",
     "viDef": "bánh trứng đường phủ kem tươi và trái cây"
   },
   {
     "word": "pie",
     "ipa": "paɪ",
+    "type": "",
+    "def": "a baked food having a filling of fruit, meat, pudding",
     "vi": "bánh nhân",
     "viDef": "món nướng có nhân là trái cây, thịt hoặc kem"
   },
   {
     "word": "chop",
     "ipa": "tʃɑp",
+    "type": "",
+    "def": "to cut or sever with a quick, heavy blow or a series of blows",
     "vi": "chặt",
     "viDef": "cắt hoặc chém bằng một nhát mạnh hoặc nhiều nhát liên tiếp"
   },
   {
     "word": "bake",
     "ipa": "beɪk",
+    "type": "",
+    "def": "to cook by dry heat in an oven or on heated metal or stones",
     "vi": "nướng lò",
     "viDef": "làm chín bằng nhiệt khô trong lò hoặc trên kim loại, đá nóng"
   }

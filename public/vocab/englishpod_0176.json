@@ -2,60 +2,80 @@
   {
     "word": "run up",
     "ipa": "ɹʌn ʌp",
+    "type": "",
+    "def": "acquire bills or debts",
     "vi": "làm đội hóa đơn",
     "viDef": "khiến hóa đơn hoặc nợ tăng lên"
   },
   {
     "word": "turn up",
     "ipa": "tɝn ʌp",
+    "type": "",
+    "def": "increase the intensity of a device",
     "vi": "tăng lên",
     "viDef": "điều thiết bị lên mức mạnh hơn"
   },
   {
     "word": "chilly",
     "ipa": "ˈtʃɪli",
+    "type": "",
+    "def": "very cold",
     "vi": "lạnh buốt",
     "viDef": "rất lạnh"
   },
   {
     "word": "catch a cold",
     "ipa": "kætʃ ə koʊld",
+    "type": "",
+    "def": "become infected with a cold",
     "vi": "bị cảm",
     "viDef": "nhiễm bệnh cảm lạnh"
   },
   {
     "word": "grateful",
     "ipa": "ˈɡɹeɪtfəl",
+    "type": "",
+    "def": "thankful",
     "vi": "biết ơn",
     "viDef": "cảm kích"
   },
   {
     "word": "wood stove",
     "ipa": "wʊd stoʊv",
+    "type": "",
+    "def": "a metal closed fire chamber that burns wood fuel for heating and cooking",
     "vi": "bếp lò củi",
     "viDef": "buồng đốt kim loại kín, đốt củi để sưởi và nấu"
   },
   {
     "word": "thermos",
     "ipa": "ˈθɝməs",
+    "type": "",
+    "def": "container lined with insulating material that keeps liquids hot or cold",
     "vi": "bình giữ nhiệt",
     "viDef": "bình có lớp cách nhiệt giữ đồ uống nóng hoặc lạnh"
   },
   {
     "word": "fireplace",
     "ipa": "ˈfaɪɚˌpleɪs",
+    "type": "",
+    "def": "a structure, made of stone or brick, for holding a fire at the base of a chimney",
     "vi": "lò sưởi",
     "viDef": "kết cấu bằng đá hoặc gạch ở chân ống khói để nhóm lửa"
   },
   {
     "word": "frost",
     "ipa": "fɹɔst",
+    "type": "",
+    "def": "a deposit of tiny ice crystals formed when water vapor condenses at a temperature below freezing",
     "vi": "sương giá",
     "viDef": "lớp tinh thể băng mỏng tạo ra khi hơi nước đọng ở nhiệt độ dưới không"
   },
   {
     "word": "sub-zero temperatures",
     "ipa": "sʌb ˈzɪɹoʊ ˈtɛmpɹətʃɚz",
+    "type": "",
+    "def": "cold temperatures, below 0°C (zero degrees celsius)",
     "vi": "nhiệt độ dưới không",
     "viDef": "trời lạnh dưới 0 độ C"
   }

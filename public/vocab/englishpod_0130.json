@@ -2,60 +2,80 @@
   {
     "word": "pump iron",
     "ipa": "pʌmp ˈaɪɚn",
+    "type": "principle verb, present progressive",
+    "def": "to lift weights in order to make your muscles strong",
     "vi": "tập tạ",
     "viDef": "nâng tạ cho cơ khỏe lên"
   },
   {
     "word": "pull a muscle",
     "ipa": "pʊl ə ˈmʌsəl",
+    "type": "principle verb, present simple",
+    "def": "to hurt (a muscle, tendon, or ligament) by stretch",
     "vi": "giãn cơ, trật cơ",
     "viDef": "làm đau cơ, gân hoặc dây chằng do kéo căng"
   },
   {
     "word": "pointer",
     "ipa": "ˈpɔɪntɚ",
+    "type": "common noun, plural",
+    "def": "suggestions, help",
     "vi": "lời chỉ dẫn",
     "viDef": "gợi ý, sự giúp đỡ"
   },
   {
     "word": "physique",
     "ipa": "fəˈzik",
+    "type": "common noun, non-variable",
+    "def": "the size and shape of a person's body",
     "vi": "thể hình",
     "viDef": "kích thước và dáng người"
   },
   {
     "word": "ripped",
     "ipa": "ɹɪpt",
+    "type": "Adjective",
+    "def": "having a strong and muscular body or shape",
     "vi": "cơ bắp cuồn cuộn",
     "viDef": "thân hình chắc, nhiều cơ"
   },
   {
     "word": "barbell",
     "ipa": "ˈbɑɹbɛl",
+    "type": "common noun, singular",
+    "def": "a long metal rod to which heavy discs are attached at each end for weightlifting",
     "vi": "thanh tạ đòn",
     "viDef": "thanh kim loại dài có đĩa nặng hai đầu để nâng tạ"
   },
   {
     "word": "treadmill",
     "ipa": "ˈtɹɛdmɪl",
+    "type": "common noun, singular",
+    "def": "an exercise machine that consists of a continuous moving belt on which to walk or jog",
     "vi": "máy chạy bộ",
     "viDef": "máy tập có băng chạy để đi hoặc chạy trên đó"
   },
   {
     "word": "spinning",
     "ipa": "ˈspɪnɪŋ",
+    "type": "common noun, singular",
+    "def": "an aerobic exercise that takes place on a specially designed stationary bicycle",
     "vi": "tập xe đạp trong phòng",
     "viDef": "bài tập nhịp điệu trên xe đạp tại chỗ chuyên dụng"
   },
   {
     "word": "scale",
     "ipa": "skeɪl",
+    "type": "common noun, singular",
+    "def": "An instrument or machine for weighing",
     "vi": "cái cân",
     "viDef": "dụng cụ hoặc máy để cân"
   },
   {
     "word": "sit-up",
     "ipa": "sɪt ʌp",
+    "type": "common noun, singular",
+    "def": "an excercise performed to work out the abdominal muscles",
     "vi": "gập bụng",
     "viDef": "bài tập cho cơ bụng"
   }
