@@ -6,6 +6,7 @@ import { formatDelay, isDue, stageOf } from '../../lib/srs'
 import { relearnCard, summarize, useSrs } from '../../lib/srsStore'
 import { speak } from '../../lib/speech'
 import { STAGES } from './stages'
+import TappableText from '../TappableText'
 
 // "learned" = every card that has been studied at least once.
 const FILTERS = [
@@ -265,7 +266,7 @@ function WordRow({ card, now, open, onToggle }) {
           {(card.def || card.viDef) && (
             <div>
               {card.def && (
-                <p className='text-zinc-700 dark:text-zinc-300'>{card.def}</p>
+                <TappableText text={card.def} className='text-zinc-700 dark:text-zinc-300' />
               )}
               {card.viDef && (
                 <p className='vi-text text-indigo-600 dark:text-indigo-400 font-medium'>{card.viDef}</p>

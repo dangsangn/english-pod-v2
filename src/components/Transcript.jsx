@@ -1,7 +1,13 @@
 import { useState, useEffect, useRef } from 'react'
 import useSWR from 'swr'
 import { Eye, EyeOff } from 'lucide-react'
-import { decorateVocab } from '../lib/vocabulary'
+import { decorateVocab, normalizeText } from '../lib/vocabulary'
+import { wrapDialogueWords } from '../lib/tapWords'
+import { speak } from '../lib/speech'
+import TranslatePopover from './TranslatePopover'
+
+// Longest selection that is sent for translation, in characters.
+const MAX_PHRASE = 200
 
 const transcriptFetcher = (url) =>
   fetch(url).then((res) => {
@@ -17,7 +23,10 @@ const vocabFetcher = (url) =>
 
 const Transcript = ({ episode }) => {
   const [isVisible, setIsVisible] = useState(false)
+  // { text, rect } of the word or phrase whose translation is showing.
+  const [lookup, setLookup] = useState(null)
   const contentRef = useRef(null)
+  const activeWordRef = useRef(null)
 
   const swrKey =
     isVisible && episode.transcript_id
@@ -57,22 +66,59 @@ const Transcript = ({ episode }) => {
     // those rows get a click-to-speak handler too.
     if (vocab) decorateVocab(contentRef.current, vocab)
 
-    // Click a word to hear it. Vocabulary data is not required for this.
+    // Every dialogue word becomes tappable for a translation.
+    wrapDialogueWords(contentRef.current)
+
+    // Click a vocabulary word to hear it. Vocabulary data is not required for this.
     contentRef.current.querySelectorAll('.word').forEach((wordEl) => {
       // dataset.speak is the bare word; textContent would include the IPA.
       const wordText = wordEl.dataset.speak || wordEl.textContent.trim()
       if (!wordText) return
       wordEl.onclick = (e) => {
         e.stopPropagation()
-        if (!('speechSynthesis' in window)) return
-        const utterance = new SpeechSynthesisUtterance(wordText)
-        utterance.lang = 'en-US'
-        utterance.rate = 0.8 // Slower, for learners.
-        speechSynthesis.cancel()
-        speechSynthesis.speak(utterance)
+        speak(wordText)
       }
     })
   }, [content, loading, vocab])
+
+  const closeLookup = () => {
+    activeWordRef.current?.classList.remove('tap-word-active')
+    activeWordRef.current = null
+    setLookup(null)
+  }
+
+  const openLookup = (text, rect, wordEl = null) => {
+    activeWordRef.current?.classList.remove('tap-word-active')
+    activeWordRef.current = wordEl
+    wordEl?.classList.add('tap-word-active')
+    setLookup({ text, rect })
+  }
+
+  // Selecting several words translates the phrase; a plain click on one word
+  // translates that word. Selection wins, so a drag that ends on a word does
+  // not also open the single-word card.
+  const onSelectEnd = () => {
+    const selection = window.getSelection()
+    const text = normalizeText(selection?.toString())
+    if (!text || !/\s/.test(text) || text.length > MAX_PHRASE) return false
+    const range = selection.getRangeAt(0)
+    if (!contentRef.current?.contains(range.commonAncestorContainer)) return false
+    openLookup(text, range.getBoundingClientRect())
+    return true
+  }
+
+  const onContentClick = (e) => {
+    if (onSelectEnd()) return
+    const wordEl = e.target.closest?.('.tap-word')
+    if (!wordEl) return
+    openLookup(wordEl.textContent, wordEl.getBoundingClientRect(), wordEl)
+  }
+
+  // This episode's own translation, when the looked-up text is one of its
+  // vocabulary items.
+  const lookupEntry = lookup
+    ? vocab?.find((v) => v.word.toLowerCase() === lookup.text.toLowerCase())
+    : null
 
   return (
     <div className="glass-card rounded-2xl p-6 lg:p-8 -mx-4 lg:mx-0">
@@ -114,11 +160,20 @@ const Transcript = ({ episode }) => {
             <>
               <div
                 ref={contentRef}
+                onClick={onContentClick}
                 className="prose prose-zinc dark:prose-invert max-w-none text-zinc-700 dark:text-zinc-300 transcript-content"
               />
             </>
           )}
         </div>
+      )}
+
+      {lookup && isVisible && (
+        <TranslatePopover
+          target={lookup}
+          entry={lookupEntry}
+          onClose={closeLookup}
+        />
       )}
 
       {!isVisible && (

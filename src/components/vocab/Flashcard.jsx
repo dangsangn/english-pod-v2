@@ -4,6 +4,7 @@ import classNames from 'classnames'
 import { stageOf } from '../../lib/srs'
 import { speak } from '../../lib/speech'
 import { STAGE_BY_KEY } from './stages'
+import TappableText from '../TappableText'
 
 const SWIPE_THRESHOLD = 100 // px of horizontal drag that counts as an answer
 const TAP_SLOP = 6 // px of movement still treated as a tap
@@ -130,7 +131,7 @@ export default function Flashcard({ card, flipped, canSwipe, onFlip, onAnswer })
                     Definition
                   </p>
                   {card.def && (
-                    <p className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300'>{card.def}</p>
+                    <TappableText text={card.def} className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300' />
                   )}
                   {card.viDef && (
                     <p className='vi-text mt-0.5 text-sm font-medium text-indigo-600 dark:text-indigo-400'>
