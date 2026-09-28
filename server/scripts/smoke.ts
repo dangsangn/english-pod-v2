@@ -136,6 +136,140 @@ await check('a missing credential is 400', async () => {
 
 // --- sync checks ---
 
+interface Device {
+  cursor: number | null
+}
+const A: Device = { cursor: null }
+const B: Device = { cursor: null }
+
+async function sync(device: Device, changes: Record<string, unknown> = {}) {
+  const res = await call('/sync', { method: 'POST', session, body: { cursor: device.cursor, changes } })
+  assert.equal(res.status, 200, JSON.stringify(res.body))
+  device.cursor = res.body.cursor
+  return res.body
+}
+
+function card(id: string, updatedAt: number, extra: Record<string, unknown> = {}) {
+  return {
+    id, word: id, ipa: '', type: 'n', def: '', vi: '', viDef: '', episodeIds: [1],
+    state: 'new', step: 0, ease: 2.5, interval: 0, due: updatedAt, reps: 0, lapses: 0,
+    addedAt: updatedAt, lastReview: null, updatedAt, ...extra,
+  }
+}
+
+function reviewLog(cardId: string, day: string) {
+  return {
+    id: randomUUID(), cardId, rating: 'good', stateBefore: 'new',
+    intervalBefore: 0, intervalAfter: 1, reviewedAt: Date.parse(day), day,
+  }
+}
+
+await check('/sync without a session is 401', async () => {
+  const res = await call('/sync', { method: 'POST', body: { cursor: null, changes: {} } })
+  assert.equal(res.status, 401)
+})
+
+await check('/sync with a malformed body is 400', async () => {
+  const res = await call('/sync', { method: 'POST', session, body: { cursor: 'x', changes: {} } })
+  assert.equal(res.status, 400)
+  assert.equal(res.body.error.code, 'invalid_request')
+})
+
+await check('what A pushes, B pulls', async () => {
+  await sync(A, {
+    cards: [card('apple', 1000), card('pear', 1000)],
+    decks: [{ episodeId: 1, addedAt: 1000, updatedAt: 1000 }],
+  })
+  const res = await sync(B)
+  assert.deepEqual(res.changes.cards.map((c: { id: string }) => c.id).sort(), ['apple', 'pear'])
+  assert.deepEqual(res.changes.decks, [{ episodeId: 1, addedAt: 1000, updatedAt: 1000 }])
+})
+
+await check('the later edit of a card wins on both devices', async () => {
+  await sync(A, { cards: [card('apple', 2000, { reps: 1 })] })
+  const b = await sync(B, { cards: [card('apple', 1500, { reps: 5 })] })
+  assert.equal(b.changes.cards.find((c: { id: string }) => c.id === 'apple').reps, 1)
+  const a = await sync(A)
+  assert.equal(a.changes.cards.length, 0, 'the rejected edit must not bump rev')
+})
+
+await check('deleting a deck and a card reaches the other device', async () => {
+  await sync(A, {
+    deletedDecks: [{ episodeId: 1, deletedAt: 3000 }],
+    deletedCards: [{ id: 'pear', deletedAt: 3000 }],
+  })
+  const b = await sync(B)
+  assert.deepEqual(b.changes.deletedDecks, [{ episodeId: 1, deletedAt: 3000 }])
+  assert.deepEqual(b.changes.deletedCards, [{ id: 'pear', deletedAt: 3000 }])
+})
+
+await check('a review log sent twice is counted once', async () => {
+  const log = reviewLog('apple', '2026-09-01')
+  await sync(A, { reviewLogs: [log] })
+  const res = await sync(A, { reviewLogs: [log] })
+  assert.deepEqual(res.days['2026-09-01'], { reviews: 1, learned: 1 })
+})
+
+await check('legacy days: same import once, different imports add up', async () => {
+  const importA = { importId: randomUUID(), days: { '2026-08-01': { reviews: 10, learned: 3 } } }
+  await sync(A, { legacyDays: importA })
+  const again = await sync(A, { legacyDays: importA })
+  assert.deepEqual(again.days['2026-08-01'], { reviews: 10, learned: 3 })
+  const importB = { importId: randomUUID(), days: { '2026-08-01': { reviews: 5, learned: 1 } } }
+  const res = await sync(B, { legacyDays: importB })
+  assert.deepEqual(res.days['2026-08-01'], { reviews: 15, learned: 4 })
+})
+
+await check('listening: latest position, highest play count, earliest completion', async () => {
+  await sync(A, {
+    listening: [{
+      episodeId: 7, positionSec: 30, durationSec: 180, playCount: 2, completedAt: null,
+      firstPlayedAt: 1000, lastPlayedAt: 5000, updatedAt: 5000,
+    }],
+  })
+  const res = await sync(B, {
+    listening: [{
+      episodeId: 7, positionSec: 90, durationSec: 180, playCount: 1, completedAt: 4000,
+      firstPlayedAt: 800, lastPlayedAt: 4000, updatedAt: 4000,
+    }],
+  })
+  const row = res.changes.listening.find((l: { episodeId: number }) => l.episodeId === 7)
+  assert.equal(row.positionSec, 30)
+  assert.equal(row.playCount, 2)
+  assert.equal(row.completedAt, 4000)
+  assert.equal(row.firstPlayedAt, 800)
+  assert.equal(row.updatedAt, 5000)
+})
+
+await check('settings sync across devices', async () => {
+  await sync(A, { settings: { autoSpeak: false, lastEpisodeId: 7, updatedAt: 6000 } })
+  const res = await sync(B)
+  assert.deepEqual(res.changes.settings, { autoSpeak: false, lastEpisodeId: 7, updatedAt: 6000 })
+})
+
+await check('reset clears cards, decks and history everywhere', async () => {
+  await sync(A, { decks: [{ episodeId: 2, addedAt: 7000, updatedAt: 7000 }] })
+  const resetAt = Date.now()
+  const a = await sync(A, { resetAt })
+  assert.equal(a.resetAt, resetAt)
+  assert.deepEqual(a.days, {})
+
+  const b = await sync(B, { cards: [card('stale', 2000)] })
+  assert.equal(b.resetAt, resetAt)
+  assert.ok(b.changes.deletedCards.some((c: { id: string }) => c.id === 'apple'))
+  assert.ok(b.changes.deletedDecks.some((d: { episodeId: number }) => d.episodeId === 2))
+  assert.equal(b.changes.cards.length, 0, 'an edit older than the reset is ignored')
+
+  const fresh = await sync(B, { cards: [card('fresh', resetAt + 1)] })
+  assert.deepEqual(fresh.changes.cards.map((c: { id: string }) => c.id), ['fresh'])
+})
+
+await check('a first sync gets live rows only', async () => {
+  const res = await sync({ cursor: null })
+  assert.deepEqual(res.changes.cards.map((c: { id: string }) => c.id), ['fresh'])
+  assert.equal(res.changes.deletedCards.length, 0)
+})
+
 await check('logout revokes the session and clears the cookie', async () => {
   const other = await createSession(user.id)
   const res = await call('/auth/logout', { method: 'POST', session: other })

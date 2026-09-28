@@ -2,6 +2,7 @@ import express from 'express'
 import type { AppConfig } from './config.js'
 import { errorHandler, notFound } from './errors.js'
 import { authRoutes } from './routes/auth.js'
+import { syncRoutes } from './routes/sync.js'
 import { sameOriginPosts } from './sameOrigin.js'
 
 // The frontend reaches this server same-origin: Vercel rewrites /api/* here in
@@ -20,6 +21,7 @@ export function createApp(config: AppConfig) {
   })
 
   app.use(authRoutes(config))
+  app.use(syncRoutes())
 
   app.use(notFound)
   app.use(errorHandler)
