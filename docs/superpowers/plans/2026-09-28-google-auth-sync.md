@@ -18,6 +18,8 @@
 - `npm view prisma version` returns an 8.0 RC — **pin 7.10.0**.
 - Prisma 7: `migrate dev` no longer runs `generate`; the datasource URL lives in `prisma.config.ts`, not in `schema.prisma`; the client needs a driver adapter.
 
+> **Revision 2 (overrides the tasks below where they differ):** the frontend is deployed on Vercel, the API is reached same-origin through a Vercel rewrite (`/api/*` → Render; Vite proxies `/api` in dev), sessions are an `HttpOnly` cookie `ep_session` instead of a Bearer token, CORS is dropped in favour of an Origin + JSON content-type check on POST, `/sync` is rate-limited per user, and pnpm replaces npm everywhere. See the spec's "Điều chỉnh lần 2" section. Executed inline; code as committed is authoritative.
+
 ---
 
 ## File map

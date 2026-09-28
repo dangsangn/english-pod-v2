@@ -451,3 +451,33 @@ tiết so với các phần trên:
 - **Đăng nhập dev không cần Google:** `npm run session -- email` trong `server/`
   tạo session trực tiếp trong DB và in lệnh `__devSignIn(...)` để dán vào
   console của bản dev (chỉ có khi `import.meta.env.DEV`).
+
+## Điều chỉnh lần 2: Vercel, cookie, pnpm
+
+FE deploy trên **Vercel**, không phải GitHub Pages. Các phần trên về
+"Bearer token" và "CORS" được thay bằng:
+
+- **Cùng origin qua Vercel rewrite:** `vercel.json` chuyển `/api/:path*` sang
+  backend trên Render. Khi dev, Vite proxy `/api` sang `http://localhost:3000`.
+  Server không cần CORS.
+- **Session bằng cookie** `ep_session`: `HttpOnly; SameSite=Lax; Path=/;
+  Max-Age=30 ngày`, thêm `Secure` khi request là https. Khi session được gia hạn
+  thì server đặt lại cookie. Đăng xuất xoá cookie.
+- **Chống CSRF:** mọi POST phải có `Content-Type: application/json` (sai thì 415
+  `unsupported_media_type`) và `Origin` nằm trong `ALLOWED_ORIGINS` (sai hoặc
+  thiếu thì 403 `forbidden_origin`).
+- **FE không giữ token:** `englishpod_auth_v1` chỉ lưu `{ user }` để hiện avatar.
+  Server trả 401 nghĩa là đã đăng xuất.
+- **Giới hạn tần suất:** `/sync` 120 lần/phút theo user; `/auth/*` 20 lần/15 phút
+  theo IP. `TRUST_PROXY` (mặc định 1) là số lớp proxy phía trước server. Sau Vercel
+  và Render có thể cần 2 — kiểm tra sau khi deploy.
+- **Biến môi trường:** server dùng `ALLOWED_ORIGINS` thay cho `CORS_ORIGINS`, và
+  thêm `TRUST_PROXY`. FE chỉ cần `VITE_GOOGLE_CLIENT_ID`, không còn
+  `VITE_API_URL`.
+- **Đăng nhập dev:** `pnpm session -- email` in ra lệnh đặt `document.cookie` và
+  `__devSignIn({ user })`.
+- **pnpm** cho cả FE lẫn server (server có lockfile riêng). Cần khai báo
+  `pnpm.onlyBuiltDependencies` cho Prisma và esbuild. Render build:
+  `pnpm install --frozen-lockfile && pnpm prisma migrate deploy && pnpm build`.
+- **Workflow GitHub Pages giữ nguyên:** không có `VITE_GOOGLE_CLIENT_ID` thì bản
+  build đó chạy local-only.
