@@ -1,6 +1,7 @@
 import express from 'express'
 import type { AppConfig } from './config.js'
 import { errorHandler, notFound } from './errors.js'
+import { authRoutes } from './routes/auth.js'
 import { sameOriginPosts } from './sameOrigin.js'
 
 // The frontend reaches this server same-origin: Vercel rewrites /api/* here in
@@ -17,6 +18,8 @@ export function createApp(config: AppConfig) {
   app.get('/health', (_req, res) => {
     res.json({ ok: true })
   })
+
+  app.use(authRoutes(config))
 
   app.use(notFound)
   app.use(errorHandler)
