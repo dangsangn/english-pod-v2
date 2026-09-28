@@ -424,3 +424,30 @@ tác trên app.
 - Trang thống kê hay biểu đồ lịch sử (dữ liệu đã có, UI để sau).
 - Google One Tap, các cách đăng nhập khác.
 - Đồng bộ theme và cache dịch.
+
+## Điều chỉnh khi lập kế hoạch
+
+Plan `docs/superpowers/plans/2026-09-28-google-auth-sync.md` thay đổi một số chi
+tiết so với các phần trên:
+
+- **Gộp dữ liệu làm bằng SQL**, không có `src/sync/merge.ts`: mỗi bảng một câu
+  `INSERT … SELECT FROM jsonb_to_recordset(…) ON CONFLICT … DO UPDATE … WHERE
+  updated_at < EXCLUDED.updated_at`, nên lần import ~4.000 thẻ vẫn chỉ là vài
+  câu lệnh. `src/sync/wire.ts` giữ kiểu dữ liệu trả về và các hàm chuyển đổi.
+- **Định dạng xoá tách riêng:** request và response dùng `deletedCards: [{ id,
+  deletedAt }]` và `deletedDecks: [{ episodeId, deletedAt }]` thay cho trường
+  `deletedAt` trên bản ghi.
+- **Hẹn giờ đồng bộ:** thay đổi việc học chờ 2 giây, thay đổi lịch sử nghe chờ
+  30 giây (vị trí nghe được ghi mỗi 15 giây); nếu đã có lượt hẹn sớm hơn thì
+  giữ lượt đó.
+- **Ghi log ôn tập** bật khi dữ liệu trên máy đã thuộc một tài khoản
+  (`ownerId` khác null), kể cả khi session vừa hết hạn, để không mất lượt ôn.
+- **`lastPlayedAt`** lấy giá trị lớn hơn, không theo bản mới nhất.
+- **Số thực** dùng `double precision` (mặc định của Prisma `Float`).
+- **Deck cũ** chưa có `updatedAt` được gán thời điểm nạp lần đầu sau khi nâng
+  cấp.
+- **Mã lỗi thêm:** 404 `not_found`, 413 `payload_too_large`, 503
+  `google_not_configured` (chưa đặt `GOOGLE_CLIENT_ID` thì không nhận token nào).
+- **Đăng nhập dev không cần Google:** `npm run session -- email` trong `server/`
+  tạo session trực tiếp trong DB và in lệnh `__devSignIn(...)` để dán vào
+  console của bản dev (chỉ có khi `import.meta.env.DEV`).
