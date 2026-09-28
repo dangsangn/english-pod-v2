@@ -196,7 +196,7 @@ async function loginWithGoogle(credential) {
     result = await api('/auth/google', { method: 'POST', body: { credential } })
   } catch (error) {
     console.error('Sign-in failed:', error)
-    setStatus({ state: 'error', error: 'Đăng nhập thất bại, thử lại sau.' })
+    setStatus({ state: 'error', error: `Đăng nhập thất bại (${error.code}), thử lại sau.` })
     return
   }
   await completeSignIn(result)

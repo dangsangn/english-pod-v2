@@ -22,7 +22,9 @@ export async function verifyGoogleCredential(
   try {
     const ticket = await client.verifyIdToken({ idToken: credential, audience: clientId })
     payload = ticket.getPayload()
-  } catch {
+  } catch (error) {
+    // The reason (expired, wrong audience, bad signature…) stays in the server log.
+    console.warn('Google ID token rejected:', (error as Error).message)
     throw new HttpError(401, 'invalid_google_token', 'Google sign-in failed')
   }
   if (!payload?.email || !payload.email_verified) {

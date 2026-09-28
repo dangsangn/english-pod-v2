@@ -16,7 +16,7 @@ export const notFound: RequestHandler = (_req, _res, next) => {
   next(new HttpError(404, 'not_found', 'Not found'))
 }
 
-export const errorHandler: ErrorRequestHandler = (err, _req, res, _next) => {
+export const errorHandler: ErrorRequestHandler = (err, req, res, _next) => {
   let error: HttpError
   if (err instanceof HttpError) {
     error = err
@@ -30,5 +30,6 @@ export const errorHandler: ErrorRequestHandler = (err, _req, res, _next) => {
     console.error(err)
     error = new HttpError(500, 'internal', 'Internal server error')
   }
+  if (error.status !== 404) console.warn(`${req.method} ${req.path} → ${error.status} ${error.code}`)
   res.status(error.status).json({ error: { code: error.code, message: error.message } })
 }
