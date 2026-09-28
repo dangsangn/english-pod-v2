@@ -59,7 +59,13 @@ function migrate(s, now = Date.now()) {
     const legacy = parseInt(localStorage.getItem(LEGACY_LAST_EPISODE_KEY), 10)
     if (Number.isInteger(legacy)) settings = { ...settings, lastEpisodeId: legacy }
   }
-  return { ...s, cards, deckMeta, settings }
+  // Settings someone chose before sync existed are a real edit: stamp them, or
+  // they would lose to the untouched defaults of every other device.
+  let { settingsUpdatedAt } = s
+  if (!settingsUpdatedAt && JSON.stringify(settings) !== JSON.stringify(DEFAULT_STATE.settings)) {
+    settingsUpdatedAt = now
+  }
+  return { ...s, cards, deckMeta, settings, settingsUpdatedAt }
 }
 
 let state = load()
