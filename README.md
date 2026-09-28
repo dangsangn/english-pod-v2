@@ -9,6 +9,7 @@ A modern, interactive web application for learning English through EnglishPod tr
 - Dark/Light theme support
 - Responsive design for mobile and desktop
 - Modern UI with smooth animations
+- Optional Google sign-in that syncs vocabulary progress and listening history across devices (API in [`server/`](server/README.md), reached at `/api` through a Vercel rewrite)
 
 ## Tech Stack
 
@@ -20,12 +21,15 @@ A modern, interactive web application for learning English through EnglishPod tr
 ## Development
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
+
+For sign-in and sync, run the API too (see [`server/README.md`](server/README.md)) and set
+`VITE_GOOGLE_CLIENT_ID` in `.env.local` (template: `.env.example`).
 
 ## Build
 
 ```bash
-npm run build
+pnpm build
 ```
