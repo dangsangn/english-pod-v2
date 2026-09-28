@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { ChevronRight, Flame, Headphones, List, Play, Plus, Trash2, Volume2, VolumeX } from 'lucide-react'
+import { ChevronRight, Flame, Gamepad2, Headphones, List, Play, Plus, Trash2, Volume2, VolumeX } from 'lucide-react'
 import classNames from 'classnames'
 import { navigate, useNow } from '../../lib/hooks'
 import { dayKey, formatDelay } from '../../lib/srs'
@@ -11,7 +11,10 @@ import {
   updateSettings,
   useSrs,
 } from '../../lib/srsStore'
+import { MIN_POOL } from '../../lib/quiz'
 import { STAGES } from './stages'
+
+const PLAY_NEEDS = `Cần ít nhất ${MIN_POOL} từ trong vườn để chơi`
 
 export default function VocabHome({ episodes, onOpenEpisode }) {
   const srs = useSrs()
@@ -21,6 +24,8 @@ export default function VocabHome({ episodes, onOpenEpisode }) {
   const streak = streakOf(srs, now)
   const doneToday = srs.days[dayKey(now)]?.reviews || 0
   const goal = doneToday + overall.due + overall.seed
+  // The games draw wrong answers from the whole garden, so they need a few words.
+  const canPlay = Object.keys(srs.cards).length >= MIN_POOL
 
   const nextDue = Object.values(srs.cards)
     .filter((c) => c.state !== 'new' && c.due > now)
@@ -55,6 +60,7 @@ export default function VocabHome({ episodes, onOpenEpisode }) {
             fresh={overall.seed}
             ahead={overall.ahead}
             nextDue={nextDue === Infinity ? null : nextDue - now}
+            canPlay={canPlay}
           />
 
           <section>
@@ -91,6 +97,7 @@ export default function VocabHome({ episodes, onOpenEpisode }) {
                   episode={episode}
                   onOpenEpisode={onOpenEpisode}
                   counts={summarize(srs, now, episode.id)}
+                  canPlay={canPlay}
                 />
               ))}
             </ul>
@@ -128,7 +135,7 @@ function StageTile({ stage, count }) {
   )
 }
 
-function TodayCard({ streak, doneToday, goal, due, fresh, ahead, nextDue }) {
+function TodayCard({ streak, doneToday, goal, due, fresh, ahead, nextDue, canPlay }) {
   // Nothing is ever locked for the day: with nothing due or new, the button
   // reviews ahead of schedule instead (see buildQueue).
   const hasWork = due + fresh > 0
@@ -167,14 +174,25 @@ function TodayCard({ streak, doneToday, goal, due, fresh, ahead, nextDue }) {
         </div>
       </div>
 
-      <button
-        disabled={!canStudy}
-        onClick={() => navigate('vocab/study')}
-        className='relative mt-6 w-full flex items-center justify-center gap-2 py-3.5 rounded-2xl bg-white text-rose-600 font-bold text-base shadow-lg shadow-rose-900/10 hover:scale-[1.01] active:scale-[0.99] transition-transform disabled:opacity-60 disabled:hover:scale-100 dark:bg-zinc-950 dark:text-rose-300'
-      >
-        <Play size={18} fill='currentColor' />
-        {hasWork ? 'Bắt đầu học' : 'Ôn thêm'}
-      </button>
+      <div className='relative mt-6 flex gap-2'>
+        <button
+          disabled={!canStudy}
+          onClick={() => navigate('vocab/study')}
+          className='flex-1 flex items-center justify-center gap-2 py-3.5 rounded-2xl bg-white text-rose-600 font-bold text-base shadow-lg shadow-rose-900/10 hover:scale-[1.01] active:scale-[0.99] transition-transform disabled:opacity-60 disabled:hover:scale-100 dark:bg-zinc-950 dark:text-rose-300'
+        >
+          <Play size={18} fill='currentColor' />
+          {hasWork ? 'Bắt đầu học' : 'Ôn thêm'}
+        </button>
+        <button
+          disabled={!canStudy || !canPlay}
+          title={canPlay ? 'Ôn bằng trò chơi' : PLAY_NEEDS}
+          onClick={() => navigate('vocab/play')}
+          className='flex items-center justify-center gap-2 px-5 py-3.5 rounded-2xl bg-white/20 border border-white/40 text-white font-bold text-base hover:bg-white/30 active:scale-[0.99] transition disabled:opacity-60'
+        >
+          <Gamepad2 size={18} />
+          Chơi
+        </button>
+      </div>
     </section>
   )
 }
@@ -205,7 +223,7 @@ function ProgressRing({ value, children }) {
   )
 }
 
-function DeckRow({ episode, counts, onOpenEpisode }) {
+function DeckRow({ episode, counts, onOpenEpisode, canPlay }) {
   const [confirming, setConfirming] = useState(false)
   const toStudy = counts.due + counts.seed
 
@@ -260,6 +278,14 @@ function DeckRow({ episode, counts, onOpenEpisode }) {
               className='p-2 rounded-full text-zinc-400 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500/10'
             >
               <Trash2 size={16} />
+            </button>
+            <button
+              disabled={counts.total === 0 || !canPlay}
+              title={canPlay ? 'Chơi với bộ từ này' : PLAY_NEEDS}
+              onClick={() => navigate(`vocab/play/${episode.id}`)}
+              className='p-2 rounded-full text-zinc-500 hover:text-rose-500 hover:bg-rose-50 dark:text-zinc-400 dark:hover:bg-rose-500/10 disabled:opacity-40 disabled:hover:bg-transparent'
+            >
+              <Gamepad2 size={18} />
             </button>
             <button
               disabled={counts.total === 0}
