@@ -3,46 +3,82 @@
 // Components read it through useSrs() (useSyncExternalStore), and change it only
 // through the exported actions, so every write is saved and every subscriber
 // re-renders from the same snapshot.
+//
+// Every action stamps what it changes with `updatedAt` and every deletion
+// leaves a tombstone, so sync.js can push this device's edits and merge in
+// other devices' (last write wins).
 
 import { useSyncExternalStore } from 'react'
 import { addDays, cardContent, cardId, createCard, dayKey, isDue, schedule, stageOf } from './srs'
+import { uuid } from './uuid'
 
 const STORAGE_KEY = 'englishpod_srs_v1'
+// Before settings.lastEpisodeId, App.jsx kept the last episode under this key.
+const LEGACY_LAST_EPISODE_KEY = 'englishpod_last_episode_id'
 
 const DEFAULT_STATE = {
-  cards: {}, // id → card (see srs.createCard)
+  cards: {}, // id → card (see srs.createCard) + updatedAt
   decks: [], // episode ids, in the order they were added
-  settings: { autoSpeak: true },
+  deckMeta: {}, // episode id → { addedAt, updatedAt }
+  settings: { autoSpeak: true, lastEpisodeId: null },
+  settingsUpdatedAt: 0,
   days: {}, // YYYY-MM-DD → { reviews, learned }
+  tombstones: { cards: {}, decks: {} }, // id → deletedAt, until pushed
+  pendingLogs: [], // review logs not pushed yet
+  resetAt: null,
 }
 
 function load() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY)
-    if (!raw) return DEFAULT_STATE
-    const saved = JSON.parse(raw)
-    return {
+    const saved = raw ? JSON.parse(raw) : {}
+    return migrate({
       ...DEFAULT_STATE,
       ...saved,
       settings: { ...DEFAULT_STATE.settings, ...saved.settings },
-    }
+      tombstones: { ...DEFAULT_STATE.tombstones, ...saved.tombstones },
+    })
   } catch (error) {
     console.error('Error reading vocabulary progress:', error)
     return DEFAULT_STATE
   }
 }
 
+/** Fill in the sync fields for progress saved before they existed. */
+function migrate(s, now = Date.now()) {
+  const cards = {}
+  for (const [id, card] of Object.entries(s.cards)) {
+    cards[id] = card.updatedAt ? card : { ...card, updatedAt: card.lastReview ?? card.addedAt }
+  }
+  const deckMeta = { ...s.deckMeta }
+  for (const episodeId of s.decks) {
+    deckMeta[episodeId] ??= { addedAt: now, updatedAt: now }
+  }
+  let settings = s.settings
+  if (settings.lastEpisodeId === null) {
+    const legacy = parseInt(localStorage.getItem(LEGACY_LAST_EPISODE_KEY), 10)
+    if (Number.isInteger(legacy)) settings = { ...settings, lastEpisodeId: legacy }
+  }
+  return { ...s, cards, deckMeta, settings }
+}
+
 let state = load()
 const listeners = new Set()
+const localChangeListeners = new Set()
+let logReviews = false
 
-function setState(updater) {
-  state = updater(state)
+/** `remote` marks merged sync results, which must not schedule another sync. */
+function setState(updater, { remote = false } = {}) {
+  const next = updater(state)
+  if (next === state) return
+  state = next
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   } catch (error) {
     console.error('Error saving vocabulary progress:', error)
   }
   listeners.forEach((listener) => listener())
+  if (!remote) localChangeListeners.forEach((listener) => listener())
 }
 
 function subscribe(listener) {
@@ -54,6 +90,25 @@ export function useSrs() {
   return useSyncExternalStore(subscribe, () => state)
 }
 
+export function getSrsState() {
+  return state
+}
+
+/** Called after every change made on this device (not after merging a sync). */
+export function subscribeLocalChanges(listener) {
+  localChangeListeners.add(listener)
+  return () => localChangeListeners.delete(listener)
+}
+
+/**
+ * Keep a log entry per answer. sync.js turns this on while the progress belongs
+ * to an account; signed-out use keeps only the daily counts, so localStorage
+ * does not fill up with logs nothing will ever read.
+ */
+export function setReviewLogging(enabled) {
+  logReviews = enabled
+}
+
 /**
  * Add an episode's words as new cards. A word already in the collection (from
  * another episode) is not duplicated — the episode is just linked to it.
@@ -61,33 +116,61 @@ export function useSrs() {
 export function addDeck(episodeId, entries, now = Date.now()) {
   setState((s) => {
     const cards = { ...s.cards }
+    const cardTombstones = { ...s.tombstones.cards }
     entries.forEach((entry, index) => {
       if (!entry?.word) return
       const id = cardId(entry.word)
       const existing = cards[id]
       if (existing) {
         if (!existing.episodeIds.includes(episodeId)) {
-          cards[id] = { ...existing, episodeIds: [...existing.episodeIds, episodeId] }
+          cards[id] = { ...existing, episodeIds: [...existing.episodeIds, episodeId], updatedAt: now }
         }
         return
       }
       // Offset addedAt by position so new cards come up in the episode's order.
-      cards[id] = createCard(entry, episodeId, now + index)
+      cards[id] = { ...createCard(entry, episodeId, now + index), updatedAt: now }
+      delete cardTombstones[id]
     })
     const decks = s.decks.includes(episodeId) ? s.decks : [...s.decks, episodeId]
-    return { ...s, cards, decks }
+    const deckMeta = {
+      ...s.deckMeta,
+      [episodeId]: { addedAt: s.deckMeta[episodeId]?.addedAt ?? now, updatedAt: now },
+    }
+    const deckTombstones = { ...s.tombstones.decks }
+    delete deckTombstones[episodeId]
+    return {
+      ...s,
+      cards,
+      decks,
+      deckMeta,
+      tombstones: { cards: cardTombstones, decks: deckTombstones },
+    }
   })
 }
 
 /** Drop an episode. Cards it shares with another deck stay; the rest go. */
-export function removeDeck(episodeId) {
+export function removeDeck(episodeId, now = Date.now()) {
   setState((s) => {
     const cards = {}
+    const cardTombstones = { ...s.tombstones.cards }
     for (const [id, card] of Object.entries(s.cards)) {
+      if (!card.episodeIds.includes(episodeId)) {
+        cards[id] = card
+        continue
+      }
       const episodeIds = card.episodeIds.filter((e) => e !== episodeId)
-      if (episodeIds.length) cards[id] = { ...card, episodeIds }
+      if (episodeIds.length) cards[id] = { ...card, episodeIds, updatedAt: now }
+      else cardTombstones[id] = now
     }
-    return { ...s, cards, decks: s.decks.filter((e) => e !== episodeId) }
+    const deckMeta = { ...s.deckMeta }
+    delete deckMeta[episodeId]
+    return {
+      ...s,
+      cards,
+      decks: s.decks.filter((e) => e !== episodeId),
+      deckMeta,
+      tombstones: { cards: cardTombstones, decks: { ...s.tombstones.decks, [episodeId]: now } },
+    }
   })
 }
 
@@ -95,11 +178,22 @@ export function rateCard(id, rating, now = Date.now()) {
   setState((s) => {
     const card = s.cards[id]
     if (!card) return s
+    const next = { ...schedule(card, rating, now), updatedAt: now }
     const key = dayKey(now)
     const today = s.days[key] || { reviews: 0, learned: 0 }
+    const log = {
+      id: uuid(),
+      cardId: id,
+      rating,
+      stateBefore: card.state,
+      intervalBefore: card.interval,
+      intervalAfter: next.interval,
+      reviewedAt: now,
+      day: key,
+    }
     return {
       ...s,
-      cards: { ...s.cards, [id]: schedule(card, rating, now) },
+      cards: { ...s.cards, [id]: next },
       days: {
         ...s.days,
         [key]: {
@@ -107,6 +201,7 @@ export function rateCard(id, rating, now = Date.now()) {
           learned: today.learned + (card.state === 'new' ? 1 : 0),
         },
       },
+      pendingLogs: logReviews ? [...s.pendingLogs, log] : s.pendingLogs,
     }
   })
 }
@@ -125,18 +220,32 @@ export function relearnCard(id, now = Date.now()) {
       ...s,
       cards: {
         ...s.cards,
-        [id]: { ...next, reps: card.reps, lastReview: card.lastReview, due: now },
+        [id]: { ...next, reps: card.reps, lastReview: card.lastReview, due: now, updatedAt: now },
       },
     }
   })
 }
 
-export function updateSettings(patch) {
-  setState((s) => ({ ...s, settings: { ...s.settings, ...patch } }))
+export function updateSettings(patch, now = Date.now()) {
+  setState((s) => {
+    if (Object.entries(patch).every(([key, value]) => s.settings[key] === value)) return s
+    return { ...s, settings: { ...s.settings, ...patch }, settingsUpdatedAt: now }
+  })
 }
 
-export function resetProgress() {
-  setState(() => DEFAULT_STATE)
+/** Wipe the study progress on every device of the account (settings stay). */
+export function resetProgress(now = Date.now()) {
+  setState((s) => ({
+    ...DEFAULT_STATE,
+    settings: s.settings,
+    settingsUpdatedAt: s.settingsUpdatedAt,
+    resetAt: now,
+  }))
+}
+
+/** Forget this device's copy (sign-out, or another account signing in). Not a reset. */
+export function clearLocalProgress() {
+  setState(() => DEFAULT_STATE, { remote: true })
 }
 
 // ---------------------------------------------------------------------------
@@ -252,8 +361,133 @@ export async function backfillCardContent(episodes) {
   setState((s) => {
     const cards = { ...s.cards }
     for (const [id, card] of Object.entries(cards)) {
-      if (!('def' in card) && content.has(id)) cards[id] = { ...card, ...content.get(id) }
+      if (!('def' in card) && content.has(id)) {
+        cards[id] = { ...card, ...content.get(id), updatedAt: Date.now() }
+      }
     }
     return { ...s, cards }
   })
+}
+
+// ---------------------------------------------------------------------------
+// Sync — the protocol is described in sync.js.
+
+/**
+ * This device's changes in the shape POST /sync expects: everything stamped at
+ * or after `since` (ms), or everything when `since` is null (first sync).
+ * Tombstones and pending logs always go, until a sync confirms them.
+ */
+export function collectSrsChanges(since) {
+  const s = state
+  const changed = (time) => since === null || time >= since
+  return {
+    cards: Object.values(s.cards).filter((card) => changed(card.updatedAt)),
+    deletedCards: Object.entries(s.tombstones.cards).map(([id, deletedAt]) => ({ id, deletedAt })),
+    decks: s.decks
+      .filter((episodeId) => changed(s.deckMeta[episodeId]?.updatedAt ?? 0))
+      .map((episodeId) => ({ episodeId, ...s.deckMeta[episodeId] })),
+    deletedDecks: Object.entries(s.tombstones.decks).map(([episodeId, deletedAt]) => ({
+      episodeId: Number(episodeId),
+      deletedAt,
+    })),
+    settings: changed(s.settingsUpdatedAt) ? { ...s.settings, updatedAt: s.settingsUpdatedAt } : null,
+    reviewLogs: s.pendingLogs,
+    resetAt: s.resetAt,
+  }
+}
+
+/**
+ * Merge a /sync response. `sent` is what collectSrsChanges returned for that
+ * request: what it carried is cleared, while edits made during the request stay
+ * for the next push. A remote record wins unless the local one is newer.
+ */
+export function applySyncResult(sent, response) {
+  const { changes } = response
+  setState(
+    (s) => {
+      const cards = { ...s.cards }
+      const cardTombstones = { ...s.tombstones.cards }
+      const cardTime = (id) => cards[id]?.updatedAt ?? cardTombstones[id] ?? -1
+      for (const card of changes.cards) {
+        if (card.updatedAt < cardTime(card.id)) continue
+        cards[card.id] = card
+        delete cardTombstones[card.id]
+      }
+      for (const { id, deletedAt } of changes.deletedCards) {
+        if (deletedAt < cardTime(id)) continue
+        delete cards[id]
+        delete cardTombstones[id]
+      }
+
+      let decks = [...s.decks]
+      const deckMeta = { ...s.deckMeta }
+      const deckTombstones = { ...s.tombstones.decks }
+      const deckTime = (episodeId) => deckMeta[episodeId]?.updatedAt ?? deckTombstones[episodeId] ?? -1
+      for (const { episodeId, addedAt, updatedAt } of changes.decks) {
+        if (updatedAt < deckTime(episodeId)) continue
+        deckMeta[episodeId] = { addedAt, updatedAt }
+        delete deckTombstones[episodeId]
+        if (!decks.includes(episodeId)) decks.push(episodeId)
+      }
+      for (const { episodeId, deletedAt } of changes.deletedDecks) {
+        if (deletedAt < deckTime(episodeId)) continue
+        delete deckMeta[episodeId]
+        delete deckTombstones[episodeId]
+        decks = decks.filter((e) => e !== episodeId)
+      }
+
+      let { settings, settingsUpdatedAt, resetAt } = s
+      if (changes.settings && changes.settings.updatedAt > settingsUpdatedAt) {
+        const { autoSpeak, lastEpisodeId } = changes.settings
+        settings = { ...settings, autoSpeak, lastEpisodeId }
+        settingsUpdatedAt = changes.settings.updatedAt
+      }
+
+      // Another device reset the progress: drop whatever predates it here too.
+      if (response.resetAt !== null && response.resetAt > (resetAt ?? -1)) {
+        resetAt = response.resetAt
+        for (const [id, card] of Object.entries(cards)) {
+          if (card.updatedAt < resetAt) delete cards[id]
+        }
+        for (const episodeId of decks) {
+          if (deckMeta[episodeId].updatedAt < resetAt) delete deckMeta[episodeId]
+        }
+        decks = decks.filter((episodeId) => episodeId in deckMeta)
+      }
+
+      for (const { id, deletedAt } of sent.deletedCards) {
+        if (cardTombstones[id] === deletedAt) delete cardTombstones[id]
+      }
+      for (const { episodeId, deletedAt } of sent.deletedDecks) {
+        if (deckTombstones[episodeId] === deletedAt) delete deckTombstones[episodeId]
+      }
+      const sentLogs = new Set(sent.reviewLogs.map((log) => log.id))
+      const pendingLogs = s.pendingLogs.filter((log) => !sentLogs.has(log.id))
+
+      // The server's counts cover every device; add what is still unpushed here.
+      const days = {}
+      for (const [day, counts] of Object.entries(response.days)) days[day] = { ...counts }
+      for (const log of pendingLogs) {
+        const today = days[log.day] || { reviews: 0, learned: 0 }
+        days[log.day] = {
+          reviews: today.reviews + 1,
+          learned: today.learned + (log.stateBefore === 'new' ? 1 : 0),
+        }
+      }
+
+      return {
+        ...s,
+        cards,
+        decks,
+        deckMeta,
+        settings,
+        settingsUpdatedAt,
+        days,
+        tombstones: { cards: cardTombstones, decks: deckTombstones },
+        pendingLogs,
+        resetAt,
+      }
+    },
+    { remote: true },
+  )
 }
