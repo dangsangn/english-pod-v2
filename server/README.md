@@ -50,6 +50,8 @@ Frontend, in the repo root: copy `.env.example` to `.env.local`, then `pnpm dev`
    URL.
 5. **Vercel** → Project → Settings → Environment Variables:
    `VITE_GOOGLE_CLIENT_ID`. Redeploy.
+   `vercel.json` also has an `ignoreCommand`, so a commit that only touches
+   `server/` does not rebuild the frontend.
 
 After the first deploy, check that rate limiting sees real client addresses:
 if every user shares one limit on `/auth/google`, set `TRUST_PROXY=2` (Render's
