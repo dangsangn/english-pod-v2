@@ -40,7 +40,8 @@ Frontend, in the repo root: copy `.env.example` to `.env.local`, then `pnpm dev`
    and the direct one (`DIRECT_URL`).
 3. **Render** → New Web Service from this repo.
    - Root directory: `server`
-   - Build command: `pnpm install --frozen-lockfile && pnpm prisma migrate deploy && pnpm build`
+   - Build command: `npm install -g pnpm@10.12.1 && pnpm install --frozen-lockfile && pnpm prisma migrate deploy && pnpm build`
+     (pins pnpm: the lockfile is pnpm 10's format; Node comes from `engines.node`, 22.x)
    - Start command: `pnpm start`
    - Environment: `DATABASE_URL`, `DIRECT_URL`, `GOOGLE_CLIENT_ID`,
      `ALLOWED_ORIGINS=https://<your-app>.vercel.app,http://localhost:5173`,
