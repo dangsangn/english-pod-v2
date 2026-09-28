@@ -148,10 +148,6 @@ function AppContent() {
               <Flower2 size={14} />
               Vocabulary Garden
             </button>
-
-            <div className='hidden lg:block mt-3'>
-              <AccountButton menuAlign='left' />
-            </div>
           </div>
           <div className='hidden lg:block'>
             <ThemeToggle />
@@ -170,11 +166,16 @@ function AppContent() {
 
       {/* Main Content */}
       <div className='flex-1 flex flex-col relative w-full lg:w-auto h-full overflow-hidden bg-white/30 dark:bg-transparent'>
+        {/* Desktop account corner; on mobile it lives in the fixed top bar. */}
+        <div className='hidden lg:block absolute top-4 right-6 z-30'>
+          <AccountButton />
+        </div>
+
         {/* Transcript Area (Scrollable) */}
         <div className='flex-1 overflow-y-auto scroll-smooth'>
           <div className='max-w-4xl mx-auto min-h-full flex flex-col px-4 lg:px-8 pb-8'>
             <div className='flex-1 space-y-6'>
-              <div className='space-y-2 animate-in fade-in slide-in-from-bottom-4 duration-500 pt-8'>
+              <div className='space-y-2 animate-in fade-in slide-in-from-bottom-4 duration-500 pt-16 lg:pt-8 lg:pr-56'>
                 <span className='inline-block px-3 py-1 rounded-full text-xs font-medium bg-indigo-100 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-500/30'>
                   {currentEpisode.level || 'General'}
                 </span>
