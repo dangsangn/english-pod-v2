@@ -55,7 +55,6 @@ export default function SpellQuestion({ card, onDone }) {
   const finish = (outcome) => {
     setResult(outcome)
     speak(card.word)
-    focus()
   }
 
   const check = () => {
@@ -157,7 +156,7 @@ export default function SpellQuestion({ card, onDone }) {
         </div>
 
         {result && (
-          <div className='mt-5 flex items-center justify-center gap-2 vocab-rise-in'>
+          <div className='mt-5 flex flex-wrap items-center justify-center gap-x-2 vocab-rise-in'>
             <span className='text-lg font-bold text-emerald-600 dark:text-emerald-400'>{card.word}</span>
             {card.ipa && <span className='text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</span>}
             <button

@@ -11,7 +11,11 @@ export function QuestionCard({ label, children }) {
   )
 }
 
-/** Shown once a question is answered: how it went, and the way on. */
+/**
+ * Shown once a question is answered: how it went, and the way on. It takes
+ * focus so Enter continues, without the spelling input keeping a phone's
+ * keyboard open over the answer.
+ */
 export function ContinueButton({ correct, onClick }) {
   return (
     <div className='flex items-center gap-3 vocab-rise-in'>
@@ -25,6 +29,7 @@ export function ContinueButton({ correct, onClick }) {
         {correct ? 'Chính xác!' : 'Chưa đúng'}
       </p>
       <button
+        autoFocus
         onClick={onClick}
         className='flex items-center gap-2 px-6 py-3.5 rounded-2xl bg-zinc-900 text-white dark:bg-white dark:text-zinc-900 font-bold shadow-lg active:scale-[0.98] transition'
       >
