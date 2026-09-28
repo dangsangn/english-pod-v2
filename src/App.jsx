@@ -9,7 +9,7 @@ import UserGuideModal from './components/UserGuideModal'
 import VocabApp from './components/vocab/VocabApp'
 import EpisodeVocabButton from './components/vocab/EpisodeVocabButton'
 import AccountButton from './components/AccountButton'
-import { getSrsState, updateSettings } from './lib/srsStore'
+import { getSrsState, updateSettings, useSrs } from './lib/srsStore'
 import { navigate, useHashRoute } from './lib/hooks'
 import { BookOpen, Flower2 } from 'lucide-react'
 // We will import data, assuming it exists (might need to handle if script hasn't finished, but we know it generated episodes.json)
@@ -23,11 +23,30 @@ const getLastEpisodeId = () => {
 
 function AppContent() {
   const [currentEpisodeId, setCurrentEpisodeId] = useState(() => getLastEpisodeId())
+  // An episode the listener picks starts playing; one followed from another
+  // device only loads.
+  const [autoPlay, setAutoPlay] = useState(true)
+  const [isPlaying, setIsPlaying] = useState(false)
   // Saved only when the listener picks an episode: the first-episode default of
   // a fresh install must not overwrite the episode another device synced.
   const openEpisode = (id) => {
+    setAutoPlay(true)
     setCurrentEpisodeId(id)
     updateSettings({ lastEpisodeId: id })
+  }
+
+  // The last episode also changes when a sync brings in another device's
+  // choice: open it here too, unless this device is in the middle of playing.
+  // (Adjusted during render, React's pattern for following a changing value.)
+  const syncedEpisodeId = useSrs().settings.lastEpisodeId
+  const [followedEpisodeId, setFollowedEpisodeId] = useState(syncedEpisodeId)
+  if (syncedEpisodeId !== followedEpisodeId) {
+    setFollowedEpisodeId(syncedEpisodeId)
+    const known = episodesData.some((ep) => ep.id === syncedEpisodeId)
+    if (known && syncedEpisodeId !== currentEpisodeId && !isPlaying) {
+      setAutoPlay(false)
+      setCurrentEpisodeId(syncedEpisodeId)
+    }
   }
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [isGuideOpen, setIsGuideOpen] = useState(false)
@@ -198,6 +217,8 @@ function AppContent() {
               <AudioPlayer
                 episode={currentEpisode}
                 suspended={isVocabOpen}
+                autoPlay={autoPlay}
+                onPlayingChange={setIsPlaying}
                 onNext={handleNextEpisode}
                 onPrev={handlePreviousEpisode}
                 hasNext={

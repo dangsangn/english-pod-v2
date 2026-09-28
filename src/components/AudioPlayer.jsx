@@ -16,7 +16,18 @@ import {
 } from 'lucide-react'
 import { getAudioSources } from '../lib/audioSources'
 
-const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev, suspended = false }) => {
+const AudioPlayer = ({
+  episode,
+  onNext,
+  onPrev,
+  hasNext,
+  hasPrev,
+  suspended = false,
+  // False when the episode was opened for the listener (followed from another
+  // device) rather than by them: load it, but wait for the play button.
+  autoPlay = true,
+  onPlayingChange,
+}) => {
   const audioRef = useRef(null)
   // Read by the load effect, which must not autoplay while suspended.
   const suspendedRef = useRef(suspended)
@@ -70,10 +81,10 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev, suspended = fa
     audio.load()
 
     const { time, wasPlaying } = resumeRef.current
-    // On a fresh episode we always attempt autoplay (usually blocked on the
-    // very first load, allowed after navigation). On a failover we only resume
-    // if the listener was actually playing when the source died.
-    const shouldPlay = sourceIndex === 0 || wasPlaying
+    // On a fresh episode we attempt autoplay (usually blocked on the very first
+    // load, allowed after navigation) unless told not to. On a failover we only
+    // resume if the listener was actually playing when the source died.
+    const shouldPlay = (sourceIndex === 0 && autoPlay) || wasPlaying
 
     const onLoadedMetadata = () => {
       if (time > 0) audio.currentTime = time
@@ -205,6 +216,10 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev, suspended = fa
         ref={audioRef}
         src={currentSrc}
         onTimeUpdate={handleTimeUpdate}
+        // From the element itself, so pausing from headphones or the lock
+        // screen counts too.
+        onPlay={() => onPlayingChange?.(true)}
+        onPause={() => onPlayingChange?.(false)}
         onEnded={handleEnded}
         onError={handleError}
         onWaiting={() => setIsBuffering(true)}
