@@ -44,6 +44,7 @@ Thêm một backend Node.js để:
 | Phần | Lựa chọn |
 | --- | --- |
 | Runtime | Node.js 22 |
+| Ngôn ngữ (server) | TypeScript, `strict: true`; dev chạy bằng `tsx watch`, build bằng `tsc` ra `dist/` |
 | Web framework | Express 5 |
 | Database | PostgreSQL, qua Prisma (bản ổn định mới nhất lúc cài) |
 | Validate input | zod |
@@ -55,7 +56,7 @@ Chi phí: 0đ. Render gói miễn phí ngủ sau 15 phút không có request, re
 chậm 30–60 giây. Vì đồng bộ chạy nền nên người dùng chỉ thấy độ trễ này lúc bấm
 đăng nhập.
 
-Code server nằm ở `server/`, có `package.json` riêng, **không import gì từ
+Code server nằm ở `server/`, viết bằng TypeScript, có `package.json` riêng, **không import gì từ
 `src/`**, để Render có thể deploy với root directory là `server`.
 
 ## Đăng nhập
@@ -336,21 +337,28 @@ Lỗi luôn có dạng `{ "error": { "code": "...", "message": "..." } }`:
 ```
 server/
   package.json            type: module, engines.node >= 22
+                          scripts: dev (tsx watch), build (tsc), start (node dist/index.js),
+                          typecheck (tsc --noEmit), smoke (tsx scripts/smoke.ts)
+  tsconfig.json           strict, module/moduleResolution NodeNext, outDir dist
   .env.example            DATABASE_URL, DIRECT_URL, GOOGLE_CLIENT_ID, CORS_ORIGINS, PORT
   prisma/schema.prisma
-  src/index.js            đọc env, listen
-  src/app.js              express, cors, json, rate limit, routes, error handler
-  src/db.js               Prisma client
-  src/errors.js           HttpError + middleware trả lỗi chuẩn
-  src/auth/google.js      verifyGoogleCredential(credential) → profile
-  src/auth/sessions.js    createSession, revokeSession, requireAuth
-  src/routes/auth.js      /auth/google, /auth/logout, /me
-  src/routes/sync.js      /sync
-  src/sync/schema.js      zod cho request /sync
-  src/sync/merge.js       quy tắc gộp thuần (dùng cho cả smoke test)
-  src/sync/service.js     transaction đồng bộ
-  scripts/smoke.js        kiểm thử end-to-end
+  src/index.ts            đọc env, listen
+  src/app.ts              express, cors, json, rate limit, routes, error handler
+  src/db.ts               Prisma client
+  src/errors.ts           HttpError + middleware trả lỗi chuẩn
+  src/auth/google.ts      verifyGoogleCredential(credential) → profile
+  src/auth/sessions.ts    createSession, revokeSession, requireAuth
+  src/routes/auth.ts      /auth/google, /auth/logout, /me
+  src/routes/sync.ts      /sync
+  src/sync/schema.ts      zod cho request /sync; kiểu TS suy ra bằng z.infer
+  src/sync/merge.ts       quy tắc gộp thuần (dùng cho cả smoke test)
+  src/sync/service.ts     transaction đồng bộ
+  scripts/smoke.ts        kiểm thử end-to-end
+```
 
+FE giữ JavaScript như code hiện có:
+
+```
 src/lib/api.js            fetch có base URL, token, timeout, lỗi chuẩn
 src/lib/auth.js           store đăng nhập, nạp GIS, login, logout
 src/lib/sync.js           chọn thay đổi, áp dụng dữ liệu pull, lên lịch đồng bộ
@@ -372,8 +380,8 @@ GitHub Pages đọc chúng từ repository variables.
 2. **Neon:** tạo project, lấy connection string pooled (`DATABASE_URL`) và
    direct (`DIRECT_URL`, dùng cho migrate).
 3. **Render:** Web Service, root directory `server`.
-   - Build: `npm ci && npx prisma migrate deploy`
-   - Start: `node src/index.js`
+   - Build: `npm ci && npx prisma migrate deploy && npm run build`
+   - Start: `npm start`
    - Env: `DATABASE_URL`, `DIRECT_URL`, `GOOGLE_CLIENT_ID`, `CORS_ORIGINS=https://dangsangn.github.io,http://localhost:5173`
 4. **GitHub:** repository variables `VITE_API_URL` (URL Render) và
    `VITE_GOOGLE_CLIENT_ID`, truyền vào bước build trong workflow.
@@ -382,6 +390,8 @@ GitHub Pages đọc chúng từ repository variables.
 
 Theo lựa chọn không dùng framework test, kiểm thử bằng script chạy thật và thao
 tác trên app.
+
+**`npm run typecheck`** phải sạch lỗi.
 
 **`npm run smoke`** (trong `server/`, cần `DATABASE_URL` trỏ tới DB dev):
 
