@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { X } from 'lucide-react'
+import SessionHeader from './SessionHeader'
 import classNames from 'classnames'
 import { formatDelay, previewDelay, RATINGS, schedule } from '../../lib/srs'
 import { buildQueue, rateCard, useSrs } from '../../lib/srsStore'
@@ -92,39 +92,14 @@ export default function StudySession({ episodeId, episode, onExit }) {
     return <SessionSummary stats={stats} onExit={onExit} />
   }
 
-  // Remaining work by kind, Anki-style: blue new, rose learning, green review.
-  const remaining = { new: 0, learning: 0, review: 0 }
-  for (const id of new Set(queue)) {
-    const c = srs.cards[id]
-    if (!c) continue
-    if (c.state === 'new') remaining.new++
-    else if (c.state === 'review') remaining.review++
-    else remaining.learning++
-  }
-  const progress = stats.answers / (stats.answers + queue.length)
-
   return (
     <div className='min-h-full flex flex-col max-w-xl mx-auto px-4'>
-      <header className='h-16 flex items-center gap-3'>
-        <button
-          onClick={onExit}
-          title='Thoát (Esc)'
-          className='p-2 -ml-2 rounded-full text-zinc-500 hover:bg-black/5 dark:hover:bg-white/10'
-        >
-          <X size={22} />
-        </button>
-        <div className='flex-1 h-2.5 rounded-full bg-zinc-200/70 dark:bg-zinc-800 overflow-hidden'>
-          <div
-            className='h-full rounded-full bg-gradient-to-r from-pink-400 to-rose-500 transition-[width] duration-500'
-            style={{ width: `${Math.max(4, progress * 100)}%` }}
-          />
-        </div>
-        <div className='flex gap-2 text-sm font-bold tabular-nums'>
-          <span className='text-sky-500' title='Từ mới'>{remaining.new}</span>
-          <span className='text-rose-500' title='Đang học'>{remaining.learning}</span>
-          <span className='text-emerald-500' title='Cần ôn'>{remaining.review}</span>
-        </div>
-      </header>
+      <SessionHeader
+        queue={queue}
+        cards={srs.cards}
+        answers={stats.answers}
+        onExit={onExit}
+      />
 
       {episode && (
         <p className='text-center text-xs font-medium text-zinc-500 dark:text-zinc-400'>

@@ -22,6 +22,9 @@
 
 const synth = typeof window !== 'undefined' ? window.speechSynthesis : undefined
 
+/** False where the browser has no speech synthesis at all (the games skip listening then). */
+export const canSpeak = Boolean(synth)
+
 const IS_IOS =
   typeof navigator !== 'undefined' &&
   (/iPad|iPhone|iPod/.test(navigator.userAgent) ||
