@@ -1,4 +1,4 @@
-import { useState, useMemo, useEffect } from 'react'
+import { useState, useMemo } from 'react'
 import EpisodeList from './components/EpisodeList'
 import AudioPlayer from './components/AudioPlayer'
 import Transcript from './components/Transcript'
@@ -8,50 +8,31 @@ import Footer from './components/Footer'
 import UserGuideModal from './components/UserGuideModal'
 import VocabApp from './components/vocab/VocabApp'
 import EpisodeVocabButton from './components/vocab/EpisodeVocabButton'
+import AccountButton from './components/AccountButton'
+import { getSrsState, updateSettings } from './lib/srsStore'
 import { navigate, useHashRoute } from './lib/hooks'
 import { BookOpen, Flower2 } from 'lucide-react'
 // We will import data, assuming it exists (might need to handle if script hasn't finished, but we know it generated episodes.json)
 import episodesData from './data/episodes.json'
 
-// LocalStorage key for last episode
-const LAST_EPISODE_KEY = 'englishpod_last_episode_id'
-
-// Get last episode from localStorage
+// Last episode opened: part of the synced settings (see src/lib/srsStore.js).
 const getLastEpisodeId = () => {
-  try {
-    const savedId = localStorage.getItem(LAST_EPISODE_KEY)
-    if (savedId) {
-      const id = parseInt(savedId, 10)
-      // Verify that this episode exists in the data
-      const exists = episodesData.some((ep) => ep.id === id)
-      if (exists) {
-        console.log(`Restored last episode: ${id}`)
-        return id
-      }
-    }
-  } catch (error) {
-    console.error('Error reading last episode from localStorage:', error)
-  }
-  // Default to first episode
-  return episodesData[0]?.id || 0
+  const id = getSrsState().settings.lastEpisodeId
+  return episodesData.some((ep) => ep.id === id) ? id : episodesData[0]?.id || 0
 }
 
 function AppContent() {
   const [currentEpisodeId, setCurrentEpisodeId] = useState(() => getLastEpisodeId())
+  // Saved only when the listener picks an episode: the first-episode default of
+  // a fresh install must not overwrite the episode another device synced.
+  const openEpisode = (id) => {
+    setCurrentEpisodeId(id)
+    updateSettings({ lastEpisodeId: id })
+  }
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [isGuideOpen, setIsGuideOpen] = useState(false)
   const route = useHashRoute()
   const isVocabOpen = route === 'vocab' || route.startsWith('vocab/')
-
-  // Save current episode to localStorage whenever it changes
-  useEffect(() => {
-    try {
-      localStorage.setItem(LAST_EPISODE_KEY, currentEpisodeId.toString())
-      console.log(`Saved episode ${currentEpisodeId} to localStorage`)
-    } catch (error) {
-      console.error('Error saving episode to localStorage:', error)
-    }
-  }, [currentEpisodeId])
 
   const currentEpisode = useMemo(
     () =>
@@ -64,7 +45,7 @@ function AppContent() {
       (ep) => ep.id === currentEpisodeId,
     )
     if (currentIndex < episodesData.length - 1) {
-      setCurrentEpisodeId(episodesData[currentIndex + 1].id)
+      openEpisode(episodesData[currentIndex + 1].id)
     }
   }
 
@@ -73,7 +54,7 @@ function AppContent() {
       (ep) => ep.id === currentEpisodeId,
     )
     if (currentIndex > 0) {
-      setCurrentEpisodeId(episodesData[currentIndex - 1].id)
+      openEpisode(episodesData[currentIndex - 1].id)
     }
   }
 
@@ -90,7 +71,7 @@ function AppContent() {
           route={route}
           episodes={episodesData}
           onOpenEpisode={(id) => {
-            setCurrentEpisodeId(id)
+            openEpisode(id)
             navigate('')
           }}
         />
@@ -104,6 +85,7 @@ function AppContent() {
 
       {/* Mobile sidebar toggle */}
       <div className='lg:hidden fixed top-4 right-4 z-50 flex gap-2'>
+        <AccountButton compact />
         <button
           onClick={() => navigate('vocab')}
           className='p-2 bg-rose-500 rounded-full shadow-lg text-white hover:bg-rose-600 transition-colors'
@@ -166,6 +148,10 @@ function AppContent() {
               <Flower2 size={14} />
               Vocabulary Garden
             </button>
+
+            <div className='hidden lg:block mt-3'>
+              <AccountButton menuAlign='left' />
+            </div>
           </div>
           <div className='hidden lg:block'>
             <ThemeToggle />
@@ -176,7 +162,7 @@ function AppContent() {
           episodes={episodesData}
           currentId={currentEpisodeId}
           onSelect={(id) => {
-            setCurrentEpisodeId(id)
+            openEpisode(id)
             setIsSidebarOpen(false)
           }}
         />
