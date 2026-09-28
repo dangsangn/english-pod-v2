@@ -71,7 +71,8 @@ export function pickKind(kinds, recentKinds, rng = Math.random) {
 }
 
 /**
- * The options for a 'meaning' or 'word' question about `card`, shuffled.
+ * The options for a 'meaning' or 'listen' question about `card` (field
+ * 'meaning' or 'word'), shuffled.
  * Distractors come from the card's own episode first, then from words of the
  * same type, then from anywhere in `pool`. An option that means the same as the
  * answer (same text, or a shared sense like "chọn" in "lựa chọn, chọn") is
@@ -80,7 +81,10 @@ export function pickKind(kinds, recentKinds, rng = Math.random) {
 export function buildChoices(card, pool, field, rng = Math.random) {
   const valueOf = field === 'meaning' ? meaningOf : (c) => String(c.word)
   const answer = valueOf(card)
-  const taken = new Set([comparable(answer)])
+  // Words are told apart by their letters alone: "break down" and "breakdown"
+  // sound the same, so a listening question must not offer both.
+  const keyOf = field === 'meaning' ? comparable : lettersOf
+  const taken = new Set([keyOf(answer)])
   const answerSenses = new Set(field === 'meaning' ? senses(answer) : [])
 
   const others = pool.filter((c) => c.id !== card.id)
@@ -97,7 +101,7 @@ export function buildChoices(card, pool, field, rng = Math.random) {
     for (const c of shuffle(tier, rng)) {
       if (wrong.length === MAX_CHOICES - 1) break
       const value = valueOf(c)
-      const key = comparable(value)
+      const key = keyOf(value)
       if (!key || taken.has(key)) continue
       if (senses(value).some((s) => answerSenses.has(s))) continue
       taken.add(key)

@@ -82,7 +82,7 @@ function checkChoices(card, pool, field, rng, expectFull) {
     const { options, answerIndex } = buildChoices(card, pool, field, rng);
     const answer = field === 'meaning' ? meaningOf(card) : card.word;
     if (options[answerIndex] !== answer) fail(`${where}: answer is not at answerIndex`);
-    const keys = options.map(comparable);
+    const keys = options.map(field === 'meaning' ? comparable : lettersOf);
     if (new Set(keys).size !== keys.length) {
         fail(`${where}: duplicate options ${JSON.stringify(options)}`);
     }
