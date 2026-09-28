@@ -40,7 +40,8 @@ khoảng trắng và dấu câu. Không cần dữ liệu hay backend mới.
 
 ## Chọn kiểu câu hỏi cho mỗi thẻ
 
-`pickKind(card, recentKinds, { canSpeak })`:
+`allowedKinds(card, { canSpeak })` lọc kiểu hợp lệ, `pickKind(kinds, recentKinds)` chọn một,
+`makeQuestion` ghép lại và dựng câu hỏi:
 
 - `card.state === 'new'` → ngẫu nhiên giữa `meaning` và `listen`.
 - Còn lại → ngẫu nhiên giữa `meaning`, `spell`, `listen`.
@@ -74,8 +75,9 @@ Giao diện `ChoiceQuestion`:
 
 ## Câu hỏi Điền từ
 
-`maskWord(word)` chia từ thành các token: chữ cái (một ô), khoảng trắng (khoảng cách giữa
-nhóm ô), ký tự khác như `'` `-` `.` (hiện sẵn, không phải gõ).
+`maskWord(word)` chia cụm thành từng từ (tách theo khoảng trắng), mỗi từ là dãy token: chữ
+cái (một ô, có `index` trong chuỗi chữ cái) hoặc ký tự khác như `'` `-` `.` (hiện sẵn, không
+phải gõ). Mỗi từ không bị ngắt dòng ở giữa.
 
 `checkSpelling(input, word)`: so sau khi chuẩn hoá (chữ thường, `’` → `'`, bỏ các ký tự
 không phải chữ cái). Đúng khi chuỗi chữ cái khớp hoàn toàn.
@@ -108,7 +110,7 @@ Không dùng `easy`. Thẻ chưa lên `review` sau khi chấm được xếp l�
 
 | File | Vai trò |
 | --- | --- |
-| `src/lib/quiz.js` | Hàm thuần: `pickKind`, `buildChoices`, `maskWord`, `checkSpelling`, `gradeFor`. Nhận `rng` để kiểm tra được. |
+| `src/lib/quiz.js` | Hàm thuần: `allowedKinds`, `pickKind`, `buildChoices`, `makeQuestion`, `maskWord`, `checkSpelling`, `gradeFor`. Nhận `rng` để kiểm tra được. |
 | `src/components/vocab/GameSession.jsx` | Hàng đợi, chọn kiểu câu, gọi `rateCard`, requeue, thống kê. |
 | `src/components/vocab/ChoiceQuestion.jsx` | Câu Chọn nghĩa và Nghe. |
 | `src/components/vocab/SpellQuestion.jsx` | Câu Điền từ. |
