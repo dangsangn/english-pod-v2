@@ -101,6 +101,13 @@
 .vocab-pop-in { animation: vocab-pop-in 320ms cubic-bezier(.2,.8,.2,1); }
 .vocab-rise-in { animation: vocab-rise-in 220ms ease-out; }
 
+@keyframes vocab-shake {
+  0%, 100% { transform: none; }
+  20%, 60% { transform: translateX(-6px); }
+  40%, 80% { transform: translateX(6px); }
+}
+.vocab-shake { animation: vocab-shake 320ms ease-in-out; }
+
 /* Vietnamese text: never let the browser fake an italic (see .translation). */
 .vi-text { font-synthesis-style: none; }
 
@@ -108,7 +115,7 @@
 .no-scrollbar::-webkit-scrollbar { display: none; }
 
 @media (prefers-reduced-motion: reduce) {
-  .vocab-fade-in, .vocab-pop-in, .vocab-rise-in { animation: none; }
+  .vocab-fade-in, .vocab-pop-in, .vocab-rise-in, .vocab-shake { animation: none; }
 }
 
 /* Tap-to-translate words (transcript dialogue, vocabulary definitions) */
