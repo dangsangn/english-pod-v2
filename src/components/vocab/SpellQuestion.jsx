@@ -15,7 +15,9 @@ const MAX_ATTEMPTS = 2
  * the learner moves on.
  */
 export default function SpellQuestion({ card, onDone }) {
-  const words = maskWord(card.word)
+  const wordSegments = maskWord(card.word).map(segmentsOf)
+  const maxSegmentLength = Math.max(1, ...wordSegments.flat().map((segment) => segment.length))
+  const cellSize = cellSizing(maxSegmentLength)
   const answer = lettersOf(card.word)
   const [typed, setTyped] = useState('')
   // Letters given away by Gợi ý, always a prefix of the answer. They survive a
@@ -53,6 +55,7 @@ export default function SpellQuestion({ card, onDone }) {
   const finish = (outcome) => {
     setResult(outcome)
     speak(card.word)
+    focus()
   }
 
   const check = () => {
@@ -93,41 +96,51 @@ export default function SpellQuestion({ card, onDone }) {
           <p className='mt-1 text-sm text-zinc-500 dark:text-zinc-400'>{card.def}</p>
         )}
 
-        <div
-          key={shakes}
-          onClick={focus}
-          className={classNames(
-            'relative mt-6 flex flex-wrap justify-center gap-x-4 gap-y-3 cursor-text',
-            shakes > 0 && 'vocab-shake',
-          )}
-        >
-          {words.map((tokens, w) => (
-            <span key={w} className='inline-flex items-end gap-1'>
-              {tokens.map((t, i) =>
-                t.type === 'mark' ? (
-                  <span key={i} className='pb-1 text-2xl font-bold text-zinc-400'>
-                    {t.char}
+        <div onClick={focus} className='relative mt-6 cursor-text'>
+          <div
+            key={shakes}
+            className={classNames(
+              'flex flex-wrap justify-center gap-x-4 gap-y-3',
+              shakes > 0 && 'vocab-shake',
+            )}
+          >
+            {wordSegments.map((segments, w) => (
+              <span key={w} className='flex flex-wrap items-end gap-x-1.5 gap-y-2'>
+                {segments.map((segment, s) => (
+                  <span key={s} className='inline-flex items-end gap-1'>
+                    {segment.map((t, i) =>
+                      t.type === 'mark' ? (
+                        <span
+                          key={i}
+                          style={{ fontSize: cellSize.fontSize }}
+                          className='pb-1 font-bold text-zinc-400'
+                        >
+                          {t.char}
+                        </span>
+                      ) : (
+                        <Cell
+                          key={i}
+                          char={result === 'wrong' ? t.char : displayChar(typed[t.index], t.char)}
+                          size={cellSize}
+                          state={
+                            result === 'right'
+                              ? 'right'
+                              : result === 'wrong'
+                                ? 'wrong'
+                                : t.index < hinted
+                                  ? 'hinted'
+                                  : t.index === typed.length
+                                    ? 'active'
+                                    : 'idle'
+                          }
+                        />
+                      ),
+                    )}
                   </span>
-                ) : (
-                  <Cell
-                    key={i}
-                    char={result === 'wrong' ? t.char : typed[t.index] ?? ''}
-                    state={
-                      result === 'right'
-                        ? 'right'
-                        : result === 'wrong'
-                          ? 'wrong'
-                          : t.index < hinted
-                            ? 'hinted'
-                            : t.index === typed.length
-                              ? 'active'
-                              : 'idle'
-                    }
-                  />
-                ),
-              )}
-            </span>
-          ))}
+                ))}
+              </span>
+            ))}
+          </div>
           <input
             ref={input}
             value={typed}
@@ -193,6 +206,42 @@ export default function SpellQuestion({ card, onDone }) {
   )
 }
 
+// Splits one word's tokens into runs that each end right after a '-' mark, so
+// a long hyphenated word (e.g. "state-of-the-art") can wrap between runs
+// while each run itself stays on one line.
+function segmentsOf(tokens) {
+  const segments = []
+  let run = []
+  for (const t of tokens) {
+    run.push(t)
+    if (t.type === 'mark' && t.char === '-') {
+      segments.push(run)
+      run = []
+    }
+  }
+  if (run.length) segments.push(run)
+  return segments
+}
+
+// Cells shrink to fit the longest segment (letters + marks) inside the card's
+// usable width (min(100vw - 2rem, 28rem), minus ~3.25rem of card padding), so
+// a word like "intercontinental" still fits a 375px screen. The min() keeps
+// today's size for words short enough not to need shrinking.
+function cellSizing(maxSegmentLength) {
+  const fit = `((min(100vw - 2rem, 28rem) - 3.25rem) / ${maxSegmentLength} - 0.25rem)`
+  return {
+    width: `min(1.75rem, calc(${fit}))`,
+    fontSize: `min(1.5rem, calc(${fit} * 0.85))`,
+  }
+}
+
+// typed is always lower case (lettersOf lower-cases input); once a guessed
+// letter matches, show the word's own case instead of the flattened one.
+function displayChar(typedChar, want) {
+  if (typedChar == null) return ''
+  return typedChar.toLowerCase() === want.toLowerCase() ? want : typedChar
+}
+
 const CELL_STYLES = {
   idle: 'border-zinc-300 dark:border-zinc-600',
   active: 'border-rose-500',
@@ -201,11 +250,12 @@ const CELL_STYLES = {
   wrong: 'border-rose-400 text-rose-600 dark:text-rose-400',
 }
 
-function Cell({ char, state }) {
+function Cell({ char, state, size }) {
   return (
     <span
+      style={size}
       className={classNames(
-        'w-7 h-10 sm:w-8 sm:h-11 flex items-end justify-center pb-0.5 border-b-4 text-2xl font-bold transition-colors',
+        'h-10 sm:h-11 flex items-end justify-center pb-0.5 border-b-4 font-bold transition-colors',
         CELL_STYLES[state],
       )}
     >

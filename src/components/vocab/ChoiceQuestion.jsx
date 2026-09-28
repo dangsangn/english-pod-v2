@@ -42,6 +42,7 @@ export default function ChoiceQuestion({ card, kind, options, answerIndex, autoS
   useEffect(() => {
     const onKey = (e) => {
       if (e.target instanceof HTMLInputElement) return
+      if (e.metaKey || e.ctrlKey || e.altKey) return
       if (!answered) {
         const i = Number(e.key) - 1
         if (i >= 0 && i < options.length) pick(i)
