@@ -5,12 +5,14 @@ import { navigate } from '../../lib/hooks'
 import { backfillCardContent } from '../../lib/srsStore'
 import VocabHome from './VocabHome'
 import DeckBrowser from './DeckBrowser'
+import GameSession from './GameSession'
 import StudySession from './StudySession'
 import WordList from './WordList'
 
 // Full-screen vocabulary area, laid over the podcast view so audio keeps
 // playing underneath. Sub-pages live in the hash (#vocab, #vocab/decks,
-// #vocab/words/<filter>, #vocab/episode/<id>, #vocab/study, #vocab/study/<episodeId>) so the browser back button works.
+// #vocab/words/<filter>, #vocab/episode/<id>, #vocab/study, #vocab/study/<episodeId>,
+// #vocab/play, #vocab/play/<episodeId>) so the browser back button works.
 export default function VocabApp({ route, episodes, onOpenEpisode }) {
   const [, page, param] = route.split('/')
 
@@ -18,11 +20,12 @@ export default function VocabApp({ route, episodes, onOpenEpisode }) {
     backfillCardContent(episodes)
   }, [episodes])
 
-  if (page === 'study') {
+  if (page === 'study' || page === 'play') {
     const episodeId = param ? Number(param) : null
+    const Session = page === 'play' ? GameSession : StudySession
     return (
       <Shell>
-        <StudySession
+        <Session
           // A new scope is a new session: remount rather than patch state.
           key={route}
           episodeId={episodeId}
