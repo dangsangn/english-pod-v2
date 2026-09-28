@@ -16,8 +16,12 @@ import {
 } from 'lucide-react'
 import { getAudioSources } from '../lib/audioSources'
 
-const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
+const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev, suspended = false }) => {
   const audioRef = useRef(null)
+  // Read by the load effect, which must not autoplay while suspended.
+  const suspendedRef = useRef(suspended)
+  // Whether playback was on when the suspension started, to pick it back up.
+  const resumeAfterSuspendRef = useRef(false)
   const [isPlaying, setIsPlaying] = useState(false)
   const [isBuffering, setIsBuffering] = useState(false)
   const [progress, setProgress] = useState(0)
@@ -73,7 +77,7 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
 
     const onLoadedMetadata = () => {
       if (time > 0) audio.currentTime = time
-      if (!shouldPlay) return
+      if (!shouldPlay || suspendedRef.current) return
       audio
         .play()
         .then(() => setIsPlaying(true))
@@ -117,6 +121,27 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
       audioRef.current.volume = isMuted ? 0 : volume
     }
   }, [volume, isMuted])
+
+  // Suspended while the vocabulary garden covers the player: pause, and pick
+  // playback back up on the way out if it was on when the garden opened.
+  useEffect(() => {
+    suspendedRef.current = suspended
+    const audio = audioRef.current
+    if (!audio) return
+    if (suspended) {
+      resumeAfterSuspendRef.current = !audio.paused
+      if (!audio.paused) {
+        audio.pause()
+        setIsPlaying(false)
+      }
+    } else if (resumeAfterSuspendRef.current) {
+      resumeAfterSuspendRef.current = false
+      audio
+        .play()
+        .then(() => setIsPlaying(true))
+        .catch(() => setIsPlaying(false))
+    }
+  }, [suspended])
 
   // Playback Speed effect
   useEffect(() => {

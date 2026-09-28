@@ -65,7 +65,8 @@ function AppContent() {
         onClose={() => setIsGuideOpen(false)}
       />
 
-      {/* Rendered over the podcast view, which stays mounted so audio keeps playing. */}
+      {/* Rendered over the podcast view, which stays mounted so the player keeps its
+          place; the player pauses while this is open and resumes after (see `suspended`). */}
       {isVocabOpen && (
         <VocabApp
           route={route}
@@ -196,6 +197,7 @@ function AppContent() {
             <div className='max-w-4xl mx-auto'>
               <AudioPlayer
                 episode={currentEpisode}
+                suspended={isVocabOpen}
                 onNext={handleNextEpisode}
                 onPrev={handlePreviousEpisode}
                 hasNext={
