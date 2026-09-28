@@ -93,6 +93,7 @@ export function buildChoices(card, pool, field, rng = Math.random) {
 
   const wrong = []
   for (const tier of tiers) {
+    if (wrong.length === MAX_CHOICES - 1) break
     for (const c of shuffle(tier, rng)) {
       if (wrong.length === MAX_CHOICES - 1) break
       const value = valueOf(c)
@@ -134,6 +135,7 @@ export function makeQuestion(card, pool, recentKinds, { canSpeak }, rng = Math.r
 export function maskWord(word) {
   let index = 0
   return String(word ?? '')
+    .normalize('NFC')
     .trim()
     .split(/\s+/)
     .filter(Boolean)

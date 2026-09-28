@@ -72,6 +72,11 @@ function loadCards() {
     return [...cards.values()];
 }
 
+/** Same split as quiz.js uses, so the check does not depend on its internals. */
+function senses(text) {
+    return String(text).split(/[,;]/).map(comparable).filter(Boolean);
+}
+
 function checkChoices(card, pool, field, rng, expectFull) {
     const where = `"${card.word}" (${field})`;
     const { options, answerIndex } = buildChoices(card, pool, field, rng);
@@ -80,6 +85,15 @@ function checkChoices(card, pool, field, rng, expectFull) {
     const keys = options.map(comparable);
     if (new Set(keys).size !== keys.length) {
         fail(`${where}: duplicate options ${JSON.stringify(options)}`);
+    }
+    if (field === 'meaning') {
+        const answerSenses = new Set(senses(answer));
+        const overlapping = options.filter(
+            (o, i) => i !== answerIndex && senses(o).some((s) => answerSenses.has(s)),
+        );
+        if (overlapping.length) {
+            fail(`${where}: option shares a sense with the answer ${JSON.stringify(overlapping)}`);
+        }
     }
     if (expectFull && options.length !== 4) {
         fail(`${where}: only ${options.length} options from the whole garden`);
