@@ -481,3 +481,16 @@ FE deploy trên **Vercel**, không phải GitHub Pages. Các phần trên về
   `pnpm install --frozen-lockfile && pnpm prisma migrate deploy && pnpm build`.
 - **Workflow GitHub Pages giữ nguyên:** không có `VITE_GOOGLE_CLIENT_ID` thì bản
   build đó chạy local-only.
+
+## Điều chỉnh lần 3: bỏ lịch sử nghe
+
+Theo yêu cầu, **không lưu lịch sử nghe nữa** (vị trí đang nghe, số lần nghe, đã
+nghe xong). Chỉ đồng bộ việc học từ vựng và bài đang mở
+(`settings.last_episode_id`).
+
+- Migration `drop_listening` xoá bảng `listening`. `/sync` không nhận và không trả
+  `listening` nữa; client cũ còn gửi trường này thì zod bỏ qua.
+- FE xoá `listeningStore.js`, `AudioPlayer` trở về như trước khi có tính năng này
+  (không còn phát tiếp từ vị trí cũ), và xoá key `englishpod_listening_v1` còn sót
+  trong localStorage.
+- Mọi thay đổi local đều hẹn đồng bộ sau 2 giây.

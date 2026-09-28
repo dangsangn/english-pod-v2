@@ -27,7 +27,6 @@ model User {
   cards       Card[]
   reviewLogs  ReviewLog[]
   legacyDays  LegacyDay[]
-  listening   Listening[]
 
   @@map("users")
 }
@@ -126,22 +125,4 @@ model LegacyDay {
 
   @@id([userId, importId, day])
   @@map("legacy_days")
-}
-
-model Listening {
-  userId        String  @map("user_id") @db.Uuid
-  episodeId     Int     @map("episode_id")
-  positionSec   Float   @map("position_sec")
-  durationSec   Float   @map("duration_sec")
-  playCount     Int     @map("play_count")
-  completedAt   BigInt? @map("completed_at")
-  firstPlayedAt BigInt  @map("first_played_at")
-  lastPlayedAt  BigInt  @map("last_played_at")
-  updatedAt     BigInt  @map("updated_at")
-  rev           BigInt
-  user          User    @relation(fields: [userId], references: [id], onDelete: Cascade)
-
-  @@id([userId, episodeId])
-  @@index([userId, rev])
-  @@map("listening")
 }

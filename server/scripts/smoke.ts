@@ -220,27 +220,6 @@ await check('legacy days: same import once, different imports add up', async () 
   assert.deepEqual(res.days['2026-08-01'], { reviews: 15, learned: 4 })
 })
 
-await check('listening: latest position, highest play count, earliest completion', async () => {
-  await sync(A, {
-    listening: [{
-      episodeId: 7, positionSec: 30, durationSec: 180, playCount: 2, completedAt: null,
-      firstPlayedAt: 1000, lastPlayedAt: 5000, updatedAt: 5000,
-    }],
-  })
-  const res = await sync(B, {
-    listening: [{
-      episodeId: 7, positionSec: 90, durationSec: 180, playCount: 1, completedAt: 4000,
-      firstPlayedAt: 800, lastPlayedAt: 4000, updatedAt: 4000,
-    }],
-  })
-  const row = res.changes.listening.find((l: { episodeId: number }) => l.episodeId === 7)
-  assert.equal(row.positionSec, 30)
-  assert.equal(row.playCount, 2)
-  assert.equal(row.completedAt, 4000)
-  assert.equal(row.firstPlayedAt, 800)
-  assert.equal(row.updatedAt, 5000)
-})
-
 await check('settings sync across devices', async () => {
   await sync(A, { settings: { autoSpeak: false, lastEpisodeId: 7, updatedAt: 6000 } })
   const res = await sync(B)

@@ -3,25 +3,20 @@
 // Signed in means the server set an HttpOnly session cookie (see api.js); this
 // module only keeps the user for the UI (auth.js) and drops it on a 401.
 //
-// The local stores (srsStore, listeningStore) stay what the UI reads and
-// writes. Once signed in, this module sends POST /sync with whatever changed
+// The local vocabulary store (srsStore) stays what the UI reads and writes. Once signed in, this module sends POST /sync with whatever changed
 // since the last successful push, plus a cursor; the server merges (last write
 // wins) and answers with everything other devices changed after that cursor.
 //
-// When: right after sign-in, on start, a moment after a local change (2 s for
-// study, 30 s for listening, which changes every 15 s while playing), when the
-// tab comes back, and when the network does. Failures retry with backoff.
+// Synced: vocabulary study (cards, decks, review logs, daily counts) and the
+// settings, which include the episode currently open.
+//
+// When: right after sign-in, on start, 2 s after a local change, when the tab
+// comes back, and when the network does. Failures retry with backoff.
 
 import { useSyncExternalStore } from 'react'
 import { api, ApiError, apiEnabled } from './api'
 import { clearAuth, getAuth, setAuth } from './auth'
 import { setCredentialHandler } from './googleSignIn'
-import {
-  applyRemoteListening,
-  clearListening,
-  collectListeningChanges,
-  subscribeLocalListeningChanges,
-} from './listeningStore'
 import {
   applySyncResult,
   clearLocalProgress,
@@ -33,8 +28,7 @@ import {
 import { uuid } from './uuid'
 
 const META_KEY = 'englishpod_sync_v1'
-const STUDY_DELAY_MS = 2_000
-const LISTENING_DELAY_MS = 30_000
+const CHANGE_DELAY_MS = 2_000
 const RETRY_DELAYS_MS = [5_000, 30_000, 120_000]
 
 // ownerId: the account this device's progress belongs to (null: made signed out).
@@ -123,16 +117,14 @@ async function runSync() {
 
   const since = meta.cursor === null ? null : meta.lastPushAt
   const srs = collectSrsChanges(since)
-  const listening = collectListeningChanges(since)
   const pushStartedAt = Date.now()
 
   try {
     const response = await api('/sync', {
       method: 'POST',
-      body: { cursor: meta.cursor, changes: { ...srs, listening, legacyDays: meta.legacyDays } },
+      body: { cursor: meta.cursor, changes: { ...srs, legacyDays: meta.legacyDays } },
     })
     applySyncResult(srs, response)
-    applyRemoteListening(response.changes.listening)
     saveMeta({
       cursor: response.cursor,
       lastPushAt: pushStartedAt,
@@ -162,17 +154,13 @@ async function runSync() {
 // ---------------------------------------------------------------------------
 // Signing in and out
 
-function forgetLocalData() {
-  clearLocalProgress()
-  clearListening()
-}
 
 /** After the backend accepted a sign-in: decide what happens to local data, then sync. */
 async function completeSignIn(result) {
   if (meta.ownerId !== result.user.id) {
     if (meta.ownerId !== null) {
       // Progress of a different account: never merge it into this one.
-      forgetLocalData()
+      clearLocalProgress()
       saveMeta({ ...EMPTY_META, ownerId: result.user.id })
     } else {
       // Made before signing in: it joins this account on the first sync.
@@ -212,7 +200,7 @@ export async function logout() {
   cancelScheduled()
   clearAuth()
   setReviewLogging(false)
-  forgetLocalData()
+  clearLocalProgress()
   saveMeta(EMPTY_META)
   setStatus({ state: 'idle', lastSyncedAt: null, error: null })
 }
@@ -228,8 +216,7 @@ export function startSync() {
 
   setCredentialHandler(loginWithGoogle)
   setReviewLogging(meta.ownerId !== null)
-  subscribeLocalChanges(() => scheduleSync(STUDY_DELAY_MS))
-  subscribeLocalListeningChanges(() => scheduleSync(LISTENING_DELAY_MS))
+  subscribeLocalChanges(() => scheduleSync(CHANGE_DELAY_MS))
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible') scheduleSync(0)
   })

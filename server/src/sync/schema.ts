@@ -32,17 +32,6 @@ export const cardSchema = z.object({
 
 export const deckSchema = z.object({ episodeId: z.number().int(), addedAt: ms, updatedAt: ms })
 
-export const listeningSchema = z.object({
-  episodeId: z.number().int(),
-  positionSec: z.number().nonnegative(),
-  durationSec: z.number().nonnegative(),
-  playCount: count,
-  completedAt: ms.nullable(),
-  firstPlayedAt: ms,
-  lastPlayedAt: ms,
-  updatedAt: ms,
-})
-
 export const settingsSchema = z.object({
   autoSpeak: z.boolean(),
   lastEpisodeId: z.number().int().nullable(),
@@ -69,7 +58,6 @@ export const syncRequestSchema = z.object({
     deletedCards: z.array(z.object({ id: cardId, deletedAt: ms })).max(20_000).default([]),
     decks: z.array(deckSchema).max(1000).default([]),
     deletedDecks: z.array(z.object({ episodeId: z.number().int(), deletedAt: ms })).max(1000).default([]),
-    listening: z.array(listeningSchema).max(1000).default([]),
     settings: settingsSchema.nullable().default(null),
     reviewLogs: z.array(reviewLogSchema).max(50_000).default([]),
     legacyDays: z

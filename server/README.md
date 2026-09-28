@@ -1,7 +1,7 @@
 # EnglishPod API
 
-Google sign-in and sync of vocabulary and listening history for the EnglishPod
-app. Design: `docs/superpowers/specs/2026-09-28-google-auth-sync-design.md`.
+Google sign-in and sync of vocabulary study (cards, decks, review history) and
+settings (including the episode currently open) for the EnglishPod app. Design: `docs/superpowers/specs/2026-09-28-google-auth-sync-design.md`.
 
 The frontend calls this server same-origin under `/api`: Vite proxies it in
 development, and `vercel.json` rewrites it in production. The session is an

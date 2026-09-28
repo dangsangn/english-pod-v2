@@ -5,7 +5,7 @@
 import { prisma } from '../db.js'
 import type { Prisma } from '../generated/prisma/client.js'
 import type { SyncChanges, SyncRequest } from './schema.js'
-import { latestBy, toWireCard, toWireDeck, toWireListening, toWireSettings, type SyncResponse } from './wire.js'
+import { latestBy, toWireCard, toWireDeck, toWireSettings, type SyncResponse } from './wire.js'
 
 type Tx = Prisma.TransactionClient
 
@@ -22,7 +22,6 @@ export async function runSync(userId: string, { cursor, changes }: SyncRequest):
       await deleteCards(tx, userId, changes.deletedCards)
       await upsertDecks(tx, userId, changes.decks, resetAt)
       await deleteDecks(tx, userId, changes.deletedDecks)
-      await upsertListening(tx, userId, changes.listening)
       if (changes.settings) await upsertSettings(tx, userId, changes.settings)
       await insertReviewLogs(tx, userId, changes.reviewLogs, resetAt)
       if (changes.legacyDays) await insertLegacyDays(tx, userId, changes.legacyDays)
@@ -117,39 +116,6 @@ async function deleteDecks(tx: Tx, userId: string, deleted: SyncChanges['deleted
     WHERE d.updated_at < EXCLUDED.updated_at`
 }
 
-/**
- * Position and duration follow the latest edit; the counters only move one way
- * (plays up, first play and first completion earlier), so no device's history
- * is lost. LEAST/GREATEST skip NULLs, which is what completed_at needs.
- */
-async function upsertListening(tx: Tx, userId: string, listening: SyncChanges['listening']) {
-  const rows = latestBy(listening, (l) => l.episodeId, (l) => l.updatedAt)
-  if (!rows.length) return
-  await tx.$executeRaw`
-    INSERT INTO listening AS l (user_id, episode_id, position_sec, duration_sec, play_count,
-      completed_at, first_played_at, last_played_at, updated_at, rev)
-    SELECT ${userId}::uuid, x."episodeId", x."positionSec", x."durationSec", x."playCount",
-      x."completedAt", x."firstPlayedAt", x."lastPlayedAt", x."updatedAt", nextval('sync_rev')
-    FROM jsonb_to_recordset(${JSON.stringify(rows)}::jsonb) AS x("episodeId" int, "positionSec" float8,
-      "durationSec" float8, "playCount" int, "completedAt" bigint, "firstPlayedAt" bigint,
-      "lastPlayedAt" bigint, "updatedAt" bigint)
-    ON CONFLICT (user_id, episode_id) DO UPDATE SET
-      position_sec = CASE WHEN EXCLUDED.updated_at > l.updated_at THEN EXCLUDED.position_sec ELSE l.position_sec END,
-      duration_sec = CASE WHEN EXCLUDED.updated_at > l.updated_at THEN EXCLUDED.duration_sec ELSE l.duration_sec END,
-      play_count = GREATEST(l.play_count, EXCLUDED.play_count),
-      completed_at = LEAST(l.completed_at, EXCLUDED.completed_at),
-      first_played_at = LEAST(l.first_played_at, EXCLUDED.first_played_at),
-      last_played_at = GREATEST(l.last_played_at, EXCLUDED.last_played_at),
-      updated_at = GREATEST(l.updated_at, EXCLUDED.updated_at),
-      rev = EXCLUDED.rev
-    WHERE EXCLUDED.updated_at > l.updated_at
-      OR EXCLUDED.play_count > l.play_count
-      OR EXCLUDED.first_played_at < l.first_played_at
-      OR EXCLUDED.last_played_at > l.last_played_at
-      OR (EXCLUDED.completed_at IS NOT NULL
-        AND (l.completed_at IS NULL OR EXCLUDED.completed_at < l.completed_at))`
-}
-
 async function upsertSettings(tx: Tx, userId: string, settings: NonNullable<SyncChanges['settings']>) {
   await tx.$executeRaw`
     INSERT INTO settings AS s (user_id, auto_speak, last_episode_id, updated_at, rev)
@@ -195,10 +161,9 @@ async function pull(tx: Tx, userId: string, cursor: number | null, resetAt: numb
 
   const cards = await tx.card.findMany({ where: { ...changed, ...live } })
   const decks = await tx.deck.findMany({ where: { ...changed, ...live } })
-  const listening = await tx.listening.findMany({ where: changed })
   const settings = await tx.settings.findFirst({ where: changed })
 
-  const revs = [...cards, ...decks, ...listening, ...(settings ? [settings] : [])].map((row) => row.rev)
+  const revs = [...cards, ...decks, ...(settings ? [settings] : [])].map((row) => row.rev)
   const next = revs.reduce((max, rev) => (rev > max ? rev : max), since)
 
   const days = await tx.$queryRaw<{ day: string; reviews: number; learned: number }[]>`
@@ -221,7 +186,6 @@ async function pull(tx: Tx, userId: string, cursor: number | null, resetAt: numb
       deletedDecks: decks
         .filter((d) => d.deletedAt !== null)
         .map((d) => ({ episodeId: d.episodeId, deletedAt: Number(d.deletedAt) })),
-      listening: listening.map(toWireListening),
       settings: settings ? toWireSettings(settings) : null,
     },
     days: Object.fromEntries(days.map((d) => [d.day, { reviews: d.reviews, learned: d.learned }])),

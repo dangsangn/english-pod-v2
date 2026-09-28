@@ -12,6 +12,13 @@ unlockOnFirstGesture()
 // Background sync with the backend, once signed in; see src/lib/sync.js.
 startSync()
 
+// Listening history was kept for a while and is no longer used.
+try {
+  localStorage.removeItem('englishpod_listening_v1')
+} catch {
+  // Storage blocked: nothing to clean up.
+}
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />

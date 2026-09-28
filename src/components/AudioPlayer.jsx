@@ -15,20 +15,6 @@ import {
   RotateCw,
 } from 'lucide-react'
 import { getAudioSources } from '../lib/audioSources'
-import {
-  recordCompleted,
-  recordPlay,
-  recordPosition,
-  resumePosition,
-} from '../lib/listeningStore'
-
-// While playing, the position is saved this often (and on pause, episode
-// change, and when the page is hidden).
-const SAVE_EVERY_MS = 15_000
-
-function savePosition(loaded) {
-  if (loaded) recordPosition(loaded.episodeId, loaded.time, loaded.duration)
-}
 
 const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
   const audioRef = useRef(null)
@@ -52,15 +38,8 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
   const [loadFailed, setLoadFailed] = useState(false)
   const [reloadNonce, setReloadNonce] = useState(0)
   const [renderedEpisodeId, setRenderedEpisodeId] = useState(episode.id)
-  // Where to pick playback back up: the saved position when an episode opens,
-  // or the current one after swapping sources mid-listen.
-  const resumeRef = useRef({ time: resumePosition(episode.id), wasPlaying: false })
-  // The episode whose source has loaded, with its latest position. Only set
-  // after loadedmetadata, so the 0:00 of a source being swapped in is never
-  // saved over where the listener actually was.
-  const loadedRef = useRef(null) // { episodeId, src, time, duration }
-  const lastSavedAtRef = useRef(0)
-  const countedPlayRef = useRef(null) // episode id whose play is already counted
+  // Where to pick playback back up after swapping sources mid-listen.
+  const resumeRef = useRef({ time: 0, wasPlaying: false })
 
   // Reset the chain when the episode changes. Done during render rather than in
   // an effect so <audio> never briefly points at the previous episode's
@@ -72,7 +51,7 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
     setProgress(0)
     setCurrentTime(0)
     setDuration(0)
-    resumeRef.current = { time: resumePosition(episode.id), wasPlaying: false }
+    resumeRef.current = { time: 0, wasPlaying: false }
   }
 
   const currentSrc = sources[sourceIndex]
@@ -81,10 +60,6 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
   useEffect(() => {
     const audio = audioRef.current
     if (!audio || !currentSrc) return
-
-    // Moving to another episode: keep where the previous one stopped.
-    if (loadedRef.current?.episodeId !== episode.id) savePosition(loadedRef.current)
-    loadedRef.current = null
 
     audio.volume = isMuted ? 0 : volume
     audio.playbackRate = playbackRate
@@ -98,12 +73,6 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
 
     const onLoadedMetadata = () => {
       if (time > 0) audio.currentTime = time
-      loadedRef.current = {
-        episodeId: episode.id,
-        src: currentSrc,
-        time: audio.currentTime,
-        duration: audio.duration,
-      }
       if (!shouldPlay) return
       audio
         .play()
@@ -156,31 +125,6 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
     }
   }, [playbackRate])
 
-  // Closing the tab or backgrounding the app (iOS rarely fires pagehide).
-  useEffect(() => {
-    const flush = () => savePosition(loadedRef.current)
-    const onVisibility = () => {
-      if (document.visibilityState === 'hidden') flush()
-    }
-    window.addEventListener('pagehide', flush)
-    document.addEventListener('visibilitychange', onVisibility)
-    return () => {
-      window.removeEventListener('pagehide', flush)
-      document.removeEventListener('visibilitychange', onVisibility)
-    }
-  }, [])
-
-  const saveProgress = () => {
-    lastSavedAtRef.current = Date.now()
-    savePosition(loadedRef.current)
-  }
-
-  const handlePlay = () => {
-    if (countedPlayRef.current === episode.id) return
-    countedPlayRef.current = episode.id
-    recordPlay(episode.id)
-  }
-
   const togglePlay = () => {
     if (audioRef.current.paused) {
       audioRef.current
@@ -200,14 +144,6 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
     setCurrentTime(current)
     setDuration(dur)
     if (dur) setProgress((current / dur) * 100)
-
-    const loaded = loadedRef.current
-    if (loaded?.src !== currentSrc) return
-    loaded.time = current
-    loaded.duration = dur
-    if (!audioRef.current.paused && Date.now() - lastSavedAtRef.current >= SAVE_EVERY_MS) {
-      saveProgress()
-    }
   }
 
   const handleSeek = (e) => {
@@ -221,10 +157,6 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
   }
 
   const handleEnded = () => {
-    recordCompleted(episode.id, audioRef.current.duration)
-    if (loadedRef.current) loadedRef.current.time = 0
-    // Playing it again (loop or by hand) counts as another listen.
-    countedPlayRef.current = null
     setIsPlaying(false)
     if (isLooping) {
       audioRef.current.currentTime = 0
@@ -248,8 +180,6 @@ const AudioPlayer = ({ episode, onNext, onPrev, hasNext, hasPrev }) => {
         ref={audioRef}
         src={currentSrc}
         onTimeUpdate={handleTimeUpdate}
-        onPlay={handlePlay}
-        onPause={saveProgress}
         onEnded={handleEnded}
         onError={handleError}
         onWaiting={() => setIsBuffering(true)}
