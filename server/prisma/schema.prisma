@@ -1,0 +1,147 @@
+// Timestamps that come from devices (updated_at, due, reviewed_at, …) are epoch
+// milliseconds in BigInt columns, the unit Date.now() and src/lib/srs.js use.
+// `rev` comes from the sync_rev sequence on every write; /sync pulls rows with
+// rev above the device's cursor.
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id          String      @id @default(uuid()) @db.Uuid
+  googleSub   String      @unique @map("google_sub")
+  email       String
+  name        String
+  avatarUrl   String?     @map("avatar_url")
+  resetAt     BigInt?     @map("reset_at")
+  createdAt   DateTime    @default(now()) @map("created_at")
+  lastLoginAt DateTime    @default(now()) @map("last_login_at")
+  sessions    Session[]
+  settings    Settings?
+  decks       Deck[]
+  cards       Card[]
+  reviewLogs  ReviewLog[]
+  legacyDays  LegacyDay[]
+  listening   Listening[]
+
+  @@map("users")
+}
+
+model Session {
+  id         String   @id @default(uuid()) @db.Uuid
+  userId     String   @map("user_id") @db.Uuid
+  tokenHash  String   @unique @map("token_hash")
+  createdAt  DateTime @default(now()) @map("created_at")
+  lastUsedAt DateTime @default(now()) @map("last_used_at")
+  expiresAt  DateTime @map("expires_at")
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("sessions")
+}
+
+model Settings {
+  userId        String  @id @map("user_id") @db.Uuid
+  autoSpeak     Boolean @map("auto_speak")
+  lastEpisodeId Int?    @map("last_episode_id")
+  updatedAt     BigInt  @map("updated_at")
+  rev           BigInt
+  user          User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("settings")
+}
+
+model Deck {
+  userId    String  @map("user_id") @db.Uuid
+  episodeId Int     @map("episode_id")
+  addedAt   BigInt  @map("added_at")
+  updatedAt BigInt  @map("updated_at")
+  deletedAt BigInt? @map("deleted_at")
+  rev       BigInt
+  user      User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@id([userId, episodeId])
+  @@index([userId, rev])
+  @@map("decks")
+}
+
+model Card {
+  userId     String  @map("user_id") @db.Uuid
+  cardId     String  @map("card_id")
+  word       String
+  ipa        String
+  type       String
+  def        String
+  vi         String
+  viDef      String  @map("vi_def")
+  episodeIds Int[]   @map("episode_ids")
+  state      String
+  step       Int
+  ease       Float
+  interval   Float
+  due        BigInt
+  reps       Int
+  lapses     Int
+  addedAt    BigInt  @map("added_at")
+  lastReview BigInt? @map("last_review")
+  updatedAt  BigInt  @map("updated_at")
+  deletedAt  BigInt? @map("deleted_at")
+  rev        BigInt
+  user       User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@id([userId, cardId])
+  @@index([userId, rev])
+  @@map("cards")
+}
+
+model ReviewLog {
+  id             String @id @db.Uuid
+  userId         String @map("user_id") @db.Uuid
+  cardId         String @map("card_id")
+  rating         String
+  stateBefore    String @map("state_before")
+  intervalBefore Float  @map("interval_before")
+  intervalAfter  Float  @map("interval_after")
+  reviewedAt     BigInt @map("reviewed_at")
+  day            String
+  user           User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, day])
+  @@map("review_logs")
+}
+
+model LegacyDay {
+  userId     String @map("user_id") @db.Uuid
+  importId   String @map("import_id") @db.Uuid
+  day        String
+  reviews    Int
+  learned    Int
+  importedAt BigInt @map("imported_at")
+  user       User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@id([userId, importId, day])
+  @@map("legacy_days")
+}
+
+model Listening {
+  userId        String  @map("user_id") @db.Uuid
+  episodeId     Int     @map("episode_id")
+  positionSec   Float   @map("position_sec")
+  durationSec   Float   @map("duration_sec")
+  playCount     Int     @map("play_count")
+  completedAt   BigInt? @map("completed_at")
+  firstPlayedAt BigInt  @map("first_played_at")
+  lastPlayedAt  BigInt  @map("last_played_at")
+  updatedAt     BigInt  @map("updated_at")
+  rev           BigInt
+  user          User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@id([userId, episodeId])
+  @@index([userId, rev])
+  @@map("listening")
+}
