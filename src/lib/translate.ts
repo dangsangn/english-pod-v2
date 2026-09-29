@@ -44,7 +44,10 @@ function saveCache(cache: Map<string, Translation>) {
 }
 
 /** MyMemory often returns "khách hàng." for "customers" — drop that full stop. */
-const tidy = (s: string | undefined) => String(s ?? '').trim().replace(/[.。]+$/, '')
+const tidy = (s: string | undefined) =>
+  String(s ?? '')
+    .trim()
+    .replace(/[.。]+$/, '')
 
 /**
  * Translate `text` (a word or short phrase). Resolves to { text }; throws on
@@ -61,8 +64,7 @@ export async function translate(text: string): Promise<Translation> {
   const cached = cache.get(key)
   if (cached) return cached
 
-  const url =
-    'https://api.mymemory.translated.net/get?langpair=en|vi&q=' + encodeURIComponent(key)
+  const url = 'https://api.mymemory.translated.net/get?langpair=en|vi&q=' + encodeURIComponent(key)
   const controller = new AbortController()
   const timer = setTimeout(() => controller.abort(), TIMEOUT_MS)
   let data: MyMemoryResponse

@@ -63,9 +63,7 @@ export default function WordList({ episode = null, initialFilter, onOpenEpisode 
   const [query, setQuery] = useState('')
   const [openId, setOpenId] = useState<string | null>(null)
 
-  const all = Object.values(srs.cards).filter(
-    (c) => !episode || c.episodeIds.includes(episode.id),
-  )
+  const all = Object.values(srs.cards).filter((c) => !episode || c.episodeIds.includes(episode.id))
   const countOf = (key: FilterKey) =>
     key === 'all'
       ? all.length
@@ -79,9 +77,7 @@ export default function WordList({ episode = null, initialFilter, onOpenEpisode 
       filter === 'all' ? true : filter === 'learned' ? c.state !== 'new' : stageOf(c) === filter,
     )
     .filter(
-      (c) =>
-        !q ||
-        [c.word, c.vi, c.def].some((text) => (text || '').toLowerCase().includes(q)),
+      (c) => !q || [c.word, c.vi, c.def].some((text) => (text || '').toLowerCase().includes(q)),
     )
     .sort(SORTERS[sort])
 
@@ -115,6 +111,7 @@ export default function WordList({ episode = null, initialFilter, onOpenEpisode 
         <div className='mt-3 flex gap-2 overflow-x-auto no-scrollbar -mx-4 px-4'>
           {FILTERS.map((f) => (
             <button
+              type='button'
               key={f.key}
               onClick={() => setFilter(f.key)}
               className={classNames(
@@ -132,6 +129,7 @@ export default function WordList({ episode = null, initialFilter, onOpenEpisode 
           <span className='text-zinc-400 mr-1'>Sắp xếp:</span>
           {SORTS.map((s) => (
             <button
+              type='button'
               key={s.key}
               onClick={() => setSort(s.key)}
               className={classNames(
@@ -186,6 +184,7 @@ function EpisodeHeader({ episode, counts, onOpenEpisode }: EpisodeHeaderProps) {
       </p>
       <h1 className='mt-1 text-3xl font-bold tracking-tight'>
         <button
+          type='button'
           onClick={() => onOpenEpisode(episode.id)}
           title='Nghe bài này'
           className='text-left hover:text-rose-600 dark:hover:text-rose-400 transition-colors'
@@ -200,6 +199,7 @@ function EpisodeHeader({ episode, counts, onOpenEpisode }: EpisodeHeaderProps) {
         </p>
         {counts.total > 0 && (
           <button
+            type='button'
             onClick={() => navigate(`vocab/study/${episode.id}`)}
             className='flex items-center gap-1.5 px-4 py-2 rounded-full text-sm font-semibold bg-rose-500 text-white hover:bg-rose-600 shadow-lg shadow-rose-500/25'
           >
@@ -229,6 +229,7 @@ function RelearnButton({ card, now }: { card: StoredCard; now: number }) {
 
   return (
     <button
+      type='button'
       onClick={() => relearnCard(card.id)}
       title='Đưa từ này vào lượt học tiếp theo'
       className='inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-[11px] font-semibold border bg-rose-50 text-rose-700 border-rose-200 hover:bg-rose-100 dark:bg-rose-500/10 dark:text-rose-300 dark:border-rose-500/30 dark:hover:bg-rose-500/20 transition-colors'
@@ -246,40 +247,50 @@ interface WordRowProps {
 }
 
 function WordRow({ card, now, open, onToggle }: WordRowProps) {
-
   let next: { text: string; tone: string }
   if (card.state === 'new') next = { text: 'Chưa học', tone: 'text-zinc-400' }
   else if (isDue(card, now)) next = { text: 'Cần ôn', tone: 'text-rose-500 font-semibold' }
-  else next = { text: `Ôn sau ${formatDelay(card.due - now)}`, tone: 'text-zinc-500 dark:text-zinc-400' }
+  else
+    next = {
+      text: `Ôn sau ${formatDelay(card.due - now)}`,
+      tone: 'text-zinc-500 dark:text-zinc-400',
+    }
 
   return (
     <li className='rounded-2xl bg-white dark:bg-zinc-900 border border-black/[0.03] dark:border-white/5'>
       <div className='flex items-start gap-3 p-3'>
         <button
+          type='button'
           onClick={() => speak(card.word)}
           title='Nghe phát âm'
           className='w-9 h-9 mt-0.5 flex-none rounded-full flex items-center justify-center bg-rose-50 text-rose-500 hover:bg-rose-100 dark:bg-rose-500/10 dark:text-rose-300 dark:hover:bg-rose-500/20'
         >
           <Volume2 size={16} />
         </button>
-        <button onClick={onToggle} className='flex-1 min-w-0 text-left'>
+        <button type='button' onClick={onToggle} className='flex-1 min-w-0 text-left'>
           <div className='min-w-0'>
             <p className='truncate'>
-              <span className='font-semibold text-emerald-600 dark:text-emerald-400'>{card.word}</span>
+              <span className='font-semibold text-emerald-600 dark:text-emerald-400'>
+                {card.word}
+              </span>
               {card.ipa && (
                 <span className='ml-2 text-xs text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</span>
               )}
             </p>
             {card.type && (
-              <p className='text-xs italic text-zinc-500 dark:text-zinc-400 truncate'>{card.type}</p>
+              <p className='text-xs italic text-zinc-500 dark:text-zinc-400 truncate'>
+                {card.type}
+              </p>
             )}
-            <p className='vi-text text-sm text-indigo-600 dark:text-indigo-400 truncate'>{card.vi}</p>
+            <p className='vi-text text-sm text-indigo-600 dark:text-indigo-400 truncate'>
+              {card.vi}
+            </p>
           </div>
         </button>
         {/* Top-right corner: Học lại, with when the word is next due below it. */}
         <div className='flex-none flex flex-col items-end gap-1'>
           {card.state !== 'new' && <RelearnButton card={card} now={now} />}
-          <button onClick={onToggle} className='flex items-center gap-1'>
+          <button type='button' onClick={onToggle} className='flex items-center gap-1'>
             <span className={classNames('text-[11px]', next.tone)}>{next.text}</span>
             <ChevronDown
               size={16}
@@ -297,7 +308,9 @@ function WordRow({ card, now, open, onToggle }: WordRowProps) {
                 <TappableText text={card.def} className='text-zinc-700 dark:text-zinc-300' />
               )}
               {card.viDef && (
-                <p className='vi-text text-indigo-600 dark:text-indigo-400 font-medium'>{card.viDef}</p>
+                <p className='vi-text text-indigo-600 dark:text-indigo-400 font-medium'>
+                  {card.viDef}
+                </p>
               )}
             </div>
           )}

@@ -53,6 +53,7 @@ export default function VocabApp({ route, episodes, onOpenEpisode }: VocabAppPro
         <div className='max-w-2xl mx-auto px-4 h-16 flex items-center justify-between gap-3'>
           {isSubPage ? (
             <button
+              type='button'
               onClick={() => navigate('vocab')}
               className='flex items-center gap-1 -ml-2 px-2 py-1.5 rounded-full text-sm font-medium text-zinc-600 dark:text-zinc-300 hover:bg-black/5 dark:hover:bg-white/10'
             >
@@ -60,6 +61,7 @@ export default function VocabApp({ route, episodes, onOpenEpisode }: VocabAppPro
             </button>
           ) : (
             <button
+              type='button'
               onClick={() => navigate('')}
               className='flex items-center gap-2 -ml-2 px-3 py-1.5 rounded-full text-sm font-medium text-zinc-600 dark:text-zinc-300 hover:bg-black/5 dark:hover:bg-white/10'
             >
@@ -73,11 +75,7 @@ export default function VocabApp({ route, episodes, onOpenEpisode }: VocabAppPro
       {page === 'decks' ? (
         <DeckBrowser episodes={episodes} onOpenEpisode={onOpenEpisode} />
       ) : episode ? (
-        <WordList
-          key={route}
-          episode={episode}
-          onOpenEpisode={onOpenEpisode}
-        />
+        <WordList key={route} episode={episode} onOpenEpisode={onOpenEpisode} />
       ) : page === 'words' ? (
         <WordList key={route} initialFilter={param} onOpenEpisode={onOpenEpisode} />
       ) : (

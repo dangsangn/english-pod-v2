@@ -38,6 +38,7 @@ export default function EpisodeVocabButton({ episode }: { episode: Episode }) {
 
   return (
     <button
+      type='button'
       onClick={open}
       disabled={state === 'loading'}
       className='inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-rose-100 text-rose-700 dark:bg-rose-500/20 dark:text-rose-300 border border-rose-200 dark:border-rose-500/30 hover:bg-rose-200 dark:hover:bg-rose-500/30 transition-colors disabled:opacity-60'

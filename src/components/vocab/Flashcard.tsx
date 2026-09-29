@@ -110,9 +110,7 @@ export default function Flashcard({ card, flipped, canSwipe, onFlip, onAnswer }:
               <h2 className='text-4xl sm:text-5xl font-bold tracking-tight break-words text-emerald-600 dark:text-emerald-400'>
                 {card.word}
               </h2>
-              {card.ipa && (
-                <p className='text-lg text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</p>
-              )}
+              {card.ipa && <p className='text-lg text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</p>}
             </div>
             <CardActions onAnswer={flyOut} onSpeak={say} />
             {!canSwipe && (
@@ -126,12 +124,14 @@ export default function Flashcard({ card, flipped, canSwipe, onFlip, onAnswer }:
             {/* min-h-0 + overflow: long definitions scroll inside the card
                 instead of pushing the footer off it. */}
             <div className='flex-1 min-h-0 overflow-y-auto flex flex-col items-center justify-center-safe text-center py-2'>
-              <h2 className='text-2xl font-bold tracking-tight break-words text-emerald-600 dark:text-emerald-400'>{card.word}</h2>
-              {card.ipa && (
-                <p className='text-sm text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</p>
-              )}
+              <h2 className='text-2xl font-bold tracking-tight break-words text-emerald-600 dark:text-emerald-400'>
+                {card.word}
+              </h2>
+              {card.ipa && <p className='text-sm text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</p>}
               {card.type && (
-                <p className='mt-0.5 text-xs italic text-zinc-500 dark:text-zinc-400'>{card.type}</p>
+                <p className='mt-0.5 text-xs italic text-zinc-500 dark:text-zinc-400'>
+                  {card.type}
+                </p>
               )}
               <div className='my-4 w-12 h-1 flex-none rounded-full bg-indigo-200 dark:bg-indigo-500/30' />
               <p className='vi-text text-3xl font-bold text-indigo-600 dark:text-indigo-400'>
@@ -145,7 +145,10 @@ export default function Flashcard({ card, flipped, canSwipe, onFlip, onAnswer }:
                     Definition
                   </p>
                   {card.def && (
-                    <TappableText text={card.def} className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300' />
+                    <TappableText
+                      text={card.def}
+                      className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300'
+                    />
                   )}
                   {card.viDef && (
                     <p className='vi-text mt-0.5 text-sm font-medium text-indigo-600 dark:text-indigo-400'>
@@ -179,7 +182,13 @@ export default function Flashcard({ card, flipped, canSwipe, onFlip, onAnswer }:
 }
 
 /** Chưa thuộc · Nghe phát âm · Đã thuộc — icon-only, one row. */
-function CardActions({ onAnswer, onSpeak }: { onAnswer: (rating: CardAnswer) => void; onSpeak: () => void }) {
+function CardActions({
+  onAnswer,
+  onSpeak,
+}: {
+  onAnswer: (rating: CardAnswer) => void
+  onSpeak: () => void
+}) {
   // Pointer-down must not reach the card, or pressing a button would start a
   // drag; click must not reach it either, or it would flip the card.
   const handle = (action: () => void) => (e: MouseEvent) => {
@@ -229,6 +238,7 @@ interface IconButtonProps {
 function IconButton({ label, onClick, className, children }: IconButtonProps) {
   return (
     <button
+      type='button'
       onClick={onClick}
       title={label}
       aria-label={label}

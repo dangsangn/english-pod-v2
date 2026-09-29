@@ -20,8 +20,12 @@ function hashToken(token: string) {
 
 export async function createSession(userId: string): Promise<string> {
   const token = randomBytes(32).toString('base64url')
+  const now = new Date()
+  // Nothing else ever removes an expired session, so a sign-in sweeps this
+  // user's; requireAuth drops the one it is shown.
+  await prisma.session.deleteMany({ where: { userId, expiresAt: { lte: now } } })
   await prisma.session.create({
-    data: { userId, tokenHash: hashToken(token), expiresAt: new Date(Date.now() + SESSION_MS) },
+    data: { userId, tokenHash: hashToken(token), expiresAt: new Date(now.getTime() + SESSION_MS) },
   })
   return token
 }
@@ -45,7 +49,12 @@ export function clearSessionCookie(req: Request, res: Response) {
 function readSessionCookie(req: Request): string | null {
   for (const part of (req.get('cookie') ?? '').split(';')) {
     const [name, ...value] = part.trim().split('=')
-    if (name === SESSION_COOKIE) return decodeURIComponent(value.join('='))
+    if (name !== SESSION_COOKIE) continue
+    try {
+      return decodeURIComponent(value.join('='))
+    } catch {
+      return null // Not one of ours (ours are base64url): treat as signed out.
+    }
   }
   return null
 }
@@ -58,6 +67,7 @@ export const requireAuth: RequestHandler = async (req, res, next) => {
   const session = await prisma.session.findUnique({ where: { tokenHash: hashToken(token) } })
   const now = Date.now()
   if (!session || session.expiresAt.getTime() <= now) {
+    if (session) await revokeSession(session.id)
     clearSessionCookie(req, res)
     throw new HttpError(401, 'unauthorized', 'Session expired')
   }

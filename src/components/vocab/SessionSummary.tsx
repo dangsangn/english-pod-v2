@@ -8,7 +8,13 @@ export interface SessionStats {
   learned: number
 }
 
-export default function SessionSummary({ stats, onExit }: { stats: SessionStats; onExit: () => void }) {
+export default function SessionSummary({
+  stats,
+  onExit,
+}: {
+  stats: SessionStats
+  onExit: () => void
+}) {
   // Frozen when the summary first shows, so the minutes don't keep ticking.
   const [endedAt] = useState(() => Date.now())
 
@@ -20,9 +26,7 @@ export default function SessionSummary({ stats, onExit }: { stats: SessionStats;
     )
   }
 
-  const remembered = Math.round(
-    ((stats.answers - stats.forgotten) / stats.answers) * 100,
-  )
+  const remembered = Math.round(((stats.answers - stats.forgotten) / stats.answers) * 100)
   const minutes = Math.max(1, Math.round((endedAt - stats.startedAt) / 60000))
 
   return (
@@ -54,6 +58,7 @@ function Screen({ emoji, title, onExit, children }: ScreenProps) {
       <h1 className='mt-6 text-3xl font-bold tracking-tight'>{title}</h1>
       <div className='mt-2 w-full text-zinc-500 dark:text-zinc-400'>{children}</div>
       <button
+        type='button'
         onClick={onExit}
         className='mt-10 w-full py-4 rounded-2xl bg-rose-500 hover:bg-rose-600 text-white font-bold shadow-lg shadow-rose-500/25'
       >

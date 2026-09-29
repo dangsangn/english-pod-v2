@@ -15,7 +15,10 @@ interface GoogleButtonOptions {
 interface GoogleIdentity {
   accounts: {
     id: {
-      initialize(config: { client_id: string; callback: (response: { credential: string }) => void }): void
+      initialize(config: {
+        client_id: string
+        callback: (response: { credential: string }) => void
+      }): void
       renderButton(element: HTMLElement, options: GoogleButtonOptions): void
     }
   }

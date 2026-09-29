@@ -25,7 +25,7 @@ export async function runSync(userId: string, { cursor, changes }: SyncRequest):
       if (changes.settings) await upsertSettings(tx, userId, changes.settings)
       await insertReviewLogs(tx, userId, changes.reviewLogs, resetAt)
       if (changes.legacyDays) await insertLegacyDays(tx, userId, changes.legacyDays)
-      return pull(tx, userId, cursor, resetAt)
+      return pull(tx, userId, cursor, resetAt, pushedKeys(changes))
     },
     { maxWait: 10_000, timeout: 30_000 },
   )
@@ -153,15 +153,50 @@ async function insertLegacyDays(tx: Tx, userId: string, legacy: NonNullable<Sync
     ON CONFLICT (user_id, import_id, day) DO NOTHING`
 }
 
-async function pull(tx: Tx, userId: string, cursor: number | null, resetAt: number): Promise<SyncResponse> {
+/** The rows a device just pushed, whichever way the merge went for each. */
+interface PushedKeys {
+  cardIds: string[]
+  episodeIds: number[]
+  settings: boolean
+}
+
+function pushedKeys(changes: SyncChanges): PushedKeys {
+  return {
+    cardIds: [...changes.cards.map((c) => c.id), ...changes.deletedCards.map((c) => c.id)],
+    episodeIds: [
+      ...changes.decks.map((d) => d.episodeId),
+      ...changes.deletedDecks.map((d) => d.episodeId),
+    ],
+    settings: changes.settings !== null,
+  }
+}
+
+async function pull(
+  tx: Tx,
+  userId: string,
+  cursor: number | null,
+  resetAt: number,
+  pushed: PushedKeys,
+): Promise<SyncResponse> {
   const since = BigInt(cursor ?? 0)
-  const changed = { userId, rev: { gt: since } }
   // A device syncing for the first time has nothing to delete.
   const live = cursor === null ? { deletedAt: null } : {}
+  const changed = { rev: { gt: since }, ...live }
 
-  const cards = await tx.card.findMany({ where: { ...changed, ...live } })
-  const decks = await tx.deck.findMany({ where: { ...changed, ...live } })
-  const settings = await tx.settings.findFirst({ where: changed })
+  // Besides what changed since the cursor, every row the device pushed comes
+  // back as the server now has it. A push that lost to a newer edit leaves no
+  // new rev, and when the device already pulled that edit (its clock being
+  // behind the other device's), the cursor alone would never send it again:
+  // the device would keep its losing copy. A row that won just echoes back.
+  const cards = await tx.card.findMany({
+    where: { userId, OR: [changed, { cardId: { in: pushed.cardIds } }] },
+  })
+  const decks = await tx.deck.findMany({
+    where: { userId, OR: [changed, { episodeId: { in: pushed.episodeIds } }] },
+  })
+  const settings = await tx.settings.findFirst({
+    where: pushed.settings ? { userId } : { userId, rev: { gt: since } },
+  })
 
   const revs = [...cards, ...decks, ...(settings ? [settings] : [])].map((row) => row.rev)
   const next = revs.reduce((max, rev) => (rev > max ? rev : max), since)

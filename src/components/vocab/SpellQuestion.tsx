@@ -105,6 +105,8 @@ export default function SpellQuestion({ card, onDone }: SpellQuestionProps) {
           <p className='mt-1 text-sm text-zinc-500 dark:text-zinc-400'>{card.def}</p>
         )}
 
+        {/* A tap anywhere on the cells focuses the input, which the keyboard reaches itself. */}
+        {/* eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-static-element-interactions */}
         <div onClick={focus} className='relative mt-6 cursor-text'>
           <div
             key={shakes}
@@ -167,9 +169,12 @@ export default function SpellQuestion({ card, onDone }: SpellQuestionProps) {
 
         {result && (
           <div className='mt-5 flex flex-wrap items-center justify-center gap-x-2 vocab-rise-in'>
-            <span className='text-lg font-bold text-emerald-600 dark:text-emerald-400'>{card.word}</span>
+            <span className='text-lg font-bold text-emerald-600 dark:text-emerald-400'>
+              {card.word}
+            </span>
             {card.ipa && <span className='text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</span>}
             <button
+              type='button'
               onClick={() => speak(card.word)}
               title='Nghe phát âm'
               aria-label='Nghe phát âm'
@@ -186,18 +191,21 @@ export default function SpellQuestion({ card, onDone }: SpellQuestionProps) {
       ) : (
         <div className='flex gap-2'>
           <button
+            type='button'
             onClick={hint}
             className='flex items-center gap-1.5 px-4 py-3.5 rounded-2xl border border-amber-200 bg-amber-50 text-amber-700 font-semibold dark:bg-amber-500/10 dark:text-amber-300 dark:border-amber-500/30 active:scale-[0.98] transition'
           >
             <Lightbulb size={18} /> Gợi ý
           </button>
           <button
+            type='button'
             onClick={giveUp}
             className='px-4 py-3.5 rounded-2xl border border-zinc-200 text-zinc-600 font-semibold dark:border-zinc-700 dark:text-zinc-300 active:scale-[0.98] transition'
           >
             Bỏ qua
           </button>
           <button
+            type='button'
             onClick={check}
             disabled={typed.length < answer.length}
             className='flex-1 py-3.5 rounded-2xl bg-zinc-900 text-white dark:bg-white dark:text-zinc-900 font-bold shadow-lg active:scale-[0.98] transition disabled:opacity-40'

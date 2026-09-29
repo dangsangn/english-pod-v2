@@ -48,7 +48,10 @@ export const STAGES: StageStyle[] = [
   },
 ]
 
-export const STAGE_BY_KEY = Object.fromEntries(STAGES.map((s) => [s.key, s])) as Record<Stage, StageStyle>
+export const STAGE_BY_KEY = Object.fromEntries(STAGES.map((s) => [s.key, s])) as Record<
+  Stage,
+  StageStyle
+>
 
 export const RATING_STYLES: Record<Rating, { label: string; key: string; className: string }> = {
   again: {

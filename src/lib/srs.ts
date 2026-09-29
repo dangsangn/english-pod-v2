@@ -89,7 +89,10 @@ export function cardContent(entry: VocabEntry): CardContent {
 
 /** One card per word: the same word appearing in several episodes is learnt once. */
 export function cardId(word: string | null | undefined): string {
-  return String(word ?? '').replace(/\s+/g, ' ').trim().toLowerCase()
+  return String(word ?? '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toLowerCase()
 }
 
 /** Return the card as it will be after answering with `rating` at `now`. */
@@ -160,8 +163,7 @@ function stepThrough<C extends Card>(
     case 'hard': {
       // Anki's rule: on the first step, Hard waits halfway between the first
       // two steps; afterwards it repeats the current step.
-      const delay =
-        step === 0 && steps.length > 1 ? (steps[0] + steps[1]) / 2 : steps[step]
+      const delay = step === 0 && steps.length > 1 ? (steps[0] + steps[1]) / 2 : steps[step]
       return { ...card, state, step, due: now + delay }
     }
     case 'good':

@@ -43,7 +43,13 @@ interface SyncMeta {
   legacyDays: { importId: string; days: Record<string, DayCounts> } | null
 }
 
-const EMPTY_META: SyncMeta = { ownerId: null, cursor: null, lastPushAt: null, lastSyncedAt: null, legacyDays: null }
+const EMPTY_META: SyncMeta = {
+  ownerId: null,
+  cursor: null,
+  lastPushAt: null,
+  lastSyncedAt: null,
+  legacyDays: null,
+}
 
 function loadMeta(): SyncMeta {
   try {
@@ -163,7 +169,8 @@ async function runSync(): Promise<boolean> {
     console.error('Sync failed:', error)
     setStatus({ state: 'error', error: (error as Error).message })
     const retryable =
-      error instanceof ApiError && (error.status === 0 || error.status === 429 || error.status >= 500)
+      error instanceof ApiError &&
+      (error.status === 0 || error.status === 429 || error.status >= 500)
     if (retryable) scheduleSync(RETRY_DELAYS_MS[Math.min(retries++, RETRY_DELAYS_MS.length - 1)])
     return false
   }
@@ -171,7 +178,6 @@ async function runSync(): Promise<boolean> {
 
 // ---------------------------------------------------------------------------
 // Signing in and out
-
 
 /** After the backend accepted a sign-in: decide what happens to local data, then sync. */
 async function completeSignIn(result: Auth) {

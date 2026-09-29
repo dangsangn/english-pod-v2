@@ -8,7 +8,9 @@
     "build": "tsc -b && vite build",
     "typecheck": "tsc -b",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "format": "prettier --write src",
+    "format:check": "prettier --check src"
   },
   "dependencies": {
     "babel-plugin-react-compiler": "^1.0.0",
@@ -27,10 +29,13 @@
     "@vitejs/plugin-react": "^5.2.0",
     "autoprefixer": "^10.4.22",
     "eslint": "^9.39.1",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.5.0",
     "postcss": "^8.5.6",
+    "prettier": "^3.9.9",
     "tailwindcss": "^4.1.17",
     "typescript": "~5.9",
     "typescript-eslint": "^8.71.0",

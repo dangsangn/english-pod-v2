@@ -8,8 +8,10 @@ import { ContinueButton, QuestionCard } from './QuestionParts'
 
 const OPTION_STYLES = {
   idle: 'bg-white border-zinc-200 hover:border-rose-300 hover:bg-rose-50 dark:bg-zinc-900 dark:border-zinc-700 dark:hover:bg-rose-500/10',
-  right: 'bg-emerald-50 border-emerald-400 text-emerald-700 dark:bg-emerald-500/10 dark:border-emerald-500/50 dark:text-emerald-300',
-  wrong: 'bg-rose-50 border-rose-400 text-rose-700 dark:bg-rose-500/10 dark:border-rose-500/50 dark:text-rose-300',
+  right:
+    'bg-emerald-50 border-emerald-400 text-emerald-700 dark:bg-emerald-500/10 dark:border-emerald-500/50 dark:text-emerald-300',
+  wrong:
+    'bg-rose-50 border-rose-400 text-rose-700 dark:bg-rose-500/10 dark:border-rose-500/50 dark:text-rose-300',
   dim: 'bg-white border-zinc-200 opacity-50 dark:bg-zinc-900 dark:border-zinc-700',
 }
 
@@ -80,6 +82,7 @@ export default function ChoiceQuestion({
       <QuestionCard label={listen ? 'Nghe và chọn từ đúng' : 'Chọn nghĩa đúng'}>
         {listen && !answered ? (
           <button
+            type='button'
             onClick={say}
             title='Nghe lại'
             aria-label='Nghe lại'
@@ -94,6 +97,7 @@ export default function ChoiceQuestion({
             </h2>
             {card.ipa && <p className='text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</p>}
             <button
+              type='button'
               onClick={say}
               title='Nghe phát âm'
               aria-label='Nghe phát âm'
@@ -102,7 +106,9 @@ export default function ChoiceQuestion({
               <Volume2 size={20} />
             </button>
             {listen && meaning && (
-              <p className='vi-text text-xl font-bold text-indigo-600 dark:text-indigo-400'>{meaning}</p>
+              <p className='vi-text text-xl font-bold text-indigo-600 dark:text-indigo-400'>
+                {meaning}
+              </p>
             )}
           </div>
         )}
@@ -120,6 +126,7 @@ export default function ChoiceQuestion({
           return (
             <li key={option}>
               <button
+                type='button'
                 disabled={answered}
                 onClick={() => pick(i)}
                 className={classNames(

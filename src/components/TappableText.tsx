@@ -38,9 +38,14 @@ export default function TappableText({ text, className }: TappableTextProps) {
   const card = lookup ? srs.cards[cardId(lookup.text)] : null
 
   return (
+    // Only stops events (see above); nothing here is a control of its own.
+    // eslint-disable-next-line jsx-a11y/no-noninteractive-element-interactions, jsx-a11y/click-events-have-key-events
     <p className={className} onPointerDown={stop} onPointerUp={stop} onClick={stop}>
       {parts.map((part, i) =>
         i % 2 === 1 ? (
+          // Tapping a word is a touch and mouse shortcut: the card already shows
+          // the meaning, and a tab stop per word would bury the card's controls.
+          // eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-static-element-interactions
           <span
             key={i}
             className={lookup?.index === i ? 'tap-word tap-word-active' : 'tap-word'}

@@ -60,6 +60,7 @@ export default function DeckBrowser({ episodes, onOpenEpisode }: DeckBrowserProp
         <div className='mt-3 flex gap-2 overflow-x-auto no-scrollbar -mx-4 px-4'>
           {levels.map((l) => (
             <button
+              type='button'
               key={l}
               onClick={() => setLevel(l)}
               className={classNames(
@@ -88,6 +89,7 @@ export default function DeckBrowser({ episodes, onOpenEpisode }: DeckBrowserProp
                 {episode.id}
               </div>
               <button
+                type='button'
                 onClick={() => onOpenEpisode(episode.id)}
                 title='Nghe bài này'
                 className='flex-1 min-w-0 text-left hover:text-rose-600 dark:hover:text-rose-400 transition-colors'
@@ -106,6 +108,7 @@ export default function DeckBrowser({ episodes, onOpenEpisode }: DeckBrowserProp
               </button>
               {added && (
                 <button
+                  type='button'
                   onClick={() => navigate(`vocab/episode/${episode.id}`)}
                   title='Danh sách từ vựng'
                   className='w-9 h-9 flex-none rounded-full flex items-center justify-center text-zinc-500 hover:text-rose-500 hover:bg-rose-50 dark:text-zinc-400 dark:hover:bg-rose-500/10'
@@ -114,6 +117,7 @@ export default function DeckBrowser({ episodes, onOpenEpisode }: DeckBrowserProp
                 </button>
               )}
               <button
+                type='button'
                 onClick={() => toggle(episode)}
                 disabled={state === 'loading'}
                 title={added ? 'Bỏ khỏi vườn' : 'Thêm vào vườn'}
@@ -136,9 +140,7 @@ export default function DeckBrowser({ episodes, onOpenEpisode }: DeckBrowserProp
           )
         })}
         {visible.length === 0 && (
-          <li className='py-12 text-center text-sm text-zinc-500'>
-            Không tìm thấy bài nào.
-          </li>
+          <li className='py-12 text-center text-sm text-zinc-500'>Không tìm thấy bài nào.</li>
         )}
       </ul>
     </main>

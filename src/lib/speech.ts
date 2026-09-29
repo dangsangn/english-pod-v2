@@ -74,7 +74,8 @@ function setPlaybackSession() {
 function silentWavUrl() {
   const samples = 8000
   const view = new DataView(new ArrayBuffer(44 + samples))
-  const text = (offset: number, s: string) => [...s].forEach((c, i) => view.setUint8(offset + i, c.charCodeAt(0)))
+  const text = (offset: number, s: string) =>
+    [...s].forEach((c, i) => view.setUint8(offset + i, c.charCodeAt(0)))
   text(0, 'RIFF')
   view.setUint32(4, 36 + samples, true)
   text(8, 'WAVE')
@@ -104,7 +105,9 @@ function silentClip() {
 
 /** The podcast player, if it is playing — then the session is playback already. */
 function otherMediaPlaying() {
-  return [...document.querySelectorAll<HTMLMediaElement>('audio, video')].some((m) => !m.paused && !m.ended)
+  return [...document.querySelectorAll<HTMLMediaElement>('audio, video')].some(
+    (m) => !m.paused && !m.ended,
+  )
 }
 
 let releaseTimer: ReturnType<typeof setTimeout> | undefined
@@ -189,7 +192,10 @@ export function unlockOnFirstGesture() {
       // Media elements also need one play() from a gesture before code may
       // start them. Start and stop straight away.
       const clip = silentClip()
-      clip.play().then(() => clip.pause(), () => {})
+      clip.play().then(
+        () => clip.pause(),
+        () => {},
+      )
     }
 
     const silent = new SpeechSynthesisUtterance('')

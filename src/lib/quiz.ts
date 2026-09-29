@@ -15,13 +15,11 @@ import type { Card, Rating } from './srs'
 export type QuestionKind = 'meaning' | 'spell' | 'listen'
 
 export type Question =
-  | { kind: 'spell' }
-  | { kind: 'meaning' | 'listen'; options: string[]; answerIndex: number }
+  { kind: 'spell' } | { kind: 'meaning' | 'listen'; options: string[]; answerIndex: number }
 
 /** A cell of a word being spelled: a letter to type, or a mark shown as is. */
 export type SpellToken =
-  | { type: 'letter'; char: string; index: number }
-  | { type: 'mark'; char: string }
+  { type: 'letter'; char: string; index: number } | { type: 'mark'; char: string }
 
 /** Only what the questions read from a card. */
 export type QuizCard = Pick<Card, 'id' | 'word' | 'type' | 'vi' | 'def' | 'episodeIds' | 'state'>

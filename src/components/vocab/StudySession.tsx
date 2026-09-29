@@ -97,12 +97,7 @@ export default function StudySession({ episodeId, episode, onExit }: SessionProp
 
   return (
     <div className='min-h-full flex flex-col max-w-xl mx-auto px-4'>
-      <SessionHeader
-        queue={queue}
-        cards={srs.cards}
-        answers={stats.answers}
-        onExit={onExit}
-      />
+      <SessionHeader queue={queue} cards={srs.cards} answers={stats.answers} onExit={onExit} />
 
       {episode && (
         <p className='text-center text-xs font-medium text-zinc-500 dark:text-zinc-400'>
@@ -128,6 +123,7 @@ export default function StudySession({ episodeId, episode, onExit }: SessionProp
               const style = RATING_STYLES[rating]
               return (
                 <button
+                  type='button'
                   key={rating}
                   onClick={() => rate(rating)}
                   className={classNames(
@@ -145,6 +141,7 @@ export default function StudySession({ episodeId, episode, onExit }: SessionProp
           </div>
         ) : (
           <button
+            type='button'
             onClick={flip}
             className='w-full py-4 rounded-2xl bg-zinc-900 text-white dark:bg-white dark:text-zinc-900 font-bold text-base shadow-lg active:scale-[0.99] transition'
           >

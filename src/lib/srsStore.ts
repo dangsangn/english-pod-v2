@@ -197,7 +197,11 @@ export function addDeck(episodeId: number, entries: VocabEntry[], now = Date.now
       const existing = cards[id]
       if (existing) {
         if (!existing.episodeIds.includes(episodeId)) {
-          cards[id] = { ...existing, episodeIds: [...existing.episodeIds, episodeId], updatedAt: now }
+          cards[id] = {
+            ...existing,
+            episodeIds: [...existing.episodeIds, episodeId],
+            updatedAt: now,
+          }
         }
         return
       }
@@ -366,9 +370,7 @@ export function buildQueue(s: SrsState, now: number, episodeId: number | null = 
     (c) => episodeId === null || c.episodeIds.includes(episodeId),
   )
   const due = inScope.filter((c) => isDue(c, now)).sort((a, b) => a.due - b.due)
-  const fresh = inScope
-    .filter((c) => c.state === 'new')
-    .sort((a, b) => a.addedAt - b.addedAt)
+  const fresh = inScope.filter((c) => c.state === 'new').sort((a, b) => a.addedAt - b.addedAt)
 
   const queue: string[] = []
   let d = 0
@@ -466,7 +468,9 @@ export function collectSrsChanges(since: number | null): SrsChanges {
       episodeId: Number(episodeId),
       deletedAt,
     })),
-    settings: changed(s.settingsUpdatedAt) ? { ...s.settings, updatedAt: s.settingsUpdatedAt } : null,
+    settings: changed(s.settingsUpdatedAt)
+      ? { ...s.settings, updatedAt: s.settingsUpdatedAt }
+      : null,
     reviewLogs: s.pendingLogs,
     resetAt: s.resetAt,
   }
@@ -498,7 +502,8 @@ export function applySyncResult(sent: SrsChanges, response: SyncResponse) {
       let decks = [...s.decks]
       const deckMeta = { ...s.deckMeta }
       const deckTombstones = { ...s.tombstones.decks }
-      const deckTime = (episodeId: number) => deckMeta[episodeId]?.updatedAt ?? deckTombstones[episodeId] ?? -1
+      const deckTime = (episodeId: number) =>
+        deckMeta[episodeId]?.updatedAt ?? deckTombstones[episodeId] ?? -1
       for (const { episodeId, addedAt, updatedAt } of changes.decks) {
         if (updatedAt < deckTime(episodeId)) continue
         deckMeta[episodeId] = { addedAt, updatedAt }

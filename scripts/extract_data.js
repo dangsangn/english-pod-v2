@@ -44,12 +44,10 @@ try {
         // Title format: "1. Elementary - Difficult Customer"
         // matches: (\d+)\.\s+(.*)
         const titleMatch = ep.title.match(/^(\d+)\.\s+(.*)/);
-        let id = index;
         let title = ep.title;
         let level = 'Unknown';
 
         if (titleMatch) {
-            // id = parseInt(titleMatch[1]); // Keep explicit ID if good, but index is safer for array access
             title = titleMatch[2]; // "Elementary - Difficult Customer"
         }
 

@@ -1,4 +1,5 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useId, useRef, useState } from 'react'
+import classNames from 'classnames'
 import { ChevronDown, Cloud, CloudCheck, CloudOff, Loader2, LogOut, RefreshCw } from 'lucide-react'
 import { apiEnabled } from '../lib/api'
 import { useAuth } from '../lib/auth'
@@ -110,6 +111,7 @@ function AccountMenu({ user, compact }: { user: User; compact: boolean }) {
   const [open, setOpen] = useState(false)
   const status = useSyncStatus()
   const rootRef = useRef<HTMLDivElement>(null)
+  const panelId = useId()
 
   useEffect(() => {
     if (!open) return
@@ -131,9 +133,11 @@ function AccountMenu({ user, compact }: { user: User; compact: boolean }) {
   return (
     <div ref={rootRef} className='relative'>
       <button
-        onClick={() => setOpen(!open)}
-        aria-haspopup='menu'
+        type='button'
+        onClick={() => setOpen((o) => !o)}
         aria-expanded={open}
+        aria-controls={panelId}
+        aria-label={`Tài khoản: ${user.name}`}
         title={user.name}
         className={
           compact
@@ -147,7 +151,7 @@ function AccountMenu({ user, compact }: { user: User; compact: boolean }) {
             <span className='max-w-32 truncate text-sm font-medium'>{user.name}</span>
             <ChevronDown
               size={16}
-              className={`text-zinc-400 transition-transform ${open ? 'rotate-180' : ''}`}
+              className={classNames('text-zinc-400 transition-transform', open && 'rotate-180')}
             />
           </>
         )}
@@ -157,7 +161,7 @@ function AccountMenu({ user, compact }: { user: User; compact: boolean }) {
         // Mobile: pinned to the viewport, since the avatar sits mid-row and a
         // menu anchored to it would run off the left edge. Desktop: under the pill.
         <div
-          role='menu'
+          id={panelId}
           className='fixed right-4 top-16 lg:absolute lg:right-0 lg:top-12 z-50 w-72 max-w-[calc(100vw-2rem)] rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-xl p-4 text-sm text-zinc-900 dark:text-zinc-100'
         >
           <div className='flex items-center gap-3'>
@@ -171,6 +175,7 @@ function AccountMenu({ user, compact }: { user: User; compact: boolean }) {
           <div className='mt-4 flex items-center gap-2 rounded-lg bg-zinc-50 dark:bg-zinc-800/60 py-1.5 pl-3 pr-1.5 text-xs text-zinc-600 dark:text-zinc-300'>
             <SyncStatus {...status} />
             <button
+              type='button'
               onClick={() => syncNow()}
               disabled={syncing}
               title='Đồng bộ ngay'
@@ -182,7 +187,7 @@ function AccountMenu({ user, compact }: { user: User; compact: boolean }) {
           </div>
 
           <button
-            role='menuitem'
+            type='button'
             onClick={() => logout()}
             className='mt-3 w-full flex items-center justify-center gap-2 rounded-lg border border-red-200 dark:border-red-900/50 px-3 py-2 text-sm font-medium text-red-600 dark:text-red-400 hover:bg-red-50 dark:hover:bg-red-950/30 transition-colors'
           >

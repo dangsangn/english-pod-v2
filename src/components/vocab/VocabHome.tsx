@@ -1,6 +1,17 @@
 import { useState } from 'react'
 import type { ReactNode } from 'react'
-import { ChevronRight, Flame, Gamepad2, Headphones, List, Play, Plus, Trash2, Volume2, VolumeX } from 'lucide-react'
+import {
+  ChevronRight,
+  Flame,
+  Gamepad2,
+  Headphones,
+  List,
+  Play,
+  Plus,
+  Trash2,
+  Volume2,
+  VolumeX,
+} from 'lucide-react'
 import classNames from 'classnames'
 import { navigate, useNow } from '../../lib/hooks'
 import { dayKey, formatDelay } from '../../lib/srs'
@@ -49,12 +60,8 @@ export default function VocabHome({ episodes, onOpenEpisode }: VocabHomeProps) {
   return (
     <main className='max-w-2xl mx-auto px-4 pb-16 space-y-8'>
       <section className='pt-2'>
-        <p className='text-sm font-medium text-rose-500 dark:text-rose-400'>
-          {greeting(now)}
-        </p>
-        <h1 className='mt-1 text-3xl font-bold tracking-tight'>
-          Vườn từ vựng
-        </h1>
+        <p className='text-sm font-medium text-rose-500 dark:text-rose-400'>{greeting(now)}</p>
+        <h1 className='mt-1 text-3xl font-bold tracking-tight'>Vườn từ vựng</h1>
       </section>
 
       {decks.length === 0 ? (
@@ -76,6 +83,7 @@ export default function VocabHome({ episodes, onOpenEpisode }: VocabHomeProps) {
             <div className='flex items-center justify-between'>
               <SectionTitle>Khu vườn của bạn</SectionTitle>
               <button
+                type='button'
                 onClick={() => navigate('vocab/words')}
                 className='flex items-center gap-1 -mt-3 px-3 py-1.5 rounded-full text-sm font-semibold text-rose-600 dark:text-rose-400 hover:bg-rose-100 dark:hover:bg-rose-500/10'
               >
@@ -93,6 +101,7 @@ export default function VocabHome({ episodes, onOpenEpisode }: VocabHomeProps) {
             <div className='flex items-center justify-between'>
               <SectionTitle>Bộ từ ({decks.length})</SectionTitle>
               <button
+                type='button'
                 onClick={() => navigate('vocab/decks')}
                 className='flex items-center gap-1 -mt-3 px-3 py-1.5 rounded-full text-sm font-semibold text-rose-600 dark:text-rose-400 hover:bg-rose-100 dark:hover:bg-rose-500/10'
               >
@@ -123,6 +132,7 @@ function StageTile({ stage, count }: { stage: StageStyle; count: number }) {
   const { Icon } = stage
   return (
     <button
+      type='button'
       onClick={() => navigate(`vocab/words/${stage.key}`)}
       className='text-left rounded-3xl bg-white dark:bg-zinc-900 p-4 shadow-sm shadow-rose-900/5 border border-black/[0.03] dark:border-white/5 hover:shadow-md hover:-translate-y-0.5 transition'
     >
@@ -155,7 +165,16 @@ interface TodayCardProps {
   canPlay: boolean
 }
 
-function TodayCard({ streak, doneToday, goal, due, fresh, ahead, nextDue, canPlay }: TodayCardProps) {
+function TodayCard({
+  streak,
+  doneToday,
+  goal,
+  due,
+  fresh,
+  ahead,
+  nextDue,
+  canPlay,
+}: TodayCardProps) {
   // Nothing is ever locked for the day: with nothing due or new, the button
   // reviews ahead of schedule instead (see buildQueue).
   const hasWork = due + fresh > 0
@@ -171,9 +190,7 @@ function TodayCard({ streak, doneToday, goal, due, fresh, ahead, nextDue, canPla
       <div className='relative flex items-center gap-5'>
         <ProgressRing value={progress}>
           <span className='text-xl font-bold tabular-nums'>{doneToday}</span>
-          <span className='text-[10px] uppercase tracking-wider opacity-80'>
-            lượt
-          </span>
+          <span className='text-[10px] uppercase tracking-wider opacity-80'>lượt</span>
         </ProgressRing>
 
         <div className='flex-1 min-w-0'>
@@ -196,6 +213,7 @@ function TodayCard({ streak, doneToday, goal, due, fresh, ahead, nextDue, canPla
 
       <div className='relative mt-6 flex gap-2'>
         <button
+          type='button'
           disabled={!canStudy}
           onClick={() => navigate('vocab/study')}
           className='flex-1 flex items-center justify-center gap-2 py-3.5 rounded-2xl bg-white text-rose-600 font-bold text-base shadow-lg shadow-rose-900/10 hover:scale-[1.01] active:scale-[0.99] transition-transform disabled:opacity-60 disabled:hover:scale-100 dark:bg-zinc-950 dark:text-rose-300'
@@ -204,6 +222,7 @@ function TodayCard({ streak, doneToday, goal, due, fresh, ahead, nextDue, canPla
           {hasWork ? 'Bắt đầu học' : 'Ôn thêm'}
         </button>
         <button
+          type='button'
           disabled={!canStudy || !canPlay}
           title={canPlay ? 'Ôn bằng trò chơi' : PLAY_NEEDS}
           onClick={() => navigate('vocab/play')}
@@ -258,6 +277,7 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
     <li className='rounded-3xl bg-white dark:bg-zinc-900 p-4 shadow-sm shadow-rose-900/5 border border-black/[0.03] dark:border-white/5'>
       <div className='flex items-start gap-3'>
         <button
+          type='button'
           onClick={() => onOpenEpisode(episode.id)}
           title='Nghe bài này'
           className='flex-1 min-w-0 flex items-start gap-3 text-left group'
@@ -268,7 +288,10 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
           <div className='flex-1 min-w-0'>
             <p className='font-semibold truncate group-hover:text-rose-600 dark:group-hover:text-rose-400 transition-colors'>
               {episode.title}
-              <Headphones size={13} className='inline ml-1.5 -mt-0.5 opacity-0 group-hover:opacity-70 transition-opacity' />
+              <Headphones
+                size={13}
+                className='inline ml-1.5 -mt-0.5 opacity-0 group-hover:opacity-70 transition-opacity'
+              />
             </p>
             <p className='text-xs text-zinc-500 dark:text-zinc-400'>
               {episode.level} · {counts.total} từ · {counts.bloom} đã nở hoa
@@ -278,12 +301,14 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
         {confirming ? (
           <div className='flex gap-1'>
             <button
+              type='button'
               onClick={() => removeDeck(episode.id)}
               className='px-3 py-1.5 rounded-full text-xs font-semibold bg-rose-600 text-white'
             >
               Xóa
             </button>
             <button
+              type='button'
               onClick={() => setConfirming(false)}
               className='px-3 py-1.5 rounded-full text-xs font-semibold bg-zinc-100 dark:bg-zinc-800'
             >
@@ -293,6 +318,7 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
         ) : (
           <div className='flex items-center gap-1'>
             <button
+              type='button'
               onClick={() => navigate(`vocab/episode/${episode.id}`)}
               title='Danh sách từ vựng'
               className='p-2 rounded-full text-zinc-500 hover:text-rose-500 hover:bg-rose-50 dark:text-zinc-400 dark:hover:bg-rose-500/10'
@@ -300,6 +326,7 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
               <List size={18} />
             </button>
             <button
+              type='button'
               onClick={() => setConfirming(true)}
               title='Xóa bộ từ'
               className='p-2 rounded-full text-zinc-400 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500/10'
@@ -307,6 +334,7 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
               <Trash2 size={16} />
             </button>
             <button
+              type='button'
               disabled={counts.total === 0 || !canPlay}
               title={canPlay ? 'Chơi với bộ từ này' : PLAY_NEEDS}
               onClick={() => navigate(`vocab/play/${episode.id}`)}
@@ -315,6 +343,7 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
               <Gamepad2 size={18} />
             </button>
             <button
+              type='button'
               disabled={counts.total === 0}
               title={toStudy ? 'Học bài này' : 'Ôn thêm bài này'}
               onClick={() => navigate(`vocab/study/${episode.id}`)}
@@ -355,6 +384,9 @@ function Settings({ settings }: { settings: SrsSettings }) {
       <SectionTitle>Cài đặt</SectionTitle>
       <div className='rounded-3xl bg-white dark:bg-zinc-900 divide-y divide-zinc-100 dark:divide-zinc-800 shadow-sm shadow-rose-900/5 border border-black/[0.03] dark:border-white/5'>
         <button
+          type='button'
+          role='switch'
+          aria-checked={settings.autoSpeak}
           onClick={() => updateSettings({ autoSpeak: !settings.autoSpeak })}
           className='w-full p-4 flex items-center justify-between text-left'
         >
@@ -381,10 +413,11 @@ function Settings({ settings }: { settings: SrsSettings }) {
   )
 }
 
-function EmptyGarden({ firstEpisode }: { firstEpisode: Episode }) {
-  const [status, setStatus] = useState('idle')
+function EmptyGarden({ firstEpisode }: { firstEpisode: Episode | undefined }) {
+  const [status, setStatus] = useState<'idle' | 'loading' | 'error'>('idle')
 
   const quickStart = async () => {
+    if (!firstEpisode) return
     setStatus('loading')
     try {
       await addEpisodeDeck(firstEpisode)
@@ -401,12 +434,13 @@ function EmptyGarden({ firstEpisode }: { firstEpisode: Episode }) {
       </div>
       <h2 className='mt-5 text-xl font-bold'>Khu vườn còn trống</h2>
       <p className='mt-2 text-sm text-zinc-500 dark:text-zinc-400 max-w-sm mx-auto'>
-        Chọn bài podcast để gieo hạt từ vựng. Mỗi ngày ôn một chút, từ sẽ nảy
-        mầm rồi nở hoa trong trí nhớ của bạn.
+        Chọn bài podcast để gieo hạt từ vựng. Mỗi ngày ôn một chút, từ sẽ nảy mầm rồi nở hoa trong
+        trí nhớ của bạn.
       </p>
       <div className='mt-6 flex flex-col sm:flex-row gap-3 justify-center'>
         {firstEpisode && (
           <button
+            type='button'
             onClick={quickStart}
             disabled={status === 'loading'}
             className='px-5 py-3 rounded-2xl bg-rose-500 hover:bg-rose-600 text-white font-semibold shadow-lg shadow-rose-500/25 disabled:opacity-60'
@@ -415,6 +449,7 @@ function EmptyGarden({ firstEpisode }: { firstEpisode: Episode }) {
           </button>
         )}
         <button
+          type='button'
           onClick={() => navigate('vocab/decks')}
           className='px-5 py-3 rounded-2xl bg-zinc-100 hover:bg-zinc-200 dark:bg-zinc-800 dark:hover:bg-zinc-700 font-semibold'
         >
@@ -422,9 +457,7 @@ function EmptyGarden({ firstEpisode }: { firstEpisode: Episode }) {
         </button>
       </div>
       {status === 'error' && (
-        <p className='mt-4 text-sm text-rose-600'>
-          Không tải được từ vựng. Thử lại sau nhé.
-        </p>
+        <p className='mt-4 text-sm text-rose-600'>Không tải được từ vựng. Thử lại sau nhé.</p>
       )}
     </section>
   )

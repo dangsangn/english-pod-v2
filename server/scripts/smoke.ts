@@ -83,6 +83,31 @@ await check('/me with an unknown session is 401', async () => {
   assert.equal(res.status, 401)
 })
 
+await check('/me with a malformed cookie is 401, not 500', async () => {
+  const res = await call('/me', { session: '%E0%A4%A' })
+  assert.equal(res.status, 401)
+})
+
+await check('an expired session is 401 and is deleted', async () => {
+  const expired = await createSession(user.id)
+  const row = await prisma.session.findFirstOrThrow({
+    where: { userId: user.id },
+    orderBy: { createdAt: 'desc' },
+  })
+  await prisma.session.update({ where: { id: row.id }, data: { expiresAt: new Date(0) } })
+  assert.equal((await call('/me', { session: expired })).status, 401)
+  assert.equal(await prisma.session.count({ where: { id: row.id } }), 0)
+})
+
+await check('signing in sweeps the user\'s expired sessions', async () => {
+  const stale = await prisma.session.create({
+    data: { userId: user.id, tokenHash: randomUUID(), expiresAt: new Date(0) },
+  })
+  const fresh = await createSession(user.id)
+  assert.equal(await prisma.session.count({ where: { id: stale.id } }), 0)
+  assert.equal((await call('/me', { session: fresh })).status, 200)
+})
+
 await check('/me returns the signed-in user', async () => {
   const res = await call('/me', { session })
   assert.equal(res.status, 200)
@@ -191,6 +216,20 @@ await check('the later edit of a card wins on both devices', async () => {
   assert.equal(b.changes.cards.find((c: { id: string }) => c.id === 'apple').reps, 1)
   const a = await sync(A)
   assert.equal(a.changes.cards.length, 0, 'the rejected edit must not bump rev')
+})
+
+await check('a push that loses is answered with the winner, even when already pulled', async () => {
+  // B's clock runs ahead: its edit is stamped 2500. A pulls it, then edits the
+  // card later in real time, but A's clock stamps that 2200, so it loses. A
+  // already holds B's rev, so only the echo of pushed rows can correct it.
+  await sync(B, { cards: [card('apple', 2500, { reps: 7 })] })
+  await sync(A)
+  const a = await sync(A, { cards: [card('apple', 2200, { reps: 9 })] })
+  const apple = a.changes.cards.find((c: { id: string }) => c.id === 'apple')
+  assert.ok(apple, 'the winning row must come back')
+  assert.equal(apple.reps, 7)
+  assert.equal(apple.updatedAt, 2500)
+  await sync(B) // keep B's cursor current for the checks below
 })
 
 await check('deleting a deck and a card reaches the other device', async () => {

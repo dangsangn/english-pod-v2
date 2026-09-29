@@ -26,6 +26,7 @@ export default function SessionHeader({ queue, cards, answers, onExit }: Session
   return (
     <header className='h-16 flex items-center gap-3'>
       <button
+        type='button'
         onClick={onExit}
         title='Thoát (Esc)'
         className='p-2 -ml-2 rounded-full text-zinc-500 hover:bg-black/5 dark:hover:bg-white/10'
@@ -39,9 +40,15 @@ export default function SessionHeader({ queue, cards, answers, onExit }: Session
         />
       </div>
       <div className='flex gap-2 text-sm font-bold tabular-nums'>
-        <span className='text-sky-500' title='Từ mới'>{remaining.new}</span>
-        <span className='text-rose-500' title='Đang học'>{remaining.learning}</span>
-        <span className='text-emerald-500' title='Cần ôn'>{remaining.review}</span>
+        <span className='text-sky-500' title='Từ mới'>
+          {remaining.new}
+        </span>
+        <span className='text-rose-500' title='Đang học'>
+          {remaining.learning}
+        </span>
+        <span className='text-emerald-500' title='Cần ôn'>
+          {remaining.review}
+        </span>
       </div>
     </header>
   )

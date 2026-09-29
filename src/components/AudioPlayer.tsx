@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import {
   Play,
   Pause,
@@ -15,8 +15,20 @@ import {
   RotateCw,
 } from 'lucide-react'
 import type { MouseEvent } from 'react'
+import classNames from 'classnames'
 import { getAudioSources } from '../lib/audioSources'
 import type { Episode } from '../types'
+
+const SPEEDS = [0.5, 0.75, 1, 1.25, 1.5, 2]
+const SKIP_SECONDS = 10
+const KEY_SEEK_SECONDS = 5
+
+function formatTime(time: number) {
+  if (!time || isNaN(time)) return '0:00'
+  const minutes = Math.floor(time / 60)
+  const seconds = Math.floor(time % 60)
+  return `${minutes}:${seconds.toString().padStart(2, '0')}`
+}
 
 interface AudioPlayerProps {
   episode: Episode
@@ -115,8 +127,7 @@ const AudioPlayer = ({
     }
 
     audio.addEventListener('loadedmetadata', onLoadedMetadata, { once: true })
-    return () =>
-      audio.removeEventListener('loadedmetadata', onLoadedMetadata)
+    return () => audio.removeEventListener('loadedmetadata', onLoadedMetadata)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentSrc, reloadNonce])
 
@@ -204,13 +215,24 @@ const AudioPlayer = ({
   }
 
   const handleSeek = (e: MouseEvent<HTMLDivElement>) => {
-    if (!audioRef.current) return
-    const width = e.currentTarget.clientWidth
-    const clickX = e.nativeEvent.offsetX
-    const duration = audioRef.current.duration
-    const newTime = (clickX / width) * duration
-    audioRef.current.currentTime = newTime
-    setProgress((newTime / duration) * 100)
+    const audio = audioRef.current
+    if (!audio || !audio.duration) return
+    // Measured against the bar itself: offsetX would be relative to whichever
+    // child was clicked.
+    const bar = e.currentTarget.getBoundingClientRect()
+    const fraction = Math.min(1, Math.max(0, (e.clientX - bar.left) / bar.width))
+    audio.currentTime = fraction * audio.duration
+    setProgress(fraction * 100)
+  }
+
+  const skip = (seconds: number) => {
+    const audio = audioRef.current
+    if (!audio) return
+    audio.currentTime = Math.min(audio.duration || 0, Math.max(0, audio.currentTime + seconds))
+  }
+
+  const cycleSpeed = () => {
+    setPlaybackRate((rate) => SPEEDS[(SPEEDS.indexOf(rate) + 1) % SPEEDS.length])
   }
 
   const handleEnded = () => {
@@ -226,15 +248,10 @@ const AudioPlayer = ({
     }
   }
 
-  const formatTime = (time: number) => {
-    if (!time || isNaN(time)) return '0:00'
-    const minutes = Math.floor(time / 60)
-    const seconds = Math.floor(time % 60)
-    return `${minutes}:${seconds.toString().padStart(2, '0')}`
-  }
-
   return (
     <div className='flex flex-col gap-4'>
+      {/* The transcript above is the text alternative; there is no caption track. */}
+      {/* eslint-disable-next-line jsx-a11y/media-has-caption */}
       <audio
         ref={audioRef}
         src={currentSrc}
@@ -257,6 +274,7 @@ const AudioPlayer = ({
             <span>Couldn&apos;t load this episode from any source.</span>
           </div>
           <button
+            type='button'
             onClick={handleRetry}
             className='flex shrink-0 items-center gap-1.5 rounded-md bg-red-600 px-3 py-1 text-xs font-semibold text-white transition-colors hover:bg-red-500'
           >
@@ -275,20 +293,11 @@ const AudioPlayer = ({
         aria-valuemin={0}
         aria-valuemax={100}
         aria-valuenow={Math.round(progress)}
+        aria-valuetext={`${formatTime(currentTime)} of ${formatTime(duration)}`}
         onClick={handleSeek}
         onKeyDown={(e) => {
-          if (!audioRef.current || !audioRef.current.duration) return
-          const dur = audioRef.current.duration
-          if (e.key === 'ArrowRight')
-            audioRef.current.currentTime = Math.min(
-              dur,
-              audioRef.current.currentTime + 5,
-            )
-          else if (e.key === 'ArrowLeft')
-            audioRef.current.currentTime = Math.max(
-              0,
-              audioRef.current.currentTime - 5,
-            )
+          if (e.key === 'ArrowRight') skip(KEY_SEEK_SECONDS)
+          else if (e.key === 'ArrowLeft') skip(-KEY_SEEK_SECONDS)
         }}
       >
         <div className='h-1.5 bg-zinc-200 dark:bg-zinc-700/50 rounded-full overflow-hidden relative'>
@@ -309,34 +318,43 @@ const AudioPlayer = ({
         <div className='flex items-center gap-4 lg:gap-6 md:w-1/3'>
           {/* Skip Buttons */}
           <button
+            type='button'
             className='text-zinc-400 hover:text-indigo-600 dark:hover:text-white transition-colors p-2'
-            onClick={() => {
-              if (audioRef.current) audioRef.current.currentTime -= 10
-            }}
+            onClick={() => skip(-SKIP_SECONDS)}
             title='-10s'
+            aria-label='Back 10 seconds'
           >
             <Rewind size={20} />
           </button>
 
           {/* Prev Episode */}
           <button
-            className={`text-zinc-400 transition-colors p-2 ${hasPrev ? 'hover:text-indigo-600 dark:hover:text-white' : 'opacity-30 cursor-not-allowed'}`}
+            type='button'
+            className={classNames(
+              'text-zinc-400 transition-colors p-2',
+              hasPrev
+                ? 'hover:text-indigo-600 dark:hover:text-white'
+                : 'opacity-30 cursor-not-allowed',
+            )}
             onClick={onPrev}
             disabled={!hasPrev}
             title='Previous Episode'
+            aria-label='Previous Episode'
           >
             <SkipBack size={24} />
           </button>
 
           {/* Play/Pause */}
           <button
+            type='button'
             onClick={togglePlay}
+            aria-label={isPlaying ? 'Pause' : 'Play'}
             className='p-4 bg-indigo-600 dark:bg-white text-white dark:text-zinc-900 rounded-full hover:scale-105 transition-transform shadow-lg shadow-indigo-500/30 dark:shadow-white/10'
           >
             {isBuffering ? (
               <Loader2 size={20} className='animate-spin' />
             ) : isPlaying ? (
-              <Pause size={20} fill='currentColor' className='' />
+              <Pause size={20} fill='currentColor' />
             ) : (
               <Play size={20} fill='currentColor' className='ml-1' />
             )}
@@ -344,21 +362,28 @@ const AudioPlayer = ({
 
           {/* Next Episode */}
           <button
-            className={`text-zinc-400 transition-colors p-2 ${hasNext ? 'hover:text-indigo-600 dark:hover:text-white' : 'opacity-30 cursor-not-allowed'}`}
+            type='button'
+            className={classNames(
+              'text-zinc-400 transition-colors p-2',
+              hasNext
+                ? 'hover:text-indigo-600 dark:hover:text-white'
+                : 'opacity-30 cursor-not-allowed',
+            )}
             onClick={onNext}
             disabled={!hasNext}
             title='Next Episode'
+            aria-label='Next Episode'
           >
             <SkipForward size={24} />
           </button>
 
           {/* Skip Forward */}
           <button
+            type='button'
             className='text-zinc-400 hover:text-indigo-600 dark:hover:text-white transition-colors p-2'
-            onClick={() => {
-              if (audioRef.current) audioRef.current.currentTime += 10
-            }}
+            onClick={() => skip(SKIP_SECONDS)}
             title='+10s'
+            aria-label='Forward 10 seconds'
           >
             <FastForward size={20} />
           </button>
@@ -368,34 +393,45 @@ const AudioPlayer = ({
         <div className='flex items-center justify-end gap-4 md:w-1/3'>
           {/* Loop Toggle */}
           <button
-            onClick={() => setIsLooping(!isLooping)}
-            className={`p-2 rounded-lg transition-colors ${isLooping ? 'text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30' : 'text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300'}`}
+            type='button'
+            onClick={() => setIsLooping((on) => !on)}
+            aria-pressed={isLooping}
+            className={classNames(
+              'p-2 rounded-lg transition-colors',
+              isLooping
+                ? 'text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30'
+                : 'text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300',
+            )}
             title='Loop Episode'
+            aria-label='Loop Episode'
           >
             <Repeat size={18} />
           </button>
 
           {/* Autoplay Toggle */}
           <button
-            onClick={() => setAutoPlayNext(!autoPlayNext)}
-            className={`p-2 rounded-lg transition-colors ${autoPlayNext ? 'text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30' : 'text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300'}`}
+            type='button'
+            onClick={() => setAutoPlayNext((on) => !on)}
+            aria-pressed={autoPlayNext}
+            className={classNames(
+              'p-2 rounded-lg transition-colors',
+              autoPlayNext
+                ? 'text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-900/30'
+                : 'text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300',
+            )}
             title='Autoplay Next'
+            aria-label='Autoplay Next'
           >
-            <ArrowRightCircle
-              size={18}
-              className={autoPlayNext ? '' : 'opacity-50'}
-            />
+            <ArrowRightCircle size={18} className={autoPlayNext ? '' : 'opacity-50'} />
           </button>
 
           {/* Playback Speed */}
           <button
-            onClick={() => {
-              const speeds = [0.5, 0.75, 1, 1.25, 1.5, 2]
-              const idx = speeds.indexOf(playbackRate)
-              setPlaybackRate(speeds[(idx + 1) % speeds.length])
-            }}
+            type='button'
+            onClick={cycleSpeed}
             className='w-12 text-xs font-bold text-zinc-500 hover:text-indigo-600 dark:text-zinc-400 dark:hover:text-white transition-colors border border-zinc-200 dark:border-zinc-700/50 rounded px-1 py-0.5 hover:border-indigo-500 dark:hover:border-indigo-400'
             title='Playback Speed'
+            aria-label={`Playback speed ${playbackRate}x`}
           >
             {playbackRate}x
           </button>
@@ -403,14 +439,12 @@ const AudioPlayer = ({
           {/* Volume Control */}
           <div className='hidden md:flex items-center gap-2 group'>
             <button
-              onClick={() => setIsMuted(!isMuted)}
+              type='button'
+              onClick={() => setIsMuted((muted) => !muted)}
+              aria-label={isMuted ? 'Unmute' : 'Mute'}
               className='text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300'
             >
-              {isMuted || volume === 0 ? (
-                <VolumeX size={20} />
-              ) : (
-                <Volume2 size={20} />
-              )}
+              {isMuted || volume === 0 ? <VolumeX size={20} /> : <Volume2 size={20} />}
             </button>
             <div className='w-0 overflow-hidden group-hover:w-20 transition-all duration-300 ease-in-out'>
               <input

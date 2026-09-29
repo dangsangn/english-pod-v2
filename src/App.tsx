@@ -1,4 +1,6 @@
-import { useState, useMemo } from 'react'
+import { useState } from 'react'
+import { BookOpen, Flower2, Menu, X } from 'lucide-react'
+import classNames from 'classnames'
 import EpisodeList from './components/EpisodeList'
 import AudioPlayer from './components/AudioPlayer'
 import Transcript from './components/Transcript'
@@ -11,9 +13,7 @@ import EpisodeVocabButton from './components/vocab/EpisodeVocabButton'
 import AccountButton from './components/AccountButton'
 import { getSrsState, updateSettings, useSrs } from './lib/srsStore'
 import { navigate, useHashRoute } from './lib/hooks'
-import { BookOpen, Flower2 } from 'lucide-react'
 import type { Episode } from './types'
-// We will import data, assuming it exists (might need to handle if script hasn't finished, but we know it generated episodes.json)
 import episodesJson from './data/episodes.json'
 
 const episodesData: Episode[] = episodesJson
@@ -56,36 +56,26 @@ function AppContent() {
   const route = useHashRoute()
   const isVocabOpen = route === 'vocab' || route.startsWith('vocab/')
 
-  const currentEpisode = useMemo(
-    () =>
-      episodesData.find((ep) => ep.id === currentEpisodeId) || episodesData[0],
-    [currentEpisodeId],
+  // An unknown id (e.g. an episode since removed) falls back to the first one.
+  const currentIndex = Math.max(
+    0,
+    episodesData.findIndex((ep) => ep.id === currentEpisodeId),
   )
+  const currentEpisode = episodesData[currentIndex]
+  const hasNext = currentIndex < episodesData.length - 1
+  const hasPrev = currentIndex > 0
 
   const handleNextEpisode = () => {
-    const currentIndex = episodesData.findIndex(
-      (ep) => ep.id === currentEpisodeId,
-    )
-    if (currentIndex < episodesData.length - 1) {
-      openEpisode(episodesData[currentIndex + 1].id)
-    }
+    if (hasNext) openEpisode(episodesData[currentIndex + 1].id)
   }
 
   const handlePreviousEpisode = () => {
-    const currentIndex = episodesData.findIndex(
-      (ep) => ep.id === currentEpisodeId,
-    )
-    if (currentIndex > 0) {
-      openEpisode(episodesData[currentIndex - 1].id)
-    }
+    if (hasPrev) openEpisode(episodesData[currentIndex - 1].id)
   }
 
   return (
     <div className='flex h-screen overflow-hidden bg-zinc-50 dark:bg-black text-zinc-900 dark:text-zinc-100 transition-colors duration-300 relative selection:bg-indigo-100 selection:text-indigo-900 dark:selection:bg-indigo-900 dark:selection:text-indigo-100'>
-      <UserGuideModal
-        isOpen={isGuideOpen}
-        onClose={() => setIsGuideOpen(false)}
-      />
+      <UserGuideModal isOpen={isGuideOpen} onClose={() => setIsGuideOpen(false)} />
 
       {/* Rendered over the podcast view, which stays mounted so the player keeps its
           place; the player pauses while this is open and resumes after (see `suspended`). */}
@@ -93,7 +83,7 @@ function AppContent() {
         <VocabApp
           route={route}
           episodes={episodesData}
-          onOpenEpisode={(id: number) => {
+          onOpenEpisode={(id) => {
             openEpisode(id)
             navigate('')
           }}
@@ -110,6 +100,7 @@ function AppContent() {
       <div className='lg:hidden fixed top-4 right-4 z-50 flex gap-2'>
         <AccountButton compact />
         <button
+          type='button'
           onClick={() => navigate('vocab')}
           className='p-2 bg-rose-500 rounded-full shadow-lg text-white hover:bg-rose-600 transition-colors'
           title='Vocabulary'
@@ -117,6 +108,7 @@ function AppContent() {
           <Flower2 size={20} />
         </button>
         <button
+          type='button'
           onClick={() => setIsGuideOpen(true)}
           className='p-2 bg-emerald-600 rounded-full shadow-lg text-white hover:bg-emerald-700 transition-colors'
           title='User Guide'
@@ -125,20 +117,25 @@ function AppContent() {
         </button>
         <ThemeToggle />
         <button
-          onClick={() => setIsSidebarOpen(!isSidebarOpen)}
+          type='button'
+          onClick={() => setIsSidebarOpen((open) => !open)}
+          aria-expanded={isSidebarOpen}
+          aria-controls='episode-sidebar'
+          aria-label={isSidebarOpen ? 'Close episode list' : 'Open episode list'}
           className='w-9 h-9 flex items-center justify-center p-2 bg-indigo-600 rounded-full shadow-lg text-white hover:bg-indigo-700 transition-colors'
         >
-          {isSidebarOpen ? '✕' : '☰'}
+          {isSidebarOpen ? <X size={18} /> : <Menu size={18} />}
         </button>
       </div>
 
       {/* Sidebar: Episode List */}
-      <div
-        className={`
-        fixed inset-y-0 left-0 z-40 w-80 transform transition-transform duration-300 ease-in-out lg:translate-x-0 lg:static lg:w-96
-        glass-panel border-r border-zinc-200 dark:border-zinc-800/50 flex flex-col
-        ${isSidebarOpen ? 'translate-x-0' : '-translate-x-full'}
-      `}
+      <aside
+        id='episode-sidebar'
+        className={classNames(
+          'fixed inset-y-0 left-0 z-40 w-80 transform transition-transform duration-300 ease-in-out lg:translate-x-0 lg:static lg:w-96',
+          'glass-panel border-r border-zinc-200 dark:border-zinc-800/50 flex flex-col',
+          isSidebarOpen ? 'translate-x-0' : '-translate-x-full',
+        )}
       >
         <div className='p-6 border-b border-zinc-200 dark:border-zinc-800/50 flex justify-between items-start bg-white/50 dark:bg-transparent'>
           <div>
@@ -157,6 +154,7 @@ function AppContent() {
             </p>
 
             <button
+              type='button'
               onClick={() => setIsGuideOpen(true)}
               className='mt-4 flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-emerald-700 dark:text-emerald-300 bg-emerald-100 dark:bg-emerald-900/30 border border-emerald-200 dark:border-emerald-800/50 rounded-full hover:bg-emerald-200 dark:hover:bg-emerald-900/50 transition-colors'
             >
@@ -165,6 +163,7 @@ function AppContent() {
             </button>
 
             <button
+              type='button'
               onClick={() => navigate('vocab')}
               className='mt-2 flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-rose-700 dark:text-rose-300 bg-rose-100 dark:bg-rose-900/30 border border-rose-200 dark:border-rose-800/50 rounded-full hover:bg-rose-200 dark:hover:bg-rose-900/50 transition-colors'
             >
@@ -179,13 +178,13 @@ function AppContent() {
 
         <EpisodeList
           episodes={episodesData}
-          currentId={currentEpisodeId}
-          onSelect={(id: number) => {
+          currentId={currentEpisode.id}
+          onSelect={(id) => {
             openEpisode(id)
             setIsSidebarOpen(false)
           }}
         />
-      </div>
+      </aside>
 
       {/* Main Content */}
       <div className='flex-1 flex flex-col relative w-full lg:w-auto h-full overflow-hidden bg-white/30 dark:bg-transparent'>
@@ -224,13 +223,8 @@ function AppContent() {
                 onPlayingChange={setIsPlaying}
                 onNext={handleNextEpisode}
                 onPrev={handlePreviousEpisode}
-                hasNext={
-                  episodesData.findIndex((ep) => ep.id === currentEpisodeId) <
-                  episodesData.length - 1
-                }
-                hasPrev={
-                  episodesData.findIndex((ep) => ep.id === currentEpisodeId) > 0
-                }
+                hasNext={hasNext}
+                hasPrev={hasPrev}
               />
             </div>
           </div>

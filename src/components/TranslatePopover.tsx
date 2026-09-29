@@ -96,9 +96,7 @@ export default function TranslatePopover({
   )
   // Below the word unless it sits in the lower part of the screen.
   const below = rect.bottom < window.innerHeight * 0.6
-  const position = below
-    ? { top: rect.bottom + 8 }
-    : { bottom: window.innerHeight - rect.top + 8 }
+  const position = below ? { top: rect.bottom + 8 } : { bottom: window.innerHeight - rect.top + 8 }
 
   const ready = result.key === target.text
 
@@ -119,11 +117,10 @@ export default function TranslatePopover({
           <p className='font-bold text-lg leading-tight text-emerald-600 dark:text-emerald-400 break-words'>
             {target.text}
           </p>
-          {entry?.ipa && (
-            <p className='text-sm text-zinc-400 dark:text-zinc-500'>/{entry.ipa}/</p>
-          )}
+          {entry?.ipa && <p className='text-sm text-zinc-400 dark:text-zinc-500'>/{entry.ipa}/</p>}
         </div>
         <button
+          type='button'
           onClick={() => speak(target.text)}
           title='Nghe phát âm'
           aria-label='Nghe phát âm'
@@ -132,6 +129,7 @@ export default function TranslatePopover({
           <Volume2 size={18} />
         </button>
         <button
+          type='button'
           onClick={onClose}
           title='Đóng'
           aria-label='Đóng'

@@ -32,20 +32,12 @@ const Transcript = ({ episode }: { episode: Episode }) => {
   const activeWordRef = useRef<HTMLElement | null>(null)
 
   const swrKey =
-    isVisible && episode.transcript_id
-      ? `./transcripts/${episode.transcript_id}.html`
-      : null
+    isVisible && episode.transcript_id ? `./transcripts/${episode.transcript_id}.html` : null
 
-  const {
-    data: content,
-    error,
-    isLoading: loading,
-  } = useSWR(swrKey, transcriptFetcher)
+  const { data: content, error, isLoading: loading } = useSWR(swrKey, transcriptFetcher)
 
   const { data: vocab } = useSWR(
-    isVisible && episode.transcript_id
-      ? `./vocab/${episode.transcript_id}.json`
-      : null,
+    isVisible && episode.transcript_id ? `./vocab/${episode.transcript_id}.json` : null,
     vocabFetcher,
   )
 
@@ -66,22 +58,11 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     contentRef.current.innerHTML = sanitized
 
     // Decorate first: it fills in the words the source HTML left blank, so
-    // those rows get a click-to-speak handler too.
+    // those rows can be clicked to speak too.
     if (vocab) decorateVocab(contentRef.current, vocab)
 
     // Every dialogue word becomes tappable for a translation.
     wrapDialogueWords(contentRef.current)
-
-    // Click a vocabulary word to hear it. Vocabulary data is not required for this.
-    contentRef.current.querySelectorAll<HTMLElement>('.word').forEach((wordEl) => {
-      // dataset.speak is the bare word; textContent would include the IPA.
-      const wordText = wordEl.dataset.speak || wordEl.textContent?.trim()
-      if (!wordText) return
-      wordEl.onclick = (e) => {
-        e.stopPropagation()
-        speak(wordText)
-      }
-    })
   }, [content, loading, vocab])
 
   const closeLookup = () => {
@@ -110,11 +91,23 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     return true
   }
 
+  // One handler for the whole transcript, since its HTML is injected rather
+  // than rendered by React.
   const onContentClick = (e: MouseEvent<HTMLDivElement>) => {
+    const target = e.target as Element
+
+    // A vocabulary word is spoken; vocabulary data is not required for this.
+    // dataset.speak is the bare word, where textContent would include the IPA.
+    const vocabWord = target.closest<HTMLElement>('.word')
+    if (vocabWord) {
+      const text = vocabWord.dataset.speak || vocabWord.textContent?.trim()
+      if (text) speak(text)
+      return
+    }
+
     if (onSelectEnd()) return
-    const wordEl = (e.target as Element).closest?.<HTMLElement>('.tap-word')
-    if (!wordEl) return
-    openLookup(wordEl.textContent ?? '', wordEl.getBoundingClientRect(), wordEl)
+    const tapWord = target.closest<HTMLElement>('.tap-word')
+    if (tapWord) openLookup(tapWord.textContent ?? '', tapWord.getBoundingClientRect(), tapWord)
   }
 
   // This episode's own translation, when the looked-up text is one of its
@@ -124,14 +117,15 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     : null
 
   return (
-    <div className="glass-card rounded-2xl p-6 lg:p-8 -mx-4 lg:mx-0">
-      <div className="flex items-center justify-between mb-6">
-        <h3 className="text-lg font-semibold text-zinc-700 dark:text-zinc-300">
+    <div className='glass-card rounded-2xl p-6 lg:p-8 -mx-4 lg:mx-0'>
+      <div className='flex items-center justify-between mb-6'>
+        <h3 className='text-lg font-semibold text-zinc-700 dark:text-zinc-300'>
           Transcript / Notes
         </h3>
         <button
+          type='button'
           onClick={() => setIsVisible(!isVisible)}
-          className="flex items-center gap-2 px-4 py-2 rounded-lg bg-white/50 dark:bg-zinc-800 hover:bg-white dark:hover:bg-zinc-700 transition-colors text-sm font-medium border border-zinc-200 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200"
+          className='flex items-center gap-2 px-4 py-2 rounded-lg bg-white/50 dark:bg-zinc-800 hover:bg-white dark:hover:bg-zinc-700 transition-colors text-sm font-medium border border-zinc-200 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200'
         >
           {isVisible ? (
             <>
@@ -146,25 +140,28 @@ const Transcript = ({ episode }: { episode: Episode }) => {
       </div>
 
       {isVisible && (
-        <div className="animate-in fade-in slide-in-from-top-4 duration-300">
+        <div className='animate-in fade-in slide-in-from-top-4 duration-300'>
           {loading && (
-            <div className="flex justify-center py-12">
-              <div className="w-8 h-8 border-4 border-indigo-500/30 border-t-indigo-500 rounded-full animate-spin"></div>
+            <div className='flex justify-center py-12'>
+              <div className='w-8 h-8 border-4 border-indigo-500/30 border-t-indigo-500 rounded-full animate-spin'></div>
             </div>
           )}
 
           {error && (
-            <div className="p-4 bg-red-50 dark:bg-red-500/10 border border-red-200 dark:border-red-500/20 rounded-lg text-red-600 dark:text-red-400 text-sm text-center">
+            <div className='p-4 bg-red-50 dark:bg-red-500/10 border border-red-200 dark:border-red-500/20 rounded-lg text-red-600 dark:text-red-400 text-sm text-center'>
               Could not load transcript for this episode.
             </div>
           )}
 
           {!loading && !error && (
             <>
+              {/* Delegated clicks on the injected HTML: tapping a word is a touch and
+                  mouse shortcut, and the text itself stays readable without it. */}
+              {/* eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-static-element-interactions */}
               <div
                 ref={contentRef}
                 onClick={onContentClick}
-                className="prose prose-zinc dark:prose-invert max-w-none text-zinc-700 dark:text-zinc-300 transcript-content"
+                className='prose prose-zinc dark:prose-invert max-w-none text-zinc-700 dark:text-zinc-300 transcript-content'
               />
             </>
           )}
@@ -172,16 +169,12 @@ const Transcript = ({ episode }: { episode: Episode }) => {
       )}
 
       {lookup && isVisible && (
-        <TranslatePopover
-          target={lookup}
-          entry={lookupEntry}
-          onClose={closeLookup}
-        />
+        <TranslatePopover target={lookup} entry={lookupEntry} onClose={closeLookup} />
       )}
 
       {!isVisible && (
-        <div className="text-center py-12 text-zinc-500 dark:text-zinc-500">
-          <p>Click "Show" to view the transcript and vocabulary notes.</p>
+        <div className='text-center py-12 text-zinc-500 dark:text-zinc-500'>
+          <p>Click “Show” to view the transcript and vocabulary notes.</p>
         </div>
       )}
     </div>
