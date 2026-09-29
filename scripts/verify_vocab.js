@@ -11,7 +11,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { readEpisodeItems } from './build_vocab.js';
-import { normalizeText, vocabKey } from '../src/lib/vocabulary.js';
+import { normalizeText, vocabKey } from '../src/lib/vocabulary.ts';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

@@ -1,5 +1,5 @@
 /**
- * Checks the vocabulary games' questions (src/lib/quiz.js) against every
+ * Checks the vocabulary games' questions (src/lib/quiz.ts) against every
  * generated vocab file, building them the way the app does. Reports each
  * problem by word so it can be looked at directly.
  *
@@ -10,7 +10,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { cardId } from '../src/lib/srs.js';
+import { cardId } from '../src/lib/srs.ts';
 import {
     allowedKinds,
     buildChoices,
@@ -22,7 +22,7 @@ import {
     maskWord,
     meaningOf,
     pickKind,
-} from '../src/lib/quiz.js';
+} from '../src/lib/quiz.ts';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -72,7 +72,7 @@ function loadCards() {
     return [...cards.values()];
 }
 
-/** Same split as quiz.js uses, so the check does not depend on its internals. */
+/** Same split as quiz.ts uses, so the check does not depend on its internals. */
 function senses(text) {
     return String(text).split(/[,;]/).map(comparable).filter(Boolean);
 }

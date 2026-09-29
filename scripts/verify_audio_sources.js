@@ -14,7 +14,7 @@ import fs from 'fs';
 import path from 'path';
 import https from 'https';
 import { fileURLToPath } from 'url';
-import { getAudioSources, AUDIO_REPO, AUDIO_REF } from '../src/lib/audioSources.js';
+import { getAudioSources, AUDIO_REPO, AUDIO_REF } from '../src/lib/audioSources.ts';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

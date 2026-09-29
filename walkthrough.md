@@ -53,4 +53,4 @@ I have created a GitHub Actions workflow at `.github/workflows/deploy.yml`.
 
 ## Next Steps
 - You can customize the look solely by editing `src/index.css`.
-- Add more visualization or features to `src/components/AudioPlayer.jsx` (e.g., playback speed).
+- Add more visualization or features to `src/components/AudioPlayer.tsx` (e.g., playback speed).

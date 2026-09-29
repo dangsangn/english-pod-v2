@@ -135,7 +135,7 @@ async function main() {
         console.warn(`\nWARNING: no audio found for ${unmapped.length} episodes: ${unmapped.join(', ')}`);
     }
     console.log(`\nWrote ${EPISODES_PATH}`);
-    console.log(`Set REF in src/lib/audioSources.js to:\n  ${ref}`);
+    console.log(`Set REF in src/lib/audioSources.ts to:\n  ${ref}`);
 }
 
 main().catch((err) => {
