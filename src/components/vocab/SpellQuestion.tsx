@@ -1,11 +1,13 @@
 import { useEffect, useRef, useState } from 'react'
-import type { ChangeEvent, CSSProperties, KeyboardEvent } from 'react'
+import type { ChangeEvent, CSSProperties, KeyboardEvent, ReactNode } from 'react'
 import { Lightbulb, Volume2 } from 'lucide-react'
 import classNames from 'classnames'
 import { checkSpelling, lettersOf, maskWord, meaningOf } from '../../lib/quiz'
 import type { SpellToken } from '../../lib/quiz'
 import type { StoredCard } from '../../lib/srsStore'
+import type { Example } from '../../lib/examples'
 import { speak } from '../../lib/speech'
+import ExampleSentence from './ExampleSentence'
 import { ContinueButton, QuestionCard } from './QuestionParts'
 
 // A wrong check is allowed once; the second one shows the answer.
@@ -15,6 +17,16 @@ type CellState = 'idle' | 'active' | 'hinted' | 'right' | 'wrong'
 
 interface SpellQuestionProps {
   card: StoredCard
+  /** What has to be typed; the card's word by default (cloze: the word as it occurs in the sentence). */
+  target?: string
+  /** Instruction above the question. */
+  label?: string
+  /** Shown above the cells; the meaning by default. */
+  prompt?: ReactNode
+  /** Read aloud once answered; the card's word by default. */
+  spoken?: string
+  /** Shown once answered (cloze; leeches). */
+  example?: Example | null
   onDone: (result: { correct: boolean; hinted: boolean; attempts: number }) => void
 }
 
@@ -22,13 +34,22 @@ interface SpellQuestionProps {
  * Điền từ: the meaning is shown and the word is typed into letter cells.
  * A hidden <input> takes the keyboard so phones open theirs; the cells only
  * draw what it holds. `onDone({ correct, hinted, attempts })` is called when
- * the learner moves on.
+ * the learner moves on. ClozeQuestion reuses it with a sentence as the prompt.
  */
-export default function SpellQuestion({ card, onDone }: SpellQuestionProps) {
-  const wordSegments = maskWord(card.word).map(segmentsOf)
+export default function SpellQuestion({
+  card,
+  target,
+  label = 'Viết từ tiếng Anh',
+  prompt,
+  spoken,
+  example = null,
+  onDone,
+}: SpellQuestionProps) {
+  const word = target ?? card.word
+  const wordSegments = maskWord(word).map(segmentsOf)
   const maxSegmentLength = Math.max(1, ...wordSegments.flat().map((segment) => segment.length))
   const cellSize = cellSizing(maxSegmentLength)
-  const answer = lettersOf(card.word)
+  const answer = lettersOf(word)
   const [typed, setTyped] = useState('')
   // Letters given away by Gợi ý, always a prefix of the answer. They survive a
   // wrong check, and mark the answer as hinted.
@@ -64,14 +85,14 @@ export default function SpellQuestion({ card, onDone }: SpellQuestionProps) {
 
   const finish = (outcome: 'right' | 'wrong') => {
     setResult(outcome)
-    speak(card.word)
+    speak(spoken ?? card.word)
   }
 
   const check = () => {
     if (result || typed.length < answer.length) return
     const n = attempts + 1
     setAttempts(n)
-    if (checkSpelling(typed, card.word)) return finish('right')
+    if (checkSpelling(typed, word)) return finish('right')
     if (n >= MAX_ATTEMPTS) return finish('wrong')
     setShakes((s) => s + 1)
     setTyped(answer.slice(0, hinted))
@@ -97,12 +118,16 @@ export default function SpellQuestion({ card, onDone }: SpellQuestionProps) {
 
   return (
     <div className='w-full max-w-md mx-auto flex flex-col gap-5 vocab-pop-in'>
-      <QuestionCard label='Viết từ tiếng Anh'>
-        <p className='vi-text mt-3 text-2xl font-bold text-indigo-600 dark:text-indigo-400'>
-          {meaningOf(card)}
-        </p>
-        {card.vi && card.def && (
-          <p className='mt-1 text-sm text-zinc-500 dark:text-zinc-400'>{card.def}</p>
+      <QuestionCard label={label}>
+        {prompt ?? (
+          <>
+            <p className='vi-text mt-3 text-2xl font-bold text-indigo-600 dark:text-indigo-400'>
+              {meaningOf(card)}
+            </p>
+            {card.vi && card.def && (
+              <p className='mt-1 text-sm text-zinc-500 dark:text-zinc-400'>{card.def}</p>
+            )}
+          </>
         )}
 
         {/* A tap anywhere on the cells focuses the input, which the keyboard reaches itself. */}
@@ -184,6 +209,7 @@ export default function SpellQuestion({ card, onDone }: SpellQuestionProps) {
             </button>
           </div>
         )}
+        {result && example && <ExampleSentence example={example} className='mt-4 vocab-rise-in' />}
       </QuestionCard>
 
       {result ? (
