@@ -145,14 +145,14 @@ export default function Flashcard({
                   {card.type}
                 </p>
               )}
-              <div className='my-4 w-12 h-1 flex-none rounded-full bg-indigo-200 dark:bg-indigo-500/30' />
+              <div className='my-3 w-12 h-1 flex-none rounded-full bg-indigo-200 dark:bg-indigo-500/30' />
               <p className='vi-text text-3xl font-bold text-indigo-600 dark:text-indigo-400'>
                 {card.vi}
               </p>
               {/* Definition: the English one from the transcript, with its
                   Vietnamese translation (viDef) directly underneath. */}
               {(card.def || card.viDef) && (
-                <div className='mt-5 w-full max-w-xs flex-none text-left'>
+                <div className='mt-4 w-full max-w-xs flex-none text-left'>
                   <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
                     Definition
                   </p>
@@ -170,7 +170,7 @@ export default function Flashcard({
                 </div>
               )}
               {example && (
-                <div className='mt-5 w-full max-w-xs flex-none text-left'>
+                <div className='mt-4 w-full max-w-xs flex-none text-left'>
                   <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
                     Example
                   </p>

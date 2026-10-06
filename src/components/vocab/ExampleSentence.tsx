@@ -1,39 +1,57 @@
 import { useRef, useState } from 'react'
-import type { ReactNode, SyntheticEvent } from 'react'
+import type { ReactNode, Ref, SyntheticEvent } from 'react'
 import { Languages, Volume2 } from 'lucide-react'
 import classNames from 'classnames'
 import type { Example } from '../../lib/examples'
 import { speak } from '../../lib/speech'
 import TappableText from '../TappableText'
+import FloatingCard from '../FloatingCard'
 
 interface ExampleSentenceProps {
   example: Example
-  /** Show the Vietnamese from the start (it can still be hidden again). */
+  /**
+   * Show the Vietnamese under the sentence (a question's answer). Otherwise a
+   * button after the sentence opens it in a floating card (a flashcard).
+   */
   showTranslation?: boolean
   className?: string
 }
 
 /**
  * An example sentence: the English with the word in bold (each word can be
- * tapped for a translation), then a button that reads it aloud and one that
- * shows the Vietnamese. The buttons follow the last word rather than sitting
- * in a column of their own, so a long sentence keeps the full width. Pointer
- * and click events stop here, so it can sit on a flashcard without flipping
- * or dragging it.
+ * tapped for a translation), then a button that reads it aloud and, on a
+ * flashcard, one that shows the Vietnamese. The buttons follow the last word
+ * rather than sitting in a column of their own, so a long sentence keeps the
+ * full width.
+ *
+ * On a flashcard the translation floats over the card instead of being laid
+ * out under the sentence: the card's face centres its content, so anything
+ * added below would push every line above it up.
+ *
+ * Pointer and click events stop here (the floating card's too, since React
+ * bubbles them through the portal), so it can sit on a flashcard without
+ * flipping or dragging it.
  */
 export default function ExampleSentence({
   example,
   showTranslation = false,
   className,
 }: ExampleSentenceProps) {
-  const [translated, setTranslated] = useState(showTranslation)
-  const translation = useRef<HTMLParagraphElement>(null)
+  const root = useRef<HTMLDivElement>(null)
+  const translateButton = useRef<HTMLButtonElement>(null)
+  // Where the sentence was when the button was pressed; the floating card
+  // sits right under it, so the English stays readable next to the Vietnamese.
+  const [openAt, setOpenAt] = useState<DOMRect | null>(null)
   const stop = (e: SyntheticEvent) => e.stopPropagation()
+
+  const toggle = () =>
+    setOpenAt((rect) => (rect ? null : (root.current?.getBoundingClientRect() ?? null)))
 
   return (
     // Only stops events (see above); the buttons inside are the controls.
     // eslint-disable-next-line jsx-a11y/no-static-element-interactions, jsx-a11y/click-events-have-key-events
     <div
+      ref={root}
       className={classNames('text-left', className)}
       onPointerDown={stop}
       onPointerUp={stop}
@@ -46,36 +64,41 @@ export default function ExampleSentence({
         after={
           <>
             {' '}
-            {/* nowrap: the two buttons move to the next line together. */}
+            {/* nowrap: the buttons move to the next line together. */}
             <span className='inline-flex gap-0.5 align-middle whitespace-nowrap'>
               <InlineButton label='Nghe câu' onClick={() => speak(example.ex)}>
                 <Volume2 size={16} />
               </InlineButton>
-              <InlineButton
-                label={translated ? 'Ẩn bản dịch' : 'Dịch câu'}
-                pressed={translated}
-                onClick={() => {
-                  setTranslated((t) => !t)
-                  // On a flashcard the sentence can sit at the bottom of a scrolling
-                  // face: bring the translation into view once it renders.
-                  requestAnimationFrame(() =>
-                    translation.current?.scrollIntoView({ block: 'nearest', behavior: 'smooth' }),
-                  )
-                }}
-              >
-                <Languages size={16} />
-              </InlineButton>
+              {!showTranslation && (
+                <InlineButton
+                  buttonRef={translateButton}
+                  label={openAt ? 'Ẩn bản dịch' : 'Dịch câu'}
+                  pressed={openAt !== null}
+                  onClick={toggle}
+                >
+                  <Languages size={16} />
+                </InlineButton>
+              )}
             </span>
           </>
         }
       />
-      {translated && (
-        <p
-          ref={translation}
-          className='vi-text mt-1 text-sm text-indigo-600 dark:text-indigo-400 vocab-rise-in'
+      {showTranslation && (
+        <p className='vi-text mt-1 text-sm text-indigo-600 dark:text-indigo-400'>{example.vi}</p>
+      )}
+      {openAt && (
+        <FloatingCard
+          rect={openAt}
+          width={280}
+          label='Bản dịch câu ví dụ'
+          anchor={translateButton}
+          placement='below'
+          onClose={() => setOpenAt(null)}
         >
-          {example.vi}
-        </p>
+          <p className='vi-text text-base font-medium text-indigo-600 dark:text-indigo-400'>
+            {example.vi}
+          </p>
+        </FloatingCard>
       )}
     </div>
   )
@@ -84,14 +107,16 @@ export default function ExampleSentence({
 interface InlineButtonProps {
   label: string
   pressed?: boolean
+  buttonRef?: Ref<HTMLButtonElement>
   onClick: () => void
   children: ReactNode
 }
 
 // Small enough to sit in a line of text without stretching its height.
-function InlineButton({ label, pressed, onClick, children }: InlineButtonProps) {
+function InlineButton({ label, pressed, buttonRef, onClick, children }: InlineButtonProps) {
   return (
     <button
+      ref={buttonRef}
       type='button'
       onClick={onClick}
       title={label}
