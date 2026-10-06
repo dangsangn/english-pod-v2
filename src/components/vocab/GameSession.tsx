@@ -106,9 +106,7 @@ export default function GameSession({ episodeId, episode, onExit }: SessionProps
       )}
 
       <div className='flex-1 flex flex-col justify-center py-6'>
-        {question.kind === 'spell' ? (
-          <SpellQuestion key={turn} card={card} onDone={answer} />
-        ) : (
+        {question.kind === 'meaning' || question.kind === 'listen' ? (
           <ChoiceQuestion
             key={turn}
             card={card}
@@ -118,6 +116,8 @@ export default function GameSession({ episodeId, episode, onExit }: SessionProps
             autoSpeak={srs.settings.autoSpeak}
             onDone={answer}
           />
+        ) : (
+          <SpellQuestion key={turn} card={card} onDone={answer} />
         )}
       </div>
 
