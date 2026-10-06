@@ -29,6 +29,7 @@ import https from 'https';
 import { fileURLToPath } from 'url';
 import { normalizeText, vocabKey } from '../src/lib/vocabulary.ts';
 import { readEpisodeItems } from './lib/transcripts.js';
+import { isComplete, readExampleRows } from './lib/examples.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -220,6 +221,15 @@ function loadTranslations() {
     return { map, duplicates };
 }
 
+/** (word, definition) → { ex, exHit, exVi } for every finished example row. */
+function loadExamples() {
+    const map = new Map();
+    for (const { row } of readExampleRows()) {
+        if (isComplete(row)) map.set(vocabKey(row.w, row.d), { ex: row.ex, exHit: row.hit, exVi: row.vi });
+    }
+    return map;
+}
+
 // --------------------------------------------------------------------- main
 
 function parseRange(arg) {
@@ -255,6 +265,8 @@ async function main() {
     }
 
     const cmudict = await loadCmudict();
+    const examples = loadExamples();
+    let exampleHits = 0;
 
     const pending = new Map();
     let written = 0;
@@ -287,6 +299,10 @@ async function main() {
             }
             // The English definition and part of speech ship too: the study
             // cards show them, and they are what the Vietnamese was written from.
+            // Examples are optional: the app simply skips the sentence games for
+            // a word without one.
+            const example = examples.get(vocabKey(item.word, item.definition));
+            if (example) exampleHits++;
             entries.push({
                 word: item.word,
                 ipa,
@@ -294,6 +310,7 @@ async function main() {
                 def: item.definition,
                 vi: hit.vi,
                 viDef: hit.viDef,
+                ...example,
             });
         }
 
@@ -318,6 +335,7 @@ async function main() {
 
     console.log(`Episodes ${from}-${to}: ${totalItems} vocab items`);
     console.log(`IPA: ${ipaHits}/${totalItems} (${((100 * ipaHits) / totalItems).toFixed(1)}%)`);
+    console.log(`Examples: ${exampleHits}/${totalItems}`);
     if (noIpa.size) console.log(`  ${noIpa.size} distinct words without IPA`);
     console.log(`Episode files written: ${written}, incomplete (skipped): ${skipped}`);
 

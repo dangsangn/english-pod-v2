@@ -22,4 +22,10 @@ export interface VocabEntry {
   def?: string
   vi?: string
   viDef?: string
+  /** Example sentence (one sentence, from the dialogue or written for it). */
+  ex?: string
+  /** `ex`'s text for the word itself, exactly as it occurs there ("grabbed" for "grab"). */
+  exHit?: string
+  /** Vietnamese translation of `ex`. */
+  exVi?: string
 }
