@@ -32,10 +32,10 @@ từ hay quên.
 
 ### Nguồn soạn tay: `scripts/data/vocab-ex/NNNN.jsonl`
 
-Cùng cách chia file như `scripts/data/vocab-vi/` (mỗi file 1 dải bài). Mỗi dòng:
+Mỗi file gom 20 bài theo `ep` (`0001.jsonl` = bài 1–20, …, `0019.jsonl` = bài 361–365). Mỗi dòng:
 
 ```json
-{"w":"go with","d":"to choose, pick","ex":"I'll go with the spaghetti and meatballs, salad and the wine.","hit":"go with","src":"dialogue","vi":"Tôi sẽ chọn mì spaghetti thịt viên, salad và rượu vang."}
+{"w":"go with","d":"to choose, pick","ex":"I'll go with the spaghetti and meatballs, salad and the wine.","hit":"go with","src":"dialogue","ep":1,"vi":"Tôi sẽ chọn mì spaghetti thịt viên, salad và rượu vang."}
 ```
 
 | Trường | Ý nghĩa |
@@ -44,6 +44,7 @@ Cùng cách chia file như `scripts/data/vocab-vi/` (mỗi file 1 dải bài). M
 | `ex` | Đúng **một** câu tiếng Anh. |
 | `hit` | Chuỗi đúng như xuất hiện trong `ex` (có thể là dạng biến thể: "grabbed" cho "grab"). Là phần bị che trong cloze. |
 | `src` | `dialogue` (lấy từ thoại của chính bài đó) hoặc `written` (soạn mới). |
+| `ep` | Bài chứa câu (với `dialogue`) hoặc bài đầu tiên có cặp từ này (với `written`); quyết định file. |
 | `vi` | Bản dịch tiếng Việt của cả câu. |
 
 ### Script trích câu: `scripts/extract_examples.js`
@@ -85,10 +86,11 @@ Báo lỗi và thoát mã khác 0 nếu:
 
 ```ts
 export interface Example { ex: string; hit: string; vi: string }
-export function loadExamples(episodes: Episode[], episodeIds: number[]): Promise<void>
+export function loadExamples(episodeIds: number[]): Promise<void>
 export function exampleOf(card: Pick<Card, 'id' | 'episodeIds'>): Example | null
 /** true khi file của mọi bài trong episodeIds đã tải xong (hoặc lỗi). */
-export function useExamplesReady(episodes: Episode[], episodeIds: number[]): boolean
+export function useExamples(episodeIds: number[]): boolean
+export function episodeIdsOf(cards: (Pick<Card, 'episodeIds'> | undefined)[]): number[]
 ```
 
 - Tải `./vocab/<transcript_id>.json` của các bài cần, cache theo bài trong module (không lưu
@@ -120,8 +122,7 @@ không quá 2 lần liên tiếp cùng kiểu giữ nguyên.
 
 ### Cloze: `ClozeQuestion.tsx`
 
-- Hiện câu `ex` với `hit` thay bằng ô chữ (dùng `maskWord(hit)` và phần ô chữ tách ra từ
-  `SpellQuestion` thành component chung `LetterCells`), nghĩa tiếng Việt của từ (`meaningOf`)
+- Hiện câu `ex` với `hit` thay bằng ô chữ (dùng lại `SpellQuestion` với các prop tuỳ chọn `target`, `label`, `prompt`, `spoken`, `example`), nghĩa tiếng Việt của từ (`meaningOf`)
   bên trên làm gợi ý.
 - Gợi ý, Kiểm tra, Bỏ qua, thử lại 1 lần: y như Điền từ; chấm bằng `checkSpelling(input, hit)`
   và `gradeFor` như cũ.
@@ -129,7 +130,7 @@ không quá 2 lần liên tiếp cùng kiểu giữ nguyên.
 
 ### Chép chính tả: `DictationQuestion.tsx`
 
-- Tự đọc câu khi hiện (theo `autoSpeak`), nút loa đọc lại, nút 🐢 đọc chậm.
+- Luôn tự đọc câu khi hiện (đây là câu nghe, giống `listen`), nút loa đọc lại, nút 🐢 đọc chậm.
   `speak(text, { rate })` thêm tham số, mặc định 0.8 như hiện tại; chậm là 0.55.
 - Một `<textarea>` một dòng (Enter để kiểm tra), tắt autocorrect/autocapitalize/spellcheck.
 - Chấm bằng hàm thuần `gradeDictation(input, ex, hit)` trong `quiz.ts`:
@@ -184,8 +185,9 @@ in đậm), nút loa đọc cả câu, và `vi`. Không có ví dụ thì không
 | `src/lib/srs.ts` | `isLeech`. |
 | `src/lib/srsStore.ts` | `newPerDay`, `buildQueue`, `summarize.freshToday`, sync settings. |
 | `src/lib/speech.ts` | `speak(text, { rate })`. |
-| `src/components/vocab/LetterCells.tsx` | Mới, tách từ `SpellQuestion`. |
-| `src/components/vocab/ClozeQuestion.tsx`, `DictationQuestion.tsx` | Mới. |
+| `src/components/vocab/SpellQuestion.tsx` | Thêm prop tuỳ chọn để Cloze dùng lại. |
+| `src/components/vocab/ExampleSentence.tsx`, `LeechBadge.tsx` | Mới. |
+| `scripts/lib/transcripts.js`, `scripts/lib/examples.js` | Mới: đọc transcript, dữ liệu ví dụ (dùng chung cho các script). |
 | `src/components/vocab/GameSession.tsx`, `StudySession.tsx` | Tải ví dụ, kiểu mới. |
 | `src/components/vocab/Flashcard.tsx`, `WordList.tsx`, `VocabHome.tsx` | Ví dụ, hay quên, giới hạn từ mới. |
 | `server/prisma/schema.prisma` + migration, `server/src/sync/*` | `newPerDay`. |
