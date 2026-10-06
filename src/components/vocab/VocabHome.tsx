@@ -77,7 +77,7 @@ export default function VocabHome({ episodes, onOpenEpisode }: VocabHomeProps) {
             goal={goal}
             due={overall.due}
             fresh={overall.freshToday}
-            capReached={overall.seed > overall.freshToday}
+            capReached={overall.seed > 0 && overall.freshToday === 0}
             newPerDay={srs.settings.newPerDay}
             ahead={overall.ahead}
             nextDue={nextDue === Infinity ? null : nextDue - now}
@@ -212,7 +212,7 @@ function TodayCard({
           </h2>
           <p className='text-sm opacity-90'>
             {[
-              hasWork && `${due} từ cần ôn`,
+              due > 0 && `${due} từ cần ôn`,
               fresh > 0 && `${fresh} từ mới`,
               capReached && `đã đủ ${newPerDay} từ mới hôm nay`,
               !hasWork &&
@@ -396,6 +396,13 @@ function StageBar({ counts }: { counts: Summary }) {
 
 function Settings({ settings }: { settings: SrsSettings }) {
   const newPerDayId = useId()
+  // The server allows 1-999, so a synced value may not be one of the presets.
+  const current = settings.newPerDay
+  const numbers = NEW_PER_DAY_CHOICES.filter((n) => n !== null)
+  const newPerDayChoices: (number | null)[] =
+    current === null || numbers.includes(current)
+      ? NEW_PER_DAY_CHOICES
+      : [...[...numbers, current].sort((a, b) => a - b), null]
   return (
     <section>
       <SectionTitle>Cài đặt</SectionTitle>
@@ -438,7 +445,7 @@ function Settings({ settings }: { settings: SrsSettings }) {
             }
             className='px-3 py-1.5 rounded-full bg-zinc-100 dark:bg-zinc-800 text-sm font-semibold outline-none focus:ring-2 focus:ring-rose-300'
           >
-            {NEW_PER_DAY_CHOICES.map((n) => (
+            {newPerDayChoices.map((n) => (
               <option key={n ?? 'all'} value={n ?? ''}>
                 {n ?? 'Không giới hạn'}
               </option>

@@ -83,7 +83,11 @@ export interface SrsChanges {
 
 export interface SyncResponse {
   cursor: number
-  changes: Omit<SrsChanges, 'reviewLogs' | 'resetAt'>
+  changes: Omit<SrsChanges, 'reviewLogs' | 'resetAt' | 'settings'> & {
+    // A server from before the cap sends no newPerDay; null means no limit.
+    settings:
+      (Omit<Settings, 'newPerDay'> & { newPerDay?: number | null; updatedAt: number }) | null
+  }
   days: Record<string, DayCounts>
   resetAt: number | null
 }
@@ -390,7 +394,8 @@ export function summarize(s: SrsState, now: number, episodeId: number | null = n
 /**
  * Card ids for a study session: everything due, oldest first, with every new
  * card woven in — one after every few reviews, so a session is never a wall of
- * unfamiliar words at the end. Across the whole garden, new cards stop at the daily cap (settings.newPerDay); one episode's session takes all of its new cards.
+ * unfamiliar words at the end. Across the whole garden, new cards stop at the daily cap
+ * (settings.newPerDay); one episode's session takes all of its new cards.
  *
  * When nothing is due and nothing is new, the session reviews ahead instead:
  * the studied cards, soonest-due first. So there is always something to study.
@@ -553,11 +558,11 @@ export function applySyncResult(sent: SrsChanges, response: SyncResponse) {
       let { settings, settingsUpdatedAt, resetAt } = s
       if (changes.settings && changes.settings.updatedAt > settingsUpdatedAt) {
         const { autoSpeak, lastEpisodeId } = changes.settings
-        // A server from before the cap sends no newPerDay: keep the default.
+        // A server from before the cap sends no newPerDay: keep the default (null is "no limit").
         const newPerDay =
-          'newPerDay' in changes.settings
-            ? changes.settings.newPerDay
-            : DEFAULT_STATE.settings.newPerDay
+          changes.settings.newPerDay === undefined
+            ? DEFAULT_STATE.settings.newPerDay
+            : changes.settings.newPerDay
         settings = { ...settings, autoSpeak, lastEpisodeId, newPerDay }
         settingsUpdatedAt = changes.settings.updatedAt
       }
