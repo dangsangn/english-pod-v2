@@ -1,9 +1,11 @@
 import { useEffect, useRef, useState } from 'react'
 import { Volume2 } from 'lucide-react'
 import classNames from 'classnames'
+import type { Example } from '../../lib/examples'
 import { meaningOf } from '../../lib/quiz'
 import type { StoredCard } from '../../lib/srsStore'
 import { speak } from '../../lib/speech'
+import ExampleSentence from './ExampleSentence'
 import { ContinueButton, QuestionCard } from './QuestionParts'
 
 const OPTION_STYLES = {
@@ -27,6 +29,8 @@ interface ChoiceQuestionProps {
   options: string[]
   answerIndex: number
   autoSpeak: boolean
+  /** Shown once answered (leeches). */
+  example?: Example | null
   onDone: (result: { correct: boolean }) => void
 }
 
@@ -36,6 +40,7 @@ export default function ChoiceQuestion({
   options,
   answerIndex,
   autoSpeak,
+  example = null,
   onDone,
 }: ChoiceQuestionProps) {
   const [picked, setPicked] = useState<number | null>(null)
@@ -111,6 +116,9 @@ export default function ChoiceQuestion({
               </p>
             )}
           </div>
+        )}
+        {answered && example && (
+          <ExampleSentence example={example} className='mt-4 vocab-rise-in' />
         )}
       </QuestionCard>
 

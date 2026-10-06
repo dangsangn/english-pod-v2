@@ -1,12 +1,15 @@
 import { useEffect, useState } from 'react'
-import { schedule } from '../../lib/srs'
+import { isLeech, schedule } from '../../lib/srs'
 import { buildQueue, getSrsState, rateCard, useSrs } from '../../lib/srsStore'
 import { gradeFor, makeQuestion } from '../../lib/quiz'
 import type { Question, QuestionKind } from '../../lib/quiz'
 import type { SrsState } from '../../lib/srsStore'
 import type { Episode } from '../../types'
 import { canSpeak } from '../../lib/speech'
+import { episodeIdsOf, exampleOf, useExamples } from '../../lib/examples'
 import ChoiceQuestion from './ChoiceQuestion'
+import ClozeQuestion from './ClozeQuestion'
+import DictationQuestion from './DictationQuestion'
 import SessionHeader from './SessionHeader'
 import SessionSummary from './SessionSummary'
 import type { SessionStats } from './SessionSummary'
@@ -14,6 +17,9 @@ import SpellQuestion from './SpellQuestion'
 
 // As in StudySession: a card still learning comes back after a few others.
 const REQUEUE_GAP = 3
+
+// Answered by typing, so the keyboard hint differs.
+const TYPED_KINDS: QuestionKind[] = ['spell', 'cloze', 'dictation']
 
 /**
  * The head of `queue` with its question. Cards nothing can be asked about (see
@@ -30,7 +36,9 @@ function nextRound(srs: SrsState, queue: string[], recent: QuestionKind[]): Roun
   let rest = queue
   while (rest.length) {
     const card = srs.cards[rest[0]]
-    const question = card ? makeQuestion(card, pool, recent, { canSpeak }) : null
+    const question = card
+      ? makeQuestion(card, pool, recent, { canSpeak, hasExample: exampleOf(card) !== null })
+      : null
     if (question) return { queue: rest, question, recent }
     rest = rest.slice(1)
   }
@@ -45,9 +53,15 @@ export interface SessionProps {
 
 export default function GameSession({ episodeId, episode, onExit }: SessionProps) {
   const srs = useSrs()
-  const [round, setRound] = useState(() =>
-    nextRound(srs, buildQueue(srs, Date.now(), episodeId), []),
-  )
+  // Which kinds a card can be asked depends on its example sentence, so the
+  // first question waits for the examples of the session's episodes.
+  const [start] = useState(() => {
+    const queue = buildQueue(srs, Date.now(), episodeId)
+    return { queue, episodeIds: episodeIdsOf(queue.map((id) => srs.cards[id])) }
+  })
+  const examplesReady = useExamples(start.episodeIds)
+  const [round, setRound] = useState<Round | null>(null)
+  if (examplesReady && round === null) setRound(nextRound(srs, start.queue, []))
   // Bumped on every answer: it keys the question so the same card twice in a
   // row still remounts fresh.
   const [turn, setTurn] = useState(0)
@@ -57,6 +71,18 @@ export default function GameSession({ episodeId, episode, onExit }: SessionProps
     forgotten: 0,
     learned: 0,
   }))
+
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') onExit()
+    }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [onExit])
+
+  if (!round) {
+    return <p className='py-24 text-center text-sm text-zinc-500'>Đang chuẩn bị…</p>
+  }
 
   const { queue, question, recent } = round
   const card = question ? srs.cards[queue[0]] : null
@@ -83,17 +109,13 @@ export default function GameSession({ episodeId, episode, onExit }: SessionProps
     setTurn((t) => t + 1)
   }
 
-  useEffect(() => {
-    const onKey = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') onExit()
-    }
-    window.addEventListener('keydown', onKey)
-    return () => window.removeEventListener('keydown', onKey)
-  }, [onExit])
-
   if (!card || !question) {
     return <SessionSummary stats={stats} onExit={onExit} />
   }
+
+  const example = exampleOf(card)
+  // Words forgotten again and again get their sentence whatever the question.
+  const extra = isLeech(card) ? example : null
 
   return (
     <div className='min-h-full flex flex-col max-w-xl mx-auto px-4'>
@@ -106,7 +128,11 @@ export default function GameSession({ episodeId, episode, onExit }: SessionProps
       )}
 
       <div className='flex-1 flex flex-col justify-center py-6'>
-        {question.kind === 'meaning' || question.kind === 'listen' ? (
+        {question.kind === 'cloze' && example ? (
+          <ClozeQuestion key={turn} card={card} example={example} onDone={answer} />
+        ) : question.kind === 'dictation' && example ? (
+          <DictationQuestion key={turn} card={card} example={example} onDone={answer} />
+        ) : question.kind === 'meaning' || question.kind === 'listen' ? (
           <ChoiceQuestion
             key={turn}
             card={card}
@@ -114,15 +140,16 @@ export default function GameSession({ episodeId, episode, onExit }: SessionProps
             options={question.options}
             answerIndex={question.answerIndex}
             autoSpeak={srs.settings.autoSpeak}
+            example={extra}
             onDone={answer}
           />
         ) : (
-          <SpellQuestion key={turn} card={card} onDone={answer} />
+          <SpellQuestion key={turn} card={card} example={extra} onDone={answer} />
         )}
       </div>
 
       <p className='pb-8 text-center text-xs text-zinc-400 hidden sm:block'>
-        {question.kind === 'spell'
+        {TYPED_KINDS.includes(question.kind)
           ? 'Enter để kiểm tra · Esc để thoát'
           : 'Phím 1–4 để chọn · Enter để tiếp · Esc để thoát'}
       </p>
