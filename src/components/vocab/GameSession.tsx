@@ -81,7 +81,14 @@ export default function GameSession({ episodeId, episode, onExit }: SessionProps
   }, [onExit])
 
   if (!round) {
-    return <p className='py-24 text-center text-sm text-zinc-500'>Đang chuẩn bị…</p>
+    return (
+      <div className='py-24 text-center text-sm text-zinc-500'>
+        <p>Đang chuẩn bị…</p>
+        <button type='button' onClick={onExit} className='mt-4 font-semibold underline'>
+          Thoát
+        </button>
+      </div>
+    )
   }
 
   const { queue, question, recent } = round

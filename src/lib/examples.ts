@@ -68,9 +68,12 @@ export function episodeIdsOf(cards: (Pick<Card, 'episodeIds'> | undefined)[]): n
   return [...new Set(cards.flatMap((c) => c?.episodeIds ?? []))]
 }
 
+// Stop waiting after this long, so a stalled network never blocks a session.
+const EXAMPLES_TIMEOUT_MS = 8000
+
 /**
  * Load the examples of `episodeIds`. True once every file has loaded (or
- * failed). Read examples with `ready ? exampleOf(card) : null` so the render
+ * failed) or the wait times out; examples arriving later are not used by that session. Read examples with `ready ? exampleOf(card) : null` so the render
  * depends on it — the cache itself is not React state.
  */
 export function useExamples(episodeIds: number[]): boolean {
@@ -78,11 +81,14 @@ export function useExamples(episodeIds: number[]): boolean {
   const [readyKey, setReadyKey] = useState<string | null>(null)
   useEffect(() => {
     let live = true
-    loadExamples(key ? key.split(',').map(Number) : []).then(() => {
+    const ready = () => {
       if (live) setReadyKey(key)
-    })
+    }
+    loadExamples(key ? key.split(',').map(Number) : []).then(ready)
+    const timer = setTimeout(ready, EXAMPLES_TIMEOUT_MS)
     return () => {
       live = false
+      clearTimeout(timer)
     }
   }, [key])
   return readyKey === key
