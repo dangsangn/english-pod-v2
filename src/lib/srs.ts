@@ -56,6 +56,14 @@ const MAX_INTERVAL = 365 * 2
 // Intervals of 21+ days count as "mature" — the card has bloomed.
 export const MATURE_INTERVAL = 21
 
+// Forgotten this many times after being learnt, a word is a "leech": it is
+// flagged in the UI and always shown with its example sentence.
+export const LEECH_LAPSES = 4
+
+export function isLeech(card: Pick<Card, 'lapses'>): boolean {
+  return card.lapses >= LEECH_LAPSES
+}
+
 export const RATINGS: Rating[] = ['again', 'hard', 'good', 'easy']
 
 export function createCard(entry: VocabEntry, episodeId: number, now: number): Card {
@@ -200,7 +208,7 @@ export function isDue(card: Card, now: number): boolean {
 }
 
 /** Garden stage shown in the UI. */
-export function stageOf(card: Card): Stage {
+export function stageOf(card: Pick<Card, 'state' | 'interval'>): Stage {
   if (card.state === 'new') return 'seed'
   if (card.state === 'learning' || card.state === 'relearning') return 'sprout'
   if (card.interval < MATURE_INTERVAL) return 'bud'

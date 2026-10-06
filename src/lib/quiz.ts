@@ -5,28 +5,52 @@
 // out. The components in src/components/vocab render them, and
 // scripts/verify_quiz.js checks them against every vocab file.
 //
-// Three kinds of question:
-//   meaning → the word is shown, pick its meaning among up to 4
-//   spell   → the meaning is shown, type the word into letter cells
-//   listen  → the word is spoken, pick how it is written among up to 4
+// Five kinds of question, chosen by the card's garden stage (KINDS_BY_STAGE):
+//   meaning   → the word is shown, pick its meaning among up to 4
+//   listen    → the word is spoken, pick how it is written among up to 4
+//   spell     → the meaning is shown, type the word into letter cells
+//   cloze     → the example sentence with the word blanked out, type it
+//   dictation → the example sentence is spoken, type the whole sentence
 
-import type { Card, Rating } from './srs'
+// With the extension: scripts/verify_quiz.js runs this file in Node, which
+// does not resolve extensionless imports (tsconfig allows .ts imports).
+import { stageOf } from './srs.ts'
+import type { Card, Rating, Stage } from './srs'
 
-export type QuestionKind = 'meaning' | 'spell' | 'listen'
+export type QuestionKind = 'meaning' | 'spell' | 'listen' | 'cloze' | 'dictation'
 
 export type Question =
-  { kind: 'spell' } | { kind: 'meaning' | 'listen'; options: string[]; answerIndex: number }
+  | { kind: 'spell' | 'cloze' | 'dictation' }
+  | { kind: 'meaning' | 'listen'; options: string[]; answerIndex: number }
 
 /** A cell of a word being spelled: a letter to type, or a mark shown as is. */
 export type SpellToken =
   { type: 'letter'; char: string; index: number } | { type: 'mark'; char: string }
 
 /** Only what the questions read from a card. */
-export type QuizCard = Pick<Card, 'id' | 'word' | 'type' | 'vi' | 'def' | 'episodeIds' | 'state'>
+export type QuizCard = Pick<
+  Card,
+  'id' | 'word' | 'type' | 'vi' | 'def' | 'episodeIds' | 'state' | 'interval'
+>
+
+/** What a card offers beyond its own fields. */
+export interface QuizContext {
+  canSpeak: boolean
+  /** The card has an example sentence (cloze and dictation need one). */
+  hasExample?: boolean
+}
 
 type Rng = () => number
 
-export const KINDS: QuestionKind[] = ['meaning', 'spell', 'listen']
+// Recognition first, recall later: a word is only asked to be typed once it
+// has been seen, and only asked in a sentence once it is being remembered.
+const KINDS_BY_STAGE: Record<Stage, QuestionKind[]> = {
+  seed: ['meaning', 'listen'],
+  sprout: ['meaning', 'listen', 'spell'],
+  bud: ['listen', 'spell', 'cloze'],
+  bloom: ['cloze', 'dictation'],
+}
+const STAGE_ORDER: Stage[] = ['seed', 'sprout', 'bud', 'bloom']
 
 // Fewer cards than this in the whole garden cannot make a 4-option question.
 export const MIN_POOL = 4
@@ -66,13 +90,34 @@ function shuffle<T>(items: T[], rng: Rng): T[] {
 }
 
 /**
- * The kinds that can be asked about this card. A new card only gets the
- * recognition kinds; spelling waits until it has been studied once.
+ * The kinds that can be asked about this card: those of its stage that it can
+ * support, or — when none can — those of the stage before, and so on.
  */
-export function allowedKinds(card: QuizCard, { canSpeak }: { canSpeak: boolean }): QuestionKind[] {
+export function allowedKinds(
+  card: QuizCard,
+  { canSpeak, hasExample = false }: QuizContext,
+): QuestionKind[] {
   const hasMeaning = meaningOf(card) !== ''
-  const kinds: QuestionKind[] = card.state === 'new' ? ['meaning', 'listen'] : KINDS
-  return kinds.filter((kind) => (kind === 'listen' ? canSpeak : hasMeaning))
+  const usable = (kind: QuestionKind) => {
+    switch (kind) {
+      case 'listen':
+        return canSpeak
+      case 'meaning':
+      case 'spell':
+        return hasMeaning
+      case 'cloze':
+        return hasExample && hasMeaning
+      case 'dictation':
+        return hasExample && canSpeak
+      default:
+        throw new Error(`Unknown kind: ${kind satisfies never}`)
+    }
+  }
+  for (let i = STAGE_ORDER.indexOf(stageOf(card)); i >= 0; i--) {
+    const kinds = KINDS_BY_STAGE[STAGE_ORDER[i]].filter(usable)
+    if (kinds.length) return kinds
+  }
+  return []
 }
 
 /** One of `kinds`, avoiding a third question of the same kind in a row. */
@@ -140,20 +185,20 @@ export function buildChoices(
 
 /**
  * The question to ask about `card`, or null when none can be asked (no
- * meaning and no speech). A choice question that cannot get two options falls
+ * meaning, no speech, no example). A choice question that cannot get two options falls
  * back to another kind.
  */
 export function makeQuestion(
   card: QuizCard,
   pool: QuizCard[],
   recentKinds: QuestionKind[],
-  { canSpeak }: { canSpeak: boolean },
+  context: QuizContext,
   rng: Rng = Math.random,
 ): Question | null {
-  let kinds = allowedKinds(card, { canSpeak })
+  let kinds = allowedKinds(card, context)
   while (kinds.length) {
     const kind = pickKind(kinds, recentKinds, rng)
-    if (kind === 'spell') return { kind }
+    if (kind === 'spell' || kind === 'cloze' || kind === 'dictation') return { kind }
     const field = kind === 'meaning' ? 'meaning' : 'word'
     const { options, answerIndex } = buildChoices(card, pool, field, rng)
     if (options.length >= MIN_CHOICES) return { kind, options, answerIndex }
@@ -208,4 +253,85 @@ export function gradeFor({
 }): Rating {
   if (!correct) return 'again'
   return hinted || attempts > 1 ? 'hard' : 'good'
+}
+
+export type DictationStatus = 'ok' | 'missed' | 'extra'
+
+export interface DictationWord {
+  text: string
+  /** ok: typed right · missed: in the sentence, not typed · extra: typed, not in the sentence */
+  status: DictationStatus
+  /** Part of the card's own word (the example's `hit`). */
+  target: boolean
+}
+
+export interface DictationResult {
+  words: DictationWord[]
+  /** Every word of the card's own word was typed. This alone decides the rating. */
+  targetCorrect: boolean
+  /** Share of the sentence's words typed right, 0–1. */
+  accuracy: number
+}
+
+/** The words of a sentence as written, with where each sits. */
+function wordsOf(text: string) {
+  return [
+    ...String(text)
+      .normalize('NFC')
+      .matchAll(/[\p{L}\p{N}]+(?:['’][\p{L}\p{N}]+)*/gu),
+  ].map((m) => ({ text: m[0], start: m.index, end: m.index + m[0].length }))
+}
+
+const wordKey = (word: string) => word.toLowerCase().replace(/’/g, "'")
+
+/**
+ * Grade a dictation word by word: case and punctuation do not count. The
+ * typed words are lined up with the sentence's by their longest common
+ * subsequence, so one missing or extra word does not throw off the rest.
+ */
+export function gradeDictation(input: string, sentence: string, hit: string): DictationResult {
+  const want = wordsOf(sentence)
+  const got = wordsOf(input)
+  const hitStart = sentence.indexOf(hit)
+  const hitEnd = hitStart + hit.length
+  const isTarget = (w: { start: number; end: number }) =>
+    hitStart >= 0 && w.start < hitEnd && w.end > hitStart
+
+  // lcs[i][j]: longest common run of want[i..] and got[j..].
+  const lcs = Array.from({ length: want.length + 1 }, () =>
+    new Array<number>(got.length + 1).fill(0),
+  )
+  for (let i = want.length - 1; i >= 0; i--) {
+    for (let j = got.length - 1; j >= 0; j--) {
+      lcs[i][j] =
+        wordKey(want[i].text) === wordKey(got[j].text)
+          ? lcs[i + 1][j + 1] + 1
+          : Math.max(lcs[i + 1][j], lcs[i][j + 1])
+    }
+  }
+
+  const words: DictationWord[] = []
+  let i = 0
+  let j = 0
+  while (i < want.length || j < got.length) {
+    if (i < want.length && j < got.length && wordKey(want[i].text) === wordKey(got[j].text)) {
+      words.push({ text: want[i].text, status: 'ok', target: isTarget(want[i]) })
+      i++
+      j++
+    } else if (j < got.length && (i === want.length || lcs[i][j + 1] >= lcs[i + 1][j])) {
+      words.push({ text: got[j].text, status: 'extra', target: false })
+      j++
+    } else {
+      words.push({ text: want[i].text, status: 'missed', target: isTarget(want[i]) })
+      i++
+    }
+  }
+
+  const targets = words.filter((w) => w.target)
+  const right = words.filter((w) => w.status === 'ok').length
+  return {
+    words,
+    targetCorrect: targets.length > 0 && targets.every((w) => w.status === 'ok'),
+    accuracy: want.length ? right / want.length : 0,
+  }
 }

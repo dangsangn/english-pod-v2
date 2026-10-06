@@ -10,12 +10,13 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { cardId } from '../src/lib/srs.ts';
+import { cardId, isLeech } from '../src/lib/srs.ts';
 import {
     allowedKinds,
     buildChoices,
     checkSpelling,
     comparable,
+    gradeDictation,
     gradeFor,
     lettersOf,
     makeQuestion,
@@ -66,6 +67,9 @@ function loadCards() {
                 viDef: entry.viDef || '',
                 episodeIds: [episodeId],
                 state: 'review',
+                interval: 1,
+                lapses: 0,
+                example: entry.ex ? { ex: entry.ex, hit: entry.exHit, vi: entry.exVi } : null,
             });
         }
     }
@@ -120,8 +124,25 @@ function checkSpellingOf(card) {
     if (checkSpelling(`${card.word}x`, card.word)) fail(`${where}: an extra letter is accepted`);
 }
 
+function checkExampleOf(card) {
+    const { example } = card;
+    if (!example) return;
+    const where = `"${card.word}" (example)`;
+    if (!example.ex.includes(example.hit)) fail(`${where}: hit is not in the sentence`);
+    if (!lettersOf(example.hit)) fail(`${where}: cloze has no letters to type`);
+    if (!checkSpelling(example.hit, example.hit)) fail(`${where}: cloze rejects its own answer`);
+    const full = gradeDictation(example.ex, example.ex, example.hit);
+    if (!full.targetCorrect || full.accuracy !== 1) {
+        fail(`${where}: dictation of the sentence itself is not fully right`);
+    }
+    if (!full.words.some((w) => w.target)) fail(`${where}: dictation finds no target word`);
+    if (gradeDictation('', example.ex, example.hit).targetCorrect) {
+        fail(`${where}: an empty dictation counts as right`);
+    }
+}
+
 function checkRules(rng) {
-    const newCard = { id: 'n', word: 'grab', vi: 'chộp lấy', def: '', state: 'new', episodeIds: [1] };
+    const newCard = { id: 'n', word: 'grab', vi: 'chộp lấy', def: '', state: 'new', interval: 0, lapses: 0, episodeIds: [1] };
     if (allowedKinds(newCard, { canSpeak: true }).includes('spell')) {
         fail('rules: a new card may be asked to spell');
     }
@@ -150,6 +171,53 @@ function checkRules(rng) {
     for (const [result, want] of grades) {
         if (gradeFor(result) !== want) fail(`rules: gradeFor(${JSON.stringify(result)}) should be ${want}`);
     }
+    const same = (a, b) => JSON.stringify([...a].sort()) === JSON.stringify([...b].sort());
+    const card = { ...newCard, lapses: 0 };
+    const stages = [
+        ['seed', { state: 'new', interval: 0 }, true, true, ['meaning', 'listen']],
+        ['sprout', { state: 'learning', interval: 0 }, true, true, ['meaning', 'listen', 'spell']],
+        ['bud', { state: 'review', interval: 5 }, true, true, ['listen', 'spell', 'cloze']],
+        ['bloom', { state: 'review', interval: 30 }, true, true, ['cloze', 'dictation']],
+        ['bloom, no example', { state: 'review', interval: 30 }, true, false, ['listen', 'spell']],
+        ['bloom, no speech', { state: 'review', interval: 30 }, false, true, ['cloze']],
+        ['relearning', { state: 'relearning', interval: 30 }, true, true, ['meaning', 'listen', 'spell']],
+    ];
+    for (const [name, patch, canSpeak, hasExample, want] of stages) {
+        const got = allowedKinds({ ...card, ...patch }, { canSpeak, hasExample });
+        if (!same(got, want)) fail(`rules: ${name} allows ${JSON.stringify(got)}, want ${JSON.stringify(want)}`);
+    }
+    const bloom = { ...card, state: 'review', interval: 30 };
+    for (let i = 0; i < 50; i++) {
+        const q = makeQuestion(bloom, [bloom], [], { canSpeak: true, hasExample: true }, rng);
+        if (!q || (q.kind !== 'cloze' && q.kind !== 'dictation')) {
+            fail(`rules: a bloom card got ${q?.kind}`);
+            break;
+        }
+    }
+
+    const sentence = "I'll go with the spaghetti.";
+    const dictation = [
+        ["I'll go with the spaghetti", true, 1],
+        ['I’ll go with the spaghetti', true, 1],
+        ['ill go with spaghetti', true, 3 / 5],
+        ["I'll go the spaghetti", false, 4 / 5],
+        ["I'll go with the the spaghetti", true, 1],
+    ];
+    for (const [input, targetCorrect, accuracy] of dictation) {
+        const got = gradeDictation(input, sentence, 'go with');
+        if (got.targetCorrect !== targetCorrect || Math.abs(got.accuracy - accuracy) > 1e-9) {
+            fail(
+                `rules: gradeDictation(${JSON.stringify(input)}) = ${got.targetCorrect}/${got.accuracy}, ` +
+                    `want ${targetCorrect}/${accuracy}`,
+            );
+        }
+    }
+    const extra = gradeDictation("I'll go with the the spaghetti", sentence, 'go with');
+    if (extra.words.filter((w) => w.status === 'extra').length !== 1) {
+        fail('rules: a repeated word should show as one extra');
+    }
+
+    if (isLeech({ lapses: 3 }) || !isLeech({ lapses: 4 })) fail('rules: a leech is 4 or more lapses');
 }
 
 const rng = mulberry32(42);
@@ -170,6 +238,7 @@ let shortWithOneDeck = 0;
 for (const card of cards) {
     const deck = byEpisode.get(card.episodeIds[0]);
     checkSpellingOf(card);
+    checkExampleOf(card);
     checkChoices(card, cards, 'word', rng, true);
     if (checkChoices(card, deck, 'word', rng, false) < 4 && deck.length >= 4) shortWithOneDeck++;
     if (meaningOf(card)) {
