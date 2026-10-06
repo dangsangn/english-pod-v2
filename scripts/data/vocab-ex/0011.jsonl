@@ -1,0 +1,254 @@
+{"w":"evidence","d":"something that shows the thing is true","ex":"There is no evidence.","hit":"evidence","src":"dialogue","ep":204,"vi":""}
+{"w":"scratch","d":"to rub your skin with something sharp","ex":"Mother makes her own lemonade from scratch.","hit":"scratch","src":"dialogue","ep":210,"vi":""}
+{"w":"burial","d":"the act of burying, esp the interment of a dead body","ex":"Have you bought a burial plot and a casket?","hit":"burial","src":"dialogue","ep":213,"vi":""}
+{"w":"weigh","d":"to find the weight of something","ex":"You will need some stamps for the postcards and I need to weigh that package, too.","hit":"weigh","src":"dialogue","ep":201,"vi":""}
+{"w":"up to","d":"at least","ex":"Well, standard mail can take up to fifteen working days .","hit":"up to","src":"dialogue","ep":201,"vi":""}
+{"w":"take","d":"cost or require","ex":"Well, standard mail can take up to fifteen working days .","hit":"take","src":"dialogue","ep":201,"vi":""}
+{"w":"rush","d":"to be in a hurry","ex":"Well, there's no rush.","hit":"rush","src":"dialogue","ep":201,"vi":""}
+{"w":"fragile","d":"easily broken or damaged","ex":"Please be extra careful, the contents of the package are fragile.","hit":"fragile","src":"dialogue","ep":201,"vi":""}
+{"w":"via","d":"travelling through a place on the way to somewhere","ex":"Please send it via priority mail.","hit":"via","src":"dialogue","ep":201,"vi":""}
+{"w":"priority","d":"to be treated as more important than something els","ex":"Please send it via priority mail.","hit":"priority","src":"dialogue","ep":201,"vi":""}
+{"w":"express","d":"a service for carrying things faster than usual","ex":"Express is the fastest, but it's also the most expensive.","hit":"Express","src":"dialogue","ep":201,"vi":""}
+{"w":"standard","d":"usual or ordinary","ex":"Well, standard mail can take up to fifteen working days .","hit":"standard","src":"dialogue","ep":201,"vi":""}
+{"w":"parcel","d":"something wrapped up; a package","ex":"","hit":"","src":"written","ep":201,"vi":""}
+{"w":"forwarder","d":"an agent that facilitates and assures the passage of received goods to their destination.","ex":"","hit":"","src":"written","ep":201,"vi":""}
+{"w":"postage","d":"the charge for delivering a piece of mail","ex":"","hit":"","src":"written","ep":201,"vi":""}
+{"w":"P.O Box","d":"a numbered compartment in a post office where mail is put to be called for","ex":"","hit":"","src":"written","ep":201,"vi":""}
+{"w":"ship","d":"to place, transport, or travel on any conveyance, esp aboard a ship","ex":"","hit":"","src":"written","ep":201,"vi":""}
+{"w":"typical","d":"having the usual characteristics (of)","ex":"This is so typical.","hit":"typical","src":"dialogue","ep":202,"vi":""}
+{"w":"direction","d":"an instruction leading to a place or point","ex":"Will you just please stop and ask for directions?","hit":"directions","src":"dialogue","ep":202,"vi":"","check":true}
+{"w":"on sale","d":"special offer or discount","ex":"I told you we should buy that GPS that was on sale, but would you listen to me?","hit":"on sale","src":"dialogue","ep":202,"vi":""}
+{"w":"get to","d":"reach;be able to arrive at(in)","ex":"Can you tell me how to get to Saint Mary's Church?","hit":"get to","src":"dialogue","ep":202,"vi":""}
+{"w":"better off","d":"be in a better condition","ex":"If you would only listen to me more often, you would be better off.","hit":"better off","src":"dialogue","ep":202,"vi":""}
+{"w":"go around","d":"circulate","ex":"We have been going around in circles for the past hour!","hit":"going around","src":"dialogue","ep":202,"vi":"","check":true}
+{"w":"GPS","d":"Global Positioning System","ex":"I told you we should buy that GPS that was on sale, but would you listen to me?","hit":"GPS","src":"dialogue","ep":202,"vi":""}
+{"w":"shut your trap","d":"shut up","ex":"I'll ask this guy for directions if it will shut your trap!","hit":"shut your trap","src":"dialogue","ep":202,"vi":""}
+{"w":"freeway","d":"A highway without tolls. Also known as an expressway","ex":"","hit":"","src":"written","ep":202,"vi":""}
+{"w":"Toll","d":"A fixed charge or tax for a privilege, especially for passage across a bridge or along a road.","ex":"I told you we should buy that GPS that was on sale, but would you listen to me?","hit":"told","src":"dialogue","ep":202,"vi":"","check":true}
+{"w":"Pedestrian","d":"a person travelling on foot; walker","ex":"","hit":"","src":"written","ep":202,"vi":""}
+{"w":"middle of nowhere","d":"a remote or far away place where there are very few people or buildings","ex":"","hit":"","src":"written","ep":202,"vi":""}
+{"w":"Hitchhiker","d":"A person that travels by soliciting free rides along a road.","ex":"","hit":"","src":"written","ep":202,"vi":""}
+{"w":"oh man","d":"to express emotion or feeling, like God, Jesus","ex":"Oh man...","hit":"Oh man","src":"dialogue","ep":203,"vi":""}
+{"w":"calm down","d":"become quiet or calm, relax","ex":"It's okay sir, calm down.","hit":"calm down","src":"dialogue","ep":203,"vi":""}
+{"w":"laptop","d":"a small computer which is easily carried","ex":"I turned on my laptop and it broke!","hit":"laptop","src":"dialogue","ep":203,"vi":""}
+{"w":"I mean","d":"to express ones own opinion, meaning","ex":"I mean, the monitor went black!","hit":"I mean","src":"dialogue","ep":203,"vi":""}
+{"w":"monitor","d":"an electronic display that shows images","ex":"I mean, the monitor went black!","hit":"monitor","src":"dialogue","ep":203,"vi":""}
+{"w":"virus","d":"a program designed to harm a computer","ex":"Ok, sir, it sounds like you might have a virus.","hit":"virus","src":"dialogue","ep":203,"vi":""}
+{"w":"nope","d":"no (informal)","ex":"Nope!","hit":"Nope","src":"dialogue","ep":203,"vi":""}
+{"w":"program","d":"a set of instructions to perform","ex":"No, your computer might have a virus, I mean, it has a bad program on it.","hit":"program","src":"dialogue","ep":203,"vi":""}
+{"w":"crash","d":"stop working or functioning properly","ex":"……Wait a minute, CRASH??!!","hit":"CRASH","src":"dialogue","ep":203,"vi":""}
+{"w":"antivirus","d":"a program designed to identify and remove computer viruses","ex":"I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.","hit":"antivirus","src":"dialogue","ep":203,"vi":""}
+{"w":"run","d":"to work or be in operation","ex":"I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.","hit":"run","src":"dialogue","ep":203,"vi":""}
+{"w":"spyware","d":"software that secretly gathers information","ex":"Spyware?","hit":"Spyware","src":"dialogue","ep":203,"vi":""}
+{"w":"Hotline","d":"A telephone line that gives quick and direct access to a source of information or help","ex":"","hit":"","src":"written","ep":203,"vi":""}
+{"w":"Phisihing","d":"To request confidential information over the Internet under false pretenses in order to fraudulently obtain credit card numbers, passwords, or other personal data","ex":"","hit":"","src":"written","ep":203,"vi":""}
+{"w":"Crack","d":"To break open or into something such as a safe or a computer system","ex":"……Wait a minute, CRASH??!!","hit":"CRASH","src":"dialogue","ep":203,"vi":"","check":true}
+{"w":"Format","d":"To divide (a disk) into marked sectors so that it may store data.","ex":"","hit":"","src":"written","ep":203,"vi":""}
+{"w":"Hardware","d":"A computer and the associated physical equipment directly involved in the performance of data-processing or communications functions.","ex":"","hit":"","src":"written","ep":203,"vi":""}
+{"w":"reach a verdict","d":"succeed in making the finding of a jury in a trial","ex":"Ladies and Gentlemen of the jury, have you reached a verdict?","hit":"reached a verdict","src":"dialogue","ep":204,"vi":"","check":true}
+{"w":"guilty","d":"responsible for doing something bad","ex":"our verdict is……not guilty!","hit":"guilty","src":"dialogue","ep":204,"vi":""}
+{"w":"your honor","d":"a respectful title used to or of certain judges","ex":"Yes, your honor.","hit":"your honor","src":"dialogue","ep":204,"vi":""}
+{"w":"jury","d":"a body of persons sworn to judge","ex":"Ladies and Gentlemen of the jury, have you reached a verdict?","hit":"jury","src":"dialogue","ep":204,"vi":""}
+{"w":"accuse of","d":"to charge someone with a crime","ex":"The prosecution has accused my client of being a pickpocket!","hit":"accused my client of","src":"dialogue","ep":204,"vi":"","check":true}
+{"w":"commit","d":"to do something (usually a crime)","ex":"Your honor, ladies and gentlemen of the jury, My client, Robert Malone, has been accused of a crime he did not commit.","hit":"commit","src":"dialogue","ep":204,"vi":""}
+{"w":"prosecution","d":"the lawyers against the defendant","ex":"The prosecution has accused my client of being a pickpocket!","hit":"prosecution","src":"dialogue","ep":204,"vi":""}
+{"w":"pickpocket","d":"one who steals from pockets","ex":"The prosecution has accused my client of being a pickpocket!","hit":"pickpocket","src":"dialogue","ep":204,"vi":""}
+{"w":"testimony","d":"a declaration of truth or fact","ex":"I know we have heard the testimony of many people here today, ….","hit":"testimony","src":"dialogue","ep":204,"vi":""}
+{"w":"defendant","d":"the person being sued or accused","ex":"people who claim the defendant, my client, stole their wallets.","hit":"defendant","src":"dialogue","ep":204,"vi":""}
+{"w":"victim","d":"people affected by a painful or sad experience","ex":"I feel sorry for these victims, I really do……… but my client is innocent!","hit":"victims","src":"dialogue","ep":204,"vi":"","check":true}
+{"w":"innocent","d":"not guilty","ex":"My client is innocent!","hit":"innocent","src":"dialogue","ep":204,"vi":""}
+{"w":"so-called","d":"refer to something that is not suitable","ex":"","hit":"","src":"written","ep":204,"vi":""}
+{"w":"witness","d":"one who is called on to testify before a court","ex":"Let's look at the facts… one: These 'so-called' witnesses did not actually see the defendant steal anything……….","hit":"witnesses","src":"dialogue","ep":204,"vi":"","check":true}
+{"w":"Acquittal","d":"A jury verdict that a criminal defendant is not guilty, or the finding of a judge that the evidence is insufficient to support a conviction.","ex":"","hit":"","src":"written","ep":204,"vi":""}
+{"w":"Affidavit","d":"A written or printed statement made under oath.","ex":"","hit":"","src":"written","ep":204,"vi":""}
+{"w":"Lawsuit","d":"A legal action started by a plaintiff against a defendant based on a complaint that the defendant failed to perform a legal duty which resulted in harm to the plaintiff.","ex":"","hit":"","src":"written","ep":204,"vi":""}
+{"w":"Plea","d":"In a criminal case, the defendant's statement pleading \"guilty\" or \"not guilty\" in answer to the charges.","ex":"","hit":"","src":"written","ep":204,"vi":""}
+{"w":"Warrant","d":"Court authorization, most often for law enforcement officers, to conduct a search or make an arrest.","ex":"","hit":"","src":"written","ep":204,"vi":""}
+{"w":"ambience","d":"the atmosphere of a place","ex":"","hit":"","src":"written","ep":205,"vi":""}
+{"w":"distribuitor","d":"a person or business that sells to retail stores","ex":"","hit":"","src":"written","ep":205,"vi":""}
+{"w":"manufacturer","d":"a company that makes goods","ex":"They're a new manufacturer and are looking to break into the luxury market.","hit":"manufacturer","src":"dialogue","ep":205,"vi":""}
+{"w":"break into","d":"enter quickly","ex":"They're a new manufacturer and are looking to break into the luxury market.","hit":"break into","src":"dialogue","ep":205,"vi":""}
+{"w":"spring","d":"To appear or come into being quickly","ex":"","hit":"","src":"written","ep":205,"vi":""}
+{"w":"exemplify","d":"sets an example, a demonstration","ex":"I think your brand exemplifies many ofthe same traits as Grangers and serving these chocolates would really add to your reputation for providing elegant, luxurious, first class dining.","hit":"exemplifies","src":"dialogue","ep":205,"vi":"","check":true}
+{"w":"trait","d":"a characteristic feature or quality","ex":"It's a traditional Scottish delicacy; you take sheep's liver, heart and lung and stuff it inside ofthe sheep's stomach.","hit":"traditional","src":"dialogue","ep":205,"vi":"","check":true}
+{"w":"factory","d":"place where goods are made","ex":"Actually, the factory is located in Scotland.","hit":"factory","src":"dialogue","ep":205,"vi":""}
+{"w":"know","d":"famous for, easily recognized","ex":"Well, as you know, I have recently become the sole distributor for Grangers Gourmet Bon-bons here in the United States.","hit":"know","src":"dialogue","ep":205,"vi":""}
+{"w":"tariff","d":"a tax or amount of money to be paid","ex":"The government is one hundred percent supportive of creating new export markets and has guaranteed a low tariff for all wholesale orders of over one thousand units.","hit":"tariff","src":"dialogue","ep":205,"vi":""}
+{"w":"wholesale","d":"The sale of goods in large quantities.","ex":"The government is one hundred percent supportive of creating new export markets and has guaranteed a low tariff for all wholesale orders of over one thousand units.","hit":"wholesale","src":"dialogue","ep":205,"vi":""}
+{"w":"red tape","d":"procedures required to gain bureaucratic approval","ex":"They've also reduced the red tape involved at customs as well.","hit":"red tape","src":"dialogue","ep":205,"vi":""}
+{"w":"cutting corners","d":"To do something in the easiest or most inexpensive","ex":"Quality is assured as I personally visit the factory to make sure no one's cutting corners with the ingredients.","hit":"cutting corners","src":"dialogue","ep":205,"vi":""}
+{"w":"hand down","d":"to pass from one family member or generation to th","ex":"I have it on highest authority that this traditional secret recipe has been handed down inthe Granger family for generations.","hit":"handed down","src":"dialogue","ep":205,"vi":"","check":true}
+{"w":"Haggis","d":"made of sheep's viscera minced with oatmeal, suet,","ex":"Haggis?","hit":"Haggis","src":"dialogue","ep":205,"vi":""}
+{"w":"stuff","d":"to pack tightly, to cram inside","ex":"It's a traditional Scottish delicacy; you take sheep's liver, heart and lung and stuff it inside ofthe sheep's stomach.","hit":"stuff","src":"dialogue","ep":205,"vi":""}
+{"w":"Angel Investors","d":"Individuals who back emerging entrepreneurial ventures, usually as a bridge to get from the self-funded stage to the level of business that would both need and attract venture capital.","ex":"","hit":"","src":"written","ep":205,"vi":""}
+{"w":"Joint Venture","d":"A legal entity created by two or more businesses joining together to conduct a specific business enterprise with both parties sharing profits and losses.","ex":"","hit":"","src":"written","ep":205,"vi":""}
+{"w":"Venture Capital","d":"A form of financing for a company in which the business gives up partial ownership and control of the business in exchange for capital over a limited time frame, usually 3-5 years.","ex":"","hit":"","src":"written","ep":205,"vi":""}
+{"w":"Merger","d":"A joining together of two previously separate corporations.","ex":"","hit":"","src":"written","ep":205,"vi":""}
+{"w":"Audit","d":"an evaluation of a person, organization, system, process, enterprise, project or product.","ex":"","hit":"","src":"written","ep":205,"vi":""}
+{"w":"bill","d":"a document that shows how much you must pay","ex":"I agreed we would go halves on allthe bills, but frankly I think it's unfair.","hit":"bills","src":"dialogue","ep":206,"vi":"","check":true}
+{"w":"go halves","d":"divide equally","ex":"I agreed we would go halves on allthe bills, but frankly I think it's unfair.","hit":"go halves","src":"dialogue","ep":206,"vi":""}
+{"w":"move out","d":"to vacate a residence, cause to leave","ex":"Maybe you should move out!","hit":"move out","src":"dialogue","ep":206,"vi":""}
+{"w":"what I am getting at","d":"what I am trying to say","ex":"","hit":"","src":"written","ep":206,"vi":""}
+{"w":"way more","d":"much more, a lot more","ex":"You also take 30 minute showers which means you are using way more gas and water than me!","hit":"way more","src":"dialogue","ep":206,"vi":""}
+{"w":"Landlord","d":"One that owns and rents land, buildings, or dwelling units.","ex":"","hit":"","src":"written","ep":206,"vi":""}
+{"w":"Lease","d":"A contract granting use or occupation of property during a specified period in exchange for a specified rent.","ex":"You leave the air conditioner on day and night!","hit":"leave","src":"dialogue","ep":206,"vi":"","check":true}
+{"w":"Utility","d":"A commodity or service, such as electricity, water, or public transportation, that is provided by a public utility","ex":"","hit":"","src":"written","ep":206,"vi":""}
+{"w":"Dower","d":"The rights of a widow in the property of her husband at his death.","ex":"You leave your computer on all night downloading torrents.","hit":"downloading","src":"dialogue","ep":206,"vi":"","check":true}
+{"w":"Breach Of Contract","d":"A legal violation of an established contract between two parties","ex":"","hit":"","src":"written","ep":206,"vi":""}
+{"w":"absurd","d":"ridiculous","ex":"That's absurd!","hit":"absurd","src":"dialogue","ep":207,"vi":""}
+{"w":"rip off","d":"be cheated violently;be stolen from","ex":"How do you know you aren't going to be ripped off by the seller?","hit":"ripped off","src":"dialogue","ep":207,"vi":"","check":true}
+{"w":"trustworthy","d":"reliable, or dependable;worthy of being trusted","ex":"Well, the website handles a point system where if the seller does something wrong, people comment negatively and then you know that he or she may not be trustworthy.","hit":"trustworthy","src":"dialogue","ep":207,"vi":""}
+{"w":"hack","d":"gain unauthorized access to another computer syste","ex":"I have never had any problems with someone hacking my information or anything.","hit":"hacking","src":"dialogue","ep":207,"vi":"","check":true}
+{"w":"browse","d":"to inspect something leisurely and casually","ex":"I don't have to leave the house or browse a dozen stores to find what I'm looking for.","hit":"browse","src":"dialogue","ep":207,"vi":""}
+{"w":"point system","d":"a system of evaluation based on awarding points","ex":"Well, the website handles a point system where if the seller does something wrong, people comment negatively and then you know that he or she may not be trustworthy.","hit":"point system","src":"dialogue","ep":207,"vi":""}
+{"w":"credit card","d":"a plastic card enables the holder to pay on credit","ex":"Do you need a credit card?","hit":"credit card","src":"dialogue","ep":207,"vi":""}
+{"w":"no turning back","d":"not to halt the advance of; no to regret","ex":"Once you step into this world, there is no turning back!","hit":"no turning back","src":"dialogue","ep":207,"vi":""}
+{"w":"electronic commerce","d":"the buying and selling of products or services over the internet","ex":"","hit":"","src":"written","ep":207,"vi":""}
+{"w":"search engine","d":"A program that searches documents for specified keywords and returns a list of the documents where the keywords were found.","ex":"","hit":"","src":"written","ep":207,"vi":""}
+{"w":"COD","d":"Charge on Delivery, a payment method that allows you to pay for goods once they have been delivered.","ex":"","hit":"","src":"written","ep":207,"vi":""}
+{"w":"wire transfer","d":"An electronic transfer of funds from one account to another","ex":"","hit":"","src":"written","ep":207,"vi":""}
+{"w":"webstore","d":"A webstore is a website that sells products or services and typically has an online shopping cart associated with it","ex":"","hit":"","src":"written","ep":207,"vi":""}
+{"w":"plunge","d":"a steep and rapid fall","ex":"Well, the stock market just took a huge plunge and we've lost a lot of money!","hit":"plunge","src":"dialogue","ep":208,"vi":""}
+{"w":"weigh in","d":"to contribute, especially in a discussion","ex":"There are many factors that weigh in, but NASDAQ is down 200 points, the DOW JONES indicator also suffered!","hit":"weigh in","src":"dialogue","ep":208,"vi":""}
+{"w":"profitable","d":"affording gain, benefit, or profit","ex":"You are supposed to be talking to our stockbrokers and making sure that our securities and investments are safe and making a profitable return!","hit":"profitable","src":"dialogue","ep":208,"vi":""}
+{"w":"yield","d":"the amount of something that is produced","ex":"On the other hand, you still have some high yield trash bonds and government bonds that will give us enough liquidity to cut our loses and reinvest in emerging markets.","hit":"yield","src":"dialogue","ep":208,"vi":""}
+{"w":"think outside the box","d":"take another look at something","ex":"We could potentially make this tragedy work for us and make us think outside the box.","hit":"think outside the box","src":"dialogue","ep":208,"vi":""}
+{"w":"Dow Jones Average","d":"an index that shows how 30 large, publicly-owned companies based in the United States have traded during a standard trading session in the stock market.","ex":"","hit":"","src":"written","ep":208,"vi":""}
+{"w":"Fortune 500","d":"an annual list compiled and published by Fortune magazine that ranks the top 500 U.S. closely held and public corporations as ranked by their gross revenue","ex":"","hit":"","src":"written","ep":208,"vi":""}
+{"w":"Equities","d":"Common and preferred stocks, which represent a share in the ownership of a company.","ex":"","hit":"","src":"written","ep":208,"vi":""}
+{"w":"face value","d":"The cash denomination of the individual debt instrument.","ex":"","hit":"","src":"written","ep":208,"vi":""}
+{"w":"Initial Public Offering","d":"A company's first issue of shares to the general public.","ex":"","hit":"","src":"written","ep":208,"vi":""}
+{"w":"hear","d":"learn something by the ear (usually in surprise)","ex":"Well, you didn't hear this from me but the rumor is……….","hit":"hear","src":"dialogue","ep":209,"vi":""}
+{"w":"gossip","d":"rumor or talk of a personal, sensational nature","ex":"No… go on, tell me, what's the latest office gossip?","hit":"gossip","src":"dialogue","ep":209,"vi":""}
+{"w":"whisper","d":"soft speech produced without full voice","ex":"Hey guys, what are you two whispering about?","hit":"whispering","src":"dialogue","ep":209,"vi":"","check":true}
+{"w":"rumor","d":"a mixture of truth and untruth passed around","ex":"Well, you didn't hear this from me but the rumor is……….","hit":"rumor","src":"dialogue","ep":209,"vi":""}
+{"w":"promotion","d":"act of raising in rank or position","ex":"is getting a promotion!","hit":"promotion","src":"dialogue","ep":209,"vi":""}
+{"w":"talk","d":"someone who cannot keep a secret","ex":"","hit":"","src":"written","ep":209,"vi":""}
+{"w":"trust","d":"someone who cannot be trusted","ex":"But… she's a terrible worker… and you can't trust her… she's so two-faced – you can't believe anything she says!","hit":"trust","src":"dialogue","ep":209,"vi":""}
+{"w":"praise","d":"to speak very well about someone","ex":"","hit":"","src":"written","ep":209,"vi":""}
+{"w":"bad mouth","d":"to speak poorly about someone","ex":"","hit":"","src":"written","ep":209,"vi":""}
+{"w":"Lie","d":"someone who does not tell the truth","ex":"","hit":"","src":"written","ep":209,"vi":""}
+{"w":"pick your poison","d":"select whatever you like","ex":"Pick your poison!","hit":"Pick your poison","src":"dialogue","ep":210,"vi":""}
+{"w":"pick up","d":"buy","ex":"I've just picked up a new rifle I've been meaning to try out.","hit":"picked up","src":"dialogue","ep":210,"vi":"","check":true}
+{"w":"roast","d":"cook with dry heat","ex":"Roast pig?","hit":"Roast","src":"dialogue","ep":210,"vi":""}
+{"w":"activist","d":"advocating or engaged in activism","ex":"Bob is an animal rights activist.","hit":"activist","src":"dialogue","ep":210,"vi":""}
+{"w":"well I'll be","d":"used to refer to show surprise","ex":"Well I'll be...","hit":"Well I'll be","src":"dialogue","ep":210,"vi":""}
+{"w":"home cooking","d":"A meal prepared at home","ex":"","hit":"","src":"written","ep":210,"vi":""}
+{"w":"alcohol","d":"An intoxicating drink","ex":"","hit":"","src":"written","ep":210,"vi":""}
+{"w":"nervous","d":"to be uncomfortable(usually emotionally)","ex":"","hit":"","src":"written","ep":210,"vi":""}
+{"w":"frighten","d":"to scare someone","ex":"","hit":"","src":"written","ep":210,"vi":""}
+{"w":"chastise","d":"to scold someone","ex":"","hit":"","src":"written","ep":210,"vi":""}
+{"w":"such a","d":"so extreme a degree","ex":"You are such a cheater!","hit":"such a","src":"dialogue","ep":211,"vi":""}
+{"w":"cheat","d":"to deceive by trickery","ex":"I am not cheating.","hit":"cheating","src":"dialogue","ep":211,"vi":"","check":true}
+{"w":"my turn","d":"my opportunity to do something","ex":"Now it's my turn to roll the dice.","hit":"my turn","src":"dialogue","ep":211,"vi":""}
+{"w":"jail","d":"place where prisoners are kept","ex":"I should send you to jail!","hit":"jail","src":"dialogue","ep":211,"vi":""}
+{"w":"can I","d":"used to ask for permissions","ex":"Can I have my $200 please?","hit":"Can I","src":"dialogue","ep":211,"vi":""}
+{"w":"banker","d":"the player in charge of the bank in gambling games","ex":"Banker?","hit":"Banker","src":"dialogue","ep":211,"vi":""}
+{"w":"Bank Teller","d":"A person who works for the bank","ex":"","hit":"","src":"written","ep":211,"vi":""}
+{"w":"Crook","d":"A person who steals(usually things of value)","ex":"","hit":"","src":"written","ep":211,"vi":""}
+{"w":"Permission","d":"To accept a request","ex":"","hit":"","src":"written","ep":211,"vi":""}
+{"w":"Gambling","d":"A game of odds","ex":"","hit":"","src":"written","ep":211,"vi":""}
+{"w":"Collect","d":"to receive something of yours","ex":"When you pass go, you collect $200, Everyone knows that!","hit":"collect","src":"dialogue","ep":211,"vi":""}
+{"w":"reside","d":"live in a place permanently","ex":"I give all the rest and residue of my estate to my spouse, Betty Thompson, should she survive me for days.","hit":"residue","src":"dialogue","ep":212,"vi":"","check":true}
+{"w":"sound","d":"free from disease or injury ;in good condition","ex":"I, Luke Thompson, residing in California, being of sound mind, do hereby declare this instrument to be my last will and testament.","hit":"sound","src":"dialogue","ep":212,"vi":""}
+{"w":"hereby","d":"by means of or as a result of this","ex":"I hereby revoke all previous wills and codicils.","hit":"hereby","src":"dialogue","ep":212,"vi":""}
+{"w":"last will and testament","d":"a paper made to settle property after one's death","ex":"I, Luke Thompson, residing in California, being of sound mind, do hereby declare this instrument to be my last will and testament.","hit":"last will and testament","src":"dialogue","ep":212,"vi":""}
+{"w":"remains","d":"the body of a dead person","ex":"I direct that the disposition of my remains be as follows: I am to be cremated and taken tothe summit of Mount Everest where my ashes will forever remain atthe ceiling of the Earth.","hit":"remains","src":"dialogue","ep":212,"vi":""}
+{"w":"summit","d":"the highest point;top","ex":"I direct that the disposition of my remains be as follows: I am to be cremated and taken tothe summit of Mount Everest where my ashes will forever remain atthe ceiling of the Earth.","hit":"summit","src":"dialogue","ep":212,"vi":""}
+{"w":"estate","d":"everything you own;all your assets","ex":"I give all the rest and residue of my estate to my spouse, Betty Thompson, should she survive me for days.","hit":"estate","src":"dialogue","ep":212,"vi":""}
+{"w":"appoint","d":"choose someone to do a particular job","ex":"I appoint Robert Porter, to act as the executor of this will, to serve without bond.","hit":"appoint","src":"dialogue","ep":212,"vi":""}
+{"w":"affix","d":"add or append","ex":"I herewith affix my signature to this will on this the twenty third of May two thousand ten inthe presence ofthe following witnesses, who witnessed and subscribed this will at my request, and in my presence.","hit":"affix","src":"dialogue","ep":212,"vi":""}
+{"w":"subscribe","d":"to sign at the end of the will or contract","ex":"I herewith affix my signature to this will on this the twenty third of May two thousand ten inthe presence ofthe following witnesses, who witnessed and subscribed this will at my request, and in my presence.","hit":"subscribed","src":"dialogue","ep":212,"vi":"","check":true}
+{"w":"spouse","d":"a person's partner in marriage","ex":"I give all the rest and residue of my estate to my spouse, Betty Thompson, should she survive me for days.","hit":"spouse","src":"dialogue","ep":212,"vi":""}
+{"w":"revoke","d":"cancel","ex":"I hereby revoke all previous wills and codicils.","hit":"revoke","src":"dialogue","ep":212,"vi":""}
+{"w":"Responsiblity","d":"to be held accountable","ex":"","hit":"","src":"written","ep":212,"vi":""}
+{"w":"Directions","d":"A set of actions","ex":"","hit":"","src":"written","ep":212,"vi":""}
+{"w":"Residence","d":"A person's house or dwelling","ex":"","hit":"","src":"written","ep":212,"vi":""}
+{"w":"Donation","d":"To give something free of charge(usually of value)","ex":"","hit":"","src":"written","ep":212,"vi":""}
+{"w":"Funeral","d":"A celebration of a person's life after passing","ex":"","hit":"","src":"written","ep":212,"vi":""}
+{"w":"hold up","d":"continue to live through hardship","ex":"Hi Daniel, how are you holding up?","hit":"holding up","src":"dialogue","ep":213,"vi":"","check":true}
+{"w":"cremate","d":"burn up something and reduce to ash","ex":"Wendy is being cremated.","hit":"cremated","src":"dialogue","ep":213,"vi":"","check":true}
+{"w":"tasteful","d":"being in keeping with good taste","ex":"I am sure the memorial service will be tasteful.","hit":"tasteful","src":"dialogue","ep":213,"vi":""}
+{"w":"detail","d":"having many details","ex":"Thanks, it hasn't been easy, but luckily we have life insurance and Wendy left behind a detailed will that will sort out any other legal matters.","hit":"detailed","src":"dialogue","ep":213,"vi":"","check":true}
+{"w":"Arrange","d":"to make preparations","ex":"There are many things that you have to to arrange.","hit":"arrange","src":"dialogue","ep":213,"vi":""}
+{"w":"Morgue","d":"A place where dead bodies are stored","ex":"","hit":"","src":"written","ep":213,"vi":""}
+{"w":"Funeral Home","d":"A place where memorial services are held","ex":"I booked a time and date with the funeral home, but I still have a lot of things to do.","hit":"funeral home","src":"dialogue","ep":213,"vi":""}
+{"w":"To book","d":"to set a specific time to do something","ex":"","hit":"","src":"written","ep":213,"vi":""}
+{"w":"To grieve","d":"to be sad","ex":"","hit":"","src":"written","ep":213,"vi":""}
+{"w":"naive","d":"ignorant","ex":"It says that I am a little superstitious and occasionally naive!","hit":"naive","src":"dialogue","ep":214,"vi":""}
+{"w":"reckless","d":"having or showing no regard for danger","ex":"It also says that I am open-minded with great ambition but that I can also be reckless and clumsy.","hit":"reckless","src":"dialogue","ep":214,"vi":""}
+{"w":"clumsy","d":"be careless;lack in skill or physical coordinate","ex":"It also says that I am open-minded with great ambition but that I can also be reckless and clumsy.","hit":"clumsy","src":"dialogue","ep":214,"vi":""}
+{"w":"open-minded","d":"easy to entertain new ideas","ex":"","hit":"","src":"written","ep":214,"vi":""}
+{"w":"settle down","d":"be quiet","ex":"OK class, settle down.","hit":"settle down","src":"dialogue","ep":214,"vi":""}
+{"w":"superstitious","d":"showing faith in magic or chance ignorant of laws","ex":"It says that I am a little superstitious and occasionally naive!","hit":"superstitious","src":"dialogue","ep":214,"vi":""}
+{"w":"extrovert","d":"a person concerned more with practical realities","ex":"It says that I am an extroverted, well-balanced person.","hit":"extroverted","src":"dialogue","ep":214,"vi":"","check":true}
+{"w":"eloquent","d":"express yourself clearly and effectively","ex":"It also says that I am magnanimous, eloquent and daring!","hit":"eloquent","src":"dialogue","ep":214,"vi":""}
+{"w":"Bologna","d":"a term used to express disagreement","ex":"Pfft whatever, these tests are bologna!","hit":"bologna","src":"dialogue","ep":214,"vi":""}
+{"w":"easy going","d":"someone who is easy to get a long with","ex":"","hit":"","src":"written","ep":214,"vi":""}
+{"w":"Active","d":"to be full of energy","ex":"","hit":"","src":"written","ep":214,"vi":""}
+{"w":"thrill seeker","d":"a person who enjoys being daring","ex":"","hit":"","src":"written","ep":214,"vi":""}
+{"w":"unsatisfied","d":"to want more","ex":"","hit":"","src":"written","ep":214,"vi":""}
+{"w":"out of","d":"lack","ex":"Honey, we are all out of wine and cheese.","hit":"out of","src":"dialogue","ep":215,"vi":""}
+{"w":"pick up","d":"to choose and buy","ex":"Ok, pick up some cured meats to go with the wine.","hit":"pick up","src":"dialogue","ep":215,"vi":""}
+{"w":"never mind","d":"don't take what you just said into consideration","ex":"Never mind that.","hit":"Never mind","src":"dialogue","ep":215,"vi":""}
+{"w":"last but not least","d":"in addition to all the foregoing","ex":"Last but not least, get some pickles.","hit":"Last but not least","src":"dialogue","ep":215,"vi":""}
+{"w":"deli","d":"a shop selling ready-to-eat food products","ex":"Do you mind running to the deli and picking up a few things?","hit":"deli","src":"dialogue","ep":215,"vi":""}
+{"w":"Demand","d":"To aggressively give orders","ex":"","hit":"","src":"written","ep":215,"vi":""}
+{"w":"Distraction","d":"To lose focus","ex":"","hit":"","src":"written","ep":215,"vi":""}
+{"w":"Inconvenient","d":"Have bad timing","ex":"","hit":"","src":"written","ep":215,"vi":""}
+{"w":"Decieving","d":"To not be truthful","ex":"","hit":"","src":"written","ep":215,"vi":""}
+{"w":"Expenses","d":"To be aware of the spending or saving money","ex":"","hit":"","src":"written","ep":215,"vi":""}
+{"w":"eat right","d":"have healthy food","ex":"Oh John, I thought we said we would start eating right!","hit":"eating right","src":"dialogue","ep":216,"vi":"","check":true}
+{"w":"lifestyle","d":"the way people live","ex":"Our new healthy lifestyle?","hit":"lifestyle","src":"dialogue","ep":216,"vi":""}
+{"w":"junk food","d":"a high-calorie food and low in nutritional value","ex":"That's all junk food!","hit":"junk food","src":"dialogue","ep":216,"vi":""}
+{"w":"organic","d":"without using any chemicals","ex":"Organic?","hit":"Organic","src":"dialogue","ep":216,"vi":""}
+{"w":"green","d":"healthy to the body","ex":"","hit":"","src":"written","ep":216,"vi":""}
+{"w":"doughnut","d":"small ring-shaped friedcakes","ex":"…Doughnuts?","hit":"Doughnuts","src":"dialogue","ep":216,"vi":"","check":true}
+{"w":"Consciousness","d":"To be aware of something","ex":"","hit":"","src":"written","ep":216,"vi":""}
+{"w":"Health Nut","d":"Someone concerned with living a healthy lifestyle","ex":"","hit":"","src":"written","ep":216,"vi":""}
+{"w":"Enviromentalist","d":"Someone who is concerned with the enviroment","ex":"","hit":"","src":"written","ep":216,"vi":""}
+{"w":"Support","d":"to be of help","ex":"","hit":"","src":"written","ep":216,"vi":""}
+{"w":"Resolution","d":"The commitment to do something differently or begin to do something","ex":"","hit":"","src":"written","ep":216,"vi":""}
+{"w":"pitch in","d":"set to work vigorously","ex":"Thanks a lot for pitching in once again Judy, we really appreciate your help.","hit":"pitching in","src":"dialogue","ep":217,"vi":"","check":true}
+{"w":"generous","d":"willing to give away one's money, time, etc.","ex":"There aren't many professional chefs like you who are so generous with their time.","hit":"generous","src":"dialogue","ep":217,"vi":""}
+{"w":"donate","d":"give something for free to a good cause","ex":"Don't be silly Mark, I'm more than happy to donate my time to a good cause.","hit":"donate","src":"dialogue","ep":217,"vi":""}
+{"w":"fall on hard times","d":"be in a difficult situation","ex":"The people who come here have fallen on hard times and a delicious hot meal can really bolster their spirits.","hit":"fallen on hard times","src":"dialogue","ep":217,"vi":"","check":true}
+{"w":"needy","d":"people who need practical or emotional support","ex":"The needy are sure lucky to have you!","hit":"needy","src":"dialogue","ep":217,"vi":""}
+{"w":"hardly","d":"almost not","ex":"You've got no right to be here, you're hardly homeless!","hit":"hardly","src":"dialogue","ep":217,"vi":""}
+{"w":"Culinary","d":"having to do with the preparation of food","ex":"","hit":"","src":"written","ep":217,"vi":""}
+{"w":"Selfless","d":"To be giving of ones time and abilities","ex":"","hit":"","src":"written","ep":217,"vi":""}
+{"w":"akwardness","d":"to feel uncomfortable in a situation","ex":"","hit":"","src":"written","ep":217,"vi":""}
+{"w":"Righteous","d":"to live by a high code of conduct","ex":"","hit":"","src":"written","ep":217,"vi":""}
+{"w":"Harrassment","d":"to persistently bother someone","ex":"","hit":"","src":"written","ep":217,"vi":""}
+{"w":"clean break","d":"thorough or complete stop in a relationship","ex":"It's important we make a clean break.","hit":"clean break","src":"dialogue","ep":218,"vi":""}
+{"w":"pre-nup","d":"prenuptial agreement;a contract prior to marriage","ex":"","hit":"","src":"written","ep":218,"vi":""}
+{"w":"custody","d":"the act of keeping safe or guarding","ex":"My lawyer tells me you've accepted our alimony proposal and the division of property, as well as the custody agreement- I keep the cat and you get the dog.","hit":"custody","src":"dialogue","ep":218,"vi":""}
+{"w":"concede","d":"to acknowledge, often reluctantly, as being true","ex":"Alright, I'll concede the silly gramophone, if you'll agree that I get the silver tea set.","hit":"concede","src":"dialogue","ep":218,"vi":""}
+{"w":"drag this out","d":"proceed for an extended period of time","ex":"I don't want to drag this out any longer than necessary.","hit":"drag this out","src":"dialogue","ep":218,"vi":""}
+{"w":"go our separate ways","d":"set or keep apart in the relationship","ex":"Let's just get down to business and start dividing this stuff up fairly, so we can go our separate ways, alright?","hit":"go our separate ways","src":"dialogue","ep":218,"vi":""}
+{"w":"Bitter","d":"to be angry","ex":"","hit":"","src":"written","ep":218,"vi":""}
+{"w":"Sharing","d":"To equally have possession of something","ex":"","hit":"","src":"written","ep":218,"vi":""}
+{"w":"Civil","d":"to behave with class","ex":"","hit":"","src":"written","ep":218,"vi":""}
+{"w":"Reconsider","d":"To have second thoughts","ex":"","hit":"","src":"written","ep":218,"vi":""}
+{"w":"Dispute","d":"to have an arguement","ex":"","hit":"","src":"written","ep":218,"vi":""}
+{"w":"hold","d":"to cause to take place","ex":"","hit":"","src":"written","ep":219,"vi":""}
+{"w":"bib","d":"a napkin tied under the chin of baby while eating","ex":"What a great little bib for the baby!","hit":"bib","src":"dialogue","ep":219,"vi":""}
+{"w":"come in handy","d":"be useful for a certain purpose","ex":"This will definitely come in handy!","hit":"come in handy","src":"dialogue","ep":219,"vi":""}
+{"w":"crib","d":"baby bed with high sides","ex":"A playpen and crib!","hit":"crib","src":"dialogue","ep":219,"vi":""}
+{"w":"the baby be due","d":"expected date of childbirth","ex":"","hit":"","src":"written","ep":219,"vi":""}
+{"w":"Expectation","d":"a pre-conceived thought of what could or should happen","ex":"","hit":"","src":"written","ep":219,"vi":""}
+{"w":"Gratitude","d":"To be overly thankful","ex":"","hit":"","src":"written","ep":219,"vi":""}
+{"w":"Surprise","d":"To have something happen unexpectedly","ex":"","hit":"","src":"written","ep":219,"vi":""}
+{"w":"Necessity","d":"To must have something","ex":"","hit":"","src":"written","ep":219,"vi":""}
+{"w":"Practical","d":"something which fits a certain need","ex":"","hit":"","src":"written","ep":219,"vi":""}
+{"w":"floor lamp","d":"a tall lamp with a base that stands on the floor","ex":"How about this floor lamp?","hit":"floor lamp","src":"dialogue","ep":220,"vi":""}
+{"w":"armoire","d":"a large wardrobe or cabinet","ex":"We still need to find an armoire and a dresser.","hit":"armoire","src":"dialogue","ep":220,"vi":""}
+{"w":"dresser","d":"a set of shelves usually used for holding clothes","ex":"We still need to find an armoire and a dresser.","hit":"dresser","src":"dialogue","ep":220,"vi":""}
+{"w":"nightstand","d":"a small table or stand placed at a bedside","ex":"I am going to go home and drop off this nightstand, coffee table and love seat while you look for the rest of the things.","hit":"nightstand","src":"dialogue","ep":220,"vi":""}
+{"w":"love seat","d":"small sofa that seats two people","ex":"I am going to go home and drop off this nightstand, coffee table and love seat while you look for the rest of the things.","hit":"love seat","src":"dialogue","ep":220,"vi":""}
+{"w":"recliner","d":"an armchair that can be reclined","ex":"Recliner?","hit":"Recliner","src":"dialogue","ep":220,"vi":""}
+{"w":"while you are at it","d":"during the time you are there","ex":"While you are at it can you pick out a nice recliner?","hit":"While you are at it","src":"dialogue","ep":220,"vi":""}
+{"w":"Sectional","d":"one large couch with different sections","ex":"","hit":"","src":"written","ep":220,"vi":""}
+{"w":"coffee table","d":"A table that is set in the middle of a living room","ex":"I am going to go home and drop off this nightstand, coffee table and love seat while you look for the rest of the things.","hit":"coffee table","src":"dialogue","ep":220,"vi":""}
+{"w":"bar stools","d":"Chairs that are placed at a bar","ex":"","hit":"","src":"written","ep":220,"vi":""}
+{"w":"family room","d":"the room where the family spends time together","ex":"","hit":"","src":"written","ep":220,"vi":""}

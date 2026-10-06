@@ -1,0 +1,256 @@
+{"w":"grab","d":"get quickly","ex":"I'll just go grab a burger across the street.","hit":"grab","src":"dialogue","ep":1,"vi":""}
+{"w":"go with","d":"to choose, pick","ex":"I'll go with the spaghetti and meatballs, salad and the wine.","hit":"go with","src":"dialogue","ep":1,"vi":""}
+{"w":"would recommend","d":"suggest","ex":"For you sir, I would recommend spaghetti and meatballs.","hit":"would recommend","src":"dialogue","ep":1,"vi":""}
+{"w":"complimentary","d":"free","ex":"It comes with either soup or salad and a complimentary glass of wine, sir.","hit":"complimentary","src":"dialogue","ep":1,"vi":""}
+{"w":"still working on","d":"not yet completed, need more time","ex":"No, I'm still working on it.","hit":"still working on","src":"dialogue","ep":1,"vi":""}
+{"w":"impatient","d":"uncomfortable waiting, wanting to go","ex":"","hit":"","src":"written","ep":1,"vi":""}
+{"w":"fast food","d":"food prepared and served quickly","ex":"","hit":"","src":"written","ep":1,"vi":""}
+{"w":"waitress","d":"female server at a restaurant or bar","ex":"","hit":"","src":"written","ep":1,"vi":""}
+{"w":"fancy","d":"nice, expensive, up-scale","ex":"","hit":"","src":"written","ep":1,"vi":""}
+{"w":"casual","d":"relaxed, not dressy","ex":"","hit":"","src":"written","ep":1,"vi":""}
+{"w":"was hoping","d":"to kindly expect","ex":"Yes, I was hoping to take the day off to recover.","hit":"was hoping","src":"dialogue","ep":2,"vi":""}
+{"w":"calling in sick","d":"report that you will not go to work because you are sick","ex":"so you're calling in sick?","hit":"calling in sick","src":"dialogue","ep":2,"vi":""}
+{"w":"coming down","d":"getting, acquiring","ex":"I think I'm coming down with the flu.","hit":"coming down","src":"dialogue","ep":2,"vi":""}
+{"w":"quite ill","d":"very sick","ex":"Actually, I'm feeling quite ill today.","hit":"quite ill","src":"dialogue","ep":2,"vi":""}
+{"w":"how may I help you?","d":"Polite offer to help","ex":"Hello, Daniel speaking, how may I help you?","hit":"how may I help you","src":"dialogue","ep":2,"vi":""}
+{"w":"impolite","d":"rude","ex":"","hit":"","src":"written","ep":2,"vi":""}
+{"w":"permission","d":"allow","ex":"","hit":"","src":"written","ep":2,"vi":""}
+{"w":"symptom","d":"a sign, indication","ex":"","hit":"","src":"written","ep":2,"vi":""}
+{"w":"sick day","d":"day off because you're sick","ex":"","hit":"","src":"written","ep":2,"vi":""}
+{"w":"make it into work","d":"go to work","ex":"","hit":"","src":"written","ep":2,"vi":""}
+{"w":"check in","d":"register at a hotel or airport","ex":"I'd like to check in please.","hit":"check in","src":"dialogue","ep":3,"vi":""}
+{"w":"under the name","d":"name used for the reservation","ex":"I have a reservation under the name Anthony Roberts.","hit":"under the name","src":"dialogue","ep":3,"vi":""}
+{"w":"reservation","d":"booking","ex":"I have a reservation under the name Anthony Roberts.","hit":"reservation","src":"dialogue","ep":3,"vi":""}
+{"w":"confirmation","d":"an approval, verification","ex":"Yeah…Here, this is my confirmation number.","hit":"confirmation","src":"dialogue","ep":3,"vi":""}
+{"w":"mix-up","d":"confusion","ex":"","hit":"","src":"written","ep":3,"vi":""}
+{"w":"complimentary upgrade","d":"free improvement of quality","ex":"We're pleased to offer you a complimentary upgrade.","hit":"complimentary upgrade","src":"dialogue","ep":3,"vi":""}
+{"w":"overbooked","d":"full","ex":"You're right Mr. Roberts, there seems to be a mix-up, unfortunately we're overbooked at the moment .","hit":"overbooked","src":"dialogue","ep":3,"vi":""}
+{"w":"check out","d":"pay and leave a hotel","ex":"","hit":"","src":"written","ep":3,"vi":""}
+{"w":"booking","d":"reservation","ex":"","hit":"","src":"written","ep":3,"vi":""}
+{"w":"concierge","d":"hotel employee that helps guests","ex":"","hit":"","src":"written","ep":3,"vi":""}
+{"w":"deluxe room","d":"hotel room, better than standard","ex":"","hit":"","src":"written","ep":3,"vi":""}
+{"w":"receipt","d":"paper showing payment details","ex":"","hit":"","src":"written","ep":3,"vi":""}
+{"w":"resources","d":"money","ex":"like I told you before, we just don't have the resources to hire you an assistant.","hit":"resources","src":"dialogue","ep":4,"vi":""}
+{"w":"understaffed","d":"not enough people to do the job","ex":"I understand that, but the fact is we're understaffed.","hit":"understaffed","src":"dialogue","ep":4,"vi":""}
+{"w":"the timing is just not right","d":"it is not a good time now","ex":"The timing is just not right.","hit":"The timing is just not right","src":"dialogue","ep":4,"vi":""}
+{"w":"weight off my shoulders","d":"remove pressure or stress","ex":"She would take some of the weight off my shoulders.","hit":"weight off my shoulders","src":"dialogue","ep":4,"vi":""}
+{"w":"give me a hand","d":"help","ex":"She could give me a hand with some of these projects and we could keep our costs down.","hit":"give me a hand","src":"dialogue","ep":4,"vi":""}
+{"w":"that sounds reasonable","d":"is OK","ex":"That sounds reasonable...","hit":"That sounds reasonable","src":"dialogue","ep":4,"vi":""}
+{"w":"recruit","d":"hire","ex":"","hit":"","src":"written","ep":4,"vi":""}
+{"w":"overworked","d":"working too much","ex":"","hit":"","src":"written","ep":4,"vi":""}
+{"w":"short staffed","d":"not enough people to do the job","ex":"","hit":"","src":"written","ep":4,"vi":""}
+{"w":"cut costs","d":"reduce spending","ex":"","hit":"","src":"written","ep":4,"vi":""}
+{"w":"overstaffed","d":"having too many employees","ex":"","hit":"","src":"written","ep":4,"vi":""}
+{"w":"unbelievable","d":"incredible, amazing","ex":"The traffic in New York is unbelievable.","hit":"unbelievable","src":"dialogue","ep":5,"vi":""}
+{"w":"relax","d":"calm down","ex":"Yeah, but just relax honey, we're here and we're going on vacation.","hit":"relax","src":"dialogue","ep":5,"vi":""}
+{"w":"be a mile long","d":"is very long","ex":"It must be a mile long!","hit":"be a mile long","src":"dialogue","ep":5,"vi":""}
+{"w":"cut in line","d":"move in front of someone waiting in line","ex":"No seriously, I was here first, and you can't cut in line like this.","hit":"cut in line","src":"dialogue","ep":5,"vi":""}
+{"w":"there's no way","d":"it's impossible","ex":"There's no way I'm waiting for another two hours.","hit":"There's no way","src":"dialogue","ep":5,"vi":""}
+{"w":"traffic jam","d":"many cars not moving on the road","ex":"","hit":"","src":"written","ep":5,"vi":""}
+{"w":"a few hours from now","d":"soon, in a couple of hours","ex":"","hit":"","src":"written","ep":5,"vi":""}
+{"w":"form a queue","d":"to get in line","ex":"","hit":"","src":"written","ep":5,"vi":""}
+{"w":"jump the queue","d":"cut in line ( Br E)","ex":"","hit":"","src":"written","ep":5,"vi":""}
+{"w":"stand in line","d":"wait in line","ex":"","hit":"","src":"written","ep":5,"vi":""}
+{"w":"line up","d":"form a line","ex":"","hit":"","src":"written","ep":5,"vi":""}
+{"w":"all ready to go","d":"prepared, ready to leave","ex":"So, are we all ready to go?","hit":"all ready to go","src":"dialogue","ep":6,"vi":""}
+{"w":"packed","d":"full, everything is inside","ex":"The car's packed; we have munchies and music, and the map's in the car.","hit":"packed","src":"dialogue","ep":6,"vi":""}
+{"w":"munchies","d":"snacks, food","ex":"The car's packed; we have munchies and music, and the map's in the car.","hit":"munchies","src":"dialogue","ep":6,"vi":""}
+{"w":"fill up the tank","d":"put gas in the car","ex":"Did you fill up the tank?","hit":"fill up the tank","src":"dialogue","ep":6,"vi":""}
+{"w":"all set","d":"ready","ex":"Yup, it's all set.","hit":"all set","src":"dialogue","ep":6,"vi":""}
+{"w":"got all the bases covered","d":"have everything ready","ex":"","hit":"","src":"written","ep":6,"vi":""}
+{"w":"get going","d":"start, leave, depart","ex":"Well… let's get going then!","hit":"get going","src":"dialogue","ep":6,"vi":""}
+{"w":"road trip","d":"long car trip","ex":"I love road trips!","hit":"road trips","src":"dialogue","ep":6,"vi":"","check":true}
+{"w":"pit stop","d":"quick stop for food or gas","ex":"do you think we can make a pit stop?","hit":"pit stop","src":"dialogue","ep":6,"vi":""}
+{"w":"trunk","d":"the luggage area of a car","ex":"","hit":"","src":"written","ep":6,"vi":""}
+{"w":"passenger","d":"person in a car, not the driver","ex":"","hit":"","src":"written","ep":6,"vi":""}
+{"w":"freeway","d":"highway","ex":"","hit":"","src":"written","ep":6,"vi":""}
+{"w":"rental car","d":"a car you rent, a car you pay to borrow","ex":"","hit":"","src":"written","ep":6,"vi":""}
+{"w":"highway toll","d":"fee paid for using the highway","ex":"","hit":"","src":"written","ep":6,"vi":""}
+{"w":"freeze","d":"to stop working properly","ex":"","hit":"","src":"written","ep":7,"vi":""}
+{"w":"take a look","d":"see, revise","ex":"Hey Samuel, can you come take a look at my PC?","hit":"take a look","src":"dialogue","ep":7,"vi":""}
+{"w":"act up","d":"not working properly","ex":"It's acting up again.","hit":"acting up","src":"dialogue","ep":7,"vi":"","check":true}
+{"w":"be right up","d":"go upstairs soon","ex":"Just give me a second; I'll be right up.","hit":"be right up","src":"dialogue","ep":7,"vi":""}
+{"w":"pick up","d":"get, acquire","ex":"But I'm quite careful when I'm browsing the internet, I have no idea how I could have picked up a virus.","hit":"picked up","src":"dialogue","ep":7,"vi":"","check":true}
+{"w":"browse","d":"look, search","ex":"But I'm quite careful when I'm browsing the internet, I have no idea how I could have picked up a virus.","hit":"browsing","src":"dialogue","ep":7,"vi":"","check":true}
+{"w":"up to date","d":"having all the most recent information","ex":"Well, you have to make sure that your anti-virus software is updated regularly; yours wasn't up to date, that's probably what was causing your problems.","hit":"up to date","src":"dialogue","ep":7,"vi":""}
+{"w":"monitor","d":"computer screen","ex":"","hit":"","src":"written","ep":7,"vi":""}
+{"w":"computer tech","d":"person in a company who fixes computers","ex":"","hit":"","src":"written","ep":7,"vi":""}
+{"w":"corrupt file","d":"damaged or broken computer file that can't be opened","ex":"","hit":"","src":"written","ep":7,"vi":""}
+{"w":"surf the net","d":"look for information on the internet","ex":"","hit":"","src":"written","ep":7,"vi":""}
+{"w":"web browser","d":"computer program that allows you to go on the internet","ex":"","hit":"","src":"written","ep":7,"vi":""}
+{"w":"how's it going","d":"how are you","ex":"How's it going?","hit":"How's it going","src":"dialogue","ep":8,"vi":""}
+{"w":"around here","d":"close to here","ex":"Do you live around here?","hit":"around here","src":"dialogue","ep":8,"vi":""}
+{"w":"around the corner","d":"on the next street","ex":"Actually, my office is right around the corner.","hit":"around the corner","src":"dialogue","ep":8,"vi":""}
+{"w":"in bit of a hurry","d":"moving quickly, having no time","ex":"You know, I'm in a bit of a hurry, but here's my card.","hit":"in a bit of a hurry","src":"dialogue","ep":8,"vi":"","check":true}
+{"w":"contact details","d":"information required to contact someone, i.e. telephone number, email address","ex":"Sure, you still have my contact details, right ?","hit":"contact details","src":"dialogue","ep":8,"vi":""}
+{"w":"slip my mind","d":"been forgotten","ex":"You know what, this is really embarrassing, but your name has just slipped my mind.","hit":"slipped my mind","src":"dialogue","ep":8,"vi":"","check":true}
+{"w":"terrible with","d":"bad at","ex":"I'm terrible with names too.","hit":"terrible with","src":"dialogue","ep":8,"vi":""}
+{"w":"around there","d":"close to there","ex":"Actually, my office is right around the corner.","hit":"around the","src":"dialogue","ep":8,"vi":"","check":true}
+{"w":"to recognize","d":"to know and remember someone or something you have seen before","ex":"","hit":"","src":"written","ep":8,"vi":""}
+{"w":"acquaintance","d":"someone you know, but who is not a close friend","ex":"","hit":"","src":"written","ep":8,"vi":""}
+{"w":"in a rush","d":"move quickly, not have much time","ex":"","hit":"","src":"written","ep":8,"vi":""}
+{"w":"forgetful","d":"forgetting things easily","ex":"","hit":"","src":"written","ep":8,"vi":""}
+{"w":"inconsiderate","d":"not thinking of the feelings of other people; not thoughtful","ex":"It's so inconsiderate!","hit":"inconsiderate","src":"dialogue","ep":9,"vi":""}
+{"w":"not such a big deal","d":"not a big problem","ex":"Don't worry about it; it's not such a big deal.","hit":"not such a big deal","src":"dialogue","ep":9,"vi":""}
+{"w":"can't hear a thing","d":"unable to hear","ex":"I can't hear a thing!","hit":"can't hear a thing","src":"dialogue","ep":9,"vi":""}
+{"w":"keep it down","d":"be quiet","ex":"Excuse me, can you keep it down?","hit":"keep it down","src":"dialogue","ep":9,"vi":""}
+{"w":"switch off","d":"turn off","ex":"Did you forget to switch it off?","hit":"switch it off","src":"dialogue","ep":9,"vi":"","check":true}
+{"w":"do you mind","d":"could you please","ex":"Do you mind keeping it down?","hit":"Do you mind","src":"dialogue","ep":9,"vi":""}
+{"w":"noisy","d":"very loud","ex":"Those people in front of us are making so much noise.","hit":"noise","src":"dialogue","ep":9,"vi":"","check":true}
+{"w":"rude","d":"impolite","ex":"","hit":"","src":"written","ep":9,"vi":""}
+{"w":"to disturb","d":"to interrupt, bother, or upset","ex":"","hit":"","src":"written","ep":9,"vi":""}
+{"w":"to interrupt","d":"to speak or make noise when someone else is speaking","ex":"","hit":"","src":"written","ep":9,"vi":""}
+{"w":"to whisper","d":"to speak very softly","ex":"","hit":"","src":"written","ep":9,"vi":""}
+{"w":"concrete solutions","d":"a real or specific solution to a problem","ex":"I want concrete solutions.","hit":"concrete solutions","src":"dialogue","ep":10,"vi":""}
+{"w":"drive sales","d":"increase sales","ex":"How do you intend to drive sales...","hit":"drive sales","src":"dialogue","ep":10,"vi":""}
+{"w":"in the market","d":"in the industry","ex":"Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?","hit":"in the market","src":"dialogue","ep":10,"vi":""}
+{"w":"to match the competitors","d":"be the as good as or better than others companies in the same industry","ex":"Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?","hit":"to match the competitors","src":"dialogue","ep":10,"vi":""}
+{"w":"will never fly","d":"will not work, will not be approved","ex":"","hit":"","src":"written","ep":10,"vi":""}
+{"w":"promotion","d":"something done to make people aware of a product","ex":"A two-for-one promotion?","hit":"promotion","src":"dialogue","ep":10,"vi":""}
+{"w":"be here any minute","d":"will arrive very soon","ex":"The CEO will be here any minute.","hit":"be here any minute","src":"dialogue","ep":10,"vi":""}
+{"w":"to consider","d":"thinking about","ex":"","hit":"","src":"written","ep":10,"vi":""}
+{"w":"brilliant","d":"excellent","ex":"In fact, that's a brilliant idea!","hit":"brilliant","src":"dialogue","ep":10,"vi":""}
+{"w":"competitive","d":"as good as or better than others of the same type","ex":"Yes Mr. Swan, we were kind of considering a two-for-one offer to get more competitive.","hit":"competitive","src":"dialogue","ep":10,"vi":""}
+{"w":"win sales","d":"make sales sucessfully","ex":"","hit":"","src":"written","ep":10,"vi":""}
+{"w":"sales strategy","d":"plans for a company's sales activities","ex":"","hit":"","src":"written","ep":10,"vi":""}
+{"w":"sales cycle","d":"the process a customer goes though when deciding to buy a product","ex":"","hit":"","src":"written","ep":10,"vi":""}
+{"w":"to outsell","d":"to sell more than others","ex":"","hit":"","src":"written","ep":10,"vi":""}
+{"w":"customer loyalty","d":"when a customer buys the same brand over and over","ex":"","hit":"","src":"written","ep":10,"vi":""}
+{"w":"I don't know if you heard","d":"phrase used to introduce a piece of information","ex":"Oh, I don't know if you heard, but someone moved into that old house down the road.","hit":"I don't know if you heard","src":"dialogue","ep":11,"vi":""}
+{"w":"fill me in","d":"tell me about it","ex":"You have to fill me in.","hit":"fill me in","src":"dialogue","ep":11,"vi":""}
+{"w":"a bad feeling","d":"a sense or feeling that something bad is going to happen","ex":"I've got a bad feeling about him.","hit":"a bad feeling","src":"dialogue","ep":11,"vi":""}
+{"w":"weird","d":"strange, unusual","ex":"Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out!","hit":"weird","src":"dialogue","ep":11,"vi":""}
+{"w":"kick out","d":"make or force someone leave when they don't want to","ex":"Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out!","hit":"kicked me out","src":"dialogue","ep":11,"vi":"","check":true}
+{"w":"creep me out","d":"make me feel uncomfortable and a bit scared","ex":"","hit":"","src":"written","ep":11,"vi":""}
+{"w":"you'll never guess","d":"phrase used to introduce a piece of news","ex":"Well, you'll never guess what I saw this morning.","hit":"you'll never guess","src":"dialogue","ep":11,"vi":""}
+{"w":"scare the heck out of me","d":"cause someone to feel a lot of fear","ex":"You scared the heck out of me!","hit":"scared the heck out of me","src":"dialogue","ep":11,"vi":"","check":true}
+{"w":"bizarre","d":"strange or unusual","ex":"","hit":"","src":"written","ep":11,"vi":""}
+{"w":"creepy","d":"strange or scary, causing people to feel nervous and afraid","ex":"","hit":"","src":"written","ep":11,"vi":""}
+{"w":"vampire","d":"a dead person who drinks the blood of living people","ex":"","hit":"","src":"written","ep":11,"vi":""}
+{"w":"have you heard","d":"phrase used to introduce a piece of gossip","ex":"","hit":"","src":"written","ep":11,"vi":""}
+{"w":"guess what","d":"phrase used to introduce an interesting or surprising piece of information","ex":"Well, you'll never guess what I saw this morning.","hit":"guess what","src":"dialogue","ep":11,"vi":""}
+{"w":"such a mess","d":"very dirty, disordered","ex":"Honey, the house is such a mess!","hit":"such a mess","src":"dialogue","ep":12,"vi":""}
+{"w":"tidy up","d":"put things in place, organize","ex":"I need you to help me tidy up a bit.","hit":"tidy up","src":"dialogue","ep":12,"vi":""}
+{"w":"spotless","d":"perfectly clean","ex":"My boss and her husband are coming over for dinner and the house needs to be spotless!","hit":"spotless","src":"dialogue","ep":12,"vi":""}
+{"w":"in the middle of something","d":"busy doing something at the moment","ex":"I'm in the middle of something right now.","hit":"in the middle of something","src":"dialogue","ep":12,"vi":""}
+{"w":"chores","d":"common house tasks","ex":"Ok, here's a list of chores we need to get done.","hit":"chores","src":"dialogue","ep":12,"vi":""}
+{"w":"groceries","d":"food that you buy at a store","ex":"I'll do the dishes and get all the groceries for tonight.","hit":"groceries","src":"dialogue","ep":12,"vi":""}
+{"w":"spring cleaning","d":"careful, thorough house cleaning usually done in the spring/ spring cleaning","ex":"","hit":"","src":"written","ep":12,"vi":""}
+{"w":"immaculate","d":"perfectly clean, having no dirt at all","ex":"","hit":"","src":"written","ep":12,"vi":""}
+{"w":"do the laundry","d":"wash the dirty clothes","ex":"","hit":"","src":"written","ep":12,"vi":""}
+{"w":"dish detergent","d":"soap used to wash the plates, knives, forks, bowls, etc.","ex":"","hit":"","src":"written","ep":12,"vi":""}
+{"w":"trash","d":"garbage (AmE)","ex":"","hit":"","src":"written","ep":12,"vi":""}
+{"w":"rubbish","d":"garbage (BrE)","ex":"","hit":"","src":"written","ep":12,"vi":""}
+{"w":"go over","d":"revise, check","ex":"Jill, let's go over the profit and loss statement.","hit":"go over","src":"dialogue","ep":13,"vi":""}
+{"w":"through the roof","d":"suddenly very high","ex":"Well, the main issue here, as you can see, is that our expenses are through the roof.","hit":"through the roof","src":"dialogue","ep":13,"vi":""}
+{"w":"off the charts","d":"very high","ex":"These numbers are off the charts!","hit":"off the charts","src":"dialogue","ep":13,"vi":""}
+{"w":"expenditures","d":"amount of money spent on something","ex":"Well, um, sir, the company expenditures on entertainment and travel are out of control.","hit":"expenditures","src":"dialogue","ep":13,"vi":""}
+{"w":"out of control","d":"not in control","ex":"Well, um, sir, the company expenditures on entertainment and travel are out of control.","hit":"out of control","src":"dialogue","ep":13,"vi":""}
+{"w":"look into","d":"investigate, try to get information about something","ex":"I'll look into it.","hit":"look into","src":"dialogue","ep":13,"vi":""}
+{"w":"go on and on","d":"continues","ex":"The list goes on and on.","hit":"goes on and on","src":"dialogue","ep":13,"vi":"","check":true}
+{"w":"take care of","d":"do something about","ex":"I'll take care of it.","hit":"take care of","src":"dialogue","ep":13,"vi":""}
+{"w":"revenue","d":"amount of money paid to a business","ex":"","hit":"","src":"written","ep":13,"vi":""}
+{"w":"cash flow","d":"the movement of money into and out of a business","ex":"","hit":"","src":"written","ep":13,"vi":""}
+{"w":"the bottom line","d":"the net profit; the amount of money a business makes after expenses","ex":"","hit":"","src":"written","ep":13,"vi":""}
+{"w":"finances","d":"the amount of money you have and how well it is organized","ex":"","hit":"","src":"written","ep":13,"vi":""}
+{"w":"income","d":"the amount of money a person or a company makes","ex":"","hit":"","src":"written","ep":13,"vi":""}
+{"w":"assets","d":"things of value that are owned by a company","ex":"","hit":"","src":"written","ep":13,"vi":""}
+{"w":"trouble","d":"disturb or bother","ex":"Mr. Corlone, I'm really sorry to trouble you, but I need your help.","hit":"trouble","src":"dialogue","ep":14,"vi":""}
+{"w":"recession","d":"a period of time when the economy of a country is bad","ex":"You're not the only one who has been hit by the recession!","hit":"recession","src":"dialogue","ep":14,"vi":""}
+{"w":"hit me pretty hard","d":"had a strong, negative affect on me","ex":"Well, sir, you see, this recession has hit me pretty hard; I lost my job and I'm in a lot of debt.","hit":"hit me pretty hard","src":"dialogue","ep":14,"vi":""}
+{"w":"debt","d":"the amount of money you owe to a person, bank, company, etc.","ex":"Well, sir, you see, this recession has hit me pretty hard; I lost my job and I'm in a lot of debt.","hit":"debt","src":"dialogue","ep":14,"vi":""}
+{"w":"on top of all that","d":"besides that, in addition to","ex":"Yeah, you know, I've got credit card bills, car payments, I've got to pay my mortgage; and on top of all that, I have to pay my son's college tuition.","hit":"on top of all that","src":"dialogue","ep":14,"vi":""}
+{"w":"broke","d":"not have any money","ex":"I'm broke too, you know!","hit":"broke","src":"dialogue","ep":14,"vi":""}
+{"w":"borrow","d":"take and use some money, and return the equal amount of money at a later time","ex":"","hit":"","src":"written","ep":14,"vi":""}
+{"w":"pay back","d":"return the money you borrowed","ex":"","hit":"","src":"written","ep":14,"vi":""}
+{"w":"a loan","d":"amount of money borrowed","ex":"So you're asking for a loan.","hit":"a loan","src":"dialogue","ep":14,"vi":""}
+{"w":"take out a loan","d":"borrow money","ex":"","hit":"","src":"written","ep":14,"vi":""}
+{"w":"unemployed","d":"having no job","ex":"","hit":"","src":"written","ep":14,"vi":""}
+{"w":"downturn","d":"a time when the economy is worse than usual","ex":"","hit":"","src":"written","ep":14,"vi":""}
+{"w":"feel terrible","d":"sorry","ex":"I feel terrible, I really didn't mean to knock you over.","hit":"feel terrible","src":"dialogue","ep":15,"vi":""}
+{"w":"mean","d":"intend, plan","ex":"I feel terrible, I really didn't mean to knock you over.","hit":"mean","src":"dialogue","ep":15,"vi":""}
+{"w":"explode","d":"suddenly break apart","ex":"My tire, just exploded, and I lost control of my bike.","hit":"exploded","src":"dialogue","ep":15,"vi":"","check":true}
+{"w":"accident","d":"an event that is not planed or intended","ex":"Really, it was an accident.","hit":"accident","src":"dialogue","ep":15,"vi":""}
+{"w":"familiar","d":"probably known, but not clearly remembered","ex":"Oh, wait a second, you seem really familiar, I think I know you from somewhere.","hit":"familiar","src":"dialogue","ep":15,"vi":""}
+{"w":"place","d":"house","ex":"We met at Aaron's place last weekend!","hit":"place","src":"dialogue","ep":15,"vi":""}
+{"w":"coincidence","d":"situation when two or more things happen at the same time in an unplanned way","ex":"What a coincidence!","hit":"coincidence","src":"dialogue","ep":15,"vi":""}
+{"w":"knock over","d":"make something fall over","ex":"I feel terrible, I really didn't mean to knock you over.","hit":"knock you over","src":"dialogue","ep":15,"vi":"","check":true}
+{"w":"regret","d":"feel sad or sorry about something","ex":"","hit":"","src":"written","ep":15,"vi":""}
+{"w":"apologetic","d":"feeling or showing regret, showing an apology","ex":"","hit":"","src":"written","ep":15,"vi":""}
+{"w":"feel guilty","d":"feel responsible for doing something bad","ex":"","hit":"","src":"written","ep":15,"vi":""}
+{"w":"unfamiliar","d":"not familiar","ex":"","hit":"","src":"written","ep":15,"vi":""}
+{"w":"love at first sight","d":"falling in love the first time you see someone","ex":"","hit":"","src":"written","ep":15,"vi":""}
+{"w":"hurry up","d":"move faster","ex":"Hurry up, get in!","hit":"Hurry up","src":"dialogue","ep":16,"vi":""}
+{"w":"make a left","d":"turn left","ex":"OK, make a left here...","hit":"make a left","src":"dialogue","ep":16,"vi":""}
+{"w":"step on it","d":"drive a lot faster","ex":"step on it!","hit":"step on it","src":"dialogue","ep":16,"vi":""}
+{"w":"nuts","d":"crazy","ex":"Are you nuts?","hit":"nuts","src":"dialogue","ep":16,"vi":""}
+{"w":"speed up","d":"go faster","ex":"Come on speed up!","hit":"speed up","src":"dialogue","ep":16,"vi":""}
+{"w":"have a fit","d":"get very angry","ex":"Having a fit is not going to help!","hit":"Having a fit","src":"dialogue","ep":16,"vi":"","check":true}
+{"w":"cut through","d":"quickly go past or though something that blocks you","ex":"just go down here and we'll cut through Ashburn Heights.","hit":"cut through","src":"dialogue","ep":16,"vi":""}
+{"w":"packed","d":"full, having lots of cars","ex":"The freeway will be packed at this hour....","hit":"packed","src":"dialogue","ep":16,"vi":""}
+{"w":"road rage","d":"be very angry at other drivers while driving","ex":"","hit":"","src":"written","ep":16,"vi":""}
+{"w":"back street","d":"small street that is away from the main streets","ex":"","hit":"","src":"written","ep":16,"vi":""}
+{"w":"u-turn","d":"a 180 degree turn in the car","ex":"","hit":"","src":"written","ep":16,"vi":""}
+{"w":"to back up","d":"to move backwards, the opposite of go forwards","ex":"","hit":"","src":"written","ep":16,"vi":""}
+{"w":"to pass","d":"to drive past another car on the road to pass a car on the road","ex":"","hit":"","src":"written","ep":16,"vi":""}
+{"w":"to park","d":"to stop the car and turn off the engine","ex":"","hit":"","src":"written","ep":16,"vi":""}
+{"w":"married","d":"joined in marriage","ex":"I can't believe that Anthony is finally getting married!","hit":"married","src":"dialogue","ep":17,"vi":""}
+{"w":"it's about time","d":"finally","ex":"Yeah, well, it's about time.","hit":"it's about time","src":"dialogue","ep":17,"vi":""}
+{"w":"bridesmaid","d":"female friends or relatives who helps the bride at a wedding","ex":"Look, here come the bridesmaids!","hit":"bridesmaids","src":"dialogue","ep":17,"vi":"","check":true}
+{"w":"aisle","d":"a passage between sections of seats","ex":"Who are those kids walking down the aisle?","hit":"aisle","src":"dialogue","ep":17,"vi":""}
+{"w":"flower girl","d":"a girl at a wedding that throws flower petals down the aisle","ex":"That's the flower girl and the ring bearer.","hit":"flower girl","src":"dialogue","ep":17,"vi":""}
+{"w":"ring bearer","d":"a boy at a wedding that holds the wedding rings","ex":"That's the flower girl and the ring bearer.","hit":"ring bearer","src":"dialogue","ep":17,"vi":""}
+{"w":"reception","d":"party held to celebrate something or to welcome people","ex":"I hope the food's good at the reception.","hit":"reception","src":"dialogue","ep":17,"vi":""}
+{"w":"groom","d":"a man who is about to be married","ex":"I'm pretty sure they're the groom's niece and nephew.","hit":"groom","src":"dialogue","ep":17,"vi":""}
+{"w":"bride","d":"female who is about to get married","ex":"Oh, I think the bride's coming now!","hit":"bride","src":"dialogue","ep":17,"vi":""}
+{"w":"gorgeous","d":"very beautiful or attractive","ex":"She looks gorgeous.","hit":"gorgeous","src":"dialogue","ep":17,"vi":""}
+{"w":"groomsman","d":"male friend or relative who helps the groom on the wedding day","ex":"","hit":"","src":"written","ep":17,"vi":""}
+{"w":"maid of honor","d":"female fiend or relative who acts as a witness at the wedding","ex":"","hit":"","src":"written","ep":17,"vi":""}
+{"w":"best man","d":"male friend or relative who acts as a witness at the wedding","ex":"","hit":"","src":"written","ep":17,"vi":""}
+{"w":"ushers","d":"men who help guest find their seats","ex":"","hit":"","src":"written","ep":17,"vi":""}
+{"w":"vows","d":"promises that the bride and groom make to each other during the wedding ceremony","ex":"","hit":"","src":"written","ep":17,"vi":""}
+{"w":"protest","d":"an event where people gather together to show disapproval of something","ex":"where a protest has broken out.","hit":"protest","src":"dialogue","ep":18,"vi":""}
+{"w":"break out","d":"start suddenly","ex":"","hit":"","src":"written","ep":18,"vi":""}
+{"w":"bailout","d":"the act of saving a company form money problems","ex":"Thousands of angry citizens are protesting against the proposed bailout of the auto manufacturing industry!","hit":"bailout","src":"dialogue","ep":18,"vi":""}
+{"w":"injustice","d":"an unfair situation","ex":"Yeah, yeah, we are here because we feel this is an injustice!","hit":"injustice","src":"dialogue","ep":18,"vi":""}
+{"w":"outrage","d":"something that is morally wrong","ex":"It's an absolute outrage, Sarah, the US government wants to give twenty-five billion dollars of taxpayers' money to the auto industry.","hit":"outrage","src":"dialogue","ep":18,"vi":""}
+{"w":"mismanage","d":"manage badly","ex":"These are companies that have been mismanaged and are now nearly bankrupt.","hit":"mismanaged","src":"dialogue","ep":18,"vi":"","check":true}
+{"w":"have the nerve","d":"dare to","ex":"And then they have the nerve to fly to Washington in private jets!","hit":"have the nerve","src":"dialogue","ep":18,"vi":""}
+{"w":"placard","d":"sign people hold at protests, usually a piece of cardboard on a stick","ex":"","hit":"","src":"written","ep":18,"vi":""}
+{"w":"rally","d":"public meeting in support or opposition of something","ex":"","hit":"","src":"written","ep":18,"vi":""}
+{"w":"demonstration","d":"event where people gather together to show that they support or oppose something","ex":"","hit":"","src":"written","ep":18,"vi":""}
+{"w":"demonstrators","d":"people who go to a demonstration or protest","ex":"","hit":"","src":"written","ep":18,"vi":""}
+{"w":"opponent","d":"a person who opposes something or someone","ex":"","hit":"","src":"written","ep":18,"vi":""}
+{"w":"proponent","d":"person who supports someone or something","ex":"","hit":"","src":"written","ep":18,"vi":""}
+{"w":"get a load of","d":"look at (informal)","ex":"Get a load of this guy!","hit":"Get a load of","src":"dialogue","ep":19,"vi":""}
+{"w":"license","d":"official document that shows you have permission to drive a car","ex":"License and registration please.","hit":"License","src":"dialogue","ep":19,"vi":""}
+{"w":"eggnog","d":"traditional Christmas drink containing eggs, cream, sugar and rum","ex":"I had one or two glasses of eggnog, but nothing else.","hit":"eggnog","src":"dialogue","ep":19,"vi":""}
+{"w":"vehicle","d":"machine use to carry people, i.e. a car or truck","ex":"Step out of the vehicle, please.","hit":"vehicle","src":"dialogue","ep":19,"vi":""}
+{"w":"step out","d":"briefly go out of a place","ex":"Step out of the vehicle, please.","hit":"Step out","src":"dialogue","ep":19,"vi":""}
+{"w":"take that tone","d":"speak in that tone of voice","ex":"Don't take that tone with me.","hit":"take that tone","src":"dialogue","ep":19,"vi":""}
+{"w":"invoice","d":"official document that shows you have paid for something you bought","ex":"Do you have an invoice for these items?","hit":"invoice","src":"dialogue","ep":19,"vi":""}
+{"w":"arrest","d":"the act of legally taking someone to jail","ex":"You are under arrest, sir.","hit":"arrest","src":"dialogue","ep":19,"vi":""}
+{"w":"pout","d":"push out your lips to show that you are unhappy","ex":"You better not pout, you better not cry.","hit":"pout","src":"dialogue","ep":19,"vi":""}
+{"w":"sleigh","d":"large, open vehicle that is pulled by horses over snow or ice","ex":"What about my sleigh?","hit":"sleigh","src":"dialogue","ep":19,"vi":""}
+{"w":"handcuffs","d":"a set of two metal rings that are used to join a persons hands together, esp. by police","ex":"","hit":"","src":"written","ep":19,"vi":""}
+{"w":"prison","d":"a building where criminals are kept as punishment","ex":"","hit":"","src":"written","ep":19,"vi":""}
+{"w":"read someone's rights","d":"tell someone their legal rights, usually when they are arrested","ex":"","hit":"","src":"written","ep":19,"vi":""}
+{"w":"DUI","d":"driving under the influence of alcohol or drugs","ex":"","hit":"","src":"written","ep":19,"vi":""}
+{"w":"speeding ticket","d":"a piece of paper the police give if you are diving too fast","ex":"","hit":"","src":"written","ep":19,"vi":""}
+{"w":"seem to be","d":"appears or is","ex":"What seems to be the problem?","hit":"seems to be","src":"dialogue","ep":20,"vi":"","check":true}
+{"w":"struggle","d":"try very hard","ex":"I'm getting headaches, and I really struggle to see things that are far away.","hit":"struggle","src":"dialogue","ep":20,"vi":""}
+{"w":"20/20 vision","d":"perfect eyesight","ex":"","hit":"","src":"written","ep":20,"vi":""}
+{"w":"make out","d":"see","ex":"Mmm… X, E, R, 3, a question mark, and I can't quite make out the other symbol but I think it's the peace sign.","hit":"make out","src":"dialogue","ep":20,"vi":""}
+{"w":"far sighted","d":"see far-away things more clearly than things nearby","ex":"","hit":"","src":"written","ep":20,"vi":""}
+{"w":"as blind as a bat","d":"have really poor vision","ex":"You're as blind as a bat!","hit":"as blind as a bat","src":"dialogue","ep":20,"vi":""}
+{"w":"vision","d":"ability to see things","ex":"But I have always had 20/20 vision.","hit":"vision","src":"dialogue","ep":20,"vi":""}
+{"w":"blurry","d":"not clear","ex":"Yeah, I know, my vision is really blurry at times.","hit":"blurry","src":"dialogue","ep":20,"vi":""}
+{"w":"pick out","d":"choose","ex":"Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.","hit":"pick out","src":"dialogue","ep":20,"vi":""}
+{"w":"prescription","d":"a message written by a doctor that tells people what medicine to take","ex":"Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.","hit":"prescription","src":"dialogue","ep":20,"vi":""}
+{"w":"check-up","d":"regular examination by a doctor to make sure a person is healthy","ex":"","hit":"","src":"written","ep":20,"vi":""}
+{"w":"short sighted","d":"unable to see things far away (AmE)","ex":"","hit":"","src":"written","ep":20,"vi":""}
+{"w":"nearsighted","d":"unable to see things far away (BrE)","ex":"","hit":"","src":"written","ep":20,"vi":""}
+{"w":"contacts","d":"lenses you wear directly on your eyes to help you see","ex":"","hit":"","src":"written","ep":20,"vi":""}
+{"w":"optometrist","d":"eye doctor","ex":"","hit":"","src":"written","ep":20,"vi":""}
+{"w":"prescribe","d":"officially tell someone to use a medicine or treatment","ex":"Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.","hit":"prescription","src":"dialogue","ep":20,"vi":"","check":true}
+{"w":"lenses","d":"clear, curved piece of glass that helps people see better","ex":"","hit":"","src":"written","ep":20,"vi":""}

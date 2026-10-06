@@ -1,0 +1,287 @@
+{"w":"sail","d":"travel in a boat that is powered by wind","ex":"Great for sailing!","hit":"sailing","src":"dialogue","ep":61,"vi":"","check":true}
+{"w":"for a little while","d":"for a short amount of time","ex":"Anchor the boat for a little while.","hit":"for a little while","src":"dialogue","ep":61,"vi":""}
+{"w":"a dip","d":"a swim","ex":"I'm going to take a dip.","hit":"a dip","src":"dialogue","ep":61,"vi":""}
+{"w":"doggy-paddle","d":"swim like a dog","ex":"","hit":"","src":"written","ep":61,"vi":""}
+{"w":"breast stroke","d":"way of swimming where the person moves the arms and legs in a half-circle in front of them; like a frog","ex":"Do your breast stroke!","hit":"breast stroke","src":"dialogue","ep":61,"vi":""}
+{"w":"backstroke","d":"swim on your back with arms moving up and down in a circle","ex":"I'll just backstroke, it's easier!","hit":"backstroke","src":"dialogue","ep":61,"vi":""}
+{"w":"straight towards","d":"directly in the direction of something","ex":"The shark is coming straight towards me!","hit":"straight towards","src":"dialogue","ep":61,"vi":""}
+{"w":"swim suit","d":"clothes you wear when you go swimming (AmE)","ex":"","hit":"","src":"written","ep":61,"vi":""}
+{"w":"swimming costume","d":"clothes you wear when you go swimming (BrE)","ex":"","hit":"","src":"written","ep":61,"vi":""}
+{"w":"towel","d":"piece of soft cloth you use to dry yourself after swimming or bathing","ex":"The shark is coming straight towards me!","hit":"towards","src":"dialogue","ep":61,"vi":"","check":true}
+{"w":"tan","d":"lie in the sun and try to make your skin more brown","ex":"","hit":"","src":"written","ep":61,"vi":""}
+{"w":"dive","d":"jump into the water with your head first","ex":"","hit":"","src":"written","ep":61,"vi":""}
+{"w":"educational background","d":"the history of the education you've had","ex":"So, let's get started; tell me a bit about your educational background.","hit":"educational background","src":"dialogue","ep":62,"vi":""}
+{"w":"with honors","d":"with special recognition for receiving very high marks","ex":"Well, I graduated with honors from Chesterton University with a major in Business Administration, with a specialization in Information Management, and I minored in psychology.","hit":"with honors","src":"dialogue","ep":62,"vi":""}
+{"w":"major","d":"the main field of study in an undergraduate degree","ex":"Well, I graduated with honors from Chesterton University with a major in Business Administration, with a specialization in Information Management, and I minored in psychology.","hit":"major","src":"dialogue","ep":62,"vi":""}
+{"w":"specialization","d":"a limited area of study","ex":"Well, I graduated with honors from Chesterton University with a major in Business Administration, with a specialization in Information Management, and I minored in psychology.","hit":"specialization","src":"dialogue","ep":62,"vi":""}
+{"w":"minor","d":"to have a secondary area of study in an undergraduate program","ex":"I chose this course of study for two reasons: I wanted to gain some practical, marketable skills, which the information management track provided, and I also feel that interpersonal skills are essential for professional success, hence the minor in psychology.","hit":"minor","src":"dialogue","ep":62,"vi":""}
+{"w":"course of study","d":"the combination of courses taken in a degree program","ex":"I chose this course of study for two reasons: I wanted to gain some practical, marketable skills, which the information management track provided, and I also feel that interpersonal skills are essential for professional success, hence the minor in psychology.","hit":"course of study","src":"dialogue","ep":62,"vi":""}
+{"w":"track","d":"course of study","ex":"I chose this course of study for two reasons: I wanted to gain some practical, marketable skills, which the information management track provided, and I also feel that interpersonal skills are essential for professional success, hence the minor in psychology.","hit":"track","src":"dialogue","ep":62,"vi":""}
+{"w":"postgraduate","d":"masters or Ph.D; education above the bachelor's degree level","ex":"And, your postgraduate studies?","hit":"postgraduate","src":"dialogue","ep":62,"vi":""}
+{"w":"hence","d":"for that reason","ex":"I chose this course of study for two reasons: I wanted to gain some practical, marketable skills, which the information management track provided, and I also feel that interpersonal skills are essential for professional success, hence the minor in psychology.","hit":"hence","src":"dialogue","ep":62,"vi":""}
+{"w":"pursue","d":"try to do something over a longer period of time","ex":"Well, I am really passionate about consumer behavior, so I pursued a master's in that area.","hit":"pursued","src":"dialogue","ep":62,"vi":"","check":true}
+{"w":"strive","d":"try hard to do something","ex":"I also strive to keep my professional skills current, so I continuously attend seminars and conferences related management and customer service.","hit":"strive","src":"dialogue","ep":62,"vi":""}
+{"w":"breadth","d":"a wide range or scope of something","ex":"Yeah, I worked as their customer support manager, which brought me a breadth of experience in both client care, and process management.","hit":"breadth","src":"dialogue","ep":62,"vi":""}
+{"w":"significant","d":"important and large enough to have a noticeable effect","ex":"Yes, in this position I was able to make some pretty significant contributions to the overall success of the company.","hit":"significant","src":"dialogue","ep":62,"vi":""}
+{"w":"contribution","d":"adding or giving something","ex":"Yes, in this position I was able to make some pretty significant contributions to the overall success of the company.","hit":"contributions","src":"dialogue","ep":62,"vi":"","check":true}
+{"w":"tertiary education","d":"university education","ex":"","hit":"","src":"written","ep":62,"vi":""}
+{"w":"take initiative","d":"take the chance to do something before others do","ex":"","hit":"","src":"written","ep":62,"vi":""}
+{"w":"distinguish","d":"make something different in a special way","ex":"","hit":"","src":"written","ep":62,"vi":""}
+{"w":"attribute","d":"a good quality or feature that someone has","ex":"","hit":"","src":"written","ep":62,"vi":""}
+{"w":"scrutinize","d":"examine something in a careful and critical way","ex":"","hit":"","src":"written","ep":62,"vi":""}
+{"w":"certainly","d":"with out doubt; of course","ex":"Certainly, may I take your name?","hit":"Certainly","src":"dialogue","ep":63,"vi":""}
+{"w":"may I take your name","d":"polite way to ask for someone's name","ex":"Certainly, may I take your name?","hit":"may I take your name","src":"dialogue","ep":63,"vi":""}
+{"w":"let (someone) know","d":"tell someone","ex":"I'll let her know you've arrived.","hit":"let her know","src":"dialogue","ep":63,"vi":"","check":true}
+{"w":"momentarily","d":"in a very short time","ex":"Ms. Stevens will be with you momentarily.","hit":"momentarily","src":"dialogue","ep":63,"vi":""}
+{"w":"be ready for you","d":"is prepared to meet with you","ex":"","hit":"","src":"written","ep":63,"vi":""}
+{"w":"show (someone) to","d":"show a person the way to a place","ex":"I'll show you to her office, right this way.","hit":"show you to","src":"dialogue","ep":63,"vi":"","check":true}
+{"w":"right this way","d":"phrase you use to show someone the direction to walk","ex":"I'll show you to her office, right this way.","hit":"right this way","src":"dialogue","ep":63,"vi":""}
+{"w":"administrative assistant","d":"secretary","ex":"","hit":"","src":"written","ep":63,"vi":""}
+{"w":"lobby","d":"the waiting area of a building","ex":"","hit":"","src":"written","ep":63,"vi":""}
+{"w":"front desk","d":"the desk at the entrance of a building where the receptionist sits","ex":"","hit":"","src":"written","ep":63,"vi":""}
+{"w":"field calls","d":"receive and direct phone calls","ex":"","hit":"","src":"written","ep":63,"vi":""}
+{"w":"switchboard","d":"a system used to connect phone calls to many different phone lines within a building","ex":"","hit":"","src":"written","ep":63,"vi":""}
+{"w":"ruin","d":"destroy","ex":"Everything was going fine until that jerk came into the picture and ruined everything!","hit":"ruined","src":"dialogue","ep":64,"vi":"","check":true}
+{"w":"bastard","d":"an cruel or unkind person","ex":"I heard everything, you lying bastard!","hit":"bastard","src":"dialogue","ep":64,"vi":""}
+{"w":"jealousy","d":"a feeling of being supplanted; apprehensive of losing affection or position.","ex":"I was just so overwhelmed with jealousy that I couldn't help myself.","hit":"jealousy","src":"dialogue","ep":64,"vi":""}
+{"w":"insane","d":"very crazy","ex":"You are insane!","hit":"insane","src":"dialogue","ep":64,"vi":""}
+{"w":"overwhelmed","d":"state of being affected deeply in mind or emotion","ex":"I was just so overwhelmed with jealousy that I couldn't help myself.","hit":"overwhelmed","src":"dialogue","ep":64,"vi":""}
+{"w":"bun in the oven","d":"informal way of saying: pregnant","ex":"You aren't even pregnant; there's no bun in the oven.","hit":"bun in the oven","src":"dialogue","ep":64,"vi":""}
+{"w":"confess","d":"to admit (a fault or crime)","ex":"I have something to confess...","hit":"confess","src":"dialogue","ep":64,"vi":""}
+{"w":"ridiculous","d":"absurd, not logical","ex":"This is ridiculous!","hit":"ridiculous","src":"dialogue","ep":64,"vi":""}
+{"w":"eavesdrop","d":"listen to another person's conversation","ex":"","hit":"","src":"written","ep":64,"vi":""}
+{"w":"split up with","d":"end a relationship with","ex":"","hit":"","src":"written","ep":64,"vi":""}
+{"w":"deceit","d":"dishonest behavior","ex":"","hit":"","src":"written","ep":64,"vi":""}
+{"w":"a homewrecker","d":"a person who has a relationship with a married man or a married woman","ex":"","hit":"","src":"written","ep":64,"vi":""}
+{"w":"a fraud","d":"a person who is not who they seem; a person who lies","ex":"","hit":"","src":"written","ep":64,"vi":""}
+{"w":"unfaithful","d":"to have a sexual relationship with someone who is not your husband, wife, boyfriend, or girlfriend","ex":"","hit":"","src":"written","ep":64,"vi":""}
+{"w":"a perfect fit","d":"the right person for the job","ex":"I think that I would be a perfect fit in this company.","hit":"a perfect fit","src":"dialogue","ep":65,"vi":""}
+{"w":"acumen","d":"the ability to think clearly and make good decisions","ex":"I have a unique combination of strong technical acumen, and outstanding soft skills; you know, I excel at building strong, long-term customer relationships.","hit":"acumen","src":"dialogue","ep":65,"vi":""}
+{"w":"excel","d":"be superior to, among the best","ex":"I have a unique combination of strong technical acumen, and outstanding soft skills; you know, I excel at building strong, long-term customer relationships.","hit":"excel","src":"dialogue","ep":65,"vi":""}
+{"w":"head","d":"to be the leader of something","ex":"I hope to hear from you!","hit":"hear","src":"dialogue","ep":65,"vi":"","check":true}
+{"w":"implement","d":"to make something active or effective","ex":"I decided that we needed better information and technical preparation on our products, so after I implemented a series of training sessions in coordination with our technical department, we were able to solve ninety percent of our customers' issues.","hit":"implemented","src":"dialogue","ep":65,"vi":"","check":true}
+{"w":"training session","d":"a meeting where people acquire skills and knowledge about a subject","ex":"I decided that we needed better information and technical preparation on our products, so after I implemented a series of training sessions in coordination with our technical department, we were able to solve ninety percent of our customers' issues.","hit":"training sessions","src":"dialogue","ep":65,"vi":"","check":true}
+{"w":"struggle","d":"have a difficult time","ex":"To be honest, I struggle with organization and time management.","hit":"struggle","src":"dialogue","ep":65,"vi":""}
+{"w":"punctuality","d":"arriving or doing something at the expected or planned time","ex":"Punctuality has never been a strength of mine.","hit":"Punctuality","src":"dialogue","ep":65,"vi":""}
+{"w":"address","d":"to deal with (a matter, issue, problem, etc.)","ex":"I have actually addressed this weakness recently, by attending a workshop on efficient time management.","hit":"addressed","src":"dialogue","ep":65,"vi":"","check":true}
+{"w":"short list","d":"to select a few candidates in order to make a final selection or decision","ex":"We are short-listing our candidates this week, and next week we will inform our short listed candidates of the day and time for a second interview with our CEO.","hit":"short listed","src":"dialogue","ep":65,"vi":"","check":true}
+{"w":"prospect","d":"someone or something that is likely to succeed or to be chosen","ex":"","hit":"","src":"written","ep":65,"vi":""}
+{"w":"CV","d":"curriculum vitae; a short document that describes your education, work experience, etc.","ex":"","hit":"","src":"written","ep":65,"vi":""}
+{"w":"shortcoming","d":"a weakness that someone has","ex":"","hit":"","src":"written","ep":65,"vi":""}
+{"w":"asset","d":"a valuable or beneficial thing or ability that a person has","ex":"","hit":"","src":"written","ep":65,"vi":""}
+{"w":"triumph","d":"a great success or achievement a person has/ triumph","ex":"","hit":"","src":"written","ep":65,"vi":""}
+{"w":"wingman","d":"a person who provides help, support, or protection","ex":"My name is Rick Fields and, as always, I am joined by my commentating wingman, Bob Copeland.","hit":"wingman","src":"dialogue","ep":67,"vi":""}
+{"w":"on the brink","d":"at a critical point","ex":"And we're on the brink of soccer history today, as Ecuador and Brazil are tied one-one as we begin the second half of the 2022 World Cup!","hit":"on the brink","src":"dialogue","ep":67,"vi":""}
+{"w":"tied","d":"having the same score","ex":"And we're on the brink of soccer history today, as Ecuador and Brazil are tied one-one as we begin the second half of the 2022 World Cup!","hit":"tied","src":"dialogue","ep":67,"vi":""}
+{"w":"kick off","d":"the first movement or kick of the ball to begin the game","ex":"The ref calls the players for the kick off, and here we go!","hit":"kick off","src":"dialogue","ep":67,"vi":""}
+{"w":"throw in","d":"action of throwing the ball onto the field with your hands to restart the game","ex":"That will be a throw in for Brazil.","hit":"throw in","src":"dialogue","ep":67,"vi":""}
+{"w":"no question about it","d":"there is no doubt, it is correct","ex":"No question about it.","hit":"No question about it","src":"dialogue","ep":67,"vi":""}
+{"w":"by a mile","d":"a lot","ex":"He was offside by a mile!","hit":"by a mile","src":"dialogue","ep":67,"vi":""}
+{"w":"foul","d":"illegal action committed against a player","ex":"We have a foul!","hit":"foul","src":"dialogue","ep":67,"vi":""}
+{"w":"penalty kick","d":"a kick against only the goalkeeper as a reward for a foul","ex":"He gets a yellow card and that will be a penalty kick!","hit":"penalty kick","src":"dialogue","ep":67,"vi":""}
+{"w":"goal kick","d":"when the goalie kicks the ball to re-start play","ex":"We have a goal kick for Ecuador.","hit":"goal kick","src":"dialogue","ep":67,"vi":""}
+{"w":"corner kick","d":"when a player kicks the ball from a corner after a penalty","ex":"Deflected by the defender and we have a corner kick.","hit":"corner kick","src":"dialogue","ep":67,"vi":""}
+{"w":"out of bounds","d":"outside the area that is allowed for play","ex":"Ecuador quickly passes the ball to the midfield, but, ohhh, it's out of bounds.","hit":"out of bounds","src":"dialogue","ep":67,"vi":""}
+{"w":"offside","d":"a position on the opponent's part of the field where your are not allowed to be","ex":"He was offside by a mile!","hit":"offside","src":"dialogue","ep":67,"vi":""}
+{"w":"goalkeeper","d":"person who prevents the ball from going into the net (BrE)","ex":"Oh no, Dida, the goalkeeper, has fouled the Ecuadorian player!","hit":"goalkeeper","src":"dialogue","ep":67,"vi":""}
+{"w":"defender","d":"person who prevents the other team from getting near the net","ex":"Deflected by the defender and we have a corner kick.","hit":"defender","src":"dialogue","ep":67,"vi":""}
+{"w":"match","d":"game (BrE)","ex":"This is the perfect opportunity for Ecuador to get ahead in this match and become World Champions!","hit":"match","src":"dialogue","ep":67,"vi":""}
+{"w":"pitch","d":"soccer field (BrE)","ex":"","hit":"","src":"written","ep":67,"vi":""}
+{"w":"championship","d":"final game in a series that determines the overall winner","ex":"","hit":"","src":"written","ep":67,"vi":""}
+{"w":"definitive conclusion","d":"a final judgment that is not able to be changed; that is final","ex":"To draw a definitive conclusion based on that data would be misleading","hit":"definitive conclusion","src":"dialogue","ep":68,"vi":""}
+{"w":"single-handedly","d":"do something on your own, without help","ex":"","hit":"","src":"written","ep":68,"vi":""}
+{"w":"investigative approach","d":"way of looking for information","ex":"Even in your most recent study, the investigative approach was flawed!","hit":"investigative approach","src":"dialogue","ep":68,"vi":""}
+{"w":"flawed","d":"having errors or mistake","ex":"Even in your most recent study, the investigative approach was flawed!","hit":"flawed","src":"dialogue","ep":68,"vi":""}
+{"w":"preposterous","d":"crazy, foolish, or silly","ex":"That is preposterous!","hit":"preposterous","src":"dialogue","ep":68,"vi":""}
+{"w":"oblivious to","d":"unaware or don't know","ex":"You are trying to single-handedly solve one of the world's greatest mysteries, and yet you are oblivious to the fact that you are wrong!","hit":"oblivious to","src":"dialogue","ep":68,"vi":""}
+{"w":"extensive research","d":"very full and complete study to find information","ex":"Look, we've done extensive research, built studies, and read the literature, and there is conclusive evidence to support my theory!","hit":"extensive research","src":"dialogue","ep":68,"vi":""}
+{"w":"systematic","d":"using a careful system or method","ex":"You know as well as I do that the collection of data was not systematic, and there is a large margin of error.","hit":"systematic","src":"dialogue","ep":68,"vi":""}
+{"w":"irrefutable","d":"correct; not able to be proved wrong","ex":"The data is irrefutable!","hit":"irrefutable","src":"dialogue","ep":68,"vi":""}
+{"w":"associated with","d":"linked or connected with","ex":"","hit":"","src":"written","ep":68,"vi":""}
+{"w":"circumstantial evidence","d":"a collection of facts that implies or suggests something to be true, but does not prove it","ex":"","hit":"","src":"written","ep":68,"vi":""}
+{"w":"indicate","d":"show something to be true","ex":"","hit":"","src":"written","ep":68,"vi":""}
+{"w":"a compelling case","d":"an argument that is capable of making people believe that point of view","ex":"","hit":"","src":"written","ep":68,"vi":""}
+{"w":"determine","d":"find out if something is true","ex":"","hit":"","src":"written","ep":68,"vi":""}
+{"w":"bake","d":"cook in the oven","ex":"Well, I felt like baking, so I made some muffins.","hit":"baking","src":"dialogue","ep":69,"vi":"","check":true}
+{"w":"muffin","d":"a small break or cake people usually eat for breakfast","ex":"Well, I felt like baking, so I made some muffins.","hit":"muffins","src":"dialogue","ep":69,"vi":"","check":true}
+{"w":"sunny-side up","d":"with egg fried on only one side","ex":"I asked for sunny side up!","hit":"sunny side up","src":"dialogue","ep":69,"vi":""}
+{"w":"eggs and soldiers","d":"soft-boiled eggs with strips of buttered toast on it which people usually eat for breakfast","ex":"Ever since I was small, I've had eggs and soldiers.","hit":"eggs and soldiers","src":"dialogue","ep":69,"vi":""}
+{"w":"scrambled eggs","d":"a way of cooking eggs by mixing them in a pan","ex":"You know, my dad had scrambled eggs eggs every morning for twenty years.","hit":"scrambled eggs","src":"dialogue","ep":69,"vi":""}
+{"w":"soft boiled egg","d":"eggs cooked in the shell so the yellow part is still soft and wet","ex":"When I ask for soft boiled eggs, and they overcook them, so they come out hard boiled!","hit":"soft boiled eggs","src":"dialogue","ep":69,"vi":"","check":true}
+{"w":"hard boiled egg","d":"egg cooked in the shell until the inside becomes solid","ex":"How can you dip your toast into a hard boiled egg?","hit":"hard boiled egg","src":"dialogue","ep":69,"vi":""}
+{"w":"picky","d":"too careful at selecting things and usually hard to please","ex":"You're so picky sometimes.","hit":"picky","src":"dialogue","ep":69,"vi":""}
+{"w":"egg","d":"the egg of a bird (especially a chicken or a duck) people usually eat as food","ex":"How can you dip your toast into a hard boiled egg?","hit":"egg","src":"dialogue","ep":69,"vi":""}
+{"w":"hen","d":"female chicken","ex":"","hit":"","src":"written","ep":69,"vi":""}
+{"w":"over-easy","d":"an egg friend on both sides; cooked so the yolk is still soft","ex":"","hit":"","src":"written","ep":69,"vi":""}
+{"w":"omelette","d":"eggs mixed, then cooked, and then folded in half;","ex":"","hit":"","src":"written","ep":69,"vi":""}
+{"w":"yolk","d":"the yellow part of the egg","ex":"","hit":"","src":"written","ep":69,"vi":""}
+{"w":"egg white","d":"the white part of the egg","ex":"","hit":"","src":"written","ep":69,"vi":""}
+{"w":"frying pan","d":"a large, flat pot used for cooking eggs and other things","ex":"","hit":"","src":"written","ep":69,"vi":""}
+{"w":"mortifying","d":"extremely embarassing","ex":"This is mortifying; I just want to get this over with.","hit":"mortifying","src":"dialogue","ep":70,"vi":""}
+{"w":"boy shorts","d":"women's underwear that looks like little, tight shorts","ex":"Well, do you want a thong, some bikini briefs, maybe this nice pair of lacy boy shorts?","hit":"boy shorts","src":"dialogue","ep":70,"vi":""}
+{"w":"bikini briefs","d":"women's underwear worn on the lower part of the body","ex":"Well, do you want a thong, some bikini briefs, maybe this nice pair of lacy boy shorts?","hit":"bikini briefs","src":"dialogue","ep":70,"vi":""}
+{"w":"undies","d":"informal way of saying underwear","ex":"Look, here's a nice satin push-up bra, and you can choose a few different styles of undies to go with it.","hit":"undies","src":"dialogue","ep":70,"vi":""}
+{"w":"push-up bra","d":"a bra that raises the breasts so as to offer additional size through padding","ex":"","hit":"","src":"written","ep":70,"vi":""}
+{"w":"nighties","d":"a night dress, night gown","ex":"We've got these lovely, silky nighties.","hit":"nighties","src":"dialogue","ep":70,"vi":""}
+{"w":"get out of here","d":"leave this place","ex":"Okay, just find something and get out of here.","hit":"get out of here","src":"dialogue","ep":70,"vi":""}
+{"w":"sleepwear","d":"clothes you use for sleeping","ex":"Have you thought about getting her some sleepwear?","hit":"sleepwear","src":"dialogue","ep":70,"vi":""}
+{"w":"lingerie","d":"women's underwear","ex":"This sucks; I hate buying lingerie.","hit":"lingerie","src":"dialogue","ep":70,"vi":""}
+{"w":"panties","d":"women's underwear","ex":"Well, you can't give her granny panties.","hit":"panties","src":"dialogue","ep":70,"vi":""}
+{"w":"bra","d":"clothes a women wears to support her breasts","ex":"Or, how about a nice panty-and and-bra set.","hit":"bra","src":"dialogue","ep":70,"vi":""}
+{"w":"going commando","d":"term used to describe when a person is not wearing any underwear","ex":"","hit":"","src":"written","ep":70,"vi":""}
+{"w":"briefs","d":"normal or traditional underwear for men, similar to the shape and size of panties","ex":"Well, do you want a thong, some bikini briefs, maybe this nice pair of lacy boy shorts?","hit":"briefs","src":"dialogue","ep":70,"vi":""}
+{"w":"boxer shorts","d":"type of underwear that men use which are similar to shorts","ex":"","hit":"","src":"written","ep":70,"vi":""}
+{"w":"corset","d":"a garment worn under the clothing used to mold and shape the torso into a desired shape for aesthetic or medical purposes","ex":"","hit":"","src":"written","ep":70,"vi":""}
+{"w":"knickers","d":"BrE. same as panties","ex":"","hit":"","src":"written","ep":70,"vi":""}
+{"w":"buck","d":"dollar (informal)","ex":"That'll be 80 bucks.","hit":"bucks","src":"dialogue","ep":71,"vi":"","check":true}
+{"w":"mozzarella sticks","d":"fried Italian cheese","ex":"Let's have some nachos and mozzarella sticks.","hit":"mozzarella sticks","src":"dialogue","ep":71,"vi":""}
+{"w":"nachos","d":"a dish with tortilla chips and melted cheese cooked together","ex":"Let's have some nachos and mozzarella sticks.","hit":"nachos","src":"dialogue","ep":71,"vi":""}
+{"w":"appetizer","d":"a small dish served before meal","ex":"And what about some appetizers?","hit":"appetizers","src":"dialogue","ep":71,"vi":"","check":true}
+{"w":"pint","d":"a measuring unit which is equal to 0.473 litres","ex":"Cool, gimme a pint of Heineken and half a pint of Bud.","hit":"pint","src":"dialogue","ep":71,"vi":""}
+{"w":"special","d":"a sale; a special price","ex":"We have a two-for-one happy hour special.","hit":"special","src":"dialogue","ep":71,"vi":""}
+{"w":"happy hour","d":"a period of time at a bar when drinks are sold cheaper than usual","ex":"We have a two-for-one happy hour special.","hit":"happy hour","src":"dialogue","ep":71,"vi":""}
+{"w":"two-for-one","d":"buy one and take one free","ex":"","hit":"","src":"written","ep":71,"vi":""}
+{"w":"on tap","d":"beer served from a barrel; not in a bottle or can","ex":"Hey man, what do you have on tap?","hit":"on tap","src":"dialogue","ep":71,"vi":""}
+{"w":"drinks list","d":"a menu or list of drinks served in a restaurant or bar","ex":"","hit":"","src":"written","ep":71,"vi":""}
+{"w":"pub","d":"a relaxed, casual bar where beer is served","ex":"","hit":"","src":"written","ep":71,"vi":""}
+{"w":"cocktail","d":"alcoholic drink made from one or more liqueur and other ingredients","ex":"","hit":"","src":"written","ep":71,"vi":""}
+{"w":"liqueur","d":"strong alcohol drink such as gin, rum, vodka, etc","ex":"","hit":"","src":"written","ep":71,"vi":""}
+{"w":"bar stool","d":"a chair with no back used for sitting on at a bar","ex":"","hit":"","src":"written","ep":71,"vi":""}
+{"w":"preoccupied","d":"worried; thinking about something else","ex":"You seem a bit preoccupied.","hit":"preoccupied","src":"dialogue","ep":72,"vi":""}
+{"w":"direct","d":"connected to, related to","ex":"The company has made some decisions which will have a direct impact on your employment.","hit":"direct","src":"dialogue","ep":72,"vi":""}
+{"w":"impact","d":"strong influence or effect","ex":"The company has made some decisions which will have a direct impact on your employment.","hit":"impact","src":"dialogue","ep":72,"vi":""}
+{"w":"beat around the bush","d":"avoid saying something by talking about other things","ex":"I don't want to beat around the bush so I'm just gonna come out with it.","hit":"beat around the bush","src":"dialogue","ep":72,"vi":""}
+{"w":"come out with it","d":"say something directly","ex":"I don't want to beat around the bush so I'm just gonna come out with it.","hit":"come out with it","src":"dialogue","ep":72,"vi":""}
+{"w":"let (someone) go","d":"have someone fired or dismissed","ex":"We are going to have to let you go.","hit":"let you go","src":"dialogue","ep":72,"vi":"","check":true}
+{"w":"to he honest","d":"used to say something directly","ex":"","hit":"","src":"written","ep":72,"vi":""}
+{"w":"resent","d":"find something very insulting","ex":"I resent that!","hit":"resent","src":"dialogue","ep":72,"vi":""}
+{"w":"call in sick","d":"call the office to say you can't come to work because you're sick","ex":"Anthony, you were caught making international calls from the office phone, you called in sick in eight times this month and you smell like alcohol!","hit":"called in sick","src":"dialogue","ep":72,"vi":"","check":true}
+{"w":"severance package","d":"money or benefits you give someone when they are fired","ex":"","hit":"","src":"written","ep":72,"vi":""}
+{"w":"lay off","d":"end an employment because of business reasons, not performance","ex":"","hit":"","src":"written","ep":72,"vi":""}
+{"w":"layoffs","d":"the action of ending employment because of business reasons","ex":"","hit":"","src":"written","ep":72,"vi":""}
+{"w":"dismissal letter","d":"a letter written to tell an employee his is fired","ex":"","hit":"","src":"written","ep":72,"vi":""}
+{"w":"terminate","d":"end the employment of a person; fire","ex":"","hit":"","src":"written","ep":72,"vi":""}
+{"w":"bless","d":"give good wishes to something or someone","ex":"May this ring be blessed so he who gives it and she who wears it may abide in peace, and continue in love until life's end.","hit":"blessed","src":"dialogue","ep":73,"vi":"","check":true}
+{"w":"abide","d":"live","ex":"May this ring be blessed so he who gives it and she who wears it may abide in peace, and continue in love until life's end.","hit":"abide","src":"dialogue","ep":73,"vi":""}
+{"w":"thee","d":"you (old use or formal use )","ex":"With this ring I thee wed.","hit":"thee","src":"dialogue","ep":73,"vi":""}
+{"w":"wed","d":"get married (old use or formal use )","ex":"With this ring I thee wed.","hit":"wed","src":"dialogue","ep":73,"vi":""}
+{"w":"symbol","d":"something that represents a certain idea","ex":"Wear it as a symbol of our love and commitment","hit":"symbol","src":"dialogue","ep":73,"vi":""}
+{"w":"pinkie","d":"little finger","ex":"Honey, that's my pinkie.","hit":"pinkie","src":"dialogue","ep":73,"vi":""}
+{"w":"index finger","d":"the finger beside the thumb","ex":"That's my index finger!","hit":"index finger","src":"dialogue","ep":73,"vi":""}
+{"w":"thumb","d":"the short, thick finger on the side of a hand","ex":"that's the thumb, Nick.","hit":"thumb","src":"dialogue","ep":73,"vi":""}
+{"w":"middle finger","d":"the finger which is in the middle of five","ex":"That's my middle finger, Nick.","hit":"middle finger","src":"dialogue","ep":73,"vi":""}
+{"w":"ring finger","d":"the finger between middle finger and little finger","ex":"This is my ring finger!","hit":"ring finger","src":"dialogue","ep":73,"vi":""}
+{"w":"wedding band","d":"ring you receive when you get married","ex":"","hit":"","src":"written","ep":73,"vi":""}
+{"w":"toe","d":"the fingers on the feet","ex":"","hit":"","src":"written","ep":73,"vi":""}
+{"w":"baby finger","d":"smallest finger on your hand; synonym for pinkie","ex":"","hit":"","src":"written","ep":73,"vi":""}
+{"w":"engagement ring","d":"a ring a man gives to his girlfriend when he asks her to marry him","ex":"","hit":"","src":"written","ep":73,"vi":""}
+{"w":"finger nail","d":"the hard part at the end of your finger that keeps growing","ex":"","hit":"","src":"written","ep":73,"vi":""}
+{"w":"salad","d":"a dish made of raw vegetables","ex":"Miss, your salad.","hit":"salad","src":"dialogue","ep":74,"vi":""}
+{"w":"positively","d":"truly","ex":"I'm positively famished.","hit":"positively","src":"dialogue","ep":74,"vi":""}
+{"w":"famished","d":"very hungry","ex":"I'm positively famished.","hit":"famished","src":"dialogue","ep":74,"vi":""}
+{"w":"at the top of one's lungs","d":"to be as loud as possible","ex":"","hit":"","src":"written","ep":74,"vi":""}
+{"w":"dumbass","d":"an impolite way of calling someone foolish","ex":"","hit":"","src":"written","ep":74,"vi":""}
+{"w":"sexy","d":"sexy to the greatest degree","ex":"That's sexist.","hit":"sexist","src":"dialogue","ep":74,"vi":"","check":true}
+{"w":"tool","d":"someone who is stupid or useless","ex":"I'm such a tool.","hit":"tool","src":"dialogue","ep":74,"vi":""}
+{"w":"get it together","d":"control your emotions","ex":"Okay, get it together.","hit":"get it together","src":"dialogue","ep":74,"vi":""}
+{"w":"crap","d":"an impolite way of saying something is bad","ex":"Oh, crap!","hit":"crap","src":"dialogue","ep":74,"vi":""}
+{"w":"moron","d":"someone who is very stupid","ex":"She's going to think I'm a moron.","hit":"moron","src":"dialogue","ep":74,"vi":""}
+{"w":"chill","d":"calm down; relax","ex":"Okay, chill...","hit":"chill","src":"dialogue","ep":74,"vi":""}
+{"w":"feminism","d":"the belief that men and women should have equal rights and opportunities","ex":"","hit":"","src":"written","ep":74,"vi":""}
+{"w":"blind date","d":"a romantic outing with someone that you have not met before","ex":"","hit":"","src":"written","ep":74,"vi":""}
+{"w":"spaz","d":"a person who is very clumsy or awkward","ex":"","hit":"","src":"written","ep":74,"vi":""}
+{"w":"first impression","d":"the way people see or perceive you the first time you meet","ex":"","hit":"","src":"written","ep":74,"vi":""}
+{"w":"blow it","d":"to miss an opportunity or chance","ex":"","hit":"","src":"written","ep":74,"vi":""}
+{"w":"have a seat","d":"sit down","ex":"Please have a seat.","hit":"have a seat","src":"dialogue","ep":75,"vi":""}
+{"w":"toothache","d":"tooth pain","ex":"I've got a really bad toothache!","hit":"toothache","src":"dialogue","ep":75,"vi":""}
+{"w":"swollen","d":"some parts are bigger than others due to a certain disease","ex":"I can't eat anything, and look, my face is all swollen.","hit":"swollen","src":"dialogue","ep":75,"vi":""}
+{"w":"wisdom tooth","d":"big tooth at the back of your mouth which grows in one's adulthood","ex":"I think it might be my wisdom tooth.","hit":"wisdom tooth","src":"dialogue","ep":75,"vi":""}
+{"w":"have a look","d":"take a glance","ex":"Well, let's have a look.","hit":"have a look","src":"dialogue","ep":75,"vi":""}
+{"w":"cavity","d":"a hole in a tooth","ex":"Well, it looks like you have a cavity and your crown is loose.","hit":"cavity","src":"dialogue","ep":75,"vi":""}
+{"w":"crown","d":"the part of the tooth which can be seen","ex":"Well, it looks like you have a cavity and your crown is loose.","hit":"crown","src":"dialogue","ep":75,"vi":""}
+{"w":"filling","d":"something that fills the hole of the tooth","ex":"We'll need to put in a filling before it gets any worse, and the crown probably needs to be refitted.","hit":"filling","src":"dialogue","ep":75,"vi":""}
+{"w":"x-rays","d":"a medical examination that takes a picture of your bones","ex":"","hit":"","src":"written","ep":75,"vi":""}
+{"w":"floss","d":"to use a thin thread or string to clean between your teeth","ex":"","hit":"","src":"written","ep":75,"vi":""}
+{"w":"mouthwash","d":"a liquid that is used to clean your mouth and teeth and to make your breath smell better","ex":"","hit":"","src":"written","ep":75,"vi":""}
+{"w":"gingivitis","d":"a disease in which the gums become red, swollen, and sore","ex":"","hit":"","src":"written","ep":75,"vi":""}
+{"w":"plaque","d":"a thin coating that forms on teeth and contains bacteria","ex":"","hit":"","src":"written","ep":75,"vi":""}
+{"w":"dog breath","d":"used to describe when somebody has very bad breath","ex":"","hit":"","src":"written","ep":75,"vi":""}
+{"w":"review","d":"go over what have been learned","ex":"Alright, children, let's review.","hit":"review","src":"dialogue","ep":76,"vi":""}
+{"w":"plus","d":"add (+)","ex":"Okay, Crystal, now tell me, what's four plus eleven?","hit":"plus","src":"dialogue","ep":76,"vi":""}
+{"w":"teacher's pet","d":"the student a teacher likes best","ex":"Miss Kadlec always asks Crystal; she's such a teacher's pet.","hit":"teacher's pet","src":"dialogue","ep":76,"vi":""}
+{"w":"minus","d":"take away; subtract (-)","ex":"and what about fifty six minus sixty?","hit":"minus","src":"dialogue","ep":76,"vi":""}
+{"w":"times","d":"multiply; (x)","ex":"twelve times twelve?","hit":"times","src":"dialogue","ep":76,"vi":""}
+{"w":"suck up","d":"a person who always tries to make the teacher or boss like him or her","ex":"Suck up.","hit":"Suck up","src":"dialogue","ep":76,"vi":""}
+{"w":"divided by","d":"separate to some parts","ex":"Zero divided by one?","hit":"divided by","src":"dialogue","ep":76,"vi":""}
+{"w":"smarty pants","d":"a person who tries to show he is so smart","ex":"Okay, smarty pants, the square root of two!","hit":"smarty pants","src":"dialogue","ep":76,"vi":""}
+{"w":"square root","d":"the number got when a number is multiplied by itself","ex":"Okay, smarty pants, the square root of two!","hit":"square root","src":"dialogue","ep":76,"vi":""}
+{"w":"I'll bet","d":"I think something is likely to happen","ex":"","hit":"","src":"written","ep":76,"vi":""}
+{"w":"know-it-all","d":"the person claims or pretends to know everything","ex":"","hit":"","src":"written","ep":76,"vi":""}
+{"w":"equation","d":"a math problem where each side is equal (3+6=9)","ex":"","hit":"","src":"written","ep":76,"vi":""}
+{"w":"operation","d":"a mathematical process such as +, x, -, etc.","ex":"","hit":"","src":"written","ep":76,"vi":""}
+{"w":"multiplication","d":"the process of adding a number to itself a certain number of times","ex":"","hit":"","src":"written","ep":76,"vi":""}
+{"w":"addition","d":"the process of adding two numbers together","ex":"","hit":"","src":"written","ep":76,"vi":""}
+{"w":"subtraction","d":"the process of taking one number away from another","ex":"","hit":"","src":"written","ep":76,"vi":""}
+{"w":"division","d":"the process of divining something into parts","ex":"","hit":"","src":"written","ep":76,"vi":""}
+{"w":"partner in crime","d":"a person you always do things together with","ex":"My name is Rick Fields and, as always, I am joined by my partner in crime, Bob Copeland.","hit":"partner in crime","src":"dialogue","ep":77,"vi":""}
+{"w":"stretch","d":"the final time period","ex":"We're in the last stretch of this very exciting race, and Kimi Räikkönen is leading the pack with only four laps to go!","hit":"stretch","src":"dialogue","ep":77,"vi":""}
+{"w":"to go","d":"left to complete","ex":"Räikkönen is still in the lead with only two laps to go!","hit":"to go","src":"dialogue","ep":77,"vi":""}
+{"w":"jam on the breaks","d":"to hit or step on the breaks quickly and forcefully","ex":"He came in too fast, jammed on the breaks and spun out.","hit":"jammed on the breaks","src":"dialogue","ep":77,"vi":"","check":true}
+{"w":"spin out","d":"(a car) slides and makes a turn rapidly in an uncontrolled way","ex":"","hit":"","src":"written","ep":77,"vi":""}
+{"w":"pace car","d":"the car used when accidents happen which leads other cars but is not a competitor in the face","ex":"We have a yellow flag and the pace car is making its way onto the track.","hit":"pace car","src":"dialogue","ep":77,"vi":""}
+{"w":"yellow flag","d":"the sign use in F1 race to show there is an accident on the track","ex":"We have a yellow flag and the pace car is making its way onto the track.","hit":"yellow flag","src":"dialogue","ep":77,"vi":""}
+{"w":"cleanup crew","d":"the group of people who clean the track","ex":"The cleanup crew is towing the heavily damaged car and the green flag drops!","hit":"cleanup crew","src":"dialogue","ep":77,"vi":""}
+{"w":"green flag","d":"the sign used in an F1 race to show that the race is back to the normal state","ex":"The cleanup crew is towing the heavily damaged car and the green flag drops!","hit":"green flag","src":"dialogue","ep":77,"vi":""}
+{"w":"take the lead","d":"be in the first position","ex":"He makes his way into the pit, and Fernando Alonso takes the lead!","hit":"takes the lead","src":"dialogue","ep":77,"vi":"","check":true}
+{"w":"checkered flag","d":"a flag with black and white squares showing someone has won","ex":"How unlucky for Räikkönen, and this race is over ladies and gentlemen, Alonso takes the checkered flag!","hit":"checkered flag","src":"dialogue","ep":77,"vi":""}
+{"w":"rev","d":"cause an engine to run very quickly","ex":"","hit":"","src":"written","ep":77,"vi":""}
+{"w":"title","d":"the status of winning a championship in a sport","ex":"","hit":"","src":"written","ep":77,"vi":""}
+{"w":"aerodynamic","d":"the quality of moving easily through the air","ex":"","hit":"","src":"written","ep":77,"vi":""}
+{"w":"motorhead","d":"a person who loves cars and car racing (Am.E)","ex":"","hit":"","src":"written","ep":77,"vi":""}
+{"w":"qualifying round","d":"the race that determines who will be able to participate in the main race","ex":"","hit":"","src":"written","ep":77,"vi":""}
+{"w":"pole position","d":"the front position in a car race","ex":"","hit":"","src":"written","ep":77,"vi":""}
+{"w":"national holiday","d":"The day that all people in a country will be on holiday","ex":"It is not considered to be a national holiday here in the US, but in other countries it is.","hit":"national holiday","src":"dialogue","ep":78,"vi":""}
+{"w":"comprehend","d":"understand deeply","ex":"It is not enough to simply memorize our laws, it is necessary that we comprehend why and how they were formed.","hit":"comprehend","src":"dialogue","ep":78,"vi":""}
+{"w":"settle down","d":"relax, become calm","ex":"Alright everyone settle down.","hit":"settle down","src":"dialogue","ep":78,"vi":""}
+{"w":"aspect","d":"part","ex":"As you know, an important aspect of becoming a good citizen is understanding the genesis of our legal system.","hit":"aspect","src":"dialogue","ep":78,"vi":""}
+{"w":"genesis","d":"origin; beginning","ex":"As you know, an important aspect of becoming a good citizen is understanding the genesis of our legal system.","hit":"genesis","src":"dialogue","ep":78,"vi":""}
+{"w":"appalling","d":"terrible, horrible, shocking","ex":"In the nineteenth century, working conditions were appalling, with workers being forced to work ten, twelve, and fourteen hours a day.","hit":"appalling","src":"dialogue","ep":78,"vi":""}
+{"w":"indifference","d":"showing no interest in","ex":"Support for the eight-hour work day movement was growing rapidly, despite the indifference and hostility of many union leaders, and by April 1886, 250,000 workers were involved in the May Day movement.","hit":"indifference","src":"dialogue","ep":78,"vi":""}
+{"w":"hostility","d":"the attitude of treating something as enemy","ex":"Support for the eight-hour work day movement was growing rapidly, despite the indifference and hostility of many union leaders, and by April 1886, 250,000 workers were involved in the May Day movement.","hit":"hostility","src":"dialogue","ep":78,"vi":""}
+{"w":"legislative","d":"relating to legal system","ex":"Previous legislative attempts to improve working conditions had failed, so labor organizers took drastic measures.","hit":"legislative","src":"dialogue","ep":78,"vi":""}
+{"w":"resolution","d":"a formal document stating the wishes of a group","ex":"And, on May First 1886, the resolution took effect.","hit":"resolution","src":"dialogue","ep":78,"vi":""}
+{"w":"constitute","d":"form, consist","ex":"They passed a resolution stating that eight hours would constitute a legal day's work.","hit":"constitute","src":"dialogue","ep":78,"vi":""}
+{"w":"brutality","d":"violent treatment or behavior","ex":"A mass meeting was called for the next day to protest the brutality.","hit":"brutality","src":"dialogue","ep":78,"vi":""}
+{"w":"fire into","d":"shoot guns into a place","ex":"No, May first is International Workers' Day.","hit":"first is International","src":"dialogue","ep":78,"vi":"","check":true}
+{"w":"in commemoration of","d":"describing an event that is done to honor and remember a person or event in history/ in commemoration of","ex":"","hit":"","src":"written","ep":78,"vi":""}
+{"w":"proletariat","d":"the lowest socioeconomic class; workers","ex":"","hit":"","src":"written","ep":78,"vi":""}
+{"w":"rally","d":"a public meeting of a large group of people to support or oppose something","ex":"","hit":"","src":"written","ep":78,"vi":""}
+{"w":"proclamation","d":"an offical statement made by a person who has power","ex":"","hit":"","src":"written","ep":78,"vi":""}
+{"w":"memorial","d":"something like a statue, built to remember a person or event from history","ex":"It is not enough to simply memorize our laws, it is necessary that we comprehend why and how they were formed.","hit":"memorize","src":"dialogue","ep":78,"vi":"","check":true}
+{"w":"break through","d":"get through by force","ex":"They are breaking through!","hit":"breaking through","src":"dialogue","ep":79,"vi":"","check":true}
+{"w":"blaster","d":"the parts of a spaceship that are used for emitting bombs","ex":"Set your blasters to full power!","hit":"blasters","src":"dialogue","ep":79,"vi":"","check":true}
+{"w":"settle","d":"finish, end","ex":"It's time you and I settled this once and for all!","hit":"settled","src":"dialogue","ep":79,"vi":"","check":true}
+{"w":"once and for all","d":"forever","ex":"It's time you and I settled this once and for all!","hit":"once and for all","src":"dialogue","ep":79,"vi":""}
+{"w":"unwise","d":"not wise, silly","ex":"You are unwise to think you can defeat me.","hit":"unwise","src":"dialogue","ep":79,"vi":""}
+{"w":"manage","d":"be able to do","ex":"They somehow managed to escape our tractor beam!","hit":"managed","src":"dialogue","ep":79,"vi":"","check":true}
+{"w":"tractor beam","d":"a device used for attracting one project to another from a distance","ex":"They somehow managed to escape our tractor beam!","hit":"tractor beam","src":"dialogue","ep":79,"vi":""}
+{"w":"speed of light","d":"the rate at which light travels. 299 792 458 meters per second","ex":"They are accelerating towards the speed of light We lost them, sir...","hit":"speed of light","src":"dialogue","ep":79,"vi":""}
+{"w":"android","d":"a robot that looks like a person","ex":"","hit":"","src":"written","ep":79,"vi":""}
+{"w":"galaxy","d":"any one of the very large groups of stars that make up the universe","ex":"","hit":"","src":"written","ep":79,"vi":""}
+{"w":"constellation","d":"a group of celestial bodies (usually stars) that appear to form a pattern in the sky or appear visibly related to each other.","ex":"","hit":"","src":"written","ep":79,"vi":""}
+{"w":"parsec","d":"is a unit of length, equal to just under 31 trillion kilometres or about 3.26 light-years","ex":"","hit":"","src":"written","ep":79,"vi":""}
+{"w":"light-year","d":"the distance traveled in one year traveling at the speed of light","ex":"","hit":"","src":"written","ep":79,"vi":""}
+{"w":"no matter what","d":"despite of anything may happen","ex":"I'll always be here for you, no matter what.","hit":"no matter what","src":"dialogue","ep":80,"vi":""}
+{"w":"soul mate","d":"a close friend who has a deep understanding of you","ex":"You are my everything, my soul mate.","hit":"soul mate","src":"dialogue","ep":80,"vi":""}
+{"w":"not a day goes by","d":"phrase used to show you always do something","ex":"","hit":"","src":"written","ep":80,"vi":""}
+{"w":"on purpose","d":"with intention","ex":"I want you to know that I didn't do it on purpose...","hit":"on purpose","src":"dialogue","ep":80,"vi":""}
+{"w":"get worked up","d":"angry, excited, or upset about something","ex":"","hit":"","src":"written","ep":80,"vi":""}
+{"w":"nut job","d":"crazy person (informal)","ex":"What a nut job!","hit":"nut job","src":"dialogue","ep":80,"vi":""}
+{"w":"stalk","d":"follow and watch a person (usually dangerous)","ex":"I can't believe he was stalking you all these years.","hit":"stalking","src":"dialogue","ep":80,"vi":"","check":true}
+{"w":"show up","d":"appear; come to a place","ex":"Thank god you showed up when you did!","hit":"showed up","src":"dialogue","ep":80,"vi":"","check":true}
+{"w":"insane","d":"crazy, not normal","ex":"He's insane!","hit":"insane","src":"dialogue","ep":80,"vi":""}
+{"w":"stalker","d":"a person who follows someone for a long period of time in a way that is dangerous","ex":"I can't believe he was stalking you all these years.","hit":"stalking","src":"dialogue","ep":80,"vi":"","check":true}
+{"w":"perpetrator","d":"person who commits a crime","ex":"","hit":"","src":"written","ep":80,"vi":""}
+{"w":"threaten","d":"say that you will do something to hurt or cause harm to a person","ex":"","hit":"","src":"written","ep":80,"vi":""}
+{"w":"harass","d":"to annoy or bother someone many times","ex":"","hit":"","src":"written","ep":80,"vi":""}
+{"w":"insanity","d":"severe mental illness; the state of being crazy","ex":"","hit":"","src":"written","ep":80,"vi":""}
