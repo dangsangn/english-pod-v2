@@ -28,74 +28,17 @@ import path from 'path';
 import https from 'https';
 import { fileURLToPath } from 'url';
 import { normalizeText, vocabKey } from '../src/lib/vocabulary.ts';
+import { readEpisodeItems } from './lib/transcripts.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const ROOT = path.resolve(__dirname, '..');
-const TRANSCRIPT_DIR = path.join(ROOT, 'public/transcripts');
 const OUT_DIR = path.join(ROOT, 'public/vocab');
 const VI_DIR = path.join(__dirname, 'data/vocab-vi');
 const CACHE_DIR = path.join(__dirname, '.cache');
 const CMUDICT_PATH = path.join(CACHE_DIR, 'cmudict.dict');
 const CMUDICT_URL = 'https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.dict';
-
-// ---------------------------------------------------------------- transcripts
-
-const VOCAB_ITEM =
-    /<div class="word">([\s\S]*?)<\/div>\s*<div class="type">([\s\S]*?)<\/div>\s*<div class="definition">([\s\S]*?)<\/div>/g;
-
-const decodeEntities = (s) =>
-    s
-        .replace(/&nbsp;/g, ' ')
-        .replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'")
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');
-
-let wordRecovery = null;
-/**
- * 19 vocab items across the corpus have a definition but an empty
- * <div class="word"> in the archive.org HTML, so re-fetching cannot help. The
- * words in this file were reconstructed from the episode's own dialogue and
- * from definitions that happen to carry the word after a "/" — see the "why"
- * field on each entry.
- */
-function loadWordRecovery() {
-    if (wordRecovery) return wordRecovery;
-    wordRecovery = new Map();
-    const file = path.join(__dirname, 'data/vocab-word-recovery.json');
-    if (fs.existsSync(file)) {
-        for (const [k, v] of Object.entries(JSON.parse(fs.readFileSync(file, 'utf-8')))) {
-            if (k.startsWith('_')) continue;
-            wordRecovery.set(k, normalizeText(v.word));
-        }
-    }
-    return wordRecovery;
-}
-
-function readEpisodeItems(episodeId) {
-    const file = path.join(TRANSCRIPT_DIR, `englishpod_${String(episodeId).padStart(4, '0')}.html`);
-    if (!fs.existsSync(file)) return null;
-    const html = fs.readFileSync(file, 'utf-8');
-
-    const recovery = loadWordRecovery();
-    const items = [];
-    let index = 0;
-    for (const m of html.matchAll(VOCAB_ITEM)) {
-        const type = normalizeText(decodeEntities(m[2]));
-        const definition = normalizeText(decodeEntities(m[3]));
-        // Keep counting even when an item is dropped: the index has to stay in
-        // step with the .vocab-item elements the runtime walks.
-        const domIndex = index++;
-        const word =
-            normalizeText(decodeEntities(m[1])) || recovery.get(`${episodeId}#${domIndex}`) || '';
-        if (!word) continue;
-        items.push({ word, type, definition, domIndex });
-    }
-    return items;
-}
 
 // ----------------------------------------------------------------- CMUdict
 
@@ -409,4 +352,4 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.a
     });
 }
 
-export { readEpisodeItems, loadCmudict, ipaFor, loadTranslations };
+export { loadCmudict, ipaFor, loadTranslations };

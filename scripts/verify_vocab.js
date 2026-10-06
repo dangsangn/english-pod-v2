@@ -10,7 +10,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { readEpisodeItems } from './build_vocab.js';
+import { readEpisodeItems } from './lib/transcripts.js';
 import { normalizeText, vocabKey } from '../src/lib/vocabulary.ts';
 
 const __filename = fileURLToPath(import.meta.url);
