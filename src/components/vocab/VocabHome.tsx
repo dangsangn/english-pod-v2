@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useId, useState } from 'react'
 import type { ReactNode } from 'react'
 import {
   ChevronRight,
@@ -8,6 +8,7 @@ import {
   List,
   Play,
   Plus,
+  Sprout,
   Trash2,
   Volume2,
   VolumeX,
@@ -30,6 +31,8 @@ import type { StageStyle } from './stages'
 import type { Episode } from '../../types'
 
 const PLAY_NEEDS = `Cần ít nhất ${MIN_POOL} từ trong vườn để chơi`
+// The choices for Từ mới mỗi ngày; null is no limit.
+const NEW_PER_DAY_CHOICES = [5, 10, 15, 20, 30, null]
 
 interface VocabHomeProps {
   episodes: Episode[]
@@ -43,7 +46,7 @@ export default function VocabHome({ episodes, onOpenEpisode }: VocabHomeProps) {
   const overall = summarize(srs, now)
   const streak = streakOf(srs, now)
   const doneToday = srs.days[dayKey(now)]?.reviews || 0
-  const goal = doneToday + overall.due + overall.seed
+  const goal = doneToday + overall.due + overall.freshToday
   // The games draw wrong answers from the whole garden, so they need a few words.
   const canPlay = Object.keys(srs.cards).length >= MIN_POOL
 
@@ -73,7 +76,9 @@ export default function VocabHome({ episodes, onOpenEpisode }: VocabHomeProps) {
             doneToday={doneToday}
             goal={goal}
             due={overall.due}
-            fresh={overall.seed}
+            fresh={overall.freshToday}
+            capReached={overall.seed > overall.freshToday}
+            newPerDay={srs.settings.newPerDay}
             ahead={overall.ahead}
             nextDue={nextDue === Infinity ? null : nextDue - now}
             canPlay={canPlay}
@@ -160,6 +165,8 @@ interface TodayCardProps {
   goal: number
   due: number
   fresh: number
+  capReached: boolean
+  newPerDay: number | null
   ahead: number
   nextDue: number | null
   canPlay: boolean
@@ -171,6 +178,8 @@ function TodayCard({
   goal,
   due,
   fresh,
+  capReached,
+  newPerDay,
   ahead,
   nextDue,
   canPlay,
@@ -202,11 +211,18 @@ function TodayCard({
             {hasWork ? 'Vườn đang chờ bạn tưới' : 'Hôm nay đã tưới xong 🌸'}
           </h2>
           <p className='text-sm opacity-90'>
-            {hasWork
-              ? `${due} từ cần ôn · ${fresh} từ mới`
-              : nextDue !== null
-                ? `Lượt ôn tiếp theo sau ${formatDelay(nextDue)} · vẫn có thể ôn thêm ${ahead} từ`
-                : 'Thêm bộ từ để có từ mới.'}
+            {[
+              hasWork && `${due} từ cần ôn`,
+              fresh > 0 && `${fresh} từ mới`,
+              capReached && `đã đủ ${newPerDay} từ mới hôm nay`,
+              !hasWork &&
+                (nextDue !== null
+                  ? `lượt ôn tiếp theo sau ${formatDelay(nextDue)} · vẫn có thể ôn thêm ${ahead} từ`
+                  : !capReached && 'thêm bộ từ để có từ mới.'),
+            ]
+              .filter(Boolean)
+              .join(' · ')
+              .replace(/^./, (c) => c.toUpperCase())}
           </p>
         </div>
       </div>
@@ -379,6 +395,7 @@ function StageBar({ counts }: { counts: Summary }) {
 }
 
 function Settings({ settings }: { settings: SrsSettings }) {
+  const newPerDayId = useId()
   return (
     <section>
       <SectionTitle>Cài đặt</SectionTitle>
@@ -408,6 +425,26 @@ function Settings({ settings }: { settings: SrsSettings }) {
             />
           </span>
         </button>
+        <div className='p-4 flex items-center justify-between gap-3'>
+          <label htmlFor={newPerDayId} className='flex items-center gap-3'>
+            <Sprout size={18} />
+            <span className='font-medium'>Từ mới mỗi ngày</span>
+          </label>
+          <select
+            id={newPerDayId}
+            value={settings.newPerDay ?? ''}
+            onChange={(e) =>
+              updateSettings({ newPerDay: e.target.value ? Number(e.target.value) : null })
+            }
+            className='px-3 py-1.5 rounded-full bg-zinc-100 dark:bg-zinc-800 text-sm font-semibold outline-none focus:ring-2 focus:ring-rose-300'
+          >
+            {NEW_PER_DAY_CHOICES.map((n) => (
+              <option key={n ?? 'all'} value={n ?? ''}>
+                {n ?? 'Không giới hạn'}
+              </option>
+            ))}
+          </select>
+        </div>
       </div>
     </section>
   )

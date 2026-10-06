@@ -10,9 +10,18 @@
 
 import { useSyncExternalStore } from 'react'
 import type { Episode, VocabEntry } from '../types'
-import { addDays, cardContent, cardId, createCard, dayKey, isDue, schedule, stageOf } from './srs'
+import {
+  addDays,
+  cardContent,
+  cardId,
+  createCard,
+  dayKey,
+  isDue,
+  schedule,
+  stageOf,
+} from './srs.ts'
 import type { Card, CardContent, CardState, Rating, Stage } from './srs'
-import { uuid } from './uuid'
+import { uuid } from './uuid.ts'
 
 export interface StoredCard extends Card {
   updatedAt: number
@@ -26,6 +35,8 @@ export interface DeckMeta {
 export interface Settings {
   autoSpeak: boolean
   lastEpisodeId: number | null
+  /** New cards a day when studying the whole garden; null = no limit. */
+  newPerDay: number | null
 }
 
 export interface DayCounts {
@@ -56,7 +67,8 @@ export interface SrsState {
   resetAt: number | null
 }
 
-export type Summary = Record<Stage | 'total' | 'due' | 'ahead', number>
+/** Per stage, plus what is due, what can be studied ahead, and how many new cards today allows. */
+export type Summary = Record<Stage | 'total' | 'due' | 'ahead' | 'freshToday', number>
 
 // The /sync wire format, as server/src/sync/wire.ts and schema.ts define it.
 export interface SrsChanges {
@@ -84,7 +96,7 @@ const DEFAULT_STATE: SrsState = {
   cards: {}, // id → card (see srs.createCard) + updatedAt
   decks: [], // episode ids, in the order they were added
   deckMeta: {}, // episode id → { addedAt, updatedAt }
-  settings: { autoSpeak: true, lastEpisodeId: null },
+  settings: { autoSpeak: true, lastEpisodeId: null, newPerDay: 15 },
   settingsUpdatedAt: 0,
   days: {}, // YYYY-MM-DD → { reviews, learned }
   tombstones: { cards: {}, decks: {} }, // id → deletedAt, until pushed
@@ -341,12 +353,28 @@ export function streakOf(s: SrsState, now: number): number {
   return streak
 }
 
+/** New cards today still allows when studying the whole garden. */
+export function newCardsLeft(s: SrsState, now: number): number {
+  const limit = s.settings.newPerDay
+  if (limit === null) return Infinity
+  return Math.max(0, limit - (s.days[dayKey(now)]?.learned ?? 0))
+}
+
 /**
  * Counts per garden stage, optionally for one episode, plus what is due and
  * what could be studied ahead of schedule (studied, but not due yet).
  */
 export function summarize(s: SrsState, now: number, episodeId: number | null = null): Summary {
-  const counts: Summary = { seed: 0, sprout: 0, bud: 0, bloom: 0, total: 0, due: 0, ahead: 0 }
+  const counts: Summary = {
+    seed: 0,
+    sprout: 0,
+    bud: 0,
+    bloom: 0,
+    total: 0,
+    due: 0,
+    ahead: 0,
+    freshToday: 0,
+  }
   for (const card of Object.values(s.cards)) {
     if (episodeId !== null && !card.episodeIds.includes(episodeId)) continue
     counts[stageOf(card)]++
@@ -354,13 +382,15 @@ export function summarize(s: SrsState, now: number, episodeId: number | null = n
     if (isDue(card, now)) counts.due++
     else if (card.state !== 'new') counts.ahead++
   }
+  // One episode's study is a deliberate choice and is not capped (see buildQueue).
+  counts.freshToday = episodeId === null ? Math.min(counts.seed, newCardsLeft(s, now)) : counts.seed
   return counts
 }
 
 /**
  * Card ids for a study session: everything due, oldest first, with every new
  * card woven in — one after every few reviews, so a session is never a wall of
- * unfamiliar words at the end. There is no daily cap on new cards.
+ * unfamiliar words at the end. Across the whole garden, new cards stop at the daily cap (settings.newPerDay); one episode's session takes all of its new cards.
  *
  * When nothing is due and nothing is new, the session reviews ahead instead:
  * the studied cards, soonest-due first. So there is always something to study.
@@ -370,7 +400,10 @@ export function buildQueue(s: SrsState, now: number, episodeId: number | null = 
     (c) => episodeId === null || c.episodeIds.includes(episodeId),
   )
   const due = inScope.filter((c) => isDue(c, now)).sort((a, b) => a.due - b.due)
-  const fresh = inScope.filter((c) => c.state === 'new').sort((a, b) => a.addedAt - b.addedAt)
+  const fresh = inScope
+    .filter((c) => c.state === 'new')
+    .sort((a, b) => a.addedAt - b.addedAt)
+    .slice(0, episodeId === null ? newCardsLeft(s, now) : Infinity)
 
   const queue: string[] = []
   let d = 0
@@ -520,7 +553,12 @@ export function applySyncResult(sent: SrsChanges, response: SyncResponse) {
       let { settings, settingsUpdatedAt, resetAt } = s
       if (changes.settings && changes.settings.updatedAt > settingsUpdatedAt) {
         const { autoSpeak, lastEpisodeId } = changes.settings
-        settings = { ...settings, autoSpeak, lastEpisodeId }
+        // A server from before the cap sends no newPerDay: keep the default.
+        const newPerDay =
+          'newPerDay' in changes.settings
+            ? changes.settings.newPerDay
+            : DEFAULT_STATE.settings.newPerDay
+        settings = { ...settings, autoSpeak, lastEpisodeId, newPerDay }
         settingsUpdatedAt = changes.settings.updatedAt
       }
 
