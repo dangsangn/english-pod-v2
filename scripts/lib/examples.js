@@ -100,7 +100,7 @@ const ABBREVIATION = /\b(Mr|Mrs|Ms|Dr|St|Jr|Sr|vs)\./g;
 export function splitSentences(text) {
     const guarded = plain(text).replace(ABBREVIATION, '$1\u0000');
     return (guarded.match(/[^.!?]+(?:[.!?]+["')\]]*|$)/g) ?? [])
-        .map((s) => s.replace(/\u0000/g, '.').trim())
+        .map((s) => s.replaceAll('\u0000', '.').trim())
         .filter(Boolean);
 }
 
