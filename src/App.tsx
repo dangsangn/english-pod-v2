@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { BookOpen, Flower2, Menu, X } from 'lucide-react'
+import { Flower2, Menu, X } from 'lucide-react'
 import classNames from 'classnames'
 import EpisodeList from './components/EpisodeList'
 import AudioPlayer from './components/AudioPlayer'
