@@ -297,6 +297,30 @@ export function hitIndex(text: string, hit: string): number {
   return text.indexOf(hit)
 }
 
+/**
+ * Every whole-word occurrence of `hit` in `text` as [start, end) ranges, for
+ * blanking a cloze. Unlike hitIndex it ignores case, so "Right on, right on!"
+ * blanks both. Falls back to hitIndex's plain match when none is a whole word.
+ */
+export function hitRanges(text: string, hit: string): [number, number][] {
+  if (!hit) return []
+  const lower = text.toLowerCase()
+  const want = hit.toLowerCase()
+  const ranges: [number, number][] = []
+  if (lower.length === text.length && want.length === hit.length) {
+    for (let at = lower.indexOf(want); at >= 0; at = lower.indexOf(want, at + want.length)) {
+      const before = text.charAt(at - 1)
+      const after = text.charAt(at + want.length)
+      if (!/[\p{L}\p{N}']/u.test(before) && !/[\p{L}\p{N}]/u.test(after)) {
+        ranges.push([at, at + want.length])
+      }
+    }
+  }
+  if (ranges.length) return ranges
+  const at = hitIndex(text, hit)
+  return at < 0 ? [] : [[at, at + hit.length]]
+}
+
 const wordKey = (word: string) => word.toLowerCase().replace(/[’ʼ‘]/g, "'")
 
 /**

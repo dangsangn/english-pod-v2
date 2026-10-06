@@ -64,7 +64,7 @@ Chạy một lần để tạo bản nháp, không ghi đè dòng đã có trong
 - Câu `written`: một câu tự nhiên, 6–14 từ, ngữ cảnh gần với chủ đề bài, dùng đúng nghĩa `d`.
 - Dòng `"check":true`: xác nhận `hit` đúng là từ đó với nghĩa đó (không phải trùng chữ), sửa hoặc chuyển sang `written`, rồi xoá `check`.
 - `vi` cho mọi dòng: dịch tự nhiên, không dịch từng chữ.
-- Làm theo từng file (25 file), song song bằng subagent; mỗi file soạn xong phải qua `verify_examples.js`.
+- Làm theo từng file (19 file), song song bằng subagent; mỗi file soạn xong phải qua `verify_examples.js`.
 
 ### Build: `scripts/build_vocab.js`
 
@@ -97,9 +97,10 @@ export function episodeIdsOf(cards: (Pick<Card, 'episodeIds'> | undefined)[]): n
   localStorage). Lỗi mạng: bỏ qua, thẻ coi như không có ví dụ.
 - Tra theo `cardId(entry.word)`; thẻ thuộc nhiều bài dùng bài đầu tiên trong `episodeIds`
   có ví dụ.
-- `GameSession` và `StudySession` gọi `loadExamples` cho các bài của thẻ trong hàng đợi
-  trước khi hiện câu đầu tiên (hiện trạng thái chờ ngắn). Câu hỏi được tạo sau khi tải
-  xong, nên `makeQuestion` nhận `example` đồng bộ.
+- `GameSession` và `StudySession` gọi `loadExamples` cho các bài của thẻ trong hàng đợi.
+  `StudySession` hiện thẻ ngay, câu ví dụ xuất hiện khi tải xong. `GameSession` chờ (tối đa
+  8 giây) trước khi hiện câu đầu tiên; câu hỏi được tạo sau đó, nên `makeQuestion` nhận
+  `example` đồng bộ.
 
 ## 3. Kiểu câu hỏi theo giai đoạn
 
@@ -132,7 +133,7 @@ không quá 2 lần liên tiếp cùng kiểu giữ nguyên.
 
 - Luôn tự đọc câu khi hiện (đây là câu nghe, giống `listen`), nút loa đọc lại, nút 🐢 đọc chậm.
   `speak(text, { rate })` thêm tham số, mặc định 0.8 như hiện tại; chậm là 0.55.
-- Một `<textarea>` một dòng (Enter để kiểm tra), tắt autocorrect/autocapitalize/spellcheck.
+- Một `<textarea>` 3 dòng (Enter để kiểm tra), từ đích in đậm, từ sót gạch chân lượn sóng, tắt autocorrect/autocapitalize/spellcheck.
 - Chấm bằng hàm thuần `gradeDictation(input, ex, hit)` trong `quiz.ts`:
   - Tách từ: `comparable` từng từ (chữ thường, bỏ dấu câu; `’` → `'`, giữ `'` trong từ).
   - Căn hai dãy bằng LCS; mỗi từ của câu đúng là `ok` hoặc `missed`, mỗi từ thừa
@@ -159,9 +160,9 @@ in đậm), nút loa đọc cả câu, và `vi`. Không có ví dụ thì không
   cho mục tiêu, nút Học và dòng mô tả thay cho `seed`. Hết lượt từ mới thì ghi "Đã đủ
   N từ mới hôm nay".
 - Settings trên trang chính: chọn 5 / 10 / 15 / 20 / 30 / Không giới hạn.
-- Sync: thêm `newPerDay` vào `settingsSchema` (zod, `z.number().int().min(1).max(999).nullable().default(15)`),
+- Sync: thêm `newPerDay` vào `settingsSchema` (zod, `z.number().int().min(1).max(999).nullable().optional()`),
   `wire.ts`, `service.ts`, cột `new_per_day Int? @default(15)` trong Prisma kèm migration.
-  Client cũ không gửi trường này thì server giữ mặc định.
+  Client cũ không gửi trường này thì server giữ giá trị đã lưu (dòng mới có 15).
 
 ## 6. Từ hay quên
 
@@ -197,7 +198,7 @@ in đậm), nút loa đọc cả câu, và `vi`. Không có ví dụ thì không
 
 Dự án không dùng test framework. Kiểm tra bằng:
 
-- `node scripts/verify_examples.js` sạch lỗi trên cả 25 file.
+- `node scripts/verify_examples.js` sạch lỗi trên cả 19 file.
 - `node scripts/verify_quiz.js`: thêm kiểm tra cloze (`checkSpelling(hit, hit)` đúng với mọi mục),
   `gradeDictation(ex, ex, hit)` cho `targetCorrect` và `accuracy = 1` với mọi mục, một số ca
   tay (thiếu từ, thừa từ, sai từ mục tiêu), `allowedKinds` cho từng giai đoạn.

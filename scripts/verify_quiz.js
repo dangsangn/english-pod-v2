@@ -19,6 +19,7 @@ import {
     gradeDictation,
     gradeFor,
     hitIndex,
+    hitRanges,
     lettersOf,
     makeQuestion,
     maskWord,
@@ -234,6 +235,14 @@ function checkRules(rng) {
     if (hitIndex('I said go ago, go now', 'go') !== 7) fail('rules: hitIndex should skip "go" inside "ago"');
     if (hitIndex('going', 'go') !== 0) fail('rules: hitIndex should fall back to a plain match');
     if (hitIndex('abc', 'x') !== -1) fail('rules: hitIndex of a missing word is -1');
+    if (JSON.stringify(hitRanges('Right on, right on!', 'right on')) !== '[[0,8],[10,18]]') {
+        fail('rules: hitRanges should find every whole-word occurrence, ignoring case');
+    }
+    if (JSON.stringify(hitRanges('I said go ago, go now', 'go')) !== '[[7,9],[15,17]]') {
+        fail('rules: hitRanges should skip "go" inside "ago"');
+    }
+    if (JSON.stringify(hitRanges('going', 'go')) !== '[[0,2]]') fail('rules: hitRanges should fall back to a plain match');
+    if (hitRanges('abc', 'x').length !== 0) fail('rules: hitRanges of a missing word is empty');
     checkTargetWords('rules: pot', 'Put the potatoes in a big pot of water.', 'pot');
     const ago = gradeDictation('ago go', 'ago go', 'go');
     if (ago.words.map((w) => w.target).join() !== 'false,true') {

@@ -35,7 +35,6 @@ export const deckSchema = z.object({ episodeId: z.number().int(), addedAt: ms, u
 export const settingsSchema = z.object({
   autoSpeak: z.boolean(),
   lastEpisodeId: z.number().int().nullable(),
-  // Clients from before the cap do not send it.
   // Absent from a client older than the cap: the server keeps the stored value.
   newPerDay: z.number().int().min(1).max(999).nullable().optional(),
   updatedAt: ms,

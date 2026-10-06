@@ -1,4 +1,5 @@
-import { hitIndex, meaningOf } from '../../lib/quiz'
+import type { ReactNode } from 'react'
+import { hitRanges, meaningOf } from '../../lib/quiz'
 import type { Example } from '../../lib/examples'
 import type { StoredCard } from '../../lib/srsStore'
 import SpellQuestion from './SpellQuestion'
@@ -15,7 +16,19 @@ interface ClozeQuestionProps {
  * ("grabbed", not "grab"); hints, retries and grading are Điền từ's.
  */
 export default function ClozeQuestion({ card, example, onDone }: ClozeQuestionProps) {
-  const at = hitIndex(example.ex, example.hit)
+  // Blank every occurrence: a repeated word would give the answer away.
+  const parts: ReactNode[] = []
+  let from = 0
+  for (const [start, end] of hitRanges(example.ex, example.hit)) {
+    parts.push(example.ex.slice(from, start))
+    parts.push(
+      <span key={start} className='px-1 font-bold text-rose-500'>
+        _____
+      </span>,
+    )
+    from = end
+  }
+  parts.push(example.ex.slice(from))
   return (
     <SpellQuestion
       card={card}
@@ -29,11 +42,7 @@ export default function ClozeQuestion({ card, example, onDone }: ClozeQuestionPr
           <p className='vi-text mt-3 text-lg font-bold text-indigo-600 dark:text-indigo-400'>
             {meaningOf(card)}
           </p>
-          <p className='mt-3 text-xl leading-relaxed text-zinc-700 dark:text-zinc-200'>
-            {example.ex.slice(0, at)}
-            <span className='px-1 font-bold text-rose-500'>_____</span>
-            {example.ex.slice(at + example.hit.length)}
-          </p>
+          <p className='mt-3 text-xl leading-relaxed text-zinc-700 dark:text-zinc-200'>{parts}</p>
         </>
       }
     />

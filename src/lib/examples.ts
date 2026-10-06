@@ -73,8 +73,11 @@ const EXAMPLES_TIMEOUT_MS = 8000
 
 /**
  * Load the examples of `episodeIds`. True once every file has loaded (or
- * failed) or the wait times out; examples arriving later are not used by that session. Read examples with `ready ? exampleOf(card) : null` so the render
- * depends on it — the cache itself is not React state.
+ * failed) or the wait times out. It only gates the waiting: examples that
+ * arrive after the timeout stay cached and later questions may still use them
+ * (GameSession reads exampleOf per question), while StudySession gates its
+ * render on `ready`. Read examples with `ready ? exampleOf(card) : null` so
+ * the render depends on it — the cache itself is not React state.
  */
 export function useExamples(episodeIds: number[]): boolean {
   const key = [...new Set(episodeIds)].sort((a, b) => a - b).join(',')

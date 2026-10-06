@@ -10,6 +10,8 @@
 
 import { useSyncExternalStore } from 'react'
 import type { Episode, VocabEntry } from '../types'
+// With the extensions: scripts/verify_srs_store.js runs this file in Node, which
+// does not resolve extensionless imports (tsconfig allows .ts imports).
 import {
   addDays,
   cardContent,
@@ -558,11 +560,9 @@ export function applySyncResult(sent: SrsChanges, response: SyncResponse) {
       let { settings, settingsUpdatedAt, resetAt } = s
       if (changes.settings && changes.settings.updatedAt > settingsUpdatedAt) {
         const { autoSpeak, lastEpisodeId } = changes.settings
-        // A server from before the cap sends no newPerDay: keep the default (null is "no limit").
+        // A server from before the cap sends no newPerDay: keep ours.
         const newPerDay =
-          changes.settings.newPerDay === undefined
-            ? DEFAULT_STATE.settings.newPerDay
-            : changes.settings.newPerDay
+          changes.settings.newPerDay === undefined ? settings.newPerDay : changes.settings.newPerDay
         settings = { ...settings, autoSpeak, lastEpisodeId, newPerDay }
         settingsUpdatedAt = changes.settings.updatedAt
       }
