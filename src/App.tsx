@@ -7,7 +7,6 @@ import Transcript from './components/Transcript'
 import { ThemeProvider } from './components/ThemeProvider'
 import ThemeToggle from './components/ThemeToggle'
 import Footer from './components/Footer'
-import UserGuideModal from './components/UserGuideModal'
 import VocabApp from './components/vocab/VocabApp'
 import EpisodeVocabButton from './components/vocab/EpisodeVocabButton'
 import AccountButton from './components/AccountButton'
@@ -52,7 +51,6 @@ function AppContent() {
     }
   }
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
-  const [isGuideOpen, setIsGuideOpen] = useState(false)
   const route = useHashRoute()
   const isVocabOpen = route === 'vocab' || route.startsWith('vocab/')
 
@@ -75,8 +73,6 @@ function AppContent() {
 
   return (
     <div className='flex h-screen overflow-hidden bg-zinc-50 dark:bg-black text-zinc-900 dark:text-zinc-100 transition-colors duration-300 relative selection:bg-indigo-100 selection:text-indigo-900 dark:selection:bg-indigo-900 dark:selection:text-indigo-100'>
-      <UserGuideModal isOpen={isGuideOpen} onClose={() => setIsGuideOpen(false)} />
-
       {/* Rendered over the podcast view, which stays mounted so the player keeps its
           place; the player pauses while this is open and resumes after (see `suspended`). */}
       {isVocabOpen && (
@@ -107,14 +103,6 @@ function AppContent() {
         >
           <Flower2 size={20} />
         </button>
-        <button
-          type='button'
-          onClick={() => setIsGuideOpen(true)}
-          className='p-2 bg-emerald-600 rounded-full shadow-lg text-white hover:bg-emerald-700 transition-colors'
-          title='User Guide'
-        >
-          <BookOpen size={20} />
-        </button>
         <ThemeToggle />
         <button
           type='button'
@@ -137,7 +125,7 @@ function AppContent() {
           isSidebarOpen ? 'translate-x-0' : '-translate-x-full',
         )}
       >
-        <div className='p-6 border-b border-zinc-200 dark:border-zinc-800/50 flex justify-between items-start bg-white/50 dark:bg-transparent'>
+        <div className='p-6 pb-3 border-b border-zinc-200 dark:border-zinc-800/50 flex justify-between items-start bg-white/50 dark:bg-transparent'>
           <div>
             <div className='flex items-center gap-3 mb-2'>
               <img
@@ -155,19 +143,10 @@ function AppContent() {
 
             <button
               type='button'
-              onClick={() => setIsGuideOpen(true)}
-              className='mt-4 flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-emerald-700 dark:text-emerald-300 bg-emerald-100 dark:bg-emerald-900/30 border border-emerald-200 dark:border-emerald-800/50 rounded-full hover:bg-emerald-200 dark:hover:bg-emerald-900/50 transition-colors'
-            >
-              <BookOpen size={14} />
-              User Manual Guide
-            </button>
-
-            <button
-              type='button'
               onClick={() => navigate('vocab')}
-              className='mt-2 flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-rose-700 dark:text-rose-300 bg-rose-100 dark:bg-rose-900/30 border border-rose-200 dark:border-rose-800/50 rounded-full hover:bg-rose-200 dark:hover:bg-rose-900/50 transition-colors'
+              className='mt-2 flex items-center gap-2 px-3 py-3 text-sm font-medium text-rose-700 dark:text-rose-300 bg-rose-100 dark:bg-rose-900/30 border border-rose-200 dark:border-rose-800/50 rounded-full hover:bg-rose-200 dark:hover:bg-rose-900/50 transition-colors w-full'
             >
-              <Flower2 size={14} />
+              <Flower2 size={20} />
               Vocabulary Garden
             </button>
           </div>

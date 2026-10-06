@@ -1,7 +1,5 @@
-import { useEffect, useState } from 'react'
 import type { RefObject } from 'react'
-import { Loader2, Volume2, X } from 'lucide-react'
-import { translate } from '../lib/translate'
+import { Volume2, X } from 'lucide-react'
 import { speak } from '../lib/speech'
 import type { VocabEntry } from '../types'
 import FloatingCard from './FloatingCard'
@@ -11,8 +9,11 @@ const WIDTH = 288
 export interface LookupTarget {
   text: string
   rect: DOMRect
-  /** A whole line rather than a word: it is right there, so it isn't repeated. */
-  sentence?: boolean
+  /**
+   * A whole dialogue line's hand-written Vietnamese. The line is right there,
+   * so the card shows only this, not the English again.
+   */
+  translation?: string
 }
 
 interface TranslatePopoverProps {
@@ -24,20 +25,15 @@ interface TranslatePopoverProps {
   onClose: () => void
 }
 
-// `key` is the text it answers; then either the translation or an error.
-interface Result {
-  key: string | null
-  text?: string
-  error?: string
-}
-
 /**
- * Small card next to a tapped word (or selected phrase) with its Vietnamese.
+ * Small card next to a tapped word, or a dialogue line, with its Vietnamese.
  *
- * `target` = { text, rect } where rect is the word's viewport rectangle.
- * `entry` is a hand-written vocabulary entry for the word, if there is one
- * (from this episode, or a card in the garden): it beats machine translation,
- * so nothing is fetched then. `entryLabel` says where it came from.
+ * Only hand-written Vietnamese is shown — machine translation got the meaning
+ * wrong too often to put in front of learners:
+ * - a line: `target.translation` (scripts/data/dialogue-vi);
+ * - a word: `entry`, its vocabulary entry (from this episode, or a card in the
+ *   garden; `entryLabel` says which). A word with none still gets its
+ *   pronunciation.
  */
 export default function TranslatePopover({
   target,
@@ -46,35 +42,19 @@ export default function TranslatePopover({
   anchor,
   onClose,
 }: TranslatePopoverProps) {
-  // Keyed by the text it answers, so a stale response for an earlier word
-  // can never show under a newer one.
-  const [result, setResult] = useState<Result>({ key: null })
-
-  useEffect(() => {
-    if (entry) return
-    let cancelled = false
-    translate(target.text).then(
-      (r) => !cancelled && setResult({ key: target.text, ...r }),
-      (err: Error) => !cancelled && setResult({ key: target.text, error: err.message }),
-    )
-    return () => {
-      cancelled = true
-    }
-  }, [target.text, entry])
-
-  const ready = result.key === target.text
+  const sentence = target.translation !== undefined
 
   return (
     <FloatingCard
       rect={target.rect}
       width={WIDTH}
-      label={target.sentence ? 'Bản dịch câu' : `Nghĩa của ${target.text}`}
+      label={sentence ? 'Bản dịch câu' : `Nghĩa của ${target.text}`}
       anchor={anchor}
       onClose={onClose}
     >
       <div className='flex items-start gap-2'>
         <div className='flex-1 min-w-0'>
-          {target.sentence ? (
+          {sentence ? (
             <p className='pt-2 text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
               Dịch câu
             </p>
@@ -106,7 +86,11 @@ export default function TranslatePopover({
       </div>
 
       <div className='mt-2'>
-        {entry ? (
+        {sentence ? (
+          <p className='vi-text text-base font-semibold text-indigo-600 dark:text-indigo-400'>
+            {target.translation}
+          </p>
+        ) : entry ? (
           <>
             <p className='vi-text text-base font-semibold text-indigo-600 dark:text-indigo-400'>
               {entry.vi}
@@ -119,23 +103,10 @@ export default function TranslatePopover({
             )}
             <p className='mt-2 text-[11px] text-zinc-400'>{entryLabel}</p>
           </>
-        ) : !ready ? (
-          <p className='flex items-center gap-2 text-sm text-zinc-500'>
-            <Loader2 size={14} className='animate-spin' /> Đang dịch…
-          </p>
-        ) : result.error ? (
-          <p className='text-sm text-rose-600 dark:text-rose-400'>
-            {result.error === 'quota'
-              ? 'Đã hết lượt dịch miễn phí hôm nay. Thử lại vào ngày mai nhé.'
-              : 'Không dịch được. Kiểm tra kết nối mạng rồi thử lại.'}
-          </p>
         ) : (
-          <>
-            <p className='vi-text text-base font-semibold text-indigo-600 dark:text-indigo-400'>
-              {result.text}
-            </p>
-            <p className='mt-2 text-[11px] text-zinc-400'>Dịch máy · MyMemory</p>
-          </>
+          <p className='text-sm text-zinc-500 dark:text-zinc-400'>
+            Từ này chưa có trong bộ từ vựng. Bấm loa để nghe phát âm.
+          </p>
         )}
       </div>
     </FloatingCard>

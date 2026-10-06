@@ -1,0 +1,196 @@
+{"ep":1,"i":0,"s":"A","en":"Good evening. My name is Fabio. I'll be your waiter for tonight. May I take your order?","vi":"Chào buổi tối. Tôi là Fabio, tối nay tôi sẽ phục vụ bàn của quý khách. Quý khách muốn gọi món chưa ạ?"}
+{"ep":1,"i":1,"s":"B","en":"No, I'm still working on it. This menu isn't even in English. What's good here?","vi":"Chưa, tôi vẫn đang xem thực đơn. Thực đơn này còn chẳng có tiếng Anh nữa. Ở đây món nào ngon vậy?"}
+{"ep":1,"i":2,"s":"A","en":"For you sir, I would recommend spaghetti and meatballs.","vi":"Với quý khách, tôi xin gợi ý món mì Ý sốt thịt viên ạ."}
+{"ep":1,"i":3,"s":"B","en":"Does it come with coke and fries?","vi":"Món đó có kèm coca và khoai tây chiên không?"}
+{"ep":1,"i":4,"s":"A","en":"It comes with either soup or salad and a complimentary glass of wine, sir.","vi":"Món này đi kèm súp hoặc salad, và tặng một ly rượu vang ạ."}
+{"ep":1,"i":5,"s":"B","en":"I'll go with the spaghetti and meatballs, salad and the wine.","vi":"Vậy cho tôi mì Ý sốt thịt viên, salad và ly rượu vang."}
+{"ep":1,"i":6,"s":"A","en":"Excellent choice. Your order will be ready soon.","vi":"Quý khách chọn rất hay. Món sẽ có ngay thôi ạ."}
+{"ep":1,"i":7,"s":"B","en":"How soon is soon?","vi":"\"Ngay thôi\" là bao lâu?"}
+{"ep":1,"i":8,"s":"A","en":"Twenty minutes?","vi":"Khoảng hai mươi phút ạ?"}
+{"ep":1,"i":9,"s":"B","en":"You know what? I'll just go grab a burger across the street.","vi":"Anh biết không? Tôi sang bên kia đường mua đại cái bánh mì kẹp thịt ăn cho rồi."}
+{"ep":2,"i":0,"s":"A","en":"Hello, Daniel speaking, how may I help you?","vi":"A lô, Daniel nghe đây, tôi có thể giúp gì cho bạn?"}
+{"ep":2,"i":1,"s":"B","en":"Hi, Daniel, Julie here.","vi":"Chào Daniel, Julie đây."}
+{"ep":2,"i":2,"s":"A","en":"Hi, Julie, how are you?","vi":"Chào Julie, bạn khỏe không?"}
+{"ep":2,"i":3,"s":"B","en":"Actually, I'm feeling quite ill today.","vi":"Thật ra hôm nay tôi thấy trong người khá mệt."}
+{"ep":2,"i":4,"s":"A","en":"I'm sorry to hear that. What's wrong?","vi":"Tôi rất tiếc khi nghe vậy. Bạn bị sao thế?"}
+{"ep":2,"i":5,"s":"B","en":"I think I'm coming down with the flu. I have a headache, a sore throat a runny nose and I'm feeling slightly feverish.","vi":"Tôi nghĩ mình sắp bị cúm. Tôi bị đau đầu, đau họng, sổ mũi và thấy hơi sốt."}
+{"ep":2,"i":6,"s":"A","en":"I see... so you're calling in sick?","vi":"Tôi hiểu rồi... vậy là bạn gọi để xin nghỉ ốm?"}
+{"ep":2,"i":7,"s":"B","en":"Yes, I was hoping to take the day off to recover.","vi":"Vâng, tôi định xin nghỉ một ngày để hồi phục."}
+{"ep":2,"i":8,"s":"A","en":"OK, then. Try and get some rest.","vi":"Được rồi. Cố nghỉ ngơi cho khỏe nhé."}
+{"ep":3,"i":0,"s":"A","en":"Good afternoon. What can I do for you?","vi":"Chào buổi chiều. Tôi có thể giúp gì cho anh?"}
+{"ep":3,"i":1,"s":"B","en":"I'd like to check in please. I have a reservation under the name Anthony Roberts.","vi":"Tôi muốn nhận phòng. Tôi đã đặt phòng dưới tên Anthony Roberts."}
+{"ep":3,"i":2,"s":"A","en":"All right R.O.B.E.R.T.S... Oh, Mr. Roberts we've been expecting you… and here is your keycard to the presidential suite.","vi":"Vâng ạ, R.O.B.E.R.T.S... À, ông Roberts, chúng tôi đang đợi ông... và đây là thẻ chìa khóa phòng tổng thống của ông."}
+{"ep":3,"i":3,"s":"B","en":"But there must be some mistake; my reservation was for a standard room.","vi":"Nhưng chắc có nhầm lẫn gì rồi; tôi đặt phòng tiêu chuẩn mà."}
+{"ep":3,"i":4,"s":"A","en":"Are you sure? Let me double check .","vi":"Ông chắc không? Để tôi kiểm tra lại."}
+{"ep":3,"i":5,"s":"B","en":"Yeah…Here, this is my confirmation number.","vi":"Chắc chứ... Đây, mã xác nhận đặt phòng của tôi đây."}
+{"ep":3,"i":6,"s":"A","en":"You're right Mr. Roberts, there seems to be a mix-up, unfortunately we're overbooked at the moment .","vi":"Ông nói đúng, ông Roberts, có vẻ đã có sự nhầm lẫn, rất tiếc là hiện giờ khách sạn đã nhận đặt phòng vượt quá số phòng hiện có."}
+{"ep":3,"i":7,"s":"B","en":"So…","vi":"Vậy là..."}
+{"ep":3,"i":8,"s":"A","en":"Not to worry. We're pleased to offer you a complimentary upgrade.","vi":"Ông đừng lo. Chúng tôi xin được nâng hạng phòng miễn phí cho ông."}
+{"ep":3,"i":9,"s":"B","en":"Presidential suite baby!","vi":"Phòng tổng thống, tuyệt cú mèo!"}
+{"ep":4,"i":0,"s":"A","en":"...like I told you before, we just don't have the resources to hire you an assistant.","vi":"...như tôi đã nói với anh rồi, chúng ta đơn giản là không đủ nguồn lực để thuê trợ lý cho anh."}
+{"ep":4,"i":1,"s":"B","en":"I understand that, but the fact is we're understaffed.","vi":"Tôi hiểu, nhưng thực tế là chúng ta đang thiếu người."}
+{"ep":4,"i":2,"s":"A","en":"The timing is just not right. The economy is bad, and it's too risky to take on new staff.","vi":"Thời điểm này không thích hợp. Kinh tế đang xấu, tuyển thêm nhân viên mới thì quá rủi ro."}
+{"ep":4,"i":3,"s":"B","en":"Yeah, I guess you're right.... here's an idea, what if we hire an intern? She would take some of the weight off my shoulders.","vi":"Vâng, chắc ông nói đúng... Tôi có ý này, hay mình tuyển một thực tập sinh? Cô ấy sẽ san bớt gánh nặng cho tôi."}
+{"ep":4,"i":4,"s":"A","en":"She?","vi":"Cô ấy?"}
+{"ep":4,"i":5,"s":"B","en":"Yeah, you know, a recent graduate. She could give me a hand with some of these projects and we could keep our costs down.","vi":"Vâng, ông biết đấy, một sinh viên mới tốt nghiệp. Cô ấy có thể giúp tôi một tay với mấy dự án này mà vẫn giữ được chi phí thấp."}
+{"ep":4,"i":6,"s":"A","en":"That sounds reasonable... let me see what I can do.","vi":"Nghe cũng hợp lý đấy... để tôi xem có thể làm gì."}
+{"ep":4,"i":7,"s":"A","en":"Tony, I'd like to introduce you to your new assistant.","vi":"Tony, tôi muốn giới thiệu với anh trợ lý mới của anh."}
+{"ep":4,"i":8,"s":"B","en":"OK, great! Let's meet her!","vi":"Ồ, tuyệt! Gặp cô ấy thôi!"}
+{"ep":4,"i":9,"s":"C","en":"Hi, I'm Adam.","vi":"Chào anh, tôi là Adam."}
+{"ep":4,"i":10,"s":"B","en":"Oh... hi... I'm Tony...","vi":"Ồ... chào... tôi là Tony..."}
+{"ep":5,"i":0,"s":"A","en":"I can't believe it took us two hours to get here. The traffic in New York is unbelievable.","vi":"Không thể tin là mình mất hai tiếng mới tới được đây. Giao thông ở New York thật kinh khủng."}
+{"ep":5,"i":1,"s":"B","en":"Yeah, but just relax honey, we're here and we're going on vacation. In a few hours we'll be in Hawaii, and you'll be on the golf course.","vi":"Ừ, nhưng em thư giãn đi cưng, mình tới nơi rồi và sắp đi nghỉ mát rồi. Vài tiếng nữa là mình ở Hawaii, còn anh thì ra sân golf."}
+{"ep":5,"i":2,"s":"A","en":"Oh no! Look at that line! It must be a mile long! There's no way I'm waiting for another two hours.","vi":"Ôi không! Nhìn cái hàng kìa! Chắc dài cả dặm! Anh không đời nào đứng chờ thêm hai tiếng nữa đâu."}
+{"ep":5,"i":3,"s":"B","en":"Honey... don't...","vi":"Anh à... đừng..."}
+{"ep":5,"i":4,"s":"C","en":"Hey man, the end of the line is over there.","vi":"Này anh bạn, cuối hàng ở đằng kia kìa."}
+{"ep":5,"i":5,"s":"A","en":"Yeah...","vi":"Ừ..."}
+{"ep":5,"i":6,"s":"C","en":"No seriously, I was here first, and you can't cut in line like this.","vi":"Không, nghiêm túc đấy, tôi đến trước, anh không được chen hàng như vậy."}
+{"ep":5,"i":7,"s":"A","en":"Says who?","vi":"Ai nói thế?"}
+{"ep":5,"i":8,"s":"C","en":"I do!","vi":"Tôi nói đấy!"}
+{"ep":5,"i":9,"s":"A","en":"So sue me!","vi":"Thế thì kiện tôi đi!"}
+{"ep":5,"i":10,"s":"C","en":"Alright...that's it....","vi":"Được rồi... thế là xong rồi nhé..."}
+{"ep":6,"i":0,"s":"A","en":"So, are we all ready to go?","vi":"Vậy, mình sẵn sàng đi chưa?"}
+{"ep":6,"i":1,"s":"B","en":"Yup, I think so. The car's packed; we have munchies and music, and the map's in the car.","vi":"Rồi, em nghĩ là xong rồi. Xe đã chất đồ, mình có đồ ăn vặt và nhạc, bản đồ thì để trên xe."}
+{"ep":6,"i":2,"s":"A","en":"Did you get the camera?","vi":"Em lấy máy ảnh chưa?"}
+{"ep":6,"i":3,"s":"B","en":"Got it! Did you fill up the tank?","vi":"Có rồi! Anh đã đổ đầy bình xăng chưa?"}
+{"ep":6,"i":4,"s":"A","en":"Yup, it's all set.","vi":"Rồi, xong hết rồi."}
+{"ep":6,"i":5,"s":"B","en":"You're sure we're not forgetting anything?","vi":"Anh chắc là mình không quên gì chứ?"}
+{"ep":6,"i":6,"s":"A","en":"I'm sure... we've got all our bases covered.","vi":"Chắc chắn... mình đã lo liệu đâu vào đấy cả rồi."}
+{"ep":6,"i":7,"s":"B","en":"Well… let's get going then! I love road trips!","vi":"Vậy thì... đi thôi! Em thích đi phượt lắm!"}
+{"ep":6,"i":8,"s":"B","en":"Um... do you think we can make a pit stop?","vi":"Ừm... anh nghĩ mình có thể dừng nghỉ một chút không?"}
+{"ep":6,"i":9,"s":"A","en":"But we've only been on the road for ten minutes.","vi":"Nhưng mình mới đi được có mười phút thôi mà."}
+{"ep":6,"i":10,"s":"B","en":"I know, but I forgot to go to the bathroom before we left.","vi":"Em biết, nhưng trước khi đi em quên đi vệ sinh."}
+{"ep":7,"i":0,"s":"A","en":"Oh great! This stupid computer froze again! That’s the third time today! Hey Samuel, can you come take a look at my PC? It’s acting up again. It must have a virus or something.","vi":"Ôi trời! Cái máy tính ngu ngốc này lại đơ nữa rồi! Đây là lần thứ ba trong hôm nay! Này Samuel, anh qua xem giúp máy tôi được không? Nó lại trục trặc rồi. Chắc bị virus hay gì đó."}
+{"ep":7,"i":1,"s":"B","en":"Just give me a second; I’ll be right up.","vi":"Chờ tôi một chút, tôi lên ngay."}
+{"ep":7,"i":2,"s":"B","en":"I ran a virus scan on your computer, and it turns out that you have a lot of infected files!","vi":"Tôi đã quét virus máy của bạn, và hóa ra bạn có rất nhiều tệp bị nhiễm!"}
+{"ep":7,"i":3,"s":"A","en":"But I’m quite careful when I’m browsing the internet, I have no idea how I could have picked up a virus.","vi":"Nhưng tôi khá cẩn thận khi lướt web mà, tôi không hiểu sao mình lại dính virus được."}
+{"ep":7,"i":4,"s":"B","en":"Well, you have to make sure that your anti-virus software is updated regularly; yours wasn't up to date, that's probably what was causing your problems.","vi":"Thì, bạn phải nhớ cập nhật phần mềm diệt virus thường xuyên; của bạn không được cập nhật, có lẽ đó là nguyên nhân gây ra sự cố."}
+{"ep":7,"i":5,"s":"A","en":"Ok. Anything else?","vi":"Được rồi. Còn gì nữa không?"}
+{"ep":7,"i":6,"s":"B","en":"Yeah, try not to kick or hit the computer!","vi":"Có, cố đừng đá hay đập máy tính nhé!"}
+{"ep":7,"i":7,"s":"A","en":"Um yeah… Sorry about that.","vi":"Ừm, vâng... Xin lỗi về chuyện đó."}
+{"ep":8,"i":0,"s":"A","en":"Nick! How's it going?","vi":"Nick! Dạo này thế nào?"}
+{"ep":8,"i":1,"s":"B","en":"Oh, hey...","vi":"Ồ, chào..."}
+{"ep":8,"i":2,"s":"A","en":"What are you doing in this neighbourhood? Do you live around here?","vi":"Anh làm gì ở khu này vậy? Anh sống quanh đây à?"}
+{"ep":8,"i":3,"s":"B","en":"Actually, my office is right around the corner.","vi":"Thật ra văn phòng tôi ở ngay góc đường này."}
+{"ep":8,"i":4,"s":"A","en":"It was great to meet you last week at the conference. I really enjoyed our conversation about foreign investment.","vi":"Rất vui được gặp anh tuần trước ở hội nghị. Tôi rất thích cuộc trò chuyện của chúng ta về đầu tư nước ngoài."}
+{"ep":8,"i":5,"s":"B","en":"Yeah, yeah, it was really interesting. You know, I'm in a bit of a hurry, but here's my card. We should definitely meet up again and continue our discussion.","vi":"Ừ, ừ, thú vị thật. Thế này, tôi đang hơi vội, nhưng đây là danh thiếp của tôi. Chúng ta nhất định nên gặp lại để tiếp tục thảo luận."}
+{"ep":8,"i":6,"s":"A","en":"Sure, you still have my contact details, right ?","vi":"Chắc chắn rồi, anh vẫn còn thông tin liên lạc của tôi chứ?"}
+{"ep":8,"i":7,"s":"B","en":"You know what, this is really embarrassing, but your name has just slipped my mind. Can you remind me?","vi":"Thật ngại quá, nhưng tôi vừa quên mất tên chị. Chị nhắc lại giúp tôi được không?"}
+{"ep":8,"i":8,"s":"A","en":"Sure, my name is Ana Ferris. Don't worry about it; it happens to me all the time. I'm terrible with names too.","vi":"Được chứ, tôi là Ana Ferris. Đừng bận tâm, tôi cũng hay bị vậy. Tôi cũng rất tệ khoản nhớ tên."}
+{"ep":9,"i":0,"s":"A","en":"Those people in front of us are making so much noise. It’s so inconsiderate!","vi":"Mấy người ngồi trước mình ồn quá. Thật là thiếu ý tứ!"}
+{"ep":9,"i":1,"s":"B","en":"Don’t worry about it; it's not such a big deal.","vi":"Đừng bận tâm, có gì to tát đâu."}
+{"ep":9,"i":2,"s":"A","en":"Oh... I can’t hear a thing! Excuse me, can you keep it down?","vi":"Ôi... em chẳng nghe được gì cả! Xin lỗi, anh làm ơn nói nhỏ lại được không?"}
+{"ep":9,"i":3,"s":"C","en":"Sure, sorry 'bout that!","vi":"Vâng, xin lỗi nhé!"}
+{"ep":9,"i":4,"s":"A","en":"Someone’s phone is ringing!","vi":"Có điện thoại ai đó đang reo!"}
+{"ep":9,"i":5,"s":"B","en":"Honey, I think it’s your phone. Did you forget to switch it off?","vi":"Em ơi, anh nghĩ là điện thoại của em đấy. Em quên tắt máy à?"}
+{"ep":9,"i":6,"s":"A","en":"Oh, no! You’re right. That’s so embarrassing!","vi":"Ôi không! Anh nói đúng. Xấu hổ quá!"}
+{"ep":9,"i":7,"s":"C","en":"Do you mind keeping it down? I’m trying to watch a movie here!","vi":"Làm ơn nói nhỏ lại được không? Tôi đang cố xem phim đây!"}
+{"ep":10,"i":0,"s":"A","en":"All right, people. We're holding this meeting today because we've got to do something about our sales, and we need to do it NOW! I want concrete solutions. How do you intend to drive sales... Roger?","vi":"Được rồi, mọi người. Hôm nay chúng ta họp vì phải làm gì đó với doanh số, và phải làm ngay bây giờ! Tôi muốn những giải pháp cụ thể. Anh định thúc đẩy doanh số thế nào... Roger?"}
+{"ep":10,"i":1,"s":"B","en":"Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?","vi":"Thật ra thì, chúng ta đang đắt nhất thị trường, nên có lẽ cần hạ giá để ngang bằng với đối thủ?"}
+{"ep":10,"i":2,"s":"A","en":"Lower our prices? Not very creative. It'll never fly with Swan. What kind of thinking is that? Geez. Anybody else have a better plan? Natalie?","vi":"Hạ giá à? Chẳng sáng tạo gì cả. Ông Swan sẽ không đời nào duyệt đâu. Đó là kiểu suy nghĩ gì vậy? Trời ạ. Còn ai có kế hoạch nào hay hơn không? Natalie?"}
+{"ep":10,"i":3,"s":"C","en":"Um, perhaps, um, a sales promotion. Maybe a two-for-one offer, or something like that!","vi":"Ừm, có lẽ, ừm, một đợt khuyến mãi. Có thể là mua một tặng một, hay đại loại vậy!"}
+{"ep":10,"i":4,"s":"A","en":"What? That's the same thing. Bad idea. Really bad idea. Dammit people come on! Think! The CEO will be here any minute.","vi":"Cái gì? Thế cũng như nhau thôi. Ý tồi. Thật sự rất tồi. Chết tiệt, mọi người ơi cố lên! Nghĩ đi! Tổng giám đốc sắp đến rồi."}
+{"ep":10,"i":5,"s":"D","en":"Do we have any ideas yet?","vi":"Mọi người đã có ý tưởng nào chưa?"}
+{"ep":10,"i":6,"s":"C","en":"Yes Mr. Swan, we were kind of considering a two-for-one offer to get more competitive.","vi":"Dạ thưa ông Swan, chúng tôi đang cân nhắc chương trình mua một tặng một để tăng khả năng cạnh tranh ạ."}
+{"ep":10,"i":7,"s":"D","en":"A two-for-one promotion? Hmm. I kind of like the sound of that. It sounds like something we should consider.","vi":"Khuyến mãi mua một tặng một à? Ừm. Tôi khá thích ý đó. Nghe có vẻ là thứ chúng ta nên cân nhắc."}
+{"ep":10,"i":8,"s":"A","en":"Yeah, exactly. Just what I was thinking! In fact, that's a brilliant idea! I'm glad we thought of that. Very creative.","vi":"Vâng, đúng vậy. Đúng như tôi đang nghĩ! Thật ra đó là một ý tưởng tuyệt vời! Tôi mừng là chúng ta đã nghĩ ra nó. Rất sáng tạo."}
+{"ep":11,"i":0,"s":"A","en":"Oh, I don't know if you heard, but someone moved into that old house down the road.","vi":"Ồ, không biết cậu có nghe chưa, có người vừa chuyển vào căn nhà cũ cuối đường đấy."}
+{"ep":11,"i":1,"s":"B","en":"Yeah, I know. I met the owner of the house yesterday as he was moving in. His name is Armand.","vi":"Ừ, tớ biết. Hôm qua tớ gặp chủ nhà lúc anh ta đang chuyển vào. Tên anh ta là Armand."}
+{"ep":11,"i":2,"s":"A","en":"Really? What's he like? You have to fill me in.","vi":"Thật á? Anh ta thế nào? Cậu phải kể tớ nghe đi."}
+{"ep":11,"i":3,"s":"B","en":"Actually, he's a bit strange. I don't know... I've got a bad feeling about him.","vi":"Thật ra, anh ta hơi kỳ lạ. Không biết nữa... tớ có linh cảm xấu về anh ta."}
+{"ep":11,"i":4,"s":"A","en":"Really? Why?","vi":"Thật sao? Tại sao?"}
+{"ep":11,"i":5,"s":"B","en":"Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out! I tried to, sort of, peek into his house, but everything was so dark inside that I couldn't really get a good look.","vi":"À, hôm qua tớ mang quà tân gia qua, nhưng Armand bắt đầu cư xử rất kỳ quặc, rồi gần như đuổi tớ ra khỏi nhà! Tớ cố nhìn trộm vào trong nhà anh ta, nhưng bên trong tối quá nên tớ chẳng nhìn rõ được gì."}
+{"ep":11,"i":6,"s":"A","en":"Well, you'll never guess what I saw this morning. A delivery truck pulled into his driveway, and it dropped off a long, rectangular box. It almost looked like a coffin!","vi":"Vậy thì cậu sẽ không đoán được sáng nay tớ thấy gì đâu. Một chiếc xe tải giao hàng chạy vào lối vào nhà anh ta, rồi dỡ xuống một cái hộp dài hình chữ nhật. Trông gần giống như một cái quan tài!"}
+{"ep":11,"i":7,"s":"B","en":"You see! Why would he...","vi":"Thấy chưa! Tại sao anh ta lại..."}
+{"ep":11,"i":8,"s":"C","en":"Hello ladies...","vi":"Chào hai quý cô..."}
+{"ep":11,"i":9,"s":"B","en":"Ah, Armand! You scared the heck out of me! This is my friend Doris.","vi":"À, Armand! Anh làm tôi hết hồn! Đây là bạn tôi, Doris."}
+{"ep":11,"i":10,"s":"C","en":"A pleasure to meet you...If you are not doing anything tonight, I would like to have you both for dinner. I mean...I would like to have you both over for dinner.","vi":"Rất hân hạnh được gặp hai cô... Nếu tối nay hai cô không bận gì, tôi muốn được ăn... à nhầm... tôi muốn mời cả hai cô đến nhà dùng bữa tối."}
+{"ep":12,"i":0,"s":"A","en":"Honey, the house is such a mess! I need you to help me tidy up a bit. My boss and her husband are coming over for dinner and the house needs to be spotless!","vi":"Anh ơi, nhà bừa bộn quá! Em cần anh giúp dọn dẹp một chút. Sếp em và chồng cô ấy sắp đến ăn tối mà nhà phải sạch bong mới được!"}
+{"ep":12,"i":1,"s":"B","en":"I'm in the middle of something right now. I'll be there in a second.","vi":"Anh đang làm dở việc này. Anh sang ngay đây."}
+{"ep":12,"i":2,"s":"A","en":"This can't wait! I need your help now!","vi":"Việc này không chờ được đâu! Em cần anh giúp ngay bây giờ!"}
+{"ep":12,"i":3,"s":"B","en":"Alright, alright. I'm coming.","vi":"Được rồi, được rồi. Anh đến đây."}
+{"ep":12,"i":4,"s":"A","en":"Ok, here's a list of chores we need to get done. I'll do the dishes and get all the groceries for tonight. You can sweep and mop the floors. Oh, and the furniture needs to be dusted.","vi":"Được rồi, đây là danh sách việc nhà cần làm. Em sẽ rửa chén và mua hết đồ ăn cho tối nay. Anh quét và lau sàn nhà. À, còn phải lau bụi đồ đạc nữa."}
+{"ep":12,"i":5,"s":"B","en":"You know what, I have to pick something up at the mall, so why don't you clean the floors and I’ll go to the supermarket and get all the groceries.","vi":"Em biết không, anh phải ghé trung tâm thương mại lấy một thứ, nên em lau sàn nhà đi, còn anh sẽ đi siêu thị mua hết đồ ăn."}
+{"ep":12,"i":6,"s":"A","en":"Sure that's fine. Here is the list of all the things you need to get. Don’t forget anything! And can you pick up a bottle of wine on your way home?","vi":"Được, thế cũng ổn. Đây là danh sách mọi thứ anh cần mua. Đừng quên gì nhé! Và anh mua giúp em một chai rượu vang trên đường về nhé?"}
+{"ep":12,"i":7,"s":"B","en":"Hey, honey I'm back. Wow, the house looks really good!","vi":"Này em, anh về rồi. Chà, nhà trông đẹp thật đấy!"}
+{"ep":12,"i":8,"s":"A","en":"Great! Can you set the table?","vi":"Tuyệt! Anh dọn bàn ăn giúp em nhé?"}
+{"ep":12,"i":9,"s":"B","en":"Just a sec I'm just gonna vacuum this rug real fast","vi":"Đợi chút, anh hút bụi cái thảm này nhanh thôi."}
+{"ep":12,"i":10,"s":"A","en":"Wait! Don't turn it on...","vi":"Khoan! Đừng bật lên..."}
+{"ep":13,"i":0,"s":"A","en":"OK, so now the last point on our agenda. Jill, let's go over the profit and loss statement.","vi":"Được rồi, đến mục cuối cùng trong chương trình họp. Jill, chúng ta cùng xem báo cáo lãi lỗ nhé."}
+{"ep":13,"i":1,"s":"B","en":"Great. Well, the main issue here, as you can see, is that our expenses are through the roof.","vi":"Vâng. Vấn đề chính ở đây, như ông thấy, là chi phí của chúng ta đang tăng vọt."}
+{"ep":13,"i":2,"s":"A","en":"Let's see... These numbers are off the charts! What's going on here!","vi":"Để xem nào... Những con số này vượt xa mọi giới hạn! Chuyện gì đang xảy ra vậy!"}
+{"ep":13,"i":3,"s":"B","en":"Well, um, sir, the company expenditures on entertainment and travel are out of control. Look at these bills for example. Just this month we've paid over twenty thousand dollars for hotel charges!","vi":"Dạ, thưa ông, chi phí của công ty cho tiếp khách và đi lại đang vượt tầm kiểm soát. Ông hãy xem những hóa đơn này chẳng hạn. Chỉ riêng tháng này chúng ta đã trả hơn hai mươi nghìn đô la tiền khách sạn!"}
+{"ep":13,"i":4,"s":"A","en":"OK, thank you. I'll look into it.","vi":"Được rồi, cảm ơn cô. Tôi sẽ xem xét."}
+{"ep":13,"i":5,"s":"B","en":"The list goes on and on. Here, this is a bill for five thousand dollars for spa treatments!","vi":"Danh sách còn dài lắm ạ. Đây, hóa đơn năm nghìn đô la cho dịch vụ spa!"}
+{"ep":13,"i":6,"s":"A","en":"Thank you; that will be all. I'll take care of it.","vi":"Cảm ơn cô; vậy là đủ rồi. Tôi sẽ lo việc này."}
+{"ep":13,"i":7,"s":"B","en":"Look at this one sir, eight thousand dollars were spent in one night at a place called \"Wild Things\"?!","vi":"Ông xem cái này nữa, tám nghìn đô la bị tiêu trong một đêm ở một nơi tên là \"Wild Things\"?!"}
+{"ep":13,"i":8,"s":"A","en":"OK, I get it!! Thank you for your very thorough analysis!","vi":"Được rồi, tôi hiểu rồi!! Cảm ơn cô đã phân tích rất kỹ lưỡng!"}
+{"ep":14,"i":0,"s":"A","en":"Hello, I’m here to see Mr. Corleone.","vi":"Xin chào, tôi đến gặp ông Corleone."}
+{"ep":14,"i":1,"s":"B","en":"Right this way, sir.","vi":"Mời ông đi lối này."}
+{"ep":14,"i":2,"s":"C","en":"Charlie! What can I do for you?","vi":"Charlie! Tôi giúp được gì cho cậu?"}
+{"ep":14,"i":3,"s":"B","en":"Mr. Corlone, I’m really sorry to trouble you, but I need your help.","vi":"Thưa ông Corleone, tôi thật sự xin lỗi vì làm phiền ông, nhưng tôi cần ông giúp."}
+{"ep":14,"i":4,"s":"C","en":"Anything for you, Charlie! Your father was like a brother to me.","vi":"Vì cậu, việc gì tôi cũng giúp, Charlie! Cha cậu như anh em với tôi vậy."}
+{"ep":14,"i":5,"s":"B","en":"Well, sir, you see, this recession has hit me pretty hard; I lost my job and I’m in a lot of debt.","vi":"Dạ, thưa ông, ông biết đấy, cuộc suy thoái này giáng cho tôi một đòn khá nặng; tôi mất việc và nợ nần chồng chất."}
+{"ep":14,"i":6,"s":"C","en":"I see……","vi":"Tôi hiểu rồi......"}
+{"ep":14,"i":7,"s":"B","en":"Yeah, you know, I’ve got credit card bills, car payments, I’ve got to pay my mortgage; and on top of all that, I have to pay my son’s college tuition.","vi":"Vâng, ông biết đấy, tôi còn hóa đơn thẻ tín dụng, tiền trả góp xe, tiền trả nợ nhà; và trên hết, tôi còn phải trả học phí đại học cho con trai."}
+{"ep":14,"i":8,"s":"C","en":"So you’re asking for a loan.","vi":"Vậy là cậu đang muốn vay tiền."}
+{"ep":14,"i":9,"s":"B","en":"Well, I just thought maybe you could help me out.","vi":"À, tôi chỉ nghĩ có lẽ ông có thể giúp tôi một tay."}
+{"ep":14,"i":10,"s":"C","en":"What? At a time like this? I’m broke too, you know! You’re not the only one who has been hit by the recession! I lost half my money in the stock market crash! Go on! Get outta here!","vi":"Cái gì? Vào lúc này sao? Tôi cũng đang túng quẫn đây, cậu biết không! Cậu không phải người duy nhất bị suy thoái làm khổ đâu! Tôi mất một nửa số tiền trong vụ sụp đổ thị trường chứng khoán! Thôi đi! Ra khỏi đây ngay!"}
+{"ep":15,"i":0,"s":"A","en":"Whoa, whoa, what's going on? Watch out!","vi":"Ối, ối, chuyện gì thế này? Coi chừng!"}
+{"ep":15,"i":1,"s":"B","en":"Hey, watch where you're going!","vi":"Này, nhìn đường chứ!"}
+{"ep":15,"i":2,"s":"A","en":"Oh, no! I'm so sorry! Are you all right?","vi":"Ôi không! Tôi xin lỗi nhiều lắm! Anh có sao không?"}
+{"ep":15,"i":3,"s":"B","en":"Oh...I don't know.","vi":"Ôi... tôi không biết nữa."}
+{"ep":15,"i":4,"s":"A","en":"I feel terrible, I really didn't mean to knock you over. My tire, just exploded, and I lost control of my bike. Really, it was an accident. Please accept my apologies.","vi":"Tôi thấy áy náy quá, tôi thật sự không cố ý đâm ngã anh. Lốp xe tôi vừa nổ nên tôi mất lái xe đạp. Thật sự đó là tai nạn. Xin anh nhận lời xin lỗi của tôi."}
+{"ep":15,"i":5,"s":"B","en":"Just let me try to stand up.","vi":"Để tôi thử đứng dậy đã."}
+{"ep":15,"i":6,"s":"SONG","en":"Why do birds suddenly appear, every time you are near?","vi":"Sao chim chóc bỗng nhiên xuất hiện, mỗi khi em ở gần bên?"}
+{"ep":15,"i":7,"s":"A","en":"Are you okay?","vi":"Anh có sao không?"}
+{"ep":15,"i":8,"s":"B","en":"Oh, wait a second, you seem really familiar, I think I know you from somewhere.","vi":"Ồ, khoan đã, anh trông quen quá, tôi nghĩ tôi biết anh từ đâu đó."}
+{"ep":15,"i":9,"s":"A","en":"Yeah, I think we have met somewhere before. That's right! We met at Aaron's place last weekend! What a coincidence! But anyway, I'm glad to see that you're not too badly hurt, and I should probably get going. I have a nine o'clock meeting.","vi":"Ừ, tôi nghĩ chúng ta từng gặp nhau rồi. Đúng rồi! Chúng ta gặp nhau ở nhà Aaron cuối tuần trước! Trùng hợp thật! Nhưng dù sao, tôi mừng là anh không bị thương nặng, và có lẽ tôi nên đi đây. Tôi có cuộc họp lúc chín giờ."}
+{"ep":15,"i":10,"s":"B","en":"Ouch! My ankle! I think it's broken! You can't just leave me like this! Are you calling an ambulance?","vi":"Ái! Mắt cá chân của tôi! Tôi nghĩ nó gãy rồi! Anh không thể cứ bỏ mặc tôi như thế này! Anh có gọi xe cứu thương không?"}
+{"ep":15,"i":11,"s":"A","en":"Nope, I'm canceling my appointment so that I can stay here with you.","vi":"Không, tôi sẽ hủy cuộc hẹn để ở lại đây với anh."}
+{"ep":15,"i":12,"s":"SONG","en":"Do you remember when we met? That's the day I knew you were my pet. I wanna tell you how much I love you.","vi":"Em có nhớ ngày mình gặp nhau không? Ngày đó anh biết em là cục cưng của anh. Anh muốn nói với em rằng anh yêu em nhiều đến nhường nào."}
+{"ep":16,"i":0,"s":"A","en":"Hurry up, get in!","vi":"Nhanh lên, lên xe đi!"}
+{"ep":16,"i":1,"s":"B","en":"I'm in , let's go!","vi":"Tôi lên rồi, đi thôi!"}
+{"ep":16,"i":2,"s":"A","en":"OK, make a left here...no wait, I meant make a right. Come on speed up!","vi":"Được rồi, rẽ trái ở đây... không, khoan, ý tôi là rẽ phải. Nhanh lên, tăng tốc đi!"}
+{"ep":16,"i":3,"s":"B","en":"Geeze! What's the rush?","vi":"Trời ơi! Gấp gáp chuyện gì vậy?"}
+{"ep":16,"i":4,"s":"A","en":"Don't worry about it, just drive. Oh, no, the light is about to change... step on it!","vi":"Đừng lo chuyện đó, cứ lái đi. Ôi không, đèn sắp đổi rồi... đạp ga đi!"}
+{"ep":16,"i":5,"s":"B","en":"Are you nuts? I'm not going to run a red light!","vi":"Cậu điên à? Tôi không vượt đèn đỏ đâu!"}
+{"ep":16,"i":6,"s":"A","en":"Whatever. Just turn right here. The freeway will be packed at this hour.... let's take a side street. Go on! Get out of our way! Move, move!","vi":"Kệ đi. Rẽ phải ở đây. Giờ này đường cao tốc sẽ kẹt cứng.... đi đường nhỏ thôi. Đi đi! Tránh đường cho chúng tôi! Nhanh, nhanh lên!"}
+{"ep":16,"i":7,"s":"B","en":"What's your problem? Geez. Having a fit is not going to help!","vi":"Cậu bị sao vậy? Trời ạ. Cuống lên cũng chẳng giúp ích gì đâu!"}
+{"ep":16,"i":8,"s":"A","en":"Here, I know a short cut... just go down here and we'll cut through Ashburn Heights. Let's go, let's go! Watch out for that lady!","vi":"Đây, tôi biết một đường tắt... cứ đi xuống đây rồi mình cắt qua Ashburn Heights. Đi thôi, đi thôi! Coi chừng bà kia kìa!"}
+{"ep":16,"i":9,"s":"B","en":"I'm going as fast as I can!","vi":"Tôi đang chạy hết tốc lực rồi đây!"}
+{"ep":16,"i":10,"s":"A","en":"Yes! We made it. 5:58, just before the library closes.","vi":"Được rồi! Chúng ta kịp rồi. 5 giờ 58, ngay trước giờ thư viện đóng cửa."}
+{"ep":16,"i":11,"s":"B","en":"You're such a geek!","vi":"Cậu đúng là đồ mọt sách!"}
+{"ep":17,"i":0,"s":"A","en":"I can't believe that Anthony is finally getting married!","vi":"Không thể tin là cuối cùng Anthony cũng sắp cưới vợ!"}
+{"ep":17,"i":1,"s":"B","en":"Yeah, well, it's about time. He's been living with his parents for forty years!","vi":"Ừ, cũng đến lúc rồi. Anh ta sống với bố mẹ suốt bốn mươi năm đấy!"}
+{"ep":17,"i":2,"s":"A","en":"Don't be mean. Look, here come the bridesmaids! Their dresses look beautiful!","vi":"Đừng ác miệng vậy. Nhìn kìa, phù dâu đến rồi! Váy của họ đẹp quá!"}
+{"ep":17,"i":3,"s":"B","en":"Who are those kids walking down the aisle?","vi":"Mấy đứa trẻ đang đi trên lối đi kia là ai vậy?"}
+{"ep":17,"i":4,"s":"A","en":"That's the flower girl and the ring bearer. I'm pretty sure they're the groom's niece and nephew. Oh, they look so cute!","vi":"Đó là cô bé rải hoa và cậu bé giữ nhẫn. Em khá chắc chúng là cháu gái và cháu trai của chú rể. Ôi, trông chúng dễ thương quá!"}
+{"ep":17,"i":5,"s":"B","en":"I just hope the priest makes it quick. I'm starving. I hope the food's good at the reception.","vi":"Anh chỉ mong cha xứ làm nhanh thôi. Anh đói quá. Anh mong đồ ăn ở tiệc cưới ngon."}
+{"ep":17,"i":6,"s":"A","en":"That’s all you ever think about, food! Oh, I think the bride's coming now! She looks gorgeous. Wait, what's she doing? Where's she going?","vi":"Anh lúc nào cũng chỉ nghĩ đến đồ ăn! Ôi, hình như cô dâu đến rồi! Trông cô ấy lộng lẫy quá! Khoan, cô ấy đang làm gì vậy? Cô ấy đi đâu thế?"}
+{"ep":17,"i":7,"s":"B","en":"Oh, great! Does this mean that the reception is canceled?","vi":"Ôi, tuyệt! Vậy có nghĩa là tiệc cưới bị hủy à?"}
+{"ep":18,"i":0,"s":"A","en":"This is Action 5 News reporter Sarah O'Connell reporting live from Washington, D. C. where a protest has broken out. Thousands of angry citizens are protesting against the proposed bailout of the auto manufacturing industry! Sir, sir, Sar","vi":"Đây là Sarah O'Connell của Action 5 News, tường thuật trực tiếp từ Washington, D.C., nơi một cuộc biểu tình vừa nổ ra. Hàng nghìn người dân giận dữ đang phản đối đề xuất cứu trợ ngành sản xuất ô tô! Thưa ông, thưa ông, tôi là Sar"}
+{"ep":18,"i":1,"s":"B","en":"Yeah, yeah, we are here because we feel this is an injustice! The financial irresponsibility of big business has to stop! We're here to show the government that we don't like the way that they're spending our tax dolla","vi":"Vâng, vâng, chúng tôi có mặt ở đây vì chúng tôi cho rằng đây là sự bất công! Sự vô trách nhiệm về tài chính của các tập đoàn lớn phải chấm dứt! Chúng tôi đến đây để cho chính phủ thấy rằng chúng tôi không hài lòng với cách họ tiêu tiền thuế của chúng tôi"}
+{"ep":18,"i":2,"s":"A","en":"Sir, but what exactly is making everyone so angry?","vi":"Thưa ông, nhưng chính xác điều gì khiến mọi người tức giận đến vậy?"}
+{"ep":18,"i":3,"s":"B","en":"It's an absolute outrage, Sarah, the US government wants to give twenty-five billion dollars of taxpayers' money to the auto industry. These are companies that have been mismanaged and are now nearly bankrupt.","vi":"Đó là một sự phẫn nộ tột cùng, Sarah ạ, chính phủ Mỹ muốn đưa hai mươi lăm tỷ đô la tiền thuế của người dân cho ngành ô tô. Đây là những công ty bị quản lý yếu kém và giờ gần như phá sản."}
+{"ep":18,"i":4,"s":"A","en":"I see. But, many supporters of the bailout argue that it could help save the jobs of millions of hardworking Americans.","vi":"Tôi hiểu. Nhưng nhiều người ủng hộ gói cứu trợ lập luận rằng nó có thể giúp cứu việc làm của hàng triệu người Mỹ chăm chỉ."}
+{"ep":18,"i":5,"s":"B","en":"That may be true, and I for one don't want to see anyone lose their job, but how can these CEOs ask for a bailout when they're making millions of dollars? And then they have the nerve to fly to Washington in private jets! This","vi":"Có thể đúng vậy, và riêng tôi không muốn thấy ai mất việc, nhưng làm sao các CEO này có thể xin cứu trợ khi họ đang kiếm hàng triệu đô la? Vậy mà họ còn mặt dày bay đến Washington bằng máy bay riêng! Chuyện này"}
+{"ep":18,"i":6,"s":"A","en":"Good point. This is Sarah O'Connell reporting live from Washington D. C., back to you, Tom.","vi":"Ý kiến rất đáng chú ý. Đây là Sarah O'Connell tường thuật trực tiếp từ Washington D.C., xin trả lại sóng cho Tom."}
+{"ep":19,"i":0,"s":"A","en":"I hate working on Christmas Eve! Whoa! Get a load of this guy! Come in central, I think we've got ourselves a situation here.","vi":"Tôi ghét phải làm việc vào đêm Giáng sinh! Ôi chao! Nhìn gã này xem! Trung tâm nghe rõ, tôi nghĩ chúng ta gặp tình huống rắc rối rồi."}
+{"ep":19,"i":1,"s":"B","en":"License and registration please. Have you been drinking tonight, sir?","vi":"Xin ông xuất trình bằng lái và giấy đăng ký xe. Tối nay ông có uống rượu không?"}
+{"ep":19,"i":2,"s":"A","en":"I had one or two glasses of eggnog, but nothing else.","vi":"Tôi uống một hai ly sữa trứng rượu, nhưng không uống gì khác."}
+{"ep":19,"i":3,"s":"B","en":"Step out of the vehicle, please. Sir, what do you have in the back?","vi":"Xin mời ông bước ra khỏi xe. Thưa ông, phía sau xe ông có gì vậy?"}
+{"ep":19,"i":4,"s":"A","en":"Just a few Christmas gifts, 'tis the season, after all!","vi":"Chỉ vài món quà Giáng sinh thôi, dù sao cũng là mùa lễ mà!"}
+{"ep":19,"i":5,"s":"B","en":"Don't take that tone with me. Do you have an invoice for these items?","vi":"Đừng có giở giọng đó với tôi. Ông có hóa đơn cho những món đồ này không?"}
+{"ep":19,"i":6,"s":"A","en":"Umm...no...I make these in my workshop in the North Pole!","vi":"Ừm... không... tôi tự làm chúng trong xưởng của tôi ở Bắc Cực!"}
+{"ep":19,"i":7,"s":"B","en":"You are under arrest, sir. You have the right to remain silent. You better not pout, you better not cry. Anything you say can and will be used against you. You have the right to an attorney; if you cannot afford one, the state will appoint","vi":"Ông bị bắt, thưa ông. Ông có quyền giữ im lặng. Tốt nhất đừng có phụng phịu, tốt nhất đừng có khóc. Mọi điều ông nói đều có thể được dùng để chống lại ông. Ông có quyền có luật sư; nếu ông không đủ tiền thuê, tiểu bang sẽ chỉ định"}
+{"ep":19,"i":8,"s":"A","en":"You can't take me to jail! What about my sleigh? It's Christmas Eve! I have presents to deliver! Rudolph! Prancer! Dancer! Get help!","vi":"Các anh không thể bắt tôi vào tù! Còn chiếc xe trượt tuyết của tôi thì sao? Đêm nay là Giáng sinh! Tôi còn phải đi phát quà! Rudolph! Prancer! Dancer! Đi gọi người giúp đi!"}
+{"ep":20,"i":0,"s":"A","en":"Hello, Arthur. What seems to be the problem?","vi":"Chào Arthur. Anh gặp vấn đề gì vậy?"}
+{"ep":20,"i":1,"s":"B","en":"Hey doc. Well, I think I might need glasses. I'm getting headaches, and I really struggle to see things that are far away. But I have always had 20/20 vision.","vi":"Chào bác sĩ. Tôi nghĩ có lẽ tôi cần đeo kính. Tôi hay bị đau đầu, và nhìn những thứ ở xa rất khó khăn. Nhưng trước giờ tôi luôn có thị lực 20/20."}
+{"ep":20,"i":2,"s":"A","en":"Sounds like you may be far-sighted. OK, then, cover your left eye and read the chart in front of you.","vi":"Nghe có vẻ anh bị viễn thị. Được rồi, anh che mắt trái lại và đọc bảng chữ trước mặt anh."}
+{"ep":20,"i":3,"s":"B","en":"Mmm… X, E, R, 3, a question mark, and I can't quite make out the other symbol but I think it's the peace sign.","vi":"Ừm… X, E, R, 3, một dấu hỏi, và tôi không nhìn rõ ký hiệu còn lại nhưng tôi nghĩ đó là biểu tượng hòa bình."}
+{"ep":20,"i":4,"s":"A","en":"Wow, Arthur! You're as blind as a bat!","vi":"Chà, Arthur! Anh mù như dơi vậy!"}
+{"ep":20,"i":5,"s":"B","en":"Yeah, I know, my vision is really blurry at times.","vi":"Vâng, tôi biết, có lúc mắt tôi nhìn rất mờ."}
+{"ep":20,"i":6,"s":"A","en":"Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.","vi":"Được rồi, anh sang phòng bên kia chọn gọng kính trong lúc tôi ghi đơn kính cho anh."}
+{"ep":20,"i":7,"s":"B","en":"Thanks, doc!","vi":"Cảm ơn bác sĩ!"}
+{"ep":20,"i":8,"s":"A","en":"Arthur, that's the bathroom.","vi":"Arthur, đó là nhà vệ sinh."}

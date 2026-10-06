@@ -5,12 +5,11 @@ import { Eye, EyeOff } from 'lucide-react'
 import { decorateVocab, normalizeText } from '../lib/vocabulary'
 import { addLineTranslateButtons, wrapDialogueWords } from '../lib/tapWords'
 import { speak } from '../lib/speech'
+import { cardId } from '../lib/srs'
+import { useSrs } from '../lib/srsStore'
 import TranslatePopover from './TranslatePopover'
 import type { LookupTarget } from './TranslatePopover'
 import type { Episode, VocabEntry } from '../types'
-
-// Longest selection that is sent for translation, in characters.
-const MAX_PHRASE = 200
 
 const transcriptFetcher = (url: string) =>
   fetch(url).then((res) => {
@@ -24,9 +23,15 @@ const transcriptFetcher = (url: string) =>
 const vocabFetcher = (url: string): Promise<VocabEntry[] | null> =>
   fetch(url).then((res) => (res.ok ? res.json() : null))
 
+// The Vietnamese of each dialogue line, by position (scripts/build_dialogue.js).
+// Optional like the vocabulary: without it the lines just have no button.
+const dialogueFetcher = (url: string): Promise<string[] | null> =>
+  fetch(url).then((res) => (res.ok ? res.json() : null))
+
 const Transcript = ({ episode }: { episode: Episode }) => {
+  const srs = useSrs()
   const [isVisible, setIsVisible] = useState(false)
-  // { text, rect } of the word or phrase whose translation is showing.
+  // The word or line whose translation is showing.
   const [lookup, setLookup] = useState<LookupTarget | null>(null)
   const contentRef = useRef<HTMLDivElement>(null)
   const activeWordRef = useRef<HTMLElement | null>(null)
@@ -39,6 +44,11 @@ const Transcript = ({ episode }: { episode: Episode }) => {
   const { data: vocab } = useSWR(
     isVisible && episode.transcript_id ? `./vocab/${episode.transcript_id}.json` : null,
     vocabFetcher,
+  )
+
+  const { data: lineTranslations } = useSWR(
+    isVisible && episode.transcript_id ? `./dialogue/${episode.transcript_id}.json` : null,
+    dialogueFetcher,
   )
 
   // Render the transcript, then decorate it. This is deliberately one effect:
@@ -62,10 +72,10 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     if (vocab) decorateVocab(contentRef.current, vocab)
 
     // Every dialogue word becomes tappable for a translation, and every line
-    // gets a button that translates the whole line.
+    // with a Vietnamese translation gets a button that shows it.
     wrapDialogueWords(contentRef.current)
-    addLineTranslateButtons(contentRef.current)
-  }, [content, loading, vocab])
+    if (lineTranslations) addLineTranslateButtons(contentRef.current, lineTranslations)
+  }, [content, loading, vocab, lineTranslations])
 
   const closeLookup = () => {
     activeWordRef.current?.classList.remove('tap-word-active')
@@ -73,29 +83,11 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     setLookup(null)
   }
 
-  const openLookup = (
-    text: string,
-    rect: DOMRect,
-    wordEl: HTMLElement | null = null,
-    sentence = false,
-  ) => {
+  const openLookup = (target: LookupTarget, el: HTMLElement) => {
     activeWordRef.current?.classList.remove('tap-word-active')
-    activeWordRef.current = wordEl
-    wordEl?.classList.add('tap-word-active')
-    setLookup({ text, rect, sentence })
-  }
-
-  // Selecting several words translates the phrase; a plain click on one word
-  // translates that word. Selection wins, so a drag that ends on a word does
-  // not also open the single-word card.
-  const onSelectEnd = () => {
-    const selection = window.getSelection()
-    const text = normalizeText(selection?.toString())
-    if (!selection || !text || !/\s/.test(text) || text.length > MAX_PHRASE) return false
-    const range = selection.getRangeAt(0)
-    if (!contentRef.current?.contains(range.commonAncestorContainer)) return false
-    openLookup(text, range.getBoundingClientRect())
-    return true
+    activeWordRef.current = el
+    el.classList.add('tap-word-active')
+    setLookup(target)
   }
 
   // One handler for the whole transcript, since its HTML is injected rather
@@ -117,22 +109,28 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     if (lineButton) {
       // Pressing the open line's button again closes its card.
       if (lineButton === activeWordRef.current) return closeLookup()
+      const translation = lineTranslations?.[Number(lineButton.dataset.line)]
       const text = normalizeText(lineButton.parentElement?.textContent)
-      if (text) openLookup(text, lineButton.getBoundingClientRect(), lineButton, true)
+      if (translation && text) {
+        openLookup({ text, rect: lineButton.getBoundingClientRect(), translation }, lineButton)
+      }
       return
     }
 
-    if (onSelectEnd()) return
     const tapWord = target.closest<HTMLElement>('.tap-word')
-    if (tapWord) openLookup(tapWord.textContent ?? '', tapWord.getBoundingClientRect(), tapWord)
+    if (tapWord) {
+      openLookup(
+        { text: tapWord.textContent ?? '', rect: tapWord.getBoundingClientRect() },
+        tapWord,
+      )
+    }
   }
 
-  // This episode's own translation, when the looked-up text is one of its
-  // vocabulary items.
-  const lookupEntry =
-    lookup && !lookup.sentence
-      ? vocab?.find((v) => v.word.toLowerCase() === lookup.text.toLowerCase())
-      : null
+  // A tapped word's hand-written meaning: this episode's vocabulary first, then
+  // any card in the garden.
+  const word = lookup && lookup.translation === undefined ? lookup.text.toLowerCase() : null
+  const episodeEntry = word ? vocab?.find((v) => v.word.toLowerCase() === word) : undefined
+  const gardenEntry = word && !episodeEntry ? srs.cards[cardId(word)] : undefined
 
   return (
     <div className='glass-card rounded-2xl p-6 lg:p-8 -mx-4 lg:mx-0'>
@@ -189,8 +187,9 @@ const Transcript = ({ episode }: { episode: Episode }) => {
       {lookup && isVisible && (
         <TranslatePopover
           target={lookup}
-          entry={lookupEntry}
-          anchor={lookup.sentence ? activeWordRef : undefined}
+          entry={episodeEntry ?? gardenEntry ?? null}
+          entryLabel={gardenEntry ? 'Trong vườn từ vựng' : undefined}
+          anchor={lookup.translation !== undefined ? activeWordRef : undefined}
           onClose={closeLookup}
         />
       )}

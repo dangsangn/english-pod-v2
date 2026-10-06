@@ -12,9 +12,11 @@ unlockOnFirstGesture()
 // Background sync with the backend, once signed in; see src/lib/sync.ts.
 startSync()
 
-// Listening history was kept for a while and is no longer used.
+// No longer used: listening history, and the cache of machine translations
+// (MyMemory) from before only hand-written Vietnamese was shown.
 try {
   localStorage.removeItem('englishpod_listening_v1')
+  localStorage.removeItem('englishpod_translate_v1')
 } catch {
   // Storage blocked: nothing to clean up.
 }

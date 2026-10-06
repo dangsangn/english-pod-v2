@@ -41,19 +41,25 @@ const TRANSLATE_ICON =
   '<path d="m22 22-5-10-5 10"/><path d="M14 18h6"/></svg>'
 
 /**
- * Put a "translate this line" button at the end of every dialogue line. The
- * transcript's click handler finds it by its class and reads the line's text.
+ * Put a "translate this line" button at the end of every dialogue line that
+ * has a translation. `translations` is indexed like the page's dialogue lines
+ * (scripts/build_dialogue.js); the button carries that index in data-line for
+ * the transcript's click handler.
  */
-export function addLineTranslateButtons(rootEl: HTMLElement): number {
+export function addLineTranslateButtons(rootEl: HTMLElement, translations: string[]): number {
   const lines = rootEl.querySelectorAll<HTMLElement>('.dialogue-block .text')
-  for (const line of lines) {
+  let added = 0
+  lines.forEach((line, index) => {
+    if (!translations[index]) return
     const button = document.createElement('button')
     button.type = 'button'
     button.className = 'line-translate'
     button.title = 'Dịch câu'
     button.setAttribute('aria-label', 'Dịch câu')
+    button.dataset.line = String(index)
     button.innerHTML = TRANSLATE_ICON
     line.append(' ', button)
-  }
-  return lines.length
+    added++
+  })
+  return added
 }

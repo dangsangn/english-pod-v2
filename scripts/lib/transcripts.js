@@ -86,3 +86,22 @@ export function readDialogueLines(episodeId) {
         .map((m) => normalizeText(decodeEntities(m[1].replace(/<[^>]+>/g, ''))))
         .filter(Boolean);
 }
+
+const DIALOGUE_TURN = /<div class="speaker">([\s\S]*?)<\/div>\s*<div class="text">([\s\S]*?)<\/div>/g;
+
+/**
+ * Every line of the dialogue with its speaker, in document order and without
+ * dropping empty ones: `index` is the line's position among the page's
+ * `.dialogue-block .text` elements, which is how the app finds a line's
+ * translation.
+ */
+export function readDialogue(episodeId) {
+    const html = readTranscript(episodeId);
+    if (html === null) return [];
+    const clean = (s) => normalizeText(decodeEntities(s.replace(/<[^>]+>/g, '')));
+    return [...html.matchAll(DIALOGUE_TURN)].map((m, index) => ({
+        index,
+        speaker: clean(m[1]),
+        text: clean(m[2]),
+    }));
+}
