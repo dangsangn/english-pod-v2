@@ -145,12 +145,15 @@ function holdPlaybackSession(utterance: SpeechSynthesisUtterance): Promise<void>
 // iOS garbage-collects an utterance that nothing references, cutting it off.
 let current: SpeechSynthesisUtterance | null = null
 
-/** Read an English word or phrase aloud, slowly, for learners. */
-export function speak(text: string | null | undefined) {
+/**
+ * Read English aloud, a little slowly, for learners. `rate` overrides the
+ * speed (dictation offers a slower one).
+ */
+export function speak(text: string | null | undefined, { rate = 0.8 }: { rate?: number } = {}) {
   if (!text || !synth) return
   const utterance = new SpeechSynthesisUtterance(text)
   utterance.lang = 'en-US'
-  utterance.rate = 0.8
+  utterance.rate = rate
   if (englishVoice) utterance.voice = englishVoice
   current = utterance
 
