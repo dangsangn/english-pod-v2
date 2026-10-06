@@ -3,7 +3,7 @@ import type { MouseEvent } from 'react'
 import useSWR from 'swr'
 import { Eye, EyeOff } from 'lucide-react'
 import { decorateVocab, normalizeText } from '../lib/vocabulary'
-import { wrapDialogueWords } from '../lib/tapWords'
+import { addLineTranslateButtons, wrapDialogueWords } from '../lib/tapWords'
 import { speak } from '../lib/speech'
 import TranslatePopover from './TranslatePopover'
 import type { LookupTarget } from './TranslatePopover'
@@ -61,8 +61,10 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     // those rows can be clicked to speak too.
     if (vocab) decorateVocab(contentRef.current, vocab)
 
-    // Every dialogue word becomes tappable for a translation.
+    // Every dialogue word becomes tappable for a translation, and every line
+    // gets a button that translates the whole line.
     wrapDialogueWords(contentRef.current)
+    addLineTranslateButtons(contentRef.current)
   }, [content, loading, vocab])
 
   const closeLookup = () => {
@@ -71,11 +73,16 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     setLookup(null)
   }
 
-  const openLookup = (text: string, rect: DOMRect, wordEl: HTMLElement | null = null) => {
+  const openLookup = (
+    text: string,
+    rect: DOMRect,
+    wordEl: HTMLElement | null = null,
+    sentence = false,
+  ) => {
     activeWordRef.current?.classList.remove('tap-word-active')
     activeWordRef.current = wordEl
     wordEl?.classList.add('tap-word-active')
-    setLookup({ text, rect })
+    setLookup({ text, rect, sentence })
   }
 
   // Selecting several words translates the phrase; a plain click on one word
@@ -105,6 +112,16 @@ const Transcript = ({ episode }: { episode: Episode }) => {
       return
     }
 
+    // A line's translate button: the line's own text, without the button.
+    const lineButton = target.closest<HTMLElement>('.line-translate')
+    if (lineButton) {
+      // Pressing the open line's button again closes its card.
+      if (lineButton === activeWordRef.current) return closeLookup()
+      const text = normalizeText(lineButton.parentElement?.textContent)
+      if (text) openLookup(text, lineButton.getBoundingClientRect(), lineButton, true)
+      return
+    }
+
     if (onSelectEnd()) return
     const tapWord = target.closest<HTMLElement>('.tap-word')
     if (tapWord) openLookup(tapWord.textContent ?? '', tapWord.getBoundingClientRect(), tapWord)
@@ -112,9 +129,10 @@ const Transcript = ({ episode }: { episode: Episode }) => {
 
   // This episode's own translation, when the looked-up text is one of its
   // vocabulary items.
-  const lookupEntry = lookup
-    ? vocab?.find((v) => v.word.toLowerCase() === lookup.text.toLowerCase())
-    : null
+  const lookupEntry =
+    lookup && !lookup.sentence
+      ? vocab?.find((v) => v.word.toLowerCase() === lookup.text.toLowerCase())
+      : null
 
   return (
     <div className='glass-card rounded-2xl p-6 lg:p-8 -mx-4 lg:mx-0'>
@@ -169,7 +187,12 @@ const Transcript = ({ episode }: { episode: Episode }) => {
       )}
 
       {lookup && isVisible && (
-        <TranslatePopover target={lookup} entry={lookupEntry} onClose={closeLookup} />
+        <TranslatePopover
+          target={lookup}
+          entry={lookupEntry}
+          anchor={lookup.sentence ? activeWordRef : undefined}
+          onClose={closeLookup}
+        />
       )}
 
       {!isVisible && (

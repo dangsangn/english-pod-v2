@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import type { RefObject } from 'react'
 import { Loader2, Volume2, X } from 'lucide-react'
 import { translate } from '../lib/translate'
 import { speak } from '../lib/speech'
@@ -10,12 +11,16 @@ const WIDTH = 288
 export interface LookupTarget {
   text: string
   rect: DOMRect
+  /** A whole line rather than a word: it is right there, so it isn't repeated. */
+  sentence?: boolean
 }
 
 interface TranslatePopoverProps {
   target: LookupTarget
   entry?: VocabEntry | null
   entryLabel?: string
+  /** The control that opened the card: pressing it again toggles rather than reopens. */
+  anchor?: RefObject<Element | null>
   onClose: () => void
 }
 
@@ -38,6 +43,7 @@ export default function TranslatePopover({
   target,
   entry,
   entryLabel = 'Từ vựng của bài',
+  anchor,
   onClose,
 }: TranslatePopoverProps) {
   // Keyed by the text it answers, so a stale response for an earlier word
@@ -62,14 +68,21 @@ export default function TranslatePopover({
     <FloatingCard
       rect={target.rect}
       width={WIDTH}
-      label={`Nghĩa của ${target.text}`}
+      label={target.sentence ? 'Bản dịch câu' : `Nghĩa của ${target.text}`}
+      anchor={anchor}
       onClose={onClose}
     >
       <div className='flex items-start gap-2'>
         <div className='flex-1 min-w-0'>
-          <p className='font-bold text-lg leading-tight text-emerald-600 dark:text-emerald-400 break-words'>
-            {target.text}
-          </p>
+          {target.sentence ? (
+            <p className='pt-2 text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
+              Dịch câu
+            </p>
+          ) : (
+            <p className='font-bold text-lg leading-tight text-emerald-600 dark:text-emerald-400 break-words'>
+              {target.text}
+            </p>
+          )}
           {entry?.ipa && <p className='text-sm text-zinc-400 dark:text-zinc-500'>/{entry.ipa}/</p>}
         </div>
         <button
