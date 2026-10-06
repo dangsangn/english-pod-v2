@@ -11,14 +11,18 @@
 //    So cancel only when something is actually playing, and speak a moment
 //    later in that case.
 // 3. With the phone set to Vietnamese, `lang = 'en-US'` alone may not pick an
-//    English voice. Choose one explicitly.
+//    English voice. Choose one explicitly — the best one (voices.ts), since
+//    the first en-US voice on Apple devices is a robotic one.
 // 4. With the ring/silent switch on silent, speech is muted on the built-in
 //    speaker (headphones still work), while the podcast <audio> plays fine.
 //    iOS files speech under "ambient" sound, which the switch silences, and
 //    media elements under "playback", which it does not. So the page's audio
 //    session is moved to playback: through navigator.audioSession where
-//    Safari has it (17+), and otherwise by looping a silent <audio> clip for
-//    as long as a word is being spoken.
+//    Safari has it (17+), and also by looping a silent <audio> clip while
+//    words are being spoken. Starting that clip takes a moment, so it keeps
+//    running for a few seconds after a word: the next tap speaks at once.
+
+import { pickVoice as bestVoice } from './voices.ts'
 
 const synth = typeof window !== 'undefined' ? window.speechSynthesis : undefined
 
@@ -34,13 +38,7 @@ const IS_IOS =
 let englishVoice: SpeechSynthesisVoice | null = null
 
 function pickVoice() {
-  const voices = synth?.getVoices() ?? []
-  const english = voices.filter((v) => /^en[-_]/i.test(v.lang))
-  englishVoice =
-    english.find((v) => /^en[-_]US$/i.test(v.lang) && v.localService) ||
-    english.find((v) => /^en[-_]US$/i.test(v.lang)) ||
-    english[0] ||
-    null
+  englishVoice = bestVoice(synth?.getVoices() ?? [])
 }
 
 if (synth) {
@@ -110,31 +108,38 @@ function otherMediaPlaying() {
   )
 }
 
+// How long the silent clip keeps running after a word, so the next tap does
+// not wait for it to start again.
+const LINGER_MS = 8000
+// iOS sometimes never fires `end`; don't leave the clip looping forever.
+const MAX_HOLD_MS = 30000
+
 let releaseTimer: ReturnType<typeof setTimeout> | undefined
+
+function releaseAfter(ms: number) {
+  clearTimeout(releaseTimer)
+  releaseTimer = setTimeout(() => keepAlive?.pause(), ms)
+}
 
 /**
  * Hold the playback session while `utterance` is spoken. Resolves once the
- * silent clip is playing (or straight away when it isn't needed), so speech
- * starts after the session has switched rather than being muted from the start.
+ * silent clip is playing (at once when it already is, or isn't needed), so
+ * speech starts after the session has switched rather than being muted.
  */
 function holdPlaybackSession(utterance: SpeechSynthesisUtterance): Promise<void> {
   setPlaybackSession()
   if (!IS_IOS || otherMediaPlaying()) return Promise.resolve()
 
   const clip = silentClip()
-  const release = () => {
-    // Only the utterance that is current may stop the clip: a word that was
-    // cut off by a newer one must not silence the newer one.
-    if (current !== utterance) return
-    clearTimeout(releaseTimer)
-    clip.pause()
+  const settle = () => {
+    // A word cut off by a newer one must not start the newer one's countdown.
+    if (current === utterance) releaseAfter(LINGER_MS)
   }
-  utterance.addEventListener('end', release)
-  utterance.addEventListener('error', release)
-  clearTimeout(releaseTimer)
-  // iOS sometimes never fires `end`; don't leave the clip looping forever.
-  releaseTimer = setTimeout(release, 15000)
+  utterance.addEventListener('end', settle)
+  utterance.addEventListener('error', settle)
+  releaseAfter(MAX_HOLD_MS)
 
+  if (!clip.paused) return Promise.resolve()
   const started = clip.play().catch(() => {})
   // Don't hold the word back for long if play() is slow to settle.
   return Promise.race([started, new Promise<void>((r) => setTimeout(r, 250))])
@@ -146,10 +151,11 @@ function holdPlaybackSession(utterance: SpeechSynthesisUtterance): Promise<void>
 let current: SpeechSynthesisUtterance | null = null
 
 /**
- * Read English aloud, a little slowly, for learners. `rate` overrides the
- * speed (dictation offers a slower one).
+ * Read English aloud, a touch slower than normal for learners: slower still
+ * drags the voice and sounds less natural. `rate` overrides the speed
+ * (dictation offers a slow one).
  */
-export function speak(text: string | null | undefined, { rate = 0.8 }: { rate?: number } = {}) {
+export function speak(text: string | null | undefined, { rate = 0.9 }: { rate?: number } = {}) {
   if (!text || !synth) return
   const utterance = new SpeechSynthesisUtterance(text)
   utterance.lang = 'en-US'
@@ -165,7 +171,7 @@ export function speak(text: string | null | undefined, { rate = 0.8 }: { rate?: 
 
   holdPlaybackSession(utterance).then(() => {
     if (current !== utterance) return // a newer word took over meanwhile
-    if (wasBusy) {
+    if (wasBusy && IS_IOS) {
       // See (2) above. Speech is already unlocked if something was playing, so
       // leaving the gesture's call stack here is fine.
       setTimeout(() => current === utterance && synth.speak(utterance), 60)
@@ -201,8 +207,11 @@ export function unlockOnFirstGesture() {
       )
     }
 
-    const silent = new SpeechSynthesisUtterance('')
+    // Silent, but in the voice words will use: loading that voice now spares
+    // the first real word the wait.
+    const silent = new SpeechSynthesisUtterance(' ')
     silent.volume = 0
+    if (englishVoice) silent.voice = englishVoice
     synth.speak(silent)
   }
   for (const type of EVENTS) window.addEventListener(type, unlock, true)
