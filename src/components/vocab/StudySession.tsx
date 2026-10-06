@@ -3,6 +3,7 @@ import classNames from 'classnames'
 import { formatDelay, previewDelay, RATINGS, schedule } from '../../lib/srs'
 import type { Rating } from '../../lib/srs'
 import { buildQueue, rateCard, useSrs } from '../../lib/srsStore'
+import { episodeIdsOf, exampleOf, useExamples } from '../../lib/examples'
 import { speak } from '../../lib/speech'
 import { useNow } from '../../lib/hooks'
 import Flashcard from './Flashcard'
@@ -19,7 +20,13 @@ const REQUEUE_GAP = 3
 export default function StudySession({ episodeId, episode, onExit }: SessionProps) {
   const srs = useSrs()
   const now = useNow()
-  const [queue, setQueue] = useState(() => buildQueue(srs, Date.now(), episodeId))
+  const [start] = useState(() => {
+    const queue = buildQueue(srs, Date.now(), episodeId)
+    return { queue, episodeIds: episodeIdsOf(queue.map((id) => srs.cards[id])) }
+  })
+  const [queue, setQueue] = useState(start.queue)
+  // Cards show at once; their example sentences appear when the files arrive.
+  const examplesReady = useExamples(start.episodeIds)
   // `flipped` is which face is showing; `revealed` is whether the meaning has
   // been seen at all. The card can be turned back and forth freely, and the
   // rating buttons stay available once the answer has been revealed.
@@ -111,6 +118,7 @@ export default function StudySession({ episodeId, episode, onExit }: SessionProp
           card={card}
           flipped={flipped}
           canSwipe={revealed}
+          example={examplesReady ? exampleOf(card) : null}
           onFlip={flip}
           onAnswer={(rating) => rate(rating, true)}
         />

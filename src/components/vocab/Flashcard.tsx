@@ -2,12 +2,15 @@ import { useRef, useState } from 'react'
 import type { MouseEvent, PointerEvent, ReactNode, SyntheticEvent } from 'react'
 import { Check, RotateCcw, Volume2 } from 'lucide-react'
 import classNames from 'classnames'
-import { stageOf } from '../../lib/srs'
+import { isLeech, stageOf } from '../../lib/srs'
 import type { StoredCard } from '../../lib/srsStore'
 import { speak } from '../../lib/speech'
 import { STAGE_BY_KEY } from './stages'
 import type { StageStyle } from './stages'
 import TappableText from '../TappableText'
+import type { Example } from '../../lib/examples'
+import ExampleSentence from './ExampleSentence'
+import LeechBadge from './LeechBadge'
 
 const SWIPE_THRESHOLD = 100 // px of horizontal drag that counts as an answer
 const TAP_SLOP = 6 // px of movement still treated as a tap
@@ -20,6 +23,8 @@ interface FlashcardProps {
   card: StoredCard
   flipped: boolean
   canSwipe: boolean
+  /** Shown on the back under the definition. */
+  example?: Example | null
   onFlip: () => void
   onAnswer: (rating: CardAnswer) => void
 }
@@ -28,7 +33,14 @@ interface FlashcardProps {
  * `onAnswer` receives 'good' (Đã thuộc) or 'again' (Chưa thuộc), from a swipe
  * or from the buttons at the bottom of the card.
  */
-export default function Flashcard({ card, flipped, canSwipe, onFlip, onAnswer }: FlashcardProps) {
+export default function Flashcard({
+  card,
+  flipped,
+  canSwipe,
+  example,
+  onFlip,
+  onAnswer,
+}: FlashcardProps) {
   const [dx, setDx] = useState(0)
   const [flying, setFlying] = useState(false)
   const [dragging, setDragging] = useState(false)
@@ -105,7 +117,7 @@ export default function Flashcard({ card, flipped, canSwipe, onFlip, onAnswer }:
         >
           {/* Front: the word */}
           <Face>
-            <StageBadge stage={stage} isNew={card.state === 'new'} />
+            <Badges card={card} stage={stage} />
             <div className='flex-1 flex flex-col items-center justify-center text-center gap-3'>
               <h2 className='text-4xl sm:text-5xl font-bold tracking-tight break-words text-emerald-600 dark:text-emerald-400'>
                 {card.word}
@@ -120,7 +132,7 @@ export default function Flashcard({ card, flipped, canSwipe, onFlip, onAnswer }:
 
           {/* Back: the meaning */}
           <Face className='rotate-y-180'>
-            <StageBadge stage={stage} isNew={card.state === 'new'} />
+            <Badges card={card} stage={stage} />
             {/* min-h-0 + overflow: long definitions scroll inside the card
                 instead of pushing the footer off it. */}
             <div className='flex-1 min-h-0 overflow-y-auto flex flex-col items-center justify-center-safe text-center py-2'>
@@ -155,6 +167,14 @@ export default function Flashcard({ card, flipped, canSwipe, onFlip, onAnswer }:
                       {card.viDef}
                     </p>
                   )}
+                </div>
+              )}
+              {example && (
+                <div className='mt-5 w-full max-w-xs flex-none text-left'>
+                  <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
+                    Example
+                  </p>
+                  <ExampleSentence example={example} className='mt-0.5 -ml-2' />
                 </div>
               )}
             </div>
@@ -261,6 +281,15 @@ function Face({ className, children }: { className?: string; children: ReactNode
       )}
     >
       {children}
+    </div>
+  )
+}
+
+function Badges({ card, stage }: { card: StoredCard; stage: StageStyle }) {
+  return (
+    <div className='flex flex-wrap gap-1.5'>
+      <StageBadge stage={stage} isNew={card.state === 'new'} />
+      {isLeech(card) && <LeechBadge />}
     </div>
   )
 }
