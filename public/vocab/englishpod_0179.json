@@ -5,7 +5,10 @@
     "type": "",
     "def": "baby",
     "vi": "hài nhi",
-    "viDef": "em bé sơ sinh"
+    "viDef": "em bé sơ sinh",
+    "ex": "Holy Infant so tender and mild",
+    "exHit": "Infant",
+    "exVi": "Hài nhi thánh thiện, dịu dàng và hiền hòa"
   },
   {
     "word": "quake at the sight",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "shake or tremble when see something",
     "vi": "rúng động khi thấy",
-    "viDef": "run lên khi trông thấy điều gì"
+    "viDef": "run lên khi trông thấy điều gì",
+    "ex": "Shepherds quake at the sight",
+    "exHit": "quake at the sight",
+    "exVi": "Những người chăn cừu run rẩy khi nhìn thấy"
   },
   {
     "word": "afar",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "from or to a great distance",
     "vi": "nơi xa",
-    "viDef": "từ hoặc tới một khoảng rất xa"
+    "viDef": "từ hoặc tới một khoảng rất xa",
+    "ex": "Glories stream from heaven afar",
+    "exHit": "afar",
+    "exVi": "Vinh quang tuôn chảy từ thiên đàng xa xăm"
   },
   {
     "word": "saviour",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a person who rescues people from harm or danger",
     "vi": "đấng cứu độ",
-    "viDef": "người cứu người khác khỏi tai họa hoặc nguy hiểm"
+    "viDef": "người cứu người khác khỏi tai họa hoặc nguy hiểm",
+    "ex": "Christ, the Saviour is born",
+    "exHit": "Saviour",
+    "exVi": "Chúa Cứu Thế đã ra đời"
   },
   {
     "word": "thy",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "an old-fashioned, poetic, or religious word for 'your'",
     "vi": "của ngươi",
-    "viDef": "từ cổ, có tính thi ca hoặc tôn giáo, nghĩa là \"của bạn\""
+    "viDef": "từ cổ, có tính thi ca hoặc tôn giáo, nghĩa là \"của bạn\"",
+    "ex": "Jesus, Lord, at Thy birth",
+    "exHit": "Thy",
+    "exVi": "Lạy Chúa Giêsu, khi Ngài giáng sinh"
   },
   {
     "word": "Magi",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the wise men, generally assumed to be three in number, who travelled to the infant Jesus to worship him",
     "vi": "ba nhà đạo sĩ",
-    "viDef": "các nhà thông thái, thường cho là ba người, tìm đến bái hài nhi Giêsu"
+    "viDef": "các nhà thông thái, thường cho là ba người, tìm đến bái hài nhi Giêsu",
+    "ex": "The Magi followed a bright star to find the baby.",
+    "exHit": "Magi",
+    "exVi": "Các nhà thông thái đi theo một ngôi sao sáng để tìm đứa bé."
   },
   {
     "word": "proclamation",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a public and official announcement",
     "vi": "lời tuyên xưng",
-    "viDef": "lời loan báo công khai và chính thức"
+    "viDef": "lời loan báo công khai và chính thức",
+    "ex": "The king made a proclamation to the whole town.",
+    "exHit": "proclamation",
+    "exVi": "Nhà vua đưa ra một tuyên bố với cả thị trấn."
   },
   {
     "word": "stable",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a building for the shelter and feeding of domestic animals, especially horses and cattle",
     "vi": "chuồng gia súc",
-    "viDef": "nhà để nuôi và cho ăn gia súc, nhất là ngựa và bò"
+    "viDef": "nhà để nuôi và cho ăn gia súc, nhất là ngựa và bò",
+    "ex": "Relax, that was just the horses and donkeys that are in the stable.",
+    "exHit": "stable",
+    "exVi": "Đừng lo, đó chỉ là ngựa và lừa trong chuồng thôi."
   },
   {
     "word": "manger",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a box or trough in a stable or barn from which horses or cattle eat",
     "vi": "máng cỏ",
-    "viDef": "thùng hoặc rãnh trong chuồng để ngựa, bò ăn"
+    "viDef": "thùng hoặc rãnh trong chuồng để ngựa, bò ăn",
+    "ex": "The baby was laid in a manger filled with hay.",
+    "exHit": "manger",
+    "exVi": "Đứa bé được đặt nằm trong máng cỏ đầy rơm."
   },
   {
     "word": "nativity scene",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a depiction of Jesus's birth in a manger, including the parents, Mary and Joseph",
     "vi": "hang đá Giáng sinh",
-    "viDef": "cảnh dựng lại việc Chúa Giêsu sinh trong máng cỏ, có Mẹ Maria và thánh Giuse"
+    "viDef": "cảnh dựng lại việc Chúa Giêsu sinh trong máng cỏ, có Mẹ Maria và thánh Giuse",
+    "ex": "We set up a nativity scene under the tree every year.",
+    "exHit": "nativity scene",
+    "exVi": "Năm nào chúng tôi cũng dựng cảnh Chúa giáng sinh dưới gốc cây."
   }
 ]

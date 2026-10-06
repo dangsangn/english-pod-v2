@@ -5,7 +5,10 @@
     "type": "",
     "def": "to cure an illness by medical means",
     "vi": "điều trị",
-    "viDef": "chữa bệnh bằng biện pháp y tế"
+    "viDef": "chữa bệnh bằng biện pháp y tế",
+    "ex": "Have you treated any real emergencies?",
+    "exHit": "treated",
+    "exVi": "Bạn đã chữa trị trường hợp khẩn cấp thật nào chưa?"
   },
   {
     "word": "concussion",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a jarring of the brain",
     "vi": "chấn thương sọ não",
-    "viDef": "cú xóc mạnh làm tổn thương não"
+    "viDef": "cú xóc mạnh làm tổn thương não",
+    "ex": "There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.",
+    "exHit": "concussion",
+    "exVi": "Có một anh chàng ngã xe máy và bị chấn động não cùng vài chỗ gãy xương hở."
   },
   {
     "word": "tend to",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "To be disposed or inclined towards something",
     "vi": "hay có khuynh hướng",
-    "viDef": "nghiêng về hoặc thiên về điều gì"
+    "viDef": "nghiêng về hoặc thiên về điều gì",
+    "ex": "I tend to faint when I see blood, so I think I won't be taking up a course like that anytime soon!",
+    "exHit": "tend to",
+    "exVi": "Tôi hay ngất khi nhìn thấy máu nên chắc sẽ không học khóa đó sớm đâu!"
   },
   {
     "word": "rush",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "move or act swiftly",
     "vi": "lao đi gấp",
-    "viDef": "di chuyển hoặc hành động rất nhanh"
+    "viDef": "di chuyển hoặc hành động rất nhanh",
+    "ex": "His wounds were pretty serious so they had to rush him to the hospital.",
+    "exHit": "rush",
+    "exVi": "Vết thương của anh ấy khá nặng nên họ phải đưa anh ấy gấp đến bệnh viện."
   },
   {
     "word": "take up",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "begin with",
     "vi": "bắt đầu học",
-    "viDef": "khởi sự với việc gì"
+    "viDef": "khởi sự với việc gì",
+    "ex": "I tend to faint when I see blood, so I think I won't be taking up a course like that anytime soon!",
+    "exHit": "taking up",
+    "exVi": "Tôi hay ngất khi nhìn thấy máu nên chắc sẽ không học khóa đó sớm đâu!"
   },
   {
     "word": "bandage",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "A strip of material such as gauze used to protect, immobilize, compress, or support a wound or injured body part.",
     "vi": "băng gạc",
-    "viDef": "dải vật liệu như gạc dùng che chở, cố định, ép hoặc đỡ vết thương"
+    "viDef": "dải vật liệu như gạc dùng che chở, cố định, ép hoặc đỡ vết thương",
+    "ex": "The nurse put a clean bandage on my knee.",
+    "exHit": "bandage",
+    "exVi": "Cô y tá băng đầu gối cho mình bằng một miếng băng sạch."
   },
   {
     "word": "cast",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a hard shell usually made of gauze and plaster, used to immobilize an injured body part",
     "vi": "bột bó",
-    "viDef": "lớp vỏ cứng bằng gạc và thạch cao, dùng cố định phần cơ thể bị thương"
+    "viDef": "lớp vỏ cứng bằng gạc và thạch cao, dùng cố định phần cơ thể bị thương",
+    "ex": "He wore a cast on his arm for six weeks.",
+    "exHit": "cast",
+    "exVi": "Anh ấy bó bột cánh tay suốt sáu tuần."
   },
   {
     "word": "splint",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A rigid device used to prevent motion of a joint or of the ends of a fractured bone.",
     "vi": "nẹp",
-    "viDef": "dụng cụ cứng giữ cho khớp hoặc hai đầu xương gãy không cử động"
+    "viDef": "dụng cụ cứng giữ cho khớp hoặc hai đầu xương gãy không cử động",
+    "ex": "They put a splint on her finger to keep it still.",
+    "exHit": "splint",
+    "exVi": "Họ nẹp ngón tay cô ấy để giữ cho nó bất động."
   },
   {
     "word": "anaesthetic",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a medication that causes loss of sensation",
     "vi": "thuốc gây mê",
-    "viDef": "thuốc làm mất cảm giác"
+    "viDef": "thuốc làm mất cảm giác",
+    "ex": "The dentist gave me a local anaesthetic before the procedure.",
+    "exHit": "anaesthetic",
+    "exVi": "Nha sĩ gây tê cục bộ cho mình trước khi làm thủ thuật."
   },
   {
     "word": "ambulance",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a vehicle for pre-hospital treatment and transportation of sick or injured people",
     "vi": "xe cấp cứu",
-    "viDef": "xe để sơ cứu và chở người bệnh hoặc bị thương"
+    "viDef": "xe để sơ cứu và chở người bệnh hoặc bị thương",
+    "ex": "Someone called an ambulance as soon as he fell.",
+    "exHit": "ambulance",
+    "exVi": "Có người gọi xe cứu thương ngay khi anh ấy ngã."
   }
 ]

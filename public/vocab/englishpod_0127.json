@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "a kind of literary or artistic work",
     "vi": "thể loại",
-    "viDef": "loại tác phẩm văn học hoặc nghệ thuật"
+    "viDef": "loại tác phẩm văn học hoặc nghệ thuật",
+    "ex": "The genre is country music!",
+    "exHit": "genre",
+    "exVi": "Thể loại là nhạc đồng quê!"
   },
   {
     "word": "acronym",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "abbreviations",
     "vi": "từ viết tắt",
-    "viDef": "chữ tắt"
+    "viDef": "chữ tắt",
+    "ex": "For all our viewers the acronym R&B stands for Rhythm and Blues.",
+    "exHit": "acronym",
+    "exVi": "Với tất cả khán giả của chúng ta, từ viết tắt R&B có nghĩa là Rhythm and Blues."
   },
   {
     "word": "sudden death",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "extra ime to determine a winner after a tie",
     "vi": "loạt phân định",
-    "viDef": "thời gian thêm để tìm người thắng sau khi hòa"
+    "viDef": "thời gian thêm để tìm người thắng sau khi hòa",
+    "ex": "Team B, the pressure is on, if you get all of them right, we will move on to sudden death.",
+    "exHit": "sudden death",
+    "exVi": "Đội B, áp lực đang đè lên các bạn đấy, nếu trả lời đúng hết, chúng ta sẽ chuyển sang vòng đấu loại đột tử."
   },
   {
     "word": "the pressure is on",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "the outcome or result depends on you",
     "vi": "áp lực đè lên vai",
-    "viDef": "kết quả tùy vào bạn"
+    "viDef": "kết quả tùy vào bạn",
+    "ex": "Team B, the pressure is on, if you get all of them right, we will move on to sudden death.",
+    "exHit": "the pressure is on",
+    "exVi": "Đội B, áp lực đang đè lên các bạn đấy, nếu trả lời đúng hết, chúng ta sẽ chuyển sang vòng đấu loại đột tử."
   },
   {
     "word": "double or nothing",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "used when you want to bet twice as much",
     "vi": "gấp đôi hoặc trắng tay",
-    "viDef": "câu dùng khi muốn cược lên gấp hai"
+    "viDef": "câu dùng khi muốn cược lên gấp hai",
+    "ex": "That sound means it's double or nothing!",
+    "exHit": "double or nothing",
+    "exVi": "Âm thanh đó nghĩa là gấp đôi hoặc không có gì!"
   },
   {
     "word": "air guitar",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "when a person pretends to play the guitar when listening to music",
     "vi": "đàn ghi-ta tưởng tượng",
-    "viDef": "giả vờ chơi ghi-ta khi nghe nhạc"
+    "viDef": "giả vờ chơi ghi-ta khi nghe nhạc",
+    "ex": "He plays air guitar every time his favorite song comes on.",
+    "exHit": "air guitar",
+    "exVi": "Anh ấy chơi guitar không khí mỗi khi bài hát yêu thích vang lên."
   },
   {
     "word": "a capella",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "to sing without any instruments or music",
     "vi": "hát không nhạc đệm",
-    "viDef": "hát mà không có nhạc cụ"
+    "viDef": "hát mà không có nhạc cụ",
+    "ex": "They sang the whole song a capella, without any instruments.",
+    "exHit": "a capella",
+    "exVi": "Họ hát cả bài không cần nhạc cụ nào."
   },
   {
     "word": "encore",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a demand by an audience for an additional performance at the end of a concert",
     "vi": "tiếng gọi hát thêm",
-    "viDef": "khán giả đòi diễn thêm khi buổi nhạc đã hết"
+    "viDef": "khán giả đòi diễn thêm khi buổi nhạc đã hết",
+    "ex": "The crowd kept clapping, so the band came back for an encore.",
+    "exHit": "encore",
+    "exVi": "Khán giả cứ vỗ tay mãi nên ban nhạc quay lại biểu diễn thêm."
   },
   {
     "word": "chorus",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a part of a song repeated after each verse",
     "vi": "điệp khúc",
-    "viDef": "đoạn nhạc lặp lại sau mỗi lời"
+    "viDef": "đoạn nhạc lặp lại sau mỗi lời",
+    "ex": "Everyone sings along to the chorus because it's so catchy.",
+    "exHit": "chorus",
+    "exVi": "Ai cũng hát theo đoạn điệp khúc vì nó rất dễ nhớ."
   },
   {
     "word": "hit",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "a person or thing that gains wide appeal or fame",
     "vi": "bản hit",
-    "viDef": "người hoặc thứ được yêu thích rộng rãi"
+    "viDef": "người hoặc thứ được yêu thích rộng rãi",
+    "ex": "That song was a big hit when I was in school.",
+    "exHit": "hit",
+    "exVi": "Bài hát đó từng là một hit lớn khi tôi còn đi học."
   }
 ]

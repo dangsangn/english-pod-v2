@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "you and me",
     "vi": "hai ta",
-    "viDef": "anh và tôi"
+    "viDef": "anh và tôi",
+    "ex": "I made a reservation just for the two of us.",
+    "exHit": "two of us",
+    "exVi": "Tôi đã đặt chỗ riêng cho hai chúng ta."
   },
   {
     "word": "all to our selves",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "just for us and no one else",
     "vi": "chỉ riêng hai người",
-    "viDef": "dành cho mình thôi, không ai khác"
+    "viDef": "dành cho mình thôi, không ai khác",
+    "ex": "Let's go to the beach and have it all to our selves.",
+    "exHit": "all to our selves",
+    "exVi": "Hãy ra biển và có cả bãi biển chỉ cho riêng chúng ta."
   },
   {
     "word": "here is the thing",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "phrase used to begin explaining a situation or problem",
     "vi": "chuyện là thế này",
-    "viDef": "câu mở đầu khi bắt đầu giải thích một việc"
+    "viDef": "câu mở đầu khi bắt đầu giải thích một việc",
+    "ex": "Here is the thing, I really like you.",
+    "exHit": "Here is the thing",
+    "exVi": "Chuyện là thế này, tôi thật sự thích bạn."
   },
   {
     "word": "pros and cons",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "good things and bad things about a person",
     "vi": "điểm hay và điểm dở",
-    "viDef": "mặt tốt và mặt xấu của một người"
+    "viDef": "mặt tốt và mặt xấu của một người",
+    "ex": "I know you better than anyone, I know the pros and cons of your personality, I even know what side of the bed is yours!",
+    "exHit": "pros and cons",
+    "exVi": "Tôi hiểu bạn hơn bất kỳ ai, tôi biết cả ưu lẫn nhược điểm trong tính cách của bạn, tôi thậm chí còn biết bạn nằm bên nào của chiếc giường!"
   },
   {
     "word": "guts",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "courage, brave",
     "vi": "gan",
-    "viDef": "sự can đảm"
+    "viDef": "sự can đảm",
+    "ex": "I never had the guts to tell you...",
+    "exHit": "guts",
+    "exVi": "Tôi chưa bao giờ đủ can đảm để nói với bạn điều đó..."
   },
   {
     "word": "give (someone) a shot",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "to let someone have a try",
     "vi": "cho ai một cơ hội",
-    "viDef": "để ai thử một lần"
+    "viDef": "để ai thử một lần",
+    "ex": "Are you willing to give me a shot?",
+    "exHit": "give me a shot",
+    "exVi": "Bạn có sẵn lòng cho tôi một cơ hội không?"
   },
   {
     "word": "going out",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "phrase used to indicate that you are dating someone",
     "vi": "đang hẹn hò",
-    "viDef": "câu chỉ việc đang qua lại với ai"
+    "viDef": "câu chỉ việc đang qua lại với ai",
+    "ex": "Are you two going out now?",
+    "exHit": "going out",
+    "exVi": "Hai bạn đang hẹn hò với nhau à?"
   },
   {
     "word": "get with",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "to become someone's boyfriend/girlfriend",
     "vi": "nên đôi với",
-    "viDef": "trở thành người yêu của ai"
+    "viDef": "trở thành người yêu của ai",
+    "ex": "I heard he finally got with his classmate.",
+    "exHit": "got with",
+    "exVi": "Tôi nghe nói cuối cùng anh ấy cũng quen cô bạn cùng lớp."
   },
   {
     "word": "ask out",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "to ask someone to join you on a romantic date",
     "vi": "mời đi hẹn hò",
-    "viDef": "rủ ai đi chơi kiểu tình cảm"
+    "viDef": "rủ ai đi chơi kiểu tình cảm",
+    "ex": "He was too shy to ask her out.",
+    "exHit": "ask her out",
+    "exVi": "Anh ấy quá ngại để mời cô ấy đi chơi."
   },
   {
     "word": "intimate",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "having a very close relationship; very warm and friendly",
     "vi": "thân mật",
-    "viDef": "quan hệ rất gần, ấm áp và thân thiện"
+    "viDef": "quan hệ rất gần, ấm áp và thân thiện",
+    "ex": "They had an intimate dinner for two.",
+    "exHit": "intimate",
+    "exVi": "Họ có một bữa tối thân mật chỉ có hai người."
   },
   {
     "word": "make-out",
@@ -85,6 +115,9 @@
     "type": "verb",
     "def": "to kiss",
     "vi": "âu yếm nhau",
-    "viDef": "ôm hôn"
+    "viDef": "ôm hôn",
+    "ex": "Those two always make out in the back of the cinema.",
+    "exHit": "make out",
+    "exVi": "Hai người đó lúc nào cũng hôn nhau ở cuối rạp chiếu phim."
   }
 ]

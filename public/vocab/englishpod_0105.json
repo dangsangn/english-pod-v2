@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "used to say it was good",
     "vi": "quả là một...",
-    "viDef": "câu dùng để khen điều gì hay"
+    "viDef": "câu dùng để khen điều gì hay",
+    "ex": "Hey, that was quite the presentation!",
+    "exHit": "quite the",
+    "exVi": "Này, bài thuyết trình vừa rồi thật xuất sắc!"
   },
   {
     "word": "presentation",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "speech, demo, a meeting where you present something",
     "vi": "bài trình bày",
-    "viDef": "buổi thuyết trình hoặc giới thiệu"
+    "viDef": "buổi thuyết trình hoặc giới thiệu",
+    "ex": "Hey, that was quite the presentation!",
+    "exHit": "presentation",
+    "exVi": "Này, bài thuyết trình vừa rồi thật xuất sắc!"
   },
   {
     "word": "honestly",
@@ -21,7 +27,10 @@
     "type": "General Adverb",
     "def": "to tell the truth, frankly speaking",
     "vi": "thật lòng mà nói",
-    "viDef": "nói thẳng, nói thật"
+    "viDef": "nói thẳng, nói thật",
+    "ex": "Honestly, I was completely blown away by your strategy outline.",
+    "exHit": "Honestly",
+    "exVi": "Thật lòng mà nói, tôi hoàn toàn choáng ngợp trước phần phác thảo chiến lược của bạn."
   },
   {
     "word": "blow (someone) away",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "impressed by",
     "vi": "làm ai nể phục",
-    "viDef": "gây ấn tượng mạnh"
+    "viDef": "gây ấn tượng mạnh",
+    "ex": "Honestly, I was completely blown away by your strategy outline.",
+    "exHit": "blown away",
+    "exVi": "Thật lòng mà nói, tôi hoàn toàn choáng ngợp trước phần phác thảo chiến lược của bạn."
   },
   {
     "word": "wow (someone)",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "amaze, impress",
     "vi": "làm ai trầm trồ",
-    "viDef": "khiến ai thán phục"
+    "viDef": "khiến ai thán phục",
+    "ex": "I've gotta say, Alex, you really wowed me today.",
+    "exHit": "wowed",
+    "exVi": "Tôi phải nói là, Alex, hôm nay bạn thực sự làm tôi kinh ngạc."
   },
   {
     "word": "it was nothing",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "use to show humbleness",
     "vi": "có gì đâu",
-    "viDef": "câu nói cho thấy mình khiêm tốn"
+    "viDef": "câu nói cho thấy mình khiêm tốn",
+    "ex": "Aw, come on; it was nothing.",
+    "exHit": "it was nothing",
+    "exVi": "Ôi thôi mà, có gì đâu."
   },
   {
     "word": "deserve",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "are entitled to",
     "vi": "xứng đáng được",
-    "viDef": "có quyền nhận"
+    "viDef": "có quyền nhận",
+    "ex": "No, I think you deserve some recognition here; I mean, if I look back on your previous presentations, this is a huge improvement.",
+    "exHit": "deserve",
+    "exVi": "Không, tôi nghĩ bạn xứng đáng được ghi nhận; nếu nhìn lại những bài thuyết trình trước của bạn, thì đây là một tiến bộ rất lớn."
   },
   {
     "word": "recognition",
@@ -61,7 +82,10 @@
     "type": "common noun, non-variable",
     "def": "praises, credit",
     "vi": "sự ghi công",
-    "viDef": "lời khen, sự công nhận"
+    "viDef": "lời khen, sự công nhận",
+    "ex": "No, I think you deserve some recognition here; I mean, if I look back on your previous presentations, this is a huge improvement.",
+    "exHit": "recognition",
+    "exVi": "Không, tôi nghĩ bạn xứng đáng được ghi nhận; nếu nhìn lại những bài thuyết trình trước của bạn, thì đây là một tiến bộ rất lớn."
   },
   {
     "word": "look back on",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "recall the past",
     "vi": "ngoảnh lại",
-    "viDef": "nhớ lại chuyện đã qua"
+    "viDef": "nhớ lại chuyện đã qua",
+    "ex": "No, I think you deserve some recognition here; I mean, if I look back on your previous presentations, this is a huge improvement.",
+    "exHit": "look back on",
+    "exVi": "Không, tôi nghĩ bạn xứng đáng được ghi nhận; nếu nhìn lại những bài thuyết trình trước của bạn, thì đây là một tiến bộ rất lớn."
   },
   {
     "word": "improvement",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "advance, progress",
     "vi": "sự tiến bộ",
-    "viDef": "bước tiến, sự khá lên"
+    "viDef": "bước tiến, sự khá lên",
+    "ex": "No, I think you deserve some recognition here; I mean, if I look back on your previous presentations, this is a huge improvement.",
+    "exHit": "improvement",
+    "exVi": "Không, tôi nghĩ bạn xứng đáng được ghi nhận; nếu nhìn lại những bài thuyết trình trước của bạn, thì đây là một tiến bộ rất lớn."
   },
   {
     "word": "give someone a hand",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "help someone",
     "vi": "phụ ai một tay",
-    "viDef": "giúp đỡ ai"
+    "viDef": "giúp đỡ ai",
+    "ex": "Could you give me a hand with this presentation, please?",
+    "exHit": "give me a hand",
+    "exVi": "Bạn giúp tôi một tay với bài thuyết trình này được không?"
   },
   {
     "word": "wiz",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "genius",
     "vi": "thần đồng",
-    "viDef": "người cực giỏi"
+    "viDef": "người cực giỏi",
+    "ex": "She's a real wiz on PowerPoint.",
+    "exHit": "wiz",
+    "exVi": "Cô ấy là thiên tài PowerPoint thực sự."
   },
   {
     "word": "take on board",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "adopt",
     "vi": "tiếp thu",
-    "viDef": "nhận lấy để áp dụng"
+    "viDef": "nhận lấy để áp dụng",
+    "ex": "Thanks for the advice, I will take it on board.",
+    "exHit": "take it on board",
+    "exVi": "Cảm ơn lời khuyên, tôi sẽ tiếp thu."
   },
   {
     "word": "feedback",
@@ -109,7 +148,10 @@
     "type": "common noun, non-variable",
     "def": "other people's opinions",
     "vi": "góp ý",
-    "viDef": "ý kiến của người khác"
+    "viDef": "ý kiến của người khác",
+    "ex": "And I saw that you took on board my feedback about pricing strategies.",
+    "exHit": "feedback",
+    "exVi": "Và tôi thấy bạn đã tiếp thu góp ý của tôi về chiến lược giá."
   },
   {
     "word": "think though",
@@ -117,7 +159,10 @@
     "type": "verb",
     "def": "to carefully consider and think about it",
     "vi": "nghĩ cho thấu",
-    "viDef": "cân nhắc kỹ lưỡng"
+    "viDef": "cân nhắc kỹ lưỡng",
+    "ex": "I really appreciate you taking the time to think though my suggestions.",
+    "exHit": "think though",
+    "exVi": "Tôi thực sự cảm kích vì bạn đã dành thời gian cân nhắc kỹ các đề xuất của tôi."
   },
   {
     "word": "well done",
@@ -125,7 +170,10 @@
     "type": "phrase",
     "def": "good job",
     "vi": "làm tốt lắm",
-    "viDef": "khá lắm"
+    "viDef": "khá lắm",
+    "ex": "Well, I just wanted to say well done.",
+    "exHit": "well done",
+    "exVi": "À, tôi chỉ muốn nói là làm tốt lắm."
   },
   {
     "word": "constructive criticism",
@@ -133,7 +181,10 @@
     "type": "common noun, non-variable",
     "def": "suggestions for improvement",
     "vi": "góp ý mang tính xây dựng",
-    "viDef": "lời gợi ý để làm tốt hơn"
+    "viDef": "lời gợi ý để làm tốt hơn",
+    "ex": "My boss gave me some constructive criticism after the meeting.",
+    "exHit": "constructive criticism",
+    "exVi": "Sếp đã góp ý mang tính xây dựng cho tôi sau cuộc họp."
   },
   {
     "word": "recognize",
@@ -141,7 +192,10 @@
     "type": "verb",
     "def": "to publicity give special attention to someone for doing a good job",
     "vi": "tuyên dương",
-    "viDef": "công khai ghi nhận ai làm tốt"
+    "viDef": "công khai ghi nhận ai làm tốt",
+    "ex": "The company will recognize her hard work with a special award.",
+    "exHit": "recognize",
+    "exVi": "Công ty sẽ ghi nhận công sức của cô ấy bằng một giải thưởng đặc biệt."
   },
   {
     "word": "praise",
@@ -149,7 +203,10 @@
     "type": "common noun, non-variable",
     "def": "the action of saying a person did a good job",
     "vi": "lời khen",
-    "viDef": "việc nói rằng ai đã làm tốt"
+    "viDef": "việc nói rằng ai đã làm tốt",
+    "ex": "The boss gave Alex a lot of praise for his speech.",
+    "exHit": "praise",
+    "exVi": "Sếp dành nhiều lời khen cho bài phát biểu của Alex."
   },
   {
     "word": "encourage",
@@ -157,7 +214,10 @@
     "type": "verb",
     "def": "make someone confident; help them do better",
     "vi": "động viên",
-    "viDef": "làm ai tự tin, giúp họ làm tốt hơn"
+    "viDef": "làm ai tự tin, giúp họ làm tốt hơn",
+    "ex": "Good managers encourage their team to share new ideas.",
+    "exHit": "encourage",
+    "exVi": "Những người quản lý giỏi khuyến khích nhóm chia sẻ ý tưởng mới."
   },
   {
     "word": "give credit",
@@ -165,6 +225,9 @@
     "type": "phrase",
     "def": "praise given to someone for doing a good job",
     "vi": "ghi nhận công",
-    "viDef": "khen người làm tốt"
+    "viDef": "khen người làm tốt",
+    "ex": "Always give credit to the people who helped you.",
+    "exHit": "give credit",
+    "exVi": "Hãy luôn ghi công cho những người đã giúp bạn."
   }
 ]

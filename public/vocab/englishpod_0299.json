@@ -5,7 +5,10 @@
     "type": "",
     "def": "a piece of paper that proves you bought something",
     "vi": "hóa đơn",
-    "viDef": "tờ giấy chứng minh bạn đã mua thứ gì"
+    "viDef": "tờ giấy chứng minh bạn đã mua thứ gì",
+    "ex": "Sure, do you have the receipt?",
+    "exHit": "receipt",
+    "exVi": "Vâng, bạn có biên lai không?"
   },
   {
     "word": "return",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "go back to the original place",
     "vi": "trả lại",
-    "viDef": "đưa về chỗ ban đầu"
+    "viDef": "đưa về chỗ ban đầu",
+    "ex": "Hi I would like to return this TV.",
+    "exHit": "return",
+    "exVi": "Chào, tôi muốn trả lại chiếc TV này."
   },
   {
     "word": "keyboard",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "controller device for computer",
     "vi": "bàn phím",
-    "viDef": "thiết bị điều khiển của máy tính"
+    "viDef": "thiết bị điều khiển của máy tính",
+    "ex": "I see, and what about the keyboard?",
+    "exHit": "keyboard",
+    "exVi": "Tôi hiểu rồi, còn bàn phím thì sao?"
   },
   {
     "word": "product",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "things that a company makes or sells",
     "vi": "sản phẩm",
-    "viDef": "những thứ công ty làm ra hoặc bán"
+    "viDef": "những thứ công ty làm ra hoặc bán",
+    "ex": "Ok, may I ask what is the reason for returning these products?",
+    "exHit": "products",
+    "exVi": "Vâng, tôi có thể hỏi lý do trả lại những sản phẩm này là gì không?"
   },
   {
     "word": "flicker",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to move to and fro; vibrate; quiver",
     "vi": "nhấp nháy chớp chớp",
-    "viDef": "lay qua lay lại, rung, run rẩy"
+    "viDef": "lay qua lay lại, rung, run rẩy",
+    "ex": "The TV flickers a lot when I am watching a movie and at times the image is not very clear.",
+    "exHit": "flickers",
+    "exVi": "TV nhấp nháy nhiều khi tôi xem phim, và thỉnh thoảng hình ảnh không rõ lắm."
   },
   {
     "word": "spill",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to cause or allow to run or fall from a container",
     "vi": "làm tràn",
-    "viDef": "khiến hoặc để thứ gì chảy hay rơi ra khỏi vật đựng"
+    "viDef": "khiến hoặc để thứ gì chảy hay rơi ra khỏi vật đựng",
+    "ex": "I spilled some coffee on it and now it won't work.",
+    "exHit": "spilled",
+    "exVi": "Tôi làm đổ cà phê lên nó và giờ nó không chạy nữa."
   },
   {
     "word": "exchange",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "give something and receive something in return",
     "vi": "đổi",
-    "viDef": "đưa thứ này và nhận lại thứ khác"
+    "viDef": "đưa thứ này và nhận lại thứ khác",
+    "ex": "I am sorry sir, but we can only exchange or refund defective products, we cannot take responsibility for misuse or damages.",
+    "exHit": "exchange",
+    "exVi": "Tôi xin lỗi, thưa ông, nhưng chúng tôi chỉ đổi hoặc hoàn tiền cho hàng bị lỗi, chúng tôi không chịu trách nhiệm về việc sử dụng sai hoặc hư hỏng."
   },
   {
     "word": "defective",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "having a mistake or error",
     "vi": "bị lỗi",
-    "viDef": "có sai sót hoặc khuyết điểm"
+    "viDef": "có sai sót hoặc khuyết điểm",
+    "ex": "I am sorry sir, but we can only exchange or refund defective products, we cannot take responsibility for misuse or damages.",
+    "exHit": "defective",
+    "exVi": "Tôi xin lỗi, thưa ông, nhưng chúng tôi chỉ đổi hoặc hoàn tiền cho hàng bị lỗi, chúng tôi không chịu trách nhiệm về việc sử dụng sai hoặc hư hỏng."
   },
   {
     "word": "refund",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to get your money back",
     "vi": "hoàn tiền",
-    "viDef": "được lấy lại tiền của mình"
+    "viDef": "được lấy lại tiền của mình",
+    "ex": "I am sorry sir, but we can only exchange or refund defective products, we cannot take responsibility for misuse or damages.",
+    "exHit": "refund",
+    "exVi": "Tôi xin lỗi, thưa ông, nhưng chúng tôi chỉ đổi hoặc hoàn tiền cho hàng bị lỗi, chúng tôi không chịu trách nhiệm về việc sử dụng sai hoặc hư hỏng."
   },
   {
     "word": "delicate",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "fragile; easily damaged",
     "vi": "mong manh",
-    "viDef": "dễ vỡ, dễ bị hư"
+    "viDef": "dễ vỡ, dễ bị hư",
+    "ex": "I don't know why they make these things so delicate anyways.",
+    "exHit": "delicate",
+    "exVi": "Tôi không hiểu sao họ làm mấy thứ này mỏng manh đến vậy."
   },
   {
     "word": "complaint",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "an expression of discontent",
     "vi": "lời khiếu nại",
-    "viDef": "sự bày tỏ điều không hài lòng"
+    "viDef": "sự bày tỏ điều không hài lòng",
+    "ex": "I'd like to make a complaint about the broken TV.",
+    "exHit": "complaint",
+    "exVi": "Tôi muốn khiếu nại về chiếc TV bị hỏng."
   },
   {
     "word": "invoice",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a document issued by a seller to a buyer showing the goods or services supplied and money due",
     "vi": "hóa đơn bán hàng",
-    "viDef": "chứng từ bên bán lập cho bên mua, ghi rõ hàng hóa hoặc dịch vụ đã cấp và số tiền phải trả"
+    "viDef": "chứng từ bên bán lập cho bên mua, ghi rõ hàng hóa hoặc dịch vụ đã cấp và số tiền phải trả",
+    "ex": "Please keep the invoice so we can check the price later.",
+    "exHit": "invoice",
+    "exVi": "Hãy giữ hóa đơn để sau này chúng ta còn kiểm tra giá."
   },
   {
     "word": "policy",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a plan of action adopted or pursued by an individual, government, party, business",
     "vi": "chính sách",
-    "viDef": "phương hướng hành động mà một cá nhân, nhà nước, tổ chức hoặc doanh nghiệp theo"
+    "viDef": "phương hướng hành động mà một cá nhân, nhà nước, tổ chức hoặc doanh nghiệp theo",
+    "ex": "The store's return policy only allows exchanges within a week.",
+    "exHit": "policy",
+    "exVi": "Chính sách đổi trả của cửa hàng chỉ cho phép đổi trong vòng một tuần."
   },
   {
     "word": "quality",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "degree or standard of excellence",
     "vi": "chất lượng",
-    "viDef": "mức độ hoặc chuẩn mực tốt"
+    "viDef": "mức độ hoặc chuẩn mực tốt",
+    "ex": "The quality of this keyboard is much better than the old one.",
+    "exHit": "quality",
+    "exVi": "Chất lượng của bàn phím này tốt hơn nhiều so với cái cũ."
   },
   {
     "word": "warranty",
@@ -117,6 +159,9 @@
     "type": "",
     "def": "guarantee given to the purchaser by the dealer, manufacturer will make repairs or replace defective parts free of charge for a stated period of time.",
     "vi": "giấy bảo hành",
-    "viDef": "cam kết bên bán hoặc nhà sản xuất dành cho người mua, sẽ sửa hoặc đổi bộ phận bị lỗi miễn phí trong một thời hạn đã nêu"
+    "viDef": "cam kết bên bán hoặc nhà sản xuất dành cho người mua, sẽ sửa hoặc đổi bộ phận bị lỗi miễn phí trong một thời hạn đã nêu",
+    "ex": "The laptop is still under warranty, so the repair is free.",
+    "exHit": "warranty",
+    "exVi": "Chiếc laptop vẫn còn bảo hành nên sửa miễn phí."
   }
 ]

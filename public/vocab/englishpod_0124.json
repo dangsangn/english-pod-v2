@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "to try your best",
     "vi": "dốc hết sức",
-    "viDef": "cố gắng hết mình"
+    "viDef": "cố gắng hết mình",
+    "ex": "We've only got one day to finish this, so I'm gonna need everyone to give one hundred and ten percent today.",
+    "exHit": "to give one hundred and ten percent",
+    "exVi": "Chúng ta chỉ có một ngày để hoàn thành việc này, nên tôi cần mọi người dốc hết một trăm mười phần trăm sức lực hôm nay."
   },
   {
     "word": "two-by-four",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "a piece of wood that is 2 inches thick and 4 inche",
     "vi": "thanh gỗ 2x4",
-    "viDef": "miếng gỗ dày 2 inch, rộng 4 inch"
+    "viDef": "miếng gỗ dày 2 inch, rộng 4 inch",
+    "ex": "Please hand me that two-by-four so I can finish the frame.",
+    "exHit": "two-by-four",
+    "exVi": "Làm ơn đưa tôi thanh gỗ hai nhân bốn để tôi làm xong khung."
   },
   {
     "word": "take pride in your work",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "let your effort be a reflection of your skill",
     "vi": "tự hào với việc mình làm",
-    "viDef": "để công sức mình thể hiện tay nghề"
+    "viDef": "để công sức mình thể hiện tay nghề",
+    "ex": "you gotta take pride in your work!",
+    "exHit": "take pride in your work",
+    "exVi": "Cậu phải tự hào về công việc của mình chứ!"
   },
   {
     "word": "plans",
@@ -29,7 +38,10 @@
     "type": "common noun, plural",
     "def": "set of actions to complete a task",
     "vi": "bản vẽ, kế hoạch",
-    "viDef": "chuỗi việc phải làm để hoàn thành công đoạn"
+    "viDef": "chuỗi việc phải làm để hoàn thành công đoạn",
+    "ex": "The home inspectors here are pretty thorough, so please make sure you follow the plans exactly.",
+    "exHit": "plans",
+    "exVi": "Các thanh tra nhà ở đây khá kỹ lưỡng, nên hãy chắc chắn là các bạn làm đúng theo bản vẽ."
   },
   {
     "word": "measuring tape",
@@ -37,7 +49,10 @@
     "type": "common noun, non-variable",
     "def": "a tool used to measure how long something is",
     "vi": "thước dây",
-    "viDef": "dụng cụ đo chiều dài"
+    "viDef": "dụng cụ đo chiều dài",
+    "ex": "Get over here with the level, measuring tape and that box of screws!",
+    "exHit": "measuring tape",
+    "exVi": "Mang cái thước thủy, thước dây và hộp ốc vít lại đây!"
   },
   {
     "word": "table saw",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a circular saw mounted under a table or bench so that large pieces of wood could be cut",
     "vi": "máy cưa bàn",
-    "viDef": "lưỡi cưa tròn gắn dưới mặt bàn để cắt gỗ tấm lớn"
+    "viDef": "lưỡi cưa tròn gắn dưới mặt bàn để cắt gỗ tấm lớn",
+    "ex": "Be careful with the table saw, it can cut your hand.",
+    "exHit": "table saw",
+    "exVi": "Cẩn thận với cái cưa bàn, nó có thể cắt đứt tay bạn."
   },
   {
     "word": "moulding",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "a decorative strip used for ornamentation or finishing on the edges of a wall",
     "vi": "nẹp trang trí",
-    "viDef": "thanh dùng để trang trí hoặc hoàn thiện viền tường"
+    "viDef": "thanh dùng để trang trí hoặc hoàn thiện viền tường",
+    "ex": "We painted the moulding white to match the walls.",
+    "exHit": "moulding",
+    "exVi": "Chúng tôi sơn phào chỉ màu trắng cho hợp với tường."
   },
   {
     "word": "drywall",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "A wall or ceiling constructed of a prefabricated material, such as plasterboard or paneling.",
     "vi": "tấm thạch cao",
-    "viDef": "tường hoặc trần làm từ tấm vật liệu sẵn như thạch cao"
+    "viDef": "tường hoặc trần làm từ tấm vật liệu sẵn như thạch cao",
+    "ex": "The workers put up the drywall in just two days.",
+    "exHit": "drywall",
+    "exVi": "Các công nhân dựng xong tường thạch cao chỉ trong hai ngày."
   },
   {
     "word": "contractor",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a person or firm that supplies materials or labour for other companies",
     "vi": "nhà thầu",
-    "viDef": "người hoặc công ty cung ứng vật liệu hay nhân công cho bên khác"
+    "viDef": "người hoặc công ty cung ứng vật liệu hay nhân công cho bên khác",
+    "ex": "The contractor says he can finish the kitchen by the end of May.",
+    "exHit": "contractor",
+    "exVi": "Nhà thầu nói anh ấy có thể làm xong nhà bếp trước cuối tháng Năm."
   },
   {
     "word": "carpenter",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "a person who makes or repairs wooden structures",
     "vi": "thợ mộc",
-    "viDef": "người làm hoặc sửa các kết cấu gỗ"
+    "viDef": "người làm hoặc sửa các kết cấu gỗ",
+    "ex": "And remember the carpenter's rule of thumb: measure twice and cut once.",
+    "exHit": "carpenter",
+    "exVi": "Và hãy nhớ quy tắc kinh nghiệm của thợ mộc: đo hai lần, cắt một lần."
   }
 ]

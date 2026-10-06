@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "position in hockey; person who tries to stop the puck from going in the net",
     "vi": "thủ môn",
-    "viDef": "vị trí trong khúc côn cầu; người chặn không cho đĩa vào lưới"
+    "viDef": "vị trí trong khúc côn cầu; người chặn không cho đĩa vào lưới",
+    "ex": "Wow what a save by the goalie!",
+    "exHit": "goalie",
+    "exVi": "Wow, cú cản phá tuyệt vời của thủ môn!"
   },
   {
     "word": "breakaway",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "state of becoming separated from a large group (especially in sports)",
     "vi": "cú thoát ly",
-    "viDef": "việc tách ra khỏi cả nhóm (nhất là trong thể thao)"
+    "viDef": "việc tách ra khỏi cả nhóm (nhất là trong thể thao)",
+    "ex": "Pavel Bure is on a breakaway!",
+    "exHit": "breakaway",
+    "exVi": "Pavel Bure đang bứt tốc một mình!"
   },
   {
     "word": "save",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "the act of preventing a ball or puck from going in the net",
     "vi": "cú cản phá",
-    "viDef": "việc chặn bóng hoặc đĩa vào lưới"
+    "viDef": "việc chặn bóng hoặc đĩa vào lưới",
+    "ex": "Wow what a save by the goalie!",
+    "exHit": "save",
+    "exVi": "Wow, cú cản phá tuyệt vời của thủ môn!"
   },
   {
     "word": "puck",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "small, round, black object that is used to play hockey",
     "vi": "đĩa côn cầu",
-    "viDef": "vật nhỏ, tròn, màu đen dùng để chơi khúc côn cầu"
+    "viDef": "vật nhỏ, tròn, màu đen dùng để chơi khúc côn cầu",
+    "ex": "Alright, the puck is back in play now.",
+    "exHit": "puck",
+    "exVi": "Được rồi, bóng khúc côn cầu đã trở lại cuộc chơi."
   },
   {
     "word": "win possession",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "get control",
     "vi": "giành được bóng",
-    "viDef": "nắm quyền kiểm soát"
+    "viDef": "nắm quyền kiểm soát",
+    "ex": "The Russians win possession and immediately set up their attack!",
+    "exHit": "win possession",
+    "exVi": "Đội Nga giành được quyền kiểm soát bóng và lập tức triển khai tấn công!"
   },
   {
     "word": "check",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "use your body to push someone in hockey",
     "vi": "húc chắn",
-    "viDef": "dùng người đẩy đối thủ trong khúc côn cầu"
+    "viDef": "dùng người đẩy đối thủ trong khúc côn cầu",
+    "ex": "Federov gets checked hard into the boards!",
+    "exHit": "checked",
+    "exVi": "Federov bị va mạnh vào thành sân!"
   },
   {
     "word": "ref",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "person who makes sure the players follow the rules in a game",
     "vi": "trọng tài",
-    "viDef": "người giám sát cầu thủ chơi đúng luật"
+    "viDef": "người giám sát cầu thủ chơi đúng luật",
+    "ex": "The ref is calling the players for the face-off...",
+    "exHit": "ref",
+    "exVi": "Trọng tài đang gọi các cầu thủ vào thế giao bóng..."
   },
   {
     "word": "face-off",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a way of beginning a game by dropping the puck between two players",
     "vi": "pha tranh đĩa mở đầu",
-    "viDef": "cách bắt đầu trận bằng việc thả đĩa giữa hai cầu thủ"
+    "viDef": "cách bắt đầu trận bằng việc thả đĩa giữa hai cầu thủ",
+    "ex": "The game starts with a face-off at center ice.",
+    "exHit": "face-off",
+    "exVi": "Trận đấu bắt đầu bằng pha giao bóng ở giữa sân băng."
   },
   {
     "word": "key",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "very important",
     "vi": "then chốt",
-    "viDef": "rất quan trọng"
+    "viDef": "rất quan trọng",
+    "ex": "You know, Rick, today is a key game between Russia and Canada.",
+    "exHit": "key",
+    "exVi": "Anh biết không, Rick, hôm nay là trận then chốt giữa Nga và Canada."
   },
   {
     "word": "finals",
@@ -77,7 +104,10 @@
     "type": "common noun, plural",
     "def": "last game or series of games in a tournament or championship",
     "vi": "vòng chung kết",
-    "viDef": "trận hoặc loạt trận cuối của giải"
+    "viDef": "trận hoặc loạt trận cuối của giải",
+    "ex": "As you know, the winner will move on to the finals.",
+    "exHit": "finals",
+    "exVi": "Như bạn biết, đội thắng sẽ vào chung kết."
   },
   {
     "word": "hockey stick",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "long wooden stick shaped like an L; used for playing hockey",
     "vi": "gậy côn cầu",
-    "viDef": "gậy gỗ dài hình chữ L để chơi khúc côn cầu"
+    "viDef": "gậy gỗ dài hình chữ L để chơi khúc côn cầu",
+    "ex": "He broke his hockey stick during the game.",
+    "exHit": "hockey stick",
+    "exVi": "Anh ấy làm gãy cây gậy khúc côn cầu trong trận đấu."
   },
   {
     "word": "arena",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "large building where sports are played",
     "vi": "nhà thi đấu",
-    "viDef": "tòa nhà lớn để chơi thể thao"
+    "viDef": "tòa nhà lớn để chơi thể thao",
+    "ex": "The arena was full of excited hockey fans.",
+    "exHit": "arena",
+    "exVi": "Nhà thi đấu chật kín những cổ động viên khúc côn cầu đầy phấn khích."
   },
   {
     "word": "rink",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "ice surface used to play hockey or skate on",
     "vi": "sân băng",
-    "viDef": "mặt băng để chơi côn cầu hoặc trượt"
+    "viDef": "mặt băng để chơi côn cầu hoặc trượt",
+    "ex": "We skate at the rink every Saturday.",
+    "exHit": "rink",
+    "exVi": "Thứ Bảy nào chúng tôi cũng trượt băng ở sân băng."
   },
   {
     "word": "NHL",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "National Hockey League; group of professional hockey teams that play in Canada and the US",
     "vi": "giải NHL",
-    "viDef": "National Hockey League; các đội côn cầu chuyên nghiệp ở Canada và Mỹ"
+    "viDef": "National Hockey League; các đội côn cầu chuyên nghiệp ở Canada và Mỹ",
+    "ex": "My favorite NHL team is playing tonight.",
+    "exHit": "NHL",
+    "exVi": "Tối nay đội NHL yêu thích của tôi thi đấu."
   },
   {
     "word": "league",
@@ -117,6 +159,9 @@
     "type": "common noun, singular",
     "def": "a group of sports teams that play against each other",
     "vi": "giải đấu",
-    "viDef": "nhóm các đội thi đấu với nhau"
+    "viDef": "nhóm các đội thi đấu với nhau",
+    "ex": "Our team is the best in the league this year.",
+    "exHit": "league",
+    "exVi": "Năm nay đội của chúng tôi là đội giỏi nhất giải."
   }
 ]

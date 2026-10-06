@@ -5,7 +5,10 @@
     "type": "",
     "def": "many times",
     "vi": "cả trăm lần",
-    "viDef": "rất nhiều lần"
+    "viDef": "rất nhiều lần",
+    "ex": "We have been over this a hundred times!",
+    "exHit": "a hundred times",
+    "exVi": "Chúng ta đã bàn chuyện này cả trăm lần rồi!"
   },
   {
     "word": "look after",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "take care of; take responsibility for",
     "vi": "trông nom",
-    "viDef": "chăm sóc, nhận trách nhiệm với ai"
+    "viDef": "chăm sóc, nhận trách nhiệm với ai",
+    "ex": "Who is going to look after a dog or a cat?",
+    "exHit": "look after",
+    "exVi": "Ai sẽ chăm sóc một con chó hay con mèo?"
   },
   {
     "word": "bathe",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to wash",
     "vi": "tắm cho",
-    "viDef": "rửa ráy"
+    "viDef": "rửa ráy",
+    "ex": "I'll feed it, bathe it and walk it every day!",
+    "exHit": "bathe",
+    "exVi": "Con sẽ cho nó ăn, tắm cho nó và dắt nó đi dạo mỗi ngày!"
   },
   {
     "word": "breed",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a particular kind of dog",
     "vi": "giống",
-    "viDef": "một loại giống chó nhất định"
+    "viDef": "một loại giống chó nhất định",
+    "ex": "Plus, our apartment is too small for that breed of dog.",
+    "exHit": "breed",
+    "exVi": "Hơn nữa, căn hộ của chúng ta quá nhỏ cho giống chó đó."
   },
   {
     "word": "take it from there",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to begin with",
     "vi": "rồi tính tiếp",
-    "viDef": "khởi đầu từ đó"
+    "viDef": "khởi đầu từ đó",
+    "ex": "I'll tell you what, I can get you some hamsters and we'll take it from there.",
+    "exHit": "take it from there",
+    "exVi": "Mẹ nói con nghe, mẹ có thể mua cho con vài con chuột đồng và rồi chúng ta tính tiếp từ đó."
   },
   {
     "word": "awesome",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "extremely good",
     "vi": "tuyệt cú",
-    "viDef": "cực kỳ tốt"
+    "viDef": "cực kỳ tốt",
+    "ex": "A parrot would be awesome!",
+    "exHit": "awesome",
+    "exVi": "Một con vẹt thì tuyệt vời!"
   },
   {
     "word": "dog leash",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a rope used to lead a dog",
     "vi": "dây dắt chó",
-    "viDef": "dây dùng để dắt con chó"
+    "viDef": "dây dùng để dắt con chó",
+    "ex": "Please hold the dog leash tightly when we cross the busy street.",
+    "exHit": "dog leash",
+    "exVi": "Làm ơn nắm chặt dây dắt chó khi chúng ta băng qua con phố đông đúc."
   },
   {
     "word": "Veterinarian",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a doctor who specializes in treating animals",
     "vi": "bác sĩ thú y",
-    "viDef": "người chuyên chữa bệnh cho động vật"
+    "viDef": "người chuyên chữa bệnh cho động vật",
+    "ex": "We took our sick puppy to the Veterinarian this morning.",
+    "exHit": "Veterinarian",
+    "exVi": "Sáng nay chúng tôi đưa chú chó con bị bệnh đến bác sĩ thú y."
   },
   {
     "word": "kitty litter",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a substance which cats use as the bathroom",
     "vi": "cát vệ sinh cho mèo",
-    "viDef": "chất mèo dùng làm chỗ đi vệ sinh"
+    "viDef": "chất mèo dùng làm chỗ đi vệ sinh",
+    "ex": "Don't forget to change the kitty litter in the box every day.",
+    "exHit": "kitty litter",
+    "exVi": "Đừng quên thay cát vệ sinh cho mèo trong hộp mỗi ngày."
   },
   {
     "word": "bird cage",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a enclosure for pet birds",
     "vi": "lồng chim",
-    "viDef": "chỗ quây để nuôi chim"
+    "viDef": "chỗ quây để nuôi chim",
+    "ex": "We bought a large bird cage for our new parrot.",
+    "exHit": "bird cage",
+    "exVi": "Chúng tôi mua một cái lồng chim lớn cho chú vẹt mới."
   },
   {
     "word": "collar",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "a pet accessory usually used to identify pets",
     "vi": "vòng cổ",
-    "viDef": "phụ kiện cho vật nuôi, thường để nhận biết con vật"
+    "viDef": "phụ kiện cho vật nuôi, thường để nhận biết con vật",
+    "ex": "The puppy wears a red collar with his name on it.",
+    "exHit": "collar",
+    "exVi": "Chú chó con đeo một chiếc vòng cổ màu đỏ có khắc tên."
   }
 ]

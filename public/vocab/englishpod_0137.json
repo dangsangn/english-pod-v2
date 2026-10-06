@@ -5,7 +5,10 @@
     "type": "common noun, non-variable",
     "def": "act of transferring data between computers",
     "vi": "tải xuống",
-    "viDef": "việc chuyển dữ liệu giữa các máy tính"
+    "viDef": "việc chuyển dữ liệu giữa các máy tính",
+    "ex": "This is for broadband internet with a download speed of five hundred and twelve kbps.",
+    "exHit": "download",
+    "exVi": "Đây là gói internet băng thông rộng với tốc độ tải xuống là năm trăm mười hai kbps."
   },
   {
     "word": "(someone's) needs",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "an individual's necessary requirements",
     "vi": "nhu cầu của ai",
-    "viDef": "những thứ một người cần"
+    "viDef": "những thứ một người cần",
+    "ex": "Well, this connection might be a bit too slow for your needs.",
+    "exHit": "needs",
+    "exVi": "Kết nối này có thể hơi chậm so với nhu cầu của anh."
   },
   {
     "word": "wireless",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "not using wires to send and receive data",
     "vi": "không dây",
-    "viDef": "truyền và nhận dữ liệu mà không cần dây"
+    "viDef": "truyền và nhận dữ liệu mà không cần dây",
+    "ex": "This package also includes a wireless router and a personal firewall absolutely free!",
+    "exHit": "wireless",
+    "exVi": "Gói này còn kèm một bộ định tuyến không dây và tường lửa cá nhân hoàn toàn miễn phí!"
   },
   {
     "word": "firewall",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "device used to protect a computer against intruders",
     "vi": "tường lửa",
-    "viDef": "thiết bị bảo vệ máy tính khỏi kẻ xâm nhập"
+    "viDef": "thiết bị bảo vệ máy tính khỏi kẻ xâm nhập",
+    "ex": "This package also includes a wireless router and a personal firewall absolutely free!",
+    "exHit": "firewall",
+    "exVi": "Gói này còn kèm một bộ định tuyến không dây và tường lửa cá nhân hoàn toàn miễn phí!"
   },
   {
     "word": "broadband internet",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "fast internet connection",
     "vi": "internet băng rộng",
-    "viDef": "đường mạng tốc độ cao"
+    "viDef": "đường mạng tốc độ cao",
+    "ex": "This is for broadband internet with a download speed of five hundred and twelve kbps.",
+    "exHit": "broadband internet",
+    "exVi": "Đây là gói internet băng thông rộng với tốc độ tải xuống là năm trăm mười hai kbps."
   },
   {
     "word": "throw in",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "to offer for free",
     "vi": "tặng thêm",
-    "viDef": "cho không, khỏi tính tiền"
+    "viDef": "cho không, khỏi tính tiền",
+    "ex": "And we'll throw in this pen drive!",
+    "exHit": "throw in",
+    "exVi": "Và chúng tôi tặng kèm thêm chiếc USB này!"
   },
   {
     "word": "installation",
@@ -53,7 +71,10 @@
     "type": "common noun, non-variable",
     "def": "process of making ready for use",
     "vi": "việc lắp đặt",
-    "viDef": "quá trình chuẩn bị cho dùng được"
+    "viDef": "quá trình chuẩn bị cho dùng được",
+    "ex": "Do I have to pay an installation fee?",
+    "exHit": "installation",
+    "exVi": "Tôi có phải trả phí lắp đặt không?"
   },
   {
     "word": "lag",
@@ -61,7 +82,10 @@
     "type": "common noun, non-variable",
     "def": "a delay",
     "vi": "độ trễ",
-    "viDef": "khoảng chậm lại"
+    "viDef": "khoảng chậm lại",
+    "ex": "That way you can play games online without any lag.",
+    "exHit": "lag",
+    "exVi": "Như vậy bạn có thể chơi game trực tuyến mà không bị độ trễ nào."
   },
   {
     "word": "online",
@@ -69,7 +93,10 @@
     "type": "General Adverb",
     "def": "over the internet",
     "vi": "trên mạng",
-    "viDef": "qua internet"
+    "viDef": "qua internet",
+    "ex": "Oh, and watch movies online as well.",
+    "exHit": "online",
+    "exVi": "Ồ, và cũng có thể xem phim trực tuyến nữa."
   },
   {
     "word": "cable Internet",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "form of broadband internet service delivered over cable television network, relatively fast",
     "vi": "internet qua cáp",
-    "viDef": "mạng băng rộng đi theo hệ truyền hình cáp, tương đối nhanh"
+    "viDef": "mạng băng rộng đi theo hệ truyền hình cáp, tương đối nhanh",
+    "ex": "We have cable Internet at home, and it's pretty fast.",
+    "exHit": "cable Internet",
+    "exVi": "Nhà chúng tôi dùng internet cáp và nó khá nhanh."
   },
   {
     "word": "digital subscriber line",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "form of broadband internet service delivered over telephone network, relatively slow",
     "vi": "đường DSL",
-    "viDef": "mạng băng rộng đi theo dây điện thoại, tương đối chậm"
+    "viDef": "mạng băng rộng đi theo dây điện thoại, tương đối chậm",
+    "ex": "Our old house still uses a digital subscriber line, so it's slow.",
+    "exHit": "digital subscriber line",
+    "exVi": "Nhà cũ của chúng tôi vẫn dùng đường dây thuê bao số nên chậm."
   },
   {
     "word": "modem",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a device that allows data to be transferred between individual computers and networks",
     "vi": "modem",
-    "viDef": "thiết bị cho phép truyền dữ liệu giữa máy tính và mạng"
+    "viDef": "thiết bị cho phép truyền dữ liệu giữa máy tính và mạng",
+    "ex": "The internet stopped working, so I had to restart the modem.",
+    "exHit": "modem",
+    "exVi": "Internet bị mất nên tôi phải khởi động lại modem."
   },
   {
     "word": "antivirus software",
@@ -101,6 +137,9 @@
     "type": "phrase",
     "def": "software which detects harmful viruses on a computer",
     "vi": "phần mềm diệt virus",
-    "viDef": "chương trình phát hiện virus có hại trong máy"
+    "viDef": "chương trình phát hiện virus có hại trong máy",
+    "ex": "You should install antivirus software before you download anything.",
+    "exHit": "antivirus software",
+    "exVi": "Bạn nên cài phần mềm diệt virus trước khi tải bất cứ thứ gì."
   }
 ]

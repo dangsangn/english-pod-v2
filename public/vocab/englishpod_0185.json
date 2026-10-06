@@ -5,7 +5,10 @@
     "type": "",
     "def": "rural areas",
     "vi": "vùng nông thôn",
-    "viDef": "các khu vực nông thôn"
+    "viDef": "các khu vực nông thôn",
+    "ex": "I always wanted to own a farm, live out in the country, grow my own food!",
+    "exHit": "country",
+    "exVi": "Tôi luôn muốn có một trang trại, sống ở miền quê, tự trồng thức ăn!"
   },
   {
     "word": "graze",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to feed in a meadow or pasture",
     "vi": "gặm cỏ",
-    "viDef": "ăn trên đồng cỏ hoặc bãi chăn"
+    "viDef": "ăn trên đồng cỏ hoặc bãi chăn",
+    "ex": "It's just the cows that are grazing over there.",
+    "exHit": "grazing",
+    "exVi": "Chỉ là mấy con bò đang gặm cỏ ở đằng kia thôi."
   },
   {
     "word": "milk",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "get the milk from a cow",
     "vi": "vắt sữa",
-    "viDef": "lấy sữa từ con bò"
+    "viDef": "lấy sữa từ con bò",
+    "ex": "We can milk them later.",
+    "exHit": "milk",
+    "exVi": "Lát nữa chúng ta có thể vắt sữa chúng."
   },
   {
     "word": "don't know the first thing about",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "know little about",
     "vi": "không biết một mảy",
-    "viDef": "biết rất ít về việc gì"
+    "viDef": "biết rất ít về việc gì",
+    "ex": "Though I have to confess, I don't know the first thing about farming!",
+    "exHit": "don't know the first thing about",
+    "exVi": "Dù phải thú nhận là tôi chẳng biết tí gì về nghề nông!"
   },
   {
     "word": "stable",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a building for the shelter and feeding of domestic animals, especially horses and cattle",
     "vi": "chuồng gia súc",
-    "viDef": "nhà để nuôi và cho ăn gia súc, nhất là ngựa và bò"
+    "viDef": "nhà để nuôi và cho ăn gia súc, nhất là ngựa và bò",
+    "ex": "Relax, that was just the horses and donkeys that are in the stable.",
+    "exHit": "stable",
+    "exVi": "Đừng lo, đó chỉ là ngựa và lừa trong chuồng thôi."
   },
   {
     "word": "hack it",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "be able to manage or manage successfully",
     "vi": "kham được",
-    "viDef": "lo nổi, làm được việc đó"
+    "viDef": "lo nổi, làm được việc đó",
+    "ex": "I don't think I can hack it here out in the countryside.",
+    "exHit": "hack it",
+    "exVi": "Tôi không nghĩ mình xoay xở nổi ở vùng quê này."
   },
   {
     "word": "stall",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a compartment for one domestic animal in a barn or shed",
     "vi": "ô chuồng",
-    "viDef": "khoang riêng cho một con gia súc trong chuồng hoặc lán"
+    "viDef": "khoang riêng cho một con gia súc trong chuồng hoặc lán",
+    "ex": "The farmer led the horse into its stall for the night.",
+    "exHit": "stall",
+    "exVi": "Người nông dân dẫn con ngựa vào ngăn chuồng của nó cho buổi tối."
   },
   {
     "word": "pig sty",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a pen or enclosure for pigs; pigpen",
     "vi": "chuồng heo",
-    "viDef": "ô hoặc khu rào cho lợn"
+    "viDef": "ô hoặc khu rào cho lợn",
+    "ex": "The pig sty smells terrible after the rain.",
+    "exHit": "pig sty",
+    "exVi": "Chuồng lợn bốc mùi kinh khủng sau cơn mưa."
   },
   {
     "word": "pen",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a small enclosure for domestic animals",
     "vi": "ràn, ô rào",
-    "viDef": "khu rào nhỏ cho gia súc"
+    "viDef": "khu rào nhỏ cho gia súc",
+    "ex": "The farmer keeps the baby goats in a small pen.",
+    "exHit": "pen",
+    "exVi": "Người nông dân nhốt mấy con dê con trong một cái chuồng nhỏ."
   },
   {
     "word": "chicken coop",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "an enclosure or cage for chickens",
     "vi": "chuồng gà",
-    "viDef": "ô hoặc lồng nuôi gà"
+    "viDef": "ô hoặc lồng nuôi gà",
+    "ex": "We collect fresh eggs from the chicken coop every morning.",
+    "exHit": "chicken coop",
+    "exVi": "Sáng nào chúng tôi cũng nhặt trứng tươi từ chuồng gà."
   },
   {
     "word": "herd",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "a group of cattle or other domestic animals of a single kind kept together",
     "vi": "đàn gia súc",
-    "viDef": "nhóm bò hoặc gia súc cùng loài nuôi chung"
+    "viDef": "nhóm bò hoặc gia súc cùng loài nuôi chung",
+    "ex": "A herd of cows was crossing the road near the farm.",
+    "exHit": "herd",
+    "exVi": "Một đàn bò đang băng qua con đường gần trang trại."
   }
 ]

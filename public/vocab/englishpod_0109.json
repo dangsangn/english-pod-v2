@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "good times and bad times",
     "vi": "lúc thăng lúc trầm",
-    "viDef": "khi vui khi buồn"
+    "viDef": "khi vui khi buồn",
+    "ex": "I mean, we've had our ups and downs, and we have the occasional disagreement, but we're happy together, aren't we?",
+    "exHit": "ups and downs",
+    "exVi": "Ý tôi là, chúng ta có lúc thăng lúc trầm, thỉnh thoảng bất đồng, nhưng chúng ta vẫn hạnh phúc bên nhau, đúng không?"
   },
   {
     "word": "break up",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "end the romantic relationship",
     "vi": "chia tay",
-    "viDef": "kết thúc quan hệ tình cảm"
+    "viDef": "kết thúc quan hệ tình cảm",
+    "ex": "You're breaking up with me because I'm perfect?",
+    "exHit": "breaking up",
+    "exVi": "Anh chia tay em vì em hoàn hảo sao?"
   },
   {
     "word": "work out",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "solve, overcome",
     "vi": "giải quyết được",
-    "viDef": "xử lý, vượt qua"
+    "viDef": "xử lý, vượt qua",
+    "ex": "Whatever it is, we can work it out.",
+    "exHit": "work it out",
+    "exVi": "Dù là chuyện gì, chúng ta cũng có thể giải quyết được."
   },
   {
     "word": "get through",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "solve, overcome",
     "vi": "vượt qua",
-    "viDef": "giải quyết, chịu đựng cho qua"
+    "viDef": "giải quyết, chịu đựng cho qua",
+    "ex": "I know that we can get through this, but we gotta stick together!",
+    "exHit": "get through",
+    "exVi": "Anh biết chúng ta có thể vượt qua chuyện này, nhưng chúng ta phải gắn bó với nhau!"
   },
   {
     "word": "stick together",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "stay together and help each other",
     "vi": "sát cánh bên nhau",
-    "viDef": "ở bên nhau và cùng giúp nhau"
+    "viDef": "ở bên nhau và cùng giúp nhau",
+    "ex": "I know that we can get through this, but we gotta stick together!",
+    "exHit": "stick together",
+    "exVi": "Anh biết chúng ta có thể vượt qua chuyện này, nhưng chúng ta phải gắn bó với nhau!"
   },
   {
     "word": "call off",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "to cancel or postpone",
     "vi": "hủy, hoãn",
-    "viDef": "bỏ hoặc dời lại"
+    "viDef": "bỏ hoặc dời lại",
+    "ex": "They had to call off the wedding at the last minute.",
+    "exHit": "call off",
+    "exVi": "Họ phải hủy đám cưới vào phút chót."
   },
   {
     "word": "settle down",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "to begin living a stable and orderly life",
     "vi": "an cư lập nghiệp",
-    "viDef": "bắt đầu sống ổn định, có nề nếp"
+    "viDef": "bắt đầu sống ổn định, có nề nếp",
+    "ex": "We want to settle down and start a family soon.",
+    "exHit": "settle down",
+    "exVi": "Chúng tôi muốn ổn định cuộc sống và sớm lập gia đình."
   },
   {
     "word": "cohabit",
@@ -61,7 +82,10 @@
     "type": "principle verb, present simple",
     "def": "to live together in a sexual relationship, especially when not legally married.",
     "vi": "sống chung",
-    "viDef": "ở cùng nhau như vợ chồng dù chưa cưới"
+    "viDef": "ở cùng nhau như vợ chồng dù chưa cưới",
+    "ex": "Many couples cohabit for a few years before they marry.",
+    "exHit": "cohabit",
+    "exVi": "Nhiều cặp đôi sống chung vài năm trước khi kết hôn."
   },
   {
     "word": "propose",
@@ -69,7 +93,10 @@
     "type": "principle verb, present simple",
     "def": "To form or make a proposal, especially of marriage.",
     "vi": "cầu hôn",
-    "viDef": "ngỏ lời, nhất là lời cưới xin"
+    "viDef": "ngỏ lời, nhất là lời cưới xin",
+    "ex": "He plans to propose to her on the beach tonight.",
+    "exHit": "propose",
+    "exVi": "Anh ấy định cầu hôn cô ấy trên bãi biển tối nay."
   },
   {
     "word": "cheat on",
@@ -77,6 +104,9 @@
     "type": "phrase",
     "def": "be sexually unfaithful to one's partner in marriage",
     "vi": "ngoại tình",
-    "viDef": "không chung thủy với vợ hoặc chồng mình"
+    "viDef": "không chung thủy với vợ hoặc chồng mình",
+    "ex": "I would never cheat on you, I promise.",
+    "exHit": "cheat on",
+    "exVi": "Anh sẽ không bao giờ phản bội em, anh hứa."
   }
 ]

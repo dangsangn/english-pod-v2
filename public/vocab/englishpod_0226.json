@@ -5,7 +5,10 @@
     "type": "",
     "def": "increase in size, quantity, or worth",
     "vi": "gây quỹ, nâng lên",
-    "viDef": "làm tăng về cỡ, số lượng hoặc giá trị"
+    "viDef": "làm tăng về cỡ, số lượng hoặc giá trị",
+    "ex": "But we need to raise enough money for the school fundraiser so that our class can win the pizza party!",
+    "exHit": "raise",
+    "exVi": "Nhưng chúng ta cần quyên đủ tiền cho buổi gây quỹ của trường để lớp mình thắng tiệc pizza!"
   },
   {
     "word": "door to door",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "from one house to the next",
     "vi": "gõ từng nhà",
-    "viDef": "từ nhà này sang nhà kế"
+    "viDef": "từ nhà này sang nhà kế",
+    "ex": "I hate going door to door, and I hate asking for money.",
+    "exHit": "door to door",
+    "exVi": "Tôi ghét đi gõ cửa từng nhà, và tôi ghét xin tiền."
   },
   {
     "word": "driveway",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "short private road from a street to a house",
     "vi": "đường vào nhà",
-    "viDef": "lối riêng ngắn từ đường lớn vào nhà"
+    "viDef": "lối riêng ngắn từ đường lớn vào nhà",
+    "ex": "There are two cars in the driveway and I see lights on in the house!",
+    "exHit": "driveway",
+    "exVi": "Có hai chiếc xe ở lối vào nhà và tôi thấy đèn trong nhà đang bật!"
   },
   {
     "word": "sponsor",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "agree to pay for an event or activity",
     "vi": "tài trợ",
-    "viDef": "đồng ý chi tiền cho một sự kiện hoặc hoạt động"
+    "viDef": "đồng ý chi tiền cho một sự kiện hoặc hoạt động",
+    "ex": "Would you like to sponsor us or make a donation to.",
+    "exHit": "sponsor",
+    "exVi": "Bạn có muốn tài trợ cho chúng tôi hoặc quyên góp cho..."
   },
   {
     "word": "donation",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the act of giving to a fund or cause",
     "vi": "khoản quyên góp",
-    "viDef": "việc góp vào một quỹ hoặc một việc thiện"
+    "viDef": "việc góp vào một quỹ hoặc một việc thiện",
+    "ex": "Would you like to sponsor us or make a donation to.",
+    "exHit": "donation",
+    "exVi": "Bạn có muốn tài trợ cho chúng tôi hoặc quyên góp cho..."
   },
   {
     "word": "solicit",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "seek to obtain by persuasion, entreaty, or formal",
     "vi": "vận động xin",
-    "viDef": "tìm cách nhận được bằng cách thuyết phục, cầu xin hoặc theo thể thức chính thức"
+    "viDef": "tìm cách nhận được bằng cách thuyết phục, cầu xin hoặc theo thể thức chính thức",
+    "ex": "No soliciting.",
+    "exHit": "soliciting",
+    "exVi": "Cấm chào hàng."
   },
   {
     "word": "fundraiser",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a person or an action which collects money for particular purposes",
     "vi": "buổi gây quỹ",
-    "viDef": "người hoặc hoạt động thu tiền cho một mục đích nhất định"
+    "viDef": "người hoặc hoạt động thu tiền cho một mục đích nhất định",
+    "ex": "We would like to know if you want to sponsor us in our school fundraiser.",
+    "exHit": "fundraiser",
+    "exVi": "Chúng tôi muốn biết bạn có muốn tài trợ cho chúng tôi trong buổi gây quỹ của trường không."
   },
   {
     "word": "generous",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to be very giving",
     "vi": "hào tâm",
-    "viDef": "rất sẵn lòng cho đi"
+    "viDef": "rất sẵn lòng cho đi",
+    "ex": "She is so generous that she gives food to anyone who is hungry.",
+    "exHit": "generous",
+    "exVi": "Cô ấy hào phóng đến mức cho đồ ăn bất cứ ai đang đói."
   },
   {
     "word": "embarrassed",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the feeling of being uncomfortable",
     "vi": "ngượng",
-    "viDef": "cảm giác không thoải mái"
+    "viDef": "cảm giác không thoải mái",
+    "ex": "I felt really embarrassed when I forgot my friend's name at the fundraiser.",
+    "exHit": "embarrassed",
+    "exVi": "Tôi thấy rất xấu hổ khi quên tên bạn mình tại buổi gây quỹ."
   },
   {
     "word": "stingy",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "the reluctance to be giving",
     "vi": "bủn xỉn",
-    "viDef": "không muốn cho đi"
+    "viDef": "không muốn cho đi",
+    "ex": "Don't be so stingy, just give a little money to the school.",
+    "exHit": "stingy",
+    "exVi": "Đừng keo kiệt thế, hãy đóng góp chút tiền cho trường đi."
   },
   {
     "word": "avoid",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "to stay clear of someone or something",
     "vi": "tránh mặt",
-    "viDef": "giữ khoảng cách với ai hoặc điều gì"
+    "viDef": "giữ khoảng cách với ai hoặc điều gì",
+    "ex": "I tried to avoid the neighbors because I didn't want to donate.",
+    "exHit": "avoid",
+    "exVi": "Tôi cố tránh mặt hàng xóm vì không muốn quyên góp."
   }
 ]

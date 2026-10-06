@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "mess up, make a mistake, fail",
     "vi": "làm hỏng việc",
-    "viDef": "gây lỗi, thất bại"
+    "viDef": "gây lỗi, thất bại",
+    "ex": "I've carefully mapped this out, so don't screw it up.",
+    "exHit": "screw it up",
+    "exVi": "Tôi đã vạch kế hoạch cẩn thận rồi, nên đừng làm hỏng nó."
   },
   {
     "word": "map out",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "planned, thought of",
     "vi": "vạch ra",
-    "viDef": "đã tính toán, lên kế hoạch"
+    "viDef": "đã tính toán, lên kế hoạch",
+    "ex": "I've carefully mapped this out, so don't screw it up.",
+    "exHit": "mapped this out",
+    "exVi": "Tôi đã vạch kế hoạch cẩn thận rồi, nên đừng làm hỏng nó."
   },
   {
     "word": "patch (someone) through",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "connect or communicate over the telephone",
     "vi": "nối máy",
-    "viDef": "kết nối liên lạc qua điện thoại"
+    "viDef": "kết nối liên lạc qua điện thoại",
+    "ex": "Don't worry, we have the phones tapped, so the call will be patched through to me, and I'll pretend to be the transport company.",
+    "exHit": "patched through",
+    "exVi": "Đừng lo, chúng ta đã nghe lén điện thoại, nên cuộc gọi sẽ được nối thẳng cho tôi, và tôi sẽ giả làm công ty vận chuyển."
   },
   {
     "word": "tap",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "attach a device to a phone line to listen secretly",
     "vi": "gài máy nghe lén",
-    "viDef": "lắp thiết bị vào đường dây để nghe trộm"
+    "viDef": "lắp thiết bị vào đường dây để nghe trộm",
+    "ex": "Don't worry, we have the phones tapped, so the call will be patched through to me, and I'll pretend to be the transport company.",
+    "exHit": "tapped",
+    "exVi": "Đừng lo, chúng ta đã nghe lén điện thoại, nên cuộc gọi sẽ được nối thẳng cho tôi, và tôi sẽ giả làm công ty vận chuyển."
   },
   {
     "word": "greedy",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "want too much; always wanting more",
     "vi": "tham lam",
-    "viDef": "muốn quá nhiều, lúc nào cũng muốn thêm"
+    "viDef": "muốn quá nhiều, lúc nào cũng muốn thêm",
+    "ex": "Don't get greedy!",
+    "exHit": "greedy",
+    "exVi": "Đừng tham lam!"
   },
   {
     "word": "loose (someone's) cool",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "to not control your feeling or emotions",
     "vi": "mất bình tĩnh",
-    "viDef": "không kìm được cảm xúc"
+    "viDef": "không kìm được cảm xúc",
+    "ex": "Stay calm, and don't lose your cool when the police arrive.",
+    "exHit": "lose your cool",
+    "exVi": "Hãy bình tĩnh, và đừng mất bình tĩnh khi cảnh sát đến."
   },
   {
     "word": "clever",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "smart, intelligent",
     "vi": "khôn, lanh lợi",
-    "viDef": "thông minh"
+    "viDef": "thông minh",
+    "ex": "Ha ha, you are so clever boss!",
+    "exHit": "clever",
+    "exVi": "Ha ha, ông chủ thật thông minh!"
   },
   {
     "word": "replica",
@@ -61,7 +82,10 @@
     "type": "common noun, plural",
     "def": "a reproduction or copy of a product",
     "vi": "bản sao",
-    "viDef": "sản phẩm làm lại giống bản gốc"
+    "viDef": "sản phẩm làm lại giống bản gốc",
+    "ex": "We managed to get replicas of the one the guards wear when they pick up the money.",
+    "exHit": "replicas",
+    "exVi": "Chúng ta đã lấy được bản sao của cái mà bảo vệ đeo khi đi lấy tiền."
   },
   {
     "word": "heist",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "the act of stealing something from a shop or a bank (AmE, Informal)",
     "vi": "vụ cướp",
-    "viDef": "việc trộm ở cửa hàng hay ngân hàng (Anh-Mỹ, thân mật)"
+    "viDef": "việc trộm ở cửa hàng hay ngân hàng (Anh-Mỹ, thân mật)",
+    "ex": "The movie is about a bank heist in Paris.",
+    "exHit": "heist",
+    "exVi": "Bộ phim kể về một vụ cướp ngân hàng ở Paris."
   },
   {
     "word": "bust",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "an event where the police catch people doing a crime",
     "vi": "vụ bắt quả tang",
-    "viDef": "lần cảnh sát bắt được người đang phạm tội"
+    "viDef": "lần cảnh sát bắt được người đang phạm tội",
+    "ex": "The police made a big drug bust last night.",
+    "exHit": "bust",
+    "exVi": "Đêm qua cảnh sát đã tóm gọn một vụ buôn ma túy lớn."
   },
   {
     "word": "bandit",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "criminal who attacks and steals from people who travel",
     "vi": "cướp đường",
-    "viDef": "kẻ chặn đánh và lấy của người đi đường"
+    "viDef": "kẻ chặn đánh và lấy của người đi đường",
+    "ex": "A bandit stopped the bus and took everyone's money.",
+    "exHit": "bandit",
+    "exVi": "Một tên cướp chặn xe buýt và lấy hết tiền của mọi người."
   },
   {
     "word": "burglary",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "illegally entering a house or building to steal",
     "vi": "vụ đột nhập trộm",
-    "viDef": "vào nhà hay tòa nhà trái phép để lấy đồ"
+    "viDef": "vào nhà hay tòa nhà trái phép để lấy đồ",
+    "ex": "There was a burglary on our street last week.",
+    "exHit": "burglary",
+    "exVi": "Tuần trước có một vụ trộm đột nhập ở phố chúng tôi."
   },
   {
     "word": "escape route",
@@ -101,6 +137,9 @@
     "type": "common noun, singular",
     "def": "a planned way of going from one place to another and escaping",
     "vi": "đường tẩu thoát",
-    "viDef": "lối đã tính trước để chạy khỏi nơi nào"
+    "viDef": "lối đã tính trước để chạy khỏi nơi nào",
+    "ex": "We need an escape route in case something goes wrong.",
+    "exHit": "escape route",
+    "exVi": "Chúng ta cần một lối thoát phòng khi có chuyện xảy ra."
   }
 ]

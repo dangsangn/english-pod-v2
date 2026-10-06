@@ -5,7 +5,10 @@
     "type": "",
     "def": "high class",
     "vi": "sang",
-    "viDef": "hạng cao"
+    "viDef": "hạng cao",
+    "ex": "The restaurant has real class, with candles and fresh seafood.",
+    "exHit": "class",
+    "exVi": "Nhà hàng đó rất sang trọng, có nến và hải sản tươi."
   },
   {
     "word": "pricey",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "expensive",
     "vi": "đắt đỏ",
-    "viDef": "giá cao"
+    "viDef": "giá cao",
+    "ex": "It's still a bit pricey....",
+    "exHit": "pricey",
+    "exVi": "Vẫn hơi đắt..."
   },
   {
     "word": "marinated",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "To leave something to be soaked in a sauce for its flavour",
     "vi": "đã ướp",
-    "viDef": "để ngâm trong nước sốt cho thấm vị"
+    "viDef": "để ngâm trong nước sốt cho thấm vị",
+    "ex": "Yes, I would like some marinated grilled shrimp for starters and I'll also have the lobster.",
+    "exHit": "marinated",
+    "exVi": "Vâng, tôi muốn món tôm nướng ướp gia vị để khai vị, và tôi cũng sẽ dùng tôm hùm."
   },
   {
     "word": "starter",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "as the first step or part",
     "vi": "món khai vị",
-    "viDef": "phần hoặc bước đầu tiên"
+    "viDef": "phần hoặc bước đầu tiên",
+    "ex": "Yes, I would like some marinated grilled shrimp for starters and I'll also have the lobster.",
+    "exHit": "starters",
+    "exVi": "Vâng, tôi muốn món tôm nướng ướp gia vị để khai vị, và tôi cũng sẽ dùng tôm hùm."
   },
   {
     "word": "platter",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a course of a meal, usually consisting of a variety of foods served on the same plate.",
     "vi": "đĩa thập cẩm",
-    "viDef": "một phần của bữa ăn, thường gồm nhiều món dọn trên cùng một đĩa"
+    "viDef": "một phần của bữa ăn, thường gồm nhiều món dọn trên cùng một đĩa",
+    "ex": "That seafood platter sounds good.",
+    "exHit": "platter",
+    "exVi": "Đĩa hải sản tổng hợp đó nghe hay đấy."
   },
   {
     "word": "clams",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "Edible sea creature that buries it self in the sand.",
     "vi": "nghêu",
-    "viDef": "sinh vật biển ăn được, vùi mình trong cát"
+    "viDef": "sinh vật biển ăn được, vùi mình trong cát",
+    "ex": "It's a great combination of clams, scallops, squid mussels, calamari and fillets of salmon and tuna.",
+    "exHit": "clams",
+    "exVi": "Đó là sự kết hợp tuyệt vời của nghêu, sò điệp, mực ống, vẹm, mực chiên khoanh và phi lê cá hồi với cá ngừ."
   },
   {
     "word": "scallops",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "Edible sea creature similar to oysters that move in the water by opening and closing their shell.",
     "vi": "sò điệp",
-    "viDef": "sinh vật biển ăn được giống hàu, di chuyển bằng cách đóng mở vỏ"
+    "viDef": "sinh vật biển ăn được giống hàu, di chuyển bằng cách đóng mở vỏ",
+    "ex": "It's a great combination of clams, scallops, squid mussels, calamari and fillets of salmon and tuna.",
+    "exHit": "scallops",
+    "exVi": "Đó là sự kết hợp tuyệt vời của nghêu, sò điệp, mực ống, vẹm, mực chiên khoanh và phi lê cá hồi với cá ngừ."
   },
   {
     "word": "squid",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a sea creature having a having a torpedo-shaped body",
     "vi": "mực ống",
-    "viDef": "sinh vật biển có thân hình như quả ngư lôi"
+    "viDef": "sinh vật biển có thân hình như quả ngư lôi",
+    "ex": "It's a great combination of clams, scallops, squid mussels, calamari and fillets of salmon and tuna.",
+    "exHit": "squid",
+    "exVi": "Đó là sự kết hợp tuyệt vời của nghêu, sò điệp, mực ống, vẹm, mực chiên khoanh và phi lê cá hồi với cá ngừ."
   },
   {
     "word": "mussels",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Edible sea creature that attaches it to something such as a rock",
     "vi": "vẹm",
-    "viDef": "sinh vật biển ăn được, bám mình vào vật gì như tảng đá"
+    "viDef": "sinh vật biển ăn được, bám mình vào vật gì như tảng đá",
+    "ex": "It's a great combination of clams, scallops, squid mussels, calamari and fillets of salmon and tuna.",
+    "exHit": "mussels",
+    "exVi": "Đó là sự kết hợp tuyệt vời của nghêu, sò điệp, mực ống, vẹm, mực chiên khoanh và phi lê cá hồi với cá ngừ."
   },
   {
     "word": "calamari",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "cooked squid cut into rings.",
     "vi": "mực cắt khoanh",
-    "viDef": "mực đã chế biến, cắt thành vòng"
+    "viDef": "mực đã chế biến, cắt thành vòng",
+    "ex": "It's a great combination of clams, scallops, squid mussels, calamari and fillets of salmon and tuna.",
+    "exHit": "calamari",
+    "exVi": "Đó là sự kết hợp tuyệt vời của nghêu, sò điệp, mực ống, vẹm, mực chiên khoanh và phi lê cá hồi với cá ngừ."
   },
   {
     "word": "eel",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a creature with a long snakelike body, a smooth slimy skin",
     "vi": "lươn, cá chình",
-    "viDef": "loài vật thân dài như rắn, da trơn nhớt"
+    "viDef": "loài vật thân dài như rắn, da trơn nhớt",
+    "ex": "I tried grilled eel at the seafood place yesterday.",
+    "exHit": "eel",
+    "exVi": "Hôm qua tôi đã thử món lươn nướng ở quán hải sản."
   },
   {
     "word": "sushi",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "cold boiled rice moistened with rice vinegar, usually shaped into bite-size pieces and topped with raw seafood",
     "vi": "sushi",
-    "viDef": "cơm nguội trộn giấm, thường nắm thành miếng vừa ăn và phủ hải sản sống"
+    "viDef": "cơm nguội trộn giấm, thường nắm thành miếng vừa ăn và phủ hải sản sống",
+    "ex": "Let's order some sushi and share a seafood platter.",
+    "exHit": "sushi",
+    "exVi": "Mình gọi ít sushi và chia nhau một đĩa hải sản nhé."
   },
   {
     "word": "dodgy",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "something not good",
     "vi": "đáng ngờ",
-    "viDef": "thứ gì đó không ổn"
+    "viDef": "thứ gì đó không ổn",
+    "ex": "The fish at that stall looked a bit dodgy to me.",
+    "exHit": "dodgy",
+    "exVi": "Cá ở quầy đó trông hơi không ổn với tôi."
   },
   {
     "word": "crab",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "A hard shelled sea creature",
     "vi": "cua",
-    "viDef": "sinh vật biển có vỏ cứng"
+    "viDef": "sinh vật biển có vỏ cứng",
+    "ex": "I'd like the crab, please, with a little lemon.",
+    "exHit": "crab",
+    "exVi": "Cho tôi món cua, thêm một chút chanh nhé."
   }
 ]

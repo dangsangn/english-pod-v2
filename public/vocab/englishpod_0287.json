@@ -5,7 +5,10 @@
     "type": "",
     "def": "meet each other",
     "vi": "gặp hàn huyên",
-    "viDef": "gặp lại nhau"
+    "viDef": "gặp lại nhau",
+    "ex": "Anyway, it's been great to catch up, but I must be going, this is my floor.",
+    "exHit": "catch up",
+    "exVi": "Dù sao thì được gặp lại nói chuyện thật vui, nhưng tôi phải đi đây, đến tầng của tôi rồi."
   },
   {
     "word": "dedicated",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "have strong loyalty to someone or something",
     "vi": "hết lòng",
-    "viDef": "rất trung thành với ai hoặc điều gì"
+    "viDef": "rất trung thành với ai hoặc điều gì",
+    "ex": "I am a dedicated bachelor.",
+    "exHit": "dedicated",
+    "exVi": "Tôi là một người độc thân chính hiệu."
   },
   {
     "word": "likewise",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "also",
     "vi": "tôi cũng vậy",
-    "viDef": "cũng thế"
+    "viDef": "cũng thế",
+    "ex": "Likewise!",
+    "exHit": "Likewise",
+    "exVi": "Tôi cũng vậy!"
   },
   {
     "word": "yank your chain",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "deceive someone in a friendly or playful way",
     "vi": "trêu chơi",
-    "viDef": "gạt ai theo kiểu thân mật hoặc để vui"
+    "viDef": "gạt ai theo kiểu thân mật hoặc để vui",
+    "ex": "I'm just yanking your chain.",
+    "exHit": "yanking your chain",
+    "exVi": "Tôi chỉ đùa với bạn thôi."
   },
   {
     "word": "high school sweetheart",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the person who you loved in high school",
     "vi": "người thương thời phổ thông",
-    "viDef": "người bạn yêu hồi trung học"
+    "viDef": "người bạn yêu hồi trung học",
+    "ex": "We were high school sweetheart, didn't really work out between us, but I really can't complain either.",
+    "exHit": "high school sweetheart",
+    "exVi": "Chúng tôi từng là người yêu thời trung học, tuy không đi đến đâu nhưng tôi cũng chẳng có gì phải phàn nàn."
   },
   {
     "word": "reminisce",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to reflect and muse about old times",
     "vi": "hồi tưởng",
-    "viDef": "ngẫm nghĩ và nhắc lại chuyện xưa"
+    "viDef": "ngẫm nghĩ và nhắc lại chuyện xưa",
+    "ex": "We sat around and reminisce about our school days.",
+    "exHit": "reminisce",
+    "exVi": "Chúng tôi ngồi lại cùng hồi tưởng về thời đi học."
   },
   {
     "word": "stereotype",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to generalize a particular person or group; a generalization, a simplified image",
     "vi": "định kiến rập khuôn",
-    "viDef": "quy chung cho một người hoặc nhóm; hình dung khái quát, giản lược"
+    "viDef": "quy chung cho một người hoặc nhóm; hình dung khái quát, giản lược",
+    "ex": "It's unfair to stereotype all athletes as stupid.",
+    "exHit": "stereotype",
+    "exVi": "Thật không công bằng khi mặc định rằng mọi vận động viên đều ngốc."
   },
   {
     "word": "jock",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "an athlete, stereotypically popular but not very smart",
     "vi": "tay thể thao",
-    "viDef": "vận động viên, theo khuôn mẫu là nổi tiếng nhưng chẳng thông minh"
+    "viDef": "vận động viên, theo khuôn mẫu là nổi tiếng nhưng chẳng thông minh",
+    "ex": "The school jock was the captain of the football team.",
+    "exHit": "jock",
+    "exVi": "Anh chàng thể thao của trường là đội trưởng đội bóng đá."
   },
   {
     "word": "nerd",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a stereotype of someone who studies well but lacks in social skills",
     "vi": "dân gạo bài",
-    "viDef": "khuôn mẫu về người học giỏi nhưng kém kỹ năng giao tiếp"
+    "viDef": "khuôn mẫu về người học giỏi nhưng kém kỹ năng giao tiếp",
+    "ex": "He was a nerd in high school and always got top grades.",
+    "exHit": "nerd",
+    "exVi": "Hồi cấp ba cậu ấy là mọt sách và luôn đạt điểm cao nhất."
   },
   {
     "word": "cheerleader",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a person who leads the cheering at sports events; a person who rallies the crowd",
     "vi": "nữ sinh cổ động",
-    "viDef": "người dẫn phần cổ vũ ở các sự kiện thể thao; người khuấy động đám đông"
+    "viDef": "người dẫn phần cổ vũ ở các sự kiện thể thao; người khuấy động đám đông",
+    "ex": "She was a cheerleader and everyone knew her at school.",
+    "exHit": "cheerleader",
+    "exVi": "Cô ấy là hoạt náo viên và ai ở trường cũng biết cô."
   }
 ]

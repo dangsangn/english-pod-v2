@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "being respected and admired for being successful or important",
     "vi": "danh giá",
-    "viDef": "được kính trọng và ngưỡng mộ vì thành công hoặc quan trọng"
+    "viDef": "được kính trọng và ngưỡng mộ vì thành công hoặc quan trọng",
+    "ex": "It says here that the school that is dancing now is one of the oldest and most prestigious samba schools in Rio.",
+    "exHit": "prestigious",
+    "exVi": "Ở đây nói trường samba đang nhảy bây giờ là một trong những trường samba lâu đời và danh giá nhất ở Rio."
   },
   {
     "word": "ticket scalper",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "person that buys and re-sales tickets at a higher price",
     "vi": "dân bán vé chợ đen",
-    "viDef": "người mua vé rồi bán lại giá cao hơn"
+    "viDef": "người mua vé rồi bán lại giá cao hơn",
+    "ex": "Good thing we found that ticket scalper.",
+    "exHit": "ticket scalper",
+    "exVi": "May mà mình tìm được tay phe vé đó."
   },
   {
     "word": "once in a lifetime",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "something that happens very rarely, not common",
     "vi": "cả đời có một lần",
-    "viDef": "chuyện rất hiếm khi xảy ra"
+    "viDef": "chuyện rất hiếm khi xảy ra",
+    "ex": "Seriously, this is like a once in a lifetime opportunity!",
+    "exHit": "once in a lifetime",
+    "exVi": "Nói thật, đây gần như là cơ hội chỉ có một lần trong đời!"
   },
   {
     "word": "float",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "a vehicle with a platform used to carry an exhibit in a parade",
     "vi": "xe hoa",
-    "viDef": "xe có bệ chở mô hình trong đoàn diễu hành"
+    "viDef": "xe có bệ chở mô hình trong đoàn diễu hành",
+    "ex": "Look at that girl on the top of that float!",
+    "exHit": "float",
+    "exVi": "Nhìn cô gái trên đỉnh chiếc xe diễu hành kia kìa!"
   },
   {
     "word": "good thing",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "it is good that something happened",
     "vi": "may mà",
-    "viDef": "may là chuyện đó đã xảy ra"
+    "viDef": "may là chuyện đó đã xảy ra",
+    "ex": "Good thing we found that ticket scalper.",
+    "exHit": "Good thing",
+    "exVi": "May mà mình tìm được tay phe vé đó."
   },
   {
     "word": "stadium",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a large structure where sport events are held",
     "vi": "sân vận động",
-    "viDef": "công trình lớn để tổ chức thi đấu thể thao"
+    "viDef": "công trình lớn để tổ chức thi đấu thể thao",
+    "ex": "Fifty thousand fans were cheering loudly in the stadium.",
+    "exHit": "stadium",
+    "exVi": "Năm chục nghìn cổ động viên đang reo hò ầm ĩ trong sân vận động."
   },
   {
     "word": "festival",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "a special time or event when people gather to celebrate something",
     "vi": "lễ hội",
-    "viDef": "dịp mọi người tụ họp để ăn mừng"
+    "viDef": "dịp mọi người tụ họp để ăn mừng",
+    "ex": "The whole city goes crazy during the festival.",
+    "exHit": "festival",
+    "exVi": "Cả thành phố náo nhiệt hẳn lên trong lễ hội."
   },
   {
     "word": "Brasilia",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the capital of Brazil",
     "vi": "Brasília",
-    "viDef": "thủ đô của Brazil"
+    "viDef": "thủ đô của Brazil",
+    "ex": "Brasilia is the capital of Brazil, not Rio.",
+    "exHit": "Brasilia",
+    "exVi": "Brasilia là thủ đô của Brazil, chứ không phải Rio."
   },
   {
     "word": "take a chance",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "take a risk, do something that you would not usually do",
     "vi": "thử liều xem",
-    "viDef": "mạo hiểm, làm điều mình thường không làm"
+    "viDef": "mạo hiểm, làm điều mình thường không làm",
+    "ex": "Why not take a chance and join the samba parade?",
+    "exHit": "take a chance",
+    "exVi": "Sao bạn không liều một phen và tham gia cuộc diễu hành samba?"
   },
   {
     "word": "ditch",
@@ -77,6 +104,9 @@
     "type": "verb",
     "def": "leave someone on purpose (informal)",
     "vi": "bỏ mặc, cắt đuôi",
-    "viDef": "cố tình để ai lại (thân mật)"
+    "viDef": "cố tình để ai lại (thân mật)",
+    "ex": "Please don't ditch me at the party, okay?",
+    "exHit": "ditch",
+    "exVi": "Làm ơn đừng bỏ rơi tớ ở bữa tiệc nhé?"
   }
 ]

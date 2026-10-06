@@ -5,7 +5,10 @@
     "type": "",
     "def": "cause someone to feel admiration",
     "vi": "gây ấn tượng",
-    "viDef": "khiến ai thấy nể phục"
+    "viDef": "khiến ai thấy nể phục",
+    "ex": "Now, Miss Childs passed on your resume to me and I've had the chance to look it over and I must say I'm quite impressed.",
+    "exHit": "impressed",
+    "exVi": "Giờ, cô Childs đã chuyển hồ sơ của bạn cho tôi và tôi đã có dịp xem qua, và phải nói là tôi khá ấn tượng."
   },
   {
     "word": "wrap up",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to finish or end (something)",
     "vi": "gói lại phần cuối",
-    "viDef": "kết thúc hoặc chốt lại việc gì"
+    "viDef": "kết thúc hoặc chốt lại việc gì",
+    "ex": "Let me wrap up the presentation by summarising my key points.",
+    "exHit": "wrap up",
+    "exVi": "Để tôi kết thúc bài thuyết trình bằng cách tóm tắt những điểm chính."
   },
   {
     "word": "boom",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to grow or expand suddenly",
     "vi": "bùng nổ",
-    "viDef": "tăng hoặc nở rộ đột ngột"
+    "viDef": "tăng hoặc nở rộ đột ngột",
+    "ex": "It is clear to everyone in the computer industry that demand is booming, especially in the developing markets.",
+    "exHit": "booming",
+    "exVi": "Mọi người trong ngành máy tính đều thấy rõ nhu cầu đang bùng nổ, đặc biệt ở các thị trường đang phát triển."
   },
   {
     "word": "sum up",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to tell information again using fewer words",
     "vi": "tóm lại",
-    "viDef": "nói lại thông tin bằng ít lời hơn"
+    "viDef": "nói lại thông tin bằng ít lời hơn",
+    "ex": "Before we move on to the Q and A section I'd really like to leave you with a quote that really sums up everything that we've discussed today, and hopefully it will provide you with the same inspiration that it gives me.",
+    "exHit": "sums up",
+    "exVi": "Trước khi chuyển sang phần hỏi đáp, tôi muốn gửi đến quý vị một câu trích dẫn tóm gọn mọi điều chúng ta đã bàn hôm nay, và hy vọng nó sẽ truyền cho quý vị nguồn cảm hứng như đã truyền cho tôi."
   },
   {
     "word": "at the outset",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "at the beginning of something",
     "vi": "ngay từ đầu",
-    "viDef": "ở lúc mở đầu của việc gì"
+    "viDef": "ở lúc mở đầu của việc gì",
+    "ex": "As I mentioned at the outset, 2010 represents a key year for Alpha computers.",
+    "exHit": "at the outset",
+    "exVi": "Như tôi đã đề cập ngay từ đầu, năm 2010 là năm then chốt đối với máy tính Alpha."
   },
   {
     "word": "trend",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the general course or prevailing tendency",
     "vi": "xu thế",
-    "viDef": "chiều hướng chung hoặc khuynh hướng nổi trội"
+    "viDef": "chiều hướng chung hoặc khuynh hướng nổi trội",
+    "ex": "Sales show a clear trend toward online shopping.",
+    "exHit": "trend",
+    "exVi": "Doanh số cho thấy xu hướng rõ ràng hướng tới mua sắm trực tuyến."
   },
   {
     "word": "Emphasis",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "special stress laid upon, or importance attached to",
     "vi": "sự nhấn mạnh",
-    "viDef": "trọng tâm đặt vào hoặc tầm quan trọng gán cho điều gì"
+    "viDef": "trọng tâm đặt vào hoặc tầm quan trọng gán cho điều gì",
+    "ex": "The teacher puts special emphasis on good pronunciation.",
+    "exHit": "emphasis",
+    "exVi": "Giáo viên đặc biệt nhấn mạnh việc phát âm chuẩn."
   },
   {
     "word": "illustration",
@@ -61,6 +82,9 @@
     "type": "",
     "def": "the act of clarifying or explaining",
     "vi": "việc minh họa",
-    "viDef": "hành động làm rõ hoặc giải thích"
+    "viDef": "hành động làm rõ hoặc giải thích",
+    "ex": "The speaker used a simple illustration to explain the idea.",
+    "exHit": "illustration",
+    "exVi": "Diễn giả dùng một hình minh họa đơn giản để giải thích ý tưởng."
   }
 ]

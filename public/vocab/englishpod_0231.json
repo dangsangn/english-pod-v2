@@ -5,7 +5,10 @@
     "type": "",
     "def": "something that holds a person",
     "vi": "sự đỡ chân",
-    "viDef": "thứ nâng đỡ cho người ta"
+    "viDef": "thứ nâng đỡ cho người ta",
+    "ex": "They don't provide any support anymore.",
+    "exHit": "support",
+    "exVi": "Chúng không còn nâng đỡ gì nữa."
   },
   {
     "word": "strappy sandals",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a shoe with a bottom part having straps",
     "vi": "xăng-đan quai mảnh",
-    "viDef": "giày phần dưới có các dây quai"
+    "viDef": "giày phần dưới có các dây quai",
+    "ex": "We've got strappy sandals, sleek high heels, edgy pumps, or if you're looking for something a little more practical, we've got Mary Janes, ballerinas.",
+    "exHit": "strappy sandals",
+    "exVi": "Chúng tôi có giày sandal quai mảnh, giày cao gót thanh lịch, giày búp bê cá tính, hoặc nếu bạn muốn thứ thực tế hơn, chúng tôi có giày Mary Jane, giày ballerina."
   },
   {
     "word": "edgy pump",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a low-cut low-heeled shoe",
     "vi": "giày cao gót cá tính",
-    "viDef": "giày khoét thấp, gót thấp"
+    "viDef": "giày khoét thấp, gót thấp",
+    "ex": "We've got strappy sandals, sleek high heels, edgy pumps, or if you're looking for something a little more practical, we've got Mary Janes, ballerinas.",
+    "exHit": "edgy pumps",
+    "exVi": "Chúng tôi có giày sandal quai mảnh, giày cao gót thanh lịch, giày búp bê cá tính, hoặc nếu bạn muốn thứ thực tế hơn, chúng tôi có giày Mary Jane, giày ballerina."
   },
   {
     "word": "open-toe shoe",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the shoe with the toes exposed",
     "vi": "giày hở mũi",
-    "viDef": "giày để hở các ngón chân"
+    "viDef": "giày để hở các ngón chân",
+    "ex": "I love wearing open-toe shoes in the summer because my feet stay cool.",
+    "exHit": "open-toe shoes",
+    "exVi": "Tôi thích đi giày hở mũi vào mùa hè vì chân luôn mát."
   },
   {
     "word": "two-inch heel",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "length of the heel is 2 inches",
     "vi": "gót hai inch",
-    "viDef": "chiều cao gót là 2 inch"
+    "viDef": "chiều cao gót là 2 inch",
+    "ex": "These sandals have a two-inch heel, so they are easy to walk in.",
+    "exHit": "two-inch heel",
+    "exVi": "Đôi sandal này có gót cao hai inch nên đi rất dễ."
   },
   {
     "word": "pointed shoe",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the shoe having a narrow top",
     "vi": "giày mũi nhọn",
-    "viDef": "giày có phần trên thu hẹp"
+    "viDef": "giày có phần trên thu hẹp",
+    "ex": "Pointed shoes look elegant, but they can hurt my toes after a while.",
+    "exHit": "Pointed shoes",
+    "exVi": "Giày mũi nhọn trông thanh lịch nhưng đi một lúc là đau ngón chân."
   },
   {
     "word": "pinch",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "squeeze between the thumb and a finger",
     "vi": "cấn, kẹp đau",
-    "viDef": "kẹp giữa ngón cái và ngón khác"
+    "viDef": "kẹp giữa ngón cái và ngón khác",
+    "ex": "The length is right, but the shoe is too narrow and it's pinching my toes.",
+    "exHit": "pinching",
+    "exVi": "Chiều dài vừa rồi, nhưng giày quá hẹp và đang kẹp vào ngón chân tôi."
   },
   {
     "word": "insole",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the inner sole of a shoe",
     "vi": "lót trong",
-    "viDef": "lớp đế bên trong của chiếc giày"
+    "viDef": "lớp đế bên trong của chiếc giày",
+    "ex": "And there'd be no room for my insoles.",
+    "exHit": "insoles",
+    "exVi": "Và sẽ không còn chỗ cho miếng lót giày của tôi."
   },
   {
     "word": "cut into",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "tight and hurt the body with a sharp thing",
     "vi": "cấn vào da",
-    "viDef": "chật quá làm đau người bởi chỗ sắc"
+    "viDef": "chật quá làm đau người bởi chỗ sắc",
+    "ex": "That one looks like the back would cut into my heel.",
+    "exHit": "cut into",
+    "exVi": "Đôi đó trông như phần gót sau sẽ cứa vào gót chân tôi."
   },
   {
     "word": "snug",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "fitting closely",
     "vi": "vừa khít",
-    "viDef": "ôm sát người"
+    "viDef": "ôm sát người",
+    "ex": "These shoes feel a bit snug, but I think they will stretch.",
+    "exHit": "snug",
+    "exVi": "Đôi giày này hơi chật ôm sát, nhưng tôi nghĩ nó sẽ giãn ra."
   },
   {
     "word": "loose",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "not fitting closely or tightly",
     "vi": "rộng thùng thình",
-    "viDef": "không ôm sát hay chật"
+    "viDef": "không ôm sát hay chật",
+    "ex": "These boots are too loose, so my heels slip out when I walk.",
+    "exHit": "loose",
+    "exVi": "Đôi bốt này quá rộng nên gót chân tôi bị tuột ra khi đi."
   },
   {
     "word": "the (next) size up",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "one size bigger",
     "vi": "cỡ lớn hơn một số",
-    "viDef": "cỡ to hơn một bậc"
+    "viDef": "cỡ to hơn một bậc",
+    "ex": "These are a little tight, so can I try the next size up?",
+    "exHit": "next size up",
+    "exVi": "Đôi này hơi chật, vậy tôi thử cỡ lớn hơn một số được không?"
   },
   {
     "word": "the (next) size down",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "one size smaller",
     "vi": "cỡ nhỏ hơn một số",
-    "viDef": "cỡ nhỏ hơn một bậc"
+    "viDef": "cỡ nhỏ hơn một bậc",
+    "ex": "These are too big, so could I try the next size down?",
+    "exHit": "next size down",
+    "exVi": "Đôi này quá rộng, vậy tôi thử cỡ nhỏ hơn một số được không?"
   },
   {
     "word": "break in",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "to wear or use in order to make comfortable",
     "vi": "đi cho giãn",
-    "viDef": "mặc hoặc dùng cho quen chân, êm hơn"
+    "viDef": "mặc hoặc dùng cho quen chân, êm hơn",
+    "ex": "I need to break in these new shoes before our long hike.",
+    "exHit": "break in",
+    "exVi": "Tôi cần đi cho quen đôi giày mới này trước chuyến leo núi dài của chúng ta."
   }
 ]

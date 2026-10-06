@@ -5,7 +5,10 @@
     "type": "",
     "def": "having the usual characteristics (of)",
     "vi": "tiêu biểu",
-    "viDef": "có những đặc điểm thường thấy"
+    "viDef": "có những đặc điểm thường thấy",
+    "ex": "This is so typical.",
+    "exHit": "typical",
+    "exVi": "Đúng là kiểu này quá."
   },
   {
     "word": "direction",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "an instruction leading to a place or point",
     "vi": "chỉ dẫn đường",
-    "viDef": "lời hướng dẫn đến một chỗ"
+    "viDef": "lời hướng dẫn đến một chỗ",
+    "ex": "Will you just please stop and ask for directions?",
+    "exHit": "directions",
+    "exVi": "Anh dừng lại hỏi đường được không?"
   },
   {
     "word": "on sale",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "special offer or discount",
     "vi": "đang giảm giá",
-    "viDef": "có ưu đãi hoặc bớt giá"
+    "viDef": "có ưu đãi hoặc bớt giá",
+    "ex": "I told you we should buy that GPS that was on sale, but would you listen to me?",
+    "exHit": "on sale",
+    "exVi": "Em đã bảo là nên mua cái GPS đang giảm giá đó rồi, nhưng anh có chịu nghe em đâu?"
   },
   {
     "word": "get to",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "reach;be able to arrive at(in)",
     "vi": "tới được",
-    "viDef": "đến được, có thể đi tới"
+    "viDef": "đến được, có thể đi tới",
+    "ex": "Can you tell me how to get to Saint Mary's Church?",
+    "exHit": "get to",
+    "exVi": "Bạn có thể chỉ tôi cách đến nhà thờ Saint Mary không?"
   },
   {
     "word": "better off",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "be in a better condition",
     "vi": "khá hơn",
-    "viDef": "ở trong tình trạng tốt hơn"
+    "viDef": "ở trong tình trạng tốt hơn",
+    "ex": "If you would only listen to me more often, you would be better off.",
+    "exHit": "better off",
+    "exVi": "Giá mà anh chịu nghe em nhiều hơn thì anh đã có lợi hơn rồi."
   },
   {
     "word": "go around",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "circulate",
     "vi": "lưu truyền",
-    "viDef": "được truyền đi quanh"
+    "viDef": "được truyền đi quanh",
+    "ex": "The story is going around the whole neighborhood already.",
+    "exHit": "going around",
+    "exVi": "Câu chuyện đó đã lan khắp cả khu phố rồi."
   },
   {
     "word": "GPS",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "Global Positioning System",
     "vi": "định vị GPS",
-    "viDef": "Hệ thống định vị toàn cầu"
+    "viDef": "Hệ thống định vị toàn cầu",
+    "ex": "I told you we should buy that GPS that was on sale, but would you listen to me?",
+    "exHit": "GPS",
+    "exVi": "Em đã bảo là nên mua cái GPS đang giảm giá đó rồi, nhưng anh có chịu nghe em đâu?"
   },
   {
     "word": "shut your trap",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "shut up",
     "vi": "im cái miệng lại",
-    "viDef": "câm đi"
+    "viDef": "câm đi",
+    "ex": "I'll ask this guy for directions if it will shut your trap!",
+    "exHit": "shut your trap",
+    "exVi": "Anh sẽ hỏi người này đường nếu như vậy em chịu im miệng!"
   },
   {
     "word": "freeway",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A highway without tolls. Also known as an expressway",
     "vi": "đường cao tốc miễn phí",
-    "viDef": "đường lớn không thu phí, còn gọi là expressway"
+    "viDef": "đường lớn không thu phí, còn gọi là expressway",
+    "ex": "Take the freeway, it's much faster than the city streets.",
+    "exHit": "freeway",
+    "exVi": "Cứ đi đường cao tốc đi, nhanh hơn nhiều so với đường trong thành phố."
   },
   {
     "word": "Toll",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A fixed charge or tax for a privilege, especially for passage across a bridge or along a road.",
     "vi": "phí đường",
-    "viDef": "khoản thu cố định cho quyền đi qua, nhất là qua cầu hoặc trên một tuyến đường"
+    "viDef": "khoản thu cố định cho quyền đi qua, nhất là qua cầu hoặc trên một tuyến đường",
+    "ex": "You have to pay a toll to cross this bridge.",
+    "exHit": "toll",
+    "exVi": "Bạn phải trả phí qua cầu này."
   },
   {
     "word": "Pedestrian",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a person travelling on foot; walker",
     "vi": "người đi bộ",
-    "viDef": "người di chuyển bằng chân"
+    "viDef": "người di chuyển bằng chân",
+    "ex": "A pedestrian was waiting at the crosswalk when we turned.",
+    "exHit": "pedestrian",
+    "exVi": "Có một người đi bộ đang đợi ở vạch sang đường khi chúng tôi rẽ."
   },
   {
     "word": "middle of nowhere",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a remote or far away place where there are very few people or buildings",
     "vi": "nơi vắng bóng người",
-    "viDef": "chỗ xa xôi hẻo hút, rất ít người hoặc nhà cửa"
+    "viDef": "chỗ xa xôi hẻo hút, rất ít người hoặc nhà cửa",
+    "ex": "Our car broke down in the middle of nowhere.",
+    "exHit": "middle of nowhere",
+    "exVi": "Xe chúng tôi hỏng giữa một nơi hoang vắng."
   },
   {
     "word": "Hitchhiker",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "A person that travels by soliciting free rides along a road.",
     "vi": "người xin đi nhờ xe",
-    "viDef": "người đi lại bằng cách xin đi nhờ dọc đường"
+    "viDef": "người đi lại bằng cách xin đi nhờ dọc đường",
+    "ex": "We picked up a hitchhiker on the road to the coast.",
+    "exHit": "hitchhiker",
+    "exVi": "Chúng tôi chở một người đi nhờ xe trên đường ra biển."
   }
 ]

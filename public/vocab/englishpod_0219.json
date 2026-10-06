@@ -5,7 +5,10 @@
     "type": "",
     "def": "to cause to take place",
     "vi": "tổ chức",
-    "viDef": "làm cho việc gì diễn ra"
+    "viDef": "làm cho việc gì diễn ra",
+    "ex": "We're going to hold a baby shower for Amy on Saturday.",
+    "exHit": "hold",
+    "exVi": "Chúng tôi sẽ tổ chức tiệc chào mừng em bé cho Amy vào thứ Bảy."
   },
   {
     "word": "bib",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a napkin tied under the chin of baby while eating",
     "vi": "khăn yếm",
-    "viDef": "khăn buộc dưới cổ em bé khi ăn"
+    "viDef": "khăn buộc dưới cổ em bé khi ăn",
+    "ex": "What a great little bib for the baby!",
+    "exHit": "bib",
+    "exVi": "Cái yếm ăn nhỏ xinh cho em bé thật tuyệt!"
   },
   {
     "word": "come in handy",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "be useful for a certain purpose",
     "vi": "dùng được lắm",
-    "viDef": "có ích cho một việc nào đó"
+    "viDef": "có ích cho một việc nào đó",
+    "ex": "This will definitely come in handy!",
+    "exHit": "come in handy",
+    "exVi": "Cái này chắc chắn sẽ có ích!"
   },
   {
     "word": "crib",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "baby bed with high sides",
     "vi": "cũi em bé",
-    "viDef": "giường trẻ có thành cao"
+    "viDef": "giường trẻ có thành cao",
+    "ex": "A playpen and crib!",
+    "exHit": "crib",
+    "exVi": "Một cái quây chơi và một cái cũi!"
   },
   {
     "word": "the baby be due",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "expected date of childbirth",
     "vi": "ngày bé chào đời",
-    "viDef": "ngày dự kiến sinh"
+    "viDef": "ngày dự kiến sinh",
+    "ex": "When is the baby due?",
+    "exHit": "the baby due",
+    "exVi": "Khi nào em bé chào đời?"
   },
   {
     "word": "Expectation",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a pre-conceived thought of what could or should happen",
     "vi": "điều mong đợi",
-    "viDef": "ý nghĩ định trước về việc có thể hoặc nên xảy ra"
+    "viDef": "ý nghĩ định trước về việc có thể hoặc nên xảy ra",
+    "ex": "Our expectation was a small party, but fifty people came.",
+    "exHit": "expectation",
+    "exVi": "Chúng tôi dự tính là một bữa tiệc nhỏ, nhưng có đến năm mươi người đến."
   },
   {
     "word": "Gratitude",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "To be overly thankful",
     "vi": "lòng biết ơn",
-    "viDef": "sự cảm tạ tràn đầy"
+    "viDef": "sự cảm tạ tràn đầy",
+    "ex": "She thanked us with real gratitude for the gifts.",
+    "exHit": "gratitude",
+    "exVi": "Cô ấy cảm ơn chúng tôi bằng lòng biết ơn chân thành vì những món quà."
   },
   {
     "word": "Surprise",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "To have something happen unexpectedly",
     "vi": "điều bất ngờ",
-    "viDef": "việc xảy ra ngoài dự tính"
+    "viDef": "việc xảy ra ngoài dự tính",
+    "ex": "It was a complete surprise to everyone.",
+    "exHit": "surprise",
+    "exVi": "Điều đó hoàn toàn bất ngờ với mọi người."
   },
   {
     "word": "Necessity",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "To must have something",
     "vi": "thứ thiết yếu",
-    "viDef": "điều nhất định phải có"
+    "viDef": "điều nhất định phải có",
+    "ex": "A crib is a necessity for a newborn baby.",
+    "exHit": "necessity",
+    "exVi": "Một cái cũi là vật cần thiết cho trẻ sơ sinh."
   },
   {
     "word": "Practical",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "something which fits a certain need",
     "vi": "thiết thực",
-    "viDef": "thứ đáp ứng đúng một nhu cầu"
+    "viDef": "thứ đáp ứng đúng một nhu cầu",
+    "ex": "Diapers are a practical gift for new parents.",
+    "exHit": "practical",
+    "exVi": "Tã là món quà thiết thực cho các bậc cha mẹ mới."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "common noun, plural",
     "def": "little dish people have before meal",
     "vi": "món khai vị",
-    "viDef": "món nhỏ ăn trước bữa chính"
+    "viDef": "món nhỏ ăn trước bữa chính",
+    "ex": "I've been sitting here for the past twenty minutes and no one has offered me a glass of water, brought any bread to the table and our appetizers haven't been served yet!",
+    "exHit": "appetizers",
+    "exVi": "Tôi đã ngồi đây hai mươi phút rồi mà chẳng ai mang cho tôi ly nước, mang bánh mì ra bàn, và món khai vị của chúng tôi vẫn chưa được dọn lên!"
   },
   {
     "word": "establishment",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "place of business like a restaurant or hotel",
     "vi": "cơ sở kinh doanh",
-    "viDef": "chỗ làm ăn như nhà hàng hay khách sạn"
+    "viDef": "chỗ làm ăn như nhà hàng hay khách sạn",
+    "ex": "You know, in this kind of establishment, I'd expect much better service.",
+    "exHit": "establishment",
+    "exVi": "Bạn biết đấy, ở một nơi như thế này, tôi mong đợi dịch vụ tốt hơn nhiều."
   },
   {
     "word": "service",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "work done by someone to serve customers",
     "vi": "dịch vụ phục vụ",
-    "viDef": "việc làm để phục vụ khách"
+    "viDef": "việc làm để phục vụ khách",
+    "ex": "You know, in this kind of establishment, I'd expect much better service.",
+    "exHit": "service",
+    "exVi": "Bạn biết đấy, ở một nơi như thế này, tôi mong đợi dịch vụ tốt hơn nhiều."
   },
   {
     "word": "order",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "the list containing your choices of dishes",
     "vi": "phần gọi món",
-    "viDef": "danh sách món mình chọn"
+    "viDef": "danh sách món mình chọn",
+    "ex": "I'll check on your order right away.",
+    "exHit": "order",
+    "exVi": "Tôi sẽ kiểm tra món của quý khách ngay."
   },
   {
     "word": "foie gras",
@@ -37,7 +49,10 @@
     "type": "common noun, non-variable",
     "def": "a food made from the livers of geese",
     "vi": "gan ngỗng béo",
-    "viDef": "món làm từ gan ngỗng"
+    "viDef": "món làm từ gan ngỗng",
+    "ex": "The foie gras for the lady, and a mushroom soup for you.",
+    "exHit": "foie gras",
+    "exVi": "Gan ngỗng cho quý cô, và súp nấm cho quý ông."
   },
   {
     "word": "runny",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "more liquid than expected",
     "vi": "loãng nhão",
-    "viDef": "nhiều nước hơn mức đáng có"
+    "viDef": "nhiều nước hơn mức đáng có",
+    "ex": "This soup is obviously too runny, and it's over-seasoned.",
+    "exHit": "runny",
+    "exVi": "Món súp này rõ ràng là quá loãng, mà lại nêm quá đậm."
   },
   {
     "word": "over-seasoned",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "too salty",
     "vi": "nêm quá tay",
-    "viDef": "mặn quá"
+    "viDef": "mặn quá",
+    "ex": "The soup was over-seasoned, so I could not finish it.",
+    "exHit": "over-seasoned",
+    "exVi": "Món súp bị nêm quá đậm nên tôi không thể ăn hết."
   },
   {
     "word": "inedible",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "can not be eaten",
     "vi": "không ăn được",
-    "viDef": "chẳng thể ăn nổi"
+    "viDef": "chẳng thể ăn nổi",
+    "ex": "It's completely inedible!",
+    "exHit": "inedible",
+    "exVi": "Nó hoàn toàn không ăn nổi!"
   },
   {
     "word": "rubbery",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "difficult to chew",
     "vi": "dai như cao su",
-    "viDef": "khó nhai"
+    "viDef": "khó nhai",
+    "ex": "Take this foie gras back as well, it's rubbery and completely overcooked.",
+    "exHit": "rubbery",
+    "exVi": "Mang món gan ngỗng này đi luôn, nó dai và nấu quá chín."
   },
   {
     "word": "overcooked",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "be cooked overtime",
     "vi": "nấu quá lửa",
-    "viDef": "bị nấu quá lâu"
+    "viDef": "bị nấu quá lâu",
+    "ex": "Take this foie gras back as well, it's rubbery and completely overcooked.",
+    "exHit": "overcooked",
+    "exVi": "Mang món gan ngỗng này đi luôn, nó dai và nấu quá chín."
   },
   {
     "word": "portion size",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "the amount of food that is served to a person",
     "vi": "khẩu phần",
-    "viDef": "lượng đồ ăn dọn cho một người"
+    "viDef": "lượng đồ ăn dọn cho một người",
+    "ex": "And look at the portion size!",
+    "exHit": "portion size",
+    "exVi": "Và nhìn khẩu phần kìa!"
   },
   {
     "word": "sliver",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a small, thin piece",
     "vi": "miếng mỏng tí",
-    "viDef": "mẩu nhỏ và mỏng"
+    "viDef": "mẩu nhỏ và mỏng",
+    "ex": "How can you charge twenty-five dollars for a sliver of duck liver?",
+    "exHit": "sliver",
+    "exVi": "Sao có thể tính hai mươi lăm đô cho một lát gan vịt mỏng dính?"
   },
   {
     "word": "make a big deal",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "get very upset about something small",
     "vi": "làm to chuyện",
-    "viDef": "nổi giận vì việc cỏn con"
+    "viDef": "nổi giận vì việc cỏn con",
+    "ex": "The foie gras was fine, why are you making such a big deal?",
+    "exHit": "making such a big deal",
+    "exVi": "Món gan ngỗng ổn mà, sao bạn làm to chuyện thế?"
   },
   {
     "word": "comp",
@@ -109,7 +148,10 @@
     "type": "verb",
     "def": "be given to customers for free",
     "vi": "miễn phí cho khách",
-    "viDef": "được tặng, không tính tiền"
+    "viDef": "được tặng, không tính tiền",
+    "ex": "Are you trying to get our meal comped again?",
+    "exHit": "comped",
+    "exVi": "Bạn lại định để bữa ăn của chúng tôi được miễn phí nữa à?"
   },
   {
     "word": "shell out",
@@ -117,7 +159,10 @@
     "type": "phrase",
     "def": "to spend money",
     "vi": "bỏ tiền ra",
-    "viDef": "chi tiền"
+    "viDef": "chi tiền",
+    "ex": "If I'm shelling out my hard earned bucks, I expect value for money!",
+    "exHit": "shelling out",
+    "exVi": "Nếu tôi phải chi ra số tiền kiếm được vất vả, thì tôi mong nhận được giá trị xứng đáng!"
   },
   {
     "word": "hard earned",
@@ -125,7 +170,10 @@
     "type": "phrase",
     "def": "money you work hard for",
     "vi": "mồ hôi nước mắt",
-    "viDef": "tiền phải làm vất vả mới có"
+    "viDef": "tiền phải làm vất vả mới có",
+    "ex": "If I'm shelling out my hard earned bucks, I expect value for money!",
+    "exHit": "hard earned",
+    "exVi": "Nếu tôi phải chi ra số tiền kiếm được vất vả, thì tôi mong nhận được giá trị xứng đáng!"
   },
   {
     "word": "a bad aftertaste",
@@ -133,7 +181,10 @@
     "type": "phrase",
     "def": "a bad second taste",
     "vi": "hậu vị dở",
-    "viDef": "vị còn lại sau khi ăn không ngon"
+    "viDef": "vị còn lại sau khi ăn không ngon",
+    "ex": "This medicine leaves a bad aftertaste in my mouth.",
+    "exHit": "a bad aftertaste",
+    "exVi": "Loại thuốc này để lại vị khó chịu trong miệng tôi."
   },
   {
     "word": "bitter",
@@ -141,7 +192,10 @@
     "type": "Adjective",
     "def": "a strong, unpleasant taste that is opposite of sweet",
     "vi": "đắng",
-    "viDef": "vị gắt, khó chịu, trái với ngọt"
+    "viDef": "vị gắt, khó chịu, trái với ngọt",
+    "ex": "The coffee at this restaurant is too bitter for me.",
+    "exHit": "bitter",
+    "exVi": "Cà phê ở nhà hàng này quá đắng đối với tôi."
   },
   {
     "word": "rank",
@@ -149,7 +203,10 @@
     "type": "Adjective",
     "def": "a strong, unpleasant smell",
     "vi": "nồng khét",
-    "viDef": "mùi mạnh, khó chịu"
+    "viDef": "mùi mạnh, khó chịu",
+    "ex": "The fish smelled rank, so we sent it back.",
+    "exHit": "rank",
+    "exVi": "Con cá có mùi hôi nồng nên chúng tôi trả lại."
   },
   {
     "word": "rancid",
@@ -157,7 +214,10 @@
     "type": "Adjective",
     "def": "a rotten taste or smell",
     "vi": "hôi dầu, trở mùi",
-    "viDef": "vị hoặc mùi như đã hỏng"
+    "viDef": "vị hoặc mùi như đã hỏng",
+    "ex": "The butter tasted rancid, so I could not eat it.",
+    "exHit": "rancid",
+    "exVi": "Bơ có vị ôi thiu nên tôi không ăn được."
   },
   {
     "word": "unappealing",
@@ -165,6 +225,9 @@
     "type": "Adjective",
     "def": "not appealing; not attractive or tasty",
     "vi": "chẳng hấp dẫn",
-    "viDef": "không bắt mắt cũng chẳng ngon"
+    "viDef": "không bắt mắt cũng chẳng ngon",
+    "ex": "The soup looked unappealing, so nobody wanted to try it.",
+    "exHit": "unappealing",
+    "exVi": "Món súp trông kém hấp dẫn nên không ai muốn thử."
   }
 ]

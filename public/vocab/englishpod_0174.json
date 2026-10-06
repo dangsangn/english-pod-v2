@@ -5,7 +5,10 @@
     "type": "",
     "def": "have a manicure",
     "vi": "đi làm nail",
-    "viDef": "đi làm móng tay"
+    "viDef": "đi làm móng tay",
+    "ex": "I'm going to get my nails done before the party on Friday.",
+    "exHit": "get my nails done",
+    "exVi": "Tôi sẽ đi làm móng trước bữa tiệc hôm thứ Sáu."
   },
   {
     "word": "pamper",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "treat with excessive indulgence",
     "vi": "chăm chuốt cho sướng",
-    "viDef": "chiều theo mọi ý một cách quá đỗi"
+    "viDef": "chiều theo mọi ý một cách quá đỗi",
+    "ex": "Well, first of all, I like to pamper myself, and my nails look great.",
+    "exHit": "pamper",
+    "exVi": "Trước hết, tôi thích tự chiều chuộng bản thân, và móng tay của tôi trông rất đẹp."
   },
   {
     "word": "file",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "smooth with a file",
     "vi": "dũa",
-    "viDef": "mài cho nhẵn bằng cái dũa"
+    "viDef": "mài cho nhẵn bằng cái dũa",
+    "ex": "The manicurist will remove my cuticles, file my nails, and apply at least nails coats of nail polish!",
+    "exHit": "file",
+    "exVi": "Thợ làm móng sẽ cắt da thừa, giũa móng và sơn ít nhất hai lớp sơn móng!"
   },
   {
     "word": "coat",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "cover, surface",
     "vi": "phủ một lớp",
-    "viDef": "trải hoặc bao một lớp lên bề mặt"
+    "viDef": "trải hoặc bao một lớp lên bề mặt",
+    "ex": "The manicurist will remove my cuticles, file my nails, and apply at least nails coats of nail polish!",
+    "exHit": "coats",
+    "exVi": "Thợ làm móng sẽ cắt da thừa, giũa móng và sơn ít nhất hai lớp sơn móng!"
   },
   {
     "word": "apply",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to place in contact with; to lay or spread on",
     "vi": "thoa lên",
-    "viDef": "đặt vào, trải hoặc bôi lên"
+    "viDef": "đặt vào, trải hoặc bôi lên",
+    "ex": "The manicurist will remove my cuticles, file my nails, and apply at least nails coats of nail polish!",
+    "exHit": "apply",
+    "exVi": "Thợ làm móng sẽ cắt da thừa, giũa móng và sơn ít nhất hai lớp sơn móng!"
   },
   {
     "word": "French Manicure",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a special way of painting the nails so that it mimics the color of natural nails, with a clear, beige or soft pink polish on most of the nail and a white finish at the tips",
     "vi": "móng kiểu Pháp",
-    "viDef": "lối sơn móng cho giống màu tự nhiên, phần lớn móng sơn trong, be hoặc hồng nhạt, đầu móng sơn trắng"
+    "viDef": "lối sơn móng cho giống màu tự nhiên, phần lớn móng sơn trong, be hoặc hồng nhạt, đầu móng sơn trắng",
+    "ex": "I asked for a French manicure with white tips.",
+    "exHit": "French manicure",
+    "exVi": "Tôi yêu cầu làm móng kiểu Pháp với phần đầu móng màu trắng."
   },
   {
     "word": "nail clipper",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a mechanical device used to trim fingernails and toenails",
     "vi": "kìm bấm móng",
-    "viDef": "dụng cụ cắt móng tay, móng chân"
+    "viDef": "dụng cụ cắt móng tay, móng chân",
+    "ex": "Can I borrow your nail clipper because my nails are too long?",
+    "exHit": "nail clipper",
+    "exVi": "Cho tôi mượn cái bấm móng tay của bạn được không, vì móng tôi dài quá?"
   },
   {
     "word": "nail polish remover",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a solution made of acetone or ethyl acetate used to remove nail polish",
     "vi": "nước tẩy sơn móng",
-    "viDef": "dung dịch acetone hoặc ethyl acetate dùng xóa sơn móng"
+    "viDef": "dung dịch acetone hoặc ethyl acetate dùng xóa sơn móng",
+    "ex": "I ran out of nail polish remover, so I need to buy some.",
+    "exHit": "nail polish remover",
+    "exVi": "Tôi hết nước tẩy sơn móng tay rồi nên cần mua thêm."
   },
   {
     "word": "acrylic nails",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "fake nails made of acrylic: liquid acrylic is applied to a real nail and then hardened",
     "vi": "móng bột acrylic",
-    "viDef": "móng giả bằng acrylic: đắp acrylic lỏng lên móng thật rồi làm cứng"
+    "viDef": "móng giả bằng acrylic: đắp acrylic lỏng lên móng thật rồi làm cứng",
+    "ex": "She likes acrylic nails because they last for weeks.",
+    "exHit": "acrylic nails",
+    "exVi": "Cô ấy thích móng acrylic vì chúng giữ được nhiều tuần."
   },
   {
     "word": "gel nails",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "fake nails made of a gel: gel is applied to a real nail and then hardened",
     "vi": "móng gel",
-    "viDef": "móng giả bằng gel: phủ gel lên móng thật rồi làm cứng"
+    "viDef": "móng giả bằng gel: phủ gel lên móng thật rồi làm cứng",
+    "ex": "I'm thinking of trying gel nails this time.",
+    "exHit": "gel nails",
+    "exVi": "Lần này tôi đang nghĩ đến việc thử làm móng gel."
   }
 ]

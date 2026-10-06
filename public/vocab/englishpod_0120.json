@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "causes horror or disgust",
     "vi": "rùng rợn",
-    "viDef": "gây kinh hãi hoặc ghê tởm"
+    "viDef": "gây kinh hãi hoặc ghê tởm",
+    "ex": "This will be a gruesome match for sure.",
+    "exHit": "gruesome",
+    "exVi": "Đây chắc chắn sẽ là một trận đấu khốc liệt."
   },
   {
     "word": "square off",
@@ -13,7 +16,10 @@
     "type": "principle verb, present simple",
     "def": "to prepare to fight",
     "vi": "vào thế đối đầu",
-    "viDef": "sẵn sàng lâm chiến"
+    "viDef": "sẵn sàng lâm chiến",
+    "ex": "We are about to witness the legendary Italian Stallion himself, Rocky Balboa, square off against his lifetime rival, Apollo Creed!",
+    "exHit": "square off",
+    "exVi": "Chúng ta sắp chứng kiến Chiến mã Ý huyền thoại Rocky Balboa đối đầu kình địch cả đời Apollo Creed!"
   },
   {
     "word": "land",
@@ -21,7 +27,10 @@
     "type": "principle verb, present simple",
     "def": "land",
     "vi": "đánh trúng",
-    "viDef": "giáng được cú đánh vào đích"
+    "viDef": "giáng được cú đánh vào đích",
+    "ex": "Rocky landed a strong blow to his right eyebrow and cut him!",
+    "exHit": "landed",
+    "exVi": "Rocky giáng một đòn mạnh vào lông mày phải của anh ta và làm rách cả mày!"
   },
   {
     "word": "dodges",
@@ -29,7 +38,10 @@
     "type": "principle verb, present simple",
     "def": "avoid being hit by something",
     "vi": "né",
-    "viDef": "tránh không bị đánh trúng"
+    "viDef": "tránh không bị đánh trúng",
+    "ex": "Rocky dodges successfully and counterattacks with a strong right hook!",
+    "exHit": "dodges",
+    "exVi": "Rocky né thành công và phản công bằng một cú móc phải mạnh!"
   },
   {
     "word": "pounded",
@@ -37,7 +49,10 @@
     "type": "principle verb, past simple",
     "def": "hit hard multiple times",
     "vi": "bị nện tơi tả",
-    "viDef": "bị đánh mạnh nhiều lần"
+    "viDef": "bị đánh mạnh nhiều lần",
+    "ex": "Apollo is getting pounded!",
+    "exHit": "pounded",
+    "exVi": "Apollo đang bị đấm tơi tả!"
   },
   {
     "word": "mouth guard",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a plastic protective piece placed inside the mouth to protect the teeth",
     "vi": "miếng bảo vệ răng",
-    "viDef": "miếng nhựa đặt trong miệng để che răng"
+    "viDef": "miếng nhựa đặt trong miệng để che răng",
+    "ex": "Always wear a mouth guard when you spar.",
+    "exHit": "mouth guard",
+    "exVi": "Hãy luôn đeo bảo vệ răng khi tập đấu."
   },
   {
     "word": "trunks",
@@ -53,7 +71,10 @@
     "type": "common noun, plural",
     "def": "shorts worn for swimming or athletics",
     "vi": "quần đùi thể thao",
-    "viDef": "quần ngắn mặc khi bơi hoặc thi đấu"
+    "viDef": "quần ngắn mặc khi bơi hoặc thi đấu",
+    "ex": "He pulled on his red trunks and climbed into the ring.",
+    "exHit": "trunks",
+    "exVi": "Anh ấy mặc chiếc quần đùi đỏ và leo lên võ đài."
   },
   {
     "word": "jock strap",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "an elasticated belt with a pouch to support the genitals, worn by male athletes",
     "vi": "quần bảo hộ nam",
-    "viDef": "dây thun có túi đỡ phần dưới, dành cho nam vận động viên"
+    "viDef": "dây thun có túi đỡ phần dưới, dành cho nam vận động viên",
+    "ex": "Don't forget your jock strap before the boxing match.",
+    "exHit": "jock strap",
+    "exVi": "Đừng quên đồ bảo vệ vùng kín trước trận đấm bốc."
   },
   {
     "word": "head butt",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a quick strong blow with the head",
     "vi": "húc đầu",
-    "viDef": "cú đánh mạnh bằng đầu"
+    "viDef": "cú đánh mạnh bằng đầu",
+    "ex": "The referee warned him about the head butt.",
+    "exHit": "head butt",
+    "exVi": "Trọng tài cảnh cáo anh ta vì cú húc đầu."
   },
   {
     "word": "low blow",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "an ilegal blow below the waist",
     "vi": "cú đánh dưới đai",
-    "viDef": "đòn phạm luật nhắm dưới thắt lưng"
+    "viDef": "đòn phạm luật nhắm dưới thắt lưng",
+    "ex": "The referee called that punch a low blow.",
+    "exHit": "low blow",
+    "exVi": "Trọng tài cho rằng cú đấm đó là đòn đánh xuống dưới thắt lưng."
   }
 ]

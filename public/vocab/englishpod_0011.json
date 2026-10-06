@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "phrase used to introduce a piece of information",
     "vi": "không biết bạn nghe chưa",
-    "viDef": "câu dùng để mở đầu khi báo một thông tin"
+    "viDef": "câu dùng để mở đầu khi báo một thông tin",
+    "ex": "Oh, I don't know if you heard, but someone moved into that old house down the road.",
+    "exHit": "I don't know if you heard",
+    "exVi": "Ồ, không biết bạn đã nghe chưa, nhưng có người vừa chuyển vào ngôi nhà cũ dưới đường."
   },
   {
     "word": "fill me in",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "tell me about it",
     "vi": "kể tôi nghe với",
-    "viDef": "nói cho tôi biết chuyện đó"
+    "viDef": "nói cho tôi biết chuyện đó",
+    "ex": "You have to fill me in.",
+    "exHit": "fill me in",
+    "exVi": "Bạn phải kể cho tôi nghe đi."
   },
   {
     "word": "a bad feeling",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "a sense or feeling that something bad is going to happen",
     "vi": "linh cảm chẳng lành",
-    "viDef": "cảm giác sắp có chuyện xấu xảy ra"
+    "viDef": "cảm giác sắp có chuyện xấu xảy ra",
+    "ex": "I've got a bad feeling about him.",
+    "exHit": "a bad feeling",
+    "exVi": "Tôi có linh cảm xấu về anh ta."
   },
   {
     "word": "weird",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "strange, unusual",
     "vi": "kỳ quặc",
-    "viDef": "lạ lùng, khác thường"
+    "viDef": "lạ lùng, khác thường",
+    "ex": "Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out!",
+    "exHit": "weird",
+    "exVi": "À, hôm qua tôi mang quà tân gia qua, nhưng Armand bắt đầu cư xử rất kỳ lạ, rồi gần như đuổi tôi ra ngoài!"
   },
   {
     "word": "kick out",
@@ -37,7 +49,10 @@
     "type": "principle verb, past simple",
     "def": "make or force someone leave when they don't want to",
     "vi": "đuổi đi",
-    "viDef": "buộc ai đó phải rời đi dù họ không muốn"
+    "viDef": "buộc ai đó phải rời đi dù họ không muốn",
+    "ex": "Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out!",
+    "exHit": "kicked me out",
+    "exVi": "À, hôm qua tôi mang quà tân gia qua, nhưng Armand bắt đầu cư xử rất kỳ lạ, rồi gần như đuổi tôi ra ngoài!"
   },
   {
     "word": "creep me out",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "make me feel uncomfortable and a bit scared",
     "vi": "làm tôi rợn người",
-    "viDef": "khiến tôi thấy khó chịu và hơi sợ"
+    "viDef": "khiến tôi thấy khó chịu và hơi sợ",
+    "ex": "That old doll in the window really creeps me out.",
+    "exHit": "creeps me out",
+    "exVi": "Con búp bê cũ trong cửa sổ đó làm tôi rợn người thật sự."
   },
   {
     "word": "you'll never guess",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "phrase used to introduce a piece of news",
     "vi": "đố bạn đoán được",
-    "viDef": "câu dùng để mở đầu một tin mới"
+    "viDef": "câu dùng để mở đầu một tin mới",
+    "ex": "Well, you'll never guess what I saw this morning.",
+    "exHit": "you'll never guess",
+    "exVi": "À, bạn sẽ không đoán được sáng nay tôi đã thấy gì đâu."
   },
   {
     "word": "scare the heck out of me",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "cause someone to feel a lot of fear",
     "vi": "làm tôi sợ chết khiếp",
-    "viDef": "khiến ai đó sợ hãi tột độ"
+    "viDef": "khiến ai đó sợ hãi tột độ",
+    "ex": "You scared the heck out of me!",
+    "exHit": "scared the heck out of me",
+    "exVi": "Bạn làm tôi hết hồn!"
   },
   {
     "word": "bizarre",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "strange or unusual",
     "vi": "quái dị",
-    "viDef": "lạ lùng hoặc khác thường"
+    "viDef": "lạ lùng hoặc khác thường",
+    "ex": "The movie had a bizarre ending that nobody understood.",
+    "exHit": "bizarre",
+    "exVi": "Bộ phim có một cái kết kỳ quái mà không ai hiểu nổi."
   },
   {
     "word": "creepy",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "strange or scary, causing people to feel nervous and afraid",
     "vi": "rùng rợn",
-    "viDef": "kỳ quái hoặc đáng sợ, khiến người ta bất an và sợ hãi"
+    "viDef": "kỳ quái hoặc đáng sợ, khiến người ta bất an và sợ hãi",
+    "ex": "The empty hallway at night was creepy, so I turned on every light.",
+    "exHit": "creepy",
+    "exVi": "Hành lang vắng vẻ vào ban đêm rùng rợn đến mức tôi bật hết đèn lên."
   },
   {
     "word": "vampire",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a dead person who drinks the blood of living people",
     "vi": "ma cà rồng",
-    "viDef": "người chết hút máu người sống"
+    "viDef": "người chết hút máu người sống",
+    "ex": "Do you believe a vampire could really live in that old house?",
+    "exHit": "vampire",
+    "exVi": "Bạn có tin là ma cà rồng thật sự có thể sống trong ngôi nhà cũ đó không?"
   },
   {
     "word": "have you heard",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "phrase used to introduce a piece of gossip",
     "vi": "bạn nghe tin chưa",
-    "viDef": "câu dùng để mở đầu một chuyện đồn"
+    "viDef": "câu dùng để mở đầu một chuyện đồn",
+    "ex": "Have you heard that the new neighbor is a famous singer?",
+    "exHit": "Have you heard",
+    "exVi": "Bạn nghe nói chưa, người hàng xóm mới là một ca sĩ nổi tiếng đấy?"
   },
   {
     "word": "guess what",
@@ -101,6 +137,9 @@
     "type": "phrase",
     "def": "phrase used to introduce an interesting or surprising piece of information",
     "vi": "đoán xem nào",
-    "viDef": "câu dùng để mở đầu một thông tin thú vị hoặc bất ngờ"
+    "viDef": "câu dùng để mở đầu một thông tin thú vị hoặc bất ngờ",
+    "ex": "Well, you'll never guess what I saw this morning.",
+    "exHit": "guess what",
+    "exVi": "À, bạn sẽ không đoán được sáng nay tôi đã thấy gì đâu."
   }
 ]

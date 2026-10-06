@@ -5,7 +5,10 @@
     "type": "",
     "def": "a person who teaches or instructs",
     "vi": "giáo viên",
-    "viDef": "người dạy hoặc chỉ bảo"
+    "viDef": "người dạy hoặc chỉ bảo",
+    "ex": "As a teacher, it's great seeing the kid's parents assist our parent-teacher conference night.",
+    "exHit": "teacher",
+    "exVi": "Là giáo viên, tôi rất vui khi thấy phụ huynh đến dự buổi họp phụ huynh và giáo viên."
   },
   {
     "word": "conference",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a formal meeting where many people talk about ideas",
     "vi": "buổi họp",
-    "viDef": "cuộc gặp chính thức để nhiều người cùng bàn về các ý tưởng"
+    "viDef": "cuộc gặp chính thức để nhiều người cùng bàn về các ý tưởng",
+    "ex": "Are you joining the conference today?",
+    "exHit": "conference",
+    "exVi": "Hôm nay bạn có tham dự hội nghị không?"
   },
   {
     "word": "insight",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "an instance of apprehending the true nature of a thing",
     "vi": "sự thấu hiểu",
-    "viDef": "lần nắm được bản chất thật của một điều gì"
+    "viDef": "lần nắm được bản chất thật của một điều gì",
+    "ex": "I am very interested to know how my child is doing and also get some insight from you as to how he can improve.",
+    "exHit": "insight",
+    "exVi": "Tôi rất muốn biết con mình học thế nào và cũng muốn nghe cô góp ý để cháu có thể tiến bộ hơn."
   },
   {
     "word": "struggle",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "try very hard to do something that is difficult",
     "vi": "chật vật",
-    "viDef": "cố hết sức làm việc gì khó"
+    "viDef": "cố hết sức làm việc gì khó",
+    "ex": "He is a hard worker and very well behaved, however he does struggle a bit with math.",
+    "exHit": "struggle",
+    "exVi": "Cháu chăm chỉ và rất ngoan, tuy nhiên cháu hơi vất vả với môn toán."
   },
   {
     "word": "compliment",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "an expression of praise",
     "vi": "lời khen",
-    "viDef": "câu bày tỏ sự ngợi khen"
+    "viDef": "câu bày tỏ sự ngợi khen",
+    "ex": "The teacher gave my son a nice compliment today.",
+    "exHit": "compliment",
+    "exVi": "Hôm nay cô giáo đã dành cho con trai tôi một lời khen đẹp."
   },
   {
     "word": "tutor",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a person employed to instruct another in some branch or branches of learning, esp. a private instructor.",
     "vi": "gia sư",
-    "viDef": "người được thuê để kèm ai học một hoặc vài môn, nhất là dạy riêng"
+    "viDef": "người được thuê để kèm ai học một hoặc vài môn, nhất là dạy riêng",
+    "ex": "I would also recommend he stay after school twice a week for tutoring sessions.",
+    "exHit": "tutoring",
+    "exVi": "Tôi cũng đề nghị cháu ở lại trường hai buổi một tuần để học phụ đạo."
   },
   {
     "word": "tution",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the charge or fee for instruction",
     "vi": "học phí",
-    "viDef": "khoản phí trả cho việc dạy học"
+    "viDef": "khoản phí trả cho việc dạy học",
+    "ex": "Here is a notice from our financial department, seems your child's tution is overdue.",
+    "exHit": "tution",
+    "exVi": "Đây là thông báo từ phòng tài chính, có vẻ học phí của con bạn đã quá hạn."
   },
   {
     "word": "overdue",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "past due",
     "vi": "quá hạn",
-    "viDef": "đã trễ hạn"
+    "viDef": "đã trễ hạn",
+    "ex": "Here is a notice from our financial department, seems your child's tution is overdue.",
+    "exHit": "overdue",
+    "exVi": "Đây là thông báo từ phòng tài chính, có vẻ học phí của con bạn đã quá hạn."
   },
   {
     "word": "repeat",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to go through or undergo again",
     "vi": "học lại",
-    "viDef": "trải qua hoặc làm lại lần nữa"
+    "viDef": "trải qua hoặc làm lại lần nữa",
+    "ex": "Could you repeat the last part of that, please?",
+    "exHit": "repeat",
+    "exVi": "Bạn có thể nhắc lại đoạn cuối đó được không?"
   },
   {
     "word": "excel",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to surpass others or be superior in some respect or area",
     "vi": "vượt trội",
-    "viDef": "hơn người khác hoặc giỏi hơn ở mặt nào đó"
+    "viDef": "hơn người khác hoặc giỏi hơn ở mặt nào đó",
+    "ex": "My daughter really excels in math.",
+    "exHit": "excels",
+    "exVi": "Con gái tôi thực sự rất giỏi môn toán."
   },
   {
     "word": "bully",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a person who intimidates smaller or weaker people.",
     "vi": "kẻ bắt nạt",
-    "viDef": "người đe dọa những người nhỏ hoặc yếu hơn"
+    "viDef": "người đe dọa những người nhỏ hoặc yếu hơn",
+    "ex": "The teacher stopped a bully from picking on a smaller kid.",
+    "exHit": "bully",
+    "exVi": "Cô giáo đã ngăn một đứa hay bắt nạt trêu chọc một bạn nhỏ hơn."
   },
   {
     "word": "fee",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "a sum paid or charged for a privilege",
     "vi": "khoản phí",
-    "viDef": "số tiền trả hoặc bị thu cho một quyền lợi"
+    "viDef": "số tiền trả hoặc bị thu cho một quyền lợi",
+    "ex": "Don't forget to pay the school fee by Friday.",
+    "exHit": "fee",
+    "exVi": "Đừng quên đóng học phí trước thứ Sáu nhé."
   }
 ]

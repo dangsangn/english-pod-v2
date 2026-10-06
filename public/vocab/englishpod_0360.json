@@ -5,7 +5,10 @@
     "type": "",
     "def": "any system in which goods are sold and bought ille",
     "vi": "chợ đen",
-    "viDef": "hệ thống mua bán hàng hóa một cách trái phép"
+    "viDef": "hệ thống mua bán hàng hóa một cách trái phép",
+    "ex": "Then they are sold on the black market.",
+    "exHit": "black market",
+    "exVi": "Sau đó chúng được bán trên chợ đen."
   },
   {
     "word": "gullible",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "easily believing something that is not true",
     "vi": "dễ tin",
-    "viDef": "dễ tin vào điều không thật"
+    "viDef": "dễ tin vào điều không thật",
+    "ex": "Don't be so gullible, they are just urban legends.",
+    "exHit": "gullible",
+    "exVi": "Đừng cả tin như vậy, đó chỉ là truyền thuyết đô thị thôi."
   },
   {
     "word": "urban legend",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "stories that are exaggerated or not true",
     "vi": "giai thoại thành thị",
-    "viDef": "những câu chuyện bị thổi phồng hoặc không có thật"
+    "viDef": "những câu chuyện bị thổi phồng hoặc không có thật",
+    "ex": "Don't be so gullible, they are just urban legends.",
+    "exHit": "urban legends",
+    "exVi": "Đừng cả tin như vậy, đó chỉ là truyền thuyết đô thị thôi."
   },
   {
     "word": "make up",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "invent",
     "vi": "bịa ra",
-    "viDef": "tự nghĩ ra"
+    "viDef": "tự nghĩ ra",
+    "ex": "They are just stories people make up to scare you.",
+    "exHit": "make up",
+    "exVi": "Đó chỉ là những câu chuyện người ta bịa ra để dọa bạn."
   },
   {
     "word": "subliminal",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "something that persuades in a sub conscious way",
     "vi": "tác động ngầm",
-    "viDef": "thứ thuyết phục theo lối đi vào tiềm thức"
+    "viDef": "thứ thuyết phục theo lối đi vào tiềm thức",
+    "ex": "Well, I was also reading about how some popular songs have subliminal or even satanic messages if you play them backwards!",
+    "exHit": "subliminal",
+    "exVi": "À, tôi cũng đọc rằng một số bài hát nổi tiếng chứa thông điệp ngầm, thậm chí là của quỷ Satan, nếu bạn phát ngược lại!"
   },
   {
     "word": "satanic",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "relating to Satan or the devil",
     "vi": "thuộc về quỷ dữ",
-    "viDef": "liên quan tới Satan hoặc ma quỷ"
+    "viDef": "liên quan tới Satan hoặc ma quỷ",
+    "ex": "Well, I was also reading about how some popular songs have subliminal or even satanic messages if you play them backwards!",
+    "exHit": "satanic",
+    "exVi": "À, tôi cũng đọc rằng một số bài hát nổi tiếng chứa thông điệp ngầm, thậm chí là của quỷ Satan, nếu bạn phát ngược lại!"
   },
   {
     "word": "naive",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "having or showing a lack of experience, judgment,",
     "vi": "ngây thơ",
-    "viDef": "thiếu kinh nghiệm, thiếu phán đoán"
+    "viDef": "thiếu kinh nghiệm, thiếu phán đoán",
+    "ex": "Don't be so naive!",
+    "exHit": "naive",
+    "exVi": "Đừng ngây thơ như vậy!"
   },
   {
     "word": "far fetched",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "improbable; not naturally pertinent",
     "vi": "xa vời khó tin",
-    "viDef": "khó xảy ra, chẳng ăn nhập tự nhiên"
+    "viDef": "khó xảy ra, chẳng ăn nhập tự nhiên",
+    "ex": "Sounds a bit too far fetched to be true don't you think?",
+    "exHit": "far fetched",
+    "exVi": "Nghe hơi khiên cưỡng để có thể là thật, bạn không nghĩ vậy sao?"
   },
   {
     "word": "Myth",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "an untrue story",
     "vi": "chuyện hoang đường",
-    "viDef": "câu chuyện không có thật"
+    "viDef": "câu chuyện không có thật",
+    "ex": "It's just a myth that you only use ten percent of your brain.",
+    "exHit": "myth",
+    "exVi": "Việc bạn chỉ dùng mười phần trăm bộ não chỉ là một huyền thoại."
   },
   {
     "word": "boogie man",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a fictional being that scares children",
     "vi": "ông ba bị",
-    "viDef": "nhân vật hư cấu dùng để dọa trẻ con"
+    "viDef": "nhân vật hư cấu dùng để dọa trẻ con",
+    "ex": "Kids are afraid the boogie man lives under the bed.",
+    "exHit": "boogie man",
+    "exVi": "Bọn trẻ sợ ông ba bị sống dưới gầm giường."
   },
   {
     "word": "cynical",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a person who believes that only selfishness motivates human actions",
     "vi": "hoài nghi đời",
-    "viDef": "người tin rằng chỉ có lòng ích kỷ mới thúc đẩy hành động của con người"
+    "viDef": "người tin rằng chỉ có lòng ích kỷ mới thúc đẩy hành động của con người",
+    "ex": "He's so cynical, he thinks everyone is selfish.",
+    "exHit": "cynical",
+    "exVi": "Anh ấy hoài nghi đến mức cho rằng ai cũng ích kỷ."
   },
   {
     "word": "grounded",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "quality of not letting emotions or impulses get the best of you",
     "vi": "vững vàng",
-    "viDef": "phẩm chất không để cảm xúc hay bốc đồng lấn át"
+    "viDef": "phẩm chất không để cảm xúc hay bốc đồng lấn át",
+    "ex": "She stays grounded and never loses her cool.",
+    "exHit": "grounded",
+    "exVi": "Cô ấy luôn vững vàng và không bao giờ mất bình tĩnh."
   },
   {
     "word": "realist",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "a person who tends to view or represent things as they really are.",
     "vi": "người thực tế",
-    "viDef": "người có xu hướng nhìn nhận hoặc trình bày mọi thứ đúng như chúng vốn có"
+    "viDef": "người có xu hướng nhìn nhận hoặc trình bày mọi thứ đúng như chúng vốn có",
+    "ex": "I'm a realist, so I look at things as they are.",
+    "exHit": "realist",
+    "exVi": "Tôi là người thực tế nên tôi nhìn mọi việc đúng như chúng là."
   }
 ]

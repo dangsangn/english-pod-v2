@@ -5,7 +5,10 @@
     "type": "",
     "def": "you can eat it with one bite",
     "vi": "cỡ một miếng",
-    "viDef": "nhỏ vừa đủ ăn một lần"
+    "viDef": "nhỏ vừa đủ ăn một lần",
+    "ex": "I cut the carrots into bite-sized pieces for the stir fry.",
+    "exHit": "bite-sized",
+    "exVi": "Mình cắt cà rốt thành miếng vừa miệng để xào."
   },
   {
     "word": "soy",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a source of oil and is eaten as food",
     "vi": "đậu nành",
-    "viDef": "nguồn dầu và cũng dùng làm thức ăn"
+    "viDef": "nguồn dầu và cũng dùng làm thức ăn",
+    "ex": "I love stir fry Crispy bite-sized vegetables covered in a mixture of soy sauce and oyster sauce.",
+    "exHit": "soy",
+    "exVi": "Tôi thích món xào có rau giòn vừa miệng phủ hỗn hợp nước tương và dầu hào."
   },
   {
     "word": "oyster",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a large flat shelfish",
     "vi": "con hàu",
-    "viDef": "loài hải sản có vỏ dẹt lớn"
+    "viDef": "loài hải sản có vỏ dẹt lớn",
+    "ex": "I love stir fry Crispy bite-sized vegetables covered in a mixture of soy sauce and oyster sauce.",
+    "exHit": "oyster",
+    "exVi": "Tôi thích món xào có rau giòn vừa miệng phủ hỗn hợp nước tương và dầu hào."
   },
   {
     "word": "wilted",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "dying",
     "vi": "héo rũ",
-    "viDef": "đang tàn"
+    "viDef": "đang tàn",
+    "ex": "Wilted greens and fresh bean sprouts.",
+    "exHit": "Wilted",
+    "exVi": "Rau héo và giá đỗ tươi."
   },
   {
     "word": "bean",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the seed of a climbing plant",
     "vi": "hạt đậu",
-    "viDef": "hạt của loài cây leo"
+    "viDef": "hạt của loài cây leo",
+    "ex": "Wilted greens and fresh bean sprouts.",
+    "exHit": "bean",
+    "exVi": "Rau héo và giá đỗ tươi."
   },
   {
     "word": "sprout",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a new growth on a plant",
     "vi": "mầm",
-    "viDef": "phần non mới nhú trên cây"
+    "viDef": "phần non mới nhú trên cây",
+    "ex": "Wilted greens and fresh bean sprouts.",
+    "exHit": "sprouts",
+    "exVi": "Rau héo và giá đỗ tươi."
   },
   {
     "word": "hearty",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "large(used for meals)",
     "vi": "thịnh soạn",
-    "viDef": "nhiều, đầy đặn (nói về bữa ăn)"
+    "viDef": "nhiều, đầy đặn (nói về bữa ăn)",
+    "ex": "The stir fry my wife made was really hearty, with chunks of beef and slivers of bell peppers and onion...",
+    "exHit": "hearty",
+    "exVi": "Món xào vợ tôi làm thật đậm đà, với những miếng thịt bò lớn, ớt chuông và hành thái sợi mảnh..."
   },
   {
     "word": "chunk",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a solid piece or lump",
     "vi": "khúc, tảng",
-    "viDef": "miếng đặc hoặc cục"
+    "viDef": "miếng đặc hoặc cục",
+    "ex": "The stir fry my wife made was really hearty, with chunks of beef and slivers of bell peppers and onion...",
+    "exHit": "chunks",
+    "exVi": "Món xào vợ tôi làm thật đậm đà, với những miếng thịt bò lớn, ớt chuông và hành thái sợi mảnh..."
   },
   {
     "word": "sliver",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "small thin sharp pieces",
     "vi": "sợi mỏng",
-    "viDef": "những mảnh nhỏ, mỏng và sắc"
+    "viDef": "những mảnh nhỏ, mỏng và sắc",
+    "ex": "The stir fry my wife made was really hearty, with chunks of beef and slivers of bell peppers and onion...",
+    "exHit": "slivers",
+    "exVi": "Món xào vợ tôi làm thật đậm đà, với những miếng thịt bò lớn, ớt chuông và hành thái sợi mảnh..."
   },
   {
     "word": "bell pepper",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a kind of pepper, with hot-tasting",
     "vi": "ớt ngọt",
-    "viDef": "một loại ớt, có vị nồng"
+    "viDef": "một loại ớt, có vị nồng",
+    "ex": "The stir fry my wife made was really hearty, with chunks of beef and slivers of bell peppers and onion...",
+    "exHit": "bell peppers",
+    "exVi": "Món xào vợ tôi làm thật đậm đà, với những miếng thịt bò lớn, ớt chuông và hành thái sợi mảnh..."
   },
   {
     "word": "wok",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a large metal Chinese cooking pot",
     "vi": "cái chảo lớn",
-    "viDef": "chảo kim loại to kiểu Trung Quốc"
+    "viDef": "chảo kim loại to kiểu Trung Quốc",
+    "ex": "That's the worst insult you could throw at a Chinese stir fry What a disgrace to the wok she fried it in!",
+    "exHit": "wok",
+    "exVi": "Đó là lời xúc phạm tệ nhất mà bạn có thể ném vào một món xào Trung Hoa. Thật là sự ô nhục cho cái chảo mà cô ấy dùng để xào nó!"
   },
   {
     "word": "be equivalent to",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "equal to",
     "vi": "tương đương với",
-    "viDef": "bằng với"
+    "viDef": "bằng với",
+    "ex": "One bowl of this stir fry is equivalent to two normal meals.",
+    "exHit": "is equivalent to",
+    "exVi": "Một bát món xào này tương đương với hai bữa ăn bình thường."
   },
   {
     "word": "fajita",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a Mexican meal consists of chicken and vegetables",
     "vi": "món fajita",
-    "viDef": "món Mexico gồm thịt gà và rau"
+    "viDef": "món Mexico gồm thịt gà và rau",
+    "ex": "What you had is equivalent to a fajita without the wrap!",
+    "exHit": "fajita",
+    "exVi": "Những gì bạn ăn tương đương với món fajita không có bánh cuốn!"
   },
   {
     "word": "bite-sized",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "you can eat it with one bite",
     "vi": "cỡ một miếng",
-    "viDef": "nhỏ vừa đủ ăn một lần"
+    "viDef": "nhỏ vừa đủ ăn một lần",
+    "ex": "I cut the carrots into bite-sized pieces for the stir fry.",
+    "exHit": "bite-sized",
+    "exVi": "Mình cắt cà rốt thành miếng vừa miệng để xào."
   },
   {
     "word": "soy",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "a source of oil and is eaten as food",
     "vi": "đậu nành",
-    "viDef": "nguồn dầu và cũng dùng làm thức ăn"
+    "viDef": "nguồn dầu và cũng dùng làm thức ăn",
+    "ex": "I love stir fry Crispy bite-sized vegetables covered in a mixture of soy sauce and oyster sauce.",
+    "exHit": "soy",
+    "exVi": "Tôi thích món xào có rau giòn vừa miệng phủ hỗn hợp nước tương và dầu hào."
   },
   {
     "word": "oyster",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "a large flat shelfish",
     "vi": "con hàu",
-    "viDef": "loài hải sản có vỏ dẹt lớn"
+    "viDef": "loài hải sản có vỏ dẹt lớn",
+    "ex": "I love stir fry Crispy bite-sized vegetables covered in a mixture of soy sauce and oyster sauce.",
+    "exHit": "oyster",
+    "exVi": "Tôi thích món xào có rau giòn vừa miệng phủ hỗn hợp nước tương và dầu hào."
   },
   {
     "word": "wilted",
@@ -133,7 +181,10 @@
     "type": "",
     "def": "dying",
     "vi": "héo rũ",
-    "viDef": "đang tàn"
+    "viDef": "đang tàn",
+    "ex": "Wilted greens and fresh bean sprouts.",
+    "exHit": "Wilted",
+    "exVi": "Rau héo và giá đỗ tươi."
   },
   {
     "word": "bean sprout",
@@ -141,7 +192,10 @@
     "type": "",
     "def": "the sprout of beans, eaten as a vegetable",
     "vi": "giá đỗ",
-    "viDef": "mầm đậu, dùng như rau"
+    "viDef": "mầm đậu, dùng như rau",
+    "ex": "Wilted greens and fresh bean sprouts.",
+    "exHit": "bean sprouts",
+    "exVi": "Rau héo và giá đỗ tươi."
   },
   {
     "word": "hearty",
@@ -149,7 +203,10 @@
     "type": "",
     "def": "large(used for meals)",
     "vi": "thịnh soạn",
-    "viDef": "nhiều, đầy đặn (nói về bữa ăn)"
+    "viDef": "nhiều, đầy đặn (nói về bữa ăn)",
+    "ex": "The stir fry my wife made was really hearty, with chunks of beef and slivers of bell peppers and onion...",
+    "exHit": "hearty",
+    "exVi": "Món xào vợ tôi làm thật đậm đà, với những miếng thịt bò lớn, ớt chuông và hành thái sợi mảnh..."
   },
   {
     "word": "chunk",
@@ -157,7 +214,10 @@
     "type": "",
     "def": "a solid piece or lump",
     "vi": "khúc, tảng",
-    "viDef": "miếng đặc hoặc cục"
+    "viDef": "miếng đặc hoặc cục",
+    "ex": "The stir fry my wife made was really hearty, with chunks of beef and slivers of bell peppers and onion...",
+    "exHit": "chunks",
+    "exVi": "Món xào vợ tôi làm thật đậm đà, với những miếng thịt bò lớn, ớt chuông và hành thái sợi mảnh..."
   },
   {
     "word": "sliver",
@@ -165,7 +225,10 @@
     "type": "",
     "def": "small thin sharp pieces",
     "vi": "sợi mỏng",
-    "viDef": "những mảnh nhỏ, mỏng và sắc"
+    "viDef": "những mảnh nhỏ, mỏng và sắc",
+    "ex": "The stir fry my wife made was really hearty, with chunks of beef and slivers of bell peppers and onion...",
+    "exHit": "slivers",
+    "exVi": "Món xào vợ tôi làm thật đậm đà, với những miếng thịt bò lớn, ớt chuông và hành thái sợi mảnh..."
   },
   {
     "word": "bell pepper",
@@ -173,7 +236,10 @@
     "type": "",
     "def": "large bell-shaped sweet pepper in green or red or",
     "vi": "ớt chuông",
-    "viDef": "quả ớt to hình chuông, vị ngọt, màu xanh hoặc đỏ"
+    "viDef": "quả ớt to hình chuông, vị ngọt, màu xanh hoặc đỏ",
+    "ex": "The stir fry my wife made was really hearty, with chunks of beef and slivers of bell peppers and onion...",
+    "exHit": "bell peppers",
+    "exVi": "Món xào vợ tôi làm thật đậm đà, với những miếng thịt bò lớn, ớt chuông và hành thái sợi mảnh..."
   },
   {
     "word": "wok",
@@ -181,7 +247,10 @@
     "type": "",
     "def": "a large metal Chinese cooking pot",
     "vi": "cái chảo lớn",
-    "viDef": "chảo kim loại to kiểu Trung Quốc"
+    "viDef": "chảo kim loại to kiểu Trung Quốc",
+    "ex": "That's the worst insult you could throw at a Chinese stir fry What a disgrace to the wok she fried it in!",
+    "exHit": "wok",
+    "exVi": "Đó là lời xúc phạm tệ nhất mà bạn có thể ném vào một món xào Trung Hoa. Thật là sự ô nhục cho cái chảo mà cô ấy dùng để xào nó!"
   },
   {
     "word": "be equivalent to",
@@ -189,7 +258,10 @@
     "type": "",
     "def": "equal to",
     "vi": "tương đương với",
-    "viDef": "bằng với"
+    "viDef": "bằng với",
+    "ex": "One bowl of this stir fry is equivalent to two normal meals.",
+    "exHit": "is equivalent to",
+    "exVi": "Một bát món xào này tương đương với hai bữa ăn bình thường."
   },
   {
     "word": "fajita",
@@ -197,7 +269,10 @@
     "type": "",
     "def": "a Mexican meal consists of chicken and vegetables",
     "vi": "món fajita",
-    "viDef": "món Mexico gồm thịt gà và rau"
+    "viDef": "món Mexico gồm thịt gà và rau",
+    "ex": "What you had is equivalent to a fajita without the wrap!",
+    "exHit": "fajita",
+    "exVi": "Những gì bạn ăn tương đương với món fajita không có bánh cuốn!"
   },
   {
     "word": "throw in",
@@ -205,7 +280,10 @@
     "type": "",
     "def": "action of adding something",
     "vi": "cho thêm vào",
-    "viDef": "động tác bỏ thêm thứ gì vào"
+    "viDef": "động tác bỏ thêm thứ gì vào",
+    "ex": "Throw in some onion and garlic and ginger!",
+    "exHit": "Throw in",
+    "exVi": "Cho thêm hành, tỏi và gừng vào!"
   },
   {
     "word": "die for",
@@ -213,7 +291,10 @@
     "type": "",
     "def": "extremely desirable",
     "vi": "ngon chết đi được",
-    "viDef": "hấp dẫn đến mê mẩn"
+    "viDef": "hấp dẫn đến mê mẩn",
+    "ex": "I would die for a plate of stir fry right now!",
+    "exHit": "die for",
+    "exVi": "Giờ tôi sẵn sàng làm bất cứ gì để có một đĩa món xào!"
   },
   {
     "word": "disgrace",
@@ -221,7 +302,10 @@
     "type": "",
     "def": "shame, loss of reputation or dishonour",
     "vi": "sự nhục nhã",
-    "viDef": "điều làm mất mặt, mất danh"
+    "viDef": "điều làm mất mặt, mất danh",
+    "ex": "That's the worst insult you could throw at a Chinese stir fry What a disgrace to the wok she fried it in!",
+    "exHit": "disgrace",
+    "exVi": "Đó là lời xúc phạm tệ nhất mà bạn có thể ném vào một món xào Trung Hoa. Thật là sự ô nhục cho cái chảo mà cô ấy dùng để xào nó!"
   },
   {
     "word": "Chop suey",
@@ -229,7 +313,10 @@
     "type": "",
     "def": "American-Chinese dish consisting of meats cooked quickly with vegetables and bound in a starch-thickened sauce",
     "vi": "món chop suey",
-    "viDef": "món Mỹ-Trung gồm thịt xào nhanh với rau, sốt sánh bằng bột"
+    "viDef": "món Mỹ-Trung gồm thịt xào nhanh với rau, sốt sánh bằng bột",
+    "ex": "My grandfather used to order chop suey every Friday.",
+    "exHit": "chop suey",
+    "exVi": "Ông mình trước đây thứ Sáu nào cũng gọi món chop suey."
   },
   {
     "word": "Kung Pow Chicken",
@@ -237,7 +324,10 @@
     "type": "",
     "def": "Chinese dish made with peanuts and marinated with chilli peppers",
     "vi": "gà Kung Pao",
-    "viDef": "món Trung Quốc làm với đậu phộng, ướp cùng ớt"
+    "viDef": "món Trung Quốc làm với đậu phộng, ướp cùng ớt",
+    "ex": "I always order Kung Pow Chicken because I love the peanuts.",
+    "exHit": "Kung Pow Chicken",
+    "exVi": "Mình luôn gọi gà Kung Pao vì mình thích đậu phộng."
   },
   {
     "word": "Fortune Cookie",
@@ -245,7 +335,10 @@
     "type": "",
     "def": "",
     "vi": "bánh quy may mắn",
-    "viDef": "bánh giòn có mẩu giấy ghi lời tiên đoán bên trong"
+    "viDef": "bánh giòn có mẩu giấy ghi lời tiên đoán bên trong",
+    "ex": "I cracked open my fortune cookie after dinner.",
+    "exHit": "fortune cookie",
+    "exVi": "Mình bẻ chiếc bánh quy may mắn sau bữa tối."
   },
   {
     "word": "Chow Mein",
@@ -253,6 +346,9 @@
     "type": "",
     "def": "",
     "vi": "mì xào chow mein",
-    "viDef": "món mì xào kiểu Trung Quốc"
+    "viDef": "món mì xào kiểu Trung Quốc",
+    "ex": "We shared a plate of chow mein and some fried rice.",
+    "exHit": "chow mein",
+    "exVi": "Chúng tôi chia nhau một đĩa mì xào chow mein và ít cơm chiên."
   }
 ]

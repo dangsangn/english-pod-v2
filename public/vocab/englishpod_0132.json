@@ -5,7 +5,10 @@
     "type": "principle verb, present progressive",
     "def": "to flow out of something in a fast and forceful way",
     "vi": "phun trào",
-    "viDef": "chảy ra ào ào, mạnh"
+    "viDef": "chảy ra ào ào, mạnh",
+    "ex": "This stupid old car started spewing white smoke and it just died on me.",
+    "exHit": "spewing",
+    "exVi": "Chiếc xe cũ kỹ chết tiệt này bắt đầu phun khói trắng rồi chết máy luôn."
   },
   {
     "word": "die on",
@@ -13,7 +16,10 @@
     "type": "principle verb, past simple",
     "def": "to stop working or running while in use by someone",
     "vi": "chết máy giữa đường",
-    "viDef": "ngừng chạy khi đang dùng"
+    "viDef": "ngừng chạy khi đang dùng",
+    "ex": "This stupid old car started spewing white smoke and it just died on me.",
+    "exHit": "died on",
+    "exVi": "Chiếc xe cũ kỹ chết tiệt này bắt đầu phun khói trắng rồi chết máy luôn."
   },
   {
     "word": "busted",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "broken",
     "vi": "tan tành",
-    "viDef": "bị hỏng"
+    "viDef": "bị hỏng",
+    "ex": "You overheated your engine so now the pistons are busted and so is your transmission.",
+    "exHit": "busted",
+    "exVi": "Anh làm động cơ quá nhiệt nên giờ các pít-tông bị hỏng, hộp số cũng vậy."
   },
   {
     "word": "take apart",
@@ -29,7 +38,10 @@
     "type": "principle verb, present simple",
     "def": "to remove all the pieces",
     "vi": "tháo rời",
-    "viDef": "bung hết các bộ phận ra"
+    "viDef": "bung hết các bộ phận ra",
+    "ex": "We need to order the spare parts, take apart your electrical system, fuel pump and engine and then put it back together again.",
+    "exHit": "take apart",
+    "exVi": "Chúng tôi cần đặt phụ tùng thay thế, tháo rời hệ thống điện, bơm nhiên liệu và động cơ của anh, rồi lắp ráp lại."
   },
   {
     "word": "how about",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "introduces request or suggestion",
     "vi": "hay là",
-    "viDef": "câu mở đầu khi đề nghị hoặc gợi ý"
+    "viDef": "câu mở đầu khi đề nghị hoặc gợi ý",
+    "ex": "How about you pop the hood and we can take a look.",
+    "exHit": "How about",
+    "exVi": "Hay là anh mở nắp capo ra rồi chúng ta cùng xem thử?"
   },
   {
     "word": "gearbox",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "the metal casing enclosing a set of gears in a motor vehicle",
     "vi": "hộp số",
-    "viDef": "vỏ kim loại chứa bộ bánh răng của xe"
+    "viDef": "vỏ kim loại chứa bộ bánh răng của xe",
+    "ex": "The mechanic said the gearbox is broken and needs replacing.",
+    "exHit": "gearbox",
+    "exVi": "Thợ máy nói hộp số bị hỏng và cần thay."
   },
   {
     "word": "muffler",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "a tubular acoustic device inserted in the exhaust system that is designed to reduce noise",
     "vi": "ống giảm âm",
-    "viDef": "ống gắn vào hệ xả để giảm tiếng ồn"
+    "viDef": "ống gắn vào hệ xả để giảm tiếng ồn",
+    "ex": "My car is so loud because the muffler has a hole.",
+    "exHit": "muffler",
+    "exVi": "Xe tôi ồn quá vì ống giảm thanh bị thủng."
   },
   {
     "word": "cruise control",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "control mechanism for keeping an automobile at a set speed",
     "vi": "ga tự động",
-    "viDef": "cơ chế giữ xe chạy ở tốc độ đã đặt"
+    "viDef": "cơ chế giữ xe chạy ở tốc độ đã đặt",
+    "ex": "I turned on the cruise control and relaxed on the highway.",
+    "exHit": "cruise control",
+    "exVi": "Tôi bật chế độ giữ tốc độ và thư giãn trên đường cao tốc."
   },
   {
     "word": "overtake",
@@ -69,7 +93,10 @@
     "type": "principle verb, present simple",
     "def": "To pass after catching up with another vehcile on the road",
     "vi": "vượt xe",
-    "viDef": "bắt kịp rồi qua xe khác trên đường"
+    "viDef": "bắt kịp rồi qua xe khác trên đường",
+    "ex": "It is dangerous to overtake a truck on a narrow road.",
+    "exHit": "overtake",
+    "exVi": "Vượt xe tải trên đường hẹp rất nguy hiểm."
   },
   {
     "word": "boot",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "a device that is locked on the wheel of a car by the police to prevent it from moving",
     "vi": "khóa bánh xe",
-    "viDef": "thiết bị cảnh sát khóa vào bánh để xe không đi được"
+    "viDef": "thiết bị cảnh sát khóa vào bánh để xe không đi được",
+    "ex": "The police put a boot on my car because of unpaid tickets.",
+    "exHit": "boot",
+    "exVi": "Cảnh sát khóa bánh xe của tôi vì tôi chưa nộp phạt."
   }
 ]

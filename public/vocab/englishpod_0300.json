@@ -5,7 +5,10 @@
     "type": "",
     "def": "a appointment, engagement, or occasion with another person",
     "vi": "buổi hẹn",
-    "viDef": "một cuộc hẹn hoặc dịp gặp với người khác"
+    "viDef": "một cuộc hẹn hoặc dịp gặp với người khác",
+    "ex": "I have a date!",
+    "exHit": "date",
+    "exVi": "Tôi có hẹn hò!"
   },
   {
     "word": "chat",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "talk with another person",
     "vi": "tán chuyện",
-    "viDef": "nói chuyện với người khác"
+    "viDef": "nói chuyện với người khác",
+    "ex": "Then you find people that have similar characteristics and you can email them or chat.",
+    "exHit": "chat",
+    "exVi": "Rồi bạn tìm những người có đặc điểm giống mình và có thể gửi email hoặc trò chuyện với họ."
   },
   {
     "word": "online",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "over the internet",
     "vi": "trên mạng",
-    "viDef": "qua internet"
+    "viDef": "qua internet",
+    "ex": "Oh, and watch movies online as well.",
+    "exHit": "online",
+    "exVi": "Ồ, và cũng có thể xem phim trực tuyến nữa."
   },
   {
     "word": "psycho",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a crazy person",
     "vi": "kẻ tâm thần",
-    "viDef": "người điên"
+    "viDef": "người điên",
+    "ex": "What if she is a psycho or something like that?",
+    "exHit": "psycho",
+    "exVi": "Lỡ cô ấy là kẻ tâm thần hay gì đó thì sao?"
   },
   {
     "word": "characteristic",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a distinguishing feature or quality",
     "vi": "đặc điểm",
-    "viDef": "nét hoặc phẩm chất riêng biệt"
+    "viDef": "nét hoặc phẩm chất riêng biệt",
+    "ex": "Then you find people that have similar characteristics and you can email them or chat.",
+    "exHit": "characteristics",
+    "exVi": "Rồi bạn tìm những người có đặc điểm giống mình và có thể gửi email hoặc trò chuyện với họ."
   },
   {
     "word": "preference",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the favoring of one thing over another",
     "vi": "sự ưu ái",
-    "viDef": "việc thích thứ này hơn thứ kia"
+    "viDef": "việc thích thứ này hơn thứ kia",
+    "ex": "You fill in all your details and preferences, like if you are a smoker or if you have any pets.",
+    "exHit": "preferences",
+    "exVi": "Bạn điền mọi thông tin và sở thích, như bạn có hút thuốc không hoặc có nuôi thú cưng không."
   },
   {
     "word": "hang out",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "spend time with a friend",
     "vi": "đi chơi cùng",
-    "viDef": "dành thời gian với một người bạn"
+    "viDef": "dành thời gian với một người bạn",
+    "ex": "Do you want to hang out tomorrow?",
+    "exHit": "hang out",
+    "exVi": "Ngày mai bạn có muốn đi chơi không?"
   },
   {
     "word": "reject",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to refuse to accept",
     "vi": "từ chối",
-    "viDef": "không chịu nhận"
+    "viDef": "không chịu nhận",
+    "ex": "She decided to reject his offer to meet again.",
+    "exHit": "reject",
+    "exVi": "Cô ấy quyết định từ chối lời đề nghị gặp lại của anh ta."
   },
   {
     "word": "hunk",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a handsome man",
     "vi": "anh chàng vạm vỡ",
-    "viDef": "người nam bảnh trai"
+    "viDef": "người nam bảnh trai",
+    "ex": "My friend said the guy she met online is a real hunk.",
+    "exHit": "hunk",
+    "exVi": "Bạn tôi nói anh chàng cô ấy gặp trên mạng đúng là một anh đẹp trai."
   },
   {
     "word": "compatible",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "able to exist together harmoniously",
     "vi": "hợp nhau",
-    "viDef": "có thể ở cùng nhau hòa thuận"
+    "viDef": "có thể ở cùng nhau hòa thuận",
+    "ex": "We are not compatible because we want different things in life.",
+    "exHit": "compatible",
+    "exVi": "Chúng tôi không hợp nhau vì muốn những điều khác nhau trong cuộc sống."
   },
   {
     "word": "ugly",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "very unattractive or unpleasant to look at",
     "vi": "xấu",
-    "viDef": "rất kém hấp dẫn hoặc trông không dễ chịu"
+    "viDef": "rất kém hấp dẫn hoặc trông không dễ chịu",
+    "ex": "I think his old jacket is really ugly.",
+    "exHit": "ugly",
+    "exVi": "Tôi nghĩ chiếc áo khoác cũ của anh ấy thật xấu."
   },
   {
     "word": "sexy",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "excitingly appealing; glamorous",
     "vi": "gợi cảm",
-    "viDef": "hấp dẫn đến mức cuốn hút; hào nhoáng"
+    "viDef": "hấp dẫn đến mức cuốn hút; hào nhoáng",
+    "ex": "Everyone says her new dress looks sexy.",
+    "exHit": "sexy",
+    "exVi": "Ai cũng nói chiếc váy mới của cô ấy trông quyến rũ."
   }
 ]

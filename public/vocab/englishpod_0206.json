@@ -5,7 +5,10 @@
     "type": "",
     "def": "a document that shows how much you must pay",
     "vi": "hóa đơn",
-    "viDef": "giấy ghi số tiền phải trả"
+    "viDef": "giấy ghi số tiền phải trả",
+    "ex": "I agreed we would go halves on all the bills, but frankly I think it's unfair.",
+    "exHit": "bills",
+    "exVi": "Tôi đã đồng ý chia đôi mọi hóa đơn, nhưng thành thật mà nói tôi thấy như vậy không công bằng."
   },
   {
     "word": "go halves",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "divide equally",
     "vi": "chia đôi",
-    "viDef": "chia đều nhau"
+    "viDef": "chia đều nhau",
+    "ex": "I agreed we would go halves on all the bills, but frankly I think it's unfair.",
+    "exHit": "go halves",
+    "exVi": "Tôi đã đồng ý chia đôi mọi hóa đơn, nhưng thành thật mà nói tôi thấy như vậy không công bằng."
   },
   {
     "word": "move out",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to vacate a residence, cause to leave",
     "vi": "dọn ra",
-    "viDef": "rời khỏi chỗ ở, đi khỏi nơi đó"
+    "viDef": "rời khỏi chỗ ở, đi khỏi nơi đó",
+    "ex": "Maybe you should move out!",
+    "exHit": "move out",
+    "exVi": "Có lẽ bạn nên dọn ra ngoài đi!"
   },
   {
     "word": "what I am getting at",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "what I am trying to say",
     "vi": "ý tôi muốn nói là",
-    "viDef": "điều tôi đang cố diễn đạt"
+    "viDef": "điều tôi đang cố diễn đạt",
+    "ex": "Do you see what I am getting at?",
+    "exHit": "what I am getting at",
+    "exVi": "Bạn có hiểu ý tôi muốn nói không?"
   },
   {
     "word": "way more",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "much more, a lot more",
     "vi": "nhiều hơn hẳn",
-    "viDef": "nhiều hơn rất nhiều"
+    "viDef": "nhiều hơn rất nhiều",
+    "ex": "You also take 30 minute showers which means you are using way more gas and water than me!",
+    "exHit": "way more",
+    "exVi": "Bạn còn tắm mỗi lần 30 phút, nghĩa là bạn dùng điện nước nhiều hơn tôi rất nhiều!"
   },
   {
     "word": "Landlord",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "One that owns and rents land, buildings, or dwelling units.",
     "vi": "chủ cho thuê",
-    "viDef": "người sở hữu và cho thuê đất, nhà hoặc căn hộ"
+    "viDef": "người sở hữu và cho thuê đất, nhà hoặc căn hộ",
+    "ex": "My landlord says the rent is going up next month.",
+    "exHit": "landlord",
+    "exVi": "Chủ nhà nói tháng sau tiền thuê sẽ tăng."
   },
   {
     "word": "Lease",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A contract granting use or occupation of property during a specified period in exchange for a specified rent.",
     "vi": "hợp đồng thuê",
-    "viDef": "thỏa thuận cho dùng hoặc ở trong tài sản một thời hạn nhất định để đổi lấy tiền thuê đã định"
+    "viDef": "thỏa thuận cho dùng hoặc ở trong tài sản một thời hạn nhất định để đổi lấy tiền thuê đã định",
+    "ex": "We signed a one-year lease on the new apartment.",
+    "exHit": "lease",
+    "exVi": "Chúng tôi đã ký hợp đồng thuê một năm cho căn hộ mới."
   },
   {
     "word": "Utility",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A commodity or service, such as electricity, water, or public transportation, that is provided by a public utility",
     "vi": "dịch vụ thiết yếu",
-    "viDef": "hàng hóa hoặc dịch vụ như điện, nước hay giao thông công cộng do đơn vị công ích cung cấp"
+    "viDef": "hàng hóa hoặc dịch vụ như điện, nước hay giao thông công cộng do đơn vị công ích cung cấp",
+    "ex": "Our rent doesn't include any utility bills like gas or electricity.",
+    "exHit": "utility",
+    "exVi": "Tiền thuê của chúng tôi không bao gồm các hóa đơn tiện ích như gas hay điện."
   },
   {
     "word": "Dower",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "The rights of a widow in the property of her husband at his death.",
     "vi": "phần của quả phụ",
-    "viDef": "quyền của người vợ đối với tài sản của chồng khi chồng mất"
+    "viDef": "quyền của người vợ đối với tài sản của chồng khi chồng mất",
+    "ex": "A widow may have a dower right to her late husband's property.",
+    "exHit": "dower",
+    "exVi": "Một góa phụ có thể có quyền thừa kế đối với tài sản của người chồng quá cố."
   },
   {
     "word": "Breach Of Contract",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "A legal violation of an established contract between two parties",
     "vi": "vi phạm hợp đồng",
-    "viDef": "việc phá vỡ hợp đồng đã lập giữa hai bên về mặt pháp lý"
+    "viDef": "việc phá vỡ hợp đồng đã lập giữa hai bên về mặt pháp lý",
+    "ex": "Leaving before the lease ends could be a breach of contract.",
+    "exHit": "breach of contract",
+    "exVi": "Rời đi trước khi hợp đồng thuê kết thúc có thể là vi phạm hợp đồng."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "get the information from someone",
     "vi": "nghe nói",
-    "viDef": "biết tin từ ai đó"
+    "viDef": "biết tin từ ai đó",
+    "ex": "I heard you were on a date last night!",
+    "exHit": "heard",
+    "exVi": "Mình nghe nói tối qua bạn đi hẹn hò!"
   },
   {
     "word": "juicy detail",
@@ -13,7 +16,10 @@
     "type": "common noun, plural",
     "def": "exciting pieces of information",
     "vi": "chi tiết ly kỳ",
-    "viDef": "những mẩu tin hấp dẫn"
+    "viDef": "những mẩu tin hấp dẫn",
+    "ex": "I want all the juicy details!",
+    "exHit": "juicy details",
+    "exVi": "Mình muốn nghe hết mọi chi tiết hấp dẫn!"
   },
   {
     "word": "fill me in",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "give me more information",
     "vi": "kể tôi nghe với",
-    "viDef": "cho tôi biết thêm thông tin"
+    "viDef": "cho tôi biết thêm thông tin",
+    "ex": "Okay, now you really have to fill me in.",
+    "exHit": "fill me in",
+    "exVi": "Được rồi, giờ bạn phải kể cho mình nghe đầy đủ đi."
   },
   {
     "word": "good looking",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "handsome",
     "vi": "ưa nhìn",
-    "viDef": "đẹp trai"
+    "viDef": "đẹp trai",
+    "ex": "He's really good looking; he's quite tall, around 6'1'', he's in his early thirties, and he's got the most beautiful dark brown eyes...",
+    "exHit": "good looking",
+    "exVi": "Anh ấy rất đẹp trai; khá cao, khoảng 1m85, ngoài ba mươi tuổi, và có đôi mắt nâu sẫm đẹp nhất..."
   },
   {
     "word": "hot",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "attractive",
     "vi": "nóng bỏng",
-    "viDef": "hấp dẫn, cuốn hút"
+    "viDef": "hấp dẫn, cuốn hút",
+    "ex": "He sounds hot!",
+    "exHit": "hot",
+    "exVi": "Nghe có vẻ cuốn hút đấy!"
   },
   {
     "word": "career path",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a planned, logical progression of jobs within a profession throughout working life",
     "vi": "lộ trình sự nghiệp",
-    "viDef": "chuỗi công việc có tính toán, tiến dần trong nghề suốt đời làm việc"
+    "viDef": "chuỗi công việc có tính toán, tiến dần trong nghề suốt đời làm việc",
+    "ex": "David is a junior investment banker at Fortune Bank, so he's got a great career path ahead of him!",
+    "exHit": "career path",
+    "exVi": "David là nhân viên ngân hàng đầu tư cấp thấp ở Fortune Bank, nên anh ấy có một con đường sự nghiệp rất rộng mở phía trước!"
   },
   {
     "word": "attractive",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "have a pleasing appearance",
     "vi": "hấp dẫn",
-    "viDef": "ngoại hình dễ mến"
+    "viDef": "ngoại hình dễ mến",
+    "ex": "She is very attractive, and everyone at the party noticed her.",
+    "exHit": "attractive",
+    "exVi": "Cô ấy rất cuốn hút, và mọi người ở bữa tiệc đều để ý đến cô ấy."
   },
   {
     "word": "sexy",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "attractive, exciting and appealing",
     "vi": "quyến rũ",
-    "viDef": "hấp dẫn, cuốn hút, đầy sức hút"
+    "viDef": "hấp dẫn, cuốn hút, đầy sức hút",
+    "ex": "She looked sexy in her new black dress at the party.",
+    "exHit": "sexy",
+    "exVi": "Cô ấy trông rất quyến rũ trong chiếc váy đen mới ở bữa tiệc."
   },
   {
     "word": "tender",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "very loving and gentle",
     "vi": "dịu dàng",
-    "viDef": "rất trìu mến và nhẹ nhàng"
+    "viDef": "rất trìu mến và nhẹ nhàng",
+    "ex": "He gave her a tender kiss and told her he loved her.",
+    "exHit": "tender",
+    "exVi": "Anh ấy trao cô ấy một nụ hôn dịu dàng và nói rằng anh yêu cô."
   },
   {
     "word": "handsome",
@@ -77,6 +104,9 @@
     "type": "Adjective",
     "def": "good looking",
     "vi": "đẹp trai",
-    "viDef": "ưa nhìn"
+    "viDef": "ưa nhìn",
+    "ex": "My new boyfriend is tall, smart, and very handsome.",
+    "exHit": "handsome",
+    "exVi": "Bạn trai mới của mình cao, thông minh và rất đẹp trai."
   }
 ]

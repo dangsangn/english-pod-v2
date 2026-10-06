@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "a person who provides help, support, or protection",
     "vi": "người trợ giúp bên cạnh",
-    "viDef": "người luôn giúp, hỗ trợ hoặc che chắn cho mình"
+    "viDef": "người luôn giúp, hỗ trợ hoặc che chắn cho mình",
+    "ex": "My name is Rick Fields and, as always, I am joined by my commentating wingman, Bob Copeland.",
+    "exHit": "wingman",
+    "exVi": "Tôi là Rick Fields và như mọi khi, cùng tôi có người bạn đồng hành bình luận, Bob Copeland."
   },
   {
     "word": "on the brink",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "at a critical point",
     "vi": "bên bờ, sát ngưỡng",
-    "viDef": "ở thời điểm quyết định"
+    "viDef": "ở thời điểm quyết định",
+    "ex": "And we're on the brink of soccer history today, as Ecuador and Brazil are tied one-one as we begin the second half of the 2022 World Cup!",
+    "exHit": "on the brink",
+    "exVi": "Hôm nay chúng ta đang đứng trước ngưỡng cửa lịch sử bóng đá, khi Ecuador và Brazil hòa một-một lúc bắt đầu hiệp hai của World Cup 2022!"
   },
   {
     "word": "tied",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "having the same score",
     "vi": "hòa điểm",
-    "viDef": "hai bên cùng tỉ số"
+    "viDef": "hai bên cùng tỉ số",
+    "ex": "And we're on the brink of soccer history today, as Ecuador and Brazil are tied one-one as we begin the second half of the 2022 World Cup!",
+    "exHit": "tied",
+    "exVi": "Hôm nay chúng ta đang đứng trước ngưỡng cửa lịch sử bóng đá, khi Ecuador và Brazil hòa một-một lúc bắt đầu hiệp hai của World Cup 2022!"
   },
   {
     "word": "kick off",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "the first movement or kick of the ball to begin the game",
     "vi": "cú phát bóng khai cuộc",
-    "viDef": "lần chạm bóng đầu tiên để bắt đầu trận"
+    "viDef": "lần chạm bóng đầu tiên để bắt đầu trận",
+    "ex": "The ref calls the players for the kick off, and here we go!",
+    "exHit": "kick off",
+    "exVi": "Trọng tài gọi các cầu thủ vào giao bóng, và trận đấu bắt đầu!"
   },
   {
     "word": "throw in",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "action of throwing the ball onto the field with your hands to restart the game",
     "vi": "quả ném biên",
-    "viDef": "dùng tay ném bóng vào sân để chơi tiếp"
+    "viDef": "dùng tay ném bóng vào sân để chơi tiếp",
+    "ex": "That will be a throw in for Brazil.",
+    "exHit": "throw in",
+    "exVi": "Đó sẽ là quả ném biên cho Brazil."
   },
   {
     "word": "no question about it",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "there is no doubt, it is correct",
     "vi": "không phải nghi ngờ gì",
-    "viDef": "chắc chắn đúng"
+    "viDef": "chắc chắn đúng",
+    "ex": "No question about it.",
+    "exHit": "No question about it",
+    "exVi": "Không còn nghi ngờ gì nữa."
   },
   {
     "word": "by a mile",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "a lot",
     "vi": "hơn hẳn một trời một vực",
-    "viDef": "nhiều, cách biệt lớn"
+    "viDef": "nhiều, cách biệt lớn",
+    "ex": "He was offside by a mile!",
+    "exHit": "by a mile",
+    "exVi": "Anh ấy việt vị quá xa!"
   },
   {
     "word": "foul",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "illegal action committed against a player",
     "vi": "lỗi phạm",
-    "viDef": "hành động phạm luật với cầu thủ khác"
+    "viDef": "hành động phạm luật với cầu thủ khác",
+    "ex": "We have a foul!",
+    "exHit": "foul",
+    "exVi": "Chúng ta có một pha phạm lỗi!"
   },
   {
     "word": "penalty kick",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a kick against only the goalkeeper as a reward for a foul",
     "vi": "quả phạt đền",
-    "viDef": "cú sút chỉ đối mặt thủ môn, thưởng do đối phương phạm lỗi"
+    "viDef": "cú sút chỉ đối mặt thủ môn, thưởng do đối phương phạm lỗi",
+    "ex": "He gets a yellow card and that will be a penalty kick!",
+    "exHit": "penalty kick",
+    "exVi": "Anh ấy nhận thẻ vàng và đó sẽ là một quả phạt đền!"
   },
   {
     "word": "goal kick",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "when the goalie kicks the ball to re-start play",
     "vi": "quả phát bóng lên",
-    "viDef": "khi thủ môn phát bóng để chơi tiếp"
+    "viDef": "khi thủ môn phát bóng để chơi tiếp",
+    "ex": "We have a goal kick for Ecuador.",
+    "exHit": "goal kick",
+    "exVi": "Ecuador được hưởng một quả phát bóng."
   },
   {
     "word": "corner kick",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "when a player kicks the ball from a corner after a penalty",
     "vi": "quả phạt góc",
-    "viDef": "cú sút từ góc sân sau một lỗi"
+    "viDef": "cú sút từ góc sân sau một lỗi",
+    "ex": "Deflected by the defender and we have a corner kick.",
+    "exHit": "corner kick",
+    "exVi": "Bóng bị hậu vệ cản phá và chúng ta có một quả phạt góc."
   },
   {
     "word": "out of bounds",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "outside the area that is allowed for play",
     "vi": "ra ngoài biên",
-    "viDef": "ngoài phạm vi được phép chơi"
+    "viDef": "ngoài phạm vi được phép chơi",
+    "ex": "Ecuador quickly passes the ball to the midfield, but, ohhh, it's out of bounds.",
+    "exHit": "out of bounds",
+    "exVi": "Ecuador nhanh chóng chuyền bóng lên khu giữa sân, nhưng ồ, bóng ra ngoài biên rồi."
   },
   {
     "word": "offside",
@@ -101,7 +137,10 @@
     "type": "Adjective",
     "def": "a position on the opponent's part of the field where your are not allowed to be",
     "vi": "việt vị",
-    "viDef": "vị trí trong nửa sân đối phương mà cầu thủ không được đứng"
+    "viDef": "vị trí trong nửa sân đối phương mà cầu thủ không được đứng",
+    "ex": "He was offside by a mile!",
+    "exHit": "offside",
+    "exVi": "Anh ấy việt vị quá xa!"
   },
   {
     "word": "goalkeeper",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "person who prevents the ball from going into the net (BrE)",
     "vi": "thủ môn",
-    "viDef": "người chặn bóng vào lưới (Anh-Anh)"
+    "viDef": "người chặn bóng vào lưới (Anh-Anh)",
+    "ex": "Oh no, Dida, the goalkeeper, has fouled the Ecuadorian player!",
+    "exHit": "goalkeeper",
+    "exVi": "Ôi không, Dida, thủ môn, đã phạm lỗi với cầu thủ Ecuador!"
   },
   {
     "word": "defender",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "person who prevents the other team from getting near the net",
     "vi": "hậu vệ",
-    "viDef": "người ngăn đối phương áp sát khung thành"
+    "viDef": "người ngăn đối phương áp sát khung thành",
+    "ex": "Deflected by the defender and we have a corner kick.",
+    "exHit": "defender",
+    "exVi": "Bóng bị hậu vệ cản phá và chúng ta có một quả phạt góc."
   },
   {
     "word": "match",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "game (BrE)",
     "vi": "trận đấu",
-    "viDef": "ván đấu (Anh-Anh)"
+    "viDef": "ván đấu (Anh-Anh)",
+    "ex": "This is the perfect opportunity for Ecuador to get ahead in this match and become World Champions!",
+    "exHit": "match",
+    "exVi": "Đây là cơ hội hoàn hảo để Ecuador dẫn trước trong trận đấu này và trở thành nhà vô địch thế giới!"
   },
   {
     "word": "pitch",
@@ -133,7 +181,10 @@
     "type": "common noun, singular",
     "def": "soccer field (BrE)",
     "vi": "sân bóng",
-    "viDef": "sân bóng đá (Anh-Anh)"
+    "viDef": "sân bóng đá (Anh-Anh)",
+    "ex": "The players walked onto the pitch before the match.",
+    "exHit": "pitch",
+    "exVi": "Các cầu thủ bước ra sân trước trận đấu."
   },
   {
     "word": "championship",
@@ -141,6 +192,9 @@
     "type": "common noun, singular",
     "def": "final game in a series that determines the overall winner",
     "vi": "trận tranh vô địch",
-    "viDef": "trận cuối quyết định người thắng chung cuộc"
+    "viDef": "trận cuối quyết định người thắng chung cuộc",
+    "ex": "Our team will play in the championship game on Sunday.",
+    "exHit": "championship",
+    "exVi": "Đội của chúng tôi sẽ thi đấu trận chung kết vào Chủ nhật."
   }
 ]

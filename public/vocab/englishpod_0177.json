@@ -5,7 +5,10 @@
     "type": "",
     "def": "very big",
     "vi": "bự tổ chảng",
-    "viDef": "rất to"
+    "viDef": "rất to",
+    "ex": "There was a huge traffic jam on the highway this morning.",
+    "exHit": "huge",
+    "exVi": "Sáng nay có một vụ tắc đường rất lớn trên đường cao tốc."
   },
   {
     "word": "ornament",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "decoration, something used to beautify",
     "vi": "đồ trang trí",
-    "viDef": "vật dùng để làm đẹp"
+    "viDef": "vật dùng để làm đẹp",
+    "ex": "I got the Christmas ornaments from the attic.",
+    "exHit": "ornaments",
+    "exVi": "Tớ đã lấy mấy món đồ trang trí Giáng sinh từ trên gác xép xuống."
   },
   {
     "word": "decorate",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "beautify",
     "vi": "trang trí",
-    "viDef": "làm cho đẹp thêm"
+    "viDef": "làm cho đẹp thêm",
+    "ex": "While we decorate the tree, we can listen to some good old Christmas songs!",
+    "exHit": "decorate",
+    "exVi": "Trong lúc trang trí cây thông, chúng ta có thể nghe mấy bài hát Giáng sinh xưa thật hay!"
   },
   {
     "word": "of course",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "certainly true",
     "vi": "tất nhiên",
-    "viDef": "chắc chắn là vậy"
+    "viDef": "chắc chắn là vậy",
+    "ex": "Of course it will.",
+    "exHit": "Of course",
+    "exVi": "Tất nhiên là sẽ được."
   },
   {
     "word": "stocking",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "large sock; traditionally Christmas gifts are put inside",
     "vi": "chiếc bít tất lớn",
-    "viDef": "vớ to; theo lệ Giáng sinh người ta nhét quà vào trong"
+    "viDef": "vớ to; theo lệ Giáng sinh người ta nhét quà vào trong",
+    "ex": "We could also place these stockings next to the chimney.",
+    "exHit": "stockings",
+    "exVi": "Chúng ta cũng có thể đặt mấy chiếc tất này cạnh lò sưởi."
   },
   {
     "word": "tinsel",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "very thin strips of shiny metallic material",
     "vi": "dây kim tuyến",
-    "viDef": "những dải mảnh bằng vật liệu kim loại lấp lánh"
+    "viDef": "những dải mảnh bằng vật liệu kim loại lấp lánh",
+    "ex": "She hung shiny tinsel on every branch of the tree.",
+    "exHit": "tinsel",
+    "exVi": "Cô ấy treo dây kim tuyến lấp lánh lên mọi cành cây."
   },
   {
     "word": "garland",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a chain of flowers, leaves, or tinsel",
     "vi": "dây kết hoa lá",
-    "viDef": "chuỗi hoa, lá hoặc kim tuyến"
+    "viDef": "chuỗi hoa, lá hoặc kim tuyến",
+    "ex": "We put a green garland along the stairs.",
+    "exHit": "garland",
+    "exVi": "Chúng tôi giăng một dây trang trí màu xanh dọc theo cầu thang."
   },
   {
     "word": "wreath",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a closed circle of garland",
     "vi": "vòng hoa treo",
-    "viDef": "vòng tròn kết bằng dây hoa lá"
+    "viDef": "vòng tròn kết bằng dây hoa lá",
+    "ex": "There's a big wreath hanging on our front door.",
+    "exHit": "wreath",
+    "exVi": "Có một vòng hoa lớn treo trên cửa trước nhà chúng tôi."
   },
   {
     "word": "light up the Christmas tree",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "turn on the Christmas tree lights",
     "vi": "bật đèn cây Noel",
-    "viDef": "mở đèn trên cây Giáng sinh"
+    "viDef": "mở đèn trên cây Giáng sinh",
+    "ex": "Kids, it's time to light up the Christmas tree!",
+    "exHit": "light up the Christmas tree",
+    "exVi": "Các con ơi, đến giờ bật đèn cây thông Giáng sinh rồi!"
   },
   {
     "word": "Christmas star/angel",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a large ornament in the shape of a star or an angel, usually with lights, placed on the very top of the Christmas tree",
     "vi": "ngôi sao hoặc thiên thần trên ngọn cây",
-    "viDef": "món trang trí lớn hình sao hoặc thiên thần, thường có đèn, gắn trên đỉnh cây Noel"
+    "viDef": "món trang trí lớn hình sao hoặc thiên thần, thường có đèn, gắn trên đỉnh cây Noel",
+    "ex": "Dad lifted me up to put the Christmas star on top.",
+    "exHit": "Christmas star",
+    "exVi": "Bố bế tôi lên để đặt ngôi sao Giáng sinh trên đỉnh cây."
   }
 ]

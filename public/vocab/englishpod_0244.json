@@ -5,7 +5,10 @@
     "type": "",
     "def": "turned out or result in",
     "vi": "rồi hóa ra",
-    "viDef": "kết cục lại thành, dẫn tới"
+    "viDef": "kết cục lại thành, dẫn tới",
+    "ex": "I ended up staying two years there actually.",
+    "exHit": "ended up",
+    "exVi": "Thực ra cuối cùng tôi đã ở đó hai năm."
   },
   {
     "word": "in charge of",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "be responsible for",
     "vi": "phụ trách",
-    "viDef": "chịu trách nhiệm về việc gì"
+    "viDef": "chịu trách nhiệm về việc gì",
+    "ex": "I was in charge of the sports news section of the newspaper.",
+    "exHit": "in charge of",
+    "exVi": "Tôi phụ trách mục tin thể thao của tờ báo."
   },
   {
     "word": "manage to",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "be able to",
     "vi": "xoay xở làm được",
-    "viDef": "có thể làm được"
+    "viDef": "có thể làm được",
+    "ex": "My husband and I moved to London, and so I managed to find a position with a National newspaper based in London",
+    "exHit": "managed to",
+    "exVi": "Chồng tôi và tôi chuyển đến London, và tôi đã xoay xở tìm được một vị trí ở một tờ báo quốc gia có trụ sở tại London."
   },
   {
     "word": "step down",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a decrease or reduction in size or amount",
     "vi": "giảm bậc",
-    "viDef": "sự hạ xuống về cỡ hoặc lượng"
+    "viDef": "sự hạ xuống về cỡ hoặc lượng",
+    "ex": "Yes, in some ways it was a step down from my previous job but it did offer me much better prospects for the future.",
+    "exHit": "step down",
+    "exVi": "Vâng, xét về mặt nào đó thì đó là một bước đi xuống so với công việc trước, nhưng nó lại cho tôi triển vọng tốt hơn nhiều trong tương lai."
   },
   {
     "word": "prospect",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a mental picture of something to come",
     "vi": "triển vọng",
-    "viDef": "hình dung trong đầu về điều sắp tới"
+    "viDef": "hình dung trong đầu về điều sắp tới",
+    "ex": "Yes, in some ways it was a step down from my previous job but it did offer me much better prospects for the future.",
+    "exHit": "prospects",
+    "exVi": "Vâng, xét về mặt nào đó thì đó là một bước đi xuống so với công việc trước, nhưng nó lại cho tôi triển vọng tốt hơn nhiều trong tương lai."
   },
   {
     "word": "priority",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to place importance over different objectives",
     "vi": "việc ưu tiên",
-    "viDef": "đặt tầm quan trọng lên trên các mục tiêu khác"
+    "viDef": "đặt tầm quan trọng lên trên các mục tiêu khác",
+    "ex": "My family is my first priority, not my job.",
+    "exHit": "priority",
+    "exVi": "Gia đình là ưu tiên hàng đầu của tôi, không phải công việc."
   },
   {
     "word": "career",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the specific area of work a person pursues",
     "vi": "con đường sự nghiệp",
-    "viDef": "lĩnh vực công việc một người theo đuổi"
+    "viDef": "lĩnh vực công việc một người theo đuổi",
+    "ex": "I want to build a long career in journalism.",
+    "exHit": "career",
+    "exVi": "Tôi muốn xây dựng một sự nghiệp lâu dài trong ngành báo chí."
   },
   {
     "word": "quit",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to stop doing an activity",
     "vi": "bỏ, thôi",
-    "viDef": "ngưng làm một việc"
+    "viDef": "ngưng làm một việc",
+    "ex": "I decided to quit my job and travel for a year.",
+    "exHit": "quit",
+    "exVi": "Tôi quyết định bỏ việc và đi du lịch một năm."
   },
   {
     "word": "unemployed",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to not have a job",
     "vi": "thất nghiệp",
-    "viDef": "không có việc làm"
+    "viDef": "không có việc làm",
+    "ex": "He has been unemployed for six months now.",
+    "exHit": "unemployed",
+    "exVi": "Anh ấy đã thất nghiệp được sáu tháng rồi."
   },
   {
     "word": "employable",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "the ability to be employed",
     "vi": "có thể tuyển được",
-    "viDef": "khả năng được nhận vào làm"
+    "viDef": "khả năng được nhận vào làm",
+    "ex": "Learning a second language makes you more employable.",
+    "exHit": "employable",
+    "exVi": "Học thêm một ngoại ngữ giúp bạn dễ xin được việc hơn."
   }
 ]

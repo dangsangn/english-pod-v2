@@ -5,7 +5,10 @@
     "type": "",
     "def": "a place one goes to drink alcohol",
     "vi": "quán bar",
-    "viDef": "nơi người ta tới uống rượu"
+    "viDef": "nơi người ta tới uống rượu",
+    "ex": "We can go to a bar and try to find you a girlfriend.",
+    "exHit": "bar",
+    "exVi": "Mình có thể đến quán bar và thử tìm cho bạn một cô bạn gái."
   },
   {
     "word": "girlfriend",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a female friend with whom a man or boy is romantically involved with",
     "vi": "bạn gái",
-    "viDef": "người bạn nữ mà một người nam đang có quan hệ tình cảm"
+    "viDef": "người bạn nữ mà một người nam đang có quan hệ tình cảm",
+    "ex": "We can go to a bar and try to find you a girlfriend.",
+    "exHit": "girlfriend",
+    "exVi": "Mình có thể đến quán bar và thử tìm cho bạn một cô bạn gái."
   },
   {
     "word": "break the ice",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to overcome reserve, awkwardness, or formality within a group",
     "vi": "phá tan không khí ngại ngùng",
-    "viDef": "vượt qua sự dè dặt, ngượng nghịu hoặc khách sáo trong một nhóm"
+    "viDef": "vượt qua sự dè dặt, ngượng nghịu hoặc khách sáo trong một nhóm",
+    "ex": "Maybe you just need a few pick up lines, you know, break the ice.",
+    "exHit": "break the ice",
+    "exVi": "Có lẽ bạn chỉ cần vài câu tán tỉnh để phá vỡ sự ngượng ngùng ban đầu thôi."
   },
   {
     "word": "lame",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "not cool",
     "vi": "nhạt, dở ẹc",
-    "viDef": "chẳng hay ho"
+    "viDef": "chẳng hay ho",
+    "ex": "That's just lame!",
+    "exHit": "lame",
+    "exVi": "Nghe nhạt quá!"
   },
   {
     "word": "pick up lines",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "conversation opener with the intent of engaging an unfamiliar person for romance or dating.",
     "vi": "câu tán tỉnh",
-    "viDef": "câu mở lời nhằm bắt chuyện với người lạ để tán tỉnh hoặc hẹn hò"
+    "viDef": "câu mở lời nhằm bắt chuyện với người lạ để tán tỉnh hoặc hẹn hò",
+    "ex": "Pick up lines don't work!",
+    "exHit": "Pick up lines",
+    "exVi": "Mấy câu tán tỉnh có tác dụng gì đâu!"
   },
   {
     "word": "fool",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a silly person",
     "vi": "kẻ khờ",
-    "viDef": "người ngớ ngẩn"
+    "viDef": "người ngớ ngẩn",
+    "ex": "Yeah, so you make her laugh, you make a fool of yourself a little bit and then you buy her a drink.",
+    "exHit": "fool",
+    "exVi": "Ừ, thì bạn làm cô ấy cười, tự biến mình thành trò hề một chút rồi mời cô ấy một ly."
   },
   {
     "word": "enchant",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to delight to a high degree,charm",
     "vi": "làm mê mẩn",
-    "viDef": "khiến ai thích thú tột độ, quyến rũ"
+    "viDef": "khiến ai thích thú tột độ, quyến rũ",
+    "ex": "Ok, how does this sound: “I was so enchanted by your beauty that I ran into that wall over there.",
+    "exHit": "enchanted",
+    "exVi": "Được rồi, câu này nghe sao: \"Tôi bị vẻ đẹp của em mê hoặc đến mức đâm sầm vào bức tường đằng kia.\""
   },
   {
     "word": "seduce",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to persuade or induce to have sexual intercourse",
     "vi": "quyến rũ",
-    "viDef": "thuyết phục hoặc dụ ai vào chuyện chăn gối"
+    "viDef": "thuyết phục hoặc dụ ai vào chuyện chăn gối",
+    "ex": "He tried to seduce her with expensive gifts, but she wasn't interested.",
+    "exHit": "seduce",
+    "exVi": "Anh ta cố quyến rũ cô ấy bằng những món quà đắt tiền, nhưng cô ấy không hứng thú."
   },
   {
     "word": "flirt",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "toy or play with another's affections",
     "vi": "tán tỉnh",
-    "viDef": "đùa cợt với tình cảm của người khác"
+    "viDef": "đùa cợt với tình cảm của người khác",
+    "ex": "Stop trying to flirt with every girl at the bar.",
+    "exHit": "flirt",
+    "exVi": "Đừng cố tán tỉnh mọi cô gái ở quán bar nữa."
   },
   {
     "word": "connection",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a bond between two people",
     "vi": "sự kết nối",
-    "viDef": "mối gắn bó giữa hai người"
+    "viDef": "mối gắn bó giữa hai người",
+    "ex": "We felt a real connection the moment we started talking.",
+    "exHit": "connection",
+    "exVi": "Chúng tôi cảm thấy có sự gắn kết thật sự ngay khi bắt đầu trò chuyện."
   },
   {
     "word": "wing man",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "Wingman is a role that a person may take when a friend needs support with approaching potential partners",
     "vi": "người trợ lực",
-    "viDef": "vai trò một người nhận khi bạn mình cần hỗ trợ để tiếp cận đối tượng tiềm năng"
+    "viDef": "vai trò một người nhận khi bạn mình cần hỗ trợ để tiếp cận đối tượng tiềm năng",
+    "ex": "Tonight I'll be your wing man, so just relax and smile.",
+    "exHit": "wing man",
+    "exVi": "Tối nay tôi sẽ làm người đồng hành hỗ trợ cho bạn, nên cứ thư giãn và mỉm cười đi."
   },
   {
     "word": "stud",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "a man seen as desirable",
     "vi": "soái ca",
-    "viDef": "người nam được xem là hấp dẫn"
+    "viDef": "người nam được xem là hấp dẫn",
+    "ex": "Everyone at the bar thinks he is a real stud.",
+    "exHit": "stud",
+    "exVi": "Ai ở quán bar cũng nghĩ anh ta là một chàng trai thật quyến rũ."
   }
 ]

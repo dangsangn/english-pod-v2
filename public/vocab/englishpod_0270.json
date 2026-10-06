@@ -5,7 +5,10 @@
     "type": "",
     "def": "stylish or fashionable",
     "vi": "bảnh bao",
-    "viDef": "có phong cách, hợp mốt"
+    "viDef": "có phong cách, hợp mốt",
+    "ex": "I have an important interview next week, so I really need to look sharp.",
+    "exHit": "sharp",
+    "exVi": "Tuần sau tôi có một buổi phỏng vấn quan trọng, nên tôi thật sự cần ăn mặc bảnh bao."
   },
   {
     "word": "broad",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "wide;a lot",
     "vi": "rộng, nhiều",
-    "viDef": "bề ngang lớn, số lượng nhiều"
+    "viDef": "bề ngang lớn, số lượng nhiều",
+    "ex": "We have a broad selection of suits, all tailored made so that it will fit perfectly.",
+    "exHit": "broad",
+    "exVi": "Chúng tôi có nhiều lựa chọn vest, tất cả đều may đo để vừa vặn hoàn hảo."
   },
   {
     "word": "preferably",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "most wanted or preferred",
     "vi": "tốt nhất là",
-    "viDef": "được mong hoặc ưa hơn cả"
+    "viDef": "được mong hoặc ưa hơn cả",
+    "ex": "I want a three piece suit, preferably made from Italian cashmere or wool.",
+    "exHit": "preferably",
+    "exVi": "Tôi muốn một bộ vest ba mảnh, tốt nhất là làm từ len cashmere hoặc len của Ý."
   },
   {
     "word": "accompany",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to go together with",
     "vi": "đi kèm với",
-    "viDef": "đi cùng nhau"
+    "viDef": "đi cùng nhau",
+    "ex": "Now, if you will accompany me, we can take your measurements and choose the patterns for your suit and shirts.",
+    "exHit": "accompany",
+    "exVi": "Bây giờ, nếu anh đi cùng tôi, chúng ta sẽ lấy số đo và chọn họa tiết cho bộ vest và áo sơ mi của anh."
   },
   {
     "word": "Collar",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the cloth around the neckline of a shirt, that is folded over",
     "vi": "cổ áo",
-    "viDef": "phần vải quanh viền cổ áo, được gập lại"
+    "viDef": "phần vải quanh viền cổ áo, được gập lại",
+    "ex": "I like this shirt, but the collar is a little tight for me.",
+    "exHit": "collar",
+    "exVi": "Áo sơ mi này đẹp, nhưng cổ áo hơi chật so với tôi."
   },
   {
     "word": "Impression",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the first feeling you give when you encounter/meet someone",
     "vi": "ấn tượng",
-    "viDef": "cảm giác đầu tiên bạn tạo ra khi gặp ai"
+    "viDef": "cảm giác đầu tiên bạn tạo ra khi gặp ai",
+    "ex": "First impressions matter a lot in a job interview.",
+    "exHit": "impression",
+    "exVi": "Trong buổi phỏng vấn, ấn tượng đầu tiên rất quan trọng."
   },
   {
     "word": "Custom-made",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "made according to your own specifications",
     "vi": "đặt riêng",
-    "viDef": "được làm theo đúng yêu cầu của bạn"
+    "viDef": "được làm theo đúng yêu cầu của bạn",
+    "ex": "This suit is custom-made, so it fits me perfectly.",
+    "exHit": "custom-made",
+    "exVi": "Bộ vest này là hàng may đo riêng nên vừa với tôi hoàn hảo."
   },
   {
     "word": "Alteration",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a change (in length, width, fit) made to an item of clothing",
     "vi": "việc sửa đồ",
-    "viDef": "thay đổi về dài, rộng hoặc độ vừa của một món quần áo"
+    "viDef": "thay đổi về dài, rộng hoặc độ vừa của một món quần áo",
+    "ex": "The pants are a bit long, so I asked the shop to do an alteration.",
+    "exHit": "alteration",
+    "exVi": "Chiếc quần hơi dài, nên tôi nhờ tiệm sửa lại độ dài."
   },
   {
     "word": "Dry-Clean",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A cleaning process that uses chemicals to clean clothes",
     "vi": "giặt khô",
-    "viDef": "quy trình làm sạch quần áo bằng hóa chất"
+    "viDef": "quy trình làm sạch quần áo bằng hóa chất",
+    "ex": "This wool suit has to be dry-cleaned, not washed in the machine.",
+    "exHit": "dry-cleaned",
+    "exVi": "Bộ vest len này phải đem đi giặt khô, không giặt máy được."
   },
   {
     "word": "Herringbone",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A type of pattern, common on suits, that resembles thin, \"saw-like\" lines",
     "vi": "họa tiết xương cá",
-    "viDef": "kiểu vân thường thấy trên áo vest, trông như các đường răng cưa mảnh"
+    "viDef": "kiểu vân thường thấy trên áo vest, trông như các đường răng cưa mảnh",
+    "ex": "He wore a very elegant jacket with a herringbone pattern.",
+    "exHit": "herringbone",
+    "exVi": "Anh ấy mặc một chiếc áo khoác họa tiết xương cá rất lịch sự."
   },
   {
     "word": "Garment",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "an article of clothing",
     "vi": "món quần áo",
-    "viDef": "một thứ đồ mặc"
+    "viDef": "một thứ đồ mặc",
+    "ex": "Every garment in this shop is sewn by hand.",
+    "exHit": "garment",
+    "exVi": "Tất cả quần áo trong cửa hàng này đều được may thủ công."
   }
 ]

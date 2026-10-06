@@ -5,7 +5,10 @@
     "type": "common noun, plural",
     "def": "dollar (informal)",
     "vi": "đô",
-    "viDef": "đồng đô-la (thân mật)"
+    "viDef": "đồng đô-la (thân mật)",
+    "ex": "That'll be 80 bucks.",
+    "exHit": "bucks",
+    "exVi": "Tổng cộng là 80 đô."
   },
   {
     "word": "mozzarella sticks",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "fried Italian cheese",
     "vi": "que phô mai chiên",
-    "viDef": "phô mai Ý chiên giòn"
+    "viDef": "phô mai Ý chiên giòn",
+    "ex": "Let's have some nachos and mozzarella sticks.",
+    "exHit": "mozzarella sticks",
+    "exVi": "Mình gọi ít nachos và phô mai que chiên nhé."
   },
   {
     "word": "nachos",
@@ -21,7 +27,10 @@
     "type": "common noun, plural",
     "def": "a dish with tortilla chips and melted cheese cooked together",
     "vi": "món nachos",
-    "viDef": "bánh ngô giòn nướng cùng phô mai chảy"
+    "viDef": "bánh ngô giòn nướng cùng phô mai chảy",
+    "ex": "Let's have some nachos and mozzarella sticks.",
+    "exHit": "nachos",
+    "exVi": "Mình gọi ít nachos và phô mai que chiên nhé."
   },
   {
     "word": "appetizer",
@@ -29,7 +38,10 @@
     "type": "common noun, plural",
     "def": "a small dish served before meal",
     "vi": "món khai vị",
-    "viDef": "món nhỏ dùng trước bữa chính"
+    "viDef": "món nhỏ dùng trước bữa chính",
+    "ex": "And what about some appetizers?",
+    "exHit": "appetizers",
+    "exVi": "Còn món khai vị thì sao?"
   },
   {
     "word": "pint",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "a measuring unit which is equal to 0.473 litres",
     "vi": "pint",
-    "viDef": "đơn vị đo bằng 0,473 lít"
+    "viDef": "đơn vị đo bằng 0,473 lít",
+    "ex": "Cool, gimme a pint of Heineken and half a pint of Bud.",
+    "exHit": "pint",
+    "exVi": "Tuyệt, cho tôi một pint Heineken và nửa pint Bud."
   },
   {
     "word": "special",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a sale; a special price",
     "vi": "món đặc giá",
-    "viDef": "đợt giảm giá, giá ưu đãi"
+    "viDef": "đợt giảm giá, giá ưu đãi",
+    "ex": "We have a two-for-one happy hour special.",
+    "exHit": "special",
+    "exVi": "Chúng tôi có khuyến mãi giờ vàng mua một tặng một."
   },
   {
     "word": "happy hour",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "a period of time at a bar when drinks are sold cheaper than usual",
     "vi": "giờ vàng giảm giá",
-    "viDef": "khoảng thời gian quán bán đồ uống rẻ hơn thường"
+    "viDef": "khoảng thời gian quán bán đồ uống rẻ hơn thường",
+    "ex": "We have a two-for-one happy hour special.",
+    "exHit": "happy hour",
+    "exVi": "Chúng tôi có khuyến mãi giờ vàng mua một tặng một."
   },
   {
     "word": "two-for-one",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "buy one and take one free",
     "vi": "mua một tặng một",
-    "viDef": "mua một cái được thêm một cái"
+    "viDef": "mua một cái được thêm một cái",
+    "ex": "The bar has a two-for-one deal on beer tonight.",
+    "exHit": "two-for-one",
+    "exVi": "Tối nay quán bar có khuyến mãi mua một tặng một cho bia."
   },
   {
     "word": "on tap",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "beer served from a barrel; not in a bottle or can",
     "vi": "bia tươi rót vòi",
-    "viDef": "bia lấy từ thùng, không phải chai hay lon"
+    "viDef": "bia lấy từ thùng, không phải chai hay lon",
+    "ex": "Hey man, what do you have on tap?",
+    "exHit": "on tap",
+    "exVi": "Này anh, bên anh có bia tươi loại nào?"
   },
   {
     "word": "drinks list",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a menu or list of drinks served in a restaurant or bar",
     "vi": "danh mục đồ uống",
-    "viDef": "thực đơn các món uống của quán"
+    "viDef": "thực đơn các món uống của quán",
+    "ex": "Could we see the drinks list, please?",
+    "exHit": "drinks list",
+    "exVi": "Cho chúng tôi xem thực đơn đồ uống được không?"
   },
   {
     "word": "pub",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a relaxed, casual bar where beer is served",
     "vi": "quán bia",
-    "viDef": "quán rượu bình dân, thoải mái, chuyên phục vụ bia"
+    "viDef": "quán rượu bình dân, thoải mái, chuyên phục vụ bia",
+    "ex": "Let's meet at the pub after work for a cold beer.",
+    "exHit": "pub",
+    "exVi": "Hẹn gặp ở quán rượu sau giờ làm để uống bia lạnh nhé."
   },
   {
     "word": "cocktail",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "alcoholic drink made from one or more liqueur and other ingredients",
     "vi": "cocktail",
-    "viDef": "đồ uống pha từ một hoặc nhiều loại rượu mạnh cùng các thành phần khác"
+    "viDef": "đồ uống pha từ một hoặc nhiều loại rượu mạnh cùng các thành phần khác",
+    "ex": "I'll have a cocktail with lime and a little mint.",
+    "exHit": "cocktail",
+    "exVi": "Cho tôi một ly cocktail với chanh và một ít bạc hà."
   },
   {
     "word": "liqueur",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "strong alcohol drink such as gin, rum, vodka, etc",
     "vi": "rượu mạnh",
-    "viDef": "đồ uống có độ cồn cao như gin, rum, vodka..."
+    "viDef": "đồ uống có độ cồn cao như gin, rum, vodka...",
+    "ex": "This cake has a little orange liqueur in it.",
+    "exHit": "liqueur",
+    "exVi": "Chiếc bánh này có một ít rượu mùi cam bên trong."
   },
   {
     "word": "bar stool",
@@ -109,6 +148,9 @@
     "type": "common noun, singular",
     "def": "a chair with no back used for sitting on at a bar",
     "vi": "ghế cao quầy bar",
-    "viDef": "ghế không tựa để ngồi ở quầy bar"
+    "viDef": "ghế không tựa để ngồi ở quầy bar",
+    "ex": "He sat on a bar stool and ordered a beer.",
+    "exHit": "bar stool",
+    "exVi": "Anh ấy ngồi xuống ghế quầy bar và gọi một ly bia."
   }
 ]

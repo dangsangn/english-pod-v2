@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "same as, equivalent to",
     "vi": "ngang như",
-    "viDef": "tương đương với"
+    "viDef": "tương đương với",
+    "ex": "An excuse like that is tantamount to lying.",
+    "exHit": "tantamount",
+    "exVi": "Một lý do như vậy chẳng khác nào nói dối."
   },
   {
     "word": "fairly significant",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "very important or very relevant",
     "vi": "khá đáng kể",
-    "viDef": "rất quan trọng hoặc rất liên quan"
+    "viDef": "rất quan trọng hoặc rất liên quan",
+    "ex": "As you know, you've missed a fairly significant deadline last week, and this will negativity impact the team's ability to move forward with the next stages of this project.",
+    "exHit": "fairly significant",
+    "exVi": "Như bạn biết, tuần trước bạn đã trễ một hạn chót khá quan trọng, và điều này sẽ ảnh hưởng tiêu cực đến khả năng của nhóm để tiến tới các giai đoạn tiếp theo của dự án."
   },
   {
     "word": "essentially",
@@ -21,7 +27,10 @@
     "type": "General Adverb",
     "def": "in essence, basically",
     "vi": "về cơ bản",
-    "viDef": "nói cho gọn, thực chất"
+    "viDef": "nói cho gọn, thực chất",
+    "ex": "You're essentially blaming the tech team for your time management issues, rather than accepting responsibility for the fact that you were procrastinating for the past two weeks.",
+    "exHit": "essentially",
+    "exVi": "Về cơ bản bạn đang đổ lỗi cho nhóm kỹ thuật về vấn đề quản lý thời gian của mình, thay vì nhận trách nhiệm rằng bạn đã trì hoãn suốt hai tuần qua."
   },
   {
     "word": "as a crutch",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "used to indicate you justify failure with excuses",
     "vi": "làm cái cớ tựa vào",
-    "viDef": "lấy lý do để biện hộ cho thất bại"
+    "viDef": "lấy lý do để biện hộ cho thất bại",
+    "ex": "You're using these small technical glitches as a crutch and trying to rationalize the fact that you've missed your deadline.",
+    "exHit": "as a crutch",
+    "exVi": "Bạn đang lấy những trục trặc kỹ thuật nhỏ này làm cái cớ và cố biện minh cho việc trễ hạn chót."
   },
   {
     "word": "rationalize",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "to explain bad behavior in a way that (falsely) makes it seem proper or better",
     "vi": "bào chữa cho hợp lý",
-    "viDef": "giải thích hành vi xấu sao cho nghe như đúng"
+    "viDef": "giải thích hành vi xấu sao cho nghe như đúng",
+    "ex": "You're using these small technical glitches as a crutch and trying to rationalize the fact that you've missed your deadline.",
+    "exHit": "rationalize",
+    "exVi": "Bạn đang lấy những trục trặc kỹ thuật nhỏ này làm cái cớ và cố biện minh cho việc trễ hạn chót."
   },
   {
     "word": "impact",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "to have an effect on something",
     "vi": "ảnh hưởng tới",
-    "viDef": "gây tác động lên điều gì"
+    "viDef": "gây tác động lên điều gì",
+    "ex": "As you know, you've missed a fairly significant deadline last week, and this will negativity impact the team's ability to move forward with the next stages of this project.",
+    "exHit": "impact",
+    "exVi": "Như bạn biết, tuần trước bạn đã trễ một hạn chót khá quan trọng, và điều này sẽ ảnh hưởng tiêu cực đến khả năng của nhóm để tiến tới các giai đoạn tiếp theo của dự án."
   },
   {
     "word": "move forward",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "continue, go on",
     "vi": "tiến lên",
-    "viDef": "tiếp tục đi tới"
+    "viDef": "tiếp tục đi tới",
+    "ex": "As you know, you've missed a fairly significant deadline last week, and this will negativity impact the team's ability to move forward with the next stages of this project.",
+    "exHit": "move forward",
+    "exVi": "Như bạn biết, tuần trước bạn đã trễ một hạn chót khá quan trọng, và điều này sẽ ảnh hưởng tiêu cực đến khả năng của nhóm để tiến tới các giai đoạn tiếp theo của dự án."
   },
   {
     "word": "unexpected",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "coming without warning",
     "vi": "bất ngờ",
-    "viDef": "đến mà không báo trước"
+    "viDef": "đến mà không báo trước",
+    "ex": "You see, we had all of these unexpected technical problems at the last minute, and that I couldn't get into the database and extract the kind of information that I needed for the data analyis.",
+    "exHit": "unexpected",
+    "exVi": "Bạn thấy đấy, chúng tôi gặp hàng loạt sự cố kỹ thuật bất ngờ vào phút chót, và tôi không thể vào cơ sở dữ liệu để lấy thông tin cần cho việc phân tích dữ liệu."
   },
   {
     "word": "last minute",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "at the last moment",
     "vi": "nước đến chân",
-    "viDef": "vào lúc chót"
+    "viDef": "vào lúc chót",
+    "ex": "You see, we had all of these unexpected technical problems at the last minute, and that I couldn't get into the database and extract the kind of information that I needed for the data analyis.",
+    "exHit": "last minute",
+    "exVi": "Bạn thấy đấy, chúng tôi gặp hàng loạt sự cố kỹ thuật bất ngờ vào phút chót, và tôi không thể vào cơ sở dữ liệu để lấy thông tin cần cho việc phân tích dữ liệu."
   },
   {
     "word": "procrastinate",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "leave tasks or duties for a later time",
     "vi": "chần chừ",
-    "viDef": "để việc lại làm sau"
+    "viDef": "để việc lại làm sau",
+    "ex": "You're essentially blaming the tech team for your time management issues, rather than accepting responsibility for the fact that you were procrastinating for the past two weeks.",
+    "exHit": "procrastinating",
+    "exVi": "Về cơ bản bạn đang đổ lỗi cho nhóm kỹ thuật về vấn đề quản lý thời gian của mình, thay vì nhận trách nhiệm rằng bạn đã trì hoãn suốt hai tuần qua."
   },
   {
     "word": "pass the buck",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "blame someone else, pass on the responsibility",
     "vi": "đẩy trách nhiệm",
-    "viDef": "quy lỗi cho người khác, đùn việc"
+    "viDef": "quy lỗi cho người khác, đùn việc",
+    "ex": "No, I'm not trying to pass the buck here; I know that it was me who is ultimately responsible for getting this done.",
+    "exHit": "pass the buck",
+    "exVi": "Không, tôi không định đổ trách nhiệm cho ai; tôi biết cuối cùng chính tôi là người chịu trách nhiệm hoàn thành việc này."
   },
   {
     "word": "ultimately",
@@ -93,7 +126,10 @@
     "type": "General Adverb",
     "def": "at last; in the end; eventually.",
     "vi": "sau cùng",
-    "viDef": "cuối cùng thì"
+    "viDef": "cuối cùng thì",
+    "ex": "No, I'm not trying to pass the buck here; I know that it was me who is ultimately responsible for getting this done.",
+    "exHit": "ultimately",
+    "exVi": "Không, tôi không định đổ trách nhiệm cho ai; tôi biết cuối cùng chính tôi là người chịu trách nhiệm hoàn thành việc này."
   },
   {
     "word": "on my plate",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "another way of saying I have many things to do",
     "vi": "việc đầy trên vai",
-    "viDef": "cách nói mình đang có rất nhiều việc"
+    "viDef": "cách nói mình đang có rất nhiều việc",
+    "ex": "I've got a lot on my plate and there are only twenty-four hours in a day...",
+    "exHit": "on my plate",
+    "exVi": "Tôi có quá nhiều việc phải làm mà một ngày chỉ có hai mươi bốn giờ..."
   },
   {
     "word": "phoney",
@@ -109,7 +148,10 @@
     "type": "Adjective",
     "def": "not true, fake or false",
     "vi": "giả tạo",
-    "viDef": "không thật, bịa"
+    "viDef": "không thật, bịa",
+    "ex": "No more phoney excuses.",
+    "exHit": "phoney",
+    "exVi": "Không còn những lời bào chữa giả dối nữa."
   },
   {
     "word": "in over your head",
@@ -117,7 +159,10 @@
     "type": "phrase",
     "def": "too much to handle",
     "vi": "quá sức mình",
-    "viDef": "nhiều hơn khả năng xử lý"
+    "viDef": "nhiều hơn khả năng xử lý",
+    "ex": "If you're in over your head, you tell me.",
+    "exHit": "in over your head",
+    "exVi": "Nếu bạn không kham nổi việc, hãy nói với tôi."
   },
   {
     "word": "behind schedule",
@@ -125,7 +170,10 @@
     "type": "phrase",
     "def": "later than expected",
     "vi": "trễ tiến độ",
-    "viDef": "muộn hơn dự tính"
+    "viDef": "muộn hơn dự tính",
+    "ex": "Our project is behind schedule because of the technical problems.",
+    "exHit": "behind schedule",
+    "exVi": "Dự án của chúng ta bị chậm tiến độ vì các sự cố kỹ thuật."
   },
   {
     "word": "procrastination",
@@ -133,7 +181,10 @@
     "type": "common noun, non-variable",
     "def": "the action of delaying one's work",
     "vi": "sự trì hoãn",
-    "viDef": "việc để công việc chậm lại"
+    "viDef": "việc để công việc chậm lại",
+    "ex": "Procrastination is the biggest reason I miss deadlines.",
+    "exHit": "Procrastination",
+    "exVi": "Trì hoãn là lý do lớn nhất khiến tôi trễ hạn chót."
   },
   {
     "word": "fabricate",
@@ -141,7 +192,10 @@
     "type": "verb",
     "def": "to create an untrue story",
     "vi": "bịa ra",
-    "viDef": "dựng chuyện không thật"
+    "viDef": "dựng chuyện không thật",
+    "ex": "He tried to fabricate an excuse for missing the deadline.",
+    "exHit": "fabricate",
+    "exVi": "Anh ta cố bịa ra một cái cớ cho việc trễ hạn chót."
   },
   {
     "word": "justify",
@@ -149,7 +203,10 @@
     "type": "verb",
     "def": "to give the reasons why you did something wrong",
     "vi": "biện minh",
-    "viDef": "nêu lý do cho việc mình làm sai"
+    "viDef": "nêu lý do cho việc mình làm sai",
+    "ex": "You can't justify missing the deadline with a small excuse.",
+    "exHit": "justify",
+    "exVi": "Bạn không thể biện minh cho việc trễ hạn chót bằng một cái cớ nhỏ."
   },
   {
     "word": "tardiness",
@@ -157,6 +214,9 @@
     "type": "common noun, non-variable",
     "def": "the quality of being late often",
     "vi": "thói đi muộn",
-    "viDef": "tính hay trễ giờ"
+    "viDef": "tính hay trễ giờ",
+    "ex": "Your tardiness is affecting the whole team's work.",
+    "exHit": "tardiness",
+    "exVi": "Việc bạn hay đi trễ đang ảnh hưởng đến công việc của cả nhóm."
   }
 ]

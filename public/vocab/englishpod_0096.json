@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "a place where a person lives",
     "vi": "chỗ ở",
-    "viDef": "nơi một người sống"
+    "viDef": "nơi một người sống",
+    "ex": "I really like your pad.",
+    "exHit": "pad",
+    "exVi": "Tôi rất thích chỗ ở của bạn."
   },
   {
     "word": "dig",
@@ -13,7 +16,10 @@
     "type": "principle verb, present simple",
     "def": "appreciate, like",
     "vi": "thích",
-    "viDef": "ưa, cảm được"
+    "viDef": "ưa, cảm được",
+    "ex": "I wanted a pad where people could come, listen to music and just hang loose, you dig what I'm saying?",
+    "exHit": "dig",
+    "exVi": "Tôi muốn có một chỗ để mọi người có thể đến nghe nhạc và thư giãn, bạn hiểu ý tôi chứ?"
   },
   {
     "word": "far out",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "the latest, cool",
     "vi": "xịn hết cỡ",
-    "viDef": "mới nhất, ngầu"
+    "viDef": "mới nhất, ngầu",
+    "ex": "I heard it was far out, man!",
+    "exHit": "far out",
+    "exVi": "Tôi nghe nói nó tuyệt cú mèo, anh bạn!"
   },
   {
     "word": "crash",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "sleep (informal)",
     "vi": "ngủ lăn ra",
-    "viDef": "đi ngủ (thân mật)"
+    "viDef": "đi ngủ (thân mật)",
+    "ex": "Thanks for letting me crash here tonight.",
+    "exHit": "crash",
+    "exVi": "Cảm ơn bạn đã cho tôi ngủ nhờ ở đây tối nay."
   },
   {
     "word": "brother",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "buddy, informal way to call a close friend",
     "vi": "anh em",
-    "viDef": "cách gọi bạn thân thân mật"
+    "viDef": "cách gọi bạn thân thân mật",
+    "ex": "Don't worry about me brother...",
+    "exHit": "brother",
+    "exVi": "Đừng lo cho tôi, anh bạn..."
   },
   {
     "word": "hang loose",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "relax",
     "vi": "cứ thả lỏng",
-    "viDef": "thư giãn"
+    "viDef": "thư giãn",
+    "ex": "I wanted a pad where people could come, listen to music and just hang loose, you dig what I'm saying?",
+    "exHit": "hang loose",
+    "exVi": "Tôi muốn có một chỗ để mọi người có thể đến nghe nhạc và thư giãn, bạn hiểu ý tôi chứ?"
   },
   {
     "word": "bash",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "a big party",
     "vi": "tiệc lớn",
-    "viDef": "buổi tiệc to"
+    "viDef": "buổi tiệc to",
+    "ex": "We could throw a bash here and make it a really happening scene!",
+    "exHit": "bash",
+    "exVi": "Chúng ta có thể tổ chức một bữa tiệc lớn ở đây và biến nó thành một nơi thật sôi động!"
   },
   {
     "word": "happening scene",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "an extremely exciting moment",
     "vi": "chỗ đang xôm",
-    "viDef": "khoảnh khắc cực náo nhiệt"
+    "viDef": "khoảnh khắc cực náo nhiệt",
+    "ex": "We could throw a bash here and make it a really happening scene!",
+    "exHit": "happening scene",
+    "exVi": "Chúng ta có thể tổ chức một bữa tiệc lớn ở đây và biến nó thành một nơi thật sôi động!"
   },
   {
     "word": "groovy",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "really cool",
     "vi": "bắt tai, hết sảy",
-    "viDef": "rất ngầu"
+    "viDef": "rất ngầu",
+    "ex": "Yeah man, that would be groovy!",
+    "exHit": "groovy",
+    "exVi": "Ừ anh bạn, thế thì tuyệt lắm!"
   },
   {
     "word": "split",
@@ -77,7 +104,10 @@
     "type": "principle verb, infinitive",
     "def": "leave here",
     "vi": "dông",
-    "viDef": "rời khỏi đây"
+    "viDef": "rời khỏi đây",
+    "ex": "After the party, we split before it got too late.",
+    "exHit": "split",
+    "exVi": "Sau bữa tiệc, tụi mình chuồn đi trước khi quá muộn."
   },
   {
     "word": "peace out",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "see you later",
     "vi": "thôi tôi đi nha",
-    "viDef": "gặp sau"
+    "viDef": "gặp sau",
+    "ex": "Alright, peace out.",
+    "exHit": "peace out",
+    "exVi": "Được rồi, hẹn gặp lại."
   },
   {
     "word": "man",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "an informal way to call a friend",
     "vi": "ông bạn",
-    "viDef": "cách gọi bạn thân mật"
+    "viDef": "cách gọi bạn thân mật",
+    "ex": "Yeah man, that would be groovy!",
+    "exHit": "man",
+    "exVi": "Ừ anh bạn, thế thì tuyệt lắm!"
   },
   {
     "word": "throw",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "hold (a party)",
     "vi": "tổ chức",
-    "viDef": "mở một buổi tiệc"
+    "viDef": "mở một buổi tiệc",
+    "ex": "We could throw a bash here and make it a really happening scene!",
+    "exHit": "throw",
+    "exVi": "Chúng ta có thể tổ chức một bữa tiệc lớn ở đây và biến nó thành một nơi thật sôi động!"
   },
   {
     "word": "a gas",
@@ -109,7 +148,10 @@
     "type": "phrase",
     "def": "a really fun time",
     "vi": "vui phải biết",
-    "viDef": "khoảng thời gian rất vui"
+    "viDef": "khoảng thời gian rất vui",
+    "ex": "The party last night was a gas!",
+    "exHit": "a gas",
+    "exVi": "Bữa tiệc tối qua vui cực kỳ!"
   },
   {
     "word": "hip",
@@ -117,7 +159,10 @@
     "type": "Adjective",
     "def": "very cool",
     "vi": "thời thượng",
-    "viDef": "rất ngầu"
+    "viDef": "rất ngầu",
+    "ex": "Your new jacket is really hip, man.",
+    "exHit": "hip",
+    "exVi": "Chiếc áo khoác mới của bạn thật sành điệu, anh bạn."
   },
   {
     "word": "nifty",
@@ -125,7 +170,10 @@
     "type": "Adjective",
     "def": "cool, neat",
     "vi": "gọn ghẽ, hay",
-    "viDef": "ngầu, đẹp"
+    "viDef": "ngầu, đẹp",
+    "ex": "That's a nifty little trick, where did you learn it?",
+    "exHit": "nifty",
+    "exVi": "Mẹo nhỏ đó hay đấy, bạn học ở đâu vậy?"
   },
   {
     "word": "blitzed",
@@ -133,7 +181,10 @@
     "type": "Adjective",
     "def": "very drunk",
     "vi": "say bét nhè",
-    "viDef": "uống rất nhiều rượu"
+    "viDef": "uống rất nhiều rượu",
+    "ex": "He got blitzed at the party and fell asleep on the couch.",
+    "exHit": "blitzed",
+    "exVi": "Anh ấy say bí tỉ ở bữa tiệc và ngủ quên trên ghế sofa."
   },
   {
     "word": "bitchen",
@@ -141,6 +192,9 @@
     "type": "Adjective",
     "def": "awesome, really cool",
     "vi": "đỉnh thật",
-    "viDef": "tuyệt, rất ngầu"
+    "viDef": "tuyệt, rất ngầu",
+    "ex": "That new record by the band is bitchen!",
+    "exHit": "bitchen",
+    "exVi": "Đĩa nhạc mới của ban nhạc đó tuyệt cú mèo!"
   }
 ]

@@ -1,256 +1,256 @@
-{"w":"grab","d":"get quickly","ex":"I'll just go grab a burger across the street.","hit":"grab","src":"dialogue","ep":1,"vi":""}
-{"w":"go with","d":"to choose, pick","ex":"I'll go with the spaghetti and meatballs, salad and the wine.","hit":"go with","src":"dialogue","ep":1,"vi":""}
-{"w":"would recommend","d":"suggest","ex":"For you sir, I would recommend spaghetti and meatballs.","hit":"would recommend","src":"dialogue","ep":1,"vi":""}
-{"w":"complimentary","d":"free","ex":"It comes with either soup or salad and a complimentary glass of wine, sir.","hit":"complimentary","src":"dialogue","ep":1,"vi":""}
-{"w":"still working on","d":"not yet completed, need more time","ex":"No, I'm still working on it.","hit":"still working on","src":"dialogue","ep":1,"vi":""}
-{"w":"impatient","d":"uncomfortable waiting, wanting to go","ex":"","hit":"","src":"written","ep":1,"vi":""}
-{"w":"fast food","d":"food prepared and served quickly","ex":"","hit":"","src":"written","ep":1,"vi":""}
-{"w":"waitress","d":"female server at a restaurant or bar","ex":"","hit":"","src":"written","ep":1,"vi":""}
-{"w":"fancy","d":"nice, expensive, up-scale","ex":"","hit":"","src":"written","ep":1,"vi":""}
-{"w":"casual","d":"relaxed, not dressy","ex":"","hit":"","src":"written","ep":1,"vi":""}
-{"w":"was hoping","d":"to kindly expect","ex":"Yes, I was hoping to take the day off to recover.","hit":"was hoping","src":"dialogue","ep":2,"vi":""}
-{"w":"calling in sick","d":"report that you will not go to work because you are sick","ex":"so you're calling in sick?","hit":"calling in sick","src":"dialogue","ep":2,"vi":""}
-{"w":"coming down","d":"getting, acquiring","ex":"I think I'm coming down with the flu.","hit":"coming down","src":"dialogue","ep":2,"vi":""}
-{"w":"quite ill","d":"very sick","ex":"Actually, I'm feeling quite ill today.","hit":"quite ill","src":"dialogue","ep":2,"vi":""}
-{"w":"how may I help you?","d":"Polite offer to help","ex":"Hello, Daniel speaking, how may I help you?","hit":"how may I help you","src":"dialogue","ep":2,"vi":""}
-{"w":"impolite","d":"rude","ex":"","hit":"","src":"written","ep":2,"vi":""}
-{"w":"permission","d":"allow","ex":"","hit":"","src":"written","ep":2,"vi":""}
-{"w":"symptom","d":"a sign, indication","ex":"","hit":"","src":"written","ep":2,"vi":""}
-{"w":"sick day","d":"day off because you're sick","ex":"","hit":"","src":"written","ep":2,"vi":""}
-{"w":"make it into work","d":"go to work","ex":"","hit":"","src":"written","ep":2,"vi":""}
-{"w":"check in","d":"register at a hotel or airport","ex":"I'd like to check in please.","hit":"check in","src":"dialogue","ep":3,"vi":""}
-{"w":"under the name","d":"name used for the reservation","ex":"I have a reservation under the name Anthony Roberts.","hit":"under the name","src":"dialogue","ep":3,"vi":""}
-{"w":"reservation","d":"booking","ex":"I have a reservation under the name Anthony Roberts.","hit":"reservation","src":"dialogue","ep":3,"vi":""}
-{"w":"confirmation","d":"an approval, verification","ex":"Yeah…Here, this is my confirmation number.","hit":"confirmation","src":"dialogue","ep":3,"vi":""}
-{"w":"mix-up","d":"confusion","ex":"","hit":"","src":"written","ep":3,"vi":""}
-{"w":"complimentary upgrade","d":"free improvement of quality","ex":"We're pleased to offer you a complimentary upgrade.","hit":"complimentary upgrade","src":"dialogue","ep":3,"vi":""}
-{"w":"overbooked","d":"full","ex":"You're right Mr. Roberts, there seems to be a mix-up, unfortunately we're overbooked at the moment.","hit":"overbooked","src":"dialogue","ep":3,"vi":""}
-{"w":"check out","d":"pay and leave a hotel","ex":"","hit":"","src":"written","ep":3,"vi":""}
-{"w":"booking","d":"reservation","ex":"","hit":"","src":"written","ep":3,"vi":""}
-{"w":"concierge","d":"hotel employee that helps guests","ex":"","hit":"","src":"written","ep":3,"vi":""}
-{"w":"deluxe room","d":"hotel room, better than standard","ex":"","hit":"","src":"written","ep":3,"vi":""}
-{"w":"receipt","d":"paper showing payment details","ex":"","hit":"","src":"written","ep":3,"vi":""}
-{"w":"resources","d":"money","ex":"like I told you before, we just don't have the resources to hire you an assistant.","hit":"resources","src":"dialogue","ep":4,"vi":""}
-{"w":"understaffed","d":"not enough people to do the job","ex":"I understand that, but the fact is we're understaffed.","hit":"understaffed","src":"dialogue","ep":4,"vi":""}
-{"w":"the timing is just not right","d":"it is not a good time now","ex":"The timing is just not right.","hit":"The timing is just not right","src":"dialogue","ep":4,"vi":""}
-{"w":"weight off my shoulders","d":"remove pressure or stress","ex":"She would take some of the weight off my shoulders.","hit":"weight off my shoulders","src":"dialogue","ep":4,"vi":""}
-{"w":"give me a hand","d":"help","ex":"She could give me a hand with some of these projects and we could keep our costs down.","hit":"give me a hand","src":"dialogue","ep":4,"vi":""}
-{"w":"that sounds reasonable","d":"is OK","ex":"That sounds reasonable...","hit":"That sounds reasonable","src":"dialogue","ep":4,"vi":""}
-{"w":"recruit","d":"hire","ex":"","hit":"","src":"written","ep":4,"vi":""}
-{"w":"overworked","d":"working too much","ex":"","hit":"","src":"written","ep":4,"vi":""}
-{"w":"short staffed","d":"not enough people to do the job","ex":"","hit":"","src":"written","ep":4,"vi":""}
-{"w":"cut costs","d":"reduce spending","ex":"","hit":"","src":"written","ep":4,"vi":""}
-{"w":"overstaffed","d":"having too many employees","ex":"","hit":"","src":"written","ep":4,"vi":""}
-{"w":"unbelievable","d":"incredible, amazing","ex":"The traffic in New York is unbelievable.","hit":"unbelievable","src":"dialogue","ep":5,"vi":""}
-{"w":"relax","d":"calm down","ex":"Yeah, but just relax honey, we're here and we're going on vacation.","hit":"relax","src":"dialogue","ep":5,"vi":""}
-{"w":"be a mile long","d":"is very long","ex":"It must be a mile long!","hit":"be a mile long","src":"dialogue","ep":5,"vi":""}
-{"w":"cut in line","d":"move in front of someone waiting in line","ex":"No seriously, I was here first, and you can't cut in line like this.","hit":"cut in line","src":"dialogue","ep":5,"vi":""}
-{"w":"there's no way","d":"it's impossible","ex":"There's no way I'm waiting for another two hours.","hit":"There's no way","src":"dialogue","ep":5,"vi":""}
-{"w":"traffic jam","d":"many cars not moving on the road","ex":"","hit":"","src":"written","ep":5,"vi":""}
-{"w":"a few hours from now","d":"soon, in a couple of hours","ex":"","hit":"","src":"written","ep":5,"vi":""}
-{"w":"form a queue","d":"to get in line","ex":"","hit":"","src":"written","ep":5,"vi":""}
-{"w":"jump the queue","d":"cut in line ( Br E)","ex":"","hit":"","src":"written","ep":5,"vi":""}
-{"w":"stand in line","d":"wait in line","ex":"","hit":"","src":"written","ep":5,"vi":""}
-{"w":"line up","d":"form a line","ex":"","hit":"","src":"written","ep":5,"vi":""}
-{"w":"all ready to go","d":"prepared, ready to leave","ex":"So, are we all ready to go?","hit":"all ready to go","src":"dialogue","ep":6,"vi":""}
-{"w":"packed","d":"full, everything is inside","ex":"The car's packed; we have munchies and music, and the map's in the car.","hit":"packed","src":"dialogue","ep":6,"vi":""}
-{"w":"munchies","d":"snacks, food","ex":"The car's packed; we have munchies and music, and the map's in the car.","hit":"munchies","src":"dialogue","ep":6,"vi":""}
-{"w":"fill up the tank","d":"put gas in the car","ex":"Did you fill up the tank?","hit":"fill up the tank","src":"dialogue","ep":6,"vi":""}
-{"w":"all set","d":"ready","ex":"Yup, it's all set.","hit":"all set","src":"dialogue","ep":6,"vi":""}
-{"w":"got all the bases covered","d":"have everything ready","ex":"","hit":"","src":"written","ep":6,"vi":""}
-{"w":"get going","d":"start, leave, depart","ex":"Well… let's get going then!","hit":"get going","src":"dialogue","ep":6,"vi":""}
-{"w":"road trip","d":"long car trip","ex":"I love road trips!","hit":"road trips","src":"dialogue","ep":6,"vi":"","check":true}
-{"w":"pit stop","d":"quick stop for food or gas","ex":"do you think we can make a pit stop?","hit":"pit stop","src":"dialogue","ep":6,"vi":""}
-{"w":"trunk","d":"the luggage area of a car","ex":"","hit":"","src":"written","ep":6,"vi":""}
-{"w":"passenger","d":"person in a car, not the driver","ex":"","hit":"","src":"written","ep":6,"vi":""}
-{"w":"freeway","d":"highway","ex":"","hit":"","src":"written","ep":6,"vi":""}
-{"w":"rental car","d":"a car you rent, a car you pay to borrow","ex":"","hit":"","src":"written","ep":6,"vi":""}
-{"w":"highway toll","d":"fee paid for using the highway","ex":"","hit":"","src":"written","ep":6,"vi":""}
-{"w":"freeze","d":"to stop working properly","ex":"","hit":"","src":"written","ep":7,"vi":""}
-{"w":"take a look","d":"see, revise","ex":"Hey Samuel, can you come take a look at my PC?","hit":"take a look","src":"dialogue","ep":7,"vi":""}
-{"w":"act up","d":"not working properly","ex":"It's acting up again.","hit":"acting up","src":"dialogue","ep":7,"vi":"","check":true}
-{"w":"be right up","d":"go upstairs soon","ex":"Just give me a second; I'll be right up.","hit":"be right up","src":"dialogue","ep":7,"vi":""}
-{"w":"pick up","d":"get, acquire","ex":"But I'm quite careful when I'm browsing the internet, I have no idea how I could have picked up a virus.","hit":"picked up","src":"dialogue","ep":7,"vi":"","check":true}
-{"w":"browse","d":"look, search","ex":"But I'm quite careful when I'm browsing the internet, I have no idea how I could have picked up a virus.","hit":"browsing","src":"dialogue","ep":7,"vi":"","check":true}
-{"w":"up to date","d":"having all the most recent information","ex":"Well, you have to make sure that your anti-virus software is updated regularly; yours wasn't up to date, that's probably what was causing your problems.","hit":"up to date","src":"dialogue","ep":7,"vi":""}
-{"w":"monitor","d":"computer screen","ex":"","hit":"","src":"written","ep":7,"vi":""}
-{"w":"computer tech","d":"person in a company who fixes computers","ex":"","hit":"","src":"written","ep":7,"vi":""}
-{"w":"corrupt file","d":"damaged or broken computer file that can't be opened","ex":"","hit":"","src":"written","ep":7,"vi":""}
-{"w":"surf the net","d":"look for information on the internet","ex":"","hit":"","src":"written","ep":7,"vi":""}
-{"w":"web browser","d":"computer program that allows you to go on the internet","ex":"","hit":"","src":"written","ep":7,"vi":""}
-{"w":"how's it going","d":"how are you","ex":"How's it going?","hit":"How's it going","src":"dialogue","ep":8,"vi":""}
-{"w":"around here","d":"close to here","ex":"Do you live around here?","hit":"around here","src":"dialogue","ep":8,"vi":""}
-{"w":"around the corner","d":"on the next street","ex":"Actually, my office is right around the corner.","hit":"around the corner","src":"dialogue","ep":8,"vi":""}
-{"w":"in bit of a hurry","d":"moving quickly, having no time","ex":"You know, I'm in a bit of a hurry, but here's my card.","hit":"in a bit of a hurry","src":"dialogue","ep":8,"vi":"","check":true}
-{"w":"contact details","d":"information required to contact someone, i.e. telephone number, email address","ex":"Sure, you still have my contact details, right?","hit":"contact details","src":"dialogue","ep":8,"vi":""}
-{"w":"slip my mind","d":"been forgotten","ex":"You know what, this is really embarrassing, but your name has just slipped my mind.","hit":"slipped my mind","src":"dialogue","ep":8,"vi":"","check":true}
-{"w":"terrible with","d":"bad at","ex":"I'm terrible with names too.","hit":"terrible with","src":"dialogue","ep":8,"vi":""}
-{"w":"around there","d":"close to there","ex":"Actually, my office is right around the corner.","hit":"around the","src":"dialogue","ep":8,"vi":"","check":true}
-{"w":"to recognize","d":"to know and remember someone or something you have seen before","ex":"","hit":"","src":"written","ep":8,"vi":""}
-{"w":"acquaintance","d":"someone you know, but who is not a close friend","ex":"","hit":"","src":"written","ep":8,"vi":""}
-{"w":"in a rush","d":"move quickly, not have much time","ex":"","hit":"","src":"written","ep":8,"vi":""}
-{"w":"forgetful","d":"forgetting things easily","ex":"","hit":"","src":"written","ep":8,"vi":""}
-{"w":"inconsiderate","d":"not thinking of the feelings of other people; not thoughtful","ex":"It's so inconsiderate!","hit":"inconsiderate","src":"dialogue","ep":9,"vi":""}
-{"w":"not such a big deal","d":"not a big problem","ex":"Don't worry about it; it's not such a big deal.","hit":"not such a big deal","src":"dialogue","ep":9,"vi":""}
-{"w":"can't hear a thing","d":"unable to hear","ex":"I can't hear a thing!","hit":"can't hear a thing","src":"dialogue","ep":9,"vi":""}
-{"w":"keep it down","d":"be quiet","ex":"Excuse me, can you keep it down?","hit":"keep it down","src":"dialogue","ep":9,"vi":""}
-{"w":"switch off","d":"turn off","ex":"Did you forget to switch it off?","hit":"switch it off","src":"dialogue","ep":9,"vi":"","check":true}
-{"w":"do you mind","d":"could you please","ex":"Do you mind keeping it down?","hit":"Do you mind","src":"dialogue","ep":9,"vi":""}
-{"w":"noisy","d":"very loud","ex":"Those people in front of us are making so much noise.","hit":"noise","src":"dialogue","ep":9,"vi":"","check":true}
-{"w":"rude","d":"impolite","ex":"","hit":"","src":"written","ep":9,"vi":""}
-{"w":"to disturb","d":"to interrupt, bother, or upset","ex":"","hit":"","src":"written","ep":9,"vi":""}
-{"w":"to interrupt","d":"to speak or make noise when someone else is speaking","ex":"","hit":"","src":"written","ep":9,"vi":""}
-{"w":"to whisper","d":"to speak very softly","ex":"","hit":"","src":"written","ep":9,"vi":""}
-{"w":"concrete solutions","d":"a real or specific solution to a problem","ex":"I want concrete solutions.","hit":"concrete solutions","src":"dialogue","ep":10,"vi":""}
-{"w":"drive sales","d":"increase sales","ex":"How do you intend to drive sales...","hit":"drive sales","src":"dialogue","ep":10,"vi":""}
-{"w":"in the market","d":"in the industry","ex":"Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?","hit":"in the market","src":"dialogue","ep":10,"vi":""}
-{"w":"to match the competitors","d":"be the as good as or better than others companies in the same industry","ex":"Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?","hit":"to match the competitors","src":"dialogue","ep":10,"vi":""}
-{"w":"will never fly","d":"will not work, will not be approved","ex":"","hit":"","src":"written","ep":10,"vi":""}
-{"w":"promotion","d":"something done to make people aware of a product","ex":"Um, perhaps, um, a sales promotion.","hit":"promotion","src":"dialogue","ep":10,"vi":""}
-{"w":"be here any minute","d":"will arrive very soon","ex":"The CEO will be here any minute.","hit":"be here any minute","src":"dialogue","ep":10,"vi":""}
-{"w":"to consider","d":"thinking about","ex":"","hit":"","src":"written","ep":10,"vi":""}
-{"w":"brilliant","d":"excellent","ex":"In fact, that's a brilliant idea!","hit":"brilliant","src":"dialogue","ep":10,"vi":""}
-{"w":"competitive","d":"as good as or better than others of the same type","ex":"Yes Mr. Swan, we were kind of considering a two-for-one offer to get more competitive.","hit":"competitive","src":"dialogue","ep":10,"vi":""}
-{"w":"win sales","d":"make sales sucessfully","ex":"","hit":"","src":"written","ep":10,"vi":""}
-{"w":"sales strategy","d":"plans for a company's sales activities","ex":"","hit":"","src":"written","ep":10,"vi":""}
-{"w":"sales cycle","d":"the process a customer goes though when deciding to buy a product","ex":"","hit":"","src":"written","ep":10,"vi":""}
-{"w":"to outsell","d":"to sell more than others","ex":"","hit":"","src":"written","ep":10,"vi":""}
-{"w":"customer loyalty","d":"when a customer buys the same brand over and over","ex":"","hit":"","src":"written","ep":10,"vi":""}
-{"w":"I don't know if you heard","d":"phrase used to introduce a piece of information","ex":"Oh, I don't know if you heard, but someone moved into that old house down the road.","hit":"I don't know if you heard","src":"dialogue","ep":11,"vi":""}
-{"w":"fill me in","d":"tell me about it","ex":"You have to fill me in.","hit":"fill me in","src":"dialogue","ep":11,"vi":""}
-{"w":"a bad feeling","d":"a sense or feeling that something bad is going to happen","ex":"I've got a bad feeling about him.","hit":"a bad feeling","src":"dialogue","ep":11,"vi":""}
-{"w":"weird","d":"strange, unusual","ex":"Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out!","hit":"weird","src":"dialogue","ep":11,"vi":""}
-{"w":"kick out","d":"make or force someone leave when they don't want to","ex":"Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out!","hit":"kicked me out","src":"dialogue","ep":11,"vi":"","check":true}
-{"w":"creep me out","d":"make me feel uncomfortable and a bit scared","ex":"","hit":"","src":"written","ep":11,"vi":""}
-{"w":"you'll never guess","d":"phrase used to introduce a piece of news","ex":"Well, you'll never guess what I saw this morning.","hit":"you'll never guess","src":"dialogue","ep":11,"vi":""}
-{"w":"scare the heck out of me","d":"cause someone to feel a lot of fear","ex":"You scared the heck out of me!","hit":"scared the heck out of me","src":"dialogue","ep":11,"vi":"","check":true}
-{"w":"bizarre","d":"strange or unusual","ex":"","hit":"","src":"written","ep":11,"vi":""}
-{"w":"creepy","d":"strange or scary, causing people to feel nervous and afraid","ex":"","hit":"","src":"written","ep":11,"vi":""}
-{"w":"vampire","d":"a dead person who drinks the blood of living people","ex":"","hit":"","src":"written","ep":11,"vi":""}
-{"w":"have you heard","d":"phrase used to introduce a piece of gossip","ex":"","hit":"","src":"written","ep":11,"vi":""}
-{"w":"guess what","d":"phrase used to introduce an interesting or surprising piece of information","ex":"Well, you'll never guess what I saw this morning.","hit":"guess what","src":"dialogue","ep":11,"vi":""}
-{"w":"such a mess","d":"very dirty, disordered","ex":"Honey, the house is such a mess!","hit":"such a mess","src":"dialogue","ep":12,"vi":""}
-{"w":"tidy up","d":"put things in place, organize","ex":"I need you to help me tidy up a bit.","hit":"tidy up","src":"dialogue","ep":12,"vi":""}
-{"w":"spotless","d":"perfectly clean","ex":"My boss and her husband are coming over for dinner and the house needs to be spotless!","hit":"spotless","src":"dialogue","ep":12,"vi":""}
-{"w":"in the middle of something","d":"busy doing something at the moment","ex":"I'm in the middle of something right now.","hit":"in the middle of something","src":"dialogue","ep":12,"vi":""}
-{"w":"chores","d":"common house tasks","ex":"Ok, here's a list of chores we need to get done.","hit":"chores","src":"dialogue","ep":12,"vi":""}
-{"w":"groceries","d":"food that you buy at a store","ex":"I'll do the dishes and get all the groceries for tonight.","hit":"groceries","src":"dialogue","ep":12,"vi":""}
-{"w":"spring cleaning","d":"careful, thorough house cleaning usually done in the spring/ spring cleaning","ex":"","hit":"","src":"written","ep":12,"vi":""}
-{"w":"immaculate","d":"perfectly clean, having no dirt at all","ex":"","hit":"","src":"written","ep":12,"vi":""}
-{"w":"do the laundry","d":"wash the dirty clothes","ex":"","hit":"","src":"written","ep":12,"vi":""}
-{"w":"dish detergent","d":"soap used to wash the plates, knives, forks, bowls, etc.","ex":"","hit":"","src":"written","ep":12,"vi":""}
-{"w":"trash","d":"garbage (AmE)","ex":"","hit":"","src":"written","ep":12,"vi":""}
-{"w":"rubbish","d":"garbage (BrE)","ex":"","hit":"","src":"written","ep":12,"vi":""}
-{"w":"go over","d":"revise, check","ex":"Jill, let's go over the profit and loss statement.","hit":"go over","src":"dialogue","ep":13,"vi":""}
-{"w":"through the roof","d":"suddenly very high","ex":"Well, the main issue here, as you can see, is that our expenses are through the roof.","hit":"through the roof","src":"dialogue","ep":13,"vi":""}
-{"w":"off the charts","d":"very high","ex":"These numbers are off the charts!","hit":"off the charts","src":"dialogue","ep":13,"vi":""}
-{"w":"expenditures","d":"amount of money spent on something","ex":"Well, um, sir, the company expenditures on entertainment and travel are out of control.","hit":"expenditures","src":"dialogue","ep":13,"vi":""}
-{"w":"out of control","d":"not in control","ex":"Well, um, sir, the company expenditures on entertainment and travel are out of control.","hit":"out of control","src":"dialogue","ep":13,"vi":""}
-{"w":"look into","d":"investigate, try to get information about something","ex":"I'll look into it.","hit":"look into","src":"dialogue","ep":13,"vi":""}
-{"w":"go on and on","d":"continues","ex":"The list goes on and on.","hit":"goes on and on","src":"dialogue","ep":13,"vi":"","check":true}
-{"w":"take care of","d":"do something about","ex":"I'll take care of it.","hit":"take care of","src":"dialogue","ep":13,"vi":""}
-{"w":"revenue","d":"amount of money paid to a business","ex":"","hit":"","src":"written","ep":13,"vi":""}
-{"w":"cash flow","d":"the movement of money into and out of a business","ex":"","hit":"","src":"written","ep":13,"vi":""}
-{"w":"the bottom line","d":"the net profit; the amount of money a business makes after expenses","ex":"","hit":"","src":"written","ep":13,"vi":""}
-{"w":"finances","d":"the amount of money you have and how well it is organized","ex":"","hit":"","src":"written","ep":13,"vi":""}
-{"w":"income","d":"the amount of money a person or a company makes","ex":"","hit":"","src":"written","ep":13,"vi":""}
-{"w":"assets","d":"things of value that are owned by a company","ex":"","hit":"","src":"written","ep":13,"vi":""}
-{"w":"trouble","d":"disturb or bother","ex":"Mr. Corlone, I'm really sorry to trouble you, but I need your help.","hit":"trouble","src":"dialogue","ep":14,"vi":""}
-{"w":"recession","d":"a period of time when the economy of a country is bad","ex":"You're not the only one who has been hit by the recession!","hit":"recession","src":"dialogue","ep":14,"vi":""}
-{"w":"hit me pretty hard","d":"had a strong, negative affect on me","ex":"Well, sir, you see, this recession has hit me pretty hard; I lost my job and I'm in a lot of debt.","hit":"hit me pretty hard","src":"dialogue","ep":14,"vi":""}
-{"w":"debt","d":"the amount of money you owe to a person, bank, company, etc.","ex":"Well, sir, you see, this recession has hit me pretty hard; I lost my job and I'm in a lot of debt.","hit":"debt","src":"dialogue","ep":14,"vi":""}
-{"w":"on top of all that","d":"besides that, in addition to","ex":"Yeah, you know, I've got credit card bills, car payments, I've got to pay my mortgage; and on top of all that, I have to pay my son's college tuition.","hit":"on top of all that","src":"dialogue","ep":14,"vi":""}
-{"w":"broke","d":"not have any money","ex":"I'm broke too, you know!","hit":"broke","src":"dialogue","ep":14,"vi":""}
-{"w":"borrow","d":"take and use some money, and return the equal amount of money at a later time","ex":"","hit":"","src":"written","ep":14,"vi":""}
-{"w":"pay back","d":"return the money you borrowed","ex":"","hit":"","src":"written","ep":14,"vi":""}
-{"w":"a loan","d":"amount of money borrowed","ex":"So you're asking for a loan.","hit":"a loan","src":"dialogue","ep":14,"vi":""}
-{"w":"take out a loan","d":"borrow money","ex":"","hit":"","src":"written","ep":14,"vi":""}
-{"w":"unemployed","d":"having no job","ex":"","hit":"","src":"written","ep":14,"vi":""}
-{"w":"downturn","d":"a time when the economy is worse than usual","ex":"","hit":"","src":"written","ep":14,"vi":""}
-{"w":"feel terrible","d":"sorry","ex":"I feel terrible, I really didn't mean to knock you over.","hit":"feel terrible","src":"dialogue","ep":15,"vi":""}
-{"w":"mean","d":"intend, plan","ex":"I feel terrible, I really didn't mean to knock you over.","hit":"mean","src":"dialogue","ep":15,"vi":""}
-{"w":"explode","d":"suddenly break apart","ex":"My tire, just exploded, and I lost control of my bike.","hit":"exploded","src":"dialogue","ep":15,"vi":"","check":true}
-{"w":"accident","d":"an event that is not planed or intended","ex":"Really, it was an accident.","hit":"accident","src":"dialogue","ep":15,"vi":""}
-{"w":"familiar","d":"probably known, but not clearly remembered","ex":"Oh, wait a second, you seem really familiar, I think I know you from somewhere.","hit":"familiar","src":"dialogue","ep":15,"vi":""}
-{"w":"place","d":"house","ex":"We met at Aaron's place last weekend!","hit":"place","src":"dialogue","ep":15,"vi":""}
-{"w":"coincidence","d":"situation when two or more things happen at the same time in an unplanned way","ex":"What a coincidence!","hit":"coincidence","src":"dialogue","ep":15,"vi":""}
-{"w":"knock over","d":"make something fall over","ex":"I feel terrible, I really didn't mean to knock you over.","hit":"knock you over","src":"dialogue","ep":15,"vi":"","check":true}
-{"w":"regret","d":"feel sad or sorry about something","ex":"","hit":"","src":"written","ep":15,"vi":""}
-{"w":"apologetic","d":"feeling or showing regret, showing an apology","ex":"","hit":"","src":"written","ep":15,"vi":""}
-{"w":"feel guilty","d":"feel responsible for doing something bad","ex":"","hit":"","src":"written","ep":15,"vi":""}
-{"w":"unfamiliar","d":"not familiar","ex":"","hit":"","src":"written","ep":15,"vi":""}
-{"w":"love at first sight","d":"falling in love the first time you see someone","ex":"","hit":"","src":"written","ep":15,"vi":""}
-{"w":"hurry up","d":"move faster","ex":"Hurry up, get in!","hit":"Hurry up","src":"dialogue","ep":16,"vi":""}
-{"w":"make a left","d":"turn left","ex":"OK, make a left here...","hit":"make a left","src":"dialogue","ep":16,"vi":""}
-{"w":"step on it","d":"drive a lot faster","ex":"step on it!","hit":"step on it","src":"dialogue","ep":16,"vi":""}
-{"w":"nuts","d":"crazy","ex":"Are you nuts?","hit":"nuts","src":"dialogue","ep":16,"vi":""}
-{"w":"speed up","d":"go faster","ex":"Come on speed up!","hit":"speed up","src":"dialogue","ep":16,"vi":""}
-{"w":"have a fit","d":"get very angry","ex":"Having a fit is not going to help!","hit":"Having a fit","src":"dialogue","ep":16,"vi":"","check":true}
-{"w":"cut through","d":"quickly go past or though something that blocks you","ex":"just go down here and we'll cut through Ashburn Heights.","hit":"cut through","src":"dialogue","ep":16,"vi":""}
-{"w":"packed","d":"full, having lots of cars","ex":"The freeway will be packed at this hour....","hit":"packed","src":"dialogue","ep":16,"vi":""}
-{"w":"road rage","d":"be very angry at other drivers while driving","ex":"","hit":"","src":"written","ep":16,"vi":""}
-{"w":"back street","d":"small street that is away from the main streets","ex":"","hit":"","src":"written","ep":16,"vi":""}
-{"w":"u-turn","d":"a 180 degree turn in the car","ex":"","hit":"","src":"written","ep":16,"vi":""}
-{"w":"to back up","d":"to move backwards, the opposite of go forwards","ex":"","hit":"","src":"written","ep":16,"vi":""}
-{"w":"to pass","d":"to drive past another car on the road to pass a car on the road","ex":"","hit":"","src":"written","ep":16,"vi":""}
-{"w":"to park","d":"to stop the car and turn off the engine","ex":"","hit":"","src":"written","ep":16,"vi":""}
-{"w":"married","d":"joined in marriage","ex":"I can't believe that Anthony is finally getting married!","hit":"married","src":"dialogue","ep":17,"vi":""}
-{"w":"it's about time","d":"finally","ex":"Yeah, well, it's about time.","hit":"it's about time","src":"dialogue","ep":17,"vi":""}
-{"w":"bridesmaid","d":"female friends or relatives who helps the bride at a wedding","ex":"Look, here come the bridesmaids!","hit":"bridesmaids","src":"dialogue","ep":17,"vi":"","check":true}
-{"w":"aisle","d":"a passage between sections of seats","ex":"Who are those kids walking down the aisle?","hit":"aisle","src":"dialogue","ep":17,"vi":""}
-{"w":"flower girl","d":"a girl at a wedding that throws flower petals down the aisle","ex":"That's the flower girl and the ring bearer.","hit":"flower girl","src":"dialogue","ep":17,"vi":""}
-{"w":"ring bearer","d":"a boy at a wedding that holds the wedding rings","ex":"That's the flower girl and the ring bearer.","hit":"ring bearer","src":"dialogue","ep":17,"vi":""}
-{"w":"reception","d":"party held to celebrate something or to welcome people","ex":"I hope the food's good at the reception.","hit":"reception","src":"dialogue","ep":17,"vi":""}
-{"w":"groom","d":"a man who is about to be married","ex":"I'm pretty sure they're the groom's niece and nephew.","hit":"groom","src":"dialogue","ep":17,"vi":""}
-{"w":"bride","d":"female who is about to get married","ex":"Oh, I think the bride's coming now!","hit":"bride","src":"dialogue","ep":17,"vi":""}
-{"w":"gorgeous","d":"very beautiful or attractive","ex":"She looks gorgeous.","hit":"gorgeous","src":"dialogue","ep":17,"vi":""}
-{"w":"groomsman","d":"male friend or relative who helps the groom on the wedding day","ex":"","hit":"","src":"written","ep":17,"vi":""}
-{"w":"maid of honor","d":"female fiend or relative who acts as a witness at the wedding","ex":"","hit":"","src":"written","ep":17,"vi":""}
-{"w":"best man","d":"male friend or relative who acts as a witness at the wedding","ex":"","hit":"","src":"written","ep":17,"vi":""}
-{"w":"ushers","d":"men who help guest find their seats","ex":"","hit":"","src":"written","ep":17,"vi":""}
-{"w":"vows","d":"promises that the bride and groom make to each other during the wedding ceremony","ex":"","hit":"","src":"written","ep":17,"vi":""}
-{"w":"protest","d":"an event where people gather together to show disapproval of something","ex":"where a protest has broken out.","hit":"protest","src":"dialogue","ep":18,"vi":""}
-{"w":"break out","d":"start suddenly","ex":"","hit":"","src":"written","ep":18,"vi":""}
-{"w":"bailout","d":"the act of saving a company form money problems","ex":"Thousands of angry citizens are protesting against the proposed bailout of the auto manufacturing industry!","hit":"bailout","src":"dialogue","ep":18,"vi":""}
-{"w":"injustice","d":"an unfair situation","ex":"Yeah, yeah, we are here because we feel this is an injustice!","hit":"injustice","src":"dialogue","ep":18,"vi":""}
-{"w":"outrage","d":"something that is morally wrong","ex":"It's an absolute outrage, Sarah, the US government wants to give twenty-five billion dollars of taxpayers' money to the auto industry.","hit":"outrage","src":"dialogue","ep":18,"vi":""}
-{"w":"mismanage","d":"manage badly","ex":"These are companies that have been mismanaged and are now nearly bankrupt.","hit":"mismanaged","src":"dialogue","ep":18,"vi":"","check":true}
-{"w":"have the nerve","d":"dare to","ex":"And then they have the nerve to fly to Washington in private jets!","hit":"have the nerve","src":"dialogue","ep":18,"vi":""}
-{"w":"placard","d":"sign people hold at protests, usually a piece of cardboard on a stick","ex":"","hit":"","src":"written","ep":18,"vi":""}
-{"w":"rally","d":"public meeting in support or opposition of something","ex":"","hit":"","src":"written","ep":18,"vi":""}
-{"w":"demonstration","d":"event where people gather together to show that they support or oppose something","ex":"","hit":"","src":"written","ep":18,"vi":""}
-{"w":"demonstrators","d":"people who go to a demonstration or protest","ex":"","hit":"","src":"written","ep":18,"vi":""}
-{"w":"opponent","d":"a person who opposes something or someone","ex":"","hit":"","src":"written","ep":18,"vi":""}
-{"w":"proponent","d":"person who supports someone or something","ex":"","hit":"","src":"written","ep":18,"vi":""}
-{"w":"get a load of","d":"look at (informal)","ex":"Get a load of this guy!","hit":"Get a load of","src":"dialogue","ep":19,"vi":""}
-{"w":"license","d":"official document that shows you have permission to drive a car","ex":"License and registration please.","hit":"License","src":"dialogue","ep":19,"vi":""}
-{"w":"eggnog","d":"traditional Christmas drink containing eggs, cream, sugar and rum","ex":"I had one or two glasses of eggnog, but nothing else.","hit":"eggnog","src":"dialogue","ep":19,"vi":""}
-{"w":"vehicle","d":"machine use to carry people, i.e. a car or truck","ex":"Step out of the vehicle, please.","hit":"vehicle","src":"dialogue","ep":19,"vi":""}
-{"w":"step out","d":"briefly go out of a place","ex":"Step out of the vehicle, please.","hit":"Step out","src":"dialogue","ep":19,"vi":""}
-{"w":"take that tone","d":"speak in that tone of voice","ex":"Don't take that tone with me.","hit":"take that tone","src":"dialogue","ep":19,"vi":""}
-{"w":"invoice","d":"official document that shows you have paid for something you bought","ex":"Do you have an invoice for these items?","hit":"invoice","src":"dialogue","ep":19,"vi":""}
-{"w":"arrest","d":"the act of legally taking someone to jail","ex":"You are under arrest, sir.","hit":"arrest","src":"dialogue","ep":19,"vi":""}
-{"w":"pout","d":"push out your lips to show that you are unhappy","ex":"You better not pout, you better not cry.","hit":"pout","src":"dialogue","ep":19,"vi":""}
-{"w":"sleigh","d":"large, open vehicle that is pulled by horses over snow or ice","ex":"What about my sleigh?","hit":"sleigh","src":"dialogue","ep":19,"vi":""}
-{"w":"handcuffs","d":"a set of two metal rings that are used to join a persons hands together, esp. by police","ex":"","hit":"","src":"written","ep":19,"vi":""}
-{"w":"prison","d":"a building where criminals are kept as punishment","ex":"","hit":"","src":"written","ep":19,"vi":""}
-{"w":"read someone's rights","d":"tell someone their legal rights, usually when they are arrested","ex":"","hit":"","src":"written","ep":19,"vi":""}
-{"w":"DUI","d":"driving under the influence of alcohol or drugs","ex":"","hit":"","src":"written","ep":19,"vi":""}
-{"w":"speeding ticket","d":"a piece of paper the police give if you are diving too fast","ex":"","hit":"","src":"written","ep":19,"vi":""}
-{"w":"seem to be","d":"appears or is","ex":"What seems to be the problem?","hit":"seems to be","src":"dialogue","ep":20,"vi":"","check":true}
-{"w":"struggle","d":"try very hard","ex":"I'm getting headaches, and I really struggle to see things that are far away.","hit":"struggle","src":"dialogue","ep":20,"vi":""}
-{"w":"20/20 vision","d":"perfect eyesight","ex":"","hit":"","src":"written","ep":20,"vi":""}
-{"w":"make out","d":"see","ex":"Mmm… X, E, R, 3, a question mark, and I can't quite make out the other symbol but I think it's the peace sign.","hit":"make out","src":"dialogue","ep":20,"vi":""}
-{"w":"far sighted","d":"see far-away things more clearly than things nearby","ex":"","hit":"","src":"written","ep":20,"vi":""}
-{"w":"as blind as a bat","d":"have really poor vision","ex":"You're as blind as a bat!","hit":"as blind as a bat","src":"dialogue","ep":20,"vi":""}
-{"w":"vision","d":"ability to see things","ex":"But I have always had 20/20 vision.","hit":"vision","src":"dialogue","ep":20,"vi":""}
-{"w":"blurry","d":"not clear","ex":"Yeah, I know, my vision is really blurry at times.","hit":"blurry","src":"dialogue","ep":20,"vi":""}
-{"w":"pick out","d":"choose","ex":"Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.","hit":"pick out","src":"dialogue","ep":20,"vi":""}
-{"w":"prescription","d":"a message written by a doctor that tells people what medicine to take","ex":"Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.","hit":"prescription","src":"dialogue","ep":20,"vi":""}
-{"w":"check-up","d":"regular examination by a doctor to make sure a person is healthy","ex":"","hit":"","src":"written","ep":20,"vi":""}
-{"w":"short sighted","d":"unable to see things far away (AmE)","ex":"","hit":"","src":"written","ep":20,"vi":""}
-{"w":"nearsighted","d":"unable to see things far away (BrE)","ex":"","hit":"","src":"written","ep":20,"vi":""}
-{"w":"contacts","d":"lenses you wear directly on your eyes to help you see","ex":"","hit":"","src":"written","ep":20,"vi":""}
-{"w":"optometrist","d":"eye doctor","ex":"","hit":"","src":"written","ep":20,"vi":""}
-{"w":"prescribe","d":"officially tell someone to use a medicine or treatment","ex":"Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.","hit":"prescription","src":"dialogue","ep":20,"vi":"","check":true}
-{"w":"lenses","d":"clear, curved piece of glass that helps people see better","ex":"","hit":"","src":"written","ep":20,"vi":""}
+{"w":"grab","d":"get quickly","ex":"I'll just go grab a burger across the street.","hit":"grab","src":"dialogue","ep":1,"vi":"Tôi sẽ ra bên kia đường mua nhanh một cái bánh mì kẹp thịt."}
+{"w":"go with","d":"to choose, pick","ex":"I'll go with the spaghetti and meatballs, salad and the wine.","hit":"go with","src":"dialogue","ep":1,"vi":"Tôi sẽ chọn mì Ý với thịt viên, salad và rượu vang."}
+{"w":"would recommend","d":"suggest","ex":"For you sir, I would recommend spaghetti and meatballs.","hit":"would recommend","src":"dialogue","ep":1,"vi":"Thưa ông, tôi xin gợi ý món mì Ý với thịt viên cho ông."}
+{"w":"complimentary","d":"free","ex":"It comes with either soup or salad and a complimentary glass of wine, sir.","hit":"complimentary","src":"dialogue","ep":1,"vi":"Món này đi kèm súp hoặc salad và một ly rượu vang tặng kèm, thưa ông."}
+{"w":"still working on","d":"not yet completed, need more time","ex":"No, I'm still working on it.","hit":"still working on","src":"dialogue","ep":1,"vi":"Chưa, tôi vẫn đang dùng dở ạ."}
+{"w":"impatient","d":"uncomfortable waiting, wanting to go","ex":"The kids got impatient after waiting forty minutes for a table.","hit":"impatient","src":"written","ep":1,"vi":"Bọn trẻ trở nên sốt ruột sau khi chờ bàn bốn mươi phút."}
+{"w":"fast food","d":"food prepared and served quickly","ex":"We grabbed some fast food because the restaurant was too crowded.","hit":"fast food","src":"written","ep":1,"vi":"Chúng tôi mua đồ ăn nhanh vì nhà hàng quá đông."}
+{"w":"waitress","d":"female server at a restaurant or bar","ex":"The waitress brought our drinks and asked if we were ready to order.","hit":"waitress","src":"written","ep":1,"vi":"Cô phục vụ mang đồ uống ra và hỏi chúng tôi đã sẵn sàng gọi món chưa."}
+{"w":"fancy","d":"nice, expensive, up-scale","ex":"That restaurant is too fancy for me, so let's go somewhere cheaper.","hit":"fancy","src":"written","ep":1,"vi":"Nhà hàng đó sang quá so với tôi, nên mình đi chỗ nào rẻ hơn đi."}
+{"w":"casual","d":"relaxed, not dressy","ex":"It's a casual place, so you can wear jeans and a T-shirt.","hit":"casual","src":"written","ep":1,"vi":"Đó là quán bình dân nên bạn cứ mặc quần jean và áo thun."}
+{"w":"was hoping","d":"to kindly expect","ex":"Yes, I was hoping to take the day off to recover.","hit":"was hoping","src":"dialogue","ep":2,"vi":"Vâng, tôi đang hy vọng được nghỉ một ngày để hồi sức."}
+{"w":"calling in sick","d":"report that you will not go to work because you are sick","ex":"so you're calling in sick?","hit":"calling in sick","src":"dialogue","ep":2,"vi":"Vậy là bạn xin nghỉ ốm à?"}
+{"w":"coming down","d":"getting, acquiring","ex":"I think I'm coming down with the flu.","hit":"coming down","src":"dialogue","ep":2,"vi":"Tôi nghĩ mình sắp bị cúm rồi."}
+{"w":"quite ill","d":"very sick","ex":"Actually, I'm feeling quite ill today.","hit":"quite ill","src":"dialogue","ep":2,"vi":"Thật ra hôm nay tôi thấy trong người khá mệt."}
+{"w":"how may I help you?","d":"Polite offer to help","ex":"Hello, Daniel speaking, how may I help you?","hit":"how may I help you","src":"dialogue","ep":2,"vi":"Xin chào, Daniel xin nghe, tôi có thể giúp gì cho bạn?"}
+{"w":"impolite","d":"rude","ex":"It's impolite to answer your phone in the middle of dinner.","hit":"impolite","src":"written","ep":2,"vi":"Trả lời điện thoại giữa bữa tối là bất lịch sự."}
+{"w":"permission","d":"allow","ex":"You need your boss's permission before you take a week off.","hit":"permission","src":"written","ep":2,"vi":"Bạn cần được sếp cho phép trước khi nghỉ một tuần."}
+{"w":"symptom","d":"a sign, indication","ex":"A sore throat is the first symptom I noticed this morning.","hit":"symptom","src":"written","ep":2,"vi":"Đau họng là triệu chứng đầu tiên tôi nhận thấy sáng nay."}
+{"w":"sick day","d":"day off because you're sick","ex":"I'm using a sick day today because I have a terrible fever.","hit":"sick day","src":"written","ep":2,"vi":"Hôm nay tôi nghỉ ốm vì bị sốt rất nặng."}
+{"w":"make it into work","d":"go to work","ex":"I feel awful, so I can't make it into work today.","hit":"make it into work","src":"written","ep":2,"vi":"Tôi thấy rất tệ nên hôm nay không đi làm được."}
+{"w":"check in","d":"register at a hotel or airport","ex":"I'd like to check in please.","hit":"check in","src":"dialogue","ep":3,"vi":"Làm ơn cho tôi nhận phòng."}
+{"w":"under the name","d":"name used for the reservation","ex":"I have a reservation under the name Anthony Roberts.","hit":"under the name","src":"dialogue","ep":3,"vi":"Tôi có đặt phòng dưới tên Anthony Roberts."}
+{"w":"reservation","d":"booking","ex":"I have a reservation under the name Anthony Roberts.","hit":"reservation","src":"dialogue","ep":3,"vi":"Tôi có đặt phòng dưới tên Anthony Roberts."}
+{"w":"confirmation","d":"an approval, verification","ex":"Yeah…Here, this is my confirmation number.","hit":"confirmation","src":"dialogue","ep":3,"vi":"Vâng, đây là mã số xác nhận của tôi."}
+{"w":"mix-up","d":"confusion","ex":"There was a mix-up with my room, so I had to wait an hour.","hit":"mix-up","src":"written","ep":3,"vi":"Phòng của tôi bị nhầm lẫn nên tôi phải chờ một tiếng."}
+{"w":"complimentary upgrade","d":"free improvement of quality","ex":"We're pleased to offer you a complimentary upgrade.","hit":"complimentary upgrade","src":"dialogue","ep":3,"vi":"Chúng tôi rất vui được tặng ông một lần nâng hạng phòng miễn phí."}
+{"w":"overbooked","d":"full","ex":"You're right Mr. Roberts, there seems to be a mix-up, unfortunately we're overbooked at the moment.","hit":"overbooked","src":"dialogue","ep":3,"vi":"Ông Roberts nói đúng, có sự nhầm lẫn rồi, rất tiếc là hiện giờ chúng tôi đã kín phòng."}
+{"w":"check out","d":"pay and leave a hotel","ex":"We need to check out before noon, so let's pack tonight.","hit":"check out","src":"written","ep":3,"vi":"Chúng tôi phải trả phòng trước buổi trưa, nên tối nay mình hãy xếp đồ."}
+{"w":"booking","d":"reservation","ex":"I made a booking for two nights, but the hotel lost it.","hit":"booking","src":"written","ep":3,"vi":"Tôi đã đặt phòng hai đêm nhưng khách sạn làm mất đơn đặt."}
+{"w":"concierge","d":"hotel employee that helps guests","ex":"The concierge booked us a taxi and recommended a great sushi place.","hit":"concierge","src":"written","ep":3,"vi":"Nhân viên hỗ trợ khách đã gọi taxi cho chúng tôi và giới thiệu một quán sushi tuyệt vời."}
+{"w":"deluxe room","d":"hotel room, better than standard","ex":"We upgraded to a deluxe room with a view of the ocean.","hit":"deluxe room","src":"written","ep":3,"vi":"Chúng tôi đã nâng lên phòng hạng sang có tầm nhìn ra biển."}
+{"w":"receipt","d":"paper showing payment details","ex":"Could I get a receipt for the room, please?","hit":"receipt","src":"written","ep":3,"vi":"Làm ơn cho tôi xin biên lai tiền phòng được không?"}
+{"w":"resources","d":"money","ex":"like I told you before, we just don't have the resources to hire you an assistant.","hit":"resources","src":"dialogue","ep":4,"vi":"Như tôi đã nói trước đó, chúng tôi đơn giản là không đủ kinh phí để thuê trợ lý cho bạn."}
+{"w":"understaffed","d":"not enough people to do the job","ex":"I understand that, but the fact is we're understaffed.","hit":"understaffed","src":"dialogue","ep":4,"vi":"Tôi hiểu, nhưng sự thật là chúng ta đang thiếu người."}
+{"w":"the timing is just not right","d":"it is not a good time now","ex":"The timing is just not right.","hit":"The timing is just not right","src":"dialogue","ep":4,"vi":"Thời điểm này đơn giản là không thích hợp."}
+{"w":"weight off my shoulders","d":"remove pressure or stress","ex":"She would take some of the weight off my shoulders.","hit":"weight off my shoulders","src":"dialogue","ep":4,"vi":"Cô ấy sẽ gánh bớt cho tôi một phần áp lực."}
+{"w":"give me a hand","d":"help","ex":"She could give me a hand with some of these projects and we could keep our costs down.","hit":"give me a hand","src":"dialogue","ep":4,"vi":"Cô ấy có thể giúp tôi một tay với vài dự án này và chúng ta vẫn giữ được chi phí thấp."}
+{"w":"that sounds reasonable","d":"is OK","ex":"That sounds reasonable...","hit":"That sounds reasonable","src":"dialogue","ep":4,"vi":"Nghe cũng hợp lý đấy..."}
+{"w":"recruit","d":"hire","ex":"We plan to recruit two new designers before the end of the year.","hit":"recruit","src":"written","ep":4,"vi":"Chúng tôi dự định tuyển hai nhà thiết kế mới trước cuối năm."}
+{"w":"overworked","d":"working too much","ex":"Everyone in my office is overworked, and nobody takes a real break.","hit":"overworked","src":"written","ep":4,"vi":"Ai trong văn phòng của tôi cũng làm việc quá sức, chẳng ai được nghỉ ngơi thật sự."}
+{"w":"short staffed","d":"not enough people to do the job","ex":"We're short staffed this week, so I can't take any time off.","hit":"short staffed","src":"written","ep":4,"vi":"Tuần này chúng tôi thiếu người nên tôi không thể xin nghỉ được."}
+{"w":"cut costs","d":"reduce spending","ex":"The boss wants us to cut costs, so no more free lunches.","hit":"cut costs","src":"written","ep":4,"vi":"Sếp muốn chúng ta cắt giảm chi phí, nên không còn bữa trưa miễn phí nữa."}
+{"w":"overstaffed","d":"having too many employees","ex":"Our department is overstaffed, so nobody has enough work to do.","hit":"overstaffed","src":"written","ep":4,"vi":"Phòng của chúng tôi dư người nên chẳng ai có đủ việc để làm."}
+{"w":"unbelievable","d":"incredible, amazing","ex":"The traffic in New York is unbelievable.","hit":"unbelievable","src":"dialogue","ep":5,"vi":"Giao thông ở New York thật không thể tin nổi."}
+{"w":"relax","d":"calm down","ex":"Yeah, but just relax honey, we're here and we're going on vacation.","hit":"relax","src":"dialogue","ep":5,"vi":"Ừ, nhưng em cứ bình tĩnh đi, mình đến nơi rồi và sắp đi nghỉ mát mà."}
+{"w":"be a mile long","d":"is very long","ex":"It must be a mile long!","hit":"be a mile long","src":"dialogue","ep":5,"vi":"Chắc nó phải dài cả dặm!"}
+{"w":"cut in line","d":"move in front of someone waiting in line","ex":"No seriously, I was here first, and you can't cut in line like this.","hit":"cut in line","src":"dialogue","ep":5,"vi":"Thật đấy, tôi đến trước, và anh không thể chen ngang như vậy được."}
+{"w":"there's no way","d":"it's impossible","ex":"There's no way I'm waiting for another two hours.","hit":"There's no way","src":"dialogue","ep":5,"vi":"Không đời nào tôi chờ thêm hai tiếng nữa."}
+{"w":"traffic jam","d":"many cars not moving on the road","ex":"We were stuck in a traffic jam for two hours this morning.","hit":"traffic jam","src":"written","ep":5,"vi":"Sáng nay chúng tôi bị kẹt xe suốt hai tiếng."}
+{"w":"a few hours from now","d":"soon, in a couple of hours","ex":"Don't worry, the bus will come a few hours from now.","hit":"a few hours from now","src":"written","ep":5,"vi":"Đừng lo, vài tiếng nữa là xe buýt sẽ đến."}
+{"w":"form a queue","d":"to get in line","ex":"Please form a queue at the door and wait for your turn.","hit":"form a queue","src":"written","ep":5,"vi":"Xin hãy xếp hàng ở cửa và chờ đến lượt."}
+{"w":"jump the queue","d":"cut in line ( Br E)","ex":"That man tried to jump the queue, but everyone noticed him.","hit":"jump the queue","src":"written","ep":5,"vi":"Người đàn ông đó định chen ngang hàng nhưng ai cũng để ý thấy."}
+{"w":"stand in line","d":"wait in line","ex":"I had to stand in line for an hour to buy tickets.","hit":"stand in line","src":"written","ep":5,"vi":"Tôi phải đứng xếp hàng một tiếng để mua vé."}
+{"w":"line up","d":"form a line","ex":"Please line up here so we can board the plane faster.","hit":"line up","src":"written","ep":5,"vi":"Xin hãy xếp hàng ở đây để chúng ta lên máy bay nhanh hơn."}
+{"w":"all ready to go","d":"prepared, ready to leave","ex":"So, are we all ready to go?","hit":"all ready to go","src":"dialogue","ep":6,"vi":"Vậy, mọi người đã sẵn sàng khởi hành hết chưa?"}
+{"w":"packed","d":"full, everything is inside","ex":"The car's packed; we have munchies and music, and the map's in the car.","hit":"packed","src":"dialogue","ep":6,"vi":"Xe đã chất đầy đồ rồi; có đồ ăn vặt và nhạc, bản đồ cũng ở trong xe."}
+{"w":"munchies","d":"snacks, food","ex":"The car's packed; we have munchies and music, and the map's in the car.","hit":"munchies","src":"dialogue","ep":6,"vi":"Xe đã chất đầy đồ rồi; có đồ ăn vặt và nhạc, bản đồ cũng ở trong xe."}
+{"w":"fill up the tank","d":"put gas in the car","ex":"Did you fill up the tank?","hit":"fill up the tank","src":"dialogue","ep":6,"vi":"Anh đã đổ đầy bình xăng chưa?"}
+{"w":"all set","d":"ready","ex":"Yup, it's all set.","hit":"all set","src":"dialogue","ep":6,"vi":"Ừ, mọi thứ đã sẵn sàng rồi."}
+{"w":"got all the bases covered","d":"have everything ready","ex":"Before the trip, I got all the bases covered, from tickets to hotels.","hit":"got all the bases covered","src":"written","ep":6,"vi":"Trước chuyến đi, tôi đã lo liệu xong mọi thứ, từ vé đến khách sạn."}
+{"w":"get going","d":"start, leave, depart","ex":"Well… let's get going then!","hit":"get going","src":"dialogue","ep":6,"vi":"Thôi, vậy mình lên đường nào!"}
+{"w":"road trip","d":"long car trip","ex":"I love road trips!","hit":"road trips","src":"dialogue","ep":6,"vi":"Tôi thích những chuyến đi đường dài bằng xe hơi!"}
+{"w":"pit stop","d":"quick stop for food or gas","ex":"do you think we can make a pit stop?","hit":"pit stop","src":"dialogue","ep":6,"vi":"Bạn nghĩ mình có thể dừng chân một lát được không?"}
+{"w":"trunk","d":"the luggage area of a car","ex":"Put the heavy suitcases in the trunk so we have room inside.","hit":"trunk","src":"written","ep":6,"vi":"Cứ để mấy cái vali nặng vào cốp xe để bên trong còn chỗ."}
+{"w":"passenger","d":"person in a car, not the driver","ex":"The passenger in the back seat fell asleep during the trip.","hit":"passenger","src":"written","ep":6,"vi":"Người ngồi ở ghế sau đã ngủ gục trong suốt chuyến đi."}
+{"w":"freeway","d":"highway","ex":"Take the freeway if you want to get there before dark.","hit":"freeway","src":"written","ep":6,"vi":"Nếu muốn đến đó trước khi trời tối thì hãy đi đường cao tốc."}
+{"w":"rental car","d":"a car you rent, a car you pay to borrow","ex":"We picked up a rental car at the airport for our road trip.","hit":"rental car","src":"written","ep":6,"vi":"Chúng tôi nhận một chiếc xe thuê ở sân bay cho chuyến đi đường dài."}
+{"w":"highway toll","d":"fee paid for using the highway","ex":"Keep some cash in the car for the highway toll.","hit":"highway toll","src":"written","ep":6,"vi":"Hãy để sẵn ít tiền mặt trong xe để trả phí cao tốc."}
+{"w":"freeze","d":"to stop working properly","ex":"My computer freezes every time I open this program.","hit":"freezes","src":"written","ep":7,"vi":"Máy tính của tôi bị treo mỗi khi tôi mở chương trình này."}
+{"w":"take a look","d":"see, revise","ex":"Hey Samuel, can you come take a look at my PC?","hit":"take a look","src":"dialogue","ep":7,"vi":"Này Samuel, cậu qua xem giúp máy tính của tôi được không?"}
+{"w":"act up","d":"not working properly","ex":"It's acting up again.","hit":"acting up","src":"dialogue","ep":7,"vi":"Nó lại trục trặc rồi."}
+{"w":"be right up","d":"go upstairs soon","ex":"Just give me a second; I'll be right up.","hit":"be right up","src":"dialogue","ep":7,"vi":"Chờ tôi một chút nhé; tôi lên ngay."}
+{"w":"pick up","d":"get, acquire","ex":"But I'm quite careful when I'm browsing the internet, I have no idea how I could have picked up a virus.","hit":"picked up","src":"dialogue","ep":7,"vi":"Nhưng tôi rất cẩn thận khi duyệt web, tôi không hiểu sao mình lại dính virus được."}
+{"w":"browse","d":"look, search","ex":"But I'm quite careful when I'm browsing the internet, I have no idea how I could have picked up a virus.","hit":"browsing","src":"dialogue","ep":7,"vi":"Nhưng tôi rất cẩn thận khi duyệt web, tôi không hiểu sao mình lại dính virus được."}
+{"w":"up to date","d":"having all the most recent information","ex":"Well, you have to make sure that your anti-virus software is updated regularly; yours wasn't up to date, that's probably what was causing your problems.","hit":"up to date","src":"dialogue","ep":7,"vi":"Bạn phải đảm bảo phần mềm diệt virus được cập nhật thường xuyên; của bạn chưa được cập nhật, có lẽ đó là nguyên nhân gây ra sự cố."}
+{"w":"monitor","d":"computer screen","ex":"I need a bigger monitor because the text is too small.","hit":"monitor","src":"written","ep":7,"vi":"Tôi cần một màn hình lớn hơn vì chữ nhỏ quá."}
+{"w":"computer tech","d":"person in a company who fixes computers","ex":"Our computer tech fixed my laptop in about ten minutes.","hit":"computer tech","src":"written","ep":7,"vi":"Nhân viên kỹ thuật máy tính của chúng tôi đã sửa xong laptop của tôi trong khoảng mười phút."}
+{"w":"corrupt file","d":"damaged or broken computer file that can't be opened","ex":"I can't open the report because it's a corrupt file.","hit":"corrupt file","src":"written","ep":7,"vi":"Tôi không mở được báo cáo vì đó là một tệp bị hỏng."}
+{"w":"surf the net","d":"look for information on the internet","ex":"I like to surf the net after dinner to read the news.","hit":"surf the net","src":"written","ep":7,"vi":"Tôi thích lướt mạng sau bữa tối để đọc tin tức."}
+{"w":"web browser","d":"computer program that allows you to go on the internet","ex":"Which web browser do you use on your phone?","hit":"web browser","src":"written","ep":7,"vi":"Bạn dùng trình duyệt web nào trên điện thoại?"}
+{"w":"how's it going","d":"how are you","ex":"How's it going?","hit":"How's it going","src":"dialogue","ep":8,"vi":"Dạo này bạn thế nào?"}
+{"w":"around here","d":"close to here","ex":"Do you live around here?","hit":"around here","src":"dialogue","ep":8,"vi":"Bạn có sống quanh đây không?"}
+{"w":"around the corner","d":"on the next street","ex":"Actually, my office is right around the corner.","hit":"around the corner","src":"dialogue","ep":8,"vi":"Thật ra văn phòng của tôi ở ngay góc phố."}
+{"w":"in bit of a hurry","d":"moving quickly, having no time","ex":"You know, I'm in a bit of a hurry, but here's my card.","hit":"in a bit of a hurry","src":"dialogue","ep":8,"vi":"Bạn biết đấy, tôi đang hơi vội, nhưng đây là danh thiếp của tôi."}
+{"w":"contact details","d":"information required to contact someone, i.e. telephone number, email address","ex":"Sure, you still have my contact details, right?","hit":"contact details","src":"dialogue","ep":8,"vi":"Chắc rồi, bạn vẫn còn thông tin liên lạc của tôi chứ?"}
+{"w":"slip my mind","d":"been forgotten","ex":"You know what, this is really embarrassing, but your name has just slipped my mind.","hit":"slipped my mind","src":"dialogue","ep":8,"vi":"Bạn biết không, thật ngại quá, nhưng tôi vừa quên mất tên bạn rồi."}
+{"w":"terrible with","d":"bad at","ex":"I'm terrible with names too.","hit":"terrible with","src":"dialogue","ep":8,"vi":"Tôi cũng rất kém khoản nhớ tên."}
+{"w":"around there","d":"close to there","ex":"There's a nice cafe around there, so let's meet at noon.","hit":"around there","src":"written","ep":8,"vi":"Quanh đó có một quán cà phê đẹp, nên mình gặp nhau lúc trưa nhé."}
+{"w":"to recognize","d":"to know and remember someone or something you have seen before","ex":"I didn't recognize him at first because he had shaved his beard.","hit":"recognize","src":"written","ep":8,"vi":"Lúc đầu tôi không nhận ra anh ấy vì anh ấy đã cạo râu."}
+{"w":"acquaintance","d":"someone you know, but who is not a close friend","ex":"He's just an acquaintance from work, not a close friend.","hit":"acquaintance","src":"written","ep":8,"vi":"Anh ấy chỉ là người quen ở chỗ làm, không phải bạn thân."}
+{"w":"in a rush","d":"move quickly, not have much time","ex":"Sorry, I'm in a rush, so I can't stay and talk.","hit":"in a rush","src":"written","ep":8,"vi":"Xin lỗi, tôi đang vội nên không thể ở lại nói chuyện."}
+{"w":"forgetful","d":"forgetting things easily","ex":"My grandfather is forgetful and often loses his keys.","hit":"forgetful","src":"written","ep":8,"vi":"Ông tôi hay quên và thường làm mất chìa khóa."}
+{"w":"inconsiderate","d":"not thinking of the feelings of other people; not thoughtful","ex":"It's so inconsiderate!","hit":"inconsiderate","src":"dialogue","ep":9,"vi":"Thật là thiếu ý tứ!"}
+{"w":"not such a big deal","d":"not a big problem","ex":"Don't worry about it; it's not such a big deal.","hit":"not such a big deal","src":"dialogue","ep":9,"vi":"Đừng lo, chuyện này cũng không có gì to tát đâu."}
+{"w":"can't hear a thing","d":"unable to hear","ex":"I can't hear a thing!","hit":"can't hear a thing","src":"dialogue","ep":9,"vi":"Tôi chẳng nghe thấy gì cả!"}
+{"w":"keep it down","d":"be quiet","ex":"Excuse me, can you keep it down?","hit":"keep it down","src":"dialogue","ep":9,"vi":"Xin lỗi, bạn có thể nói nhỏ lại được không?"}
+{"w":"switch off","d":"turn off","ex":"Did you forget to switch it off?","hit":"switch it off","src":"dialogue","ep":9,"vi":"Bạn quên tắt nó đi à?"}
+{"w":"do you mind","d":"could you please","ex":"Do you mind keeping it down?","hit":"Do you mind","src":"dialogue","ep":9,"vi":"Bạn có phiền nói nhỏ lại không?"}
+{"w":"noisy","d":"very loud","ex":"The neighbors are so noisy that I can't sleep at night.","hit":"noisy","src":"written","ep":9,"vi":"Hàng xóm ồn ào quá nên đêm tôi không ngủ được."}
+{"w":"rude","d":"impolite","ex":"It's rude to talk loudly on the phone in a movie theater.","hit":"rude","src":"written","ep":9,"vi":"Nói chuyện điện thoại ồn ào trong rạp chiếu phim là thiếu lịch sự."}
+{"w":"to disturb","d":"to interrupt, bother, or upset","ex":"Sorry to disturb you, but could I ask a quick question?","hit":"disturb","src":"written","ep":9,"vi":"Xin lỗi đã làm phiền bạn, nhưng tôi hỏi nhanh một câu được không?"}
+{"w":"to interrupt","d":"to speak or make noise when someone else is speaking","ex":"Please don't interrupt me while I'm talking on the phone.","hit":"interrupt","src":"written","ep":9,"vi":"Làm ơn đừng ngắt lời tôi khi tôi đang nói chuyện điện thoại."}
+{"w":"to whisper","d":"to speak very softly","ex":"She leaned over and began to whisper in my ear.","hit":"whisper","src":"written","ep":9,"vi":"Cô ấy nghiêng người và bắt đầu thì thầm vào tai tôi."}
+{"w":"concrete solutions","d":"a real or specific solution to a problem","ex":"I want concrete solutions.","hit":"concrete solutions","src":"dialogue","ep":10,"vi":"Tôi muốn những giải pháp cụ thể."}
+{"w":"drive sales","d":"increase sales","ex":"How do you intend to drive sales...","hit":"drive sales","src":"dialogue","ep":10,"vi":"Anh định làm thế nào để thúc đẩy doanh số..."}
+{"w":"in the market","d":"in the industry","ex":"Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?","hit":"in the market","src":"dialogue","ep":10,"vi":"Thật ra chúng ta đắt nhất trên thị trường, nên có lẽ cần giảm giá cho ngang với đối thủ?"}
+{"w":"to match the competitors","d":"be the as good as or better than others companies in the same industry","ex":"Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?","hit":"to match the competitors","src":"dialogue","ep":10,"vi":"Thật ra chúng ta đắt nhất trên thị trường, nên có lẽ cần giảm giá cho ngang với đối thủ?"}
+{"w":"will never fly","d":"will not work, will not be approved","ex":"That plan will never fly, because the boss hates spending money.","hit":"will never fly","src":"written","ep":10,"vi":"Kế hoạch đó sẽ không bao giờ được thông qua vì sếp ghét tiêu tiền."}
+{"w":"promotion","d":"something done to make people aware of a product","ex":"Um, perhaps, um, a sales promotion.","hit":"promotion","src":"dialogue","ep":10,"vi":"Ừm, có lẽ là một chương trình khuyến mãi."}
+{"w":"be here any minute","d":"will arrive very soon","ex":"The CEO will be here any minute.","hit":"be here any minute","src":"dialogue","ep":10,"vi":"Giám đốc điều hành sẽ đến đây bất cứ lúc nào."}
+{"w":"to consider","d":"thinking about","ex":"We should consider offering a discount to our regular customers.","hit":"consider","src":"written","ep":10,"vi":"Chúng ta nên cân nhắc giảm giá cho khách hàng thân thiết."}
+{"w":"brilliant","d":"excellent","ex":"In fact, that's a brilliant idea!","hit":"brilliant","src":"dialogue","ep":10,"vi":"Thật ra đó là một ý tưởng tuyệt vời!"}
+{"w":"competitive","d":"as good as or better than others of the same type","ex":"Yes Mr. Swan, we were kind of considering a two-for-one offer to get more competitive.","hit":"competitive","src":"dialogue","ep":10,"vi":"Vâng thưa ông Swan, chúng tôi đang cân nhắc chương trình mua một tặng một để cạnh tranh hơn."}
+{"w":"win sales","d":"make sales sucessfully","ex":"Our team worked hard to win sales during the holiday season.","hit":"win sales","src":"written","ep":10,"vi":"Nhóm chúng tôi đã làm việc chăm chỉ để chốt được doanh số trong mùa lễ."}
+{"w":"sales strategy","d":"plans for a company's sales activities","ex":"We need a new sales strategy to reach younger customers.","hit":"sales strategy","src":"written","ep":10,"vi":"Chúng ta cần một chiến lược bán hàng mới để tiếp cận khách hàng trẻ hơn."}
+{"w":"sales cycle","d":"the process a customer goes though when deciding to buy a product","ex":"Our sales cycle is long because customers compare many products first.","hit":"sales cycle","src":"written","ep":10,"vi":"Chu kỳ bán hàng của chúng tôi dài vì khách hàng so sánh nhiều sản phẩm trước."}
+{"w":"to outsell","d":"to sell more than others","ex":"We hope to outsell our biggest competitor this year.","hit":"outsell","src":"written","ep":10,"vi":"Chúng tôi hy vọng năm nay sẽ bán chạy hơn đối thủ lớn nhất."}
+{"w":"customer loyalty","d":"when a customer buys the same brand over and over","ex":"Free gifts are a great way to build customer loyalty.","hit":"customer loyalty","src":"written","ep":10,"vi":"Quà tặng miễn phí là cách tuyệt vời để xây dựng lòng trung thành của khách hàng."}
+{"w":"I don't know if you heard","d":"phrase used to introduce a piece of information","ex":"Oh, I don't know if you heard, but someone moved into that old house down the road.","hit":"I don't know if you heard","src":"dialogue","ep":11,"vi":"Ồ, không biết bạn đã nghe chưa, nhưng có người vừa chuyển vào ngôi nhà cũ dưới đường."}
+{"w":"fill me in","d":"tell me about it","ex":"You have to fill me in.","hit":"fill me in","src":"dialogue","ep":11,"vi":"Bạn phải kể cho tôi nghe đi."}
+{"w":"a bad feeling","d":"a sense or feeling that something bad is going to happen","ex":"I've got a bad feeling about him.","hit":"a bad feeling","src":"dialogue","ep":11,"vi":"Tôi có linh cảm xấu về anh ta."}
+{"w":"weird","d":"strange, unusual","ex":"Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out!","hit":"weird","src":"dialogue","ep":11,"vi":"À, hôm qua tôi mang quà tân gia qua, nhưng Armand bắt đầu cư xử rất kỳ lạ, rồi gần như đuổi tôi ra ngoài!"}
+{"w":"kick out","d":"make or force someone leave when they don't want to","ex":"Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out!","hit":"kicked me out","src":"dialogue","ep":11,"vi":"À, hôm qua tôi mang quà tân gia qua, nhưng Armand bắt đầu cư xử rất kỳ lạ, rồi gần như đuổi tôi ra ngoài!"}
+{"w":"creep me out","d":"make me feel uncomfortable and a bit scared","ex":"That old doll in the window really creeps me out.","hit":"creeps me out","src":"written","ep":11,"vi":"Con búp bê cũ trong cửa sổ đó làm tôi rợn người thật sự."}
+{"w":"you'll never guess","d":"phrase used to introduce a piece of news","ex":"Well, you'll never guess what I saw this morning.","hit":"you'll never guess","src":"dialogue","ep":11,"vi":"À, bạn sẽ không đoán được sáng nay tôi đã thấy gì đâu."}
+{"w":"scare the heck out of me","d":"cause someone to feel a lot of fear","ex":"You scared the heck out of me!","hit":"scared the heck out of me","src":"dialogue","ep":11,"vi":"Bạn làm tôi hết hồn!"}
+{"w":"bizarre","d":"strange or unusual","ex":"The movie had a bizarre ending that nobody understood.","hit":"bizarre","src":"written","ep":11,"vi":"Bộ phim có một cái kết kỳ quái mà không ai hiểu nổi."}
+{"w":"creepy","d":"strange or scary, causing people to feel nervous and afraid","ex":"The empty hallway at night was creepy, so I turned on every light.","hit":"creepy","src":"written","ep":11,"vi":"Hành lang vắng vẻ vào ban đêm rùng rợn đến mức tôi bật hết đèn lên."}
+{"w":"vampire","d":"a dead person who drinks the blood of living people","ex":"Do you believe a vampire could really live in that old house?","hit":"vampire","src":"written","ep":11,"vi":"Bạn có tin là ma cà rồng thật sự có thể sống trong ngôi nhà cũ đó không?"}
+{"w":"have you heard","d":"phrase used to introduce a piece of gossip","ex":"Have you heard that the new neighbor is a famous singer?","hit":"Have you heard","src":"written","ep":11,"vi":"Bạn nghe nói chưa, người hàng xóm mới là một ca sĩ nổi tiếng đấy?"}
+{"w":"guess what","d":"phrase used to introduce an interesting or surprising piece of information","ex":"Well, you'll never guess what I saw this morning.","hit":"guess what","src":"dialogue","ep":11,"vi":"À, bạn sẽ không đoán được sáng nay tôi đã thấy gì đâu."}
+{"w":"such a mess","d":"very dirty, disordered","ex":"Honey, the house is such a mess!","hit":"such a mess","src":"dialogue","ep":12,"vi":"Anh yêu, nhà bừa bộn quá!"}
+{"w":"tidy up","d":"put things in place, organize","ex":"I need you to help me tidy up a bit.","hit":"tidy up","src":"dialogue","ep":12,"vi":"Em cần anh giúp em dọn dẹp một chút."}
+{"w":"spotless","d":"perfectly clean","ex":"My boss and her husband are coming over for dinner and the house needs to be spotless!","hit":"spotless","src":"dialogue","ep":12,"vi":"Sếp của em và chồng cô ấy sắp đến ăn tối, nên nhà phải sạch bóng!"}
+{"w":"in the middle of something","d":"busy doing something at the moment","ex":"I'm in the middle of something right now.","hit":"in the middle of something","src":"dialogue","ep":12,"vi":"Hiện giờ anh đang bận làm dở việc."}
+{"w":"chores","d":"common house tasks","ex":"Ok, here's a list of chores we need to get done.","hit":"chores","src":"dialogue","ep":12,"vi":"Được rồi, đây là danh sách việc nhà mình cần làm xong."}
+{"w":"groceries","d":"food that you buy at a store","ex":"I'll do the dishes and get all the groceries for tonight.","hit":"groceries","src":"dialogue","ep":12,"vi":"Anh sẽ rửa chén và mua hết đồ ăn cho bữa tối nay."}
+{"w":"spring cleaning","d":"careful, thorough house cleaning usually done in the spring/ spring cleaning","ex":"Every March we do spring cleaning and throw out old things.","hit":"spring cleaning","src":"written","ep":12,"vi":"Tháng Ba nào chúng tôi cũng tổng vệ sinh nhà và bỏ bớt đồ cũ."}
+{"w":"immaculate","d":"perfectly clean, having no dirt at all","ex":"After two hours of work, the kitchen was finally immaculate.","hit":"immaculate","src":"written","ep":12,"vi":"Sau hai giờ làm việc, cuối cùng căn bếp cũng sạch tinh tươm."}
+{"w":"do the laundry","d":"wash the dirty clothes","ex":"I always do the laundry on Sunday morning before the kids wake up.","hit":"do the laundry","src":"written","ep":12,"vi":"Tôi luôn giặt đồ vào sáng Chủ nhật trước khi bọn trẻ thức dậy."}
+{"w":"dish detergent","d":"soap used to wash the plates, knives, forks, bowls, etc.","ex":"We're out of dish detergent, so I can't wash the plates.","hit":"dish detergent","src":"written","ep":12,"vi":"Hết nước rửa chén rồi nên tôi không rửa bát đĩa được."}
+{"w":"trash","d":"garbage (AmE)","ex":"Can you take out the trash before you go to bed?","hit":"trash","src":"written","ep":12,"vi":"Trước khi đi ngủ bạn đổ rác giúp được không?"}
+{"w":"rubbish","d":"garbage (BrE)","ex":"There's too much rubbish in the street after the festival.","hit":"rubbish","src":"written","ep":12,"vi":"Sau lễ hội, ngoài đường có quá nhiều rác."}
+{"w":"go over","d":"revise, check","ex":"Jill, let's go over the profit and loss statement.","hit":"go over","src":"dialogue","ep":13,"vi":"Jill, chúng ta cùng xem lại bảng báo cáo lãi lỗ nhé."}
+{"w":"through the roof","d":"suddenly very high","ex":"Well, the main issue here, as you can see, is that our expenses are through the roof.","hit":"through the roof","src":"dialogue","ep":13,"vi":"Vấn đề chính ở đây, như anh thấy, là chi phí của chúng ta đang tăng vọt."}
+{"w":"off the charts","d":"very high","ex":"These numbers are off the charts!","hit":"off the charts","src":"dialogue","ep":13,"vi":"Những con số này cao ngất ngưởng!"}
+{"w":"expenditures","d":"amount of money spent on something","ex":"Well, um, sir, the company expenditures on entertainment and travel are out of control.","hit":"expenditures","src":"dialogue","ep":13,"vi":"Ừm, thưa sếp, chi tiêu của công ty cho giải trí và đi lại đang vượt khỏi tầm kiểm soát."}
+{"w":"out of control","d":"not in control","ex":"Well, um, sir, the company expenditures on entertainment and travel are out of control.","hit":"out of control","src":"dialogue","ep":13,"vi":"Ừm, thưa sếp, chi tiêu của công ty cho giải trí và đi lại đang vượt khỏi tầm kiểm soát."}
+{"w":"look into","d":"investigate, try to get information about something","ex":"I'll look into it.","hit":"look into","src":"dialogue","ep":13,"vi":"Tôi sẽ xem xét việc đó."}
+{"w":"go on and on","d":"continues","ex":"The list goes on and on.","hit":"goes on and on","src":"dialogue","ep":13,"vi":"Danh sách còn dài lắm."}
+{"w":"take care of","d":"do something about","ex":"I'll take care of it.","hit":"take care of","src":"dialogue","ep":13,"vi":"Tôi sẽ lo việc đó."}
+{"w":"revenue","d":"amount of money paid to a business","ex":"Our revenue grew by ten percent compared to last year.","hit":"revenue","src":"written","ep":13,"vi":"Doanh thu của chúng tôi tăng mười phần trăm so với năm ngoái."}
+{"w":"cash flow","d":"the movement of money into and out of a business","ex":"Good cash flow keeps a small business alive during slow months.","hit":"cash flow","src":"written","ep":13,"vi":"Dòng tiền tốt giúp một doanh nghiệp nhỏ trụ vững trong những tháng ế ẩm."}
+{"w":"the bottom line","d":"the net profit; the amount of money a business makes after expenses","ex":"At the end of the day, the bottom line is what matters.","hit":"the bottom line","src":"written","ep":13,"vi":"Cuối cùng thì lợi nhuận ròng mới là điều quan trọng."}
+{"w":"finances","d":"the amount of money you have and how well it is organized","ex":"My wife and I sit down every month to review our finances.","hit":"finances","src":"written","ep":13,"vi":"Vợ chồng tôi mỗi tháng đều ngồi lại để xem xét tình hình tài chính."}
+{"w":"income","d":"the amount of money a person or a company makes","ex":"Her income doubled after she got the new job.","hit":"income","src":"written","ep":13,"vi":"Thu nhập của cô ấy tăng gấp đôi sau khi cô ấy có công việc mới."}
+{"w":"assets","d":"things of value that are owned by a company","ex":"The company's biggest assets are its buildings and its loyal staff.","hit":"assets","src":"written","ep":13,"vi":"Tài sản lớn nhất của công ty là các tòa nhà và đội ngũ nhân viên trung thành."}
+{"w":"trouble","d":"disturb or bother","ex":"Mr. Corlone, I'm really sorry to trouble you, but I need your help.","hit":"trouble","src":"dialogue","ep":14,"vi":"Ông Corlone, tôi rất tiếc phải làm phiền ông, nhưng tôi cần ông giúp."}
+{"w":"recession","d":"a period of time when the economy of a country is bad","ex":"You're not the only one who has been hit by the recession!","hit":"recession","src":"dialogue","ep":14,"vi":"Anh không phải là người duy nhất bị suy thoái kinh tế ảnh hưởng đâu!"}
+{"w":"hit me pretty hard","d":"had a strong, negative affect on me","ex":"Well, sir, you see, this recession has hit me pretty hard; I lost my job and I'm in a lot of debt.","hit":"hit me pretty hard","src":"dialogue","ep":14,"vi":"Thưa ông, cuộc suy thoái này đã đánh vào tôi khá nặng; tôi mất việc và nợ rất nhiều."}
+{"w":"debt","d":"the amount of money you owe to a person, bank, company, etc.","ex":"Well, sir, you see, this recession has hit me pretty hard; I lost my job and I'm in a lot of debt.","hit":"debt","src":"dialogue","ep":14,"vi":"Thưa ông, cuộc suy thoái này đã đánh vào tôi khá nặng; tôi mất việc và nợ rất nhiều."}
+{"w":"on top of all that","d":"besides that, in addition to","ex":"Yeah, you know, I've got credit card bills, car payments, I've got to pay my mortgage; and on top of all that, I have to pay my son's college tuition.","hit":"on top of all that","src":"dialogue","ep":14,"vi":"Vâng, ông biết đấy, tôi còn hóa đơn thẻ tín dụng, tiền trả góp xe, tiền thế chấp nhà; và hơn nữa, tôi còn phải đóng học phí đại học cho con trai."}
+{"w":"broke","d":"not have any money","ex":"I'm broke too, you know!","hit":"broke","src":"dialogue","ep":14,"vi":"Tôi cũng cháy túi rồi, bạn biết không!"}
+{"w":"borrow","d":"take and use some money, and return the equal amount of money at a later time","ex":"Could I borrow twenty dollars until Friday, please?","hit":"borrow","src":"written","ep":14,"vi":"Cho tôi mượn hai mươi đô đến thứ Sáu được không?"}
+{"w":"pay back","d":"return the money you borrowed","ex":"I promise to pay back every cent by the end of the month.","hit":"pay back","src":"written","ep":14,"vi":"Tôi hứa sẽ trả lại từng xu trước cuối tháng."}
+{"w":"a loan","d":"amount of money borrowed","ex":"So you're asking for a loan.","hit":"a loan","src":"dialogue","ep":14,"vi":"Vậy là anh đang xin vay tiền."}
+{"w":"take out a loan","d":"borrow money","ex":"They had to take out a loan to buy their first house.","hit":"take out a loan","src":"written","ep":14,"vi":"Họ phải vay tiền ngân hàng để mua căn nhà đầu tiên."}
+{"w":"unemployed","d":"having no job","ex":"My brother has been unemployed since the factory closed in May.","hit":"unemployed","src":"written","ep":14,"vi":"Anh trai tôi thất nghiệp từ khi nhà máy đóng cửa hồi tháng Năm."}
+{"w":"downturn","d":"a time when the economy is worse than usual","ex":"The economic downturn made it hard for small shops to survive.","hit":"downturn","src":"written","ep":14,"vi":"Đợt suy giảm kinh tế khiến các cửa hàng nhỏ khó tồn tại."}
+{"w":"feel terrible","d":"sorry","ex":"I feel terrible, I really didn't mean to knock you over.","hit":"feel terrible","src":"dialogue","ep":15,"vi":"Tôi thấy rất áy náy, tôi thật sự không cố ý làm bạn ngã."}
+{"w":"mean","d":"intend, plan","ex":"I feel terrible, I really didn't mean to knock you over.","hit":"mean","src":"dialogue","ep":15,"vi":"Tôi thấy rất áy náy, tôi thật sự không cố ý làm bạn ngã."}
+{"w":"explode","d":"suddenly break apart","ex":"My tire, just exploded, and I lost control of my bike.","hit":"exploded","src":"dialogue","ep":15,"vi":"Lốp xe của tôi vừa nổ, và tôi mất lái."}
+{"w":"accident","d":"an event that is not planed or intended","ex":"Really, it was an accident.","hit":"accident","src":"dialogue","ep":15,"vi":"Thật sự đó chỉ là một tai nạn."}
+{"w":"familiar","d":"probably known, but not clearly remembered","ex":"Oh, wait a second, you seem really familiar, I think I know you from somewhere.","hit":"familiar","src":"dialogue","ep":15,"vi":"Ồ khoan đã, bạn trông quen quá, hình như tôi biết bạn từ đâu đó."}
+{"w":"place","d":"house","ex":"We met at Aaron's place last weekend!","hit":"place","src":"dialogue","ep":15,"vi":"Chúng ta đã gặp nhau ở nhà của Aaron cuối tuần trước!"}
+{"w":"coincidence","d":"situation when two or more things happen at the same time in an unplanned way","ex":"What a coincidence!","hit":"coincidence","src":"dialogue","ep":15,"vi":"Trùng hợp thật!"}
+{"w":"knock over","d":"make something fall over","ex":"I feel terrible, I really didn't mean to knock you over.","hit":"knock you over","src":"dialogue","ep":15,"vi":"Tôi thấy rất áy náy, tôi thật sự không cố ý làm bạn ngã."}
+{"w":"regret","d":"feel sad or sorry about something","ex":"I regret not calling my grandmother more often before she passed away.","hit":"regret","src":"written","ep":15,"vi":"Tôi hối tiếc vì đã không gọi cho bà thường xuyên hơn trước khi bà mất."}
+{"w":"apologetic","d":"feeling or showing regret, showing an apology","ex":"He was very apologetic about forgetting our anniversary dinner.","hit":"apologetic","src":"written","ep":15,"vi":"Anh ấy rất tỏ ra hối lỗi vì đã quên bữa tối kỷ niệm của chúng tôi."}
+{"w":"feel guilty","d":"feel responsible for doing something bad","ex":"I feel guilty for yelling at my little sister this morning.","hit":"feel guilty","src":"written","ep":15,"vi":"Tôi thấy có lỗi vì sáng nay đã quát em gái."}
+{"w":"unfamiliar","d":"not familiar","ex":"The street was unfamiliar, so we checked the map twice.","hit":"unfamiliar","src":"written","ep":15,"vi":"Con phố đó lạ lẫm nên chúng tôi xem bản đồ hai lần."}
+{"w":"love at first sight","d":"falling in love the first time you see someone","ex":"They say it was love at first sight when they met at the party.","hit":"love at first sight","src":"written","ep":15,"vi":"Họ nói rằng đó là tình yêu sét đánh khi họ gặp nhau ở bữa tiệc."}
+{"w":"hurry up","d":"move faster","ex":"Hurry up, get in!","hit":"Hurry up","src":"dialogue","ep":16,"vi":"Nhanh lên, lên xe đi!"}
+{"w":"make a left","d":"turn left","ex":"OK, make a left here...","hit":"make a left","src":"dialogue","ep":16,"vi":"Được rồi, rẽ trái ở đây..."}
+{"w":"step on it","d":"drive a lot faster","ex":"step on it!","hit":"step on it","src":"dialogue","ep":16,"vi":"Đạp ga nhanh lên!"}
+{"w":"nuts","d":"crazy","ex":"Are you nuts?","hit":"nuts","src":"dialogue","ep":16,"vi":"Bạn điên à?"}
+{"w":"speed up","d":"go faster","ex":"Come on speed up!","hit":"speed up","src":"dialogue","ep":16,"vi":"Thôi nào, tăng tốc lên!"}
+{"w":"have a fit","d":"get very angry","ex":"Having a fit is not going to help!","hit":"Having a fit","src":"dialogue","ep":16,"vi":"Nổi cơn thịnh nộ cũng chẳng giúp được gì đâu!"}
+{"w":"cut through","d":"quickly go past or though something that blocks you","ex":"just go down here and we'll cut through Ashburn Heights.","hit":"cut through","src":"dialogue","ep":16,"vi":"Cứ đi xuống đây rồi mình cắt ngang qua Ashburn Heights."}
+{"w":"packed","d":"full, having lots of cars","ex":"The freeway will be packed at this hour....","hit":"packed","src":"dialogue","ep":16,"vi":"Giờ này đường cao tốc sẽ đông nghẹt xe...."}
+{"w":"road rage","d":"be very angry at other drivers while driving","ex":"Road rage can cause serious accidents, so try to stay calm.","hit":"Road rage","src":"written","ep":16,"vi":"Cơn giận dữ khi lái xe có thể gây ra tai nạn nghiêm trọng, nên hãy cố giữ bình tĩnh."}
+{"w":"back street","d":"small street that is away from the main streets","ex":"Let's take a back street to avoid the heavy traffic downtown.","hit":"back street","src":"written","ep":16,"vi":"Mình đi đường nhỏ để tránh kẹt xe nặng ở trung tâm nhé."}
+{"w":"u-turn","d":"a 180 degree turn in the car","ex":"You can't make a u-turn here, so go to the next light.","hit":"u-turn","src":"written","ep":16,"vi":"Ở đây không được quay đầu xe, nên hãy đi đến đèn giao thông kế tiếp."}
+{"w":"to back up","d":"to move backwards, the opposite of go forwards","ex":"Can you back up a little so I can get out?","hit":"back up","src":"written","ep":16,"vi":"Bạn lùi xe lại một chút để tôi ra được không?"}
+{"w":"to pass","d":"to drive past another car on the road to pass a car on the road","ex":"It's dangerous to pass a truck on a narrow road.","hit":"pass","src":"written","ep":16,"vi":"Vượt xe tải trên con đường hẹp rất nguy hiểm."}
+{"w":"to park","d":"to stop the car and turn off the engine","ex":"Where can we park near the stadium on a game day?","hit":"park","src":"written","ep":16,"vi":"Vào ngày có trận đấu, mình có thể đậu xe ở gần sân vận động ở đâu?"}
+{"w":"married","d":"joined in marriage","ex":"I can't believe that Anthony is finally getting married!","hit":"married","src":"dialogue","ep":17,"vi":"Tôi không thể tin là cuối cùng Anthony cũng sắp cưới!"}
+{"w":"it's about time","d":"finally","ex":"Yeah, well, it's about time.","hit":"it's about time","src":"dialogue","ep":17,"vi":"Ừ, thì cũng đến lúc rồi."}
+{"w":"bridesmaid","d":"female friends or relatives who helps the bride at a wedding","ex":"Look, here come the bridesmaids!","hit":"bridesmaids","src":"dialogue","ep":17,"vi":"Nhìn kìa, các phù dâu đến rồi!"}
+{"w":"aisle","d":"a passage between sections of seats","ex":"Who are those kids walking down the aisle?","hit":"aisle","src":"dialogue","ep":17,"vi":"Những đứa trẻ đang đi xuống lối đi giữa các hàng ghế là ai vậy?"}
+{"w":"flower girl","d":"a girl at a wedding that throws flower petals down the aisle","ex":"That's the flower girl and the ring bearer.","hit":"flower girl","src":"dialogue","ep":17,"vi":"Đó là cô bé rải hoa và cậu bé giữ nhẫn."}
+{"w":"ring bearer","d":"a boy at a wedding that holds the wedding rings","ex":"That's the flower girl and the ring bearer.","hit":"ring bearer","src":"dialogue","ep":17,"vi":"Đó là cô bé rải hoa và cậu bé giữ nhẫn."}
+{"w":"reception","d":"party held to celebrate something or to welcome people","ex":"I hope the food's good at the reception.","hit":"reception","src":"dialogue","ep":17,"vi":"Tôi hy vọng đồ ăn ở tiệc chiêu đãi sẽ ngon."}
+{"w":"groom","d":"a man who is about to be married","ex":"I'm pretty sure they're the groom's niece and nephew.","hit":"groom","src":"dialogue","ep":17,"vi":"Tôi khá chắc đó là cháu gái và cháu trai của chú rể."}
+{"w":"bride","d":"female who is about to get married","ex":"Oh, I think the bride's coming now!","hit":"bride","src":"dialogue","ep":17,"vi":"Ồ, tôi nghĩ cô dâu đang đến rồi!"}
+{"w":"gorgeous","d":"very beautiful or attractive","ex":"She looks gorgeous.","hit":"gorgeous","src":"dialogue","ep":17,"vi":"Cô ấy trông thật lộng lẫy."}
+{"w":"groomsman","d":"male friend or relative who helps the groom on the wedding day","ex":"My brother asked me to be a groomsman at his wedding.","hit":"groomsman","src":"written","ep":17,"vi":"Anh trai tôi nhờ tôi làm phù rể trong đám cưới của anh ấy."}
+{"w":"maid of honor","d":"female fiend or relative who acts as a witness at the wedding","ex":"Her best friend was the maid of honor and gave a lovely speech.","hit":"maid of honor","src":"written","ep":17,"vi":"Bạn thân nhất của cô ấy là phù dâu chính và đã có một bài phát biểu rất hay."}
+{"w":"best man","d":"male friend or relative who acts as a witness at the wedding","ex":"The best man lost the ring, and everyone started to panic.","hit":"best man","src":"written","ep":17,"vi":"Phù rể chính làm mất chiếc nhẫn và mọi người bắt đầu hoảng hốt."}
+{"w":"ushers","d":"men who help guest find their seats","ex":"The ushers showed the guests to their seats before the ceremony.","hit":"ushers","src":"written","ep":17,"vi":"Những người hướng dẫn khách đã đưa khách đến chỗ ngồi trước buổi lễ."}
+{"w":"vows","d":"promises that the bride and groom make to each other during the wedding ceremony","ex":"They wrote their own vows and read them out loud.","hit":"vows","src":"written","ep":17,"vi":"Họ tự viết lời thề nguyện của mình và đọc to lên."}
+{"w":"protest","d":"an event where people gather together to show disapproval of something","ex":"where a protest has broken out.","hit":"protest","src":"dialogue","ep":18,"vi":"nơi một cuộc biểu tình vừa nổ ra."}
+{"w":"break out","d":"start suddenly","ex":"I heard a fight might break out if the crowd gets angrier.","hit":"break out","src":"written","ep":18,"vi":"Tôi nghe nói có thể sẽ nổ ra một cuộc ẩu đả nếu đám đông còn tức giận hơn."}
+{"w":"bailout","d":"the act of saving a company form money problems","ex":"Thousands of angry citizens are protesting against the proposed bailout of the auto manufacturing industry!","hit":"bailout","src":"dialogue","ep":18,"vi":"Hàng nghìn công dân giận dữ đang biểu tình phản đối gói cứu trợ được đề xuất cho ngành sản xuất ô tô!"}
+{"w":"injustice","d":"an unfair situation","ex":"Yeah, yeah, we are here because we feel this is an injustice!","hit":"injustice","src":"dialogue","ep":18,"vi":"Đúng vậy, chúng tôi có mặt ở đây vì chúng tôi cho rằng đây là một sự bất công!"}
+{"w":"outrage","d":"something that is morally wrong","ex":"It's an absolute outrage, Sarah, the US government wants to give twenty-five billion dollars of taxpayers' money to the auto industry.","hit":"outrage","src":"dialogue","ep":18,"vi":"Thật là một sự phẫn nộ tột độ, Sarah ạ, chính phủ Mỹ muốn đưa hai mươi lăm tỷ đô tiền thuế của dân cho ngành ô tô."}
+{"w":"mismanage","d":"manage badly","ex":"These are companies that have been mismanaged and are now nearly bankrupt.","hit":"mismanaged","src":"dialogue","ep":18,"vi":"Đây là những công ty bị quản lý tồi và giờ gần như phá sản."}
+{"w":"have the nerve","d":"dare to","ex":"And then they have the nerve to fly to Washington in private jets!","hit":"have the nerve","src":"dialogue","ep":18,"vi":"Vậy mà họ còn dám bay đến Washington bằng máy bay riêng!"}
+{"w":"placard","d":"sign people hold at protests, usually a piece of cardboard on a stick","ex":"She held up a placard that said Save Our Park.","hit":"placard","src":"written","ep":18,"vi":"Cô ấy giơ cao một tấm biển ghi Hãy cứu công viên của chúng ta."}
+{"w":"rally","d":"public meeting in support or opposition of something","ex":"Hundreds of workers came to the rally outside city hall.","hit":"rally","src":"written","ep":18,"vi":"Hàng trăm công nhân đã đến buổi mít tinh bên ngoài tòa thị chính."}
+{"w":"demonstration","d":"event where people gather together to show that they support or oppose something","ex":"The demonstration was peaceful, and the police stayed far away.","hit":"demonstration","src":"written","ep":18,"vi":"Cuộc biểu tình diễn ra ôn hòa và cảnh sát đứng cách xa."}
+{"w":"demonstrators","d":"people who go to a demonstration or protest","ex":"The demonstrators marched down Main Street singing and shouting.","hit":"demonstrators","src":"written","ep":18,"vi":"Những người biểu tình diễu hành xuống phố Main, vừa hát vừa hô vang."}
+{"w":"opponent","d":"a person who opposes something or someone","ex":"The mayor's opponent says the new tax is a terrible idea.","hit":"opponent","src":"written","ep":18,"vi":"Đối thủ của thị trưởng nói rằng loại thuế mới là một ý tưởng tồi tệ."}
+{"w":"proponent","d":"person who supports someone or something","ex":"He's a strong proponent of free public transport in our city.","hit":"proponent","src":"written","ep":18,"vi":"Ông ấy là người ủng hộ mạnh mẽ việc miễn phí giao thông công cộng trong thành phố chúng ta."}
+{"w":"get a load of","d":"look at (informal)","ex":"Get a load of this guy!","hit":"Get a load of","src":"dialogue","ep":19,"vi":"Nhìn gã này kìa!"}
+{"w":"license","d":"official document that shows you have permission to drive a car","ex":"License and registration please.","hit":"License","src":"dialogue","ep":19,"vi":"Làm ơn cho xem bằng lái và giấy đăng ký xe."}
+{"w":"eggnog","d":"traditional Christmas drink containing eggs, cream, sugar and rum","ex":"I had one or two glasses of eggnog, but nothing else.","hit":"eggnog","src":"dialogue","ep":19,"vi":"Tôi đã uống một hai ly eggnog, nhưng không uống gì khác."}
+{"w":"vehicle","d":"machine use to carry people, i.e. a car or truck","ex":"Step out of the vehicle, please.","hit":"vehicle","src":"dialogue","ep":19,"vi":"Làm ơn bước ra khỏi xe."}
+{"w":"step out","d":"briefly go out of a place","ex":"Step out of the vehicle, please.","hit":"Step out","src":"dialogue","ep":19,"vi":"Làm ơn bước ra khỏi xe."}
+{"w":"take that tone","d":"speak in that tone of voice","ex":"Don't take that tone with me.","hit":"take that tone","src":"dialogue","ep":19,"vi":"Đừng có giọng điệu đó với tôi."}
+{"w":"invoice","d":"official document that shows you have paid for something you bought","ex":"Do you have an invoice for these items?","hit":"invoice","src":"dialogue","ep":19,"vi":"Anh có hóa đơn cho những món hàng này không?"}
+{"w":"arrest","d":"the act of legally taking someone to jail","ex":"You are under arrest, sir.","hit":"arrest","src":"dialogue","ep":19,"vi":"Anh đang bị bắt, thưa anh."}
+{"w":"pout","d":"push out your lips to show that you are unhappy","ex":"You better not pout, you better not cry.","hit":"pout","src":"dialogue","ep":19,"vi":"Tốt nhất là đừng có bĩu môi, đừng có khóc."}
+{"w":"sleigh","d":"large, open vehicle that is pulled by horses over snow or ice","ex":"What about my sleigh?","hit":"sleigh","src":"dialogue","ep":19,"vi":"Còn chiếc xe trượt tuyết của tôi thì sao?"}
+{"w":"handcuffs","d":"a set of two metal rings that are used to join a persons hands together, esp. by police","ex":"The police put handcuffs on the thief and led him away.","hit":"handcuffs","src":"written","ep":19,"vi":"Cảnh sát còng tay tên trộm và dẫn hắn đi."}
+{"w":"prison","d":"a building where criminals are kept as punishment","ex":"He spent five years in prison for stealing a lot of money.","hit":"prison","src":"written","ep":19,"vi":"Anh ta đã ngồi tù năm năm vì ăn cắp rất nhiều tiền."}
+{"w":"read someone's rights","d":"tell someone their legal rights, usually when they are arrested","ex":"The officer began to read him his rights as he was arrested.","hit":"read him his rights","src":"written","ep":19,"vi":"Viên cảnh sát bắt đầu đọc cho anh ta nghe các quyền của mình khi bị bắt."}
+{"w":"DUI","d":"driving under the influence of alcohol or drugs","ex":"He lost his license after getting a DUI last summer.","hit":"DUI","src":"written","ep":19,"vi":"Anh ta bị tước bằng lái sau khi bị phạt lái xe khi say vào mùa hè năm ngoái."}
+{"w":"speeding ticket","d":"a piece of paper the police give if you are diving too fast","ex":"I got a speeding ticket because I was late for work.","hit":"speeding ticket","src":"written","ep":19,"vi":"Tôi bị phạt vì chạy quá tốc độ do đi làm trễ."}
+{"w":"seem to be","d":"appears or is","ex":"What seems to be the problem?","hit":"seems to be","src":"dialogue","ep":20,"vi":"Có vấn đề gì vậy?"}
+{"w":"struggle","d":"try very hard","ex":"I'm getting headaches, and I really struggle to see things that are far away.","hit":"struggle","src":"dialogue","ep":20,"vi":"Tôi bị đau đầu, và tôi thật sự rất khó nhìn những thứ ở xa."}
+{"w":"20/20 vision","d":"perfect eyesight","ex":"Her eyes are perfect, and she has 20/20 vision.","hit":"20/20 vision","src":"written","ep":20,"vi":"Mắt cô ấy rất tốt, thị lực của cô ấy là 20/20."}
+{"w":"make out","d":"see","ex":"Mmm… X, E, R, 3, a question mark, and I can't quite make out the other symbol but I think it's the peace sign.","hit":"make out","src":"dialogue","ep":20,"vi":"Ừm… X, E, R, 3, một dấu chấm hỏi, và tôi không nhìn rõ được ký hiệu còn lại nhưng tôi nghĩ đó là dấu hiệu hòa bình."}
+{"w":"far sighted","d":"see far-away things more clearly than things nearby","ex":"My grandfather is far sighted, so he needs glasses for reading.","hit":"far sighted","src":"written","ep":20,"vi":"Ông tôi bị viễn thị nên cần kính để đọc sách."}
+{"w":"as blind as a bat","d":"have really poor vision","ex":"You're as blind as a bat!","hit":"as blind as a bat","src":"dialogue","ep":20,"vi":"Bạn mù như dơi vậy!"}
+{"w":"vision","d":"ability to see things","ex":"But I have always had 20/20 vision.","hit":"vision","src":"dialogue","ep":20,"vi":"Nhưng tôi luôn có thị lực 20/20."}
+{"w":"blurry","d":"not clear","ex":"Yeah, I know, my vision is really blurry at times.","hit":"blurry","src":"dialogue","ep":20,"vi":"Vâng, tôi biết, thỉnh thoảng mắt tôi rất mờ."}
+{"w":"pick out","d":"choose","ex":"Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.","hit":"pick out","src":"dialogue","ep":20,"vi":"Được rồi, vậy mời bạn sang phòng bên kia chọn gọng kính trong lúc tôi ghi đơn kính."}
+{"w":"prescription","d":"a message written by a doctor that tells people what medicine to take","ex":"Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.","hit":"prescription","src":"dialogue","ep":20,"vi":"Được rồi, vậy mời bạn sang phòng bên kia chọn gọng kính trong lúc tôi ghi đơn kính."}
+{"w":"check-up","d":"regular examination by a doctor to make sure a person is healthy","ex":"I have a check-up with my doctor next Tuesday morning.","hit":"check-up","src":"written","ep":20,"vi":"Sáng thứ Ba tuần sau tôi có lịch khám sức khỏe định kỳ với bác sĩ."}
+{"w":"short sighted","d":"unable to see things far away (AmE)","ex":"I'm short sighted, so I can't read the signs from far away.","hit":"short sighted","src":"written","ep":20,"vi":"Tôi bị cận thị nên không đọc được các biển báo ở xa."}
+{"w":"nearsighted","d":"unable to see things far away (BrE)","ex":"Her son is nearsighted and has worn glasses since he was six.","hit":"nearsighted","src":"written","ep":20,"vi":"Con trai cô ấy bị cận và đeo kính từ năm sáu tuổi."}
+{"w":"contacts","d":"lenses you wear directly on your eyes to help you see","ex":"I'm trying contacts for the first time, but they feel strange.","hit":"contacts","src":"written","ep":20,"vi":"Tôi lần đầu thử kính áp tròng nhưng thấy nó hơi lạ."}
+{"w":"optometrist","d":"eye doctor","ex":"The optometrist checked my eyes and said I needed new glasses.","hit":"optometrist","src":"written","ep":20,"vi":"Bác sĩ đo mắt đã kiểm tra mắt tôi và nói tôi cần kính mới."}
+{"w":"prescribe","d":"officially tell someone to use a medicine or treatment","ex":"The doctor will prescribe some eye drops for my dry eyes.","hit":"prescribe","src":"written","ep":20,"vi":"Bác sĩ sẽ kê thuốc nhỏ mắt cho đôi mắt khô của tôi."}
+{"w":"lenses","d":"clear, curved piece of glass that helps people see better","ex":"These lenses are thinner, so my glasses feel much lighter now.","hit":"lenses","src":"written","ep":20,"vi":"Tròng kính này mỏng hơn nên kính của tôi nhẹ hơn nhiều."}

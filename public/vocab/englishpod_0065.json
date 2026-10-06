@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "the right person for the job",
     "vi": "người quá phù hợp",
-    "viDef": "đúng người cho công việc"
+    "viDef": "đúng người cho công việc",
+    "ex": "I think that I would be a perfect fit in this company.",
+    "exHit": "a perfect fit",
+    "exVi": "Tôi nghĩ mình sẽ rất phù hợp với công ty này."
   },
   {
     "word": "acumen",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "the ability to think clearly and make good decisions",
     "vi": "sự nhạy sắc",
-    "viDef": "khả năng nghĩ tỉnh táo và quyết đúng"
+    "viDef": "khả năng nghĩ tỉnh táo và quyết đúng",
+    "ex": "I have a unique combination of strong technical acumen, and outstanding soft skills; you know, I excel at building strong, long-term customer relationships.",
+    "exHit": "acumen",
+    "exVi": "Tôi có sự kết hợp độc đáo giữa trình độ kỹ thuật vững vàng và kỹ năng mềm xuất sắc; bạn biết đấy, tôi rất giỏi xây dựng mối quan hệ lâu dài, bền chặt với khách hàng."
   },
   {
     "word": "excel",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "be superior to, among the best",
     "vi": "xuất sắc",
-    "viDef": "giỏi vượt trội, thuộc hàng đầu"
+    "viDef": "giỏi vượt trội, thuộc hàng đầu",
+    "ex": "I have a unique combination of strong technical acumen, and outstanding soft skills; you know, I excel at building strong, long-term customer relationships.",
+    "exHit": "excel",
+    "exVi": "Tôi có sự kết hợp độc đáo giữa trình độ kỹ thuật vững vàng và kỹ năng mềm xuất sắc; bạn biết đấy, tôi rất giỏi xây dựng mối quan hệ lâu dài, bền chặt với khách hàng."
   },
   {
     "word": "head",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "to be the leader of something",
     "vi": "đứng đầu",
-    "viDef": "làm người dẫn dắt việc gì"
+    "viDef": "làm người dẫn dắt việc gì",
+    "ex": "She was chosen to head the new customer service team.",
+    "exHit": "head",
+    "exVi": "Cô ấy được chọn để đứng đầu nhóm chăm sóc khách hàng mới."
   },
   {
     "word": "implement",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "to make something active or effective",
     "vi": "thực thi",
-    "viDef": "đưa vào áp dụng, làm cho có hiệu lực"
+    "viDef": "đưa vào áp dụng, làm cho có hiệu lực",
+    "ex": "I decided that we needed better information and technical preparation on our products, so after I implemented a series of training sessions in coordination with our technical department, we were able to solve ninety percent of our customers' issues.",
+    "exHit": "implemented",
+    "exVi": "Tôi quyết định rằng chúng tôi cần thông tin và sự chuẩn bị về kỹ thuật tốt hơn cho các sản phẩm, nên sau khi tôi triển khai một loạt buổi đào tạo phối hợp với bộ phận kỹ thuật, chúng tôi đã giải quyết được chín mươi phần trăm vấn đề của khách hàng."
   },
   {
     "word": "training session",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "a meeting where people acquire skills and knowledge about a subject",
     "vi": "buổi tập huấn",
-    "viDef": "buổi để mọi người học kỹ năng và kiến thức về một chủ đề"
+    "viDef": "buổi để mọi người học kỹ năng và kiến thức về một chủ đề",
+    "ex": "I decided that we needed better information and technical preparation on our products, so after I implemented a series of training sessions in coordination with our technical department, we were able to solve ninety percent of our customers' issues.",
+    "exHit": "training sessions",
+    "exVi": "Tôi quyết định rằng chúng tôi cần thông tin và sự chuẩn bị về kỹ thuật tốt hơn cho các sản phẩm, nên sau khi tôi triển khai một loạt buổi đào tạo phối hợp với bộ phận kỹ thuật, chúng tôi đã giải quyết được chín mươi phần trăm vấn đề của khách hàng."
   },
   {
     "word": "struggle",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "have a difficult time",
     "vi": "gặp khó, chật vật",
-    "viDef": "trải qua giai đoạn khó khăn"
+    "viDef": "trải qua giai đoạn khó khăn",
+    "ex": "To be honest, I struggle with organization and time management.",
+    "exHit": "struggle",
+    "exVi": "Thành thật mà nói, tôi gặp khó khăn với việc sắp xếp công việc và quản lý thời gian."
   },
   {
     "word": "punctuality",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "arriving or doing something at the expected or planned time",
     "vi": "sự đúng giờ",
-    "viDef": "đến hoặc làm việc đúng lúc đã hẹn"
+    "viDef": "đến hoặc làm việc đúng lúc đã hẹn",
+    "ex": "Punctuality has never been a strength of mine.",
+    "exHit": "Punctuality",
+    "exVi": "Đúng giờ chưa bao giờ là điểm mạnh của tôi."
   },
   {
     "word": "address",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "to deal with (a matter, issue, problem, etc.)",
     "vi": "xử lý, đề cập",
-    "viDef": "giải quyết một vấn đề hoặc việc gì"
+    "viDef": "giải quyết một vấn đề hoặc việc gì",
+    "ex": "I have actually addressed this weakness recently, by attending a workshop on efficient time management.",
+    "exHit": "addressed",
+    "exVi": "Thực ra gần đây tôi đã khắc phục điểm yếu này bằng cách tham gia một buổi hội thảo về quản lý thời gian hiệu quả."
   },
   {
     "word": "short list",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "to select a few candidates in order to make a final selection or decision",
     "vi": "lọc danh sách ngắn",
-    "viDef": "chọn ra ít ứng viên để quyết định cuối"
+    "viDef": "chọn ra ít ứng viên để quyết định cuối",
+    "ex": "We are short-listing our candidates this week, and next week we will inform our short listed candidates of the day and time for a second interview with our CEO.",
+    "exHit": "short listed",
+    "exVi": "Tuần này chúng tôi sẽ lập danh sách rút gọn các ứng viên, và tuần sau chúng tôi sẽ thông báo cho những ứng viên trong danh sách về ngày giờ buổi phỏng vấn thứ hai với giám đốc điều hành của chúng tôi."
   },
   {
     "word": "prospect",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "someone or something that is likely to succeed or to be chosen",
     "vi": "ứng viên tiềm năng",
-    "viDef": "người hoặc thứ có khả năng thành công hoặc được chọn"
+    "viDef": "người hoặc thứ có khả năng thành công hoặc được chọn",
+    "ex": "She looks like a strong prospect for the manager job.",
+    "exHit": "prospect",
+    "exVi": "Cô ấy có vẻ là một ứng viên triển vọng cho vị trí quản lý."
   },
   {
     "word": "CV",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "curriculum vitae; a short document that describes your education, work experience, etc.",
     "vi": "sơ yếu lý lịch",
-    "viDef": "curriculum vitae; bản tóm về học vấn và kinh nghiệm làm việc"
+    "viDef": "curriculum vitae; bản tóm về học vấn và kinh nghiệm làm việc",
+    "ex": "I sent my CV to the company on Monday morning.",
+    "exHit": "CV",
+    "exVi": "Tôi đã gửi CV của mình cho công ty vào sáng thứ Hai."
   },
   {
     "word": "shortcoming",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a weakness that someone has",
     "vi": "điểm yếu",
-    "viDef": "chỗ còn thiếu sót của một người"
+    "viDef": "chỗ còn thiếu sót của một người",
+    "ex": "Being late is my biggest shortcoming at work.",
+    "exHit": "shortcoming",
+    "exVi": "Đi trễ là khuyết điểm lớn nhất của tôi trong công việc."
   },
   {
     "word": "asset",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a valuable or beneficial thing or ability that a person has",
     "vi": "thế mạnh",
-    "viDef": "khả năng hoặc điều đáng giá mà một người có"
+    "viDef": "khả năng hoặc điều đáng giá mà một người có",
+    "ex": "Speaking three languages is a real asset in this job.",
+    "exHit": "asset",
+    "exVi": "Nói được ba thứ tiếng là một lợi thế thực sự trong công việc này."
   },
   {
     "word": "triumph",
@@ -117,6 +159,9 @@
     "type": "common noun, singular",
     "def": "a great success or achievement a person has/ triumph",
     "vi": "thắng lợi lớn",
-    "viDef": "thành công hoặc thành tựu vẻ vang của một người"
+    "viDef": "thành công hoặc thành tựu vẻ vang của một người",
+    "ex": "Winning the contract was a great triumph for our team.",
+    "exHit": "triumph",
+    "exVi": "Việc giành được hợp đồng là một thành công lớn của đội chúng tôi."
   }
 ]

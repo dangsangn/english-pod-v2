@@ -5,7 +5,10 @@
     "type": "",
     "def": "a general review",
     "vi": "nhìn tổng quan",
-    "viDef": "phần điểm lại chung"
+    "viDef": "phần điểm lại chung",
+    "ex": "Of course sir, let me give you a brief overview.",
+    "exHit": "overview",
+    "exVi": "Dĩ nhiên, thưa ông, để tôi giới thiệu tổng quan ngắn gọn."
   },
   {
     "word": "wide range",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a variety",
     "vi": "nhiều lựa chọn",
-    "viDef": "sự đa dạng"
+    "viDef": "sự đa dạng",
+    "ex": "The school covers a wide range of academic subjects; and eighty percent of the courses are transferable to other state universities.",
+    "exHit": "wide range",
+    "exVi": "Trường có nhiều môn học khác nhau, và tám mươi phần trăm số môn có thể chuyển tín chỉ sang các trường đại học bang khác."
   },
   {
     "word": "rank",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "place something in a particular position",
     "vi": "xếp hạng",
-    "viDef": "đặt thứ gì vào một vị trí nhất định"
+    "viDef": "đặt thứ gì vào một vị trí nhất định",
+    "ex": "And, last year AmLion College was ranked number one in terms of graduate employment.",
+    "exHit": "ranked",
+    "exVi": "Và năm ngoái, Đại học AmLion được xếp hạng nhất về tỷ lệ sinh viên tốt nghiệp có việc làm."
   },
   {
     "word": "tuition",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "school fee",
     "vi": "học phí",
-    "viDef": "tiền đóng cho trường"
+    "viDef": "tiền đóng cho trường",
+    "ex": "Interesting, and what about the tuition fees, then?",
+    "exHit": "tuition",
+    "exVi": "Thú vị đấy, vậy còn học phí thì sao?"
   },
   {
     "word": "semester",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "one of two divisions of an academic year",
     "vi": "học kỳ",
-    "viDef": "một trong hai phần của năm học"
+    "viDef": "một trong hai phần của năm học",
+    "ex": "You'll be looking at somewhere around fifteen thousand US dollars per semester.",
+    "exHit": "semester",
+    "exVi": "Bạn sẽ mất khoảng mười lăm nghìn đô la Mỹ mỗi học kỳ."
   },
   {
     "word": "dorm",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a room for student to sleep in",
     "vi": "ký túc xá",
-    "viDef": "phòng cho sinh viên ngủ"
+    "viDef": "phòng cho sinh viên ngủ",
+    "ex": "Students can stay in our newly renovated dorms for as little as three thousand dollars per month!",
+    "exHit": "dorms",
+    "exVi": "Sinh viên có thể ở ký túc xá mới được cải tạo của chúng tôi với giá chỉ ba nghìn đô la mỗi tháng!"
   },
   {
     "word": "on-campus housing",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "flats or apartments in school",
     "vi": "nhà ở trong trường",
-    "viDef": "các căn hộ hoặc phòng trong khuôn viên trường"
+    "viDef": "các căn hộ hoặc phòng trong khuôn viên trường",
+    "ex": "Is on-campus housing cheaper than renting a flat in the city?",
+    "exHit": "on-campus housing",
+    "exVi": "Nhà ở trong khuôn viên trường có rẻ hơn thuê căn hộ trong thành phố không?"
   },
   {
     "word": "flyer",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a small sheet that advertises a product",
     "vi": "tờ rơi",
-    "viDef": "tờ giấy nhỏ quảng cáo một sản phẩm"
+    "viDef": "tờ giấy nhỏ quảng cáo một sản phẩm",
+    "ex": "Sir, you got the wrong flyer.",
+    "exHit": "flyer",
+    "exVi": "Thưa ông, ông cầm nhầm tờ rơi rồi."
   },
   {
     "word": "admission",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the right of entrance",
     "vi": "việc được nhận vào",
-    "viDef": "quyền được vào học"
+    "viDef": "quyền được vào học",
+    "ex": "Admission to the university is very competitive this year.",
+    "exHit": "Admission",
+    "exVi": "Việc nhập học vào trường đại học năm nay rất cạnh tranh."
   },
   {
     "word": "fraternity",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a group of persons associated by or as if by ties of brotherhood.",
     "vi": "hội nam sinh",
-    "viDef": "nhóm người gắn với nhau như tình anh em"
+    "viDef": "nhóm người gắn với nhau như tình anh em",
+    "ex": "He joined a fraternity during his first year of college.",
+    "exHit": "fraternity",
+    "exVi": "Anh ấy tham gia một hội huynh đệ trong năm đầu đại học."
   },
   {
     "word": "spring break",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "a school holiday, usually for a week, during March",
     "vi": "kỳ nghỉ xuân",
-    "viDef": "kỳ nghỉ của trường, thường một tuần, vào tháng Ba"
+    "viDef": "kỳ nghỉ của trường, thường một tuần, vào tháng Ba",
+    "ex": "We're going to the beach for spring break.",
+    "exHit": "spring break",
+    "exVi": "Chúng tôi sẽ ra biển vào kỳ nghỉ xuân."
   }
 ]

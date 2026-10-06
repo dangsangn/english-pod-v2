@@ -5,7 +5,10 @@
     "type": "",
     "def": "to quickly get something to eat",
     "vi": "ăn nhanh miếng gì",
-    "viDef": "lấy chút gì ăn cho lẹ"
+    "viDef": "lấy chút gì ăn cho lẹ",
+    "ex": "Let's grab a bite before we go shopping.",
+    "exHit": "grab a bite",
+    "exVi": "Mình ăn nhanh chút gì đó trước khi đi mua sắm nhé."
   },
   {
     "word": "mascara",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a cosmetic applied to thicken, lengthen, and darken the eyelashes",
     "vi": "mascara",
-    "viDef": "mỹ phẩm bôi cho lông mi dày, dài và đậm hơn"
+    "viDef": "mỹ phẩm bôi cho lông mi dày, dài và đậm hơn",
+    "ex": "Just for my eyes I have to get eyeliner, an eyelash curler, eye shadow, an eyebrow pencil and mascara.",
+    "exHit": "mascara",
+    "exVi": "Riêng cho mắt, tôi phải mua bút kẻ mắt, dụng cụ uốn mi, phấn mắt, chì kẻ lông mày và mascara."
   },
   {
     "word": "eye shadow",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a cosmetic coloring material applied to the eyelid",
     "vi": "phấn mắt",
-    "viDef": "mỹ phẩm màu bôi lên mí mắt"
+    "viDef": "mỹ phẩm màu bôi lên mí mắt",
+    "ex": "Just for my eyes I have to get eyeliner, an eyelash curler, eye shadow, an eyebrow pencil and mascara.",
+    "exHit": "eye shadow",
+    "exVi": "Riêng cho mắt, tôi phải mua bút kẻ mắt, dụng cụ uốn mi, phấn mắt, chì kẻ lông mày và mascara."
   },
   {
     "word": "outrageous",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "passing reasonable bounds; intolerable or shocking",
     "vi": "quá đáng",
-    "viDef": "vượt mức hợp lý, không chấp nhận được hoặc gây sốc"
+    "viDef": "vượt mức hợp lý, không chấp nhận được hoặc gây sốc",
+    "ex": "I'm looking at the price at each one of these little things and it's outrageous!",
+    "exHit": "outrageous",
+    "exVi": "Mình đang xem giá từng món nhỏ xíu này và thật quá đáng!"
   },
   {
     "word": "basically",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "in a basic way; fundamentally or essentially",
     "vi": "nói chung là",
-    "viDef": "về cơ bản, thực chất"
+    "viDef": "về cơ bản, thực chất",
+    "ex": "This is basically a crayon!",
+    "exHit": "basically",
+    "exVi": "Về cơ bản đây chỉ là một cây bút sáp màu thôi!"
   },
   {
     "word": "to grab a bite",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to quickly get something to eat",
     "vi": "ăn nhanh miếng gì",
-    "viDef": "lấy chút gì ăn cho lẹ"
+    "viDef": "lấy chút gì ăn cho lẹ",
+    "ex": "Let's grab a bite before we go shopping.",
+    "exHit": "grab a bite",
+    "exVi": "Mình ăn nhanh chút gì đó trước khi đi mua sắm nhé."
   },
   {
     "word": "lip gloss",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a glossy lip balm for women",
     "vi": "son bóng",
-    "viDef": "dưỡng môi có độ bóng dành cho nữ"
+    "viDef": "dưỡng môi có độ bóng dành cho nữ",
+    "ex": "I'd like a pink lip gloss to go with this dress.",
+    "exHit": "lip gloss",
+    "exVi": "Tôi muốn một thỏi son bóng màu hồng hợp với chiếc váy này."
   },
   {
     "word": "lip liner",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a pencil used especially to accentuate the lips",
     "vi": "chì kẻ môi",
-    "viDef": "bút chì dùng để làm nổi viền môi"
+    "viDef": "bút chì dùng để làm nổi viền môi",
+    "ex": "Can you show me a lip liner in a darker shade?",
+    "exHit": "lip liner",
+    "exVi": "Bạn cho tôi xem một cây chì kẻ viền môi màu đậm hơn được không?"
   },
   {
     "word": "face mask",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a facial cleanser when dry creates a mask",
     "vi": "mặt nạ dưỡng da",
-    "viDef": "sản phẩm rửa mặt khi khô lại tạo thành lớp mặt nạ"
+    "viDef": "sản phẩm rửa mặt khi khô lại tạo thành lớp mặt nạ",
+    "ex": "I put on a face mask every Sunday night.",
+    "exHit": "face mask",
+    "exVi": "Tối Chủ nhật nào tôi cũng đắp mặt nạ."
   },
   {
     "word": "understate",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to misjudge the statement made as being less",
     "vi": "nói nhẹ đi",
-    "viDef": "đánh giá lời nói thấp hơn thực tế"
+    "viDef": "đánh giá lời nói thấp hơn thực tế",
+    "ex": "Don't understate the problem, because it's quite serious.",
+    "exHit": "understate",
+    "exVi": "Đừng nói giảm vấn đề đi, vì nó khá nghiêm trọng đấy."
   },
   {
     "word": "naive",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "to have little experience or knowledge toward a given topic",
     "vi": "còn non",
-    "viDef": "ít kinh nghiệm hoặc kiến thức về một đề tài"
+    "viDef": "ít kinh nghiệm hoặc kiến thức về một đề tài",
+    "ex": "I'm too naive about makeup, so I need some advice.",
+    "exHit": "naive",
+    "exVi": "Tôi còn quá ngây ngô về trang điểm nên cần được tư vấn."
   }
 ]

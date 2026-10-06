@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "very happy about something",
     "vi": "háo hức",
-    "viDef": "rất vui vì điều gì đó"
+    "viDef": "rất vui vì điều gì đó",
+    "ex": "I'm so excited about Chinese New Year!",
+    "exHit": "excited",
+    "exVi": "Mình rất háo hức về Tết Nguyên đán!"
   },
   {
     "word": "dumpling",
@@ -13,7 +16,10 @@
     "type": "common noun, plural",
     "def": "small lump of dough that is steamed or boiled, traditional Chinese New Year food",
     "vi": "bánh bao, sủi cảo",
-    "viDef": "viên bột hấp hoặc luộc, món Tết truyền thống của người Trung Quốc"
+    "viDef": "viên bột hấp hoặc luộc, món Tết truyền thống của người Trung Quốc",
+    "ex": "Grandma makes the best dumplings in the world!",
+    "exHit": "dumplings",
+    "exVi": "Bà làm bánh sủi cảo ngon nhất thế giới!"
   },
   {
     "word": "firecracker",
@@ -21,7 +27,10 @@
     "type": "common noun, plural",
     "def": "a cylinder filled with explosive substance that makes loud noise when it explodes",
     "vi": "pháo",
-    "viDef": "ống nhồi thuốc nổ, phát tiếng lớn khi nổ"
+    "viDef": "ống nhồi thuốc nổ, phát tiếng lớn khi nổ",
+    "ex": "Son, firecrackers aren't toys; they're dangerous!",
+    "exHit": "firecrackers",
+    "exVi": "Con trai, pháo không phải đồ chơi; chúng nguy hiểm lắm!"
   },
   {
     "word": "look forward to",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "excited and happy about something that will happen in the future",
     "vi": "trông đợi",
-    "viDef": "háo hức, vui vì chuyện sắp tới"
+    "viDef": "háo hức, vui vì chuyện sắp tới",
+    "ex": "I'm really looking forward to lighting them!",
+    "exHit": "looking forward to",
+    "exVi": "Con rất mong được đốt chúng!"
   },
   {
     "word": "can't wait",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "eager or excited about doing something or for something to begin",
     "vi": "không chờ được nữa",
-    "viDef": "nóng lòng muốn làm hoặc muốn việc gì bắt đầu"
+    "viDef": "nóng lòng muốn làm hoặc muốn việc gì bắt đầu",
+    "ex": "Oh, and I can't wait to watch the dragon dance!",
+    "exHit": "can't wait",
+    "exVi": "Ồ, và con nóng lòng được xem múa rồng!"
   },
   {
     "word": "set off",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "cause something to explode",
     "vi": "đốt, cho nổ",
-    "viDef": "làm cho thứ gì phát nổ"
+    "viDef": "làm cho thứ gì phát nổ",
+    "ex": "Last year when I set off the firecrackers, you covered both your ears and hid behind your mother?",
+    "exHit": "set off",
+    "exVi": "Năm ngoái khi con đốt pháo, con đã bịt cả hai tai lại và trốn sau lưng mẹ phải không?"
   },
   {
     "word": "Lunar New Year",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "Chinese New Year, based on the cycles of the moon",
     "vi": "Tết Nguyên đán",
-    "viDef": "Tết Trung Quốc, tính theo chu kỳ mặt trăng"
+    "viDef": "Tết Trung Quốc, tính theo chu kỳ mặt trăng",
+    "ex": "We always visit my grandparents during Lunar New Year.",
+    "exHit": "Lunar New Year",
+    "exVi": "Chúng tôi luôn đến thăm ông bà vào dịp Tết Nguyên đán."
   },
   {
     "word": "Spring Festival",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "Chinese New Year",
     "vi": "Tết Xuân",
-    "viDef": "Tết của người Trung Quốc"
+    "viDef": "Tết của người Trung Quốc",
+    "ex": "Millions of people travel home for the Spring Festival every year.",
+    "exHit": "Spring Festival",
+    "exVi": "Hàng triệu người về quê đón Tết mỗi năm."
   },
   {
     "word": "lunar calendar",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a calendar based on the cycles and phases of the moon",
     "vi": "âm lịch",
-    "viDef": "lịch tính theo chu kỳ và pha của mặt trăng"
+    "viDef": "lịch tính theo chu kỳ và pha của mặt trăng",
+    "ex": "The date of the holiday changes because it follows the lunar calendar.",
+    "exHit": "lunar calendar",
+    "exVi": "Ngày lễ thay đổi vì nó theo âm lịch."
   },
   {
     "word": "can hardly wait",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "very excited about something that will happen in the future",
     "vi": "nóng lòng lắm rồi",
-    "viDef": "rất háo hức về chuyện sắp diễn ra"
+    "viDef": "rất háo hức về chuyện sắp diễn ra",
+    "ex": "I can hardly wait to see my family this weekend.",
+    "exHit": "can hardly wait",
+    "exVi": "Mình nóng lòng gặp gia đình vào cuối tuần này."
   },
   {
     "word": "impatient",
@@ -85,6 +115,9 @@
     "type": "Adjective",
     "def": "not happy or willing to wait for something",
     "vi": "nôn nóng",
-    "viDef": "không muốn phải chờ"
+    "viDef": "không muốn phải chờ",
+    "ex": "The kids got impatient while waiting for the fireworks to start.",
+    "exHit": "impatient",
+    "exVi": "Bọn trẻ trở nên sốt ruột khi chờ pháo hoa bắt đầu."
   }
 ]

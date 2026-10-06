@@ -5,7 +5,10 @@
     "type": "",
     "def": "a tall lamp with a base that stands on the floor",
     "vi": "đèn cây",
-    "viDef": "đèn cao có chân đứng trên sàn"
+    "viDef": "đèn cao có chân đứng trên sàn",
+    "ex": "How about this floor lamp?",
+    "exHit": "floor lamp",
+    "exVi": "Cái đèn đứng này thì sao?"
   },
   {
     "word": "armoire",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a large wardrobe or cabinet",
     "vi": "tủ áo lớn",
-    "viDef": "tủ quần áo hoặc tủ đứng cỡ lớn"
+    "viDef": "tủ quần áo hoặc tủ đứng cỡ lớn",
+    "ex": "We still need to find an armoire and a dresser.",
+    "exHit": "armoire",
+    "exVi": "Chúng ta vẫn cần tìm một cái tủ quần áo lớn và một cái tủ ngăn kéo."
   },
   {
     "word": "dresser",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a set of shelves usually used for holding clothes",
     "vi": "tủ ngăn kéo",
-    "viDef": "bộ kệ thường dùng để đựng quần áo"
+    "viDef": "bộ kệ thường dùng để đựng quần áo",
+    "ex": "We still need to find an armoire and a dresser.",
+    "exHit": "dresser",
+    "exVi": "Chúng ta vẫn cần tìm một cái tủ quần áo lớn và một cái tủ ngăn kéo."
   },
   {
     "word": "nightstand",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a small table or stand placed at a bedside",
     "vi": "tủ đầu giường",
-    "viDef": "bàn hoặc kệ nhỏ đặt cạnh giường"
+    "viDef": "bàn hoặc kệ nhỏ đặt cạnh giường",
+    "ex": "I am going to go home and drop off this nightstand, coffee table and love seat while you look for the rest of the things.",
+    "exHit": "nightstand",
+    "exVi": "Tôi sẽ về nhà để bỏ cái tủ đầu giường, bàn cà phê và ghế sofa đôi này xuống, trong lúc bạn tìm những thứ còn lại."
   },
   {
     "word": "love seat",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "small sofa that seats two people",
     "vi": "ghế đôi",
-    "viDef": "sofa nhỏ cho hai người ngồi"
+    "viDef": "sofa nhỏ cho hai người ngồi",
+    "ex": "I am going to go home and drop off this nightstand, coffee table and love seat while you look for the rest of the things.",
+    "exHit": "love seat",
+    "exVi": "Tôi sẽ về nhà để bỏ cái tủ đầu giường, bàn cà phê và ghế sofa đôi này xuống, trong lúc bạn tìm những thứ còn lại."
   },
   {
     "word": "recliner",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "an armchair that can be reclined",
     "vi": "ghế ngả",
-    "viDef": "ghế bành có thể ngả lưng ra"
+    "viDef": "ghế bành có thể ngả lưng ra",
+    "ex": "While you are at it can you pick out a nice recliner?",
+    "exHit": "recliner",
+    "exVi": "Nhân tiện bạn đang ở đó, chọn giúp tôi một cái ghế bành ngả lưng đẹp nhé?"
   },
   {
     "word": "while you are at it",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "during the time you are there",
     "vi": "tiện thể luôn",
-    "viDef": "trong lúc bạn đang ở đó"
+    "viDef": "trong lúc bạn đang ở đó",
+    "ex": "While you are at it can you pick out a nice recliner?",
+    "exHit": "While you are at it",
+    "exVi": "Nhân tiện bạn đang ở đó, chọn giúp tôi một cái ghế bành ngả lưng đẹp nhé?"
   },
   {
     "word": "Sectional",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "one large couch with different sections",
     "vi": "sofa ghép modul",
-    "viDef": "một bộ ghế dài lớn gồm nhiều khối rời"
+    "viDef": "một bộ ghế dài lớn gồm nhiều khối rời",
+    "ex": "We bought a big sectional for the family room.",
+    "exHit": "sectional",
+    "exVi": "Chúng tôi mua một bộ sofa góc lớn cho phòng sinh hoạt chung."
   },
   {
     "word": "coffee table",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A table that is set in the middle of a living room",
     "vi": "bàn trà",
-    "viDef": "bàn đặt giữa phòng khách"
+    "viDef": "bàn đặt giữa phòng khách",
+    "ex": "I am going to go home and drop off this nightstand, coffee table and love seat while you look for the rest of the things.",
+    "exHit": "coffee table",
+    "exVi": "Tôi sẽ về nhà để bỏ cái tủ đầu giường, bàn cà phê và ghế sofa đôi này xuống, trong lúc bạn tìm những thứ còn lại."
   },
   {
     "word": "bar stools",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "Chairs that are placed at a bar",
     "vi": "ghế quầy bar",
-    "viDef": "các ghế đặt ở quầy bar"
+    "viDef": "các ghế đặt ở quầy bar",
+    "ex": "We need two bar stools for the kitchen counter.",
+    "exHit": "bar stools",
+    "exVi": "Chúng tôi cần hai cái ghế quầy bar cho quầy bếp."
   },
   {
     "word": "family room",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "the room where the family spends time together",
     "vi": "phòng sinh hoạt chung",
-    "viDef": "phòng cả nhà quây quần"
+    "viDef": "phòng cả nhà quây quần",
+    "ex": "The kids are watching TV in the family room.",
+    "exHit": "family room",
+    "exVi": "Bọn trẻ đang xem TV trong phòng sinh hoạt chung."
   }
 ]

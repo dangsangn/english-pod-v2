@@ -5,7 +5,10 @@
     "type": "",
     "def": "a medical substance that protects people or animals",
     "vi": "vắc-xin",
-    "viDef": "chế phẩm y tế bảo vệ người hoặc động vật"
+    "viDef": "chế phẩm y tế bảo vệ người hoặc động vật",
+    "ex": "Ricky and I are here for his vaccines.",
+    "exHit": "vaccines",
+    "exVi": "Tôi và Ricky đến đây để cháu tiêm vắc xin."
   },
   {
     "word": "Polio",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "acute viral disease, usually affecting children and young adults",
     "vi": "bệnh bại liệt",
-    "viDef": "bệnh do virus, khởi phát cấp tính, thường gặp ở trẻ em và người trẻ"
+    "viDef": "bệnh do virus, khởi phát cấp tính, thường gặp ở trẻ em và người trẻ",
+    "ex": "Let's see, according to his vaccination record, Ricky has received his Polio, Tetanus and Hepatitis B shots.",
+    "exHit": "Polio",
+    "exVi": "Để xem nào, theo sổ tiêm chủng thì Ricky đã tiêm bại liệt, uốn ván và viêm gan B."
   },
   {
     "word": "Tetanus",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "an infectious, often fatal disease caused by a specific bacterium that enters the body through wounds",
     "vi": "bệnh uốn ván",
-    "viDef": "bệnh nhiễm trùng, thường gây tử vong, do một loại vi khuẩn xâm nhập cơ thể qua vết thương"
+    "viDef": "bệnh nhiễm trùng, thường gây tử vong, do một loại vi khuẩn xâm nhập cơ thể qua vết thương",
+    "ex": "Doctor, I think I also may need a Tetanus booster.",
+    "exHit": "Tetanus",
+    "exVi": "Bác sĩ, tôi nghĩ tôi cũng có thể cần một mũi uốn ván nhắc lại."
   },
   {
     "word": "Hepatitis",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "inflammation of the liver, caused by a virus or a toxin",
     "vi": "viêm gan",
-    "viDef": "tình trạng gan bị viêm, do virus hoặc do độc tố"
+    "viDef": "tình trạng gan bị viêm, do virus hoặc do độc tố",
+    "ex": "He is 14 months old, so he is due for Hepatitis A, Chickenpox and Measles shots.",
+    "exHit": "Hepatitis",
+    "exVi": "Bé được 14 tháng nên đến lúc tiêm viêm gan A, thủy đậu và sởi."
   },
   {
     "word": "Rubella",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a mild contagious viral disease characterized by fever, mild upper respiratory congestion, and a fine red rash lasting a few days",
     "vi": "bệnh rubella",
-    "viDef": "bệnh virus lây nhẹ, biểu hiện là sốt, nghẹt đường hô hấp trên nhẹ và phát ban đỏ li ti kéo dài vài ngày"
+    "viDef": "bệnh virus lây nhẹ, biểu hiện là sốt, nghẹt đường hô hấp trên nhẹ và phát ban đỏ li ti kéo dài vài ngày",
+    "ex": "What about Rubella and Mumps?",
+    "exHit": "Rubella",
+    "exVi": "Còn rubella và quai bị thì sao?"
   },
   {
     "word": "Chickenpox",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "A disease common of children, characterized by mild headache and fever, and eruption of blisters on the skin",
     "vi": "bệnh thủy đậu",
-    "viDef": "bệnh thường gặp ở trẻ em, biểu hiện là nhức đầu nhẹ, sốt và nổi mụn nước trên da"
+    "viDef": "bệnh thường gặp ở trẻ em, biểu hiện là nhức đầu nhẹ, sốt và nổi mụn nước trên da",
+    "ex": "He is 14 months old, so he is due for Hepatitis A, Chickenpox and Measles shots.",
+    "exHit": "Chickenpox",
+    "exVi": "Bé được 14 tháng nên đến lúc tiêm viêm gan A, thủy đậu và sởi."
   },
   {
     "word": "Measles",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "an acute infectious disease occurring mostly in children. red spots being a common sympton",
     "vi": "bệnh sởi",
-    "viDef": "bệnh nhiễm cấp tính, phần lớn gặp ở trẻ em, dấu hiệu thường thấy là các nốt đỏ"
+    "viDef": "bệnh nhiễm cấp tính, phần lớn gặp ở trẻ em, dấu hiệu thường thấy là các nốt đỏ",
+    "ex": "He is 14 months old, so he is due for Hepatitis A, Chickenpox and Measles shots.",
+    "exHit": "Measles",
+    "exVi": "Bé được 14 tháng nên đến lúc tiêm viêm gan A, thủy đậu và sởi."
   },
   {
     "word": "Mumps",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "characterized by inflammatory swelling of the usually other salivary glands",
     "vi": "bệnh quai bị",
-    "viDef": "bệnh làm sưng viêm các tuyến nước bọt"
+    "viDef": "bệnh làm sưng viêm các tuyến nước bọt",
+    "ex": "What about Rubella and Mumps?",
+    "exHit": "Mumps",
+    "exVi": "Còn rubella và quai bị thì sao?"
   },
   {
     "word": "aminister",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "aminister",
     "vi": "chích ngừa, cho dùng",
-    "viDef": "thực hiện việc tiêm hoặc cho dùng thuốc"
+    "viDef": "thực hiện việc tiêm hoặc cho dùng thuốc",
+    "ex": "The nurse will administer the vaccine in his left arm.",
+    "exHit": "administer",
+    "exVi": "Y tá sẽ tiêm vắc xin vào cánh tay trái của bé."
   }
 ]

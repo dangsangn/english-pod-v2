@@ -5,7 +5,10 @@
     "type": "",
     "def": "end a romantic relationship",
     "vi": "chia tay",
-    "viDef": "kết thúc quan hệ tình cảm"
+    "viDef": "kết thúc quan hệ tình cảm",
+    "ex": "Why did your girlfriend break up with you?",
+    "exHit": "break up",
+    "exVi": "Tại sao bạn gái của cậu lại chia tay với cậu vậy?"
   },
   {
     "word": "talk about",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to deliver or express in speech",
     "vi": "nói về",
-    "viDef": "trình bày hoặc diễn đạt bằng lời"
+    "viDef": "trình bày hoặc diễn đạt bằng lời",
+    "ex": "Let's talk about your plans for the weekend.",
+    "exHit": "talk about",
+    "exVi": "Mình cùng nói về kế hoạch cuối tuần của bạn nhé."
   },
   {
     "word": "figure things out",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "think about something until understand",
     "vi": "nghĩ cho ra chuyện",
-    "viDef": "nghĩ về việc gì cho đến khi hiểu ra"
+    "viDef": "nghĩ về việc gì cho đến khi hiểu ra",
+    "ex": "He said he needed some space to figure things out...",
+    "exHit": "figure things out",
+    "exVi": "Anh ấy nói anh ấy cần chút khoảng trống để nghĩ cho thông suốt..."
   },
   {
     "word": "cliché",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a saying or idea that is overused",
     "vi": "câu sáo cũ",
-    "viDef": "lời hoặc ý bị dùng quá nhiều"
+    "viDef": "lời hoặc ý bị dùng quá nhiều",
+    "ex": "Talk about being cliché, Maggie!",
+    "exHit": "cliché",
+    "exVi": "Đúng là sáo rỗng hết sức, Maggie ơi!"
   },
   {
     "word": "hit a rough patch",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "go through a difficult time",
     "vi": "gặp đoạn khó",
-    "viDef": "trải qua một giai đoạn khó khăn"
+    "viDef": "trải qua một giai đoạn khó khăn",
+    "ex": "I know we had hit a rough patch but I had hoped we could work it out next weekend, when we both had some time off...",
+    "exHit": "hit a rough patch",
+    "exVi": "Tôi biết chúng tôi đã trải qua giai đoạn khó khăn, nhưng tôi đã hy vọng cuối tuần tới, khi cả hai đều rảnh, chúng tôi có thể giải quyết ổn thỏa..."
   },
   {
     "word": "work out",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "solve, overcome",
     "vi": "giải quyết được",
-    "viDef": "xử lý, vượt qua"
+    "viDef": "xử lý, vượt qua",
+    "ex": "Whatever it is, we can work it out.",
+    "exHit": "work it out",
+    "exVi": "Dù là chuyện gì, chúng ta cũng có thể giải quyết được."
   },
   {
     "word": "get dumped",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to have someone break up with you",
     "vi": "bị bỏ",
-    "viDef": "bị người kia chia tay mình"
+    "viDef": "bị người kia chia tay mình",
+    "ex": "I heard she got dumped by her boyfriend last week.",
+    "exHit": "got dumped",
+    "exVi": "Tôi nghe nói tuần trước cô ấy bị bạn trai đá."
   },
   {
     "word": "honeymoon period",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the time at the beginning of a relationship when everything is going well",
     "vi": "giai đoạn mật ngọt",
-    "viDef": "thời gian đầu của quan hệ khi mọi thứ đều tốt đẹp"
+    "viDef": "thời gian đầu của quan hệ khi mọi thứ đều tốt đẹp",
+    "ex": "We were so happy during the honeymoon period of our relationship.",
+    "exHit": "honeymoon period",
+    "exVi": "Chúng tôi đã rất hạnh phúc trong giai đoạn trăng mật của mối quan hệ."
   },
   {
     "word": "long-distance relationship",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "when two people live far away from each other but are in a relationship",
     "vi": "yêu xa",
-    "viDef": "khi hai người sống cách xa nhau mà vẫn trong một quan hệ"
+    "viDef": "khi hai người sống cách xa nhau mà vẫn trong một quan hệ",
+    "ex": "A long-distance relationship is hard when you only talk on the phone.",
+    "exHit": "long-distance relationship",
+    "exVi": "Yêu xa rất khó khi hai người chỉ nói chuyện qua điện thoại."
   },
   {
     "word": "blind date",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "when someone is set up to go on a date with a person he/she does not know",
     "vi": "buổi hẹn xem mắt",
-    "viDef": "khi có người sắp xếp cho ai đi hẹn hò với người mình chưa biết"
+    "viDef": "khi có người sắp xếp cho ai đi hẹn hò với người mình chưa biết",
+    "ex": "My friend set me up on a blind date tonight.",
+    "exHit": "blind date",
+    "exVi": "Bạn tôi đã sắp xếp cho tôi một buổi hẹn hò giấu mặt tối nay."
   },
   {
     "word": "commitment",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "responsibility and sincerity in a relationship",
     "vi": "sự cam kết",
-    "viDef": "trách nhiệm và lòng thành trong quan hệ"
+    "viDef": "trách nhiệm và lòng thành trong quan hệ",
+    "ex": "He is afraid of commitment, so he never stays with anyone long.",
+    "exHit": "commitment",
+    "exVi": "Anh ấy sợ sự cam kết nên chẳng bao giờ gắn bó với ai lâu."
   },
   {
     "word": "casual dating",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "not dating to get married, just having fun, nothing serious",
     "vi": "hẹn hò thoải mái",
-    "viDef": "hẹn hò không nhằm cưới xin, chỉ vui vẻ, không nghiêm túc"
+    "viDef": "hẹn hò không nhằm cưới xin, chỉ vui vẻ, không nghiêm túc",
+    "ex": "I am only interested in casual dating right now, nothing serious.",
+    "exHit": "casual dating",
+    "exVi": "Hiện giờ tôi chỉ muốn hẹn hò thoải mái, không có gì nghiêm túc."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "principle verb, past simple",
     "def": "to change the color of (something, such as hair or clothing",
     "vi": "nhuộm",
-    "viDef": "đổi màu của tóc hoặc quần áo"
+    "viDef": "đổi màu của tóc hoặc quần áo",
+    "ex": "I don't want anymore ruined or dyed blouses!",
+    "exHit": "dyed",
+    "exVi": "Tôi không muốn thêm cái áo cánh nào bị hỏng hay bị nhuộm màu nữa!"
   },
   {
     "word": "contraption",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "machine",
     "vi": "cái máy kỳ khôi",
-    "viDef": "thiết bị, máy móc"
+    "viDef": "thiết bị, máy móc",
+    "ex": "OK, so I have to separate the colors from the whites and put them in this strange looking contraption so called washing machine.",
+    "exHit": "contraption",
+    "exVi": "Được rồi, vậy là tôi phải tách đồ màu ra khỏi đồ trắng rồi bỏ vào cái thiết bị trông lạ lùng gọi là máy giặt này."
   },
   {
     "word": "do the trick",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "accomplish the desired task",
     "vi": "thế là xong việc",
-    "viDef": "đạt được điều mình muốn"
+    "viDef": "đạt được điều mình muốn",
+    "ex": "Sounds like he only has transient insomnia since it's a recent thing so taking melatonin do the trick.",
+    "exHit": "do the trick",
+    "exVi": "Có vẻ anh ấy chỉ bị mất ngủ thoáng qua vì mới xảy ra gần đây, nên uống melatonin là có tác dụng."
   },
   {
     "word": "all set",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "ready, prepared",
     "vi": "xong hết rồi",
-    "viDef": "đã sẵn sàng"
+    "viDef": "đã sẵn sàng",
+    "ex": "Then I can just throw everything in the dryer for an hour and its all set right?",
+    "exHit": "all set",
+    "exVi": "Rồi tôi chỉ việc ném mọi thứ vào máy sấy một tiếng là xong hết, đúng không?"
   },
   {
     "word": "dry clean",
@@ -37,7 +49,10 @@
     "type": "principle verb, past simple",
     "def": "a way to clean clothes without water.",
     "vi": "giặt khô",
-    "viDef": "cách làm sạch quần áo không dùng nước"
+    "viDef": "cách làm sạch quần áo không dùng nước",
+    "ex": "I'll just have everything dry cleaned.",
+    "exHit": "dry cleaned",
+    "exVi": "Tôi sẽ đem hết đi giặt khô."
   },
   {
     "word": "laundromat",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "place with washing machines and dryers, usually coin-operated and self-service",
     "vi": "tiệm giặt tự động",
-    "viDef": "chỗ có máy giặt và máy sấy, thường bỏ xu và tự phục vụ"
+    "viDef": "chỗ có máy giặt và máy sấy, thường bỏ xu và tự phục vụ",
+    "ex": "I go to the laundromat every Sunday because I have no washer.",
+    "exHit": "laundromat",
+    "exVi": "Chủ nhật nào tôi cũng đến tiệm giặt tự động vì nhà không có máy giặt."
   },
   {
     "word": "iron",
@@ -53,7 +71,10 @@
     "type": "principle verb, present simple",
     "def": "To press and smooth clothes with a heated iron",
     "vi": "ủi",
-    "viDef": "là phẳng quần áo bằng bàn ủi nóng"
+    "viDef": "là phẳng quần áo bằng bàn ủi nóng",
+    "ex": "I need to iron this shirt before my interview tomorrow.",
+    "exHit": "iron",
+    "exVi": "Tôi cần ủi cái áo sơ mi này trước buổi phỏng vấn ngày mai."
   },
   {
     "word": "starch",
@@ -61,7 +82,10 @@
     "type": "principle verb, present simple",
     "def": "to stiffen clothes with a chemical compund",
     "vi": "hồ vải",
-    "viDef": "làm cứng vải bằng chất hồ"
+    "viDef": "làm cứng vải bằng chất hồ",
+    "ex": "My father likes to starch his shirts so they look sharp.",
+    "exHit": "starch",
+    "exVi": "Bố tôi thích hồ cứng áo sơ mi để trông thật chỉn chu."
   },
   {
     "word": "clothesline",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "A cord, rope, or wire on which clothes may be hung to dry or air",
     "vi": "dây phơi",
-    "viDef": "dây căng để phơi quần áo"
+    "viDef": "dây căng để phơi quần áo",
+    "ex": "It's sunny, so let's hang the towels on the clothesline.",
+    "exHit": "clothesline",
+    "exVi": "Trời nắng nên hãy phơi khăn tắm lên dây phơi đi."
   },
   {
     "word": "clothes hamper",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "basket or space where dirty clothes are put",
     "vi": "giỏ đồ giặt",
-    "viDef": "giỏ hoặc chỗ để quần áo bẩn"
+    "viDef": "giỏ hoặc chỗ để quần áo bẩn",
+    "ex": "Please put your dirty socks in the clothes hamper.",
+    "exHit": "clothes hamper",
+    "exVi": "Làm ơn bỏ tất bẩn của con vào giỏ đựng quần áo bẩn."
   }
 ]

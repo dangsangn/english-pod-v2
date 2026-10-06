@@ -5,7 +5,10 @@
     "type": "",
     "def": "a male sibling",
     "vi": "anh, em trai",
-    "viDef": "anh chị em ruột là nam"
+    "viDef": "anh chị em ruột là nam",
+    "ex": "No, Rick is actually my great uncle, so he is my grandmother's brother.",
+    "exHit": "brother",
+    "exVi": "Không, Rick thật ra là ông bác của tôi, nên ông ấy là anh trai của bà tôi."
   },
   {
     "word": "uncle",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a brother of one's father or mother.",
     "vi": "bác, chú, cậu",
-    "viDef": "anh hoặc em trai của cha hay mẹ mình"
+    "viDef": "anh hoặc em trai của cha hay mẹ mình",
+    "ex": "Is your great uncle Rick going to be there?",
+    "exHit": "uncle",
+    "exVi": "Ông bác Rick của bạn có đến đó không?"
   },
   {
     "word": "cousin",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the son or daughter of an uncle or aunt.",
     "vi": "anh chị em họ",
-    "viDef": "con trai hoặc con gái của chú, bác, cô, dì"
+    "viDef": "con trai hoặc con gái của chú, bác, cô, dì",
+    "ex": "Some cousins, aunts and uncles will be there, but also some friends from the neighborhood.",
+    "exHit": "cousins",
+    "exVi": "Sẽ có vài anh chị em họ, cô dì chú bác, và cả một số bạn bè trong khu phố nữa."
   },
   {
     "word": "aunt",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the sister of one's father or mother.",
     "vi": "cô, dì, bác gái",
-    "viDef": "chị hoặc em gái của cha hay mẹ mình"
+    "viDef": "chị hoặc em gái của cha hay mẹ mình",
+    "ex": "Some cousins, aunts and uncles will be there, but also some friends from the neighborhood.",
+    "exHit": "aunts",
+    "exVi": "Sẽ có vài anh chị em họ, cô dì chú bác, và cả một số bạn bè trong khu phố nữa."
   },
   {
     "word": "step son",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a son of one's husband or wife by a previous marriage.",
     "vi": "con riêng của vợ hoặc chồng",
-    "viDef": "con trai của chồng hoặc vợ mình từ cuộc hôn nhân trước"
+    "viDef": "con trai của chồng hoặc vợ mình từ cuộc hôn nhân trước",
+    "ex": "My step son is coming to visit us this weekend.",
+    "exHit": "step son",
+    "exVi": "Con riêng của chồng tôi sẽ đến thăm chúng tôi cuối tuần này."
   },
   {
     "word": "ex-wife",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a woman who was formerly a particular man's wife",
     "vi": "vợ cũ",
-    "viDef": "người nữ trước đây từng là vợ của một người nam"
+    "viDef": "người nữ trước đây từng là vợ của một người nam",
+    "ex": "He still gets along well with his ex-wife.",
+    "exHit": "ex-wife",
+    "exVi": "Anh ấy vẫn hòa thuận với vợ cũ."
   },
   {
     "word": "Niece",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a daughter of a person's brother or sister.",
     "vi": "cháu gái",
-    "viDef": "con gái của anh chị em mình"
+    "viDef": "con gái của anh chị em mình",
+    "ex": "My niece is turning five, so we're having a party.",
+    "exHit": "niece",
+    "exVi": "Cháu gái tôi sắp tròn năm tuổi nên chúng tôi tổ chức tiệc."
   },
   {
     "word": "family reunion",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a gathering of relatives, friends, or associates at regular intervals or after separation",
     "vi": "buổi họp mặt gia đình",
-    "viDef": "dịp họ hàng, bạn bè hoặc người quen tụ họp định kỳ hoặc sau thời gian xa cách"
+    "viDef": "dịp họ hàng, bạn bè hoặc người quen tụ họp định kỳ hoặc sau thời gian xa cách",
+    "ex": "We have a big family reunion every summer.",
+    "exHit": "family reunion",
+    "exVi": "Mùa hè nào chúng tôi cũng có một buổi họp mặt gia đình lớn."
   },
   {
     "word": "biological",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Being of the same genes and blood as another family member",
     "vi": "ruột thịt",
-    "viDef": "cùng huyết thống và gen với người thân trong nhà"
+    "viDef": "cùng huyết thống và gen với người thân trong nhà",
+    "ex": "He found out that his biological father lives in Canada.",
+    "exHit": "biological",
+    "exVi": "Anh ấy phát hiện cha ruột của mình sống ở Canada."
   },
   {
     "word": "adopted",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "to take and rear (the child of other parents) as one's own child.",
     "vi": "được nhận nuôi",
-    "viDef": "nhận và nuôi con của người khác như con mình"
+    "viDef": "nhận và nuôi con của người khác như con mình",
+    "ex": "They adopted a little girl from Vietnam last year.",
+    "exHit": "adopted",
+    "exVi": "Năm ngoái họ nhận nuôi một bé gái từ Việt Nam."
   }
 ]

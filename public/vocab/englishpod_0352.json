@@ -5,7 +5,10 @@
     "type": "",
     "def": "A mausoleum located in India made entirely of white marble.",
     "vi": "đền Taj Mahal",
-    "viDef": "lăng mộ ở Ấn Độ, xây hoàn toàn bằng đá cẩm thạch trắng"
+    "viDef": "lăng mộ ở Ấn Độ, xây hoàn toàn bằng đá cẩm thạch trắng",
+    "ex": "Well, the Great Wall of China, the Taj Mahal in India.",
+    "exHit": "Taj Mahal",
+    "exVi": "Ồ, Vạn Lý Trường Thành ở Trung Quốc, Taj Mahal ở Ấn Độ."
   },
   {
     "word": "Great Wall",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "An extensive wall in China that kept invaders at bay",
     "vi": "Vạn Lý Trường Thành",
-    "viDef": "bức tường dài ở Trung Quốc dùng để chặn quân xâm lược"
+    "viDef": "bức tường dài ở Trung Quốc dùng để chặn quân xâm lược",
+    "ex": "Well, the Great Wall of China, the Taj Mahal in India.",
+    "exHit": "Great Wall",
+    "exVi": "Ồ, Vạn Lý Trường Thành ở Trung Quốc, Taj Mahal ở Ấn Độ."
   },
   {
     "word": "architecture",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the art and science of designing buildings",
     "vi": "kiến trúc",
-    "viDef": "nghệ thuật và khoa học thiết kế công trình"
+    "viDef": "nghệ thuật và khoa học thiết kế công trình",
+    "ex": "It really is an amazing work of architecture and art.",
+    "exHit": "architecture",
+    "exVi": "Đó thực sự là một công trình kiến trúc và nghệ thuật tuyệt vời."
   },
   {
     "word": "Petra",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "A historical city in Jordan which was carved out of the mountain,",
     "vi": "thành cổ Petra",
-    "viDef": "thành phố lịch sử ở Jordan được đục ra từ núi đá"
+    "viDef": "thành phố lịch sử ở Jordan được đục ra từ núi đá",
+    "ex": "Also amongst the winners is Petra, in Jordan, Machu Picchu in Peru and the pyramid in Chichenitza in Mexico.",
+    "exHit": "Petra",
+    "exVi": "Trong số những công trình được chọn còn có Petra ở Jordan, Machu Picchu ở Peru và kim tự tháp Chichen Itza ở Mexico."
   },
   {
     "word": "Machu Pichu",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "An Inca ancient city set high in the Andes mountains in Peru",
     "vi": "Machu Picchu",
-    "viDef": "thành phố cổ của người Inca nằm trên cao trong dãy Andes ở Peru"
+    "viDef": "thành phố cổ của người Inca nằm trên cao trong dãy Andes ở Peru",
+    "ex": "Also amongst the winners is Petra, in Jordan, Machu Picchu in Peru and the pyramid in Chichenitza in Mexico.",
+    "exHit": "Machu Picchu",
+    "exVi": "Trong số những công trình được chọn còn có Petra ở Jordan, Machu Picchu ở Peru và kim tự tháp Chichen Itza ở Mexico."
   },
   {
     "word": "pyramid",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a structure where the outer surfaces are triangular and converge at a point",
     "vi": "kim tự tháp",
-    "viDef": "công trình có các mặt ngoài hình tam giác chụm lại ở một đỉnh"
+    "viDef": "công trình có các mặt ngoài hình tam giác chụm lại ở một đỉnh",
+    "ex": "Also amongst the winners is Petra, in Jordan, Machu Picchu in Peru and the pyramid in Chichenitza in Mexico.",
+    "exHit": "pyramid",
+    "exVi": "Trong số những công trình được chọn còn có Petra ở Jordan, Machu Picchu ở Peru và kim tự tháp Chichen Itza ở Mexico."
   },
   {
     "word": "Colosseum",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "An ancient amphitheater located in Rome",
     "vi": "đấu trường Colosseum",
-    "viDef": "nhà hát vòng tròn cổ ở Rome"
+    "viDef": "nhà hát vòng tròn cổ ở Rome",
+    "ex": "I would love to go to Italy and see the Colosseum, stand in the middle like a gladiator!",
+    "exHit": "Colosseum",
+    "exVi": "Tôi rất muốn đến Ý để xem Đấu trường La Mã, đứng giữa sàn đấu như một võ sĩ giác đấu!"
   },
   {
     "word": "wonder",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A monumental human creation that is amazing",
     "vi": "kỳ quan",
-    "viDef": "công trình vĩ đại do con người làm nên, gây thán phục"
+    "viDef": "công trình vĩ đại do con người làm nên, gây thán phục",
+    "ex": "It also says that the Christ Redeemer statue in Brazil and the Colosseum in Rome are wonders.",
+    "exHit": "wonders",
+    "exVi": "Nó còn nói rằng tượng Chúa Cứu Thế ở Brazil và Đấu trường La Mã ở Rome cũng là những kỳ quan."
   },
   {
     "word": "gladiator",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A person trained to entertain the public by engaging in mortal combat",
     "vi": "đấu sĩ",
-    "viDef": "người được huấn luyện để mua vui cho công chúng bằng những trận đấu sinh tử"
+    "viDef": "người được huấn luyện để mua vui cho công chúng bằng những trận đấu sinh tử",
+    "ex": "I would love to go to Italy and see the Colosseum, stand in the middle like a gladiator!",
+    "exHit": "gladiator",
+    "exVi": "Tôi rất muốn đến Ý để xem Đấu trường La Mã, đứng giữa sàn đấu như một võ sĩ giác đấu!"
   },
   {
     "word": "tomb",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A grave or other place of burial",
     "vi": "ngôi mộ",
-    "viDef": "phần mộ hoặc nơi chôn cất"
+    "viDef": "phần mộ hoặc nơi chôn cất",
+    "ex": "The entire complex is made of white marble and in the interior of the tomb, the walls are covered with gems and emeralds!",
+    "exHit": "tomb",
+    "exVi": "Toàn bộ quần thể được xây bằng đá cẩm thạch trắng, và bên trong lăng, các bức tường được phủ đá quý và ngọc lục bảo!"
   },
   {
     "word": "world heritage site",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "an area or structure designated by UNESCO as being of global significance",
     "vi": "di sản thế giới",
-    "viDef": "khu vực hoặc công trình được UNESCO công nhận là có ý nghĩa toàn cầu"
+    "viDef": "khu vực hoặc công trình được UNESCO công nhận là có ý nghĩa toàn cầu",
+    "ex": "The old town is a world heritage site, so many tourists visit.",
+    "exHit": "world heritage site",
+    "exVi": "Khu phố cổ là di sản thế giới nên có rất nhiều khách du lịch đến thăm."
   },
   {
     "word": "Mausoleum",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "an external free-standing building constructed as a monument enclosing the interment space or burial chamber of a deceased person",
     "vi": "lăng mộ",
-    "viDef": "công trình đứng riêng bên ngoài, dựng như một đài tưởng niệm bao lấy phần mộ hoặc phòng an táng của người đã khuất"
+    "viDef": "công trình đứng riêng bên ngoài, dựng như một đài tưởng niệm bao lấy phần mộ hoặc phòng an táng của người đã khuất",
+    "ex": "The white marble mausoleum is stunning at sunrise.",
+    "exHit": "mausoleum",
+    "exVi": "Lăng mộ bằng đá cẩm thạch trắng đẹp ngỡ ngàng lúc bình minh."
   },
   {
     "word": "Temple",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a structure reserved for religious or spiritual activities, such as prayer and sacrifice",
     "vi": "đền thờ",
-    "viDef": "công trình dành cho các hoạt động tôn giáo hoặc tâm linh như cầu nguyện và tế lễ"
+    "viDef": "công trình dành cho các hoạt động tôn giáo hoặc tâm linh như cầu nguyện và tế lễ",
+    "ex": "We visited a beautiful temple on top of the hill.",
+    "exHit": "temple",
+    "exVi": "Chúng tôi đã đến thăm một ngôi đền tuyệt đẹp trên đỉnh đồi."
   },
   {
     "word": "Ruins",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "the remains of human-made architecture: structures that were once complete, as time went by, have fallen into a state of partial or complete deterioration",
     "vi": "phế tích",
-    "viDef": "phần còn lại của công trình do người xây, từng nguyên vẹn nhưng theo thời gian đã hư hại một phần hoặc hoàn toàn"
+    "viDef": "phần còn lại của công trình do người xây, từng nguyên vẹn nhưng theo thời gian đã hư hại một phần hoặc hoàn toàn",
+    "ex": "The ancient ruins were crowded with tourists in summer.",
+    "exHit": "ruins",
+    "exVi": "Những tàn tích cổ đầy khách du lịch vào mùa hè."
   },
   {
     "word": "Ancient",
@@ -117,6 +159,9 @@
     "type": "",
     "def": "having been of long duration; of great age; very old.",
     "vi": "cổ xưa",
-    "viDef": "đã tồn tại rất lâu, tuổi đời rất cao"
+    "viDef": "đã tồn tại rất lâu, tuổi đời rất cao",
+    "ex": "I'd love to see the ancient pyramids someday.",
+    "exHit": "ancient",
+    "exVi": "Một ngày nào đó tôi rất muốn được thấy các kim tự tháp cổ đại."
   }
 ]

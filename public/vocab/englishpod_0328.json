@@ -5,7 +5,10 @@
     "type": "",
     "def": "a formal meeting where many people talk about ideas",
     "vi": "buổi họp",
-    "viDef": "cuộc gặp chính thức để nhiều người cùng bàn về các ý tưởng"
+    "viDef": "cuộc gặp chính thức để nhiều người cùng bàn về các ý tưởng",
+    "ex": "Are you joining the conference today?",
+    "exHit": "conference",
+    "exVi": "Hôm nay bạn có tham dự hội nghị không?"
   },
   {
     "word": "report",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "written document that provides information about something",
     "vi": "bản báo cáo",
-    "viDef": "văn bản cung cấp thông tin về việc gì"
+    "viDef": "văn bản cung cấp thông tin về việc gì",
+    "ex": "I got your report this morning.",
+    "exHit": "report",
+    "exVi": "Sáng nay tôi nhận được báo cáo của bạn rồi."
   },
   {
     "word": "discuss",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "talk about",
     "vi": "bàn về",
-    "viDef": "nói về"
+    "viDef": "nói về",
+    "ex": "Well, let's discuss this more at the conference.",
+    "exHit": "discuss",
+    "exVi": "Được rồi, chúng ta sẽ bàn thêm về chuyện này ở hội nghị."
   },
   {
     "word": "quarter",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "one fourth of a calendar or fiscal year",
     "vi": "quý",
-    "viDef": "một phần tư của năm dương lịch hoặc năm tài chính"
+    "viDef": "một phần tư của năm dương lịch hoặc năm tài chính",
+    "ex": "Good, well we can discuss this more then, but I think the figures are looking very good for this quarter.",
+    "exHit": "quarter",
+    "exVi": "Tốt, vậy chúng ta sẽ bàn thêm khi đó, nhưng tôi nghĩ các con số quý này trông rất khả quan."
   },
   {
     "word": "budget",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "money available to spend",
     "vi": "ngân sách",
-    "viDef": "khoản tiền có để chi"
+    "viDef": "khoản tiền có để chi",
+    "ex": "I'm planning to discuss the advertising budget at the conference.",
+    "exHit": "budget",
+    "exVi": "Tôi định bàn về ngân sách quảng cáo tại hội nghị."
   },
   {
     "word": "advertise",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to announce or praise in order to raise awarness in a product or service",
     "vi": "quảng cáo",
-    "viDef": "loan báo hoặc ca ngợi để người ta biết tới một sản phẩm hoặc dịch vụ"
+    "viDef": "loan báo hoặc ca ngợi để người ta biết tới một sản phẩm hoặc dịch vụ",
+    "ex": "I don't think we should continue with the TV advertising.",
+    "exHit": "advertising",
+    "exVi": "Tôi không nghĩ chúng ta nên tiếp tục quảng cáo trên TV."
   },
   {
     "word": "marketing",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "act of buying or selling in a market",
     "vi": "tiếp thị",
-    "viDef": "việc mua hoặc bán trên thị trường"
+    "viDef": "việc mua hoặc bán trên thị trường",
+    "ex": "Our marketing team is planning a new campaign.",
+    "exHit": "marketing",
+    "exVi": "Nhóm tiếp thị của chúng tôi đang lên kế hoạch cho một chiến dịch mới."
   },
   {
     "word": "publish",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to issue publicly the work of",
     "vi": "công bố",
-    "viDef": "phát hành ra công chúng tác phẩm của ai"
+    "viDef": "phát hành ra công chúng tác phẩm của ai",
+    "ex": "The company will publish its sales figures next week.",
+    "exHit": "publish",
+    "exVi": "Tuần sau công ty sẽ công bố số liệu doanh thu."
   },
   {
     "word": "segment",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a different group",
     "vi": "phân khúc",
-    "viDef": "một nhóm khác"
+    "viDef": "một nhóm khác",
+    "ex": "We need to focus on one customer segment this quarter.",
+    "exHit": "segment",
+    "exVi": "Quý này chúng ta cần tập trung vào một nhóm khách hàng."
   },
   {
     "word": "graph",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a diagram representing a system of connections or interrelations among two or more things",
     "vi": "biểu đồ",
-    "viDef": "sơ đồ thể hiện mối nối hoặc quan hệ giữa hai thứ trở lên"
+    "viDef": "sơ đồ thể hiện mối nối hoặc quan hệ giữa hai thứ trở lên",
+    "ex": "Take a look at this graph of our monthly sales.",
+    "exHit": "graph",
+    "exVi": "Hãy xem biểu đồ doanh thu hàng tháng của chúng ta này."
   }
 ]

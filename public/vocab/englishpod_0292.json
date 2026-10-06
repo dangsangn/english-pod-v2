@@ -5,7 +5,10 @@
     "type": "",
     "def": "to give examples to make something easier to under",
     "vi": "minh họa",
-    "viDef": "nêu ví dụ cho dễ hiểu hơn"
+    "viDef": "nêu ví dụ cho dễ hiểu hơn",
+    "ex": "Actually, just to illustrate my point let me give you an anecdote here.",
+    "exHit": "illustrate",
+    "exVi": "Thật ra, để minh họa cho ý của mình, tôi xin kể một câu chuyện nhỏ."
   },
   {
     "word": "side-track",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "change topic",
     "vi": "lạc đề",
-    "viDef": "chuyển sang chuyện khác"
+    "viDef": "chuyển sang chuyện khác",
+    "ex": "Sorry, I got side-track and forgot my main point.",
+    "exHit": "side-track",
+    "exVi": "Xin lỗi, tôi bị lạc đề và quên mất ý chính."
   },
   {
     "word": "get back to you",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to talk to or write to you at a later time",
     "vi": "trả lời anh/chị sau",
-    "viDef": "sẽ nói hoặc viết lại cho bạn vào lúc khác"
+    "viDef": "sẽ nói hoặc viết lại cho bạn vào lúc khác",
+    "ex": "I will have to get back to you on that point.",
+    "exHit": "get back to you",
+    "exVi": "Tôi sẽ phải trả lời bạn về điểm đó sau."
   },
   {
     "word": "take five",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "have rest",
     "vi": "nghỉ năm phút",
-    "viDef": "nghỉ một chút"
+    "viDef": "nghỉ một chút",
+    "ex": "Can we take five?",
+    "exHit": "take five",
+    "exVi": "Mình nghỉ giải lao năm phút được không?"
   },
   {
     "word": "tangent",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a separate, loosely related train of thought",
     "vi": "nhánh chuyện tách ra",
-    "viDef": "dòng suy nghĩ riêng, chỉ liên quan lỏng lẻo"
+    "viDef": "dòng suy nghĩ riêng, chỉ liên quan lỏng lẻo",
+    "ex": "He went off on a tangent and talked about his dog.",
+    "exHit": "tangent",
+    "exVi": "Anh ấy lạc sang chuyện khác và nói về con chó của mình."
   },
   {
     "word": "befuddle",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to confuse, make unclear",
     "vi": "làm rối trí",
-    "viDef": "gây lẫn lộn, làm không rõ ràng"
+    "viDef": "gây lẫn lộn, làm không rõ ràng",
+    "ex": "The long and complicated instructions completely befuddle me.",
+    "exHit": "befuddle",
+    "exVi": "Những hướng dẫn dài và phức tạp khiến tôi hoàn toàn rối trí."
   },
   {
     "word": "clumsy",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "awkward in movements or action",
     "vi": "lóng ngóng",
-    "viDef": "thô kệch trong cử động hoặc hành động"
+    "viDef": "thô kệch trong cử động hoặc hành động",
+    "ex": "I'm so clumsy that I dropped the projector.",
+    "exHit": "clumsy",
+    "exVi": "Tôi vụng về đến mức làm rơi cả cái máy chiếu."
   },
   {
     "word": "get tongue-tied",
@@ -61,6 +82,9 @@
     "type": "",
     "def": "get confused, to not know what to say",
     "vi": "líu cả lưỡi",
-    "viDef": "rối lên, không biết nói gì"
+    "viDef": "rối lên, không biết nói gì",
+    "ex": "I always get tongue-tied when I speak in front of a crowd.",
+    "exHit": "get tongue-tied",
+    "exVi": "Tôi luôn líu lưỡi khi nói trước đám đông."
   }
 ]

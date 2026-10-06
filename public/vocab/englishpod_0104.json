@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "a skiing race where you must go though flags",
     "vi": "đua trượt vượt cọc",
-    "viDef": "cuộc đua ván trượt phải lách qua các cờ"
+    "viDef": "cuộc đua ván trượt phải lách qua các cờ",
+    "ex": "We're joined here by Ian Roussy, the four-time giant slalom champion.",
+    "exHit": "slalom",
+    "exVi": "Có mặt cùng chúng ta ở đây là Ian Roussy, nhà vô địch trượt tuyết nội dung slalom khổng lồ bốn lần."
   },
   {
     "word": "champion",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "winner",
     "vi": "nhà vô địch",
-    "viDef": "người thắng"
+    "viDef": "người thắng",
+    "ex": "We're joined here by Ian Roussy, the four-time giant slalom champion.",
+    "exHit": "champion",
+    "exVi": "Có mặt cùng chúng ta ở đây là Ian Roussy, nhà vô địch trượt tuyết nội dung slalom khổng lồ bốn lần."
   },
   {
     "word": "hit the slopes",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "start skiing",
     "vi": "xuống dốc trượt",
-    "viDef": "bắt đầu chơi trượt tuyết"
+    "viDef": "bắt đầu chơi trượt tuyết",
+    "ex": "So, let's hit the slopes!",
+    "exHit": "hit the slopes",
+    "exVi": "Nào, chúng ta ra sườn dốc thôi!"
   },
   {
     "word": "snugly",
@@ -29,7 +38,10 @@
     "type": "General Adverb",
     "def": "fitting very tightly",
     "vi": "khít khao",
-    "viDef": "vừa sát, bó chặt"
+    "viDef": "vừa sát, bó chặt",
+    "ex": "You're going to want to make sure your boots fit snugly.",
+    "exHit": "snugly",
+    "exVi": "Bạn nên chắc chắn rằng đôi giày ôm sát chân."
   },
   {
     "word": "snap",
@@ -37,7 +49,10 @@
     "type": "principle verb, imperative",
     "def": "make something attach by pressing down",
     "vi": "gài tách một cái",
-    "viDef": "ấn xuống cho khớp vào"
+    "viDef": "ấn xuống cho khớp vào",
+    "ex": "That's right; now snap them into your bindings.",
+    "exHit": "snap",
+    "exVi": "Đúng rồi; giờ hãy gài chúng vào chân đế."
   },
   {
     "word": "binding",
@@ -45,7 +60,10 @@
     "type": "common noun, plural",
     "def": "a bottom part that attaches the boot to a ski",
     "vi": "khóa gắn ván",
-    "viDef": "phần dưới giữ giày vào ván trượt"
+    "viDef": "phần dưới giữ giày vào ván trượt",
+    "ex": "That's right; now snap them into your bindings.",
+    "exHit": "bindings",
+    "exVi": "Đúng rồi; giờ hãy gài chúng vào chân đế."
   },
   {
     "word": "goggles",
@@ -53,7 +71,10 @@
     "type": "common noun, plural",
     "def": "a pair of glasses used to protect one's eyes",
     "vi": "kính bảo hộ",
-    "viDef": "kính đeo để che mắt"
+    "viDef": "kính đeo để che mắt",
+    "ex": "And you're also going to want a good pair of goggles to protect your eyes.",
+    "exHit": "goggles",
+    "exVi": "Và bạn cũng nên có một cặp kính trượt tuyết tốt để bảo vệ mắt."
   },
   {
     "word": "glare",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "bright light that is reflected by the snow",
     "vi": "ánh lóa",
-    "viDef": "ánh sáng chói phản từ mặt tuyết"
+    "viDef": "ánh sáng chói phản từ mặt tuyết",
+    "ex": "It's a bright day today, so there's going to be a lot of glare out there on the slopes.",
+    "exHit": "glare",
+    "exVi": "Hôm nay trời sáng, nên trên các sườn dốc sẽ có rất nhiều ánh sáng chói."
   },
   {
     "word": "slopes",
@@ -69,7 +93,10 @@
     "type": "common noun, plural",
     "def": "a space on the mountain which is used for skiing",
     "vi": "sườn dốc trượt",
-    "viDef": "khoảng trên núi dùng để trượt tuyết"
+    "viDef": "khoảng trên núi dùng để trượt tuyết",
+    "ex": "So, let's hit the slopes!",
+    "exHit": "slopes",
+    "exVi": "Nào, chúng ta ra sườn dốc thôi!"
   },
   {
     "word": "mogul",
@@ -77,7 +104,10 @@
     "type": "common noun, plural",
     "def": "a bump on a ski hill",
     "vi": "ụ tuyết",
-    "viDef": "chỗ gồ lên trên đường trượt"
+    "viDef": "chỗ gồ lên trên đường trượt",
+    "ex": "We don't want you hitting any of those moguls!",
+    "exHit": "moguls",
+    "exVi": "Chúng tôi không muốn bạn đâm vào mấy cái mô tuyết đó!"
   },
   {
     "word": "ski glove",
@@ -85,7 +115,10 @@
     "type": "common noun, plural",
     "def": "a covering of hands with each finger separated tha",
     "vi": "găng trượt tuyết",
-    "viDef": "bao tay có ngăn riêng từng ngón"
+    "viDef": "bao tay có ngăn riêng từng ngón",
+    "ex": "Bob, since you're a beginner skier and might take a few spills, it is a good idea to have a good warm pair of dry ski gloves.",
+    "exHit": "ski gloves",
+    "exVi": "Bob, vì bạn là người mới trượt và có thể ngã vài lần, nên tốt nhất là có một đôi găng tay trượt tuyết ấm và khô."
   },
   {
     "word": "snow-plow turn",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a slow, easy turn where you make a V with the skis",
     "vi": "quay kiểu chữ V",
-    "viDef": "cú đổi hướng chậm, dễ, hai ván chụm thành hình V"
+    "viDef": "cú đổi hướng chậm, dễ, hai ván chụm thành hình V",
+    "ex": "Beginners learn the snow-plow turn on the first day.",
+    "exHit": "snow-plow turn",
+    "exVi": "Người mới học kiểu ngoặt hình chữ V vào ngày đầu tiên."
   },
   {
     "word": "carving",
@@ -101,7 +137,10 @@
     "type": "common noun, non-variable",
     "def": "turn on your skis with your edges",
     "vi": "cắt cạnh ván",
-    "viDef": "đổi hướng bằng cách nghiêng cạnh ván trượt"
+    "viDef": "đổi hướng bằng cách nghiêng cạnh ván trượt",
+    "ex": "Nice carving!",
+    "exHit": "carving",
+    "exVi": "Đường lượn đẹp quá!"
   },
   {
     "word": "chairlift",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a line of chairs tha moving cable that carries peo",
     "vi": "ghế treo cáp",
-    "viDef": "dãy ghế trên dây cáp chuyển động để chở người lên"
+    "viDef": "dãy ghế trên dây cáp chuyển động để chở người lên",
+    "ex": "Well, let's head on over to the chairlift, and test your skills!",
+    "exHit": "chairlift",
+    "exVi": "Nào, chúng ta đến cáp treo ghế ngồi và thử kỹ năng của bạn nhé!"
   },
   {
     "word": "apres-ski",
@@ -117,7 +159,10 @@
     "type": "common noun, non-variable",
     "def": "a party or drinks after skiing",
     "vi": "tiệc sau buổi trượt",
-    "viDef": "buổi tụ tập uống sau khi trượt tuyết"
+    "viDef": "buổi tụ tập uống sau khi trượt tuyết",
+    "ex": "We went to a cozy bar for apres-ski drinks.",
+    "exHit": "apres-ski",
+    "exVi": "Chúng tôi đến một quán bar ấm cúng để uống sau khi trượt tuyết."
   },
   {
     "word": "grab some freshies",
@@ -125,7 +170,10 @@
     "type": "phrase",
     "def": "ski on the area that has never been skied before",
     "vi": "trượt trên tuyết mới",
-    "viDef": "trượt ở vùng chưa ai đặt ván qua"
+    "viDef": "trượt ở vùng chưa ai đặt ván qua",
+    "ex": "We're off to grab some freshies!!!",
+    "exHit": "grab some freshies",
+    "exVi": "Chúng tôi đi trượt trên lớp tuyết còn nguyên đây!!!"
   },
   {
     "word": "yard sale",
@@ -133,7 +181,10 @@
     "type": "phrase",
     "def": "falling so hard that you lose all your ski equipment",
     "vi": "té bay đồ",
-    "viDef": "ngã mạnh tới mức rơi hết dụng cụ trượt"
+    "viDef": "ngã mạnh tới mức rơi hết dụng cụ trượt",
+    "ex": "Yard sale!!!",
+    "exHit": "Yard sale",
+    "exVi": "Ngã tung hết đồ nghề!!!"
   },
   {
     "word": "catch some major air",
@@ -141,7 +192,10 @@
     "type": "phrase",
     "def": "used to describe a skier jumps really really high",
     "vi": "bay cao vút",
-    "viDef": "nói khi người trượt bật lên rất cao"
+    "viDef": "nói khi người trượt bật lên rất cao",
+    "ex": "Well, see that bump over there, I'm going to catch some major air.",
+    "exHit": "catch some major air",
+    "exVi": "À, thấy cái gò đằng kia không, tôi sẽ bay thật cao ở đó."
   },
   {
     "word": "bump",
@@ -149,7 +203,10 @@
     "type": "common noun, singular",
     "def": "small hill",
     "vi": "mô đất",
-    "viDef": "chỗ nhô nhỏ"
+    "viDef": "chỗ nhô nhỏ",
+    "ex": "Well, see that bump over there, I'm going to catch some major air.",
+    "exHit": "bump",
+    "exVi": "À, thấy cái gò đằng kia không, tôi sẽ bay thật cao ở đó."
   },
   {
     "word": "gnarley",
@@ -157,7 +214,10 @@
     "type": "Adjective",
     "def": "awesome, cool (used by ski lovers)",
     "vi": "đỉnh cao",
-    "viDef": "tuyệt, ngầu (dân trượt tuyết hay dùng)"
+    "viDef": "tuyệt, ngầu (dân trượt tuyết hay dùng)",
+    "ex": "You wanna see gnarley?",
+    "exHit": "gnarley",
+    "exVi": "Bạn muốn xem cái gì đỉnh không?"
   },
   {
     "word": "take a spill",
@@ -165,7 +225,10 @@
     "type": "principle verb, subjunctive",
     "def": "fall",
     "vi": "té một cú",
-    "viDef": "bị ngã"
+    "viDef": "bị ngã",
+    "ex": "Bob, since you're a beginner skier and might take a few spills, it is a good idea to have a good warm pair of dry ski gloves.",
+    "exHit": "take a few spills",
+    "exVi": "Bob, vì bạn là người mới trượt và có thể ngã vài lần, nên tốt nhất là có một đôi găng tay trượt tuyết ấm và khô."
   },
   {
     "word": "that about does it",
@@ -173,7 +236,10 @@
     "type": "phrase",
     "def": "it's finished; it's almost done",
     "vi": "thế là xong",
-    "viDef": "đã hoàn tất, gần như xong"
+    "viDef": "đã hoàn tất, gần như xong",
+    "ex": "Thanks for joining us here today, I think that about does it.",
+    "exHit": "that about does it",
+    "exVi": "Cảm ơn đã tham gia cùng chúng tôi hôm nay, tôi nghĩ vậy là xong rồi."
   },
   {
     "word": "lodge",
@@ -181,7 +247,10 @@
     "type": "common noun, singular",
     "def": "the building that has restaurants and stores on the ski hill",
     "vi": "nhà nghỉ khu trượt",
-    "viDef": "tòa nhà có quán ăn và cửa hàng ở khu trượt tuyết"
+    "viDef": "tòa nhà có quán ăn và cửa hàng ở khu trượt tuyết",
+    "ex": "We warmed up in the lodge with hot chocolate after skiing.",
+    "exHit": "lodge",
+    "exVi": "Chúng tôi sưởi ấm trong nhà nghỉ trên núi với sô cô la nóng sau khi trượt tuyết."
   },
   {
     "word": "pow",
@@ -189,7 +258,10 @@
     "type": "common noun, non-variable",
     "def": "(powder) soft, light snow",
     "vi": "tuyết bột",
-    "viDef": "lớp tuyết mềm, nhẹ"
+    "viDef": "lớp tuyết mềm, nhẹ",
+    "ex": "What a beautiful day here in Aspen, Colorado where the sun is shinning, and we've got twelve inches of fresh powder.",
+    "exHit": "powder",
+    "exVi": "Hôm nay thật đẹp ở Aspen, Colorado, trời nắng và có mười hai inch tuyết bột mới."
   },
   {
     "word": "avy",
@@ -197,7 +269,10 @@
     "type": "common noun, singular",
     "def": "(avalanche) lots of snow falling off the mountain",
     "vi": "lở tuyết",
-    "viDef": "khối tuyết lớn đổ xuống từ trên núi"
+    "viDef": "khối tuyết lớn đổ xuống từ trên núi",
+    "ex": "Check the avy report before you go up the mountain.",
+    "exHit": "avy",
+    "exVi": "Hãy xem báo cáo tuyết lở trước khi lên núi."
   },
   {
     "word": "liftie",
@@ -205,7 +280,10 @@
     "type": "common noun, singular",
     "def": "a person who operates the chairlift",
     "vi": "người trông ghế cáp",
-    "viDef": "nhân viên vận hành ghế treo"
+    "viDef": "nhân viên vận hành ghế treo",
+    "ex": "The liftie helped me onto the chairlift this morning.",
+    "exHit": "liftie",
+    "exVi": "Nhân viên cáp treo đã giúp tôi lên ghế cáp sáng nay."
   },
   {
     "word": "bowl",
@@ -213,6 +291,9 @@
     "type": "common noun, singular",
     "def": "a steep hill with high sides, shaped like a bowl",
     "vi": "lòng chảo",
-    "viDef": "sườn dốc thành cao, hình như cái bát"
+    "viDef": "sườn dốc thành cao, hình như cái bát",
+    "ex": "We skied down the steep bowl near the top of the mountain.",
+    "exHit": "bowl",
+    "exVi": "Chúng tôi trượt xuống cái lòng chảo dốc gần đỉnh núi."
   }
 ]

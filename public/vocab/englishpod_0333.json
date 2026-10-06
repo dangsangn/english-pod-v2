@@ -5,7 +5,10 @@
     "type": "",
     "def": "the trunk of the body from the neck to the abdomen",
     "vi": "giải phẫu cơ thể",
-    "viDef": "phần thân người từ cổ tới bụng"
+    "viDef": "phần thân người từ cổ tới bụng",
+    "ex": "OK class, so today we are going to continue with our anatomy class, today we will review everything we have learned.",
+    "exHit": "anatomy",
+    "exVi": "Được rồi cả lớp, hôm nay chúng ta tiếp tục môn giải phẫu, và sẽ ôn lại mọi thứ đã học."
   },
   {
     "word": "organ",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a grouping of tissues into a distinct structure e.g heart",
     "vi": "cơ quan",
-    "viDef": "tập hợp các mô thành một cấu trúc riêng, chẳng hạn quả tim"
+    "viDef": "tập hợp các mô thành một cấu trúc riêng, chẳng hạn quả tim",
+    "ex": "Then what major organ is in our chest?",
+    "exHit": "organ",
+    "exVi": "Vậy cơ quan chính nào nằm trong lồng ngực của chúng ta?"
   },
   {
     "word": "brain",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "An organ enclosed in the skull that controls and co ordinates the body.",
     "vi": "não",
-    "viDef": "cơ quan nằm trong hộp sọ, điều khiển và phối hợp hoạt động của cơ thể"
+    "viDef": "cơ quan nằm trong hộp sọ, điều khiển và phối hợp hoạt động của cơ thể",
+    "ex": "The brain!",
+    "exHit": "brain",
+    "exVi": "Bộ não!"
   },
   {
     "word": "control",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the ability to direct the actions of something",
     "vi": "điều khiển",
-    "viDef": "khả năng chi phối hoạt động của thứ gì"
+    "viDef": "khả năng chi phối hoạt động của thứ gì",
+    "ex": "It serves as a control center for the body, handling the processes of the central nervous system as well as cognition.",
+    "exHit": "control",
+    "exVi": "Nó là trung tâm điều khiển của cơ thể, xử lý các hoạt động của hệ thần kinh trung ương cũng như nhận thức."
   },
   {
     "word": "process",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a planed series of steps or actions that leads to something",
     "vi": "quy trình",
-    "viDef": "chuỗi bước hoặc việc làm có tính toán dẫn tới một kết quả"
+    "viDef": "chuỗi bước hoặc việc làm có tính toán dẫn tới một kết quả",
+    "ex": "Let's not forget that the stomach is the one that breaks down our food and our intestines process that food and then expel the waste.",
+    "exHit": "process",
+    "exVi": "Đừng quên dạ dày là nơi phân giải thức ăn, còn ruột thì xử lý thức ăn đó rồi thải chất thải ra ngoài."
   },
   {
     "word": "chest",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "The front of the body, from neck to the waist.",
     "vi": "lồng ngực",
-    "viDef": "phần trước của thân người, từ cổ xuống eo"
+    "viDef": "phần trước của thân người, từ cổ xuống eo",
+    "ex": "Then what major organ is in our chest?",
+    "exHit": "chest",
+    "exVi": "Vậy cơ quan chính nào nằm trong lồng ngực của chúng ta?"
   },
   {
     "word": "heart",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "An organ in the chest that pumps blood.",
     "vi": "tim",
-    "viDef": "cơ quan trong ngực bơm máu đi"
+    "viDef": "cơ quan trong ngực bơm máu đi",
+    "ex": "Now let's not forget that our lungs provide oxygen to our heart and body to keep us alive!",
+    "exHit": "heart",
+    "exVi": "Giờ đừng quên là phổi cung cấp oxy cho tim và cơ thể để giữ chúng ta sống!"
   },
   {
     "word": "pump",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "To supply, to circulate.",
     "vi": "bơm",
-    "viDef": "cấp, đẩy đi tuần hoàn"
+    "viDef": "cấp, đẩy đi tuần hoàn",
+    "ex": "It pumps blood throughout the body, using the circulatory system such as blood vessels and veins.",
+    "exHit": "pumps",
+    "exVi": "Nó bơm máu đi khắp cơ thể qua hệ tuần hoàn như mạch máu và tĩnh mạch."
   },
   {
     "word": "blood",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the fluid that circulates in the body.",
     "vi": "máu",
-    "viDef": "chất lỏng lưu thông trong cơ thể"
+    "viDef": "chất lỏng lưu thông trong cơ thể",
+    "ex": "It pumps blood throughout the body, using the circulatory system such as blood vessels and veins.",
+    "exHit": "blood",
+    "exVi": "Nó bơm máu đi khắp cơ thể qua hệ tuần hoàn như mạch máu và tĩnh mạch."
   },
   {
     "word": "lung",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "Body part that inflates with air and allows breathing",
     "vi": "phổi",
-    "viDef": "bộ phận phồng lên bằng khí và giúp thở"
+    "viDef": "bộ phận phồng lên bằng khí và giúp thở",
+    "ex": "Now let's not forget that our lungs provide oxygen to our heart and body to keep us alive!",
+    "exHit": "lungs",
+    "exVi": "Giờ đừng quên là phổi cung cấp oxy cho tim và cơ thể để giữ chúng ta sống!"
   },
   {
     "word": "oxygen",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a gas that we breath in order to live.",
     "vi": "ô-xy",
-    "viDef": "chất khí ta hít vào để sống"
+    "viDef": "chất khí ta hít vào để sống",
+    "ex": "Now let's not forget that our lungs provide oxygen to our heart and body to keep us alive!",
+    "exHit": "oxygen",
+    "exVi": "Giờ đừng quên là phổi cung cấp oxy cho tim và cơ thể để giữ chúng ta sống!"
   },
   {
     "word": "digest",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "to swallow and dissolve something.",
     "vi": "tiêu hóa",
-    "viDef": "nuốt và làm tan thứ gì"
+    "viDef": "nuốt và làm tan thứ gì",
+    "ex": "Now what about the organs that help us digest food?",
+    "exHit": "digest",
+    "exVi": "Vậy còn các cơ quan giúp chúng ta tiêu hóa thức ăn thì sao?"
   },
   {
     "word": "stomach",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "the organ people use to digest food",
     "vi": "dạ dày",
-    "viDef": "cơ quan người ta dùng để tiêu hóa thức ăn"
+    "viDef": "cơ quan người ta dùng để tiêu hóa thức ăn",
+    "ex": "Let's not forget that the stomach is the one that breaks down our food and our intestines process that food and then expel the waste.",
+    "exHit": "stomach",
+    "exVi": "Đừng quên dạ dày là nơi phân giải thức ăn, còn ruột thì xử lý thức ăn đó rồi thải chất thải ra ngoài."
   },
   {
     "word": "expel",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "to release something.",
     "vi": "thải ra",
-    "viDef": "đưa thứ gì ra ngoài"
+    "viDef": "đưa thứ gì ra ngoài",
+    "ex": "Let's not forget that the stomach is the one that breaks down our food and our intestines process that food and then expel the waste.",
+    "exHit": "expel",
+    "exVi": "Đừng quên dạ dày là nơi phân giải thức ăn, còn ruột thì xử lý thức ăn đó rồi thải chất thải ra ngoài."
   },
   {
     "word": "liver",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "the organ used to produce blood",
     "vi": "gan",
-    "viDef": "cơ quan dùng để tạo máu"
+    "viDef": "cơ quan dùng để tạo máu",
+    "ex": "Our kidneys, liver and bladder!",
+    "exHit": "liver",
+    "exVi": "Thận, gan và bàng quang!"
   },
   {
     "word": "leg",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "lower limbs of the body",
     "vi": "chân",
-    "viDef": "chi dưới của cơ thể"
+    "viDef": "chi dưới của cơ thể",
+    "ex": "I hurt my leg playing soccer yesterday.",
+    "exHit": "leg",
+    "exVi": "Hôm qua tôi bị đau chân khi chơi bóng đá."
   },
   {
     "word": "arm",
@@ -133,7 +181,10 @@
     "type": "",
     "def": "the upper limbs of the human body",
     "vi": "tay",
-    "viDef": "chi trên của cơ thể người"
+    "viDef": "chi trên của cơ thể người",
+    "ex": "He broke his arm when he fell off the bike.",
+    "exHit": "arm",
+    "exVi": "Anh ấy bị gãy tay khi ngã xe đạp."
   },
   {
     "word": "skull",
@@ -141,7 +192,10 @@
     "type": "",
     "def": "the bony framework of the head, enclosing the brain and supporting the face",
     "vi": "hộp sọ",
-    "viDef": "khung xương của đầu, bọc lấy não và đỡ phần mặt"
+    "viDef": "khung xương của đầu, bọc lấy não và đỡ phần mặt",
+    "ex": "The skull protects the brain inside our head.",
+    "exHit": "skull",
+    "exVi": "Hộp sọ bảo vệ bộ não bên trong đầu chúng ta."
   },
   {
     "word": "embalm",
@@ -149,7 +203,10 @@
     "type": "",
     "def": "to treat a dead body so as to preserve it, as with chemicals, drugs.",
     "vi": "ướp xác",
-    "viDef": "xử lý thi hài để giữ lâu, chẳng hạn bằng hóa chất hoặc thuốc"
+    "viDef": "xử lý thi hài để giữ lâu, chẳng hạn bằng hóa chất hoặc thuốc",
+    "ex": "In ancient Egypt, people would embalm their dead kings.",
+    "exHit": "embalm",
+    "exVi": "Ở Ai Cập cổ đại, người ta ướp xác các vị vua đã chết."
   },
   {
     "word": "spine",
@@ -157,6 +214,9 @@
     "type": "",
     "def": "backbone of the body",
     "vi": "cột sống",
-    "viDef": "xương sống của cơ thể"
+    "viDef": "xương sống của cơ thể",
+    "ex": "Sitting up straight is good for your spine.",
+    "exHit": "spine",
+    "exVi": "Ngồi thẳng lưng tốt cho cột sống của bạn."
   }
 ]

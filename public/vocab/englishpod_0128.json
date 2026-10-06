@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "indicates something (she) does very often",
     "vi": "suốt ngày cô ấy chỉ",
-    "viDef": "câu chỉ việc ai làm rất thường xuyên"
+    "viDef": "câu chỉ việc ai làm rất thường xuyên",
+    "ex": "All she ever does is talk about you -her little boy that went to the United States.",
+    "exHit": "All she ever does",
+    "exVi": "Bà chỉ toàn nói về con thôi, đứa con trai bé bỏng đã sang Mỹ của bà."
   },
   {
     "word": "pride and joy",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "someone or something that makes you very proud",
     "vi": "niềm tự hào",
-    "viDef": "người hoặc điều làm mình rất hãnh diện"
+    "viDef": "người hoặc điều làm mình rất hãnh diện",
+    "ex": "You're her pride and joy, you know that?",
+    "exHit": "pride and joy",
+    "exVi": "Con là niềm tự hào và niềm vui của bà, con biết không?"
   },
   {
     "word": "pine",
@@ -21,7 +27,10 @@
     "type": "principle verb, present progressive",
     "def": "to want or desire (someone or something) very much",
     "vi": "khắc khoải mong",
-    "viDef": "khao khát ai hoặc điều gì đến da diết"
+    "viDef": "khao khát ai hoặc điều gì đến da diết",
+    "ex": "You know, she's still pining after you.",
+    "exHit": "pining",
+    "exVi": "Con biết không, bà vẫn còn nhớ nhung con da diết đấy."
   },
   {
     "word": "go through with",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "to do (something that you have thought or talked about)",
     "vi": "làm cho tới",
-    "viDef": "thực hiện điều đã tính hoặc đã bàn"
+    "viDef": "thực hiện điều đã tính hoặc đã bàn",
+    "ex": "I couldn't go through with it even though she is a great woman.",
+    "exHit": "go through with",
+    "exVi": "Em không thể làm đến cùng được, dù cô ấy là một người phụ nữ tuyệt vời."
   },
   {
     "word": "incorrigible",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "not able to be corrected or changed",
     "vi": "không sửa nổi",
-    "viDef": "chẳng thể chỉnh hoặc đổi được"
+    "viDef": "chẳng thể chỉnh hoặc đổi được",
+    "ex": "You are incorrigible.",
+    "exHit": "incorrigible",
+    "exVi": "Anh đúng là không thể sửa nổi."
   },
   {
     "word": "mother-in-law",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "the mother of someone's wife",
     "vi": "mẹ vợ",
-    "viDef": "mẹ của người vợ"
+    "viDef": "mẹ của người vợ",
+    "ex": "My mother-in-law makes the best soup in the whole family.",
+    "exHit": "mother-in-law",
+    "exVi": "Mẹ vợ tôi nấu món súp ngon nhất cả nhà."
   },
   {
     "word": "elope",
@@ -53,7 +71,10 @@
     "type": "principle verb, present simple",
     "def": "To run away with a lover, especially with the intention of getting married.",
     "vi": "bỏ trốn theo nhau",
-    "viDef": "cùng người yêu đi biệt, nhất là để cưới nhau"
+    "viDef": "cùng người yêu đi biệt, nhất là để cưới nhau",
+    "ex": "They decided to elope because they did not want a big wedding.",
+    "exHit": "elope",
+    "exVi": "Họ quyết định bỏ trốn đi kết hôn vì không muốn đám cưới lớn."
   },
   {
     "word": "arranged marriage",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a marriage arranged by someone other than the persons getting married",
     "vi": "cuộc hôn nhân sắp đặt",
-    "viDef": "đám cưới do người khác định thay cho đôi trẻ"
+    "viDef": "đám cưới do người khác định thay cho đôi trẻ",
+    "ex": "In some countries, an arranged marriage is still very common.",
+    "exHit": "arranged marriage",
+    "exVi": "Ở một số nước, hôn nhân sắp đặt vẫn còn rất phổ biến."
   },
   {
     "word": "dowry",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "Money or property brought by a bride to her husband at marriage",
     "vi": "của hồi môn",
-    "viDef": "tiền hoặc tài sản cô dâu mang về nhà chồng"
+    "viDef": "tiền hoặc tài sản cô dâu mang về nhà chồng",
+    "ex": "In the old days, the bride's family paid a dowry to the groom.",
+    "exHit": "dowry",
+    "exVi": "Ngày xưa, nhà cô dâu phải trả của hồi môn cho chú rể."
   },
   {
     "word": "spouse",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "A marriage partner; a husband or wife.",
     "vi": "vợ hoặc chồng",
-    "viDef": "người bạn đời trong hôn nhân"
+    "viDef": "người bạn đời trong hôn nhân",
+    "ex": "Please write your spouse's name on this form.",
+    "exHit": "spouse",
+    "exVi": "Xin hãy viết tên vợ hoặc chồng của bạn vào mẫu đơn này."
   }
 ]

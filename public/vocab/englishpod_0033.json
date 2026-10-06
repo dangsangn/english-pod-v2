@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "an act in sports that is against the rules",
     "vi": "lỗi",
-    "viDef": "hành động phạm luật trong thể thao"
+    "viDef": "hành động phạm luật trong thể thao",
+    "ex": "That wasn't a foul!",
+    "exHit": "foul",
+    "exVi": "Đó đâu phải lỗi!"
   },
   {
     "word": "referee",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "person who makes sure that players act according to the rules in a game or sport (informal)",
     "vi": "trọng tài",
-    "viDef": "người giám sát cầu thủ chơi đúng luật (thân mật)"
+    "viDef": "người giám sát cầu thủ chơi đúng luật (thân mật)",
+    "ex": "The referee blew his whistle and stopped the game.",
+    "exHit": "referee",
+    "exVi": "Trọng tài thổi còi và dừng trận đấu."
   },
   {
     "word": "screw up",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "make a mistake",
     "vi": "làm hỏng bét",
-    "viDef": "gây ra lỗi"
+    "viDef": "gây ra lỗi",
+    "ex": "Don't worry, Shaq always screws up free throws.",
+    "exHit": "screws up",
+    "exVi": "Đừng lo, Shaq lúc nào cũng ném phạt hỏng."
   },
   {
     "word": "free throw",
@@ -29,7 +38,10 @@
     "type": "common noun, plural",
     "def": "a chance to shoot the ball due to a foul made by the opponent",
     "vi": "ném phạt",
-    "viDef": "quả ném thưởng do đối phương phạm lỗi"
+    "viDef": "quả ném thưởng do đối phương phạm lỗi",
+    "ex": "Don't worry, Shaq always screws up free throws.",
+    "exHit": "free throws",
+    "exVi": "Đừng lo, Shaq lúc nào cũng ném phạt hỏng."
   },
   {
     "word": "make the shot",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "successfully throw a ball toward a goal (sports)",
     "vi": "ném vào rổ",
-    "viDef": "ném trúng đích (thể thao)"
+    "viDef": "ném trúng đích (thể thao)",
+    "ex": "He didn't make the shot!",
+    "exHit": "make the shot",
+    "exVi": "Anh ta ném không vào!"
   },
   {
     "word": "three pointer",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a shot that scores three points in a game",
     "vi": "cú ba điểm",
-    "viDef": "quả ném ăn ba điểm"
+    "viDef": "quả ném ăn ba điểm",
+    "ex": "A three pointer, yeah!",
+    "exHit": "three pointer",
+    "exVi": "Một cú ba điểm, yeah!"
   },
   {
     "word": "travel",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "take more steps with the basketball than the rule allows",
     "vi": "lỗi chạy bước",
-    "viDef": "bước quá số bước luật cho phép khi giữ bóng"
+    "viDef": "bước quá số bước luật cho phép khi giữ bóng",
+    "ex": "He traveled and the ref didn't call it!",
+    "exHit": "traveled",
+    "exVi": "Anh ta đi quá bước mà trọng tài không thổi phạt!"
   },
   {
     "word": "beer run",
@@ -61,7 +82,10 @@
     "type": "common noun, non-variable",
     "def": "the act of quickly going to get beer",
     "vi": "chạy đi mua bia",
-    "viDef": "việc tranh đi mua bia một lát"
+    "viDef": "việc tranh đi mua bia một lát",
+    "ex": "Alright, I'm gonna make a beer run.",
+    "exHit": "beer run",
+    "exVi": "Được rồi, tôi đi mua bia nhanh một chút đây."
   },
   {
     "word": "court",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "place where basketball is played",
     "vi": "sân bóng rổ",
-    "viDef": "nơi chơi bóng rổ"
+    "viDef": "nơi chơi bóng rổ",
+    "ex": "The players ran onto the court before the game started.",
+    "exHit": "court",
+    "exVi": "Các cầu thủ chạy ra sân trước khi trận đấu bắt đầu."
   },
   {
     "word": "assist",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "an action where the ball is passed that helps score a goal",
     "vi": "đường kiến tạo",
-    "viDef": "cú chuyền giúp đồng đội ghi điểm"
+    "viDef": "cú chuyền giúp đồng đội ghi điểm",
+    "ex": "He passed the ball and got an assist on the last play.",
+    "exHit": "assist",
+    "exVi": "Anh ấy chuyền bóng và có một pha kiến tạo ở tình huống cuối cùng."
   },
   {
     "word": "block",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "put your body between an opposing player and the ball",
     "vi": "chắn bóng",
-    "viDef": "chắn người mình giữa đối thủ và bóng"
+    "viDef": "chắn người mình giữa đối thủ và bóng",
+    "ex": "He tried to block the tall player from reaching the ball.",
+    "exHit": "block",
+    "exVi": "Anh ấy cố chắn người cầu thủ cao lớn để cậu ta không chạm được bóng."
   },
   {
     "word": "jump shot",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "jump in the air and shoot the ball while",
     "vi": "cú nhảy ném",
-    "viDef": "bật lên không rồi ném bóng"
+    "viDef": "bật lên không rồi ném bóng",
+    "ex": "Kevin made a great jump shot right before the buzzer.",
+    "exHit": "jump shot",
+    "exVi": "Kevin đã có một cú ném bật nhảy tuyệt vời ngay trước khi hết giờ."
   },
   {
     "word": "rebound",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "grab and control the ball after the other team missed a shot",
     "vi": "bắt bóng bật bảng",
-    "viDef": "giành bóng sau khi đối phương ném trượt"
+    "viDef": "giành bóng sau khi đối phương ném trượt",
+    "ex": "Our center jumped high to rebound the ball after the miss.",
+    "exHit": "rebound",
+    "exVi": "Trung phong của chúng ta nhảy cao bắt bóng bật bảng sau cú ném hỏng."
   },
   {
     "word": "steal",
@@ -109,6 +148,9 @@
     "type": "verb",
     "def": "intercept a pass between two players of the opposite team",
     "vi": "cắt bóng",
-    "viDef": "chặn đường chuyền của đối phương"
+    "viDef": "chặn đường chuyền của đối phương",
+    "ex": "The guard jumped in to steal the pass and ran down the court.",
+    "exHit": "steal",
+    "exVi": "Hậu vệ lao vào cướp đường chuyền và chạy dọc sân."
   }
 ]

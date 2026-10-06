@@ -5,7 +5,10 @@
     "type": "",
     "def": "phrase used to express that you haven't seen someone in a very long time",
     "vi": "lâu quá không gặp",
-    "viDef": "câu nói khi lâu rồi mới thấy lại một người"
+    "viDef": "câu nói khi lâu rồi mới thấy lại một người",
+    "ex": "Long time no see!",
+    "exHit": "Long time no see",
+    "exVi": "Lâu quá không gặp!"
   },
   {
     "word": "orientation",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a class where instructions are given on the first day at school",
     "vi": "buổi định hướng",
-    "viDef": "buổi hướng dẫn trong ngày đầu tới trường"
+    "viDef": "buổi hướng dẫn trong ngày đầu tới trường",
+    "ex": "I haven't seen you since orientation three months ago!",
+    "exHit": "orientation",
+    "exVi": "Từ buổi định hướng ba tháng trước đến giờ tôi chưa gặp bạn!"
   },
   {
     "word": "settle into",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to become accustomed to one's new surroundings",
     "vi": "làm quen dần",
-    "viDef": "trở nên quen với môi trường mới"
+    "viDef": "trở nên quen với môi trường mới",
+    "ex": "Settling into college life OK?",
+    "exHit": "Settling into",
+    "exVi": "Bạn đã quen với cuộc sống đại học chưa?"
   },
   {
     "word": "frat house",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "Fraternity house, place where members of a fraternity live and socialize",
     "vi": "nhà hội nam sinh",
-    "viDef": "nơi các thành viên hội nam sinh ở và sinh hoạt"
+    "viDef": "nơi các thành viên hội nam sinh ở và sinh hoạt",
+    "ex": "I pledged Phi Iota Alpha, so I'm living at the frat house now.",
+    "exHit": "frat house",
+    "exVi": "Tôi đã gia nhập hội Phi Iota Alpha nên giờ tôi đang sống ở nhà hội nam sinh."
   },
   {
     "word": "frat boy",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a term used to call people that are part of a fraternity",
     "vi": "thành viên hội nam sinh",
-    "viDef": "từ dùng để gọi những người thuộc một hội nam sinh"
+    "viDef": "từ dùng để gọi những người thuộc một hội nam sinh",
+    "ex": "Oh, so you're a frat boy now, huh?",
+    "exHit": "frat boy",
+    "exVi": "Ồ, vậy giờ bạn là một chàng trai hội nam sinh rồi à?"
   },
   {
     "word": "drop",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to quit or not continue a class",
     "vi": "bỏ môn",
-    "viDef": "nghỉ hoặc không học tiếp một lớp"
+    "viDef": "nghỉ hoặc không học tiếp một lớp",
+    "ex": "I ended up dropping that metalworking class I was so excited about.",
+    "exHit": "dropping",
+    "exVi": "Cuối cùng tôi bỏ lớp gia công kim loại mà tôi từng rất háo hức."
   },
   {
     "word": "credit",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "academic mark",
     "vi": "tín chỉ",
-    "viDef": "điểm học thuật"
+    "viDef": "điểm học thuật",
+    "ex": "The guidance counselor suggested that I focus on my prerequisite courses so that I can make sure the credits count.",
+    "exHit": "credits",
+    "exVi": "Cố vấn học tập khuyên tôi tập trung vào các môn tiên quyết để chắc chắn các tín chỉ được tính."
   },
   {
     "word": "major",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the specific focus of your undergraduate program",
     "vi": "chuyên ngành",
-    "viDef": "trọng tâm cụ thể của chương trình đại học"
+    "viDef": "trọng tâm cụ thể của chương trình đại học",
+    "ex": "Hey, so have you decided on your major yet?",
+    "exHit": "major",
+    "exVi": "Này, bạn đã chọn chuyên ngành chính chưa?"
   },
   {
     "word": "gap year",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A temporary one year absence from university",
     "vi": "năm gián đoạn",
-    "viDef": "một năm tạm nghỉ khỏi trường đại học"
+    "viDef": "một năm tạm nghỉ khỏi trường đại học",
+    "ex": "I'm taking a gap year to travel before college.",
+    "exHit": "gap year",
+    "exVi": "Tôi sẽ nghỉ một năm để đi du lịch trước khi vào đại học."
   },
   {
     "word": "thesis",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A dissertation advancing an original point of view as a result of research",
     "vi": "luận văn",
-    "viDef": "bài viết dài nêu một quan điểm mới có được từ nghiên cứu"
+    "viDef": "bài viết dài nêu một quan điểm mới có được từ nghiên cứu",
+    "ex": "I'm working on my thesis about climate change.",
+    "exHit": "thesis",
+    "exVi": "Tôi đang làm luận văn về biến đổi khí hậu."
   },
   {
     "word": "minor",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "secondary course of study",
     "vi": "ngành phụ",
-    "viDef": "hướng học thứ hai"
+    "viDef": "hướng học thứ hai",
+    "ex": "My major is business and my minor is Spanish.",
+    "exHit": "minor",
+    "exVi": "Chuyên ngành chính của tôi là kinh doanh và ngành phụ là tiếng Tây Ban Nha."
   },
   {
     "word": "pre-law",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "any course of study taken by an undergraduate in preparation for study at a law school",
     "vi": "dự bị luật",
-    "viDef": "bất cứ chương trình nào sinh viên đại học học để chuẩn bị vào trường luật"
+    "viDef": "bất cứ chương trình nào sinh viên đại học học để chuẩn bị vào trường luật",
+    "ex": "I'm studying pre-law because I want to be a lawyer.",
+    "exHit": "pre-law",
+    "exVi": "Tôi học dự bị luật vì muốn trở thành luật sư."
   },
   {
     "word": "freshman",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "a first year student in high school or university",
     "vi": "sinh viên năm nhất",
-    "viDef": "học sinh hoặc sinh viên năm đầu ở trung học hay đại học"
+    "viDef": "học sinh hoặc sinh viên năm đầu ở trung học hay đại học",
+    "ex": "I'm a freshman, so everything on campus is new to me.",
+    "exHit": "freshman",
+    "exVi": "Tôi là sinh viên năm nhất nên mọi thứ trong khuôn viên trường đều mới mẻ với tôi."
   }
 ]

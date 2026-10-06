@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "of or relating to planets",
     "vi": "thuộc hành tinh",
-    "viDef": "liên quan tới các hành tinh"
+    "viDef": "liên quan tới các hành tinh",
+    "ex": "Warming and cooling are cooperating processes in the planetary eco-system.",
+    "exHit": "planetary",
+    "exVi": "Nóng lên và lạnh đi là những quá trình phối hợp với nhau trong hệ sinh thái của hành tinh."
   },
   {
     "word": "eco-system",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "everything that exists in a certain environment",
     "vi": "hệ sinh thái",
-    "viDef": "toàn bộ những gì tồn tại trong một môi trường"
+    "viDef": "toàn bộ những gì tồn tại trong một môi trường",
+    "ex": "Plastic waste is slowly damaging the eco-system of the ocean.",
+    "exHit": "eco-system",
+    "exVi": "Rác thải nhựa đang dần phá hủy hệ sinh thái của đại dương."
   },
   {
     "word": "mislead",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "be led to make believe something not true",
     "vi": "dẫn dắt sai lệch",
-    "viDef": "bị làm cho tin điều không thật"
+    "viDef": "bị làm cho tin điều không thật",
+    "ex": "You'll be misled.",
+    "exHit": "misled",
+    "exVi": "Bạn sẽ bị đánh lừa."
   },
   {
     "word": "global warming",
@@ -29,7 +38,10 @@
     "type": "common noun, non-variable",
     "def": "the increase of the world's temperature due to po",
     "vi": "sự nóng lên toàn cầu",
-    "viDef": "nhiệt độ Trái Đất tăng lên do ô nhiễm"
+    "viDef": "nhiệt độ Trái Đất tăng lên do ô nhiễm",
+    "ex": "And therefore, global warming is the greatest deception of the early 21st century.",
+    "exHit": "global warming",
+    "exVi": "Và vì vậy, hiện tượng nóng lên toàn cầu là sự lừa dối lớn nhất của đầu thế kỷ 21."
   },
   {
     "word": "beg to differ",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "a polite way to show you do not agree with someone",
     "vi": "tôi e là không đồng ý",
-    "viDef": "cách nói lịch sự khi phản đối ai"
+    "viDef": "cách nói lịch sự khi phản đối ai",
+    "ex": "Young lady, I beg to differ.",
+    "exHit": "beg to differ",
+    "exVi": "Thưa cô, tôi xin phép không đồng ý."
   },
   {
     "word": "deception",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "the act of making others believe something false",
     "vi": "sự lừa gạt",
-    "viDef": "việc làm cho người khác tin điều sai"
+    "viDef": "việc làm cho người khác tin điều sai",
+    "ex": "And therefore, global warming is the greatest deception of the early 21st century.",
+    "exHit": "deception",
+    "exVi": "Và vì vậy, hiện tượng nóng lên toàn cầu là sự lừa dối lớn nhất của đầu thế kỷ 21."
   },
   {
     "word": "polar ice cap",
@@ -53,7 +71,10 @@
     "type": "common noun, plural",
     "def": "the thick layer of ice or snow on the poles",
     "vi": "mũ băng ở cực",
-    "viDef": "lớp băng tuyết dày ở hai địa cực"
+    "viDef": "lớp băng tuyết dày ở hai địa cực",
+    "ex": "If that's true and the planet is getting cooler, what explains the rapid melting of the polar ice caps and the dramatic rise in the global average temperatures?",
+    "exHit": "polar ice caps",
+    "exVi": "Nếu điều đó đúng và hành tinh đang lạnh đi, thì điều gì giải thích việc các chỏm băng ở hai cực tan nhanh và nhiệt độ trung bình toàn cầu tăng mạnh?"
   },
   {
     "word": "emphasize",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "highlight",
     "vi": "nhấn mạnh",
-    "viDef": "làm nổi bật"
+    "viDef": "làm nổi bật",
+    "ex": "Look, the point of the lecture was to emphasize that there is evidence for both sides, and I'm putting forth the argument that there's greater evidence in support of the global cooling hypothesis.",
+    "exHit": "emphasize",
+    "exVi": "Nghe này, mục đích của bài giảng là nhấn mạnh rằng có bằng chứng cho cả hai phía, và tôi đưa ra lập luận rằng có nhiều bằng chứng hơn ủng hộ giả thuyết trái đất đang lạnh đi."
   },
   {
     "word": "put forth",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "give out, announce the public",
     "vi": "đưa ra",
-    "viDef": "công bố ra ngoài"
+    "viDef": "công bố ra ngoài",
+    "ex": "Look, the point of the lecture was to emphasize that there is evidence for both sides, and I'm putting forth the argument that there's greater evidence in support of the global cooling hypothesis.",
+    "exHit": "putting forth",
+    "exVi": "Nghe này, mục đích của bài giảng là nhấn mạnh rằng có bằng chứng cho cả hai phía, và tôi đưa ra lập luận rằng có nhiều bằng chứng hơn ủng hộ giả thuyết trái đất đang lạnh đi."
   },
   {
     "word": "indisputable",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "so true that does not need to be discussed anymore",
     "vi": "không phải tranh luận",
-    "viDef": "đúng đến mức chẳng cần bàn thêm"
+    "viDef": "đúng đến mức chẳng cần bàn thêm",
+    "ex": "Look, it's an indisputable fact that the public is being manipulated and scared into believing there's some kind of climate crisis; this scaremongering is done, quite simply, for political reasons.",
+    "exHit": "indisputable",
+    "exVi": "Nghe này, một sự thật không thể chối cãi là công chúng đang bị thao túng và bị dọa dẫm để tin rằng có một cuộc khủng hoảng khí hậu nào đó; nói đơn giản thì việc gieo rắc nỗi sợ này là vì lý do chính trị."
   },
   {
     "word": "manipulate",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "influence someone's ideas for your own benefit",
     "vi": "lèo lái",
-    "viDef": "tác động vào suy nghĩ người khác vì lợi ích mình"
+    "viDef": "tác động vào suy nghĩ người khác vì lợi ích mình",
+    "ex": "Look, it's an indisputable fact that the public is being manipulated and scared into believing there's some kind of climate crisis; this scaremongering is done, quite simply, for political reasons.",
+    "exHit": "manipulated",
+    "exVi": "Nghe này, một sự thật không thể chối cãi là công chúng đang bị thao túng và bị dọa dẫm để tin rằng có một cuộc khủng hoảng khí hậu nào đó; nói đơn giản thì việc gieo rắc nỗi sợ này là vì lý do chính trị."
   },
   {
     "word": "scaremongering",
@@ -93,7 +126,10 @@
     "type": "common noun, non-variable",
     "def": "saying something so as to frighten people",
     "vi": "gieo hoang mang",
-    "viDef": "nói ra để làm người ta sợ"
+    "viDef": "nói ra để làm người ta sợ",
+    "ex": "Look, it's an indisputable fact that the public is being manipulated and scared into believing there's some kind of climate crisis; this scaremongering is done, quite simply, for political reasons.",
+    "exHit": "scaremongering",
+    "exVi": "Nghe này, một sự thật không thể chối cãi là công chúng đang bị thao túng và bị dọa dẫm để tin rằng có một cuộc khủng hoảng khí hậu nào đó; nói đơn giản thì việc gieo rắc nỗi sợ này là vì lý do chính trị."
   },
   {
     "word": "greenhouse gas",
@@ -101,7 +137,10 @@
     "type": "common noun, plural",
     "def": "a gas that increases the global temperature",
     "vi": "khí nhà kính",
-    "viDef": "loại khí làm nhiệt độ toàn cầu tăng"
+    "viDef": "loại khí làm nhiệt độ toàn cầu tăng",
+    "ex": "But even without the uncomfortable reality that greenhouse gases like carbon dioxide contribute to global warming, isn't the topic appropriate for politicians to discuss?",
+    "exHit": "greenhouse gases",
+    "exVi": "Nhưng ngay cả khi không tính đến sự thật khó chấp nhận là các khí nhà kính như carbon dioxide góp phần gây nóng lên toàn cầu, chẳng phải đây là chủ đề thích hợp để các chính trị gia thảo luận sao?"
   },
   {
     "word": "endangered species",
@@ -109,7 +148,10 @@
     "type": "common noun, plural",
     "def": "type of animal in danger of dying out",
     "vi": "loài nguy cấp",
-    "viDef": "loài vật đang có nguy cơ tuyệt chủng"
+    "viDef": "loài vật đang có nguy cơ tuyệt chủng",
+    "ex": "Yeah, like conservation, protecting endangered species and investing in renewable energy.",
+    "exHit": "endangered species",
+    "exVi": "Đúng, như bảo tồn thiên nhiên, bảo vệ các loài có nguy cơ tuyệt chủng và đầu tư vào năng lượng tái tạo."
   },
   {
     "word": "concede",
@@ -117,7 +159,10 @@
     "type": "verb",
     "def": "to say that you do not deny something's true",
     "vi": "thừa nhận",
-    "viDef": "nói rằng mình không phủ nhận điều đó"
+    "viDef": "nói rằng mình không phủ nhận điều đó",
+    "ex": "At the very least, you have to concede that this debate has the potential to end our dependence on foreign oil.",
+    "exHit": "concede",
+    "exVi": "Ít nhất thì bạn cũng phải thừa nhận rằng cuộc tranh luận này có khả năng chấm dứt sự phụ thuộc của chúng ta vào dầu mỏ nước ngoài."
   },
   {
     "word": "autocratic",
@@ -125,7 +170,10 @@
     "type": "Adjective",
     "def": "with total power",
     "vi": "độc đoán",
-    "viDef": "nắm toàn quyền"
+    "viDef": "nắm toàn quyền",
+    "ex": "Buying oil supports autocratic countries that use these revenues to devastating ends.",
+    "exHit": "autocratic",
+    "exVi": "Việc mua dầu tiếp tay cho các quốc gia độc tài, những nơi dùng khoản thu này vào những mục đích tàn phá."
   },
   {
     "word": "end",
@@ -133,7 +181,10 @@
     "type": "common noun, plural",
     "def": "result or outcome",
     "vi": "cứu cánh, kết cục",
-    "viDef": "kết quả cuối cùng"
+    "viDef": "kết quả cuối cùng",
+    "ex": "Everyone hoped the meeting would come to a good end.",
+    "exHit": "end",
+    "exVi": "Ai cũng hy vọng cuộc họp sẽ có một kết cục tốt đẹp."
   },
   {
     "word": "duplicitous",
@@ -141,7 +192,10 @@
     "type": "Adjective",
     "def": "deceiving, dishonest",
     "vi": "hai lời",
-    "viDef": "dối trá, không thật"
+    "viDef": "dối trá, không thật",
+    "ex": "Yeah, and a duplicitous one at that.",
+    "exHit": "duplicitous",
+    "exVi": "Đúng vậy, mà còn là một kẻ hai mặt nữa."
   },
   {
     "word": "in the pocket of",
@@ -149,7 +203,10 @@
     "type": "phrase",
     "def": "being illegally bribed or paid by someone",
     "vi": "nằm trong tay ai",
-    "viDef": "bị mua hoặc nhận tiền trái phép từ ai"
+    "viDef": "bị mua hoặc nhận tiền trái phép từ ai",
+    "ex": "Everyone knows you're in the pocket of the oil lobby.",
+    "exHit": "in the pocket of",
+    "exVi": "Ai cũng biết ông là người của hội vận động hành lang dầu mỏ."
   },
   {
     "word": "so-called",
@@ -157,7 +214,10 @@
     "type": "Adjective",
     "def": "used to show the name is not really suitable",
     "vi": "cái gọi là",
-    "viDef": "dùng để tỏ ý tên gọi đó không xứng"
+    "viDef": "dùng để tỏ ý tên gọi đó không xứng",
+    "ex": "The so-called experts at the climate debate disagreed with each other.",
+    "exHit": "so-called",
+    "exVi": "Những người được gọi là chuyên gia trong buổi tranh luận về khí hậu lại bất đồng với nhau."
   },
   {
     "word": "climate change",
@@ -165,7 +225,10 @@
     "type": "common noun, non-variable",
     "def": "the change in the world's temperature and weather patterns",
     "vi": "biến đổi khí hậu",
-    "viDef": "sự thay đổi nhiệt độ và hình thái thời tiết toàn cầu"
+    "viDef": "sự thay đổi nhiệt độ và hình thái thời tiết toàn cầu",
+    "ex": "Climate change is making summers hotter every single year.",
+    "exHit": "Climate change",
+    "exVi": "Biến đổi khí hậu đang khiến mùa hè nóng hơn mỗi năm."
   },
   {
     "word": "fossil fuel",
@@ -173,7 +236,10 @@
     "type": "common noun, singular",
     "def": "fuel made with dead animals or plants such as oil, gas, natural gas",
     "vi": "nhiên liệu hóa thạch",
-    "viDef": "nhiên liệu từ động thực vật đã chết như dầu, than, khí"
+    "viDef": "nhiên liệu từ động thực vật đã chết như dầu, than, khí",
+    "ex": "We need to burn less fossil fuel to protect the planet.",
+    "exHit": "fossil fuel",
+    "exVi": "Chúng ta cần đốt ít nhiên liệu hóa thạch hơn để bảo vệ hành tinh."
   },
   {
     "word": "deforestation",
@@ -181,7 +247,10 @@
     "type": "common noun, non-variable",
     "def": "the action of cutting down forests",
     "vi": "sự phá rừng",
-    "viDef": "việc chặt hạ rừng"
+    "viDef": "việc chặt hạ rừng",
+    "ex": "Deforestation is destroying the homes of many animals.",
+    "exHit": "Deforestation",
+    "exVi": "Nạn phá rừng đang hủy hoại nơi sống của nhiều loài động vật."
   },
   {
     "word": "emission",
@@ -189,7 +258,10 @@
     "type": "common noun, singular",
     "def": "the act of producing gas",
     "vi": "sự phát thải",
-    "viDef": "việc thải ra khí"
+    "viDef": "việc thải ra khí",
+    "ex": "Factories must reduce their emission of harmful gases.",
+    "exHit": "emission",
+    "exVi": "Các nhà máy phải giảm lượng khí thải độc hại."
   },
   {
     "word": "endorse",
@@ -197,6 +269,9 @@
     "type": "verb",
     "def": "support a point of view",
     "vi": "tán thành",
-    "viDef": "ủng hộ một quan điểm"
+    "viDef": "ủng hộ một quan điểm",
+    "ex": "Many scientists endorse the idea that the climate is warming.",
+    "exHit": "endorse",
+    "exVi": "Nhiều nhà khoa học ủng hộ quan điểm rằng khí hậu đang nóng lên."
   }
 ]

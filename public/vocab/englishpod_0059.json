@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "processes, services, technology, and people used to attract and keep customers",
     "vi": "quản trị quan hệ khách hàng",
-    "viDef": "quy trình, dịch vụ, công nghệ và con người dùng để thu hút và giữ khách"
+    "viDef": "quy trình, dịch vụ, công nghệ và con người dùng để thu hút và giữ khách",
+    "ex": "They provide services such as CRM development, and they also offer custom-designed applications.",
+    "exHit": "CRM",
+    "exVi": "Họ cung cấp các dịch vụ như phát triển CRM, và cũng có các ứng dụng thiết kế riêng theo yêu cầu."
   },
   {
     "word": "custom",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "specially made to fit the needs of a person or organization",
     "vi": "làm theo yêu cầu riêng",
-    "viDef": "được làm riêng cho nhu cầu của một người hoặc tổ chức"
+    "viDef": "được làm riêng cho nhu cầu của một người hoặc tổ chức",
+    "ex": "They provide services such as CRM development, and they also offer custom-designed applications.",
+    "exHit": "custom",
+    "exVi": "Họ cung cấp các dịch vụ như phát triển CRM, và cũng có các ứng dụng thiết kế riêng theo yêu cầu."
   },
   {
     "word": "core values",
@@ -21,7 +27,10 @@
     "type": "common noun, plural",
     "def": "most important beliefs",
     "vi": "giá trị cốt lõi",
-    "viDef": "những điều tin tưởng quan trọng nhất"
+    "viDef": "những điều tin tưởng quan trọng nhất",
+    "ex": "I guess their core values and mission really resonated with me.",
+    "exHit": "core values",
+    "exVi": "Tôi nghĩ giá trị cốt lõi và sứ mệnh của họ thật sự chạm đến tôi."
   },
   {
     "word": "growth opportunity",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "chance to gain new skills",
     "vi": "cơ hội phát triển",
-    "viDef": "dịp học thêm kỹ năng mới"
+    "viDef": "dịp học thêm kỹ năng mới",
+    "ex": "It's an amazing growth opportunity!",
+    "exHit": "growth opportunity",
+    "exVi": "Đó là một cơ hội phát triển tuyệt vời!"
   },
   {
     "word": "industry leader",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "being the best in that particular field or industry",
     "vi": "dẫn đầu ngành",
-    "viDef": "đứng nhất trong lĩnh vực đó"
+    "viDef": "đứng nhất trong lĩnh vực đó",
+    "ex": "They're true industry leaders, and it would be so interesting to be part of an organization that is the undisputed leader in business process platform development.",
+    "exHit": "industry leaders",
+    "exVi": "Họ thật sự là những người dẫn đầu ngành, và sẽ rất thú vị khi được là một phần của tổ chức dẫn đầu không thể tranh cãi trong lĩnh vực phát triển nền tảng quy trình kinh doanh."
   },
   {
     "word": "undisputed",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "definitely true, not doubted",
     "vi": "không ai bàn cãi",
-    "viDef": "đúng hẳn, không ai nghi ngờ"
+    "viDef": "đúng hẳn, không ai nghi ngờ",
+    "ex": "They're true industry leaders, and it would be so interesting to be part of an organization that is the undisputed leader in business process platform development.",
+    "exHit": "undisputed",
+    "exVi": "Họ thật sự là những người dẫn đầu ngành, và sẽ rất thú vị khi được là một phần của tổ chức dẫn đầu không thể tranh cãi trong lĩnh vực phát triển nền tảng quy trình kinh doanh."
   },
   {
     "word": "read up",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "read to gain the most recent information on a subject",
     "vi": "đọc tìm hiểu",
-    "viDef": "đọc để nắm thông tin mới nhất về một đề tài"
+    "viDef": "đọc để nắm thông tin mới nhất về một đề tài",
+    "ex": "Well, I visited their website and read up on what they do.",
+    "exHit": "read up",
+    "exVi": "À, tôi đã vào trang web của họ và đọc tìm hiểu về những gì họ làm."
   },
   {
     "word": "unleash",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "release; allow something to happen",
     "vi": "giải phóng, tung ra",
-    "viDef": "thả ra, để điều gì diễn ra"
+    "viDef": "thả ra, để điều gì diễn ra",
+    "ex": "They're all about helping companies grow and unleashing potential.",
+    "exHit": "unleashing",
+    "exVi": "Họ tập trung vào việc giúp các công ty phát triển và khai phóng tiềm năng."
   },
   {
     "word": "resonate",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "have a special meaning or importance for someone",
     "vi": "gây đồng cảm",
-    "viDef": "có ý nghĩa riêng, đánh trúng lòng ai"
+    "viDef": "có ý nghĩa riêng, đánh trúng lòng ai",
+    "ex": "I guess their core values and mission really resonated with me.",
+    "exHit": "resonated",
+    "exVi": "Tôi nghĩ giá trị cốt lõi và sứ mệnh của họ thật sự chạm đến tôi."
   },
   {
     "word": "integrated solutions",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "combine things to find a plan or a way to deal with a problem (esp. in business)",
     "vi": "giải pháp tích hợp",
-    "viDef": "gộp nhiều thứ lại thành cách xử lý một vấn đề (nhất là trong kinh doanh)"
+    "viDef": "gộp nhiều thứ lại thành cách xử lý một vấn đề (nhất là trong kinh doanh)",
+    "ex": "The company offers integrated solutions for small businesses.",
+    "exHit": "integrated solutions",
+    "exVi": "Công ty cung cấp các giải pháp tích hợp cho doanh nghiệp nhỏ."
   },
   {
     "word": "competitive advantage",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "something that places a company above the competition",
     "vi": "lợi thế cạnh tranh",
-    "viDef": "thứ giúp công ty vượt lên đối thủ"
+    "viDef": "thứ giúp công ty vượt lên đối thủ",
+    "ex": "Good service gives us a competitive advantage over other stores.",
+    "exHit": "competitive advantage",
+    "exVi": "Dịch vụ tốt giúp chúng tôi có lợi thế cạnh tranh so với các cửa hàng khác."
   },
   {
     "word": "optimize",
@@ -93,7 +126,10 @@
     "type": "verb",
     "def": "make something as effective as possible",
     "vi": "tối ưu hóa",
-    "viDef": "làm cho hiệu quả nhất có thể"
+    "viDef": "làm cho hiệu quả nhất có thể",
+    "ex": "We want to optimize our website to get more customers.",
+    "exHit": "optimize",
+    "exVi": "Chúng tôi muốn tối ưu hóa trang web để có thêm khách hàng."
   },
   {
     "word": "align",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "join a group in supporting something",
     "vi": "đồng hành, gắn kết",
-    "viDef": "cùng nhóm ủng hộ một điều gì"
+    "viDef": "cùng nhóm ủng hộ một điều gì",
+    "ex": "I want to align myself with a company I believe in.",
+    "exHit": "align",
+    "exVi": "Tôi muốn đứng về phía một công ty mà tôi tin tưởng."
   },
   {
     "word": "platform",
@@ -109,6 +148,9 @@
     "type": "common noun, singular",
     "def": "a program that tells a computer how to work",
     "vi": "nền tảng",
-    "viDef": "chương trình chỉ cho máy tính cách hoạt động"
+    "viDef": "chương trình chỉ cho máy tính cách hoạt động",
+    "ex": "They're true industry leaders, and it would be so interesting to be part of an organization that is the undisputed leader in business process platform development.",
+    "exHit": "platform",
+    "exVi": "Họ thật sự là những người dẫn đầu ngành, và sẽ rất thú vị khi được là một phần của tổ chức dẫn đầu không thể tranh cãi trong lĩnh vực phát triển nền tảng quy trình kinh doanh."
   }
 ]

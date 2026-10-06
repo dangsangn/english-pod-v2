@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "a real or specific solution to a problem",
     "vi": "giải pháp cụ thể",
-    "viDef": "cách giải quyết thiết thực, rõ ràng cho vấn đề"
+    "viDef": "cách giải quyết thiết thực, rõ ràng cho vấn đề",
+    "ex": "I want concrete solutions.",
+    "exHit": "concrete solutions",
+    "exVi": "Tôi muốn những giải pháp cụ thể."
   },
   {
     "word": "drive sales",
@@ -13,7 +16,10 @@
     "type": "Preposition",
     "def": "increase sales",
     "vi": "thúc đẩy doanh số",
-    "viDef": "tăng doanh số"
+    "viDef": "tăng doanh số",
+    "ex": "How do you intend to drive sales...",
+    "exHit": "drive sales",
+    "exVi": "Anh định làm thế nào để thúc đẩy doanh số..."
   },
   {
     "word": "in the market",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "in the industry",
     "vi": "trên thị trường",
-    "viDef": "trong ngành"
+    "viDef": "trong ngành",
+    "ex": "Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?",
+    "exHit": "in the market",
+    "exVi": "Thật ra chúng ta đắt nhất trên thị trường, nên có lẽ cần giảm giá cho ngang với đối thủ?"
   },
   {
     "word": "to match the competitors",
@@ -29,7 +38,10 @@
     "type": "principle verb, infinitive",
     "def": "be the as good as or better than others companies in the same industry",
     "vi": "theo kịp đối thủ",
-    "viDef": "ngang bằng hoặc hơn các công ty khác cùng ngành"
+    "viDef": "ngang bằng hoặc hơn các công ty khác cùng ngành",
+    "ex": "Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?",
+    "exHit": "to match the competitors",
+    "exVi": "Thật ra chúng ta đắt nhất trên thị trường, nên có lẽ cần giảm giá cho ngang với đối thủ?"
   },
   {
     "word": "will never fly",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "will not work, will not be approved",
     "vi": "chắc chắn không xuôi",
-    "viDef": "sẽ không hiệu quả, sẽ không được duyệt"
+    "viDef": "sẽ không hiệu quả, sẽ không được duyệt",
+    "ex": "That plan will never fly, because the boss hates spending money.",
+    "exHit": "will never fly",
+    "exVi": "Kế hoạch đó sẽ không bao giờ được thông qua vì sếp ghét tiêu tiền."
   },
   {
     "word": "promotion",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "something done to make people aware of a product",
     "vi": "hoạt động quảng bá",
-    "viDef": "việc làm nhằm giúp mọi người biết đến sản phẩm"
+    "viDef": "việc làm nhằm giúp mọi người biết đến sản phẩm",
+    "ex": "Um, perhaps, um, a sales promotion.",
+    "exHit": "promotion",
+    "exVi": "Ừm, có lẽ là một chương trình khuyến mãi."
   },
   {
     "word": "be here any minute",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "will arrive very soon",
     "vi": "tới nơi bây giờ",
-    "viDef": "sắp đến ngay"
+    "viDef": "sắp đến ngay",
+    "ex": "The CEO will be here any minute.",
+    "exHit": "be here any minute",
+    "exVi": "Giám đốc điều hành sẽ đến đây bất cứ lúc nào."
   },
   {
     "word": "to consider",
@@ -61,7 +82,10 @@
     "type": "principle verb, infinitive",
     "def": "thinking about",
     "vi": "cân nhắc",
-    "viDef": "suy nghĩ về"
+    "viDef": "suy nghĩ về",
+    "ex": "We should consider offering a discount to our regular customers.",
+    "exHit": "consider",
+    "exVi": "Chúng ta nên cân nhắc giảm giá cho khách hàng thân thiết."
   },
   {
     "word": "brilliant",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "excellent",
     "vi": "xuất sắc",
-    "viDef": "tuyệt vời"
+    "viDef": "tuyệt vời",
+    "ex": "In fact, that's a brilliant idea!",
+    "exHit": "brilliant",
+    "exVi": "Thật ra đó là một ý tưởng tuyệt vời!"
   },
   {
     "word": "competitive",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "as good as or better than others of the same type",
     "vi": "có sức cạnh tranh",
-    "viDef": "ngang bằng hoặc tốt hơn những thứ cùng loại"
+    "viDef": "ngang bằng hoặc tốt hơn những thứ cùng loại",
+    "ex": "Yes Mr. Swan, we were kind of considering a two-for-one offer to get more competitive.",
+    "exHit": "competitive",
+    "exVi": "Vâng thưa ông Swan, chúng tôi đang cân nhắc chương trình mua một tặng một để cạnh tranh hơn."
   },
   {
     "word": "win sales",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "make sales sucessfully",
     "vi": "chốt được đơn",
-    "viDef": "bán hàng thành công"
+    "viDef": "bán hàng thành công",
+    "ex": "Our team worked hard to win sales during the holiday season.",
+    "exHit": "win sales",
+    "exVi": "Nhóm chúng tôi đã làm việc chăm chỉ để chốt được doanh số trong mùa lễ."
   },
   {
     "word": "sales strategy",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "plans for a company's sales activities",
     "vi": "chiến lược bán hàng",
-    "viDef": "kế hoạch cho hoạt động bán hàng của công ty"
+    "viDef": "kế hoạch cho hoạt động bán hàng của công ty",
+    "ex": "We need a new sales strategy to reach younger customers.",
+    "exHit": "sales strategy",
+    "exVi": "Chúng ta cần một chiến lược bán hàng mới để tiếp cận khách hàng trẻ hơn."
   },
   {
     "word": "sales cycle",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "the process a customer goes though when deciding to buy a product",
     "vi": "chu kỳ bán hàng",
-    "viDef": "quá trình khách hàng trải qua khi quyết định mua sản phẩm"
+    "viDef": "quá trình khách hàng trải qua khi quyết định mua sản phẩm",
+    "ex": "Our sales cycle is long because customers compare many products first.",
+    "exHit": "sales cycle",
+    "exVi": "Chu kỳ bán hàng của chúng tôi dài vì khách hàng so sánh nhiều sản phẩm trước."
   },
   {
     "word": "to outsell",
@@ -109,7 +148,10 @@
     "type": "principle verb, infinitive",
     "def": "to sell more than others",
     "vi": "bán chạy hơn",
-    "viDef": "bán được nhiều hơn người khác"
+    "viDef": "bán được nhiều hơn người khác",
+    "ex": "We hope to outsell our biggest competitor this year.",
+    "exHit": "outsell",
+    "exVi": "Chúng tôi hy vọng năm nay sẽ bán chạy hơn đối thủ lớn nhất."
   },
   {
     "word": "customer loyalty",
@@ -117,6 +159,9 @@
     "type": "phrase",
     "def": "when a customer buys the same brand over and over",
     "vi": "lòng trung thành của khách hàng",
-    "viDef": "khi khách hàng mua đi mua lại cùng một thương hiệu"
+    "viDef": "khi khách hàng mua đi mua lại cùng một thương hiệu",
+    "ex": "Free gifts are a great way to build customer loyalty.",
+    "exHit": "customer loyalty",
+    "exVi": "Quà tặng miễn phí là cách tuyệt vời để xây dựng lòng trung thành của khách hàng."
   }
 ]

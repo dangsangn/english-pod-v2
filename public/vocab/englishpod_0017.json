@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "joined in marriage",
     "vi": "đã kết hôn",
-    "viDef": "đã nên duyên vợ chồng"
+    "viDef": "đã nên duyên vợ chồng",
+    "ex": "I can't believe that Anthony is finally getting married!",
+    "exHit": "married",
+    "exVi": "Tôi không thể tin là cuối cùng Anthony cũng sắp cưới!"
   },
   {
     "word": "it's about time",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "finally",
     "vi": "cũng đến lúc rồi",
-    "viDef": "cuối cùng thì"
+    "viDef": "cuối cùng thì",
+    "ex": "Yeah, well, it's about time.",
+    "exHit": "it's about time",
+    "exVi": "Ừ, thì cũng đến lúc rồi."
   },
   {
     "word": "bridesmaid",
@@ -21,7 +27,10 @@
     "type": "common noun, plural",
     "def": "female friends or relatives who helps the bride at a wedding",
     "vi": "phù dâu",
-    "viDef": "bạn gái hoặc người thân nữ giúp cô dâu trong đám cưới"
+    "viDef": "bạn gái hoặc người thân nữ giúp cô dâu trong đám cưới",
+    "ex": "Look, here come the bridesmaids!",
+    "exHit": "bridesmaids",
+    "exVi": "Nhìn kìa, các phù dâu đến rồi!"
   },
   {
     "word": "aisle",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "a passage between sections of seats",
     "vi": "lối đi giữa hai hàng ghế",
-    "viDef": "lối đi ngăn cách các dãy ghế"
+    "viDef": "lối đi ngăn cách các dãy ghế",
+    "ex": "Who are those kids walking down the aisle?",
+    "exHit": "aisle",
+    "exVi": "Những đứa trẻ đang đi xuống lối đi giữa các hàng ghế là ai vậy?"
   },
   {
     "word": "flower girl",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "a girl at a wedding that throws flower petals down the aisle",
     "vi": "bé gái rải hoa",
-    "viDef": "bé gái rải cánh hoa dọc lối đi trong đám cưới"
+    "viDef": "bé gái rải cánh hoa dọc lối đi trong đám cưới",
+    "ex": "That's the flower girl and the ring bearer.",
+    "exHit": "flower girl",
+    "exVi": "Đó là cô bé rải hoa và cậu bé giữ nhẫn."
   },
   {
     "word": "ring bearer",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a boy at a wedding that holds the wedding rings",
     "vi": "bé trai bưng nhẫn",
-    "viDef": "bé trai giữ nhẫn cưới trong lễ"
+    "viDef": "bé trai giữ nhẫn cưới trong lễ",
+    "ex": "That's the flower girl and the ring bearer.",
+    "exHit": "ring bearer",
+    "exVi": "Đó là cô bé rải hoa và cậu bé giữ nhẫn."
   },
   {
     "word": "reception",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "party held to celebrate something or to welcome people",
     "vi": "tiệc chiêu đãi",
-    "viDef": "bữa tiệc mừng hoặc đón khách"
+    "viDef": "bữa tiệc mừng hoặc đón khách",
+    "ex": "I hope the food's good at the reception.",
+    "exHit": "reception",
+    "exVi": "Tôi hy vọng đồ ăn ở tiệc chiêu đãi sẽ ngon."
   },
   {
     "word": "groom",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a man who is about to be married",
     "vi": "chú rể",
-    "viDef": "người đàn ông sắp cưới"
+    "viDef": "người đàn ông sắp cưới",
+    "ex": "I'm pretty sure they're the groom's niece and nephew.",
+    "exHit": "groom",
+    "exVi": "Tôi khá chắc đó là cháu gái và cháu trai của chú rể."
   },
   {
     "word": "bride",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "female who is about to get married",
     "vi": "cô dâu",
-    "viDef": "người phụ nữ sắp cưới"
+    "viDef": "người phụ nữ sắp cưới",
+    "ex": "Oh, I think the bride's coming now!",
+    "exHit": "bride",
+    "exVi": "Ồ, tôi nghĩ cô dâu đang đến rồi!"
   },
   {
     "word": "gorgeous",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "very beautiful or attractive",
     "vi": "lộng lẫy",
-    "viDef": "rất đẹp, rất cuốn hút"
+    "viDef": "rất đẹp, rất cuốn hút",
+    "ex": "She looks gorgeous.",
+    "exHit": "gorgeous",
+    "exVi": "Cô ấy trông thật lộng lẫy."
   },
   {
     "word": "groomsman",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "male friend or relative who helps the groom on the wedding day",
     "vi": "phù rể",
-    "viDef": "bạn trai hoặc người thân nam giúp chú rể ngày cưới"
+    "viDef": "bạn trai hoặc người thân nam giúp chú rể ngày cưới",
+    "ex": "My brother asked me to be a groomsman at his wedding.",
+    "exHit": "groomsman",
+    "exVi": "Anh trai tôi nhờ tôi làm phù rể trong đám cưới của anh ấy."
   },
   {
     "word": "maid of honor",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "female fiend or relative who acts as a witness at the wedding",
     "vi": "phù dâu chính",
-    "viDef": "bạn nữ hoặc người thân nữ làm chứng trong lễ cưới"
+    "viDef": "bạn nữ hoặc người thân nữ làm chứng trong lễ cưới",
+    "ex": "Her best friend was the maid of honor and gave a lovely speech.",
+    "exHit": "maid of honor",
+    "exVi": "Bạn thân nhất của cô ấy là phù dâu chính và đã có một bài phát biểu rất hay."
   },
   {
     "word": "best man",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "male friend or relative who acts as a witness at the wedding",
     "vi": "phù rể chính",
-    "viDef": "bạn nam hoặc người thân nam làm chứng trong lễ cưới"
+    "viDef": "bạn nam hoặc người thân nam làm chứng trong lễ cưới",
+    "ex": "The best man lost the ring, and everyone started to panic.",
+    "exHit": "best man",
+    "exVi": "Phù rể chính làm mất chiếc nhẫn và mọi người bắt đầu hoảng hốt."
   },
   {
     "word": "ushers",
@@ -109,7 +148,10 @@
     "type": "common noun, plural",
     "def": "men who help guest find their seats",
     "vi": "người hướng dẫn chỗ ngồi",
-    "viDef": "những người giúp khách tìm chỗ ngồi"
+    "viDef": "những người giúp khách tìm chỗ ngồi",
+    "ex": "The ushers showed the guests to their seats before the ceremony.",
+    "exHit": "ushers",
+    "exVi": "Những người hướng dẫn khách đã đưa khách đến chỗ ngồi trước buổi lễ."
   },
   {
     "word": "vows",
@@ -117,6 +159,9 @@
     "type": "common noun, plural",
     "def": "promises that the bride and groom make to each other during the wedding ceremony",
     "vi": "lời thề hôn ước",
-    "viDef": "những lời hứa cô dâu và chú rể trao nhau trong lễ cưới"
+    "viDef": "những lời hứa cô dâu và chú rể trao nhau trong lễ cưới",
+    "ex": "They wrote their own vows and read them out loud.",
+    "exHit": "vows",
+    "exVi": "Họ tự viết lời thề nguyện của mình và đọc to lên."
   }
 ]

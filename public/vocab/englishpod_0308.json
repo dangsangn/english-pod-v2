@@ -5,7 +5,10 @@
     "type": "",
     "def": "loose-fitting undershorts with an elastic waistband",
     "vi": "quần đùi lót",
-    "viDef": "quần lót rộng có lưng thun"
+    "viDef": "quần lót rộng có lưng thun",
+    "ex": "Lily, I found a pair of men's boxers in the laundry machine this morning!",
+    "exHit": "boxers",
+    "exVi": "Lily, sáng nay tớ tìm thấy một cái quần lót boxer của đàn ông trong máy giặt!"
   },
   {
     "word": "laundry",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "clothes that need to be washed",
     "vi": "đồ giặt",
-    "viDef": "quần áo cần được giặt"
+    "viDef": "quần áo cần được giặt",
+    "ex": "Lily, I found a pair of men's boxers in the laundry machine this morning!",
+    "exHit": "laundry",
+    "exVi": "Lily, sáng nay tớ tìm thấy một cái quần lót boxer của đàn ông trong máy giặt!"
   },
   {
     "word": "briefs",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "close-fitting, legless underpants with an elastic waistband",
     "vi": "quần lót ôm",
-    "viDef": "quần lót bó, không ống, có lưng thun"
+    "viDef": "quần lót bó, không ống, có lưng thun",
+    "ex": "Nah, Kevin only wears briefs.",
+    "exHit": "briefs",
+    "exVi": "Không đâu, Kevin chỉ mặc quần lót tam giác thôi."
   },
   {
     "word": "hilarious",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "very amusing",
     "vi": "cười bò",
-    "viDef": "rất hài"
+    "viDef": "rất hài",
+    "ex": "Oh, and there's a Snoopy on it which is hilarious, hahah...",
+    "exHit": "hilarious",
+    "exVi": "Ồ, và trên đó có hình Snoopy trông buồn cười cực kỳ, ha ha..."
   },
   {
     "word": "undies",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "underwear (informal)",
     "vi": "đồ lót",
-    "viDef": "quần áo lót (thân mật)"
+    "viDef": "quần áo lót (thân mật)",
+    "ex": "Those are my undies!",
+    "exHit": "undies",
+    "exVi": "Đó là đồ lót của tớ mà!"
   },
   {
     "word": "bra",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a woman's undergarment for supporting the breasts",
     "vi": "áo ngực",
-    "viDef": "đồ lót của người nữ để nâng đỡ ngực"
+    "viDef": "đồ lót của người nữ để nâng đỡ ngực",
+    "ex": "She bought a new bra at the mall yesterday.",
+    "exHit": "bra",
+    "exVi": "Hôm qua cô ấy mua một chiếc áo ngực mới ở trung tâm thương mại."
   },
   {
     "word": "iron",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "an appliance with a flat metal bottom, used when heated, as by electricity, to press or smooth clothes",
     "vi": "bàn ủi",
-    "viDef": "thiết bị đáy phẳng bằng kim loại, khi nóng lên nhờ điện thì dùng để là quần áo"
+    "viDef": "thiết bị đáy phẳng bằng kim loại, khi nóng lên nhờ điện thì dùng để là quần áo",
+    "ex": "Could you iron my shirt before the meeting, please?",
+    "exHit": "iron",
+    "exVi": "Bạn ủi giúp tôi cái áo sơ mi trước buổi họp được không?"
   },
   {
     "word": "maid",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a female servant",
     "vi": "người giúp việc",
-    "viDef": "người giúp việc nữ"
+    "viDef": "người giúp việc nữ",
+    "ex": "They hired a maid to clean the house twice a week.",
+    "exHit": "maid",
+    "exVi": "Họ thuê một người giúp việc để dọn nhà hai lần một tuần."
   },
   {
     "word": "washing machine",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "appliance for washing clothing",
     "vi": "máy giặt",
-    "viDef": "thiết bị dùng để giặt quần áo"
+    "viDef": "thiết bị dùng để giặt quần áo",
+    "ex": "The washing machine in our apartment is very noisy.",
+    "exHit": "washing machine",
+    "exVi": "Cái máy giặt trong căn hộ của chúng tôi ồn lắm."
   }
 ]

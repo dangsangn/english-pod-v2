@@ -5,7 +5,10 @@
     "type": "",
     "def": "say something deserves to be chosen",
     "vi": "gợi ý chọn",
-    "viDef": "nói rằng thứ gì đáng được chọn"
+    "viDef": "nói rằng thứ gì đáng được chọn",
+    "ex": "What else do you recommend?",
+    "exHit": "recommend",
+    "exVi": "Bạn còn gợi ý gì nữa không?"
   },
   {
     "word": "service",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "an act of help or assistance",
     "vi": "sự giúp đỡ",
-    "viDef": "một hành động trợ giúp"
+    "viDef": "một hành động trợ giúp",
+    "ex": "I mean, the food is delicious but the service isn't so good.",
+    "exHit": "service",
+    "exVi": "Ý tôi là đồ ăn thì ngon nhưng dịch vụ thì không tốt lắm."
   },
   {
     "word": "colleague",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the person who works with you together",
     "vi": "đồng nghiệp",
-    "viDef": "người làm việc cùng bạn"
+    "viDef": "người làm việc cùng bạn",
+    "ex": "She's my colleague from Brazil.",
+    "exHit": "colleague",
+    "exVi": "Cô ấy là đồng nghiệp của tôi đến từ Brazil."
   },
   {
     "word": "barbecue",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a framework, as a grill or a spit, or a fireplace for cooking meat or vegetables over an open fire",
     "vi": "bữa nướng ngoài trời",
-    "viDef": "khung như vỉ hoặc xiên, hay chỗ đốt lửa để nướng thịt và rau trên lửa mở"
+    "viDef": "khung như vỉ hoặc xiên, hay chỗ đốt lửa để nướng thịt và rau trên lửa mở",
+    "ex": "I often like to get together with friends and have a great barbecue there.",
+    "exHit": "barbecue",
+    "exVi": "Tôi thường thích tụ tập với bạn bè và tổ chức một bữa tiệc nướng thật vui ở đó."
   },
   {
     "word": "introduce",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to present (a person) to another so as to make acquainted.",
     "vi": "giới thiệu",
-    "viDef": "đưa một người ra để làm quen với người khác"
+    "viDef": "đưa một người ra để làm quen với người khác",
+    "ex": "So Michelle, let me introduce you to Maria.",
+    "exHit": "introduce",
+    "exVi": "Michelle này, để tôi giới thiệu bạn với Maria nhé."
   },
   {
     "word": "acquaint",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to become more or less familiar, aware of something",
     "vi": "làm quen với",
-    "viDef": "trở nên biết ít nhiều, nắm được về thứ gì"
+    "viDef": "trở nên biết ít nhiều, nắm được về thứ gì",
+    "ex": "Take some time to acquaint yourself with the new neighbors.",
+    "exHit": "acquaint",
+    "exVi": "Hãy dành chút thời gian làm quen với những người hàng xóm mới."
   },
   {
     "word": "advocate",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to speak or write in favor of; support or urge by argument",
     "vi": "lên tiếng ủng hộ",
-    "viDef": "nói hoặc viết để bênh vực, dùng lý lẽ cổ vũ cho điều gì"
+    "viDef": "nói hoặc viết để bênh vực, dùng lý lẽ cổ vũ cho điều gì",
+    "ex": "Many people advocate eating less meat to protect the planet.",
+    "exHit": "advocate",
+    "exVi": "Nhiều người ủng hộ việc ăn ít thịt hơn để bảo vệ hành tinh."
   },
   {
     "word": "impression",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a strong, favourable, or remarkable effect",
     "vi": "ấn tượng mạnh",
-    "viDef": "tác động mạnh, thuận lợi hoặc đáng nhớ"
+    "viDef": "tác động mạnh, thuận lợi hoặc đáng nhớ",
+    "ex": "She made a great impression on everyone at the party.",
+    "exHit": "impression",
+    "exVi": "Cô ấy để lại ấn tượng rất tốt với mọi người ở bữa tiệc."
   },
   {
     "word": "picnic",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "excursion or outing in which the people carry food with them and share a meal in the open air.",
     "vi": "buổi dã ngoại",
-    "viDef": "chuyến đi chơi mà mọi người mang theo đồ ăn và cùng dùng bữa ngoài trời"
+    "viDef": "chuyến đi chơi mà mọi người mang theo đồ ăn và cùng dùng bữa ngoài trời",
+    "ex": "Let's have a picnic in the park this weekend.",
+    "exHit": "picnic",
+    "exVi": "Cuối tuần này mình đi dã ngoại ở công viên nhé."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "principle verb, infinitive",
     "def": "stay",
     "vi": "ở lại",
-    "viDef": "lưu lại"
+    "viDef": "lưu lại",
+    "ex": "And how long do you you plan to remain in the United States?",
+    "exHit": "remain",
+    "exVi": "Và bạn dự định ở lại Hoa Kỳ trong bao lâu?"
   },
   {
     "word": "approximately",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "an amount that is almost, but not exact",
     "vi": "khoảng chừng",
-    "viDef": "gần đúng nhưng không chính xác"
+    "viDef": "gần đúng nhưng không chính xác",
+    "ex": "I'll be here for approximately three weeks.",
+    "exHit": "approximately",
+    "exVi": "Tôi sẽ ở đây khoảng ba tuần."
   },
   {
     "word": "sponsor",
@@ -21,7 +27,10 @@
     "type": "principle verb, present progressive",
     "def": "someone who takes the responsibility for a person applying for a visa",
     "vi": "người bảo lãnh",
-    "viDef": "người nhận trách nhiệm cho người xin visa"
+    "viDef": "người nhận trách nhiệm cho người xin visa",
+    "ex": "And, who is sponsoring your trip?",
+    "exHit": "sponsoring",
+    "exVi": "Và ai bảo lãnh cho chuyến đi của bạn?"
   },
   {
     "word": "invitation letter",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "a formal letter asking a person to come to a place",
     "vi": "thư mời",
-    "viDef": "thư chính thức mời ai đến một nơi"
+    "viDef": "thư chính thức mời ai đến một nơi",
+    "ex": "My brother, here, this is an invitation letter from him.",
+    "exHit": "invitation letter",
+    "exVi": "Đây là thư mời của anh trai tôi, người đang ở đây."
   },
   {
     "word": "tie",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "responsibility that links a person to a place or a thing",
     "vi": "ràng buộc",
-    "viDef": "trách nhiệm gắn một người với nơi nào hoặc việc gì"
+    "viDef": "trách nhiệm gắn một người với nơi nào hoặc việc gì",
+    "ex": "Alright, tell me about the ties you have to your home country.",
+    "exHit": "ties",
+    "exVi": "Được rồi, hãy kể cho tôi nghe về những ràng buộc của bạn với quê hương."
   },
   {
     "word": "evidence",
@@ -45,7 +60,10 @@
     "type": "common noun, non-variable",
     "def": "something that shows the thing is true",
     "vi": "bằng chứng",
-    "viDef": "thứ chứng minh điều đó là thật"
+    "viDef": "thứ chứng minh điều đó là thật",
+    "ex": "And what evidence do you have that you are financially independent?",
+    "exHit": "evidence",
+    "exVi": "Và bạn có bằng chứng nào cho thấy mình độc lập về tài chính?"
   },
   {
     "word": "financially independent",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "have enough money to live alone; do not need help with money",
     "vi": "tự lo được tài chính",
-    "viDef": "đủ tiền sống một mình, không cần ai giúp"
+    "viDef": "đủ tiền sống một mình, không cần ai giúp",
+    "ex": "And what evidence do you have that you are financially independent?",
+    "exHit": "financially independent",
+    "exVi": "Và bạn có bằng chứng nào cho thấy mình độc lập về tài chính?"
   },
   {
     "word": "assets",
@@ -61,7 +82,10 @@
     "type": "common noun, plural",
     "def": "things that are worth money that you own",
     "vi": "tài sản",
-    "viDef": "những thứ có giá trị mình đang sở hữu"
+    "viDef": "những thứ có giá trị mình đang sở hữu",
+    "ex": "Well, I do have assets in my country; like I said, I own a house, and see, here's a bank statement showing my investments, and my bank balance.",
+    "exHit": "assets",
+    "exVi": "Vâng, tôi có tài sản ở nước tôi; như tôi đã nói, tôi có một căn nhà, và đây là sao kê ngân hàng cho thấy các khoản đầu tư và số dư tài khoản của tôi."
   },
   {
     "word": "grant",
@@ -69,7 +93,10 @@
     "type": "principle verb, present simple",
     "def": "let you have something",
     "vi": "cấp cho",
-    "viDef": "cho phép ai có được thứ gì"
+    "viDef": "cho phép ai có được thứ gì",
+    "ex": "I'm sorry, sir, we cannot grant you a B2 visa at this time, instead, you are granted a resident visa!",
+    "exHit": "grant",
+    "exVi": "Xin lỗi ông, chúng tôi không thể cấp visa B2 cho ông lúc này, thay vào đó ông được cấp visa cư trú!"
   },
   {
     "word": "visa officer",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a person who's job is to interview people for visas",
     "vi": "viên chức xét visa",
-    "viDef": "người có việc phỏng vấn người xin visa"
+    "viDef": "người có việc phỏng vấn người xin visa",
+    "ex": "The visa officer asked me many questions about my trip.",
+    "exHit": "visa officer",
+    "exVi": "Nhân viên xét visa hỏi tôi rất nhiều câu về chuyến đi."
   },
   {
     "word": "resident permit",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "an official document that allows you to live in a country",
     "vi": "giấy phép cư trú",
-    "viDef": "giấy tờ chính thức cho phép sống ở một nước"
+    "viDef": "giấy tờ chính thức cho phép sống ở một nước",
+    "ex": "She needs a resident permit to live in Canada for a year.",
+    "exHit": "resident permit",
+    "exVi": "Cô ấy cần giấy phép cư trú để sống ở Canada một năm."
   },
   {
     "word": "embassy",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "the group of people who represent your country in another country, located in the capital city",
     "vi": "đại sứ quán",
-    "viDef": "cơ quan đại diện nước mình ở nước khác, đặt tại thủ đô"
+    "viDef": "cơ quan đại diện nước mình ở nước khác, đặt tại thủ đô",
+    "ex": "I have to go to the embassy to renew my passport.",
+    "exHit": "embassy",
+    "exVi": "Tôi phải đến đại sứ quán để gia hạn hộ chiếu."
   },
   {
     "word": "application form",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a piece of paper you have to put information on to make a formal request",
     "vi": "đơn xin, mẫu khai",
-    "viDef": "tờ giấy phải điền thông tin để làm thủ tục"
+    "viDef": "tờ giấy phải điền thông tin để làm thủ tục",
+    "ex": "Please fill out this application form and sign it at the bottom.",
+    "exHit": "application form",
+    "exVi": "Vui lòng điền vào đơn đăng ký này và ký ở phía dưới."
   },
   {
     "word": "consulate",
@@ -109,6 +148,9 @@
     "type": "common noun, singular",
     "def": "government building representing your country in another country; not located in a capital city",
     "vi": "lãnh sự quán",
-    "viDef": "cơ quan đại diện nước mình ở nước khác, không nằm ở thủ đô"
+    "viDef": "cơ quan đại diện nước mình ở nước khác, không nằm ở thủ đô",
+    "ex": "The consulate in Osaka can help you with your visa.",
+    "exHit": "consulate",
+    "exVi": "Lãnh sự quán ở Osaka có thể giúp bạn làm visa."
   }
 ]

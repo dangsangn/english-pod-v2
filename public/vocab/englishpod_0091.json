@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "a particular shape formed by a group of stars",
     "vi": "chòm sao",
-    "viDef": "hình cụ thể do một nhóm sao tạo thành"
+    "viDef": "hình cụ thể do một nhóm sao tạo thành",
+    "ex": "See that constellation there?",
+    "exHit": "constellation",
+    "exVi": "Thấy chòm sao đằng kia không?"
   },
   {
     "word": "blink",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "produce light every several seconds",
     "vi": "nhấp nháy",
-    "viDef": "phát sáng theo từng nhịp vài giây"
+    "viDef": "phát sáng theo từng nhịp vài giây",
+    "ex": "Well, it's not a star since it doesn't blink.",
+    "exHit": "blink",
+    "exVi": "À, đó không phải là một ngôi sao vì nó không nhấp nháy."
   },
   {
     "word": "UFO",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "unidentified flying object",
     "vi": "UFO",
-    "viDef": "vật thể bay không xác định"
+    "viDef": "vật thể bay không xác định",
+    "ex": "I think it's a UFO!",
+    "exHit": "UFO",
+    "exVi": "Tôi nghĩ đó là một vật thể bay không xác định!"
   },
   {
     "word": "earthlings",
@@ -29,7 +38,10 @@
     "type": "common noun, plural",
     "def": "human beings that live on earth",
     "vi": "người Trái Đất",
-    "viDef": "con người sống trên Trái Đất"
+    "viDef": "con người sống trên Trái Đất",
+    "ex": "Greetings earthlings.",
+    "exHit": "earthlings",
+    "exVi": "Xin chào, những người Trái Đất."
   },
   {
     "word": "from afar",
@@ -37,7 +49,10 @@
     "type": "General Adverb",
     "def": "from a long distance",
     "vi": "từ xa",
-    "viDef": "từ khoảng cách rất xa"
+    "viDef": "từ khoảng cách rất xa",
+    "ex": "I come from afar, from a distant galaxy known only to a few.",
+    "exHit": "from afar",
+    "exVi": "Tôi đến từ nơi xa, từ một thiên hà xa xôi mà chỉ một số ít người biết đến."
   },
   {
     "word": "galaxy",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "any of numerous large-scale collections of stars, gas, and dust that make up the visible universe.",
     "vi": "thiên hà",
-    "viDef": "tập hợp lớn gồm sao, khí và bụi tạo nên vũ trụ ta thấy được"
+    "viDef": "tập hợp lớn gồm sao, khí và bụi tạo nên vũ trụ ta thấy được",
+    "ex": "I come from afar, from a distant galaxy known only to a few.",
+    "exHit": "galaxy",
+    "exVi": "Tôi đến từ nơi xa, từ một thiên hà xa xôi mà chỉ một số ít người biết đến."
   },
   {
     "word": "capacity",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "the ability to do something",
     "vi": "năng lực",
-    "viDef": "khả năng làm được việc gì"
+    "viDef": "khả năng làm được việc gì",
+    "ex": "We have seen the amazing capacity that humans have to create such wonders as the Taj Mahal or masterpieces such as the Haffner symphony.",
+    "exHit": "capacity",
+    "exVi": "Chúng tôi đã thấy khả năng tuyệt vời của loài người trong việc tạo ra những kỳ quan như Taj Mahal hay những kiệt tác như bản giao hưởng Haffner."
   },
   {
     "word": "wonder",
@@ -61,7 +82,10 @@
     "type": "common noun, plural",
     "def": "A monumental human creation that is amazing",
     "vi": "kỳ quan",
-    "viDef": "công trình vĩ đại do con người làm nên, gây thán phục"
+    "viDef": "công trình vĩ đại do con người làm nên, gây thán phục",
+    "ex": "It also says that the Christ Redeemer statue in Brazil and the Colosseum in Rome are wonders.",
+    "exHit": "wonders",
+    "exVi": "Nó còn nói rằng tượng Chúa Cứu Thế ở Brazil và Đấu trường La Mã ở Rome cũng là những kỳ quan."
   },
   {
     "word": "masterpiece",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "wonderful pieces of work",
     "vi": "kiệt tác",
-    "viDef": "tác phẩm tuyệt vời"
+    "viDef": "tác phẩm tuyệt vời",
+    "ex": "We have seen the amazing capacity that humans have to create such wonders as the Taj Mahal or masterpieces such as the Haffner symphony.",
+    "exHit": "masterpieces",
+    "exVi": "Chúng tôi đã thấy khả năng tuyệt vời của loài người trong việc tạo ra những kỳ quan như Taj Mahal hay những kiệt tác như bản giao hưởng Haffner."
   },
   {
     "word": "consequence",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a logical result or effect of an action",
     "vi": "hệ quả",
-    "viDef": "kết quả tất yếu của một hành động"
+    "viDef": "kết quả tất yếu của một hành động",
+    "ex": "Unfortunately, your intelligence and creativity does not come without consequence.",
+    "exHit": "consequence",
+    "exVi": "Thật không may, trí thông minh và sự sáng tạo của các bạn không đến mà không có hậu quả."
   },
   {
     "word": "ambition",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "the desire to achieve more",
     "vi": "tham vọng",
-    "viDef": "khát khao đạt được nhiều hơn"
+    "viDef": "khát khao đạt được nhiều hơn",
+    "ex": "Your ambition and desire for more will be your downfall, and we are here to save your planet from you.",
+    "exHit": "ambition",
+    "exVi": "Tham vọng và lòng ham muốn nhiều hơn sẽ là sự sụp đổ của các bạn, và chúng tôi ở đây để cứu hành tinh của các bạn khỏi chính các bạn."
   },
   {
     "word": "downfall",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "something that brings failure",
     "vi": "nguyên nhân sụp đổ",
-    "viDef": "thứ dẫn tới thất bại"
+    "viDef": "thứ dẫn tới thất bại",
+    "ex": "Your ambition and desire for more will be your downfall, and we are here to save your planet from you.",
+    "exHit": "downfall",
+    "exVi": "Tham vọng và lòng ham muốn nhiều hơn sẽ là sự sụp đổ của các bạn, và chúng tôi ở đây để cứu hành tinh của các bạn khỏi chính các bạn."
   },
   {
     "word": "figure out",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "completely understand, comprehend.",
     "vi": "hiểu ra",
-    "viDef": "nắm được hoàn toàn"
+    "viDef": "nắm được hoàn toàn",
+    "ex": "You think you have us figured out?",
+    "exHit": "figured out",
+    "exVi": "Các người nghĩ đã hiểu rõ chúng tôi rồi sao?"
   },
   {
     "word": "play God",
@@ -109,7 +148,10 @@
     "type": "phrase",
     "def": "decide the fate of someone or something",
     "vi": "làm thay ông trời",
-    "viDef": "tự định số phận của người hoặc vật"
+    "viDef": "tự định số phận của người hoặc vật",
+    "ex": "Who are you to play God with our fate?",
+    "exHit": "play God",
+    "exVi": "Các người là ai mà dám đóng vai Chúa quyết định số phận của chúng tôi?"
   },
   {
     "word": "belligerent",
@@ -117,7 +159,10 @@
     "type": "Adjective",
     "def": "angry, aggressive, wanting to fight",
     "vi": "hung hăng",
-    "viDef": "tức tối, hiếu chiến, muốn đánh"
+    "viDef": "tức tối, hiếu chiến, muốn đánh",
+    "ex": "It is that belligerent attitude that has caused years of pain and anguish among yourselves!",
+    "exHit": "belligerent",
+    "exVi": "Chính thái độ hiếu chiến đó đã gây ra bao năm đau đớn và thống khổ giữa các bạn!"
   },
   {
     "word": "anguish",
@@ -125,7 +170,10 @@
     "type": "common noun, non-variable",
     "def": "very strong and terrible physical or mental pain; torment",
     "vi": "nỗi đau quặn",
-    "viDef": "cơn đau thể xác hoặc tinh thần dữ dội; sự giày vò"
+    "viDef": "cơn đau thể xác hoặc tinh thần dữ dội; sự giày vò",
+    "ex": "It is that belligerent attitude that has caused years of pain and anguish among yourselves!",
+    "exHit": "anguish",
+    "exVi": "Chính thái độ hiếu chiến đó đã gây ra bao năm đau đớn và thống khổ giữa các bạn!"
   },
   {
     "word": "spacecraft",
@@ -133,7 +181,10 @@
     "type": "common noun, singular",
     "def": "a vehicle that travels in space",
     "vi": "phi thuyền",
-    "viDef": "thiết bị bay trong không gian"
+    "viDef": "thiết bị bay trong không gian",
+    "ex": "The spacecraft landed safely on the moon.",
+    "exHit": "spacecraft",
+    "exVi": "Tàu vũ trụ đã hạ cánh an toàn xuống mặt trăng."
   },
   {
     "word": "hoax",
@@ -141,7 +192,10 @@
     "type": "common noun, singular",
     "def": "an event when people do something to play a joke on or fool others",
     "vi": "vụ lừa bịp",
-    "viDef": "việc dựng ra để đùa hoặc gạt người khác"
+    "viDef": "việc dựng ra để đùa hoặc gạt người khác",
+    "ex": "The UFO story turned out to be a hoax.",
+    "exHit": "hoax",
+    "exVi": "Câu chuyện về UFO hóa ra chỉ là một trò lừa bịp."
   },
   {
     "word": "astronomy",
@@ -149,7 +203,10 @@
     "type": "common noun, non-variable",
     "def": "the study of the stars and space",
     "vi": "thiên văn học",
-    "viDef": "ngành nghiên cứu các ngôi sao và không gian"
+    "viDef": "ngành nghiên cứu các ngôi sao và không gian",
+    "ex": "My brother loves astronomy and stargazing at night.",
+    "exHit": "astronomy",
+    "exVi": "Anh trai tôi rất mê thiên văn học và ngắm sao ban đêm."
   },
   {
     "word": "supernatural",
@@ -157,7 +214,10 @@
     "type": "Adjective",
     "def": "unable to be explained by science",
     "vi": "siêu nhiên",
-    "viDef": "khoa học không giải thích được"
+    "viDef": "khoa học không giải thích được",
+    "ex": "She believes in ghosts and other supernatural things.",
+    "exHit": "supernatural",
+    "exVi": "Cô ấy tin vào ma và những điều siêu nhiên khác."
   },
   {
     "word": "flying saucer",
@@ -165,6 +225,9 @@
     "type": "common noun, singular",
     "def": "a name for a UFO",
     "vi": "đĩa bay",
-    "viDef": "tên gọi khác của UFO"
+    "viDef": "tên gọi khác của UFO",
+    "ex": "He swears he saw a flying saucer last night.",
+    "exHit": "flying saucer",
+    "exVi": "Anh ấy thề là đêm qua đã thấy một chiếc đĩa bay."
   }
 ]

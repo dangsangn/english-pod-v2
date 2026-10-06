@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "give information by speaking; say something officially",
     "vi": "đọc, phát biểu",
-    "viDef": "nói ra thông tin; phát ngôn chính thức"
+    "viDef": "nói ra thông tin; phát ngôn chính thức",
+    "ex": "where, very shortly, the new President will deliver his inaugural address.",
+    "exHit": "deliver",
+    "exVi": "nơi mà chỉ ít phút nữa, vị Tổng thống mới sẽ đọc bài diễn văn nhậm chức."
   },
   {
     "word": "swear in",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "place someone in a new position by holding an official ceremony where he promises to do the job well",
     "vi": "làm lễ tuyên thệ",
-    "viDef": "nhận chức qua buổi lễ chính thức có lời thề làm tốt nhiệm vụ"
+    "viDef": "nhận chức qua buổi lễ chính thức có lời thề làm tốt nhiệm vụ",
+    "ex": "The judge will swear in the new mayor at noon tomorrow.",
+    "exHit": "swear in",
+    "exVi": "Thẩm phán sẽ làm lễ tuyên thệ nhậm chức cho thị trưởng mới vào trưa mai."
   },
   {
     "word": "oath",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "official, serious promise",
     "vi": "lời thề",
-    "viDef": "lời hứa trang trọng, chính thức"
+    "viDef": "lời hứa trang trọng, chính thức",
+    "ex": "Just moments ago, the President was sworn in to office; following the United States Constitution the president swore an oath to faithfully execute the office of the presidency.",
+    "exHit": "oath",
+    "exVi": "Cách đây ít phút, Tổng thống đã tuyên thệ nhậm chức; theo Hiến pháp Hoa Kỳ, Tổng thống đã thề trung thành thực thi chức vụ tổng thống."
   },
   {
     "word": "who's who",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "important and famous people in a particular industry",
     "vi": "toàn nhân vật tên tuổi",
-    "viDef": "những người quan trọng và nổi tiếng trong một giới"
+    "viDef": "những người quan trọng và nổi tiếng trong một giới",
+    "ex": "Tom, it's like a who's who of the political world here on Capital Hill, with dignitaries representing several different countries.",
+    "exHit": "who's who",
+    "exVi": "Tom, ở đây trên Đồi Capitol giống như một buổi tụ họp của những nhân vật có tiếng trong giới chính trị, với các chức sắc đại diện cho nhiều quốc gia khác nhau."
   },
   {
     "word": "dignitary",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "person with a high rank or position, especially in government or religion",
     "vi": "quan chức cấp cao",
-    "viDef": "người có địa vị cao, nhất là trong chính quyền hoặc tôn giáo"
+    "viDef": "người có địa vị cao, nhất là trong chính quyền hoặc tôn giáo",
+    "ex": "Tom, it's like a who's who of the political world here on Capital Hill, with dignitaries representing several different countries.",
+    "exHit": "dignitaries",
+    "exVi": "Tom, ở đây trên Đồi Capitol giống như một buổi tụ họp của những nhân vật có tiếng trong giới chính trị, với các chức sắc đại diện cho nhiều quốc gia khác nhau."
   },
   {
     "word": "palpable",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "so strong you can feel it, obvious",
     "vi": "cảm nhận rõ rệt",
-    "viDef": "mạnh đến mức cảm thấy được, rõ mồn một"
+    "viDef": "mạnh đến mức cảm thấy được, rõ mồn một",
+    "ex": "The excitement in the air is palpable; I've never seen a larger crowd here on Capital Hill, and the audience is shouting crying, and embracing each other.",
+    "exHit": "palpable",
+    "exVi": "Không khí hào hứng ở đây có thể cảm nhận rõ rệt; tôi chưa từng thấy đám đông nào đông hơn ở Đồi Capitol, và khán giả đang hò reo, khóc và ôm nhau."
   },
   {
     "word": "in a word",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "to describe something in one word",
     "vi": "nói gọn một chữ",
-    "viDef": "diễn tả điều gì bằng đúng một từ"
+    "viDef": "diễn tả điều gì bằng đúng một từ",
+    "ex": "In a word, the mood here is electric.",
+    "exHit": "In a word",
+    "exVi": "Tóm lại bằng một từ, bầu không khí ở đây thật sôi động."
   },
   {
     "word": "fellow",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "used to describe people of the same group",
     "vi": "đồng bào, cùng hội",
-    "viDef": "chỉ những người cùng một nhóm"
+    "viDef": "chỉ những người cùng một nhóm",
+    "ex": "My fellow Americans, I stand before you...",
+    "exHit": "fellow",
+    "exVi": "Thưa đồng bào Mỹ, tôi đứng trước các bạn..."
   },
   {
     "word": "go down in history",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "be remembered",
     "vi": "đi vào lịch sử",
-    "viDef": "được người sau ghi nhớ"
+    "viDef": "được người sau ghi nhớ",
+    "ex": "The twentieth of January will go down in history as the...",
+    "exHit": "go down in history",
+    "exVi": "Ngày hai mươi tháng Một sẽ đi vào lịch sử với tư cách là..."
   },
   {
     "word": "ceremony",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "activity or action that are the official part of a formal official state or social occasion",
     "vi": "buổi lễ",
-    "viDef": "phần nghi thức chính thức của một dịp trọng đại"
+    "viDef": "phần nghi thức chính thức của một dịp trọng đại",
+    "ex": "The opening ceremony starts at ten o'clock in front of City Hall.",
+    "exHit": "ceremony",
+    "exVi": "Lễ khai mạc bắt đầu lúc mười giờ trước Tòa thị chính."
   },
   {
     "word": "festivities",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "celebration, enjoyment, and happiness",
     "vi": "không khí lễ hội",
-    "viDef": "sự chúc tụng, vui vẻ, náo nhiệt"
+    "viDef": "sự chúc tụng, vui vẻ, náo nhiệt",
+    "ex": "The festivities went on all night after the president's speech.",
+    "exHit": "festivities",
+    "exVi": "Các hoạt động lễ hội kéo dài suốt đêm sau bài phát biểu của tổng thống."
   },
   {
     "word": "president-elect",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a person who has been voted president, but not yet officially made president",
     "vi": "tổng thống đắc cử",
-    "viDef": "người đã được bầu làm tổng thống nhưng chưa nhận chức"
+    "viDef": "người đã được bầu làm tổng thống nhưng chưa nhận chức",
+    "ex": "The president-elect gave a short speech to his supporters last night.",
+    "exHit": "president-elect",
+    "exVi": "Tổng thống đắc cử đã có một bài phát biểu ngắn trước những người ủng hộ tối qua."
   },
   {
     "word": "parade",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a public celebration of an event where many people move down a street in groups or on vehicles; usually involves a marching band",
     "vi": "cuộc diễu hành",
-    "viDef": "lễ mừng ngoài đường, người đi thành đoàn hoặc trên xe, thường có đội kèn"
+    "viDef": "lễ mừng ngoài đường, người đi thành đoàn hoặc trên xe, thường có đội kèn",
+    "ex": "Thousands of people watched the parade go down the main street.",
+    "exHit": "parade",
+    "exVi": "Hàng nghìn người đứng xem đoàn diễu hành đi dọc con đường chính."
   },
   {
     "word": "term",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "time allowed for one person to remain President after one election; in America a presidential term is four years",
     "vi": "nhiệm kỳ",
-    "viDef": "thời gian giữ chức tổng thống sau một lần bầu; ở Mỹ là bốn năm"
+    "viDef": "thời gian giữ chức tổng thống sau một lần bầu; ở Mỹ là bốn năm",
+    "ex": "The president can serve only two terms in office.",
+    "exHit": "terms",
+    "exVi": "Tổng thống chỉ có thể giữ chức tối đa hai nhiệm kỳ."
   },
   {
     "word": "affirmation",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "a show of agreement or dedication",
     "vi": "sự khẳng định",
-    "viDef": "biểu thị sự đồng thuận hoặc cam kết"
+    "viDef": "biểu thị sự đồng thuận hoặc cam kết",
+    "ex": "His speech was an affirmation of his promise to the people.",
+    "exHit": "affirmation",
+    "exVi": "Bài phát biểu của ông là sự khẳng định lời hứa của ông với người dân."
   },
   {
     "word": "inaugural luncheon",
@@ -125,6 +170,9 @@
     "type": "phrase",
     "def": "formal lunch celebrating the inauguration",
     "vi": "tiệc trưa nhậm chức",
-    "viDef": "bữa trưa trang trọng mừng lễ nhậm chức"
+    "viDef": "bữa trưa trang trọng mừng lễ nhậm chức",
+    "ex": "After the speech, the guests went to the inaugural luncheon at the Capitol.",
+    "exHit": "inaugural luncheon",
+    "exVi": "Sau bài phát biểu, các vị khách đến dự bữa trưa nhậm chức tại điện Capitol."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "set to work vigorously",
     "vi": "xắn tay vào",
-    "viDef": "bắt tay làm hết mình"
+    "viDef": "bắt tay làm hết mình",
+    "ex": "Thanks a lot for pitching in once again Judy, we really appreciate your help.",
+    "exHit": "pitching in",
+    "exVi": "Cảm ơn Judy rất nhiều vì lại đến giúp một tay, chúng tôi thật sự rất biết ơn."
   },
   {
     "word": "generous",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "willing to give away one's money, time, etc.",
     "vi": "rộng rãi",
-    "viDef": "sẵn lòng cho đi tiền, thời gian..."
+    "viDef": "sẵn lòng cho đi tiền, thời gian...",
+    "ex": "There aren't many professional chefs like you who are so generous with their time.",
+    "exHit": "generous",
+    "exVi": "Không có nhiều đầu bếp chuyên nghiệp như bạn lại hào phóng dành thời gian đến vậy."
   },
   {
     "word": "donate",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "give something for free to a good cause",
     "vi": "quyên tặng",
-    "viDef": "cho không vì một việc tốt"
+    "viDef": "cho không vì một việc tốt",
+    "ex": "Don't be silly Mark, I'm more than happy to donate my time to a good cause.",
+    "exHit": "donate",
+    "exVi": "Đừng ngốc thế Mark, tôi rất vui lòng dành thời gian cho một việc thiện."
   },
   {
     "word": "fall on hard times",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "be in a difficult situation",
     "vi": "lâm vào cảnh khó",
-    "viDef": "ở trong tình thế khốn khó"
+    "viDef": "ở trong tình thế khốn khó",
+    "ex": "The people who come here have fallen on hard times and a delicious hot meal can really bolster their spirits.",
+    "exHit": "fallen on hard times",
+    "exVi": "Những người đến đây đã gặp lúc khó khăn và một bữa ăn nóng ngon có thể tiếp thêm tinh thần cho họ."
   },
   {
     "word": "needy",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "people who need practical or emotional support",
     "vi": "người thiếu thốn",
-    "viDef": "những người cần được giúp về vật chất hoặc tinh thần"
+    "viDef": "những người cần được giúp về vật chất hoặc tinh thần",
+    "ex": "The needy are sure lucky to have you!",
+    "exHit": "needy",
+    "exVi": "Những người khó khăn thật may mắn khi có bạn!"
   },
   {
     "word": "hardly",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "almost not",
     "vi": "hầu như không",
-    "viDef": "gần như chẳng"
+    "viDef": "gần như chẳng",
+    "ex": "You've got no right to be here, you're hardly homeless!",
+    "exHit": "hardly",
+    "exVi": "Bạn chẳng có quyền ở đây, bạn có phải vô gia cư đâu!"
   },
   {
     "word": "generous",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "willing to give away one's money, time, etc.",
     "vi": "rộng rãi",
-    "viDef": "sẵn lòng cho đi tiền, thời gian..."
+    "viDef": "sẵn lòng cho đi tiền, thời gian...",
+    "ex": "There aren't many professional chefs like you who are so generous with their time.",
+    "exHit": "generous",
+    "exVi": "Không có nhiều đầu bếp chuyên nghiệp như bạn lại hào phóng dành thời gian đến vậy."
   },
   {
     "word": "pitch in",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "set to work vigorously",
     "vi": "xắn tay vào",
-    "viDef": "bắt tay làm hết mình"
+    "viDef": "bắt tay làm hết mình",
+    "ex": "Thanks a lot for pitching in once again Judy, we really appreciate your help.",
+    "exHit": "pitching in",
+    "exVi": "Cảm ơn Judy rất nhiều vì lại đến giúp một tay, chúng tôi thật sự rất biết ơn."
   },
   {
     "word": "Culinary",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "having to do with the preparation of food",
     "vi": "về nấu nướng",
-    "viDef": "liên quan tới việc chế biến thức ăn"
+    "viDef": "liên quan tới việc chế biến thức ăn",
+    "ex": "She studied at a culinary school in Paris.",
+    "exHit": "culinary",
+    "exVi": "Cô ấy học ở một trường ẩm thực tại Paris."
   },
   {
     "word": "Selfless",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "To be giving of ones time and abilities",
     "vi": "vị tha",
-    "viDef": "sẵn lòng cho đi thời gian và khả năng của mình"
+    "viDef": "sẵn lòng cho đi thời gian và khả năng của mình",
+    "ex": "It was a selfless act to give up her weekend.",
+    "exHit": "selfless",
+    "exVi": "Hy sinh cuối tuần của mình là một hành động vị tha."
   },
   {
     "word": "akwardness",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "to feel uncomfortable in a situation",
     "vi": "sự khó xử",
-    "viDef": "cảm giác không thoải mái trong một tình huống"
+    "viDef": "cảm giác không thoải mái trong một tình huống",
+    "ex": "I felt a lot of awkwardness when I met his old friends.",
+    "exHit": "awkwardness",
+    "exVi": "Tôi cảm thấy rất ngượng ngùng khi gặp những người bạn cũ của anh ấy."
   },
   {
     "word": "Righteous",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "to live by a high code of conduct",
     "vi": "chính trực",
-    "viDef": "sống theo chuẩn mực đạo lý cao"
+    "viDef": "sống theo chuẩn mực đạo lý cao",
+    "ex": "He is a righteous man who always does the right thing.",
+    "exHit": "righteous",
+    "exVi": "Ông ấy là người ngay thẳng, luôn làm điều đúng đắn."
   },
   {
     "word": "Harrassment",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "to persistently bother someone",
     "vi": "sự quấy rối",
-    "viDef": "việc làm phiền ai dai dẳng"
+    "viDef": "việc làm phiền ai dai dẳng",
+    "ex": "She reported the harassment to her manager.",
+    "exHit": "harassment",
+    "exVi": "Cô ấy đã báo cáo việc bị quấy rối với quản lý."
   }
 ]

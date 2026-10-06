@@ -5,7 +5,10 @@
     "type": "",
     "def": "twelve AM",
     "vi": "nửa đêm",
-    "viDef": "mười hai giờ đêm"
+    "viDef": "mười hai giờ đêm",
+    "ex": "Sure, as long as you don't try to kiss me at midnight!",
+    "exHit": "midnight",
+    "exVi": "Được thôi, miễn là bạn đừng cố hôn tôi lúc nửa đêm!"
   },
   {
     "word": "brand new",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "completely new",
     "vi": "mới cứng",
-    "viDef": "hoàn toàn mới"
+    "viDef": "hoàn toàn mới",
+    "ex": "We are about to start a brand new year!",
+    "exHit": "brand new",
+    "exVi": "Chúng ta sắp bắt đầu một năm hoàn toàn mới rồi!"
   },
   {
     "word": "accomplish",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to bring to its goal or conclusion",
     "vi": "hoàn thành",
-    "viDef": "đưa tới đích hoặc tới chỗ kết thúc"
+    "viDef": "đưa tới đích hoặc tới chỗ kết thúc",
+    "ex": "fresh start to accomplish any dreams, objectives and goals.",
+    "exHit": "accomplish",
+    "exVi": "một khởi đầu mới để thực hiện mọi ước mơ, mục tiêu và hoài bão."
   },
   {
     "word": "volunteer",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a person who performs a service willingly and without pay",
     "vi": "người tình nguyện",
-    "viDef": "người tự nguyện làm một việc mà không lấy tiền"
+    "viDef": "người tự nguyện làm một việc mà không lấy tiền",
+    "ex": "Maybe like getting together with friends I haven't seen in a long time, or doing some volunteering work.",
+    "exHit": "volunteering",
+    "exVi": "Có thể như gặp gỡ những người bạn lâu rồi chưa gặp, hoặc làm công việc tình nguyện."
   },
   {
     "word": "tradition",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "special way of doing things that is accepted by a majority",
     "vi": "truyền thống",
-    "viDef": "cách làm riêng được đa số công nhận"
+    "viDef": "cách làm riêng được đa số công nhận",
+    "ex": "Well, we can't break tradition!",
+    "exHit": "tradition",
+    "exVi": "Chà, chúng ta không thể phá vỡ truyền thống!"
   },
   {
     "word": "resolution",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a formal document stating the wishes of someone",
     "vi": "bản quyết tâm",
-    "viDef": "văn bản chính thức nêu nguyện vọng của một người"
+    "viDef": "văn bản chính thức nêu nguyện vọng của một người",
+    "ex": "Do you have a New Year's resolution?",
+    "exHit": "resolution",
+    "exVi": "Bạn có đặt ra quyết tâm nào cho năm mới không?"
   },
   {
     "word": "new year",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "1st January",
     "vi": "năm mới",
-    "viDef": "ngày 1 tháng 1"
+    "viDef": "ngày 1 tháng 1",
+    "ex": "Do you have a New Year's resolution?",
+    "exHit": "New Year",
+    "exVi": "Bạn có đặt ra quyết tâm nào cho năm mới không?"
   },
   {
     "word": "goal",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the result or achievement toward which effort is directed",
     "vi": "mục tiêu",
-    "viDef": "kết quả hoặc thành tựu mà mình dốc sức hướng tới"
+    "viDef": "kết quả hoặc thành tựu mà mình dốc sức hướng tới",
+    "ex": "fresh start to accomplish any dreams, objectives and goals.",
+    "exHit": "goals",
+    "exVi": "một khởi đầu mới để thực hiện mọi ước mơ, mục tiêu và hoài bão."
   },
   {
     "word": "evening",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the latter part of the day and early part of the night.",
     "vi": "buổi tối",
-    "viDef": "phần cuối ngày và đầu đêm"
+    "viDef": "phần cuối ngày và đầu đêm",
+    "ex": "Let's have a big dinner on New Year's evening.",
+    "exHit": "evening",
+    "exVi": "Hãy ăn một bữa tối thịnh soạn vào buổi tối đêm giao thừa nhé."
   },
   {
     "word": "promise",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a declaration that something will or will not be done",
     "vi": "lời hứa",
-    "viDef": "lời tuyên bố rằng sẽ làm hoặc sẽ không làm điều gì"
+    "viDef": "lời tuyên bố rằng sẽ làm hoặc sẽ không làm điều gì",
+    "ex": "I made a promise to myself to quit smoking this year.",
+    "exHit": "promise",
+    "exVi": "Tôi đã tự hứa với bản thân sẽ bỏ thuốc trong năm nay."
   },
   {
     "word": "fireworks",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "combustible or explosive device for producing a striking display of light or a loud noise",
     "vi": "pháo hoa",
-    "viDef": "thiết bị cháy hoặc nổ tạo ra màn ánh sáng rực rỡ hay tiếng vang lớn"
+    "viDef": "thiết bị cháy hoặc nổ tạo ra màn ánh sáng rực rỡ hay tiếng vang lớn",
+    "ex": "We watched the fireworks at midnight on New Year's Eve.",
+    "exHit": "fireworks",
+    "exVi": "Chúng tôi xem pháo hoa lúc nửa đêm vào đêm giao thừa."
   }
 ]

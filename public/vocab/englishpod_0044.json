@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "Affirmation or confirmation of something",
     "vi": "đúng thế thật",
-    "viDef": "câu xác nhận, đồng tình"
+    "viDef": "câu xác nhận, đồng tình",
+    "ex": "It sure is cold this morning, isn't it?",
+    "exHit": "It sure is",
+    "exVi": "Đúng là lạnh thật đấy, sáng nay lạnh nhỉ?"
   },
   {
     "word": "barely even",
@@ -13,7 +16,10 @@
     "type": "General Adverb",
     "def": "hardly, could almost not",
     "vi": "gần như không",
-    "viDef": "hầu như chẳng, suýt không"
+    "viDef": "hầu như chẳng, suýt không",
+    "ex": "I barely even got out of bed!",
+    "exHit": "barely even",
+    "exVi": "Tôi còn gần như không dậy nổi khỏi giường!"
   },
   {
     "word": "catch",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "hear, listen to",
     "vi": "nghe kịp, nghe rõ",
-    "viDef": "nghe được"
+    "viDef": "nghe được",
+    "ex": "Did you catch the news this morning?",
+    "exHit": "catch",
+    "exVi": "Bạn có nghe tin tức sáng nay không?"
   },
   {
     "word": "Did you happen to",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "By chance or casualty someone did something",
     "vi": "anh/chị có tình cờ...",
-    "viDef": "hỏi xem ai có vô tình làm gì không"
+    "viDef": "hỏi xem ai có vô tình làm gì không",
+    "ex": "Did you happen to watch the football game last night?",
+    "exHit": "Did you happen to",
+    "exVi": "Tối qua bạn có tình cờ xem trận bóng đá không?"
   },
   {
     "word": "By the way",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "phrased used to interject another topic in a conversation",
     "vi": "à mà này",
-    "viDef": "câu chen sang chuyện khác khi đang nói"
+    "viDef": "câu chen sang chuyện khác khi đang nói",
+    "ex": "Oh… By the way, I saw you with your daughter at the office Christmas party.",
+    "exHit": "By the way",
+    "exVi": "À… nhân tiện, tôi thấy bạn đi với con gái ở bữa tiệc Giáng sinh của công ty."
   },
   {
     "word": "take the stairs",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "go up the stairs, use the stairs",
     "vi": "đi thang bộ",
-    "viDef": "leo thang bộ, dùng thang bộ"
+    "viDef": "leo thang bộ, dùng thang bộ",
+    "ex": "That's okay, I'll take the stairs!",
+    "exHit": "take the stairs",
+    "exVi": "Không sao, tôi sẽ đi cầu thang bộ!"
   },
   {
     "word": "small talk",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "short, firendly conversation about things that are not important",
     "vi": "chuyện xã giao",
-    "viDef": "trò chuyện ngắn, thân thiện về những điều không quan trọng"
+    "viDef": "trò chuyện ngắn, thân thiện về những điều không quan trọng",
+    "ex": "I'm not good at small talk with people I just met.",
+    "exHit": "small talk",
+    "exVi": "Tôi không giỏi nói chuyện xã giao với người mới quen."
   },
   {
     "word": "chat",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "talk (informal)",
     "vi": "tán gẫu",
-    "viDef": "nói chuyện (thân mật)"
+    "viDef": "nói chuyện (thân mật)",
+    "ex": "Let's grab a coffee and chat for a while.",
+    "exHit": "chat",
+    "exVi": "Mình đi uống cà phê và trò chuyện một lát nhé."
   },
   {
     "word": "network",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "talk with people to form business connections",
     "vi": "kết nối quan hệ",
-    "viDef": "trò chuyện để tạo quan hệ làm ăn"
+    "viDef": "trò chuyện để tạo quan hệ làm ăn",
+    "ex": "I go to these parties to network with other business people.",
+    "exHit": "network",
+    "exVi": "Tôi đến những bữa tiệc này để kết nối với các doanh nhân khác."
   },
   {
     "word": "awkward",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "difficult to deal with",
     "vi": "khó xử",
-    "viDef": "khó ứng phó"
+    "viDef": "khó ứng phó",
+    "ex": "It was awkward when nobody said anything in the elevator.",
+    "exHit": "awkward",
+    "exVi": "Thật gượng gạo khi không ai nói gì trong thang máy."
   },
   {
     "word": "uncomfortable",
@@ -85,6 +115,9 @@
     "type": "Adjective",
     "def": "a feeling of being embarrassed or uneasy",
     "vi": "không thoải mái",
-    "viDef": "cảm giác ngượng hoặc bồn chồn"
+    "viDef": "cảm giác ngượng hoặc bồn chồn",
+    "ex": "I feel uncomfortable talking to strangers at parties.",
+    "exHit": "uncomfortable",
+    "exVi": "Tôi thấy không thoải mái khi nói chuyện với người lạ ở các bữa tiệc."
   }
 ]

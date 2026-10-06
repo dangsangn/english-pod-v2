@@ -5,7 +5,10 @@
     "type": "",
     "def": "future predictions based on person's birth",
     "vi": "lá số tử vi",
-    "viDef": "lời tiên đoán tương lai dựa trên ngày sinh"
+    "viDef": "lời tiên đoán tương lai dựa trên ngày sinh",
+    "ex": "I'm looking at my horoscope for this month!",
+    "exHit": "horoscope",
+    "exVi": "Mình đang xem tử vi tháng này của mình!"
   },
   {
     "word": "outlook",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "forecast; the way that a person thinks about things",
     "vi": "vận hạn, cách nhìn",
-    "viDef": "dự báo; lối một người nhìn nhận mọi việc"
+    "viDef": "dự báo; lối một người nhìn nhận mọi việc",
+    "ex": "My outlook is very positive.",
+    "exHit": "outlook",
+    "exVi": "Cái nhìn của tôi rất tích cực."
   },
   {
     "word": "fling",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "short romantic relationship, a romantic encounter",
     "vi": "cuộc tình chóng vánh",
-    "viDef": "quan hệ tình cảm ngắn, một lần gặp gỡ lãng mạn"
+    "viDef": "quan hệ tình cảm ngắn, một lần gặp gỡ lãng mạn",
+    "ex": "It says that I should take a vacation to someplace exotic, and that I will have a passionate summer fling!",
+    "exHit": "fling",
+    "exVi": "Nó nói là tôi nên đi nghỉ ở một nơi nào đó thật lạ, và tôi sẽ có một mối tình chóng vánh đầy đam mê vào mùa hè!"
   },
   {
     "word": "Aries",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the first sign of the zodiac",
     "vi": "cung Bạch Dương",
-    "viDef": "cung đầu tiên trong mười hai cung hoàng đạo"
+    "viDef": "cung đầu tiên trong mười hai cung hoàng đạo",
+    "ex": "I was born on April 15th, so I'm an Aries.",
+    "exHit": "Aries",
+    "exVi": "Tôi sinh ngày 15 tháng Tư, nên tôi là cung Bạch Dương."
   },
   {
     "word": "Capricorn",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the 10th sign of the zodiac",
     "vi": "cung Ma Kết",
-    "viDef": "cung thứ mười trong mười hai cung hoàng đạo"
+    "viDef": "cung thứ mười trong mười hai cung hoàng đạo",
+    "ex": "Let's see… you're a Capricorn.",
+    "exHit": "Capricorn",
+    "exVi": "Để xem nào… bạn là cung Ma Kết."
   },
   {
     "word": "zodiac",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "12 imaginary areas in the sky",
     "vi": "vòng hoàng đạo",
-    "viDef": "mười hai vùng tưởng tượng trên trời"
+    "viDef": "mười hai vùng tưởng tượng trên trời",
+    "ex": "This zodiac stuff is all a bunch of nonsense.",
+    "exHit": "zodiac",
+    "exVi": "Mấy chuyện cung hoàng đạo này toàn là vớ vẩn."
   },
   {
     "word": "astrology",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the study of how the positions of the stars affect our being",
     "vi": "chiêm tinh học",
-    "viDef": "ngành nghiên cứu ảnh hưởng của vị trí các ngôi sao lên con người"
+    "viDef": "ngành nghiên cứu ảnh hưởng của vị trí các ngôi sao lên con người",
+    "ex": "No it's not, your astrology sign can tell you a lot about your personality.",
+    "exHit": "astrology",
+    "exVi": "Không phải đâu, cung chiêm tinh của bạn có thể nói lên rất nhiều về tính cách của bạn."
   },
   {
     "word": "Psychic",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a person who professes an ability to perceive information hidden from the normal senses through extrasensory perception",
     "vi": "nhà ngoại cảm",
-    "viDef": "người tự nhận có khả năng biết những điều mà cảm quan thường không thấy được"
+    "viDef": "người tự nhận có khả năng biết những điều mà cảm quan thường không thấy được",
+    "ex": "The psychic said that she could sense what was going to happen.",
+    "exHit": "psychic",
+    "exVi": "Nhà ngoại cảm nói rằng bà ấy cảm nhận được chuyện sắp xảy ra."
   },
   {
     "word": "Tarot",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Any of a set of cards depicting vices, virtues, and elemental forces, used in fortunetelling.",
     "vi": "bộ Tarot",
-    "viDef": "bộ lá vẽ các thói tật, đức tính và các lực nguyên tố, dùng để đoán vận"
+    "viDef": "bộ lá vẽ các thói tật, đức tính và các lực nguyên tố, dùng để đoán vận",
+    "ex": "She spread the tarot cards on the table and began to read my future.",
+    "exHit": "tarot",
+    "exVi": "Cô ấy xòe các lá bài tarot ra bàn và bắt đầu đoán tương lai cho tôi."
   },
   {
     "word": "Fortune Teller",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A person that is able to predict your future by reading cards or your hands",
     "vi": "người xem quẻ",
-    "viDef": "người đoán được tương lai của bạn qua lá bài hoặc bàn tay"
+    "viDef": "người đoán được tương lai của bạn qua lá bài hoặc bàn tay",
+    "ex": "The fortune teller looked at my palm and said I would travel soon.",
+    "exHit": "fortune teller",
+    "exVi": "Bà thầy bói nhìn vào lòng bàn tay tôi và nói tôi sẽ sớm đi xa."
   },
   {
     "word": "Voodoo",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a religious tradition originating in West Africa, also called black magic",
     "vi": "tín ngưỡng Voodoo",
-    "viDef": "một truyền thống tôn giáo khởi từ Tây Phi, còn gọi là ma thuật đen"
+    "viDef": "một truyền thống tôn giáo khởi từ Tây Phi, còn gọi là ma thuật đen",
+    "ex": "The movie is about a village where people believe in voodoo.",
+    "exHit": "voodoo",
+    "exVi": "Bộ phim kể về một ngôi làng nơi người ta tin vào bùa ngải voodoo."
   },
   {
     "word": "Oracle",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "a person or agency considered to be a source of wise counsel or prophetic opinion",
     "vi": "bậc tiên tri",
-    "viDef": "người hoặc nơi được xem là nguồn lời khuyên minh triết hay lời tiên báo"
+    "viDef": "người hoặc nơi được xem là nguồn lời khuyên minh triết hay lời tiên báo",
+    "ex": "The villagers see the old man as an oracle and always ask his advice.",
+    "exHit": "oracle",
+    "exVi": "Người dân trong làng xem ông cụ như một nhà tiên tri và luôn hỏi ý kiến ông."
   }
 ]

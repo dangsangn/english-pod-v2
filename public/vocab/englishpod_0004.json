@@ -5,7 +5,10 @@
     "type": "common noun, plural",
     "def": "money",
     "vi": "nguồn lực, kinh phí",
-    "viDef": "tiền"
+    "viDef": "tiền",
+    "ex": "like I told you before, we just don't have the resources to hire you an assistant.",
+    "exHit": "resources",
+    "exVi": "Như tôi đã nói trước đó, chúng tôi đơn giản là không đủ kinh phí để thuê trợ lý cho bạn."
   },
   {
     "word": "understaffed",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "not enough people to do the job",
     "vi": "thiếu nhân sự",
-    "viDef": "không đủ người để làm việc"
+    "viDef": "không đủ người để làm việc",
+    "ex": "I understand that, but the fact is we're understaffed.",
+    "exHit": "understaffed",
+    "exVi": "Tôi hiểu, nhưng sự thật là chúng ta đang thiếu người."
   },
   {
     "word": "the timing is just not right",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "it is not a good time now",
     "vi": "thời điểm chưa phù hợp",
-    "viDef": "bây giờ không phải lúc thích hợp"
+    "viDef": "bây giờ không phải lúc thích hợp",
+    "ex": "The timing is just not right.",
+    "exHit": "The timing is just not right",
+    "exVi": "Thời điểm này đơn giản là không thích hợp."
   },
   {
     "word": "weight off my shoulders",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "remove pressure or stress",
     "vi": "trút được gánh nặng",
-    "viDef": "gỡ bỏ áp lực hoặc căng thẳng"
+    "viDef": "gỡ bỏ áp lực hoặc căng thẳng",
+    "ex": "She would take some of the weight off my shoulders.",
+    "exHit": "weight off my shoulders",
+    "exVi": "Cô ấy sẽ gánh bớt cho tôi một phần áp lực."
   },
   {
     "word": "give me a hand",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "help",
     "vi": "giúp tôi một tay",
-    "viDef": "giúp đỡ"
+    "viDef": "giúp đỡ",
+    "ex": "She could give me a hand with some of these projects and we could keep our costs down.",
+    "exHit": "give me a hand",
+    "exVi": "Cô ấy có thể giúp tôi một tay với vài dự án này và chúng ta vẫn giữ được chi phí thấp."
   },
   {
     "word": "that sounds reasonable",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "is OK",
     "vi": "nghe hợp lý đấy",
-    "viDef": "được, chấp nhận được"
+    "viDef": "được, chấp nhận được",
+    "ex": "That sounds reasonable...",
+    "exHit": "That sounds reasonable",
+    "exVi": "Nghe cũng hợp lý đấy..."
   },
   {
     "word": "recruit",
@@ -53,7 +71,10 @@
     "type": "principle verb, infinitive",
     "def": "hire",
     "vi": "tuyển dụng",
-    "viDef": "thuê người"
+    "viDef": "thuê người",
+    "ex": "We plan to recruit two new designers before the end of the year.",
+    "exHit": "recruit",
+    "exVi": "Chúng tôi dự định tuyển hai nhà thiết kế mới trước cuối năm."
   },
   {
     "word": "overworked",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "working too much",
     "vi": "làm việc quá sức",
-    "viDef": "làm việc quá nhiều"
+    "viDef": "làm việc quá nhiều",
+    "ex": "Everyone in my office is overworked, and nobody takes a real break.",
+    "exHit": "overworked",
+    "exVi": "Ai trong văn phòng của tôi cũng làm việc quá sức, chẳng ai được nghỉ ngơi thật sự."
   },
   {
     "word": "short staffed",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "not enough people to do the job",
     "vi": "thiếu người",
-    "viDef": "không đủ nhân lực để làm việc"
+    "viDef": "không đủ nhân lực để làm việc",
+    "ex": "We're short staffed this week, so I can't take any time off.",
+    "exHit": "short staffed",
+    "exVi": "Tuần này chúng tôi thiếu người nên tôi không thể xin nghỉ được."
   },
   {
     "word": "cut costs",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "reduce spending",
     "vi": "cắt giảm chi phí",
-    "viDef": "giảm chi tiêu"
+    "viDef": "giảm chi tiêu",
+    "ex": "The boss wants us to cut costs, so no more free lunches.",
+    "exHit": "cut costs",
+    "exVi": "Sếp muốn chúng ta cắt giảm chi phí, nên không còn bữa trưa miễn phí nữa."
   },
   {
     "word": "overstaffed",
@@ -85,6 +115,9 @@
     "type": "Adjective",
     "def": "having too many employees",
     "vi": "thừa nhân sự",
-    "viDef": "có quá nhiều nhân viên"
+    "viDef": "có quá nhiều nhân viên",
+    "ex": "Our department is overstaffed, so nobody has enough work to do.",
+    "exHit": "overstaffed",
+    "exVi": "Phòng của chúng tôi dư người nên chẳng ai có đủ việc để làm."
   }
 ]

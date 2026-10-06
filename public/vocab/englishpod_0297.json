@@ -5,7 +5,10 @@
     "type": "",
     "def": "a waiter or waitress",
     "vi": "người phục vụ",
-    "viDef": "nhân viên chạy bàn nam hoặc nữ"
+    "viDef": "nhân viên chạy bàn nam hoặc nữ",
+    "ex": "My name is Josh and I'll be your server tonight.",
+    "exHit": "server",
+    "exVi": "Tên tôi là Josh và tối nay tôi sẽ phục vụ quý khách."
   },
   {
     "word": "recommendation",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a suggestion or proposal",
     "vi": "lời gợi ý",
-    "viDef": "một đề xuất hoặc lời khuyên chọn"
+    "viDef": "một đề xuất hoặc lời khuyên chọn",
+    "ex": "Do you have any recommendations?",
+    "exHit": "recommendations",
+    "exVi": "Bạn có gợi ý món nào không?"
   },
   {
     "word": "prawn",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a large shrimp",
     "vi": "con tôm lớn",
-    "viDef": "loại tôm to"
+    "viDef": "loại tôm to",
+    "ex": "Well, I personally like the chicken penne with cream mushroom sauce, but the prawn fettuccine is also very nice.",
+    "exHit": "prawn",
+    "exVi": "Cá nhân tôi thích mì penne gà sốt kem nấm, nhưng mì fettuccine tôm cũng rất ngon."
   },
   {
     "word": "fettuccine",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "pasta in the shape of long narrow strips",
     "vi": "mì fettuccine",
-    "viDef": "mì Ý hình dải dài và hẹp"
+    "viDef": "mì Ý hình dải dài và hẹp",
+    "ex": "Well, I personally like the chicken penne with cream mushroom sauce, but the prawn fettuccine is also very nice.",
+    "exHit": "fettuccine",
+    "exVi": "Cá nhân tôi thích mì penne gà sốt kem nấm, nhưng mì fettuccine tôm cũng rất ngon."
   },
   {
     "word": "spaghetti",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "pasta dish originally from Italy",
     "vi": "mì spaghetti",
-    "viDef": "món mì có gốc từ nước Ý"
+    "viDef": "món mì có gốc từ nước Ý",
+    "ex": "I'd like to have the grilled chicken, but can I have spaghetti instead of penne?",
+    "exHit": "spaghetti",
+    "exVi": "Tôi muốn món gà nướng, nhưng có thể đổi sang mì spaghetti thay vì penne được không?"
   },
   {
     "word": "penne",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a type of Italian pasta",
     "vi": "mì penne",
-    "viDef": "một loại mì ống của Ý"
+    "viDef": "một loại mì ống của Ý",
+    "ex": "I'd like to have the grilled chicken, but can I have spaghetti instead of penne?",
+    "exHit": "penne",
+    "exVi": "Tôi muốn món gà nướng, nhưng có thể đổi sang mì spaghetti thay vì penne được không?"
   },
   {
     "word": "horse tripe",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the stomach of a horse used as food",
     "vi": "dạ dày ngựa",
-    "viDef": "bao tử ngựa dùng làm thức ăn"
+    "viDef": "bao tử ngựa dùng làm thức ăn",
+    "ex": "I'll have the horse tripe.",
+    "exHit": "horse tripe",
+    "exVi": "Tôi sẽ gọi món dạ dày ngựa."
   },
   {
     "word": "parmesan",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a type of cheese, usually goes with spaghetti",
     "vi": "phô mai parmesan",
-    "viDef": "loại phô mai thường ăn kèm mì spaghetti"
+    "viDef": "loại phô mai thường ăn kèm mì spaghetti",
+    "ex": "Would you like some parmesan on your spaghetti?",
+    "exHit": "parmesan",
+    "exVi": "Bạn có muốn thêm phô mai parmesan lên mì spaghetti không?"
   },
   {
     "word": "pizza",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "an Italian dish, round in shape",
     "vi": "bánh pizza",
-    "viDef": "món Ý có dạng tròn"
+    "viDef": "món Ý có dạng tròn",
+    "ex": "Let's order a large pizza and watch the game.",
+    "exHit": "pizza",
+    "exVi": "Mình gọi một chiếc pizza lớn rồi xem trận đấu nhé."
   },
   {
     "word": "calzone",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a turnover made of pizza dough, usually containing cheese",
     "vi": "bánh calzone",
-    "viDef": "bánh gấp làm từ bột pizza, thường có phô mai bên trong"
+    "viDef": "bánh gấp làm từ bột pizza, thường có phô mai bên trong",
+    "ex": "I'll have a calzone with ham and cheese, please.",
+    "exHit": "calzone",
+    "exVi": "Cho tôi một chiếc calzone nhân giăm bông và phô mai."
   },
   {
     "word": "ricotta",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "a soft Italian cheese that resembles cottage cheese.",
     "vi": "phô mai ricotta",
-    "viDef": "loại phô mai Ý mềm, gần giống phô mai tươi vụn"
+    "viDef": "loại phô mai Ý mềm, gần giống phô mai tươi vụn",
+    "ex": "This pasta is filled with spinach and ricotta.",
+    "exHit": "ricotta",
+    "exVi": "Món mì ống này được nhồi rau bina và phô mai ricotta."
   }
 ]

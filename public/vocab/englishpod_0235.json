@@ -5,7 +5,10 @@
     "type": "",
     "def": "drinks",
     "vi": "đồ uống nhẹ",
-    "viDef": "các thứ nước uống"
+    "viDef": "các thứ nước uống",
+    "ex": "Now would you like any refreshments?",
+    "exHit": "refreshments",
+    "exVi": "Giờ bạn có muốn dùng đồ uống nhẹ nào không?"
   },
   {
     "word": "interview",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a meeting at which people talk to each other",
     "vi": "buổi phỏng vấn",
-    "viDef": "cuộc gặp để hai bên nói chuyện với nhau"
+    "viDef": "cuộc gặp để hai bên nói chuyện với nhau",
+    "ex": "So Rebecca, I understand you had a first interview with Miss Childs last week.",
+    "exHit": "interview",
+    "exVi": "Vậy Rebecca, tôi biết là bạn đã có buổi phỏng vấn đầu tiên với cô Childs vào tuần trước."
   },
   {
     "word": "resume",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a short document describing your education, work h",
     "vi": "bản lý lịch",
-    "viDef": "văn bản ngắn ghi học vấn và quá trình làm việc"
+    "viDef": "văn bản ngắn ghi học vấn và quá trình làm việc",
+    "ex": "Perhaps we can start by discussing your background and resume details a little?",
+    "exHit": "resume",
+    "exVi": "Có lẽ chúng ta có thể bắt đầu bằng việc trao đổi một chút về nền tảng và chi tiết trong hồ sơ của bạn?"
   },
   {
     "word": "recommend",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "suggest",
     "vi": "giới thiệu",
-    "viDef": "đề xuất"
+    "viDef": "đề xuất",
+    "ex": "Well, I'm glad to say she recommended you for a 2nd interview, and here we are.",
+    "exHit": "recommended",
+    "exVi": "À, tôi vui mừng nói rằng cô ấy đã giới thiệu bạn vào vòng phỏng vấn thứ hai, và chúng ta ở đây."
   },
   {
     "word": "background",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the experiences, knowledge, education of a person",
     "vi": "nền tảng bản thân",
-    "viDef": "kinh nghiệm, kiến thức và học vấn của một người"
+    "viDef": "kinh nghiệm, kiến thức và học vấn của một người",
+    "ex": "Perhaps we can start by discussing your background and resume details a little?",
+    "exHit": "background",
+    "exVi": "Có lẽ chúng ta có thể bắt đầu bằng việc trao đổi một chút về nền tảng và chi tiết trong hồ sơ của bạn?"
   },
   {
     "word": "make some time",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "manage to find to time",
     "vi": "dành ít thời gian",
-    "viDef": "thu xếp được thời gian"
+    "viDef": "thu xếp được thời gian",
+    "ex": "Thank you for making some time to see me Mr Parsons.",
+    "exHit": "making some time",
+    "exVi": "Cảm ơn ông Parsons đã dành thời gian gặp tôi."
   },
   {
     "word": "It's a pleasure to",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "It's happy to",
     "vi": "rất vui được",
-    "viDef": "thật hân hạnh khi"
+    "viDef": "thật hân hạnh khi",
+    "ex": "It's a pleasure to meet you finally.",
+    "exHit": "It's a pleasure to",
+    "exVi": "Rất hân hạnh cuối cùng cũng được gặp bạn."
   },
   {
     "word": "fill me in",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "give me more information",
     "vi": "kể tôi nghe với",
-    "viDef": "cho tôi biết thêm thông tin"
+    "viDef": "cho tôi biết thêm thông tin",
+    "ex": "Okay, now you really have to fill me in.",
+    "exHit": "fill me in",
+    "exVi": "Được rồi, giờ bạn phải kể cho mình nghe đầy đủ đi."
   },
   {
     "word": "introduction",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "formally introducing yourself to someone",
     "vi": "phần giới thiệu",
-    "viDef": "việc tự giới thiệu mình một cách chính thức"
+    "viDef": "việc tự giới thiệu mình một cách chính thức",
+    "ex": "At the interview, she gave a short introduction about her work experience.",
+    "exHit": "introduction",
+    "exVi": "Trong buổi phỏng vấn, cô ấy giới thiệu ngắn gọn về kinh nghiệm làm việc của mình."
   },
   {
     "word": "business attire",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "formal business clothes (usually a suit and tie)",
     "vi": "trang phục công sở",
-    "viDef": "đồ trang trọng đi làm, thường là áo vest và cà vạt"
+    "viDef": "đồ trang trọng đi làm, thường là áo vest và cà vạt",
+    "ex": "You should wear business attire to the interview, like a suit and tie.",
+    "exHit": "business attire",
+    "exVi": "Bạn nên mặc trang phục công sở đến buổi phỏng vấn, như vest và cà vạt."
   },
   {
     "word": "interveiwer",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "the person giving the interview",
     "vi": "người phỏng vấn",
-    "viDef": "người tiến hành buổi phỏng vấn"
+    "viDef": "người tiến hành buổi phỏng vấn",
+    "ex": "The interviewer smiled and asked me to tell her about myself.",
+    "exHit": "interviewer",
+    "exVi": "Người phỏng vấn mỉm cười và bảo tôi kể về bản thân."
   },
   {
     "word": "interviewee",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "the person being interviewed",
     "vi": "người được phỏng vấn",
-    "viDef": "người ngồi trả lời phỏng vấn"
+    "viDef": "người ngồi trả lời phỏng vấn",
+    "ex": "The interviewee was nervous, but she answered every question very clearly.",
+    "exHit": "interviewee",
+    "exVi": "Người được phỏng vấn rất hồi hộp nhưng cô ấy trả lời rõ ràng mọi câu hỏi."
   },
   {
     "word": "human resource department",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "the department in charge of hiring new employees",
     "vi": "phòng nhân sự",
-    "viDef": "bộ phận phụ trách tuyển người mới"
+    "viDef": "bộ phận phụ trách tuyển người mới",
+    "ex": "The human resource department will call you if you get the job.",
+    "exHit": "human resource department",
+    "exVi": "Phòng nhân sự sẽ gọi cho bạn nếu bạn trúng tuyển."
   }
 ]

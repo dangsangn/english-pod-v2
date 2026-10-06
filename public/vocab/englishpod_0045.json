@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "dating or going out with someone",
     "vi": "đang hẹn hò",
-    "viDef": "đang qua lại với ai"
+    "viDef": "đang qua lại với ai",
+    "ex": "You don't think he's seeing someone else, do you?",
+    "exHit": "seeing someone",
+    "exVi": "Bạn không nghĩ anh ấy đang hẹn hò với người khác chứ?"
   },
   {
     "word": "cheat on (someone)",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "having a romantic relationship with someone else",
     "vi": "cắm sừng, ngoại tình",
-    "viDef": "có quan hệ tình cảm với người khác"
+    "viDef": "có quan hệ tình cảm với người khác",
+    "ex": "I'm sure he's cheating on me!",
+    "exHit": "cheating on",
+    "exVi": "Tôi chắc chắn anh ấy đang lừa dối tôi!"
   },
   {
     "word": "on a break",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "a relationship that is temporarily on hold",
     "vi": "đang tạm xa nhau",
-    "viDef": "quan hệ tạm gác lại một thời gian"
+    "viDef": "quan hệ tạm gác lại một thời gian",
+    "ex": "But, you two are on a break.",
+    "exHit": "on a break",
+    "exVi": "Nhưng hai người đang tạm nghỉ mà."
   },
   {
     "word": "pull yourself together",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "calm down, relax, organize your thoughts",
     "vi": "bình tĩnh lại",
-    "viDef": "hãy dịu xuống, sắp xếp lại suy nghĩ"
+    "viDef": "hãy dịu xuống, sắp xếp lại suy nghĩ",
+    "ex": "Pull yourself together.",
+    "exHit": "Pull yourself together",
+    "exVi": "Bình tĩnh lại đi."
   },
   {
     "word": "immature",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "acting in a childish way",
     "vi": "trẻ con, non nớt",
-    "viDef": "cư xử như đứa trẻ"
+    "viDef": "cư xử như đứa trẻ",
+    "ex": "I can't believe how immature and selfish I was being.",
+    "exHit": "immature",
+    "exVi": "Tôi không tin nổi mình đã trẻ con và ích kỷ đến thế."
   },
   {
     "word": "selfish",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "having or showing concern only for yourself and not for the needs or feelings of other people",
     "vi": "ích kỷ",
-    "viDef": "chỉ nghĩ cho mình, không đếm xỉa nhu cầu hay cảm xúc người khác"
+    "viDef": "chỉ nghĩ cho mình, không đếm xỉa nhu cầu hay cảm xúc người khác",
+    "ex": "I can't believe how immature and selfish I was being.",
+    "exHit": "selfish",
+    "exVi": "Tôi không tin nổi mình đã trẻ con và ích kỷ đến thế."
   },
   {
     "word": "ruin",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "damage, destroy something",
     "vi": "phá hỏng",
-    "viDef": "làm hư, làm tan nát"
+    "viDef": "làm hư, làm tan nát",
+    "ex": "I've ruined everything....",
+    "exHit": "ruined",
+    "exVi": "Tôi đã phá hỏng mọi thứ rồi..."
   },
   {
     "word": "break up",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "end a relationship",
     "vi": "chia tay",
-    "viDef": "kết thúc một mối quan hệ"
+    "viDef": "kết thúc một mối quan hệ",
+    "ex": "They decided to break up after dating for two years.",
+    "exHit": "break up",
+    "exVi": "Họ quyết định chia tay sau hai năm hẹn hò."
   },
   {
     "word": "dump (someone)",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "end a relationship when the other person does not want to (informal)",
     "vi": "bỏ rơi, đá",
-    "viDef": "chấm dứt quan hệ dù bên kia không muốn (thân mật)"
+    "viDef": "chấm dứt quan hệ dù bên kia không muốn (thân mật)",
+    "ex": "She dumped her boyfriend by text message, which was cruel.",
+    "exHit": "dumped",
+    "exVi": "Cô ấy đá bạn trai bằng một tin nhắn, thật là tàn nhẫn."
   },
   {
     "word": "partner",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "serious, long-term boyfriend of girlfriend",
     "vi": "người bạn đời",
-    "viDef": "người yêu lâu dài, nghiêm túc"
+    "viDef": "người yêu lâu dài, nghiêm túc",
+    "ex": "My partner and I have been together for five years.",
+    "exHit": "partner",
+    "exVi": "Tôi và người yêu đã bên nhau được năm năm."
   },
   {
     "word": "ex",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "former boyfriend, girlfriend, husband, or wife (informal)",
     "vi": "người cũ",
-    "viDef": "bạn trai, bạn gái, vợ hoặc chồng trước đây (thân mật)"
+    "viDef": "bạn trai, bạn gái, vợ hoặc chồng trước đây (thân mật)",
+    "ex": "I saw my ex at the supermarket and felt so awkward.",
+    "exHit": "ex",
+    "exVi": "Tôi gặp người yêu cũ ở siêu thị và cảm thấy rất ngượng."
   },
   {
     "word": "love life",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "romantic social life",
     "vi": "chuyện tình cảm",
-    "viDef": "đời sống yêu đương"
+    "viDef": "đời sống yêu đương",
+    "ex": "My love life is a mess right now, honestly.",
+    "exHit": "love life",
+    "exVi": "Nói thật là chuyện tình cảm của tôi bây giờ rối tung lên."
   },
   {
     "word": "it's not the end of the world",
@@ -101,6 +137,9 @@
     "type": "phrase",
     "def": "don't worry, it is not so serious",
     "vi": "chưa đến mức tận thế",
-    "viDef": "đừng lo, chuyện không nghiêm trọng vậy"
+    "viDef": "đừng lo, chuyện không nghiêm trọng vậy",
+    "ex": "Don't cry, it's not the end of the world.",
+    "exHit": "it's not the end of the world",
+    "exVi": "Đừng khóc, đâu phải tận thế đâu."
   }
 ]

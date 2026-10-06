@@ -5,7 +5,10 @@
     "type": "",
     "def": "ignorant",
     "vi": "non nớt, dễ tin",
-    "viDef": "thiếu hiểu biết"
+    "viDef": "thiếu hiểu biết",
+    "ex": "It says that I am a little superstitious and occasionally naive!",
+    "exHit": "naive",
+    "exVi": "Nó nói tôi hơi mê tín và đôi khi ngây thơ!"
   },
   {
     "word": "reckless",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "having or showing no regard for danger",
     "vi": "bất cẩn, liều",
-    "viDef": "không để ý gì đến hiểm nguy"
+    "viDef": "không để ý gì đến hiểm nguy",
+    "ex": "It also says that I am open-minded with great ambition but that I can also be reckless and clumsy.",
+    "exHit": "reckless",
+    "exVi": "Nó cũng nói tôi cởi mở, đầy tham vọng nhưng cũng có thể liều lĩnh và vụng về."
   },
   {
     "word": "clumsy",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "be careless;lack in skill or physical coordinate",
     "vi": "lóng ngóng",
-    "viDef": "cẩu thả, thiếu kỹ năng hoặc phối hợp kém"
+    "viDef": "cẩu thả, thiếu kỹ năng hoặc phối hợp kém",
+    "ex": "It also says that I am open-minded with great ambition but that I can also be reckless and clumsy.",
+    "exHit": "clumsy",
+    "exVi": "Nó cũng nói tôi cởi mở, đầy tham vọng nhưng cũng có thể liều lĩnh và vụng về."
   },
   {
     "word": "open-minded",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "easy to entertain new ideas",
     "vi": "cởi mở",
-    "viDef": "dễ tiếp nhận ý mới"
+    "viDef": "dễ tiếp nhận ý mới",
+    "ex": "I'm open-minded, so I'm happy to hear your ideas.",
+    "exHit": "open-minded",
+    "exVi": "Tôi là người cởi mở nên rất vui lòng nghe ý kiến của bạn."
   },
   {
     "word": "settle down",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "be quiet",
     "vi": "ngồi yên",
-    "viDef": "trở nên im lặng"
+    "viDef": "trở nên im lặng",
+    "ex": "OK class, settle down.",
+    "exHit": "settle down",
+    "exVi": "Được rồi cả lớp, trật tự nào."
   },
   {
     "word": "superstitious",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "showing faith in magic or chance ignorant of laws",
     "vi": "tin dị đoan",
-    "viDef": "tin vào phép lạ hoặc may rủi, không theo quy luật"
+    "viDef": "tin vào phép lạ hoặc may rủi, không theo quy luật",
+    "ex": "It says that I am a little superstitious and occasionally naive!",
+    "exHit": "superstitious",
+    "exVi": "Nó nói tôi hơi mê tín và đôi khi ngây thơ!"
   },
   {
     "word": "extrovert",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a person concerned more with practical realities",
     "vi": "người hướng ngoại",
-    "viDef": "người thiên về những gì thực tế bên ngoài"
+    "viDef": "người thiên về những gì thực tế bên ngoài",
+    "ex": "She's an extrovert who loves meeting new people.",
+    "exHit": "extrovert",
+    "exVi": "Cô ấy là người hướng ngoại, thích gặp gỡ người mới."
   },
   {
     "word": "eloquent",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "express yourself clearly and effectively",
     "vi": "hùng biện",
-    "viDef": "diễn đạt rõ ràng và hiệu quả"
+    "viDef": "diễn đạt rõ ràng và hiệu quả",
+    "ex": "It also says that I am magnanimous, eloquent and daring!",
+    "exHit": "eloquent",
+    "exVi": "Nó cũng nói tôi hào hiệp, ăn nói lưu loát và dám nghĩ dám làm!"
   },
   {
     "word": "Bologna",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a term used to express disagreement",
     "vi": "nói nhảm",
-    "viDef": "từ dùng để tỏ ý không đồng tình"
+    "viDef": "từ dùng để tỏ ý không đồng tình",
+    "ex": "Pfft whatever, these tests are bologna!",
+    "exHit": "bologna",
+    "exVi": "Hứ, kệ đi, mấy bài kiểm tra này nhảm nhí!"
   },
   {
     "word": "easy going",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "someone who is easy to get a long with",
     "vi": "dễ tính",
-    "viDef": "người dễ hòa hợp"
+    "viDef": "người dễ hòa hợp",
+    "ex": "My roommate is easy going, so we never fight.",
+    "exHit": "easy going",
+    "exVi": "Bạn cùng phòng của tôi dễ tính nên chúng tôi không bao giờ cãi nhau."
   },
   {
     "word": "Active",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "to be full of energy",
     "vi": "năng động",
-    "viDef": "tràn đầy năng lượng"
+    "viDef": "tràn đầy năng lượng",
+    "ex": "My son is very active and never sits still.",
+    "exHit": "active",
+    "exVi": "Con trai tôi rất năng động và không bao giờ ngồi yên."
   },
   {
     "word": "thrill seeker",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a person who enjoys being daring",
     "vi": "người thích cảm giác mạnh",
-    "viDef": "người ưa những chuyện gan dạ"
+    "viDef": "người ưa những chuyện gan dạ",
+    "ex": "Jake is a thrill seeker who loves skydiving.",
+    "exHit": "thrill seeker",
+    "exVi": "Jake là người thích cảm giác mạnh và mê nhảy dù."
   },
   {
     "word": "unsatisfied",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "to want more",
     "vi": "chưa thỏa",
-    "viDef": "còn muốn thêm"
+    "viDef": "còn muốn thêm",
+    "ex": "He felt unsatisfied with his job and wanted a change.",
+    "exHit": "unsatisfied",
+    "exVi": "Anh ấy cảm thấy không hài lòng với công việc và muốn thay đổi."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "and advertisement or advert",
     "vi": "mẩu quảng cáo",
-    "viDef": "một quảng cáo"
+    "viDef": "một quảng cáo",
+    "ex": "Can you help me write a newspaper ad?",
+    "exHit": "ad",
+    "exVi": "Bạn giúp mình viết một mẩu quảng cáo đăng báo được không?"
   },
   {
     "word": "hire",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to give work",
     "vi": "thuê người",
-    "viDef": "giao việc cho ai"
+    "viDef": "giao việc cho ai",
+    "ex": "Maybe you should hire a nanny to help you out!",
+    "exHit": "hire",
+    "exVi": "Có lẽ bạn nên thuê một người giữ trẻ để đỡ đần!"
   },
   {
     "word": "maid",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a female who's job is to clean and cook",
     "vi": "người giúp việc",
-    "viDef": "người nữ làm công việc dọn dẹp và nấu ăn"
+    "viDef": "người nữ làm công việc dọn dẹp và nấu ăn",
+    "ex": "Oh, you want to get a maid?",
+    "exHit": "maid",
+    "exVi": "Ồ, bạn muốn thuê một người giúp việc à?"
   },
   {
     "word": "cleaning lady",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a person that is hired to clean, a maid",
     "vi": "chị lao công",
-    "viDef": "người được thuê để dọn dẹp, tức người giúp việc"
+    "viDef": "người được thuê để dọn dẹp, tức người giúp việc",
+    "ex": "Well, I think it's better if you call her a cleaning lady or domestic help.",
+    "exHit": "cleaning lady",
+    "exVi": "Mình nghĩ tốt hơn là bạn nên gọi cô ấy là người dọn dẹp hoặc người giúp việc gia đình."
   },
   {
     "word": "domestic help",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a servant who is paid to perform tasks around the",
     "vi": "người giúp việc nhà",
-    "viDef": "người làm công được trả tiền để lo các việc trong nhà"
+    "viDef": "người làm công được trả tiền để lo các việc trong nhà",
+    "ex": "Well, I think it's better if you call her a cleaning lady or domestic help.",
+    "exHit": "domestic help",
+    "exVi": "Mình nghĩ tốt hơn là bạn nên gọi cô ấy là người dọn dẹp hoặc người giúp việc gia đình."
   },
   {
     "word": "hourly",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "per hour",
     "vi": "theo giờ",
-    "viDef": "tính mỗi giờ"
+    "viDef": "tính mỗi giờ",
+    "ex": "I would pay her hourly, I don't know what the going rate is though.",
+    "exHit": "hourly",
+    "exVi": "Mình sẽ trả lương cho cô ấy theo giờ, nhưng mình không biết mức giá hiện hành là bao nhiêu."
   },
   {
     "word": "going rate",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the current price or fee of something",
     "vi": "giá thị trường",
-    "viDef": "mức giá hoặc phí hiện hành của một thứ"
+    "viDef": "mức giá hoặc phí hiện hành của một thứ",
+    "ex": "I would pay her hourly, I don't know what the going rate is though.",
+    "exHit": "going rate",
+    "exVi": "Mình sẽ trả lương cho cô ấy theo giờ, nhưng mình không biết mức giá hiện hành là bao nhiêu."
   },
   {
     "word": "negotiate",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "discuss and reach a mutual deal",
     "vi": "thương lượng",
-    "viDef": "bàn bạc và đi đến thỏa thuận chung"
+    "viDef": "bàn bạc và đi đến thỏa thuận chung",
+    "ex": "I know for sure it's more than minimum wage but maybe you should just negotiate with the person that answers the ad.",
+    "exHit": "negotiate",
+    "exVi": "Mình biết chắc là nó cao hơn mức lương tối thiểu, nhưng có lẽ bạn nên thương lượng với người trả lời quảng cáo."
   },
   {
     "word": "minimum wage",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the lowest legal salary a person can earn",
     "vi": "lương tối thiểu",
-    "viDef": "mức lương thấp nhất theo luật mà một người được nhận"
+    "viDef": "mức lương thấp nhất theo luật mà một người được nhận",
+    "ex": "I know for sure it's more than minimum wage but maybe you should just negotiate with the person that answers the ad.",
+    "exHit": "minimum wage",
+    "exVi": "Mình biết chắc là nó cao hơn mức lương tối thiểu, nhưng có lẽ bạn nên thương lượng với người trả lời quảng cáo."
   },
   {
     "word": "servant",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "One who is privately employed to perform domestic services.",
     "vi": "người hầu",
-    "viDef": "người được thuê riêng để làm các việc trong nhà"
+    "viDef": "người được thuê riêng để làm các việc trong nhà",
+    "ex": "In the old movie, the servant opened the door for every guest.",
+    "exHit": "servant",
+    "exVi": "Trong bộ phim cũ, người hầu mở cửa cho từng vị khách."
   },
   {
     "word": "cook",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "A person who prepares food for eating.",
     "vi": "người nấu bếp",
-    "viDef": "người chuẩn bị đồ ăn"
+    "viDef": "người chuẩn bị đồ ăn",
+    "ex": "My dad is the cook in our house and he makes great soup.",
+    "exHit": "cook",
+    "exVi": "Bố tôi là người nấu ăn trong nhà và ông nấu súp rất ngon."
   },
   {
     "word": "gardener",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "One who works in or tends a garden for pleasure or hire.",
     "vi": "người làm vườn",
-    "viDef": "người làm hoặc chăm vườn vì thích hoặc vì được thuê"
+    "viDef": "người làm hoặc chăm vườn vì thích hoặc vì được thuê",
+    "ex": "Our gardener comes every Saturday to cut the grass.",
+    "exHit": "gardener",
+    "exVi": "Người làm vườn của chúng tôi đến vào mỗi thứ Bảy để cắt cỏ."
   },
   {
     "word": "plumber",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "One that installs and repairs pipes and plumbing.",
     "vi": "thợ ống nước",
-    "viDef": "người lắp và sửa ống nước cùng hệ cấp thoát nước"
+    "viDef": "người lắp và sửa ống nước cùng hệ cấp thoát nước",
+    "ex": "Please call a plumber, the kitchen sink is leaking again.",
+    "exHit": "plumber",
+    "exVi": "Làm ơn gọi thợ sửa ống nước đi, bồn rửa trong bếp lại bị rò nữa rồi."
   },
   {
     "word": "electrician",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "a person whose occupation is the installation, maintenance, and repair of electrical devices",
     "vi": "thợ điện",
-    "viDef": "người làm nghề lắp đặt, bảo trì và sửa các thiết bị điện"
+    "viDef": "người làm nghề lắp đặt, bảo trì và sửa các thiết bị điện",
+    "ex": "We need an electrician to fix the lights in the hallway.",
+    "exHit": "electrician",
+    "exVi": "Chúng ta cần một thợ điện để sửa đèn ở hành lang."
   }
 ]

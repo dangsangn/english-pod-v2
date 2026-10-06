@@ -5,7 +5,10 @@
     "type": "",
     "def": "have healthy food",
     "vi": "ăn uống lành",
-    "viDef": "dùng thức ăn tốt cho sức khỏe"
+    "viDef": "dùng thức ăn tốt cho sức khỏe",
+    "ex": "Oh John, I thought we said we would start eating right!",
+    "exHit": "eating right",
+    "exVi": "Ôi John, em tưởng mình đã nói là sẽ bắt đầu ăn uống lành mạnh rồi chứ!"
   },
   {
     "word": "lifestyle",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the way people live",
     "vi": "lối sống",
-    "viDef": "cách người ta sống"
+    "viDef": "cách người ta sống",
+    "ex": "Our new healthy lifestyle?",
+    "exHit": "lifestyle",
+    "exVi": "Lối sống lành mạnh mới của chúng ta á?"
   },
   {
     "word": "junk food",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a high-calorie food and low in nutritional value",
     "vi": "đồ ăn vặt kém lành",
-    "viDef": "thức ăn nhiều ca-lo mà ít dinh dưỡng"
+    "viDef": "thức ăn nhiều ca-lo mà ít dinh dưỡng",
+    "ex": "That's all junk food!",
+    "exHit": "junk food",
+    "exVi": "Toàn là đồ ăn vặt không tốt!"
   },
   {
     "word": "organic",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "without using any chemicals",
     "vi": "hữu cơ",
-    "viDef": "không dùng hóa chất"
+    "viDef": "không dùng hóa chất",
+    "ex": "Do we need organic carrots…?",
+    "exHit": "organic",
+    "exVi": "Mình có cần cà rốt hữu cơ không...?"
   },
   {
     "word": "green",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "healthy to the body",
     "vi": "lành cho cơ thể",
-    "viDef": "tốt cho sức khỏe"
+    "viDef": "tốt cho sức khỏe",
+    "ex": "Green smoothies are a healthy way to start the day.",
+    "exHit": "Green",
+    "exVi": "Sinh tố rau xanh là cách lành mạnh để bắt đầu một ngày."
   },
   {
     "word": "doughnut",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "small ring-shaped friedcakes",
     "vi": "bánh vòng",
-    "viDef": "bánh chiên nhỏ hình vòng"
+    "viDef": "bánh chiên nhỏ hình vòng",
+    "ex": "…Doughnuts?",
+    "exHit": "Doughnuts",
+    "exVi": "...Bánh rán á?"
   },
   {
     "word": "Consciousness",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "To be aware of something",
     "vi": "sự để tâm",
-    "viDef": "việc nhận biết về điều gì"
+    "viDef": "việc nhận biết về điều gì",
+    "ex": "Many people have a growing consciousness of healthy eating.",
+    "exHit": "consciousness",
+    "exVi": "Nhiều người ngày càng có ý thức về việc ăn uống lành mạnh."
   },
   {
     "word": "Health Nut",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "Someone concerned with living a healthy lifestyle",
     "vi": "người mê sống lành",
-    "viDef": "người rất chú trọng lối sống khỏe"
+    "viDef": "người rất chú trọng lối sống khỏe",
+    "ex": "My sister is a health nut and never eats fried food.",
+    "exHit": "health nut",
+    "exVi": "Chị tôi là người cuồng sức khỏe và không bao giờ ăn đồ chiên."
   },
   {
     "word": "Enviromentalist",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Someone who is concerned with the enviroment",
     "vi": "người bảo vệ môi trường",
-    "viDef": "người quan tâm tới môi trường"
+    "viDef": "người quan tâm tới môi trường",
+    "ex": "My neighbor is an environmentalist who recycles everything.",
+    "exHit": "environmentalist",
+    "exVi": "Hàng xóm của tôi là một nhà bảo vệ môi trường và tái chế mọi thứ."
   },
   {
     "word": "Support",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to be of help",
     "vi": "ủng hộ",
-    "viDef": "là chỗ giúp đỡ"
+    "viDef": "là chỗ giúp đỡ",
+    "ex": "My family supports my decision to eat healthier.",
+    "exHit": "supports",
+    "exVi": "Gia đình tôi ủng hộ quyết định ăn uống lành mạnh hơn của tôi."
   },
   {
     "word": "Resolution",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "The commitment to do something differently or begin to do something",
     "vi": "quyết tâm",
-    "viDef": "cam kết làm khác đi hoặc bắt đầu làm điều gì"
+    "viDef": "cam kết làm khác đi hoặc bắt đầu làm điều gì",
+    "ex": "My New Year's resolution is to eat more vegetables.",
+    "exHit": "resolution",
+    "exVi": "Quyết tâm năm mới của tôi là ăn nhiều rau hơn."
   }
 ]

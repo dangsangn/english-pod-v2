@@ -5,7 +5,10 @@
     "type": "",
     "def": "a personal defect or failing",
     "vi": "điểm yếu",
-    "viDef": "một khuyết điểm hoặc thiếu sót của bản thân"
+    "viDef": "một khuyết điểm hoặc thiếu sót của bản thân",
+    "ex": "Definitely, but if you had to pinpoint one weakness what would it be?",
+    "exHit": "weakness",
+    "exVi": "Chắc chắn rồi, nhưng nếu phải chỉ ra chính xác một điểm yếu thì đó sẽ là gì?"
   },
   {
     "word": "to pinpoint",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to locate or describe exactly or precisely",
     "vi": "chỉ đúng ra",
-    "viDef": "xác định hoặc mô tả thật chính xác"
+    "viDef": "xác định hoặc mô tả thật chính xác",
+    "ex": "Definitely, but if you had to pinpoint one weakness what would it be?",
+    "exHit": "to pinpoint",
+    "exVi": "Chắc chắn rồi, nhưng nếu phải chỉ ra chính xác một điểm yếu thì đó sẽ là gì?"
   },
   {
     "word": "go someone's way",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "proceed according to one's plans or wishes",
     "vi": "diễn ra như mình muốn",
-    "viDef": "tiến theo đúng dự tính hoặc mong muốn của ai"
+    "viDef": "tiến theo đúng dự tính hoặc mong muốn của ai",
+    "ex": "I hope things go your way in the interview.",
+    "exHit": "go your way",
+    "exVi": "Mình hy vọng mọi chuyện sẽ suôn sẻ với bạn trong buổi phỏng vấn."
   },
   {
     "word": "get someone down",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to exhaust, discourage, or depress someone",
     "vi": "làm ai chùng xuống",
-    "viDef": "khiến ai mệt mỏi, chán nản hoặc buồn"
+    "viDef": "khiến ai mệt mỏi, chán nản hoặc buồn",
+    "ex": "Don't let one bad day get you down.",
+    "exHit": "get you down",
+    "exVi": "Đừng để một ngày tệ khiến bạn chán nản."
   },
   {
     "word": "to shirk",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to avoid or neglect",
     "vi": "né việc",
-    "viDef": "tránh hoặc bỏ mặc trách nhiệm"
+    "viDef": "tránh hoặc bỏ mặc trách nhiệm",
+    "ex": "He tends to shirk his duties when no one is watching.",
+    "exHit": "shirk",
+    "exVi": "Anh ấy hay trốn tránh trách nhiệm khi không ai để ý."
   },
   {
     "word": "impression",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the feelings one has after a specific event",
     "vi": "cảm nhận",
-    "viDef": "điều mình cảm thấy sau một việc cụ thể"
+    "viDef": "điều mình cảm thấy sau một việc cụ thể",
+    "ex": "Tell me Dave, what is your impression of this film?",
+    "exHit": "impression",
+    "exVi": "Nói tôi nghe, Dave, ấn tượng của bạn về bộ phim này là gì?"
   },
   {
     "word": "frustrated",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "upset",
     "vi": "bực bối",
-    "viDef": "thấy khó chịu, bất lực"
+    "viDef": "thấy khó chịu, bất lực",
+    "ex": "Well as I mentioned before, I do tend to get frustrated if I don't see progress in my work or career.",
+    "exHit": "frustrated",
+    "exVi": "Như tôi đã đề cập trước đó, tôi hay bực bội nếu không thấy tiến triển trong công việc hay sự nghiệp."
   },
   {
     "word": "honest",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to tell the truth",
     "vi": "thật thà",
-    "viDef": "nói ra sự thật"
+    "viDef": "nói ra sự thật",
+    "ex": "To be honest, I don't have much experience yet.",
+    "exHit": "honest",
+    "exVi": "Thành thật mà nói, tôi chưa có nhiều kinh nghiệm."
   },
   {
     "word": "workaholic",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a person who is obsessed with their work",
     "vi": "người nghiện việc",
-    "viDef": "người bị công việc chi phối hết"
+    "viDef": "người bị công việc chi phối hết",
+    "ex": "My dad is a workaholic and rarely comes home early.",
+    "exHit": "workaholic",
+    "exVi": "Bố tôi nghiện việc và hiếm khi về nhà sớm."
   },
   {
     "word": "professional",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to still behave accordingly even if unhappy",
     "vi": "chuyên nghiệp",
-    "viDef": "vẫn xử sự đúng mực dù trong lòng không vui"
+    "viDef": "vẫn xử sự đúng mực dù trong lòng không vui",
+    "ex": "Even when I'm upset, I try to stay professional.",
+    "exHit": "professional",
+    "exVi": "Dù đang buồn bực, tôi vẫn cố giữ thái độ chuyên nghiệp."
   },
   {
     "word": "over-achiever",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "to strive to be the best",
     "vi": "người luôn vươn quá mức",
-    "viDef": "nỗ lực để trở thành người giỏi nhất"
+    "viDef": "nỗ lực để trở thành người giỏi nhất",
+    "ex": "I'm an over-achiever, so I always push myself too hard.",
+    "exHit": "over-achiever",
+    "exVi": "Tôi là người luôn muốn vượt trội, nên lúc nào cũng ép mình quá sức."
   },
   {
     "word": "temper tantrum",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "to throw a fit if things do no go your way",
     "vi": "cơn nổi tam bành",
-    "viDef": "nổi cơn khi mọi việc không theo ý mình"
+    "viDef": "nổi cơn khi mọi việc không theo ý mình",
+    "ex": "The little boy threw a temper tantrum in the toy store.",
+    "exHit": "temper tantrum",
+    "exVi": "Cậu bé đã nổi cơn tam bành trong cửa hàng đồ chơi."
   }
 ]

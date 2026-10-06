@@ -5,7 +5,10 @@
     "type": "",
     "def": "to put on fancy dress, disguise",
     "vi": "hóa trang",
-    "viDef": "mặc đồ đẹp hoặc đồ giả trang"
+    "viDef": "mặc đồ đẹp hoặc đồ giả trang",
+    "ex": "Alright class, now that we're all dressed up let's see what professions you chose.",
+    "exHit": "dressed up",
+    "exVi": "Được rồi các em, giờ khi tất cả đã hóa trang xong, hãy xem các em chọn nghề gì nào."
   },
   {
     "word": "profession",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "an occupation requiring special training",
     "vi": "nghề chuyên môn",
-    "viDef": "công việc cần được huấn luyện riêng"
+    "viDef": "công việc cần được huấn luyện riêng",
+    "ex": "Alright class, now that we're all dressed up let's see what professions you chose.",
+    "exHit": "professions",
+    "exVi": "Được rồi các em, giờ khi tất cả đã hóa trang xong, hãy xem các em chọn nghề gì nào."
   },
   {
     "word": "fireman",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "person who puts out fires and rescues people",
     "vi": "lính cứu hỏa",
-    "viDef": "người dập lửa và cứu người"
+    "viDef": "người dập lửa và cứu người",
+    "ex": "Ah, I see a fireman, a police officer, a medic, and a lifeguard!",
+    "exHit": "fireman",
+    "exVi": "À, cô thấy một lính cứu hỏa, một cảnh sát, một nhân viên y tế và một nhân viên cứu hộ!"
   },
   {
     "word": "police officer",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "policeman or policewoman",
     "vi": "viên cảnh sát",
-    "viDef": "nam hoặc nữ cảnh sát"
+    "viDef": "nam hoặc nữ cảnh sát",
+    "ex": "Ah, I see a fireman, a police officer, a medic, and a lifeguard!",
+    "exHit": "police officer",
+    "exVi": "À, cô thấy một lính cứu hỏa, một cảnh sát, một nhân viên y tế và một nhân viên cứu hộ!"
   },
   {
     "word": "lifeguard",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "person who protects people from drowning",
     "vi": "nhân viên cứu hộ",
-    "viDef": "người trông để cứu người khỏi bị chìm"
+    "viDef": "người trông để cứu người khỏi bị chìm",
+    "ex": "Ah, I see a fireman, a police officer, a medic, and a lifeguard!",
+    "exHit": "lifeguard",
+    "exVi": "À, cô thấy một lính cứu hỏa, một cảnh sát, một nhân viên y tế và một nhân viên cứu hộ!"
   },
   {
     "word": "dial",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to press the buttons to make a telephone call",
     "vi": "bấm số",
-    "viDef": "nhấn các nút để gọi điện thoại"
+    "viDef": "nhấn các nút để gọi điện thoại",
+    "ex": "Yes, you would pick up the phone and dial 911.",
+    "exHit": "dial",
+    "exVi": "Đúng, em sẽ nhấc điện thoại lên và gọi 911."
   },
   {
     "word": "break into",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to enter a house illegally, esp by force",
     "vi": "đột nhập",
-    "viDef": "vào nhà trái phép, nhất là bằng cách phá cửa"
+    "viDef": "vào nhà trái phép, nhất là bằng cách phá cửa",
+    "ex": "If a robber breaks into the house!",
+    "exHit": "breaks into",
+    "exVi": "Nếu một tên trộm đột nhập vào nhà!"
   },
   {
     "word": "go off",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to ring or sound loudly",
     "vi": "reo ầm lên",
-    "viDef": "phát tiếng lớn hoặc chuông báo vang"
+    "viDef": "phát tiếng lớn hoặc chuông báo vang",
+    "ex": "If the fire alarm goes off!",
+    "exHit": "goes off",
+    "exVi": "Nếu chuông báo cháy kêu lên!"
   },
   {
     "word": "robber",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "person who robs or steals",
     "vi": "kẻ cướp",
-    "viDef": "người cướp hoặc trộm của"
+    "viDef": "người cướp hoặc trộm của",
+    "ex": "If a robber breaks into the house!",
+    "exHit": "robber",
+    "exVi": "Nếu một tên trộm đột nhập vào nhà!"
   },
   {
     "word": "heart attack",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "painful condition where the heart stops beating",
     "vi": "cơn nhồi máu cơ tim",
-    "viDef": "tình trạng đau khi tim ngừng đập"
+    "viDef": "tình trạng đau khi tim ngừng đập",
+    "ex": "If my grandpa has a heart attack!",
+    "exHit": "heart attack",
+    "exVi": "Nếu ông của em bị đau tim!"
   },
   {
     "word": "pick up",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "take up by hand",
     "vi": "bắt máy",
-    "viDef": "nhấc lên bằng tay"
+    "viDef": "nhấc lên bằng tay",
+    "ex": "Yes, you would pick up the phone and dial 911.",
+    "exHit": "pick up",
+    "exVi": "Đúng, em sẽ nhấc điện thoại lên và gọi 911."
   },
   {
     "word": "Burglar Alarm",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "An alarm installed in a house or building that goes off if there is a break in",
     "vi": "báo động chống trộm",
-    "viDef": "thiết bị lắp trong nhà, kêu lên khi có kẻ đột nhập"
+    "viDef": "thiết bị lắp trong nhà, kêu lên khi có kẻ đột nhập",
+    "ex": "The burglar alarm went off in the middle of the night.",
+    "exHit": "burglar alarm",
+    "exVi": "Chuông báo trộm kêu vang giữa đêm."
   },
   {
     "word": "Hold Up",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "To rob while armed, often at gunpoint.",
     "vi": "vụ cướp có vũ khí",
-    "viDef": "cướp khi có vũ khí, thường là kề súng"
+    "viDef": "cướp khi có vũ khí, thường là kề súng",
+    "ex": "Two men tried to hold up the gas station last night.",
+    "exHit": "hold up",
+    "exVi": "Hai người đàn ông đã cố cướp trạm xăng tối qua."
   },
   {
     "word": "Crime Scene",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "Place where an illegal event took place and there is evidence there that police need.",
     "vi": "hiện trường vụ án",
-    "viDef": "nơi xảy ra việc phạm pháp, còn dấu vết mà cảnh sát cần"
+    "viDef": "nơi xảy ra việc phạm pháp, còn dấu vết mà cảnh sát cần",
+    "ex": "The police taped off the crime scene on the corner.",
+    "exHit": "crime scene",
+    "exVi": "Cảnh sát căng dây phong tỏa hiện trường vụ án ở góc phố."
   },
   {
     "word": "Hit And Run",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "the crime of colliding with a person, their personal property (including their motor vehicle), or a fixture, and failing to stop and identify oneself afterwards",
     "vi": "tông rồi bỏ chạy",
-    "viDef": "tội đâm vào người, tài sản riêng của họ kể cả xe, hoặc vật cố định rồi không dừng lại và không khai danh tính"
+    "viDef": "tội đâm vào người, tài sản riêng của họ kể cả xe, hoặc vật cố định rồi không dừng lại và không khai danh tính",
+    "ex": "The police are looking for the driver in last night's hit and run.",
+    "exHit": "hit and run",
+    "exVi": "Cảnh sát đang tìm tài xế trong vụ đâm rồi bỏ chạy đêm qua."
   },
   {
     "word": "Fender-bender",
@@ -125,6 +170,9 @@
     "type": "",
     "def": "a collision between motor vehicles that produces minor damage",
     "vi": "cú va nhẹ",
-    "viDef": "vụ đâm giữa các xe chỉ gây hư hại nhỏ"
+    "viDef": "vụ đâm giữa các xe chỉ gây hư hại nhỏ",
+    "ex": "It was only a fender-bender, so nobody got hurt.",
+    "exHit": "fender-bender",
+    "exVi": "Chỉ là một vụ va chạm nhẹ nên không ai bị thương."
   }
 ]

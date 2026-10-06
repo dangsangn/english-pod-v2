@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "have or own",
     "vi": "sở hữu",
-    "viDef": "có, nắm giữ"
+    "viDef": "có, nắm giữ",
+    "ex": "Two people, possess a secret so valuable, so powerful, they have to defend it at all costs.",
+    "exHit": "possess",
+    "exVi": "Hai người nắm giữ một bí mật quý giá và mạnh mẽ đến mức họ phải bảo vệ nó bằng mọi giá."
   },
   {
     "word": "survival",
@@ -13,7 +16,10 @@
     "type": "common noun, non-variable",
     "def": "the state of living and being alive",
     "vi": "sự sống còn",
-    "viDef": "việc còn sống, tồn tại được"
+    "viDef": "việc còn sống, tồn tại được",
+    "ex": "In a digital world, even the strongest must fight for survival.",
+    "exHit": "survival",
+    "exVi": "Trong thế giới số, ngay cả kẻ mạnh nhất cũng phải chiến đấu để sinh tồn."
   },
   {
     "word": "defend",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "fight in order to keep something or someone safe",
     "vi": "bảo vệ",
-    "viDef": "chiến đấu để giữ an toàn cho ai hoặc cái gì"
+    "viDef": "chiến đấu để giữ an toàn cho ai hoặc cái gì",
+    "ex": "Two people, possess a secret so valuable, so powerful, they have to defend it at all costs.",
+    "exHit": "defend",
+    "exVi": "Hai người nắm giữ một bí mật quý giá và mạnh mẽ đến mức họ phải bảo vệ nó bằng mọi giá."
   },
   {
     "word": "rough",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "be tough,difficult, violent",
     "vi": "gian nan, dữ dội",
-    "viDef": "khắc nghiệt, khó, bạo lực"
+    "viDef": "khắc nghiệt, khó, bạo lực",
+    "ex": "You wanna play rough?",
+    "exHit": "rough",
+    "exVi": "Muốn chơi thô bạo hả?"
   },
   {
     "word": "no matter what",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "even if it's difficult",
     "vi": "dù thế nào",
-    "viDef": "dẫu có khó đến đâu"
+    "viDef": "dẫu có khó đến đâu",
+    "ex": "No matter what!",
+    "exHit": "No matter what",
+    "exVi": "Bằng mọi giá!"
   },
   {
     "word": "get down",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "lower your body, not standing",
     "vi": "nằm xuống, cúi xuống",
-    "viDef": "hạ người xuống, không đứng"
+    "viDef": "hạ người xuống, không đứng",
+    "ex": "Get down!",
+    "exHit": "Get down",
+    "exVi": "Cúi xuống!"
   },
   {
     "word": "stand in someone's way",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "prevent a person from doing something",
     "vi": "cản đường ai",
-    "viDef": "ngăn không cho ai làm gì"
+    "viDef": "ngăn không cho ai làm gì",
+    "ex": "I won't let anyone stand in my way this time.",
+    "exHit": "stand in my way",
+    "exVi": "Lần này tôi sẽ không để ai cản đường tôi."
   },
   {
     "word": "at all costs",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "regardless of the cost involved, even if it's difficult",
     "vi": "bằng mọi giá",
-    "viDef": "bất kể tốn kém, dù có khó"
+    "viDef": "bất kể tốn kém, dù có khó",
+    "ex": "Two people, possess a secret so valuable, so powerful, they have to defend it at all costs.",
+    "exHit": "at all costs",
+    "exVi": "Hai người nắm giữ một bí mật quý giá và mạnh mẽ đến mức họ phải bảo vệ nó bằng mọi giá."
   },
   {
     "word": "horror film",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a very scary movie",
     "vi": "phim kinh dị",
-    "viDef": "phim rất đáng sợ"
+    "viDef": "phim rất đáng sợ",
+    "ex": "I can't sleep after watching a horror film at night.",
+    "exHit": "horror film",
+    "exVi": "Xem phim kinh dị buổi tối xong là tôi không ngủ được."
   },
   {
     "word": "comedy",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a funny movie",
     "vi": "phim hài",
-    "viDef": "phim gây cười"
+    "viDef": "phim gây cười",
+    "ex": "Let's watch a comedy tonight, because I need a good laugh.",
+    "exHit": "comedy",
+    "exVi": "Tối nay mình xem phim hài đi, tớ cần cười một trận."
   },
   {
     "word": "romantic comedy",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a funny movie where two people fall in love",
     "vi": "phim hài lãng mạn",
-    "viDef": "phim vui về hai người yêu nhau"
+    "viDef": "phim vui về hai người yêu nhau",
+    "ex": "My girlfriend always picks a romantic comedy for movie night.",
+    "exHit": "romantic comedy",
+    "exVi": "Bạn gái tôi lúc nào cũng chọn phim hài lãng mạn cho buổi xem phim."
   },
   {
     "word": "animated film",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a movie made with a series of drawings; not with live people",
     "vi": "phim hoạt hình",
-    "viDef": "phim làm từ tranh vẽ, không có diễn viên thật"
+    "viDef": "phim làm từ tranh vẽ, không có diễn viên thật",
+    "ex": "The kids loved the new animated film at the cinema.",
+    "exHit": "animated film",
+    "exVi": "Bọn trẻ rất thích bộ phim hoạt hình mới ở rạp."
   },
   {
     "word": "thriller",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a very exciting film",
     "vi": "phim gay cấn",
-    "viDef": "phim rất kịch tính"
+    "viDef": "phim rất kịch tính",
+    "ex": "That thriller kept me on the edge of my seat.",
+    "exHit": "thriller",
+    "exVi": "Bộ phim giật gân đó khiến tôi hồi hộp suốt từ đầu đến cuối."
   },
   {
     "word": "drama",
@@ -109,6 +148,9 @@
     "type": "common noun, singular",
     "def": "a movie about a serious subject",
     "vi": "phim chính kịch",
-    "viDef": "phim về đề tài nghiêm túc"
+    "viDef": "phim về đề tài nghiêm túc",
+    "ex": "This drama about a poor family made everyone cry.",
+    "exHit": "drama",
+    "exVi": "Bộ phim chính kịch về một gia đình nghèo này làm ai cũng khóc."
   }
 ]

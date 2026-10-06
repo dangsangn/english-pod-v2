@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "prepared, ready to leave",
     "vi": "sẵn sàng lên đường",
-    "viDef": "đã chuẩn bị xong, sẵn sàng đi"
+    "viDef": "đã chuẩn bị xong, sẵn sàng đi",
+    "ex": "So, are we all ready to go?",
+    "exHit": "all ready to go",
+    "exVi": "Vậy, mọi người đã sẵn sàng khởi hành hết chưa?"
   },
   {
     "word": "packed",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "full, everything is inside",
     "vi": "đã xếp đồ xong",
-    "viDef": "đầy, mọi thứ đã ở bên trong"
+    "viDef": "đầy, mọi thứ đã ở bên trong",
+    "ex": "The car's packed; we have munchies and music, and the map's in the car.",
+    "exHit": "packed",
+    "exVi": "Xe đã chất đầy đồ rồi; có đồ ăn vặt và nhạc, bản đồ cũng ở trong xe."
   },
   {
     "word": "munchies",
@@ -21,7 +27,10 @@
     "type": "common noun, non-variable",
     "def": "snacks, food",
     "vi": "đồ ăn vặt",
-    "viDef": "bánh kẹo, đồ nhấm nháp"
+    "viDef": "bánh kẹo, đồ nhấm nháp",
+    "ex": "The car's packed; we have munchies and music, and the map's in the car.",
+    "exHit": "munchies",
+    "exVi": "Xe đã chất đầy đồ rồi; có đồ ăn vặt và nhạc, bản đồ cũng ở trong xe."
   },
   {
     "word": "fill up the tank",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "put gas in the car",
     "vi": "đổ đầy bình xăng",
-    "viDef": "bơm xăng cho xe"
+    "viDef": "bơm xăng cho xe",
+    "ex": "Did you fill up the tank?",
+    "exHit": "fill up the tank",
+    "exVi": "Anh đã đổ đầy bình xăng chưa?"
   },
   {
     "word": "all set",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "ready",
     "vi": "xong xuôi cả rồi",
-    "viDef": "đã sẵn sàng"
+    "viDef": "đã sẵn sàng",
+    "ex": "Yup, it's all set.",
+    "exHit": "all set",
+    "exVi": "Ừ, mọi thứ đã sẵn sàng rồi."
   },
   {
     "word": "got all the bases covered",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "have everything ready",
     "vi": "lo liệu đâu vào đấy",
-    "viDef": "đã chuẩn bị mọi thứ chu toàn"
+    "viDef": "đã chuẩn bị mọi thứ chu toàn",
+    "ex": "Before the trip, I got all the bases covered, from tickets to hotels.",
+    "exHit": "got all the bases covered",
+    "exVi": "Trước chuyến đi, tôi đã lo liệu xong mọi thứ, từ vé đến khách sạn."
   },
   {
     "word": "get going",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "start, leave, depart",
     "vi": "lên đường thôi",
-    "viDef": "bắt đầu, khởi hành"
+    "viDef": "bắt đầu, khởi hành",
+    "ex": "Well… let's get going then!",
+    "exHit": "get going",
+    "exVi": "Thôi, vậy mình lên đường nào!"
   },
   {
     "word": "road trip",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "long car trip",
     "vi": "chuyến đi chơi xa bằng ô tô",
-    "viDef": "chuyến đi ô tô đường dài"
+    "viDef": "chuyến đi ô tô đường dài",
+    "ex": "I love road trips!",
+    "exHit": "road trips",
+    "exVi": "Tôi thích những chuyến đi đường dài bằng xe hơi!"
   },
   {
     "word": "pit stop",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "quick stop for food or gas",
     "vi": "chặng dừng ngắn",
-    "viDef": "dừng nhanh để ăn hoặc đổ xăng"
+    "viDef": "dừng nhanh để ăn hoặc đổ xăng",
+    "ex": "do you think we can make a pit stop?",
+    "exHit": "pit stop",
+    "exVi": "Bạn nghĩ mình có thể dừng chân một lát được không?"
   },
   {
     "word": "trunk",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "the luggage area of a car",
     "vi": "cốp xe",
-    "viDef": "khoang để hành lý của ô tô"
+    "viDef": "khoang để hành lý của ô tô",
+    "ex": "Put the heavy suitcases in the trunk so we have room inside.",
+    "exHit": "trunk",
+    "exVi": "Cứ để mấy cái vali nặng vào cốp xe để bên trong còn chỗ."
   },
   {
     "word": "passenger",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "person in a car, not the driver",
     "vi": "hành khách",
-    "viDef": "người ngồi trên xe, không phải tài xế"
+    "viDef": "người ngồi trên xe, không phải tài xế",
+    "ex": "The passenger in the back seat fell asleep during the trip.",
+    "exHit": "passenger",
+    "exVi": "Người ngồi ở ghế sau đã ngủ gục trong suốt chuyến đi."
   },
   {
     "word": "freeway",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "highway",
     "vi": "đường cao tốc",
-    "viDef": "xa lộ"
+    "viDef": "xa lộ",
+    "ex": "Take the freeway if you want to get there before dark.",
+    "exHit": "freeway",
+    "exVi": "Nếu muốn đến đó trước khi trời tối thì hãy đi đường cao tốc."
   },
   {
     "word": "rental car",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "a car you rent, a car you pay to borrow",
     "vi": "xe thuê",
-    "viDef": "chiếc xe bạn trả tiền để mượn"
+    "viDef": "chiếc xe bạn trả tiền để mượn",
+    "ex": "We picked up a rental car at the airport for our road trip.",
+    "exHit": "rental car",
+    "exVi": "Chúng tôi nhận một chiếc xe thuê ở sân bay cho chuyến đi đường dài."
   },
   {
     "word": "highway toll",
@@ -109,6 +148,9 @@
     "type": "phrase",
     "def": "fee paid for using the highway",
     "vi": "phí cầu đường",
-    "viDef": "khoản phí trả để đi đường cao tốc"
+    "viDef": "khoản phí trả để đi đường cao tốc",
+    "ex": "Keep some cash in the car for the highway toll.",
+    "exHit": "highway toll",
+    "exVi": "Hãy để sẵn ít tiền mặt trong xe để trả phí cao tốc."
   }
 ]

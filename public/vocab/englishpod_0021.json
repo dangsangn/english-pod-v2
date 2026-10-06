@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "talk about something a lot",
     "vi": "nói mãi về",
-    "viDef": "kể lể nhiều về chuyện gì đó"
+    "viDef": "kể lể nhiều về chuyện gì đó",
+    "ex": "She's always going on about him at the office.",
+    "exHit": "going on about",
+    "exVi": "Cô ấy lúc nào cũng nói về anh ta suốt ở văn phòng."
   },
   {
     "word": "Fortune 500",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "top 500 companies, rated by revenue",
     "vi": "Fortune 500",
-    "viDef": "500 công ty hàng đầu xếp theo doanh thu"
+    "viDef": "500 công ty hàng đầu xếp theo doanh thu",
+    "ex": "of quality and safety for a top Fortune 500 food company.",
+    "exHit": "Fortune 500",
+    "exVi": "về chất lượng và an toàn cho một công ty thực phẩm hàng đầu trong danh sách Fortune 500."
   },
   {
     "word": "implement",
@@ -21,7 +27,10 @@
     "type": "principle verb, present progressive",
     "def": "begin to do something, put into action",
     "vi": "triển khai",
-    "viDef": "bắt đầu thực hiện, đưa vào áp dụng"
+    "viDef": "bắt đầu thực hiện, đưa vào áp dụng",
+    "ex": "I implement policies and procedures nationwide.",
+    "exHit": "implement",
+    "exVi": "Tôi triển khai các chính sách và quy trình trên toàn quốc."
   },
   {
     "word": "responsible",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "have the duty or job of taking care of something",
     "vi": "chịu trách nhiệm",
-    "viDef": "có nhiệm vụ trông coi việc gì đó"
+    "viDef": "có nhiệm vụ trông coi việc gì đó",
+    "ex": "Who is responsible for ordering the supplies in your office?",
+    "exHit": "responsible",
+    "exVi": "Ai chịu trách nhiệm đặt văn phòng phẩm ở văn phòng của bạn?"
   },
   {
     "word": "nationwide",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "in the whole country",
     "vi": "trên toàn quốc",
-    "viDef": "khắp cả nước"
+    "viDef": "khắp cả nước",
+    "ex": "I implement policies and procedures nationwide.",
+    "exHit": "nationwide",
+    "exVi": "Tôi triển khai các chính sách và quy trình trên toàn quốc."
   },
   {
     "word": "look after",
@@ -45,7 +60,10 @@
     "type": "principle verb, infinitive",
     "def": "take care of",
     "vi": "trông coi",
-    "viDef": "chăm lo"
+    "viDef": "chăm lo",
+    "ex": "Actually, would you mind looking after my pet tarantula and snake for a couple of weeks?",
+    "exHit": "looking after",
+    "exVi": "Thật ra, bạn có phiền trông giúp con nhện tarantula và con rắn cưng của tôi vài tuần không?"
   },
   {
     "word": "oversee",
@@ -53,7 +71,10 @@
     "type": "principle verb, present simple",
     "def": "watch and direct to make sure a job is done correctly",
     "vi": "giám sát",
-    "viDef": "theo dõi và chỉ đạo để công việc được làm đúng"
+    "viDef": "theo dõi và chỉ đạo để công việc được làm đúng",
+    "ex": "I oversee the whole team and make sure everyone finishes on time.",
+    "exHit": "oversee",
+    "exVi": "Tôi giám sát cả nhóm và đảm bảo mọi người hoàn thành đúng hạn."
   },
   {
     "word": "quality control",
@@ -61,7 +82,10 @@
     "type": "common noun, non-variable",
     "def": "checking goods to make sure that they are good enough to sell",
     "vi": "kiểm soát chất lượng",
-    "viDef": "kiểm tra hàng hóa để chắc rằng đủ tiêu chuẩn bán"
+    "viDef": "kiểm tra hàng hóa để chắc rằng đủ tiêu chuẩn bán",
+    "ex": "She works in quality control at a big food factory.",
+    "exHit": "quality control",
+    "exVi": "Cô ấy làm ở bộ phận kiểm soát chất lượng tại một nhà máy thực phẩm lớn."
   },
   {
     "word": "under me",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "working for me",
     "vi": "dưới quyền tôi",
-    "viDef": "làm việc cho tôi"
+    "viDef": "làm việc cho tôi",
+    "ex": "I have ten people working under me in the sales department.",
+    "exHit": "under me",
+    "exVi": "Tôi có mười người làm việc dưới quyền tôi ở bộ phận kinh doanh."
   },
   {
     "word": "develop relationships",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "make good relationships",
     "vi": "xây dựng quan hệ",
-    "viDef": "tạo dựng mối quan hệ tốt"
+    "viDef": "tạo dựng mối quan hệ tốt",
+    "ex": "I try to develop relationships with our customers all over the country.",
+    "exHit": "develop relationships",
+    "exVi": "Tôi cố gắng xây dựng mối quan hệ tốt với khách hàng của chúng tôi trên khắp cả nước."
   },
   {
     "word": "handle complaints",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "look after or take care of complaints",
     "vi": "xử lý khiếu nại",
-    "viDef": "tiếp nhận và giải quyết phàn nàn"
+    "viDef": "tiếp nhận và giải quyết phàn nàn",
+    "ex": "Anna's job is to handle complaints from unhappy customers.",
+    "exHit": "handle complaints",
+    "exVi": "Công việc của Anna là xử lý các khiếu nại từ những khách hàng không hài lòng."
   },
   {
     "word": "draft",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "/ write official documents",
     "vi": "soạn thảo",
-    "viDef": "viết các văn bản chính thức"
+    "viDef": "viết các văn bản chính thức",
+    "ex": "I need to draft a contract before the meeting this afternoon.",
+    "exHit": "draft",
+    "exVi": "Tôi cần soạn thảo một bản hợp đồng trước cuộc họp chiều nay."
   },
   {
     "word": "coordinate",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "make arrangements or plans with a group of people",
     "vi": "điều phối",
-    "viDef": "sắp xếp hoặc lên kế hoạch cùng một nhóm người"
+    "viDef": "sắp xếp hoặc lên kế hoạch cùng một nhóm người",
+    "ex": "She helps coordinate schedules for the whole marketing team.",
+    "exHit": "coordinate",
+    "exVi": "Cô ấy giúp điều phối lịch làm việc cho cả nhóm marketing."
   },
   {
     "word": "monitor",
@@ -109,7 +148,10 @@
     "type": "verb",
     "def": "watch and check",
     "vi": "theo dõi",
-    "viDef": "quan sát và kiểm tra"
+    "viDef": "quan sát và kiểm tra",
+    "ex": "His job is to monitor the production line all day.",
+    "exHit": "monitor",
+    "exVi": "Công việc của anh ấy là theo dõi dây chuyền sản xuất suốt cả ngày."
   },
   {
     "word": "supervise",
@@ -117,7 +159,10 @@
     "type": "verb",
     "def": "be in charge of something , watch and direct",
     "vi": "quản lý, giám sát",
-    "viDef": "phụ trách việc gì đó, theo dõi và chỉ đạo"
+    "viDef": "phụ trách việc gì đó, theo dõi và chỉ đạo",
+    "ex": "I supervise five new employees in the customer service office.",
+    "exHit": "supervise",
+    "exVi": "Tôi giám sát năm nhân viên mới ở văn phòng chăm sóc khách hàng."
   },
   {
     "word": "ensure",
@@ -125,6 +170,9 @@
     "type": "verb",
     "def": "make sure",
     "vi": "bảo đảm",
-    "viDef": "chắc chắn rằng"
+    "viDef": "chắc chắn rằng",
+    "ex": "My manager wants to ensure that every report is finished on time.",
+    "exHit": "ensure",
+    "exVi": "Quản lý của tôi muốn đảm bảo mọi báo cáo đều được hoàn thành đúng hạn."
   }
 ]

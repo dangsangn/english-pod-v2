@@ -5,7 +5,10 @@
     "type": "",
     "def": "to cause feelings of discouragement or bafflement",
     "vi": "gây bực",
-    "viDef": "khiến người ta thấy chán chường hoặc rối trí"
+    "viDef": "khiến người ta thấy chán chường hoặc rối trí",
+    "ex": "I didn't have many responsibilities and I found it quite frustrating.",
+    "exHit": "frustrating",
+    "exVi": "Tôi không có nhiều trách nhiệm và thấy công việc khá nản lòng."
   },
   {
     "word": "slowly but surely",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "happening gradually but inevitably or without fail",
     "vi": "chậm mà chắc",
-    "viDef": "diễn ra từ từ nhưng không thể không tới"
+    "viDef": "diễn ra từ từ nhưng không thể không tới",
+    "ex": "Well slowly but surely I proved myself, and the new editor liked me so he promoted me to features writer.",
+    "exHit": "slowly but surely",
+    "exVi": "Chà, dần dần tôi đã chứng tỏ được bản thân, và biên tập viên mới quý tôi nên đã thăng chức cho tôi lên làm phóng viên bài đặc biệt."
   },
   {
     "word": "to prove oneself",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to show to have the character or ability expected",
     "vi": "tự chứng tỏ mình",
-    "viDef": "cho thấy mình có tính cách hoặc khả năng như mong đợi"
+    "viDef": "cho thấy mình có tính cách hoặc khả năng như mong đợi",
+    "ex": "It took me a year to prove myself at my new job.",
+    "exHit": "prove myself",
+    "exVi": "Tôi mất một năm để chứng tỏ bản thân ở công việc mới."
   },
   {
     "word": "long-term",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "covering a relatively long period of time",
     "vi": "dài hạn",
-    "viDef": "trải qua một khoảng thời gian tương đối dài"
+    "viDef": "trải qua một khoảng thời gian tương đối dài",
+    "ex": "I'm looking for a long-term job with a stable company.",
+    "exHit": "long-term",
+    "exVi": "Tôi đang tìm một công việc lâu dài ở một công ty ổn định."
   },
   {
     "word": "challenging",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a test of one's abilities or resources in a demanding but stimulating undertaking",
     "vi": "nhiều thử thách",
-    "viDef": "một phép thử năng lực hoặc nguồn lực, đòi hỏi nhiều nhưng kích thích"
+    "viDef": "một phép thử năng lực hoặc nguồn lực, đòi hỏi nhiều nhưng kích thích",
+    "ex": "I really needed a more challenging role to be honest.",
+    "exHit": "challenging",
+    "exVi": "Thành thật mà nói, tôi thực sự cần một vai trò nhiều thử thách hơn."
   },
   {
     "word": "unsatisfied",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a feeling of unfulfillment",
     "vi": "chưa thấy thỏa",
-    "viDef": "cảm giác chưa toại nguyện"
+    "viDef": "cảm giác chưa toại nguyện",
+    "ex": "I felt unsatisfied with my old job, so I left.",
+    "exHit": "unsatisfied",
+    "exVi": "Tôi cảm thấy không hài lòng với công việc cũ nên đã nghỉ."
   },
   {
     "word": "promote",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to go up in rank or status(at your job)",
     "vi": "thăng tiến",
-    "viDef": "lên bậc hoặc lên chức ở nơi làm"
+    "viDef": "lên bậc hoặc lên chức ở nơi làm",
+    "ex": "Well slowly but surely I proved myself, and the new editor liked me so he promoted me to features writer.",
+    "exHit": "promoted",
+    "exVi": "Chà, dần dần tôi đã chứng tỏ được bản thân, và biên tập viên mới quý tôi nên đã thăng chức cho tôi lên làm phóng viên bài đặc biệt."
   },
   {
     "word": "trial period",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to prove your worth(at your job)",
     "vi": "thời gian thử việc",
-    "viDef": "giai đoạn phải chứng tỏ giá trị của mình khi mới vào làm"
+    "viDef": "giai đoạn phải chứng tỏ giá trị của mình khi mới vào làm",
+    "ex": "The company gave me a three-month trial period first.",
+    "exHit": "trial period",
+    "exVi": "Công ty cho tôi thử việc ba tháng trước."
   },
   {
     "word": "food critic",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a person who critiques food at restaurants",
     "vi": "nhà bình phẩm món ăn",
-    "viDef": "người nhận xét đồ ăn ở các nhà hàng"
+    "viDef": "người nhận xét đồ ăn ở các nhà hàng",
+    "ex": "The food critic wrote a terrible review of that restaurant.",
+    "exHit": "food critic",
+    "exVi": "Nhà phê bình ẩm thực đã viết một bài đánh giá rất tệ về nhà hàng đó."
   },
   {
     "word": "disinterested",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "to not have an interest in something",
     "vi": "không hứng thú",
-    "viDef": "chẳng còn quan tâm tới điều gì"
+    "viDef": "chẳng còn quan tâm tới điều gì",
+    "ex": "He looked disinterested during the whole meeting.",
+    "exHit": "disinterested",
+    "exVi": "Anh ấy trông chẳng hứng thú gì trong suốt cuộc họp."
   }
 ]

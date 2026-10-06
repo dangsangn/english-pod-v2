@@ -5,7 +5,10 @@
     "type": "",
     "def": "go to someplace in a formal way",
     "vi": "ghé thăm",
-    "viDef": "tới một nơi theo cách trang trọng"
+    "viDef": "tới một nơi theo cách trang trọng",
+    "ex": "He's visiting Shanghai from New York.",
+    "exHit": "visiting",
+    "exVi": "Anh ấy đến thăm Thượng Hải từ New York."
   },
   {
     "word": "class",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "lesson",
     "vi": "buổi học",
-    "viDef": "tiết học"
+    "viDef": "tiết học",
+    "ex": "I'm meeting some business contacts but I'm also taking some Mandarin classes too.",
+    "exHit": "classes",
+    "exVi": "Tôi đang gặp một số đối tác kinh doanh nhưng cũng học thêm vài lớp tiếng Quan Thoại nữa."
   },
   {
     "word": "sight",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "something seen or worth seeing",
     "vi": "cảnh đẹp",
-    "viDef": "thứ được ngắm hoặc đáng xem"
+    "viDef": "thứ được ngắm hoặc đáng xem",
+    "ex": "Well listen, if you need someone to show you the sights then just call me.",
+    "exHit": "sights",
+    "exVi": "À này, nếu bạn cần người dẫn đi tham quan các thắng cảnh thì cứ gọi tôi nhé."
   },
   {
     "word": "get together",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "spend time together",
     "vi": "gặp gỡ",
-    "viDef": "dành thời gian bên nhau"
+    "viDef": "dành thời gian bên nhau",
+    "ex": "I'm having a little get together at my new apartment next week so if you want to drop by then.",
+    "exHit": "get together",
+    "exVi": "Tuần sau tôi sẽ tổ chức một buổi tụ họp nhỏ ở căn hộ mới, nên nếu muốn thì bạn ghé qua nhé."
   },
   {
     "word": "pleasure",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "feeling of happiness",
     "vi": "niềm vui",
-    "viDef": "cảm giác hạnh phúc"
+    "viDef": "cảm giác hạnh phúc",
+    "ex": "you visiting for business or pleasure?",
+    "exHit": "pleasure",
+    "exVi": "Bạn đến đây để công tác hay để giải trí?"
   },
   {
     "word": "drop by",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "an informal visit",
     "vi": "ghé qua",
-    "viDef": "chuyến ghé thăm không hẹn trước"
+    "viDef": "chuyến ghé thăm không hẹn trước",
+    "ex": "Feel free to drop by my office any time this week.",
+    "exHit": "drop by",
+    "exVi": "Cứ thoải mái ghé qua văn phòng tôi bất cứ lúc nào trong tuần này nhé."
   },
   {
     "word": "rendezvous",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "an agreement between two or more persons to meet at a certain time and place.",
     "vi": "cuộc hẹn",
-    "viDef": "thỏa thuận giữa hai người trở lên để gặp nhau vào một giờ và một nơi nhất định"
+    "viDef": "thỏa thuận giữa hai người trở lên để gặp nhau vào một giờ và một nơi nhất định",
+    "ex": "We set a rendezvous at the station for noon on Friday.",
+    "exHit": "rendezvous",
+    "exVi": "Chúng tôi hẹn gặp nhau ở nhà ga vào trưa thứ Sáu."
   },
   {
     "word": "reunion",
@@ -61,6 +82,9 @@
     "type": "",
     "def": "the act of uniting again.",
     "vi": "buổi họp mặt",
-    "viDef": "việc gặp lại nhau"
+    "viDef": "việc gặp lại nhau",
+    "ex": "Our school reunion is next month, and I can't wait.",
+    "exHit": "reunion",
+    "exVi": "Buổi họp lớp của trường mình là vào tháng sau, tôi nóng lòng quá."
   }
 ]

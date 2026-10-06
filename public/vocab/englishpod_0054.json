@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "having no mistakes or errors",
     "vi": "chính xác",
-    "viDef": "không có sai sót"
+    "viDef": "không có sai sót",
+    "ex": "Are these things accurate?",
+    "exHit": "accurate",
+    "exVi": "Những thứ này có chính xác không?"
   },
   {
     "word": "conceived",
@@ -13,7 +16,10 @@
     "type": "principle verb, past simple",
     "def": "be created",
     "vi": "được thụ thai",
-    "viDef": "được tạo ra"
+    "viDef": "được tạo ra",
+    "ex": "Your approximate due date is October twenty-seventh two thousand and nine, so that means that the baby was conceived on February third, two thousand and nine.",
+    "exHit": "conceived",
+    "exVi": "Ngày dự sinh của bạn khoảng 27 tháng Mười năm 2009, nghĩa là em bé được thụ thai vào ngày 3 tháng Hai năm 2009."
   },
   {
     "word": "due date",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "date when the doctor thinks the baby will be born",
     "vi": "ngày dự sinh",
-    "viDef": "ngày bác sĩ cho là em bé sẽ ra đời"
+    "viDef": "ngày bác sĩ cho là em bé sẽ ra đời",
+    "ex": "Your approximate due date is October twenty-seventh two thousand and nine, so that means that the baby was conceived on February third, two thousand and nine.",
+    "exHit": "due date",
+    "exVi": "Ngày dự sinh của bạn khoảng 27 tháng Mười năm 2009, nghĩa là em bé được thụ thai vào ngày 3 tháng Hai năm 2009."
   },
   {
     "word": "everything seems to be in order",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "everything is okay, everything is normal",
     "vi": "mọi thứ đều ổn cả",
-    "viDef": "không có gì bất thường"
+    "viDef": "không có gì bất thường",
+    "ex": "everything seems to be in order.",
+    "exHit": "everything seems to be in order",
+    "exVi": "Mọi thứ có vẻ đều ổn."
   },
   {
     "word": "first thing in the morning",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "early in the morning",
     "vi": "sáng sớm, việc đầu tiên trong ngày",
-    "viDef": "vào lúc sáng sớm"
+    "viDef": "vào lúc sáng sớm",
+    "ex": "We'll go to the doctor first thing in the morning!",
+    "exHit": "first thing in the morning",
+    "exVi": "Sáng mai việc đầu tiên là chúng ta đi khám bác sĩ!"
   },
   {
     "word": "break",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "temporary stop in a romantic relationship",
     "vi": "thời gian tạm xa nhau",
-    "viDef": "tạm ngưng chuyện tình cảm một thời gian"
+    "viDef": "tạm ngưng chuyện tình cảm một thời gian",
+    "ex": "I'm sorry I haven't called or anything, but right after you decided you wanted a break, I was called up north to put out some major forest fires!",
+    "exHit": "break",
+    "exVi": "Anh xin lỗi vì đã không gọi điện hay gì cả, nhưng ngay sau khi em muốn tạm nghỉ, anh bị gọi lên phía bắc để dập mấy đám cháy rừng lớn!"
   },
   {
     "word": "in the middle of nowhere",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "far from a city or town",
     "vi": "giữa nơi đồng không mông quạnh",
-    "viDef": "xa thành phố hay thị trấn"
+    "viDef": "xa thành phố hay thị trấn",
+    "ex": "I was in the middle of nowhere, working day and night, trying to prevent the blaze from spreading!",
+    "exHit": "in the middle of nowhere",
+    "exVi": "Anh ở nơi hẻo lánh, làm việc ngày đêm, cố ngăn đám cháy lan rộng!"
   },
   {
     "word": "blaze",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a large, strong, dangerous fire",
     "vi": "đám cháy lớn",
-    "viDef": "ngọn lửa lớn, mạnh, nguy hiểm"
+    "viDef": "ngọn lửa lớn, mạnh, nguy hiểm",
+    "ex": "I was in the middle of nowhere, working day and night, trying to prevent the blaze from spreading!",
+    "exHit": "blaze",
+    "exVi": "Anh ở nơi hẻo lánh, làm việc ngày đêm, cố ngăn đám cháy lan rộng!"
   },
   {
     "word": "firefighter",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a person whose job is to put out fires (male or female)",
     "vi": "lính cứu hỏa",
-    "viDef": "người làm nghề dập lửa (nam hay nữ)"
+    "viDef": "người làm nghề dập lửa (nam hay nữ)",
+    "ex": "My brother is a firefighter, and he saves people every day.",
+    "exHit": "firefighter",
+    "exVi": "Anh trai tôi là lính cứu hỏa, và ngày nào anh ấy cũng cứu người."
   },
   {
     "word": "the boonies",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "a place far from cities or towns (informal)",
     "vi": "vùng khỉ ho cò gáy",
-    "viDef": "nơi cách xa phố thị (thân mật)"
+    "viDef": "nơi cách xa phố thị (thân mật)",
+    "ex": "My grandparents live way out in the boonies.",
+    "exHit": "the boonies",
+    "exVi": "Ông bà tôi sống tận vùng hẻo lánh."
   },
   {
     "word": "first thing in the afternoon",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "early in the afternoon, before anything else",
     "vi": "đầu giờ chiều",
-    "viDef": "ngay lúc chiều mới bắt đầu, trước mọi việc khác"
+    "viDef": "ngay lúc chiều mới bắt đầu, trước mọi việc khác",
+    "ex": "I'll call the doctor first thing in the afternoon.",
+    "exHit": "first thing in the afternoon",
+    "exVi": "Tôi sẽ gọi bác sĩ ngay đầu giờ chiều."
   },
   {
     "word": "pregnancy test",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a medical test done to see if a woman is pregnant",
     "vi": "que thử thai",
-    "viDef": "xét nghiệm xem người phụ nữ có mang thai không"
+    "viDef": "xét nghiệm xem người phụ nữ có mang thai không",
+    "ex": "She took a pregnancy test, and it was positive.",
+    "exHit": "pregnancy test",
+    "exVi": "Cô ấy thử thai và kết quả dương tính."
   },
   {
     "word": "check-up",
@@ -101,6 +137,9 @@
     "type": "common noun, singular",
     "def": "an appointment to see the doctor to make sure the person is healthy",
     "vi": "buổi kiểm tra sức khỏe",
-    "viDef": "hẹn gặp bác sĩ để xem sức khỏe có ổn không"
+    "viDef": "hẹn gặp bác sĩ để xem sức khỏe có ổn không",
+    "ex": "I have a check-up at the clinic next Monday.",
+    "exHit": "check-up",
+    "exVi": "Thứ Hai tuần sau tôi có lịch khám sức khỏe ở phòng khám."
   }
 ]

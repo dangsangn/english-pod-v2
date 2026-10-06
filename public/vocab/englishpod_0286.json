@@ -5,7 +5,10 @@
     "type": "",
     "def": "existing, happening, or available in a store",
     "vi": "đang chờ phía trước",
-    "viDef": "đang có, sắp xảy ra hoặc có sẵn trong kho"
+    "viDef": "đang có, sắp xảy ra hoặc có sẵn trong kho",
+    "ex": "The campaign that we have in store for the x420 is exciting, imaginative and revolutionary.",
+    "exHit": "in store",
+    "exVi": "Chiến dịch chúng tôi chuẩn bị sẵn cho x420 rất thú vị, giàu trí tưởng tượng và mang tính cách mạng."
   },
   {
     "word": "hammer home",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to emphasize a point",
     "vi": "nhấn cho thấm",
-    "viDef": "nhấn mạnh một ý"
+    "viDef": "nhấn mạnh một ý",
+    "ex": "Our campaign will really hammer home the point that the x420 is a state-of-the-art laptop for all of your computing needs.",
+    "exHit": "hammer home",
+    "exVi": "Chiến dịch của chúng tôi sẽ nhấn mạnh rằng x420 là chiếc laptop hiện đại nhất cho mọi nhu cầu máy tính của bạn."
   },
   {
     "word": "unveil",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to show or reveal",
     "vi": "trình ra, hé lộ",
-    "viDef": "cho thấy hoặc tiết lộ"
+    "viDef": "cho thấy hoặc tiết lộ",
+    "ex": "I'm excited to say that today, for the first time, we will unveil to all of you here the first of these advertisements!",
+    "exHit": "unveil",
+    "exVi": "Tôi rất vui được nói rằng hôm nay, lần đầu tiên, chúng tôi sẽ giới thiệu với tất cả quý vị đoạn quảng cáo đầu tiên trong số đó!"
   },
   {
     "word": "each and every",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a more forceful way of saying each",
     "vi": "từng một",
-    "viDef": "cách nói nhấn mạnh hơn của \"mỗi\""
+    "viDef": "cách nói nhấn mạnh hơn của \"mỗi\"",
+    "ex": "I would like to say that without the assistance and support of each and every one of you we really could not have devised this campaign.",
+    "exHit": "each and every",
+    "exVi": "Tôi muốn nói rằng nếu không có sự hỗ trợ của từng người trong các bạn, chúng tôi đã không thể xây dựng nên chiến dịch này."
   },
   {
     "word": "breakthrough",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a significant or sudden advance",
     "vi": "bước tiến vượt bậc",
-    "viDef": "sự tiến bộ đáng kể hoặc đột ngột"
+    "viDef": "sự tiến bộ đáng kể hoặc đột ngột",
+    "ex": "The scientists announced a major breakthrough in cancer research.",
+    "exHit": "breakthrough",
+    "exVi": "Các nhà khoa học công bố một bước đột phá lớn trong nghiên cứu ung thư."
   },
   {
     "word": "sleek",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "smooth, glossy, graceful, refined-looking",
     "vi": "bóng bẩy",
-    "viDef": "mượt, sáng, thanh và trông tinh tế"
+    "viDef": "mượt, sáng, thanh và trông tinh tế",
+    "ex": "I love the sleek design of this new laptop.",
+    "exHit": "sleek",
+    "exVi": "Tôi thích thiết kế bóng bẩy của chiếc laptop mới này."
   },
   {
     "word": "mind-boggling",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "something that overwhelms the mind; beyond comprehension",
     "vi": "choáng ngợp đầu óc",
-    "viDef": "thứ làm đầu óc ngợp, vượt tầm hiểu"
+    "viDef": "thứ làm đầu óc ngợp, vượt tầm hiểu",
+    "ex": "The size of the universe is mind-boggling.",
+    "exHit": "mind-boggling",
+    "exVi": "Kích thước của vũ trụ thật choáng ngợp."
   },
   {
     "word": "multitask",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to do several different things simultaneously",
     "vi": "làm nhiều việc một lúc",
-    "viDef": "cùng lúc làm nhiều việc khác nhau"
+    "viDef": "cùng lúc làm nhiều việc khác nhau",
+    "ex": "I can't multitask when I'm trying to write a report.",
+    "exHit": "multitask",
+    "exVi": "Tôi không thể làm nhiều việc cùng lúc khi đang cố viết báo cáo."
   },
   {
     "word": "masses",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "the general populace, the common people",
     "vi": "đại chúng",
-    "viDef": "dân chúng nói chung, người bình thường"
+    "viDef": "dân chúng nói chung, người bình thường",
+    "ex": "This cheap phone is designed for the masses.",
+    "exHit": "masses",
+    "exVi": "Chiếc điện thoại giá rẻ này được thiết kế cho đại chúng."
   }
 ]

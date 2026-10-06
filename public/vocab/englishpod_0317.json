@@ -5,7 +5,10 @@
     "type": "",
     "def": "for keeping a record of the content of the part filled out and torn away.",
     "vi": "cuống phiếu",
-    "viDef": "phần giữ lại để lưu nội dung của tờ đã điền và xé đi"
+    "viDef": "phần giữ lại để lưu nội dung của tờ đã điền và xé đi",
+    "ex": "OK, let's start from the top of your pay stub.",
+    "exHit": "stub",
+    "exVi": "Được rồi, mình bắt đầu từ phần trên cùng của phiếu lương nhé."
   },
   {
     "word": "federal",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "of or relating to a form of government or a country in which power is divided between one central and several regional governments",
     "vi": "thuộc liên bang",
-    "viDef": "liên quan tới thể chế hoặc quốc gia mà quyền lực được chia giữa một chính quyền trung ương và nhiều chính quyền vùng"
+    "viDef": "liên quan tới thể chế hoặc quốc gia mà quyền lực được chia giữa một chính quyền trung ương và nhiều chính quyền vùng",
+    "ex": "It's your federal income tax.",
+    "exHit": "federal",
+    "exVi": "Đó là thuế thu nhập liên bang của bạn."
   },
   {
     "word": "income",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "amount of money that you receive",
     "vi": "thu nhập",
-    "viDef": "số tiền bạn nhận được"
+    "viDef": "số tiền bạn nhận được",
+    "ex": "It's your federal income tax.",
+    "exHit": "income",
+    "exVi": "Đó là thuế thu nhập liên bang của bạn."
   },
   {
     "word": "fund",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a sum of money or other resources whose principal or interest is set aside for a specific objective",
     "vi": "quỹ",
-    "viDef": "khoản tiền hoặc nguồn lực mà phần gốc hoặc lãi được dành cho một mục tiêu cụ thể"
+    "viDef": "khoản tiền hoặc nguồn lực mà phần gốc hoặc lãi được dành cho một mục tiêu cụ thể",
+    "ex": "There's the state income tax, and then this SUI SDItax you were asking about is paying into an unemployment and disability fund that our state has set up, but you can see it's a pretty small quantity that they take.",
+    "exHit": "fund",
+    "exVi": "Có thuế thu nhập tiểu bang, rồi khoản SUI SDI mà bạn hỏi là tiền nộp vào quỹ thất nghiệp và khuyết tật mà tiểu bang chúng tôi lập ra, nhưng bạn thấy đó, số tiền họ lấy khá nhỏ."
   },
   {
     "word": "self-explanatory",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "needing no explanation,obvious",
     "vi": "tự nó đã rõ",
-    "viDef": "không cần giải thích, hiển nhiên"
+    "viDef": "không cần giải thích, hiển nhiên",
+    "ex": "The instructions are self-explanatory, so you don't need any help.",
+    "exHit": "self-explanatory",
+    "exVi": "Hướng dẫn quá rõ ràng, nên bạn không cần ai giúp đâu."
   },
   {
     "word": "basic",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "elementary or simple",
     "vi": "cơ bản",
-    "viDef": "sơ đẳng hoặc đơn giản"
+    "viDef": "sơ đẳng hoặc đơn giản",
+    "ex": "My first paycheck covers only the basic things like rent.",
+    "exHit": "basic",
+    "exVi": "Tiền lương đầu tiên của tôi chỉ đủ cho những thứ cơ bản như tiền thuê nhà."
   },
   {
     "word": "jargon",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "language peculiar to a particular trade, profession, or group",
     "vi": "tiếng chuyên ngành",
-    "viDef": "ngôn từ riêng của một nghề, ngành hoặc nhóm"
+    "viDef": "ngôn từ riêng của một nghề, ngành hoặc nhóm",
+    "ex": "I don't understand all this tax jargon on my pay stub.",
+    "exHit": "jargon",
+    "exVi": "Tôi không hiểu hết mấy thuật ngữ chuyên ngành về thuế trên phiếu lương của mình."
   },
   {
     "word": "welfare",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "financial or other assistance to an individual or family from a city, state, or national government",
     "vi": "trợ cấp xã hội",
-    "viDef": "khoản hỗ trợ tiền hoặc thứ khác cho một người hay gia đình từ chính quyền thành phố, tiểu bang hoặc quốc gia"
+    "viDef": "khoản hỗ trợ tiền hoặc thứ khác cho một người hay gia đình từ chính quyền thành phố, tiểu bang hoặc quốc gia",
+    "ex": "Some families receive welfare when they lose their jobs.",
+    "exHit": "welfare",
+    "exVi": "Một số gia đình nhận trợ cấp xã hội khi họ mất việc."
   },
   {
     "word": "deposit",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to place for safekeeping or in trust",
     "vi": "gửi vào",
-    "viDef": "đặt vào nơi cất giữ hoặc ủy thác"
+    "viDef": "đặt vào nơi cất giữ hoặc ủy thác",
+    "ex": "I will deposit my first paycheck at the bank today.",
+    "exHit": "deposit",
+    "exVi": "Hôm nay tôi sẽ gửi tiền lương đầu tiên vào ngân hàng."
   },
   {
     "word": "tax",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a sum of money demanded by a government for its support or for specific facilities or services",
     "vi": "thuế",
-    "viDef": "khoản tiền nhà nước thu để chi cho bộ máy hoặc cho các tiện ích và dịch vụ nhất định"
+    "viDef": "khoản tiền nhà nước thu để chi cho bộ máy hoặc cho các tiện ích và dịch vụ nhất định",
+    "ex": "It's your federal income tax.",
+    "exHit": "tax",
+    "exVi": "Đó là thuế thu nhập liên bang của bạn."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "let's talk about this problem and solve it",
     "vi": "nói cho ra chuyện đi",
-    "viDef": "cùng bàn để giải quyết vấn đề này"
+    "viDef": "cùng bàn để giải quyết vấn đề này",
+    "ex": "Let's talk it over, okay?",
+    "exHit": "Let's talk it over",
+    "exVi": "Chúng ta nói chuyện thẳng thắn về việc này nhé?"
   },
   {
     "word": "come clean",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "confess, tell the truth",
     "vi": "thú thật",
-    "viDef": "nhận và nói ra sự thật"
+    "viDef": "nhận và nói ra sự thật",
+    "ex": "Believe me, it's been so hard for me as well, and time and again, I've thought of coming clean.",
+    "exHit": "coming clean",
+    "exVi": "Tin tôi đi, tôi cũng thấy rất khó khăn, và nhiều lần tôi đã nghĩ đến việc thú nhận."
   },
   {
     "word": "time and again",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "many times",
     "vi": "hết lần này lần khác",
-    "viDef": "nhiều lần rồi"
+    "viDef": "nhiều lần rồi",
+    "ex": "Believe me, it's been so hard for me as well, and time and again, I've thought of coming clean.",
+    "exHit": "time and again",
+    "exVi": "Tin tôi đi, tôi cũng thấy rất khó khăn, và nhiều lần tôi đã nghĩ đến việc thú nhận."
   },
   {
     "word": "deceive",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "To cause to believe what is not true; mislead.",
     "vi": "lừa dối",
-    "viDef": "làm cho ai tin điều không thật"
+    "viDef": "làm cho ai tin điều không thật",
+    "ex": "How could you deceive me like that?",
+    "exHit": "deceive",
+    "exVi": "Sao anh có thể lừa dối em như vậy?"
   },
   {
     "word": "kidding",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "fool or joke",
     "vi": "giỡn",
-    "viDef": "trêu, nói đùa"
+    "viDef": "trêu, nói đùa",
+    "ex": "You have to be kidding me!",
+    "exHit": "kidding",
+    "exVi": "Bạn đang đùa tôi đấy à!"
   },
   {
     "word": "forthright",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "direct; honest; with no lies",
     "vi": "thẳng thắn",
-    "viDef": "trực tiếp, thật lòng, không dối"
+    "viDef": "trực tiếp, thật lòng, không dối",
+    "ex": "I know that this isn't the best time and that you probably hate me right now but, I want to be completely forthright with you.",
+    "exHit": "forthright",
+    "exVi": "Anh biết đây không phải lúc tốt nhất và có lẽ giờ em ghét anh, nhưng anh muốn hoàn toàn thẳng thắn với em."
   },
   {
     "word": "undying",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "endless, lasting forever",
     "vi": "bất diệt",
-    "viDef": "không dứt, còn mãi"
+    "viDef": "không dứt, còn mãi",
+    "ex": "Come with me to India baby, I can't make up for everything that's happened, but I can promise you my undying love.",
+    "exHit": "undying",
+    "exVi": "Hãy đến Ấn Độ với anh, em yêu, anh không thể bù đắp mọi chuyện đã xảy ra, nhưng anh có thể hứa với em tình yêu bất diệt."
   },
   {
     "word": "devoted",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "showing or feeling strong loyalty or love",
     "vi": "một lòng",
-    "viDef": "thể hiện sự trung thành hoặc yêu thương sâu đậm"
+    "viDef": "thể hiện sự trung thành hoặc yêu thương sâu đậm",
+    "ex": "I will be the most devoted husband, and I will cherish you always.",
+    "exHit": "devoted",
+    "exVi": "Anh sẽ là người chồng tận tụy nhất, và anh sẽ luôn trân trọng em."
   },
   {
     "word": "cherish",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "to treat with affection and tenderness",
     "vi": "trân trọng",
-    "viDef": "đối xử trìu mến và dịu dàng"
+    "viDef": "đối xử trìu mến và dịu dàng",
+    "ex": "I will be the most devoted husband, and I will cherish you always.",
+    "exHit": "cherish",
+    "exVi": "Anh sẽ là người chồng tận tụy nhất, và anh sẽ luôn trân trọng em."
   },
   {
     "word": "at the drop of a hat",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "soon, in this very instant",
     "vi": "ngay tức khắc",
-    "viDef": "lập tức, chỉ trong khoảnh khắc"
+    "viDef": "lập tức, chỉ trong khoảnh khắc",
+    "ex": "I can't just leave everything at the drop of a hat!",
+    "exHit": "at the drop of a hat",
+    "exVi": "Em không thể bỏ hết mọi thứ ngay lập tức được!"
   },
   {
     "word": "foundation",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "the base of a structure",
     "vi": "nền tảng",
-    "viDef": "phần móng của một kết cấu"
+    "viDef": "phần móng của một kết cấu",
+    "ex": "I just can't build a relationship on a foundation of lies.",
+    "exHit": "foundation",
+    "exVi": "Em không thể xây dựng một mối quan hệ trên nền tảng của những lời nói dối."
   },
   {
     "word": "integrity",
@@ -93,7 +126,10 @@
     "type": "common noun, non-variable",
     "def": "the quality of being honest and fair",
     "vi": "sự chính trực",
-    "viDef": "phẩm chất trung thực và công bằng"
+    "viDef": "phẩm chất trung thực và công bằng",
+    "ex": "A good doctor should always act with integrity.",
+    "exHit": "integrity",
+    "exVi": "Một bác sĩ giỏi luôn phải hành xử một cách chính trực."
   },
   {
     "word": "cry wolf",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "make people think there is danger when there is none",
     "vi": "báo động giả",
-    "viDef": "làm người ta tưởng có nguy hiểm trong khi không có"
+    "viDef": "làm người ta tưởng có nguy hiểm trong khi không có",
+    "ex": "Don't cry wolf unless you really need our help.",
+    "exHit": "cry wolf",
+    "exVi": "Đừng báo động giả trừ khi bạn thật sự cần chúng tôi giúp."
   },
   {
     "word": "be straight with someone",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "be honest with someone",
     "vi": "nói thẳng với ai",
-    "viDef": "thật lòng với ai"
+    "viDef": "thật lòng với ai",
+    "ex": "Just be straight with me, did you lie to me?",
+    "exHit": "be straight with me",
+    "exVi": "Cứ thành thật với tôi đi, bạn có nói dối tôi không?"
   },
   {
     "word": "level with someone",
@@ -117,7 +159,10 @@
     "type": "phrase",
     "def": "speak honestly",
     "vi": "nói thật với ai",
-    "viDef": "trò chuyện thẳng thắn"
+    "viDef": "trò chuyện thẳng thắn",
+    "ex": "Please level with me, how bad is the situation?",
+    "exHit": "level with me",
+    "exVi": "Làm ơn nói thật với tôi, tình hình tệ đến mức nào?"
   },
   {
     "word": "give you the lowdown",
@@ -125,6 +170,9 @@
     "type": "phrase",
     "def": "tell you true information; tell you the facts",
     "vi": "kể hết ngọn ngành",
-    "viDef": "cho biết thông tin thật, đúng sự việc"
+    "viDef": "cho biết thông tin thật, đúng sự việc",
+    "ex": "Let me give you the lowdown on what really happened.",
+    "exHit": "give you the lowdown",
+    "exVi": "Để tôi nói cho bạn biết sự thật về những gì đã xảy ra."
   }
 ]

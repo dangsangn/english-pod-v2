@@ -5,7 +5,10 @@
     "type": "",
     "def": "turning",
     "vi": "sự quay",
-    "viDef": "việc xoay vòng"
+    "viDef": "việc xoay vòng",
+    "ex": "This is basically due to our position on the planet and the rotation of the earth.",
+    "exHit": "rotation",
+    "exVi": "Điều này về cơ bản là do vị trí của chúng ta trên hành tinh và sự quay của trái đất."
   },
   {
     "word": "daylight savings time",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "one hour earlier than standard time",
     "vi": "giờ tiết kiệm ánh sáng",
-    "viDef": "sớm hơn giờ chuẩn một tiếng"
+    "viDef": "sớm hơn giờ chuẩn một tiếng",
+    "ex": "Did you set your clock forward for daylight savings time?",
+    "exHit": "daylight savings time",
+    "exVi": "Bạn đã chỉnh đồng hồ tiến lên cho giờ mùa hè chưa?"
   },
   {
     "word": "compensate",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "make amends to",
     "vi": "bù lại",
-    "viDef": "đền cho phần thiếu"
+    "viDef": "đền cho phần thiếu",
+    "ex": "In any case, to take better advantage of the daylight available, we compensate by moving our clocks forward one hour.",
+    "exHit": "compensate",
+    "exVi": "Dù sao, để tận dụng tốt hơn ánh sáng ban ngày, chúng ta bù lại bằng cách chỉnh đồng hồ sớm lên một giờ."
   },
   {
     "word": "time zone",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a region where the same standard time is used",
     "vi": "múi giờ",
-    "viDef": "vùng dùng cùng một giờ chuẩn"
+    "viDef": "vùng dùng cùng một giờ chuẩn",
+    "ex": "I never know what time zone we are in or when to change my clock!",
+    "exHit": "time zone",
+    "exVi": "Tôi chẳng bao giờ biết mình đang ở múi giờ nào hay khi nào cần chỉnh đồng hồ!"
   },
   {
     "word": "go back in time",
@@ -37,6 +49,9 @@
     "type": "",
     "def": "be punctual to go back",
     "vi": "lùi giờ lại",
-    "viDef": "quay về đúng mốc thời gian cũ"
+    "viDef": "quay về đúng mốc thời gian cũ",
+    "ex": "When the clocks change in the fall, we go back in time by one hour.",
+    "exHit": "go back in time",
+    "exVi": "Khi đồng hồ được chỉnh vào mùa thu, chúng ta quay ngược thời gian một giờ."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "a machine used for cutting food and ice and mixing",
     "vi": "máy xay sinh tố",
-    "viDef": "máy dùng cắt thức ăn, đá và trộn lẫn"
+    "viDef": "máy dùng cắt thức ăn, đá và trộn lẫn",
+    "ex": "Well, the first thing on my list is a new blender.",
+    "exHit": "blender",
+    "exVi": "Việc đầu tiên trong danh sách của tôi là mua một cái máy xay sinh tố mới."
   },
   {
     "word": "juicer",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a machine used for making juice",
     "vi": "máy ép trái cây",
-    "viDef": "máy dùng để làm nước ép"
+    "viDef": "máy dùng để làm nước ép",
+    "ex": "I decided to also get a juicer and a new coffee maker.",
+    "exHit": "juicer",
+    "exVi": "Tôi cũng quyết định mua thêm một cái máy ép trái cây và một cái máy pha cà phê mới."
   },
   {
     "word": "mixer",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a machine used for mixing things",
     "vi": "máy trộn",
-    "viDef": "máy dùng để đánh trộn"
+    "viDef": "máy dùng để đánh trộn",
+    "ex": "Don't forget to also get a new mixer.",
+    "exHit": "mixer",
+    "exVi": "Đừng quên mua thêm một cái máy trộn mới nhé."
   },
   {
     "word": "toaster",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a machine used for toasting bread",
     "vi": "máy nướng bánh mì",
-    "viDef": "máy dùng để nướng bánh mì"
+    "viDef": "máy dùng để nướng bánh mì",
+    "ex": "I also decided to throw away the old toaster and get a new one.",
+    "exHit": "toaster",
+    "exVi": "Tôi cũng quyết định bỏ cái máy nướng bánh mì cũ và mua cái mới."
   },
   {
     "word": "dishwasher",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the machine used for washing dishes",
     "vi": "máy rửa bát",
-    "viDef": "máy dùng để rửa chén đĩa"
+    "viDef": "máy dùng để rửa chén đĩa",
+    "ex": "I'm actually thinking of completely refurnishing the kitchen and getting a new stove, oven, dishwasher and trash compacter.",
+    "exHit": "dishwasher",
+    "exVi": "Thật ra tôi đang nghĩ đến chuyện sửa lại toàn bộ căn bếp và mua bếp, lò nướng, máy rửa chén và máy nén rác mới."
   },
   {
     "word": "microwave oven",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "an oven that uses waves to heat food",
     "vi": "lò vi sóng",
-    "viDef": "lò dùng sóng để hâm thức ăn"
+    "viDef": "lò dùng sóng để hâm thức ăn",
+    "ex": "I heated up the leftover rice in the microwave oven in two minutes.",
+    "exHit": "microwave oven",
+    "exVi": "Tôi hâm nóng phần cơm thừa trong lò vi sóng chỉ trong hai phút."
   },
   {
     "word": "sandwich maker",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "small appliance used to press and heat bread to make sandwiches",
     "vi": "máy kẹp bánh",
-    "viDef": "thiết bị nhỏ dùng ép và làm nóng bánh mì để làm sandwich"
+    "viDef": "thiết bị nhỏ dùng ép và làm nóng bánh mì để làm sandwich",
+    "ex": "Every morning I use a sandwich maker for a quick breakfast.",
+    "exHit": "sandwich maker",
+    "exVi": "Sáng nào tôi cũng dùng máy làm bánh sandwich để làm bữa sáng nhanh."
   },
   {
     "word": "fryer",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "machine that can heat up cooking oil to fry food",
     "vi": "nồi chiên",
-    "viDef": "máy có thể làm nóng dầu để chiên đồ ăn"
+    "viDef": "máy có thể làm nóng dầu để chiên đồ ăn",
+    "ex": "With a fryer, you can make crispy french fries easily.",
+    "exHit": "fryer",
+    "exVi": "Nồi chiên giúp bạn làm món khoai tây chiên giòn mà không cần nhiều dầu."
   },
   {
     "word": "slow cooker",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "a pot that uses low continuous heat to cook food",
     "vi": "nồi hầm chậm",
-    "viDef": "nồi dùng nhiệt thấp liên tục để nấu thức ăn"
+    "viDef": "nồi dùng nhiệt thấp liên tục để nấu thức ăn",
+    "ex": "I put the meat in the slow cooker before work, and dinner is ready when I get home.",
+    "exHit": "slow cooker",
+    "exVi": "Tôi cho thịt vào nồi nấu chậm trước khi đi làm, tối về là có món ăn."
   }
 ]

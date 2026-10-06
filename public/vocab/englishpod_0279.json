@@ -5,7 +5,10 @@
     "type": "",
     "def": "a drug,Marijuana",
     "vi": "cỏ, cần sa",
-    "viDef": "một loại chất gây nghiện, cần sa"
+    "viDef": "một loại chất gây nghiện, cần sa",
+    "ex": "Hey man, you wanna buy some weed?",
+    "exHit": "weed",
+    "exVi": "Này anh bạn, anh có muốn mua chút cần sa không?"
   },
   {
     "word": "come on",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to ask someone to do something (informal)",
     "vi": "thôi nào",
-    "viDef": "câu dùng để rủ hoặc nhờ ai làm gì (thân mật)"
+    "viDef": "câu dùng để rủ hoặc nhờ ai làm gì (thân mật)",
+    "ex": "Come on man!",
+    "exHit": "Come on",
+    "exVi": "Thôi nào anh bạn!"
   },
   {
     "word": "connection",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "A person, especially one of influence or importance, with whom one is associated",
     "vi": "đầu mối quan hệ",
-    "viDef": "người, nhất là người có ảnh hưởng hoặc quan trọng, mà mình có liên hệ"
+    "viDef": "người, nhất là người có ảnh hưởng hoặc quan trọng, mà mình có liên hệ",
+    "ex": "I got my connections!",
+    "exHit": "connections",
+    "exVi": "Tôi có quan hệ rộng mà!"
   },
   {
     "word": "under arrest",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the act of legally taking someone to jail",
     "vi": "bị bắt giữ",
-    "viDef": "việc chính thức đưa ai vào giam"
+    "viDef": "việc chính thức đưa ai vào giam",
+    "ex": "You are under arrest!",
+    "exHit": "under arrest",
+    "exVi": "Anh đã bị bắt!"
   },
   {
     "word": "illicit",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "illegal, not authorized",
     "vi": "trái phép",
-    "viDef": "bất hợp pháp, không được cho phép"
+    "viDef": "bất hợp pháp, không được cho phép",
+    "ex": "The police arrested him for selling illicit drugs.",
+    "exHit": "illicit",
+    "exVi": "Cảnh sát đã bắt giữ ông ta vì buôn bán chất cấm bất hợp pháp."
   },
   {
     "word": "undercover",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to work under the disguise of someone else",
     "vi": "chìm, nằm vùng",
-    "viDef": "hoạt động dưới vỏ bọc một người khác"
+    "viDef": "hoạt động dưới vỏ bọc một người khác",
+    "ex": "An undercover officer pretended to be a buyer to catch the gang.",
+    "exHit": "undercover",
+    "exVi": "Một cảnh sát chìm đã đóng giả người mua để bắt băng nhóm đó."
   },
   {
     "word": "rehab",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a place to recover from addicition",
     "vi": "trung tâm cai",
-    "viDef": "nơi để hồi phục khỏi cơn nghiện"
+    "viDef": "nơi để hồi phục khỏi cơn nghiện",
+    "ex": "After years of addiction, he finally went to rehab.",
+    "exHit": "rehab",
+    "exVi": "Sau nhiều năm nghiện ngập, anh ấy cuối cùng cũng đi cai nghiện."
   },
   {
     "word": "withdrawal",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to stop using something; the feeling you get when you stop using drugs",
     "vi": "hội chứng cai",
-    "viDef": "việc ngưng dùng thứ gì; cảm giác khi cắt thuốc"
+    "viDef": "việc ngưng dùng thứ gì; cảm giác khi cắt thuốc",
+    "ex": "When he quit, he had very unpleasant withdrawal symptoms.",
+    "exHit": "withdrawal",
+    "exVi": "Khi bỏ thuốc, anh ấy bị các triệu chứng cai rất khó chịu."
   },
   {
     "word": "craving",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a desire to do something (eat, do drugs, smoke, etc.)",
     "vi": "cơn thèm",
-    "viDef": "ham muốn làm việc gì như ăn, dùng thuốc, hút..."
+    "viDef": "ham muốn làm việc gì như ăn, dùng thuốc, hút...",
+    "ex": "She still has a craving for cigarettes even after three months.",
+    "exHit": "craving",
+    "exVi": "Cô ấy vẫn thèm thuốc lá dù đã bỏ được ba tháng."
   },
   {
     "word": "high",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a feeling you get when you are on drugs",
     "vi": "cảm giác phê",
-    "viDef": "trạng thái khi đang chịu tác dụng của chất gây nghiện"
+    "viDef": "trạng thái khi đang chịu tác dụng của chất gây nghiện",
+    "ex": "He said the high after taking the drug only lasted a few minutes.",
+    "exHit": "high",
+    "exVi": "Anh ấy nói cảm giác phê sau khi dùng thuốc chỉ kéo dài vài phút."
   },
   {
     "word": "hallucinate",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "to have hallucinations, where your brain imagines things that are not there",
     "vi": "bị ảo giác",
-    "viDef": "thấy những thứ do đầu tự tưởng ra chứ không có thật"
+    "viDef": "thấy những thứ do đầu tự tưởng ra chứ không có thật",
+    "ex": "After taking the drug, he began to hallucinate and see things that were not there.",
+    "exHit": "hallucinate",
+    "exVi": "Sau khi dùng thuốc, anh ta bắt đầu bị ảo giác và thấy những thứ không có thật."
   }
 ]

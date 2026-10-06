@@ -5,7 +5,10 @@
     "type": "",
     "def": "something that you sell as part of payment for new",
     "vi": "xe đổi cũ lấy mới",
-    "viDef": "thứ bạn bán lại để trừ vào tiền mua cái mới"
+    "viDef": "thứ bạn bán lại để trừ vào tiền mua cái mới",
+    "ex": "I have this old Ford Pinto that I would like to trade in.",
+    "exHit": "trade in",
+    "exVi": "Tôi có chiếc Ford Pinto cũ này và muốn đổi lấy xe mới."
   },
   {
     "word": "miles",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "unit measuring distance",
     "vi": "số dặm",
-    "viDef": "đơn vị đo khoảng cách"
+    "viDef": "đơn vị đo khoảng cách",
+    "ex": "How many miles to the gallon?",
+    "exHit": "miles",
+    "exVi": "Một ga-lông chạy được bao nhiêu dặm?"
   },
   {
     "word": "fuel",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "something that can be turned into energy",
     "vi": "nhiên liệu",
-    "viDef": "thứ có thể chuyển thành năng lượng"
+    "viDef": "thứ có thể chuyển thành năng lượng",
+    "ex": "Especially now that fuel prices are so high!",
+    "exHit": "fuel",
+    "exVi": "Nhất là bây giờ giá nhiên liệu đang quá cao!"
   },
   {
     "word": "down payment",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "first payment that you pay when buy something",
     "vi": "tiền trả trước",
-    "viDef": "khoản đầu tiên phải trả khi mua thứ gì"
+    "viDef": "khoản đầu tiên phải trả khi mua thứ gì",
+    "ex": "You can take it out of this lot today with 0% down payment and no interest for the first year!",
+    "exHit": "down payment",
+    "exVi": "Hôm nay anh có thể lái xe ra khỏi bãi với khoản trả trước 0 phần trăm và không lãi suất trong năm đầu tiên!"
   },
   {
     "word": "interest",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "money paid by a borrower for the borrowed money",
     "vi": "tiền lãi",
-    "viDef": "tiền người vay trả cho khoản đã vay"
+    "viDef": "tiền người vay trả cho khoản đã vay",
+    "ex": "You can take it out of this lot today with 0% down payment and no interest for the first year!",
+    "exHit": "interest",
+    "exVi": "Hôm nay anh có thể lái xe ra khỏi bãi với khoản trả trước 0 phần trăm và không lãi suất trong năm đầu tiên!"
   },
   {
     "word": "lemon",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "something that is sold, that seems like a good deal but actually does not work the way it should",
     "vi": "hàng dở bán ra",
-    "viDef": "thứ được bán, trông như món hời nhưng thật ra không chạy đúng như đáng lẽ"
+    "viDef": "thứ được bán, trông như món hời nhưng thật ra không chạy đúng như đáng lẽ",
+    "ex": "That used car turned out to be a lemon, and it broke down within a week.",
+    "exHit": "lemon",
+    "exVi": "Chiếc xe cũ đó hóa ra là hàng lởm, mới mua tuần trước mà đã hỏng."
   },
   {
     "word": "warranty",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a guarantee on something sold, that would pay for a certain amount of damage to the product",
     "vi": "bảo hành",
-    "viDef": "cam kết kèm khi bán, sẽ chi trả cho một mức hư hại nhất định của sản phẩm"
+    "viDef": "cam kết kèm khi bán, sẽ chi trả cho một mức hư hại nhất định của sản phẩm",
+    "ex": "This car still has a three-year warranty, so you don't have to worry.",
+    "exHit": "warranty",
+    "exVi": "Chiếc xe này còn bảo hành ba năm nên bạn không phải lo."
   },
   {
     "word": "limited-time offer",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a promotion that is only available for a certain amount of time",
     "vi": "ưu đãi có hạn",
-    "viDef": "chương trình chỉ áp dụng trong một khoảng thời gian nhất định"
+    "viDef": "chương trình chỉ áp dụng trong một khoảng thời gian nhất định",
+    "ex": "This is a limited-time offer, so you have to decide today.",
+    "exHit": "limited-time offer",
+    "exVi": "Đây chỉ là ưu đãi có thời hạn, nên bạn phải quyết định ngay hôm nay."
   },
   {
     "word": "rip off",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to give someone a bad deal",
     "vi": "chặt giá ai",
-    "viDef": "bán cho ai với giá quá bất lợi"
+    "viDef": "bán cho ai với giá quá bất lợi",
+    "ex": "I think that seller is trying to rip me off with such a high price.",
+    "exHit": "rip me off",
+    "exVi": "Tôi nghĩ người bán đó đang lừa tôi khi đòi giá cao như vậy."
   },
   {
     "word": "ripoff",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a bad deal",
     "vi": "vụ hớ nặng",
-    "viDef": "một món mua bán bất lợi"
+    "viDef": "một món mua bán bất lợi",
+    "ex": "Paying 500 dollars for this shirt is a total ripoff.",
+    "exHit": "ripoff",
+    "exVi": "Trả những 500 đô cho chiếc áo này đúng là bị chặt chém."
   }
 ]

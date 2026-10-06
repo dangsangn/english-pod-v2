@@ -5,7 +5,10 @@
     "type": "",
     "def": "an electronic system enabling the recording and storage of voice messages.",
     "vi": "hộp thư thoại",
-    "viDef": "hệ thống điện tử cho phép ghi và lưu các lời nhắn bằng giọng nói"
+    "viDef": "hệ thống điện tử cho phép ghi và lưu các lời nhắn bằng giọng nói",
+    "ex": "Can you help me set up my voicemail message?",
+    "exHit": "voicemail",
+    "exVi": "Bạn giúp tôi cài đặt tin nhắn thư thoại được không?"
   },
   {
     "word": "record",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "set down in writing or voice or the like",
     "vi": "ghi lại",
-    "viDef": "chép lại bằng chữ, bằng giọng nói hoặc cách tương tự"
+    "viDef": "chép lại bằng chữ, bằng giọng nói hoặc cách tương tự",
+    "ex": "Can you say that again and record it for me?",
+    "exHit": "record",
+    "exVi": "Bạn nói lại lần nữa và ghi âm lại cho tôi được không?"
   },
   {
     "word": "basically",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "essentially,fundamentally",
     "vi": "về cơ bản",
-    "viDef": "thực chất, nói cho gọn"
+    "viDef": "thực chất, nói cho gọn",
+    "ex": "You just basically gotta let the caller know who they called, and ask them for their contact information so you can call them back.",
+    "exHit": "basically",
+    "exVi": "Về cơ bản bạn chỉ cần cho người gọi biết họ đã gọi cho ai, và xin thông tin liên lạc để bạn gọi lại."
   },
   {
     "word": "service",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the supplying or a supplier of something required by the public.",
     "vi": "dịch vụ",
-    "viDef": "việc cung cấp hoặc bên cung cấp thứ mà công chúng cần"
+    "viDef": "việc cung cấp hoặc bên cung cấp thứ mà công chúng cần",
+    "ex": "I just got this service and I am not really sure what I am supposed to say.",
+    "exHit": "service",
+    "exVi": "Tôi mới đăng ký dịch vụ này và không chắc mình phải nói gì."
   },
   {
     "word": "set up",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "prepare",
     "vi": "chuẩn bị, thiết lập",
-    "viDef": "sắp cho sẵn sàng"
+    "viDef": "sắp cho sẵn sàng",
+    "ex": "Can you help me set up my voicemail message?",
+    "exHit": "set up",
+    "exVi": "Bạn giúp tôi cài đặt tin nhắn thư thoại được không?"
   },
   {
     "word": "fundamentally",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a foundation or basis; basic",
     "vi": "về căn bản",
-    "viDef": "thuộc nền tảng hoặc cơ sở"
+    "viDef": "thuộc nền tảng hoặc cơ sở",
+    "ex": "These two plans are fundamentally different.",
+    "exHit": "fundamentally",
+    "exVi": "Hai kế hoạch này khác nhau về cơ bản."
   },
   {
     "word": "repair",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to restore to a good or sound condition after decay or damage",
     "vi": "sửa chữa",
-    "viDef": "khôi phục về trạng thái tốt sau khi hư hỏng hoặc xuống cấp"
+    "viDef": "khôi phục về trạng thái tốt sau khi hư hỏng hoặc xuống cấp",
+    "ex": "I need to repair my phone because it won't turn on.",
+    "exHit": "repair",
+    "exVi": "Tôi cần sửa điện thoại vì nó không bật lên được."
   },
   {
     "word": "available",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "accessible",
     "vi": "có thể liên lạc",
-    "viDef": "sẵn sàng, tiếp cận được"
+    "viDef": "sẵn sàng, tiếp cận được",
+    "ex": "I'm not available right now, so please leave a message.",
+    "exHit": "available",
+    "exVi": "Hiện giờ tôi không rảnh nên xin hãy để lại lời nhắn."
   },
   {
     "word": "tape",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a ribbon of material used to record sound, images,data",
     "vi": "băng ghi",
-    "viDef": "dải vật liệu dùng ghi âm thanh, hình ảnh hoặc dữ liệu"
+    "viDef": "dải vật liệu dùng ghi âm thanh, hình ảnh hoặc dữ liệu",
+    "ex": "The old answering machine uses a small tape.",
+    "exHit": "tape",
+    "exVi": "Chiếc máy trả lời tự động cũ dùng một cuộn băng nhỏ."
   },
   {
     "word": "static",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "atmospheric electricity interfering with radar, radio, the sending and receiving of wireless messages",
     "vi": "tiếng nhiễu",
-    "viDef": "điện trong khí quyển gây nhiễu radar, radio hoặc việc gửi nhận tin không dây"
+    "viDef": "điện trong khí quyển gây nhiễu radar, radio hoặc việc gửi nhận tin không dây",
+    "ex": "There was a lot of static on the phone line.",
+    "exHit": "static",
+    "exVi": "Đường dây điện thoại có rất nhiều nhiễu."
   }
 ]

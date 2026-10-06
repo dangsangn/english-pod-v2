@@ -5,7 +5,10 @@
     "type": "",
     "def": "November 2 observed in some Christian churches as the day of the dead",
     "vi": "Lễ Các Đẳng Linh Hồn",
-    "viDef": "ngày 2 tháng 11, một số nhà thờ Kitô giáo giữ làm ngày cầu cho người đã mất"
+    "viDef": "ngày 2 tháng 11, một số nhà thờ Kitô giáo giữ làm ngày cầu cho người đã mất",
+    "ex": "The Day of the Dead has arrived All Soul's Day and All Saint's Day!",
+    "exHit": "All Soul's Day",
+    "exVi": "Ngày Người Chết đã đến, Lễ Các Linh Hồn và Lễ Các Thánh!"
   },
   {
     "word": "among",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "among",
     "vi": "giữa, trong số",
-    "viDef": "ở trong nhóm"
+    "viDef": "ở trong nhóm",
+    "ex": "This is a very special day among many cultures around the world especially in Latin America",
+    "exHit": "among",
+    "exVi": "Đây là một ngày rất đặc biệt trong nhiều nền văn hóa trên thế giới, đặc biệt ở châu Mỹ Latinh."
   },
   {
     "word": "honor",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "confer honor on",
     "vi": "tôn vinh",
-    "viDef": "dành sự kính trọng cho ai"
+    "viDef": "dành sự kính trọng cho ai",
+    "ex": "They hold a ceremony every year honoring the soldiers.",
+    "exHit": "honoring",
+    "exVi": "Hằng năm họ tổ chức một buổi lễ tưởng nhớ các người lính."
   },
   {
     "word": "the departed",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the people who have passed away",
     "vi": "người đã khuất",
-    "viDef": "những người đã qua đời"
+    "viDef": "những người đã qua đời",
+    "ex": "We lit candles to remember the departed.",
+    "exHit": "the departed",
+    "exVi": "Chúng tôi thắp nến để tưởng nhớ những người đã khuất."
   },
   {
     "word": "pass away",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to die, to perish",
     "vi": "qua đời",
-    "viDef": "chết, mất"
+    "viDef": "chết, mất",
+    "ex": "My grandfather passed away last spring, and the whole family came to the funeral.",
+    "exHit": "passed away",
+    "exVi": "Ông tôi mất vào mùa xuân năm ngoái, và cả gia đình đã đến dự tang lễ."
   },
   {
     "word": "burial",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the act of burying, esp the interment of a dead body",
     "vi": "việc mai táng",
-    "viDef": "việc chôn, nhất là chôn thi hài"
+    "viDef": "việc chôn, nhất là chôn thi hài",
+    "ex": "Have you bought a burial plot and a casket?",
+    "exHit": "burial",
+    "exVi": "Bạn đã mua khu đất chôn cất và quan tài chưa?"
   },
   {
     "word": "wake",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A watch over the body of a deceased person before burial, sometimes accompanied by festivity. Also called regionally viewing.",
     "vi": "lễ canh thức",
-    "viDef": "buổi thức bên thi hài trước khi chôn, có khi kèm phần tiệc"
+    "viDef": "buổi thức bên thi hài trước khi chôn, có khi kèm phần tiệc",
+    "ex": "Many relatives stayed up all night at the wake to remember him.",
+    "exHit": "wake",
+    "exVi": "Nhiều người thân thức suốt đêm ở lễ viếng để tưởng nhớ ông ấy."
   },
   {
     "word": "funeral procession",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A group of persons, vehicles, or objects moving along a casket through the streets",
     "vi": "đoàn đưa tang",
-    "viDef": "đoàn người và xe đi cùng linh cữu qua các phố"
+    "viDef": "đoàn người và xe đi cùng linh cữu qua các phố",
+    "ex": "Cars stopped on the street to let the funeral procession pass slowly.",
+    "exHit": "funeral procession",
+    "exVi": "Xe cộ dừng lại trên đường để đoàn đưa tang chậm rãi đi qua."
   },
   {
     "word": "cremate",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "to burn up (something, esp a corpse) and reduce to ash",
     "vi": "hỏa táng",
-    "viDef": "thiêu thi hài thành tro"
+    "viDef": "thiêu thi hài thành tro",
+    "ex": "Some families choose to cremate their loved ones instead of burying them.",
+    "exHit": "cremate",
+    "exVi": "Một số gia đình chọn hỏa táng người thân thay vì chôn cất."
   }
 ]

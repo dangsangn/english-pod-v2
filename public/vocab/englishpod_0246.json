@@ -5,7 +5,10 @@
     "type": "",
     "def": "a ticket that allows you only to go to a certain destination",
     "vi": "vé một chiều",
-    "viDef": "vé chỉ cho đi tới một điểm đến"
+    "viDef": "vé chỉ cho đi tới một điểm đến",
+    "ex": "Hi, I would like to purchase a one way ticket to Brussels please.",
+    "exHit": "one way ticket",
+    "exVi": "Chào bạn, tôi muốn mua một vé một chiều đến Brussels."
   },
   {
     "word": "depart",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to leave, start a voyage",
     "vi": "khởi hành",
-    "viDef": "rời đi, bắt đầu chuyến đi"
+    "viDef": "rời đi, bắt đầu chuyến đi",
+    "ex": "We have an express train departing every morning and an overnight train that departs at nine pm.",
+    "exHit": "departing",
+    "exVi": "Chúng tôi có một chuyến tàu tốc hành khởi hành mỗi sáng và một chuyến tàu đêm khởi hành lúc chín giờ tối."
   },
   {
     "word": "platform",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "A flat elevated portion of ground",
     "vi": "sân ke tàu",
-    "viDef": "khoảng mặt bằng cao lên"
+    "viDef": "khoảng mặt bằng cao lên",
+    "ex": "Your train leaves from platform number nine at nine on the dot.",
+    "exHit": "platform",
+    "exVi": "Tàu của bạn rời ga từ sân ga số chín vào đúng chín giờ."
   },
   {
     "word": "on the dot",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "on time, precisely at a certain time",
     "vi": "đúng boong",
-    "viDef": "đúng giờ, chính xác vào lúc đó"
+    "viDef": "đúng giờ, chính xác vào lúc đó",
+    "ex": "Your train leaves from platform number nine at nine on the dot.",
+    "exHit": "on the dot",
+    "exVi": "Tàu của bạn rời ga từ sân ga số chín vào đúng chín giờ."
   },
   {
     "word": "scheduled departure time",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "planned at a specific time to leave",
     "vi": "giờ khởi hành theo lịch",
-    "viDef": "thời điểm đã định để đi"
+    "viDef": "thời điểm đã định để đi",
+    "ex": "Remember to be here at least thirty minutes before your scheduled departure time or else you might miss your train!",
+    "exHit": "scheduled departure time",
+    "exVi": "Nhớ có mặt ở đây ít nhất ba mươi phút trước giờ khởi hành dự kiến, nếu không bạn có thể lỡ tàu đấy!"
   },
   {
     "word": "round-trip ticket",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a ticket to travel to and from your destination",
     "vi": "vé khứ hồi",
-    "viDef": "vé đi tới nơi và về lại"
+    "viDef": "vé đi tới nơi và về lại",
+    "ex": "Can I get a round-trip ticket to Brussels, please?",
+    "exHit": "round-trip ticket",
+    "exVi": "Cho tôi mua một vé khứ hồi đến Brussels nhé?"
   },
   {
     "word": "coach",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a less expensive travel seating option",
     "vi": "ghế phổ thông",
-    "viDef": "lựa chọn chỗ ngồi ít tốn kém hơn"
+    "viDef": "lựa chọn chỗ ngồi ít tốn kém hơn",
+    "ex": "We flew coach because the tickets were much cheaper.",
+    "exHit": "coach",
+    "exVi": "Chúng tôi đi hạng phổ thông vì vé rẻ hơn nhiều."
   },
   {
     "word": "hard-sleeper",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a sleeping train car with less padding",
     "vi": "giường cứng",
-    "viDef": "toa giường ngủ có lớp đệm mỏng"
+    "viDef": "toa giường ngủ có lớp đệm mỏng",
+    "ex": "The hard-sleeper was cheap, but the bed was quite hard.",
+    "exHit": "hard-sleeper",
+    "exVi": "Toa giường cứng thì rẻ, nhưng giường khá cứng."
   },
   {
     "word": "soft-sleeper",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a sleeping train car with more padding",
     "vi": "giường mềm",
-    "viDef": "toa giường ngủ có lớp đệm dày hơn"
+    "viDef": "toa giường ngủ có lớp đệm dày hơn",
+    "ex": "We paid extra for the soft-sleeper so we could rest well.",
+    "exHit": "soft-sleeper",
+    "exVi": "Chúng tôi trả thêm tiền cho toa giường mềm để có thể nghỉ ngơi tốt."
   },
   {
     "word": "train conductor",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "the person in charge of operating the train",
     "vi": "trưởng tàu",
-    "viDef": "người phụ trách vận hành đoàn tàu"
+    "viDef": "người phụ trách vận hành đoàn tàu",
+    "ex": "The train conductor checked everyone's tickets before the next stop.",
+    "exHit": "train conductor",
+    "exVi": "Nhân viên soát vé trên tàu đã kiểm tra vé của mọi người trước trạm kế tiếp."
   }
 ]

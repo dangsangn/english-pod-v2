@@ -5,7 +5,10 @@
     "type": "",
     "def": "related to business",
     "vi": "thuộc doanh nghiệp",
-    "viDef": "liên quan tới kinh doanh"
+    "viDef": "liên quan tới kinh doanh",
+    "ex": "No matter what I do I'm going to ace this test and go on to become a corporate fat cat!",
+    "exHit": "corporate",
+    "exVi": "Dù làm gì đi nữa, tôi cũng sẽ đạt điểm cao bài thi này và trở thành một ông chủ tập đoàn giàu có!"
   },
   {
     "word": "management",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the action of controlling an area of a business",
     "vi": "việc quản trị",
-    "viDef": "hoạt động điều hành một mảng của doanh nghiệp"
+    "viDef": "hoạt động điều hành một mảng của doanh nghiệp",
+    "ex": "Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section.",
+    "exHit": "Management",
+    "exVi": "Graduate Management Admission Test, gồm ba phần: Viết phân tích, phần Định lượng và phần Ngôn ngữ."
   },
   {
     "word": "graduate",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "person who finished university",
     "vi": "người tốt nghiệp",
-    "viDef": "người đã học xong đại học"
+    "viDef": "người đã học xong đại học",
+    "ex": "Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section.",
+    "exHit": "Graduate",
+    "exVi": "Graduate Management Admission Test, gồm ba phần: Viết phân tích, phần Định lượng và phần Ngôn ngữ."
   },
   {
     "word": "GMAT",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "Graduate Management Admissions Test",
     "vi": "kỳ thi GMAT",
-    "viDef": "Graduate Management Admissions Test"
+    "viDef": "Graduate Management Admissions Test",
+    "ex": "The business schools measure your ability through a test called GMAT.",
+    "exHit": "GMAT",
+    "exVi": "Các trường kinh doanh đánh giá năng lực của bạn qua một bài thi gọi là GMAT."
   },
   {
     "word": "analytical",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "pertaining to or proceeding by analysis",
     "vi": "mang tính phân tích",
-    "viDef": "liên quan tới hoặc tiến hành bằng phân tích"
+    "viDef": "liên quan tới hoặc tiến hành bằng phân tích",
+    "ex": "Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section.",
+    "exHit": "Analytical",
+    "exVi": "Graduate Management Admission Test, gồm ba phần: Viết phân tích, phần Định lượng và phần Ngôn ngữ."
   },
   {
     "word": "quantitative",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "type of information based in quantities",
     "vi": "định lượng",
-    "viDef": "loại thông tin dựa trên số lượng"
+    "viDef": "loại thông tin dựa trên số lượng",
+    "ex": "Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section.",
+    "exHit": "Quantitative",
+    "exVi": "Graduate Management Admission Test, gồm ba phần: Viết phân tích, phần Định lượng và phần Ngôn ngữ."
   },
   {
     "word": "verbal",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "consisting of or in the form of words",
     "vi": "bằng ngôn từ",
-    "viDef": "gồm hoặc thể hiện dưới dạng chữ nghĩa"
+    "viDef": "gồm hoặc thể hiện dưới dạng chữ nghĩa",
+    "ex": "Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section.",
+    "exHit": "Verbal",
+    "exVi": "Graduate Management Admission Test, gồm ba phần: Viết phân tích, phần Định lượng và phần Ngôn ngữ."
   },
   {
     "word": "MBA",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "Master of Business Administration",
     "vi": "bằng MBA",
-    "viDef": "Master of Business Administration, thạc sĩ quản trị kinh doanh"
+    "viDef": "Master of Business Administration, thạc sĩ quản trị kinh doanh",
+    "ex": "Well, have you thought of getting an MBA?",
+    "exHit": "MBA",
+    "exVi": "Thế bạn đã nghĩ đến việc học MBA chưa?"
   },
   {
     "word": "fat cat",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A wealthy and privileged person",
     "vi": "tay lắm tiền",
-    "viDef": "người giàu có và nhiều đặc quyền"
+    "viDef": "người giàu có và nhiều đặc quyền",
+    "ex": "No matter what I do I'm going to ace this test and go on to become a corporate fat cat!",
+    "exHit": "fat cat",
+    "exVi": "Dù làm gì đi nữa, tôi cũng sẽ đạt điểm cao bài thi này và trở thành một ông chủ tập đoàn giàu có!"
   },
   {
     "word": "greed",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "excessive desire, as for wealth or power",
     "vi": "lòng tham",
-    "viDef": "ham muốn quá mức về của cải hoặc quyền lực"
+    "viDef": "ham muốn quá mức về của cải hoặc quyền lực",
+    "ex": "His greed made him take more money than he deserved.",
+    "exHit": "greed",
+    "exVi": "Lòng tham khiến anh ta lấy nhiều tiền hơn mức mình xứng đáng."
   },
   {
     "word": "wizard",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a person of amazing skill or accomplishment",
     "vi": "bậc kỳ tài",
-    "viDef": "người có kỹ năng hoặc thành tựu đáng kinh ngạc"
+    "viDef": "người có kỹ năng hoặc thành tựu đáng kinh ngạc",
+    "ex": "My brother is a wizard with numbers, so he's great at the GMAT.",
+    "exHit": "wizard",
+    "exVi": "Anh trai tôi là thiên tài về các con số, nên anh ấy giỏi bài thi GMAT."
   },
   {
     "word": "market",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "the field of trade or business",
     "vi": "thương trường",
-    "viDef": "lĩnh vực buôn bán hoặc kinh doanh"
+    "viDef": "lĩnh vực buôn bán hoặc kinh doanh",
+    "ex": "The teacher will mark your test and give it back on Monday.",
+    "exHit": "mark",
+    "exVi": "Giáo viên sẽ chấm bài thi của bạn và trả lại vào thứ Hai."
   },
   {
     "word": "thesis",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a dissertation on a particular subject in which one has done original research",
     "vi": "luận văn",
-    "viDef": "bài viết dài về một đề tài mà tác giả đã tự nghiên cứu"
+    "viDef": "bài viết dài về một đề tài mà tác giả đã tự nghiên cứu",
+    "ex": "She spent two years writing her thesis on climate change.",
+    "exHit": "thesis",
+    "exVi": "Cô ấy mất hai năm để viết luận văn về biến đổi khí hậu."
   },
   {
     "word": "professor",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "a teacher of the highest academic rank in a college or university",
     "vi": "giáo sư",
-    "viDef": "người dạy ở cấp học thuật cao nhất trong trường đại học"
+    "viDef": "người dạy ở cấp học thuật cao nhất trong trường đại học",
+    "ex": "My professor said the GMAT is not hard if you practice.",
+    "exHit": "professor",
+    "exVi": "Giáo sư của tôi nói bài thi GMAT không khó nếu bạn luyện tập."
   }
 ]

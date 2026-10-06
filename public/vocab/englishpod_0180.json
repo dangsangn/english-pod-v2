@@ -5,7 +5,10 @@
     "type": "",
     "def": "go or run somewhere very quickly",
     "vi": "băng đi",
-    "viDef": "đi hoặc chạy đến đâu thật nhanh"
+    "viDef": "đi hoặc chạy đến đâu thật nhanh",
+    "ex": "Let's dash to the store before it closes.",
+    "exHit": "dash",
+    "exVi": "Mình chạy nhanh đến cửa hàng trước khi nó đóng cửa nhé."
   },
   {
     "word": "o'er",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "over",
     "vi": "qua, trên",
-    "viDef": "dạng thơ của \"over\""
+    "viDef": "dạng thơ của \"over\"",
+    "ex": "O'er the fields we go",
+    "exHit": "O'er",
+    "exVi": "Băng qua những cánh đồng ta đi"
   },
   {
     "word": "bell",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a hollow device that can ring when struck",
     "vi": "cái chuông",
-    "viDef": "vật rỗng phát tiếng khi bị gõ"
+    "viDef": "vật rỗng phát tiếng khi bị gõ",
+    "ex": "Bells on bob tails ring",
+    "exHit": "Bells",
+    "exVi": "Chuông gắn trên xe trượt tuyết đuôi cộc reo vang"
   },
   {
     "word": "make one's spirit bright",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "cheer someone up",
     "vi": "làm lòng phơi phới",
-    "viDef": "khiến ai vui lên"
+    "viDef": "khiến ai vui lên",
+    "ex": "Her cheerful songs always make my spirit bright.",
+    "exHit": "make my spirit bright",
+    "exVi": "Những bài hát vui tươi của cô ấy luôn làm tinh thần tôi phấn chấn."
   },
   {
     "word": "jingle",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "make a gentle ringing noise",
     "vi": "leng keng",
-    "viDef": "phát ra tiếng ngân nhẹ"
+    "viDef": "phát ra tiếng ngân nhẹ",
+    "ex": "Oh, jingle bells, jingle bells",
+    "exHit": "jingle",
+    "exVi": "Ôi, chuông leng keng, chuông leng keng"
   },
   {
     "word": "Christmas carol",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "Christmas song or hymn",
     "vi": "thánh ca Giáng sinh",
-    "viDef": "bài hát hoặc thánh thi mùa Noel"
+    "viDef": "bài hát hoặc thánh thi mùa Noel",
+    "ex": "We sang a Christmas carol at my grandmother's house.",
+    "exHit": "Christmas carol",
+    "exVi": "Chúng tôi hát một bài thánh ca Giáng sinh ở nhà bà tôi."
   },
   {
     "word": "catchy",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "pleasing and easily remembered",
     "vi": "dễ vào tai",
-    "viDef": "nghe thích và dễ nhớ"
+    "viDef": "nghe thích và dễ nhớ",
+    "ex": "That song is so catchy that I can't stop humming it.",
+    "exHit": "catchy",
+    "exVi": "Bài hát đó dễ nhớ đến mức tôi cứ ngân nga mãi."
   },
   {
     "word": "all-time favorite",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "thought of as a favorite in its entire history",
     "vi": "bài được yêu nhất từ trước tới nay",
-    "viDef": "được xem là ưa thích nhất trong suốt cả lịch sử của nó"
+    "viDef": "được xem là ưa thích nhất trong suốt cả lịch sử của nó",
+    "ex": "Jingle Bells is my all-time favorite Christmas song.",
+    "exHit": "all-time favorite",
+    "exVi": "Jingle Bells là bài hát Giáng sinh yêu thích nhất mọi thời đại của tôi."
   },
   {
     "word": "sleigh ride",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a journey in a sleigh pulled by one or more horses",
     "vi": "chuyến xe trượt tuyết",
-    "viDef": "chuyến đi trên xe trượt do một hoặc nhiều con ngựa kéo"
+    "viDef": "chuyến đi trên xe trượt do một hoặc nhiều con ngựa kéo",
+    "ex": "We took a sleigh ride through the snowy forest.",
+    "exHit": "sleigh ride",
+    "exVi": "Chúng tôi đi xe trượt tuyết qua khu rừng phủ đầy tuyết."
   },
   {
     "word": "merry",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "full of cheerfulness, festive",
     "vi": "rộn rã",
-    "viDef": "đầy vui tươi, có không khí lễ"
+    "viDef": "đầy vui tươi, có không khí lễ",
+    "ex": "Have a merry Christmas and a happy new year!",
+    "exHit": "merry",
+    "exVi": "Chúc bạn một Giáng sinh vui vẻ và một năm mới hạnh phúc!"
   }
 ]

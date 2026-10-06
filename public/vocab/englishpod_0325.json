@@ -5,7 +5,10 @@
     "type": "",
     "def": "have holidays",
     "vi": "đi nghỉ",
-    "viDef": "nghỉ phép, đi chơi"
+    "viDef": "nghỉ phép, đi chơi",
+    "ex": "I thought you were on vacation now.",
+    "exHit": "vacation",
+    "exVi": "Tôi tưởng bạn đang đi nghỉ rồi chứ."
   },
   {
     "word": "jealous",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "feeling resentment against someone because of that person's rivalry, success, or advantages",
     "vi": "ganh tị",
-    "viDef": "thấy khó chịu với ai vì người đó hơn mình, thành công hoặc có lợi thế"
+    "viDef": "thấy khó chịu với ai vì người đó hơn mình, thành công hoặc có lợi thế",
+    "ex": "I'm so jealous of you.",
+    "exHit": "jealous",
+    "exVi": "Tôi ghen tị với bạn quá."
   },
   {
     "word": "catch up",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "meet each other",
     "vi": "gặp hàn huyên",
-    "viDef": "gặp lại nhau"
+    "viDef": "gặp lại nhau",
+    "ex": "Anyway, it's been great to catch up, but I must be going, this is my floor.",
+    "exHit": "catch up",
+    "exVi": "Dù sao thì được gặp lại nói chuyện thật vui, nhưng tôi phải đi đây, đến tầng của tôi rồi."
   },
   {
     "word": "floor",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "one of the many levels of a building",
     "vi": "tầng",
-    "viDef": "một trong nhiều tầng của tòa nhà"
+    "viDef": "một trong nhiều tầng của tòa nhà",
+    "ex": "Anyway, it's been great to catch up, but I must be going, this is my floor.",
+    "exHit": "floor",
+    "exVi": "Dù sao thì được gặp lại nói chuyện thật vui, nhưng tôi phải đi đây, đến tầng của tôi rồi."
   },
   {
     "word": "take care",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "deal with",
     "vi": "lo liệu",
-    "viDef": "xử lý việc gì"
+    "viDef": "xử lý việc gì",
+    "ex": "Don't worry, I'll take care of the hotel booking.",
+    "exHit": "take care",
+    "exVi": "Đừng lo, tôi sẽ lo việc đặt phòng khách sạn."
   },
   {
     "word": "for sure",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "phrase of agreement",
     "vi": "chắc chắn rồi",
-    "viDef": "câu tỏ ý đồng tình"
+    "viDef": "câu tỏ ý đồng tình",
+    "ex": "For sure.",
+    "exHit": "For sure",
+    "exVi": "Chắc chắn rồi."
   },
   {
     "word": "envy",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a feeling of discontent with regard to another's advantages, success, possessions",
     "vi": "sự ganh tị",
-    "viDef": "cảm giác không bằng lòng trước lợi thế, thành công hoặc của cải của người khác"
+    "viDef": "cảm giác không bằng lòng trước lợi thế, thành công hoặc của cải của người khác",
+    "ex": "I feel a little envy when I see his new car.",
+    "exHit": "envy",
+    "exVi": "Tôi thấy hơi ghen tị mỗi khi nhìn chiếc xe mới của anh ấy."
   },
   {
     "word": "tourist",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a person who is traveling",
     "vi": "khách du lịch",
-    "viDef": "người đang đi du lịch"
+    "viDef": "người đang đi du lịch",
+    "ex": "No, I'm a tourist.",
+    "exHit": "tourist",
+    "exVi": "Không, tôi là khách du lịch."
   },
   {
     "word": "rat race",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "endless pursuit with little reward or purpose such as job.",
     "vi": "vòng xoáy cơm áo",
-    "viDef": "cuộc đua bất tận mà thu về chẳng bao nhiêu hoặc chẳng để làm gì, chẳng hạn công việc"
+    "viDef": "cuộc đua bất tận mà thu về chẳng bao nhiêu hoặc chẳng để làm gì, chẳng hạn công việc",
+    "ex": "I'm tired of the rat race, so I'm moving to the countryside.",
+    "exHit": "rat race",
+    "exVi": "Tôi mệt mỏi với cuộc đua chuột này rồi nên sẽ chuyển về vùng quê."
   },
   {
     "word": "mid life crisis",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "period of dramatic self-doubt that is felt by some individuals in the \"middle years\" or middle age of life",
     "vi": "khủng hoảng tuổi trung niên",
-    "viDef": "giai đoạn hoài nghi bản thân dữ dội mà một số người trải qua ở tuổi giữa đời"
+    "viDef": "giai đoạn hoài nghi bản thân dữ dội mà một số người trải qua ở tuổi giữa đời",
+    "ex": "My uncle bought a sports car during his mid life crisis.",
+    "exHit": "mid life crisis",
+    "exVi": "Chú tôi mua một chiếc xe thể thao trong cơn khủng hoảng tuổi trung niên."
   }
 ]

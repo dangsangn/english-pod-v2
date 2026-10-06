@@ -5,7 +5,10 @@
     "type": "",
     "def": "movie",
     "vi": "bộ phim",
-    "viDef": "phim ảnh"
+    "viDef": "phim ảnh",
+    "ex": "Plus the cast is hip, young people that make the movie even more enticing.",
+    "exHit": "movie",
+    "exVi": "Thêm vào đó, dàn diễn viên toàn người trẻ, sành điệu khiến bộ phim càng hấp dẫn hơn."
   },
   {
     "word": "vampire",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a dead person who sucks the blood of living person",
     "vi": "ma cà rồng",
-    "viDef": "người đã chết mà hút máu người sống"
+    "viDef": "người đã chết mà hút máu người sống",
+    "ex": "As in the vampire movies?",
+    "exHit": "vampire",
+    "exVi": "Như trong mấy phim về ma cà rồng á?"
   },
   {
     "word": "tale",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a story",
     "vi": "câu chuyện kể",
-    "viDef": "một chuyện"
+    "viDef": "một chuyện",
+    "ex": "It's like a modern tale of Romeo and Juliet.",
+    "exHit": "tale",
+    "exVi": "Nó giống như một câu chuyện hiện đại về Romeo và Juliet."
   },
   {
     "word": "fad",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a temporary fashion or notion",
     "vi": "trào lưu chóng qua",
-    "viDef": "mốt hoặc ý thích tạm thời"
+    "viDef": "mốt hoặc ý thích tạm thời",
+    "ex": "I think it's just a fad.",
+    "exHit": "fad",
+    "exVi": "Tôi nghĩ đó chỉ là một trào lưu nhất thời thôi."
   },
   {
     "word": "werewolves",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a wolf with extraordinary strength",
     "vi": "người sói",
-    "viDef": "sói có sức mạnh khác thường"
+    "viDef": "sói có sức mạnh khác thường",
+    "ex": "Pretty soon this will pass and everyone will be into werewolves or zombies!",
+    "exHit": "werewolves",
+    "exVi": "Chẳng bao lâu nữa trào lưu này sẽ qua và ai cũng sẽ mê người sói hoặc thây ma!"
   },
   {
     "word": "zombie",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a dead corpse, likes to eat brain",
     "vi": "thây ma",
-    "viDef": "xác chết biết đi, thích ăn não"
+    "viDef": "xác chết biết đi, thích ăn não",
+    "ex": "Pretty soon this will pass and everyone will be into werewolves or zombies!",
+    "exHit": "zombies",
+    "exVi": "Chẳng bao lâu nữa trào lưu này sẽ qua và ai cũng sẽ mê người sói hoặc thây ma!"
   },
   {
     "word": "immortal",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "live forever",
     "vi": "bất tử",
-    "viDef": "sống mãi"
+    "viDef": "sống mãi",
+    "ex": "Add in the fact that immortality and super human strength is really sexy and there you have it!",
+    "exHit": "immortality",
+    "exVi": "Thêm vào đó, sự bất tử và sức mạnh siêu phàm thật sự rất quyến rũ, và thế là xong!"
   },
   {
     "word": "entice",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to lead on by exciting hope or desire",
     "vi": "dụ dẫn",
-    "viDef": "lôi kéo bằng cách khơi hy vọng hoặc ham muốn"
+    "viDef": "lôi kéo bằng cách khơi hy vọng hoặc ham muốn",
+    "ex": "Plus the cast is hip, young people that make the movie even more enticing.",
+    "exHit": "enticing",
+    "exVi": "Thêm vào đó, dàn diễn viên toàn người trẻ, sành điệu khiến bộ phim càng hấp dẫn hơn."
   },
   {
     "word": "hip",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "cool, fashionable",
     "vi": "thời thượng",
-    "viDef": "ngầu, hợp mốt"
+    "viDef": "ngầu, hợp mốt",
+    "ex": "Plus the cast is hip, young people that make the movie even more enticing.",
+    "exHit": "hip",
+    "exVi": "Thêm vào đó, dàn diễn viên toàn người trẻ, sành điệu khiến bộ phim càng hấp dẫn hơn."
   },
   {
     "word": "super human strength",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "extraordinary power",
     "vi": "sức mạnh siêu phàm",
-    "viDef": "sức lực khác thường"
+    "viDef": "sức lực khác thường",
+    "ex": "He lifted the whole car, and it looked like super human strength.",
+    "exHit": "super human strength",
+    "exVi": "Anh ấy nhấc nguyên cả chiếc xe lên, trông như có sức mạnh siêu phàm vậy."
   },
   {
     "word": "Ghoul",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "spirit or ghost",
     "vi": "quỷ ăn thịt người",
-    "viDef": "hồn hoặc bóng ma"
+    "viDef": "hồn hoặc bóng ma",
+    "ex": "Kids dressed up as a ghoul for the Halloween party.",
+    "exHit": "ghoul",
+    "exVi": "Bọn trẻ hóa trang thành một con ma quỷ cho bữa tiệc Halloween."
   },
   {
     "word": "horror",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "centered upon or depicting terrifying events",
     "vi": "kinh dị",
-    "viDef": "tập trung vào hoặc mô tả những chuyện gây kinh hoàng"
+    "viDef": "tập trung vào hoặc mô tả những chuyện gây kinh hoàng",
+    "ex": "Tonight we are watching a horror movie, so keep the lights on.",
+    "exHit": "horror",
+    "exVi": "Tối nay tụi mình xem phim kinh dị, nên cứ để đèn sáng nhé."
   },
   {
     "word": "nightmare",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a terrifying dream in which the dreamer experiences feelings of helplessness",
     "vi": "cơn ác mộng",
-    "viDef": "giấc mơ đáng sợ mà người mơ thấy mình hoàn toàn bất lực"
+    "viDef": "giấc mơ đáng sợ mà người mơ thấy mình hoàn toàn bất lực",
+    "ex": "I had a nightmare about vampires chasing me last night.",
+    "exHit": "nightmare",
+    "exVi": "Đêm qua tôi gặp ác mộng, mơ thấy ma cà rồng đuổi theo mình."
   },
   {
     "word": "fan",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "an enthusiastic devotee or follower of a celebrity, pastime, etc",
     "vi": "người hâm mộ",
-    "viDef": "người say mê hoặc theo dõi nhiệt tình một ngôi sao, thú vui..."
+    "viDef": "người say mê hoặc theo dõi nhiệt tình một ngôi sao, thú vui...",
+    "ex": "My sister is a huge fan of vampire movies.",
+    "exHit": "fan",
+    "exVi": "Chị tôi là fan cuồng của các phim ma cà rồng."
   },
   {
     "word": "obsess",
@@ -117,6 +159,9 @@
     "type": "",
     "def": "to think about something unceasingly or persistently",
     "vi": "bị ám ảnh",
-    "viDef": "nghĩ về điều gì không ngớt, dai dẳng"
+    "viDef": "nghĩ về điều gì không ngớt, dai dẳng",
+    "ex": "Don't obsess over the ending, it is only a movie.",
+    "exHit": "obsess",
+    "exVi": "Đừng cứ ám ảnh mãi về cái kết, đó chỉ là một bộ phim thôi mà."
   }
 ]

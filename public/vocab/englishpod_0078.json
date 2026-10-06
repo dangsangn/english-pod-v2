@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "The day that all people in a country will be on holiday",
     "vi": "ngày lễ toàn quốc",
-    "viDef": "ngày cả nước được nghỉ"
+    "viDef": "ngày cả nước được nghỉ",
+    "ex": "It is not considered to be a national holiday here in the US, but in other countries it is.",
+    "exHit": "national holiday",
+    "exVi": "Ở Mỹ, nó không được coi là ngày lễ quốc gia, nhưng ở các nước khác thì có."
   },
   {
     "word": "comprehend",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "understand deeply",
     "vi": "thấu hiểu",
-    "viDef": "hiểu sâu"
+    "viDef": "hiểu sâu",
+    "ex": "It is not enough to simply memorize our laws, it is necessary that we comprehend why and how they were formed.",
+    "exHit": "comprehend",
+    "exVi": "Chỉ ghi nhớ luật pháp của chúng ta là chưa đủ, chúng ta cần hiểu vì sao và bằng cách nào chúng được hình thành."
   },
   {
     "word": "settle down",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "relax, become calm",
     "vi": "lắng lại",
-    "viDef": "thư giãn, trở nên bình tĩnh"
+    "viDef": "thư giãn, trở nên bình tĩnh",
+    "ex": "Alright everyone settle down.",
+    "exHit": "settle down",
+    "exVi": "Được rồi mọi người, trật tự nào."
   },
   {
     "word": "aspect",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "part",
     "vi": "phương diện",
-    "viDef": "một phần, một mặt"
+    "viDef": "một phần, một mặt",
+    "ex": "As you know, an important aspect of becoming a good citizen is understanding the genesis of our legal system.",
+    "exHit": "aspect",
+    "exVi": "Như các bạn biết, một khía cạnh quan trọng để trở thành công dân tốt là hiểu nguồn gốc của hệ thống pháp luật của chúng ta."
   },
   {
     "word": "genesis",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "origin; beginning",
     "vi": "khởi nguồn",
-    "viDef": "gốc gác, buổi đầu"
+    "viDef": "gốc gác, buổi đầu",
+    "ex": "As you know, an important aspect of becoming a good citizen is understanding the genesis of our legal system.",
+    "exHit": "genesis",
+    "exVi": "Như các bạn biết, một khía cạnh quan trọng để trở thành công dân tốt là hiểu nguồn gốc của hệ thống pháp luật của chúng ta."
   },
   {
     "word": "appalling",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "terrible, horrible, shocking",
     "vi": "kinh khủng",
-    "viDef": "tồi tệ, gây sốc"
+    "viDef": "tồi tệ, gây sốc",
+    "ex": "In the nineteenth century, working conditions were appalling, with workers being forced to work ten, twelve, and fourteen hours a day.",
+    "exHit": "appalling",
+    "exVi": "Vào thế kỷ mười chín, điều kiện làm việc thật tồi tệ, công nhân bị buộc phải làm mười, mười hai, thậm chí mười bốn giờ mỗi ngày."
   },
   {
     "word": "indifference",
@@ -53,7 +71,10 @@
     "type": "common noun, non-variable",
     "def": "showing no interest in",
     "vi": "sự thờ ơ",
-    "viDef": "tỏ ra chẳng quan tâm"
+    "viDef": "tỏ ra chẳng quan tâm",
+    "ex": "Support for the eight-hour work day movement was growing rapidly, despite the indifference and hostility of many union leaders, and by April 1886, 250,000 workers were involved in the May Day movement.",
+    "exHit": "indifference",
+    "exVi": "Sự ủng hộ cho phong trào làm việc tám giờ một ngày tăng nhanh, bất chấp sự thờ ơ và thù địch của nhiều lãnh đạo công đoàn, và đến tháng Tư năm 1886, đã có 250.000 công nhân tham gia phong trào Ngày Quốc tế Lao động."
   },
   {
     "word": "hostility",
@@ -61,7 +82,10 @@
     "type": "common noun, non-variable",
     "def": "the attitude of treating something as enemy",
     "vi": "sự thù địch",
-    "viDef": "thái độ coi bên kia là kẻ thù"
+    "viDef": "thái độ coi bên kia là kẻ thù",
+    "ex": "Support for the eight-hour work day movement was growing rapidly, despite the indifference and hostility of many union leaders, and by April 1886, 250,000 workers were involved in the May Day movement.",
+    "exHit": "hostility",
+    "exVi": "Sự ủng hộ cho phong trào làm việc tám giờ một ngày tăng nhanh, bất chấp sự thờ ơ và thù địch của nhiều lãnh đạo công đoàn, và đến tháng Tư năm 1886, đã có 250.000 công nhân tham gia phong trào Ngày Quốc tế Lao động."
   },
   {
     "word": "legislative",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "relating to legal system",
     "vi": "lập pháp",
-    "viDef": "liên quan đến hệ thống luật"
+    "viDef": "liên quan đến hệ thống luật",
+    "ex": "Previous legislative attempts to improve working conditions had failed, so labor organizers took drastic measures.",
+    "exHit": "legislative",
+    "exVi": "Những nỗ lực lập pháp trước đó nhằm cải thiện điều kiện làm việc đều thất bại, nên các nhà tổ chức lao động đã áp dụng những biện pháp quyết liệt."
   },
   {
     "word": "drastic",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "sudden and severe",
     "vi": "quyết liệt, đột ngột",
-    "viDef": "xảy ra thình lình và nặng nề"
+    "viDef": "xảy ra thình lình và nặng nề",
+    "ex": "But it doesn't have to be that drastic.",
+    "exHit": "drastic",
+    "exVi": "Nhưng không cần phải quyết liệt đến thế."
   },
   {
     "word": "resolution",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a formal document stating the wishes of a group",
     "vi": "nghị quyết",
-    "viDef": "văn bản chính thức nêu ý chí của một nhóm"
+    "viDef": "văn bản chính thức nêu ý chí của một nhóm",
+    "ex": "And, on May First 1886, the resolution took effect.",
+    "exHit": "resolution",
+    "exVi": "Và vào ngày mùng một tháng Năm năm 1886, nghị quyết có hiệu lực."
   },
   {
     "word": "constitute",
@@ -93,7 +126,10 @@
     "type": "verb",
     "def": "form, consist",
     "vi": "cấu thành",
-    "viDef": "tạo nên, gồm có"
+    "viDef": "tạo nên, gồm có",
+    "ex": "They passed a resolution stating that eight hours would constitute a legal day's work.",
+    "exHit": "constitute",
+    "exVi": "Họ thông qua một nghị quyết quy định rằng tám giờ sẽ là một ngày làm việc hợp pháp."
   },
   {
     "word": "brutality",
@@ -101,7 +137,10 @@
     "type": "common noun, non-variable",
     "def": "violent treatment or behavior",
     "vi": "sự tàn bạo",
-    "viDef": "hành vi hoặc cách đối xử bạo lực"
+    "viDef": "hành vi hoặc cách đối xử bạo lực",
+    "ex": "A mass meeting was called for the next day to protest the brutality.",
+    "exHit": "brutality",
+    "exVi": "Một cuộc mít tinh lớn được triệu tập vào ngày hôm sau để phản đối sự tàn bạo đó."
   },
   {
     "word": "fire into",
@@ -109,7 +148,10 @@
     "type": "phrase",
     "def": "shoot guns into a place",
     "vi": "nổ súng vào",
-    "viDef": "bắn vào một chỗ"
+    "viDef": "bắn vào một chỗ",
+    "ex": "The guards began to fire into the crowd of workers.",
+    "exHit": "fire into",
+    "exVi": "Lính canh bắt đầu bắn vào đám đông công nhân."
   },
   {
     "word": "in commemoration of",
@@ -117,7 +159,10 @@
     "type": "phrase",
     "def": "describing an event that is done to honor and remember a person or event in history/ in commemoration of",
     "vi": "để tưởng niệm",
-    "viDef": "nói về sự kiện tổ chức nhằm vinh danh và tưởng nhớ một người hoặc một sự kiện lịch sử"
+    "viDef": "nói về sự kiện tổ chức nhằm vinh danh và tưởng nhớ một người hoặc một sự kiện lịch sử",
+    "ex": "We held a ceremony in commemoration of the workers who died.",
+    "exHit": "in commemoration of",
+    "exVi": "Chúng tôi tổ chức một buổi lễ để tưởng nhớ những người công nhân đã mất."
   },
   {
     "word": "proletariat",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "the lowest socioeconomic class; workers",
     "vi": "giai cấp vô sản",
-    "viDef": "tầng lớp thấp nhất về kinh tế - xã hội; người lao động"
+    "viDef": "tầng lớp thấp nhất về kinh tế - xã hội; người lao động",
+    "ex": "Marx wrote a lot about the proletariat and its struggle.",
+    "exHit": "proletariat",
+    "exVi": "Marx viết rất nhiều về giai cấp vô sản và cuộc đấu tranh của họ."
   },
   {
     "word": "rally",
@@ -133,7 +181,10 @@
     "type": "common noun, singular",
     "def": "a public meeting of a large group of people to support or oppose something",
     "vi": "cuộc tuần hành",
-    "viDef": "buổi tập trung đông người để ủng hộ hoặc phản đối điều gì"
+    "viDef": "buổi tập trung đông người để ủng hộ hoặc phản đối điều gì",
+    "ex": "Thousands of workers joined the rally in the city center.",
+    "exHit": "rally",
+    "exVi": "Hàng ngàn công nhân đã tham gia cuộc mít tinh ở trung tâm thành phố."
   },
   {
     "word": "proclamation",
@@ -141,7 +192,10 @@
     "type": "common noun, singular",
     "def": "an offical statement made by a person who has power",
     "vi": "bản tuyên bố",
-    "viDef": "lời công bố chính thức của người có quyền"
+    "viDef": "lời công bố chính thức của người có quyền",
+    "ex": "The president read a proclamation about the new holiday.",
+    "exHit": "proclamation",
+    "exVi": "Tổng thống đã đọc một tuyên bố chính thức về ngày lễ mới."
   },
   {
     "word": "memorial",
@@ -149,6 +203,9 @@
     "type": "common noun, singular",
     "def": "something like a statue, built to remember a person or event from history",
     "vi": "công trình tưởng niệm",
-    "viDef": "tượng hoặc vật dựng lên để nhớ về người hay sự kiện lịch sử"
+    "viDef": "tượng hoặc vật dựng lên để nhớ về người hay sự kiện lịch sử",
+    "ex": "We laid flowers at the memorial for the workers.",
+    "exHit": "memorial",
+    "exVi": "Chúng tôi đặt hoa tại đài tưởng niệm những người công nhân."
   }
 ]

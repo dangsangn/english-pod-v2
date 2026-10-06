@@ -5,7 +5,10 @@
     "type": "",
     "def": "something that makes the air cooler",
     "vi": "điều hòa",
-    "viDef": "thứ làm cho không khí mát hơn"
+    "viDef": "thứ làm cho không khí mát hơn",
+    "ex": "The air conditioning is not working!",
+    "exHit": "air conditioning",
+    "exVi": "Điều hòa không chạy rồi!"
   },
   {
     "word": "handyman",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a person who is skillful at doing small jobs",
     "vi": "thợ sửa chữa lặt vặt",
-    "viDef": "người khéo tay làm được nhiều việc nhỏ"
+    "viDef": "người khéo tay làm được nhiều việc nhỏ",
+    "ex": "The handyman definitely has his work cut out for him.",
+    "exHit": "handyman",
+    "exVi": "Người thợ sửa đồ này chắc chắn có cả đống việc phải làm."
   },
   {
     "word": "on top of that",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "besides that",
     "vi": "thêm nữa là",
-    "viDef": "ngoài chuyện đó"
+    "viDef": "ngoài chuyện đó",
+    "ex": "He forgot my birthday, and on top of that, he never called.",
+    "exHit": "on top of that",
+    "exVi": "Anh ấy quên sinh nhật tôi, mà hơn nữa còn chẳng gọi điện."
   },
   {
     "word": "clog up",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "becomes blocked",
     "vi": "bị nghẽn",
-    "viDef": "trở nên tắc lại"
+    "viDef": "trở nên tắc lại",
+    "ex": "I think they are also getting the handyman to fix the bathroom toilet that keeps clogging up.",
+    "exHit": "clogging up",
+    "exVi": "Tôi nghĩ họ cũng đang nhờ người thợ sửa cái toilet phòng tắm cứ bị tắc."
   },
   {
     "word": "wiring",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the system of wires that carry electricity",
     "vi": "hệ dây điện",
-    "viDef": "mạng dây dẫn điện"
+    "viDef": "mạng dây dẫn điện",
+    "ex": "They might as well ask him to fix the electrical wiring.",
+    "exHit": "wiring",
+    "exVi": "Họ cũng có thể nhờ anh ấy sửa luôn hệ thống dây điện."
   },
   {
     "word": "fall apart",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "slowly break",
     "vi": "rệu rã",
-    "viDef": "hỏng dần từng phần"
+    "viDef": "hỏng dần từng phần",
+    "ex": "This office is falling apart!",
+    "exHit": "falling apart",
+    "exVi": "Văn phòng này đang xuống cấp hết rồi!"
   },
   {
     "word": "gutter",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "long, hollow device that is attached to a roof",
     "vi": "máng xối",
-    "viDef": "ống dài rỗng gắn vào mái nhà"
+    "viDef": "ống dài rỗng gắn vào mái nhà",
+    "ex": "Frank told me the other day that the gutters outside were clogged and that's why the parking lot was flooded.",
+    "exHit": "gutters",
+    "exVi": "Hôm trước Frank bảo tôi là máng xối bên ngoài bị tắc nên bãi đỗ xe mới bị ngập."
   },
   {
     "word": "plumber",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "someone who installs the pipes, bathroom fixtures, and fixes toilets, sinks, etc.",
     "vi": "thợ nước",
-    "viDef": "người lắp ống, thiết bị nhà tắm và sửa bồn cầu, bồn rửa..."
+    "viDef": "người lắp ống, thiết bị nhà tắm và sửa bồn cầu, bồn rửa...",
+    "ex": "Call a plumber because the kitchen sink is leaking.",
+    "exHit": "plumber",
+    "exVi": "Hãy gọi thợ sửa ống nước vì bồn rửa bếp bị rò."
   },
   {
     "word": "electrician",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "someone who works with the electric wiring of a building",
     "vi": "thợ điện",
-    "viDef": "người làm về hệ dây điện của tòa nhà"
+    "viDef": "người làm về hệ dây điện của tòa nhà",
+    "ex": "The electrician came to fix the lights in the hallway.",
+    "exHit": "electrician",
+    "exVi": "Thợ điện đã đến sửa đèn ở hành lang."
   },
   {
     "word": "plunger",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a rubber device that helps to unclog toilets",
     "vi": "cây thông cầu",
-    "viDef": "dụng cụ cao su giúp thông bồn cầu"
+    "viDef": "dụng cụ cao su giúp thông bồn cầu",
+    "ex": "Use a plunger to unclog the toilet.",
+    "exHit": "plunger",
+    "exVi": "Hãy dùng cây thụt bồn cầu để thông bồn cầu."
   },
   {
     "word": "insulation",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "material used to regulate temperature; keep a building warm in the winter and cool in the summer",
     "vi": "vật liệu cách nhiệt",
-    "viDef": "vật liệu dùng điều hòa nhiệt độ, giữ nhà ấm về đông và mát về hè"
+    "viDef": "vật liệu dùng điều hòa nhiệt độ, giữ nhà ấm về đông và mát về hè",
+    "ex": "Good insulation keeps the house warm in winter.",
+    "exHit": "insulation",
+    "exVi": "Lớp cách nhiệt tốt giúp ngôi nhà ấm vào mùa đông."
   },
   {
     "word": "gutter",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "a channel on the side of a building or street that guides away surface water",
     "vi": "rãnh thoát nước",
-    "viDef": "máng bên mé tòa nhà hoặc đường phố dẫn nước mặt đi"
+    "viDef": "máng bên mé tòa nhà hoặc đường phố dẫn nước mặt đi",
+    "ex": "Frank told me the other day that the gutters outside were clogged and that's why the parking lot was flooded.",
+    "exHit": "gutters",
+    "exVi": "Hôm trước Frank bảo tôi là máng xối bên ngoài bị tắc nên bãi đỗ xe mới bị ngập."
   }
 ]

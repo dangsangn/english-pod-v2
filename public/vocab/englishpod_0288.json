@@ -5,7 +5,10 @@
     "type": "",
     "def": "following the latest trends",
     "vi": "theo trào lưu",
-    "viDef": "chạy theo các trào lưu mới nhất"
+    "viDef": "chạy theo các trào lưu mới nhất",
+    "ex": "They are trendy and look great!",
+    "exHit": "trendy",
+    "exVi": "Chúng hợp mốt và trông tuyệt lắm!"
   },
   {
     "word": "on top of all that",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "besides that",
     "vi": "trên hết mọi chuyện đó",
-    "viDef": "ngoài tất cả những điều đó"
+    "viDef": "ngoài tất cả những điều đó",
+    "ex": "On top of all that, I have heard it hurts a lot!",
+    "exHit": "On top of all that",
+    "exVi": "Hơn nữa, tôi nghe nói xăm rất đau!"
   },
   {
     "word": "reconsider",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to think carefully about something again",
     "vi": "nghĩ lại cho kỹ",
-    "viDef": "suy xét lại điều gì thật cẩn thận"
+    "viDef": "suy xét lại điều gì thật cẩn thận",
+    "ex": "I think you should reconsider and do some more research about tattoos.",
+    "exHit": "reconsider",
+    "exVi": "Tôi nghĩ bạn nên cân nhắc lại và tìm hiểu thêm về hình xăm."
   },
   {
     "word": "hygienic",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "clean and unlikely to cause illness",
     "vi": "vệ sinh",
-    "viDef": "sạch và ít khả năng gây bệnh"
+    "viDef": "sạch và ít khả năng gây bệnh",
+    "ex": "Also, find out where the nearest tattoo parlor is and make sure they used sterilized needles, and that the place is hygienic.",
+    "exHit": "hygienic",
+    "exVi": "Ngoài ra, hãy tìm xem tiệm xăm gần nhất ở đâu, đảm bảo họ dùng kim đã tiệt trùng và nơi đó phải sạch sẽ, hợp vệ sinh."
   },
   {
     "word": "sterilized",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "completely clean and free from germs",
     "vi": "đã tiệt trùng",
-    "viDef": "hoàn toàn sạch, không còn vi khuẩn"
+    "viDef": "hoàn toàn sạch, không còn vi khuẩn",
+    "ex": "Also, find out where the nearest tattoo parlor is and make sure they used sterilized needles, and that the place is hygienic.",
+    "exHit": "sterilized",
+    "exVi": "Ngoài ra, hãy tìm xem tiệm xăm gần nhất ở đâu, đảm bảo họ dùng kim đã tiệt trùng và nơi đó phải sạch sẽ, hợp vệ sinh."
   },
   {
     "word": "rebellious",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "defying authority, going against the mainstream",
     "vi": "ngỗ ngược, phản kháng",
-    "viDef": "chống lại quyền uy, đi ngược dòng chung"
+    "viDef": "chống lại quyền uy, đi ngược dòng chung",
+    "ex": "He was a rebellious teenager who never listened to his parents.",
+    "exHit": "rebellious",
+    "exVi": "Cậu ấy là một thiếu niên nổi loạn và chẳng bao giờ nghe lời bố mẹ."
   },
   {
     "word": "body art",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "used to describe tattoos, but also other, more temporary forms of decorating the body",
     "vi": "nghệ thuật trên cơ thể",
-    "viDef": "dùng để nói về hình xăm, cũng gồm các cách trang trí cơ thể tạm thời khác"
+    "viDef": "dùng để nói về hình xăm, cũng gồm các cách trang trí cơ thể tạm thời khác",
+    "ex": "Her body art includes a small butterfly on her shoulder.",
+    "exHit": "body art",
+    "exVi": "Hình xăm nghệ thuật trên người cô ấy có một con bướm nhỏ ở vai."
   },
   {
     "word": "temporary",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "existing for only a short period of time",
     "vi": "tạm thời",
-    "viDef": "chỉ tồn tại trong thời gian ngắn"
+    "viDef": "chỉ tồn tại trong thời gian ngắn",
+    "ex": "This is only a temporary tattoo, so it will wash off.",
+    "exHit": "temporary",
+    "exVi": "Đây chỉ là hình xăm tạm thời nên sẽ rửa trôi được."
   },
   {
     "word": "permanent",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "something that exists for a long time; does not leave",
     "vi": "vĩnh viễn",
-    "viDef": "thứ tồn tại lâu dài, không mất đi"
+    "viDef": "thứ tồn tại lâu dài, không mất đi",
+    "ex": "A real tattoo is permanent, so think before you get one.",
+    "exHit": "permanent",
+    "exVi": "Hình xăm thật là vĩnh viễn, nên hãy suy nghĩ trước khi xăm."
   }
 ]

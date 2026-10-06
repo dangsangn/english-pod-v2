@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "a box of cigarettes",
     "vi": "bao thuốc",
-    "viDef": "hộp thuốc lá"
+    "viDef": "hộp thuốc lá",
+    "ex": "I can't fight with the urge to reach for my pack of smokes in the morning with coffee or after lunch!",
+    "exHit": "pack of smokes",
+    "exVi": "Tôi không cưỡng lại được ham muốn với tay lấy bao thuốc lá vào buổi sáng với cà phê hay sau bữa trưa!"
   },
   {
     "word": "urge",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "a strong impulse, inner drive, or yearning",
     "vi": "cơn thèm",
-    "viDef": "sự thúc bên trong, ham muốn mạnh"
+    "viDef": "sự thúc bên trong, ham muốn mạnh",
+    "ex": "I can't fight with the urge to reach for my pack of smokes in the morning with coffee or after lunch!",
+    "exHit": "urge",
+    "exVi": "Tôi không cưỡng lại được ham muốn với tay lấy bao thuốc lá vào buổi sáng với cà phê hay sau bữa trưa!"
   },
   {
     "word": "light up",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "to start smoking a cigarette",
     "vi": "châm một điếu",
-    "viDef": "bắt đầu hút thuốc"
+    "viDef": "bắt đầu hút thuốc",
+    "ex": "It's not like you can just light up like before.",
+    "exHit": "light up",
+    "exVi": "Giờ đâu thể cứ châm thuốc hút như trước được nữa."
   },
   {
     "word": "willpower",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "the strength of mind to carry out a decision",
     "vi": "ý chí",
-    "viDef": "sức mạnh tinh thần để làm theo quyết định"
+    "viDef": "sức mạnh tinh thần để làm theo quyết định",
+    "ex": "I am trying but, I don't have the willpower to just quit.",
+    "exHit": "willpower",
+    "exVi": "Tôi đang cố, nhưng tôi không đủ ý chí để bỏ hẳn."
   },
   {
     "word": "nicotine chewing gum",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "gum that slowly releases nicotine into the body",
     "vi": "kẹo cao su nicotine",
-    "viDef": "kẹo nhả nicotine dần vào người"
+    "viDef": "kẹo nhả nicotine dần vào người",
+    "ex": "You can try the nicotine patch, or nicotine chewing gum.",
+    "exHit": "nicotine chewing gum",
+    "exVi": "Bạn có thể thử miếng dán nicotine hoặc kẹo cao su nicotine."
   },
   {
     "word": "crack down",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "To act more forcefully to regulate or repress",
     "vi": "siết chặt",
-    "viDef": "ra tay mạnh hơn để quản lý hoặc dẹp"
+    "viDef": "ra tay mạnh hơn để quản lý hoặc dẹp",
+    "ex": "We spend a fortune on cigarettes every month and now laws are cracking down and not allowing smoking in any public place.",
+    "exHit": "cracking down",
+    "exVi": "Chúng ta tốn cả đống tiền cho thuốc lá mỗi tháng, mà giờ luật pháp lại siết chặt, không cho hút thuốc ở bất kỳ nơi công cộng nào."
   },
   {
     "word": "cold turkey",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "Immediate, complete withdrawal from something",
     "vi": "cắt hẳn một lần",
-    "viDef": "ngưng hoàn toàn ngay lập tức"
+    "viDef": "ngưng hoàn toàn ngay lập tức",
+    "ex": "You can't just expect me to go cold turkey overnight!",
+    "exHit": "cold turkey",
+    "exVi": "Anh không thể mong tôi bỏ thuốc đột ngột hoàn toàn chỉ sau một đêm được!"
   },
   {
     "word": "nicotine patch",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a patch that slowly releases nicotine into the body",
     "vi": "miếng dán nicotine",
-    "viDef": "miếng dán nhả nicotine dần vào cơ thể"
+    "viDef": "miếng dán nhả nicotine dần vào cơ thể",
+    "ex": "You can try the nicotine patch, or nicotine chewing gum.",
+    "exHit": "nicotine patch",
+    "exVi": "Bạn có thể thử miếng dán nicotine hoặc kẹo cao su nicotine."
   },
   {
     "word": "ashtray",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "A receptacle for tobacco ashes and cigarettes and cigars",
     "vi": "gạt tàn",
-    "viDef": "đồ đựng tro và đầu thuốc"
+    "viDef": "đồ đựng tro và đầu thuốc",
+    "ex": "It smells like an ashtray in here!",
+    "exHit": "ashtray",
+    "exVi": "Trong này có mùi như cái gạt tàn thuốc vậy!"
   },
   {
     "word": "cut down",
@@ -77,7 +104,10 @@
     "type": "principle verb, present simple",
     "def": "reduce he amount taken or used",
     "vi": "giảm bớt",
-    "viDef": "dùng hoặc hút ít hơn"
+    "viDef": "dùng hoặc hút ít hơn",
+    "ex": "I said I was going to cut down which is very different.",
+    "exHit": "cut down",
+    "exVi": "Tôi nói là tôi sẽ cắt giảm, và điều đó khác hẳn với bỏ hẳn."
   },
   {
     "word": "drag",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "smoking a cigarette once, a puff, share a cigar with someone",
     "vi": "hơi thuốc",
-    "viDef": "một hơi hút, hoặc chia điếu thuốc với ai"
+    "viDef": "một hơi hút, hoặc chia điếu thuốc với ai",
+    "ex": "He took a long drag and then blew the smoke out slowly.",
+    "exHit": "drag",
+    "exVi": "Anh ta hít một hơi thuốc dài rồi từ từ thổi khói ra."
   },
   {
     "word": "tar",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "A solid, sticky substance that remains when tobacco is burned. It accumulates in the lungs of smokers and is considered carcinogenic.",
     "vi": "nhựa thuốc lá",
-    "viDef": "chất dính đọng lại khi thuốc cháy, tích trong phổi người hút và bị coi là gây ung thư"
+    "viDef": "chất dính đọng lại khi thuốc cháy, tích trong phổi người hút và bị coi là gây ung thư",
+    "ex": "Smokers get tar in their lungs, and that is really dangerous.",
+    "exHit": "tar",
+    "exVi": "Người hút thuốc bị nhựa thuốc đọng trong phổi, và điều đó rất nguy hiểm."
   },
   {
     "word": "lighter",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "A mechanical device for lighting a cigarette, cigar, or pipe.",
     "vi": "bật lửa",
-    "viDef": "dụng cụ để mồi thuốc lá, xì gà hoặc tẩu"
+    "viDef": "dụng cụ để mồi thuốc lá, xì gà hoặc tẩu",
+    "ex": "I need a lighter to light this candle.",
+    "exHit": "lighter",
+    "exVi": "Tôi cần một cái bật lửa để thắp cây nến này."
   },
   {
     "word": "match",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a thin strip of wood or cardboard tipped with a chemical that ignites when scraped against a rough or specially treated surface",
     "vi": "que diêm",
-    "viDef": "thanh gỗ hoặc giấy nhỏ đầu có hóa chất, quẹt vào mặt nhám thì bùng lửa"
+    "viDef": "thanh gỗ hoặc giấy nhỏ đầu có hóa chất, quẹt vào mặt nhám thì bùng lửa",
+    "ex": "I struck a match, but the wind blew it out right away.",
+    "exHit": "match",
+    "exVi": "Tôi quẹt một que diêm, nhưng gió thổi tắt ngay."
   },
   {
     "word": "stogie",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "informal of saying cigarette",
     "vi": "điếu thuốc",
-    "viDef": "cách gọi thân mật của thuốc lá"
+    "viDef": "cách gọi thân mật của thuốc lá",
+    "ex": "My grandfather always had a stogie in his mouth after dinner.",
+    "exHit": "stogie",
+    "exVi": "Ông tôi lúc nào cũng ngậm điếu xì gà sau bữa tối."
   },
   {
     "word": "butt",
@@ -125,6 +170,9 @@
     "type": "common noun, singular",
     "def": "the end of the cigarette which contains the filter and is placed in the mouth to smoke",
     "vi": "đầu lọc",
-    "viDef": "phần cuối điếu thuốc có bộ lọc, đưa vào miệng khi hút"
+    "viDef": "phần cuối điếu thuốc có bộ lọc, đưa vào miệng khi hút",
+    "ex": "There was a cigarette butt on the floor near the door.",
+    "exHit": "butt",
+    "exVi": "Có một mẩu thuốc lá trên sàn gần cửa."
   }
 ]

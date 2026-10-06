@@ -5,7 +5,10 @@
     "type": "",
     "def": "to rub your skin with something sharp",
     "vi": "cào xước",
-    "viDef": "chà lên da bằng vật nhọn"
+    "viDef": "chà lên da bằng vật nhọn",
+    "ex": "Stop scratching your arm, or you'll make the rash worse.",
+    "exHit": "scratching",
+    "exVi": "Đừng gãi tay nữa, không là phát ban sẽ nặng hơn đó."
   },
   {
     "word": "pick your poison",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "select whatever you like",
     "vi": "tùy ý mà chọn",
-    "viDef": "chọn thứ nào bạn thích"
+    "viDef": "chọn thứ nào bạn thích",
+    "ex": "Pick your poison!",
+    "exHit": "Pick your poison",
+    "exVi": "Thích gì thì chọn đi!"
   },
   {
     "word": "pick up",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "buy",
     "vi": "mua về",
-    "viDef": "đi mua"
+    "viDef": "đi mua",
+    "ex": "I've just picked up a new rifle I've been meaning to try out.",
+    "exHit": "picked up",
+    "exVi": "Tôi vừa mua một khẩu súng trường mới mà tôi đã muốn thử từ lâu."
   },
   {
     "word": "roast",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "cook with dry heat",
     "vi": "nướng lò",
-    "viDef": "làm chín bằng nhiệt khô"
+    "viDef": "làm chín bằng nhiệt khô",
+    "ex": "Roast pig?",
+    "exHit": "Roast",
+    "exVi": "Heo quay à?"
   },
   {
     "word": "activist",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "advocating or engaged in activism",
     "vi": "nhà hoạt động",
-    "viDef": "người cổ xúy hoặc tham gia hoạt động xã hội"
+    "viDef": "người cổ xúy hoặc tham gia hoạt động xã hội",
+    "ex": "Bob is an animal rights activist.",
+    "exHit": "activist",
+    "exVi": "Bob là một nhà hoạt động vì quyền động vật."
   },
   {
     "word": "well I'll be",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "used to refer to show surprise",
     "vi": "ồ lạ thật",
-    "viDef": "câu thốt ra để tỏ sự ngạc nhiên"
+    "viDef": "câu thốt ra để tỏ sự ngạc nhiên",
+    "ex": "Well I'll be...",
+    "exHit": "Well I'll be",
+    "exVi": "Ôi trời ơi..."
   },
   {
     "word": "home cooking",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A meal prepared at home",
     "vi": "cơm nhà",
-    "viDef": "bữa ăn được nấu tại nhà"
+    "viDef": "bữa ăn được nấu tại nhà",
+    "ex": "I miss my mom's home cooking when I'm away.",
+    "exHit": "home cooking",
+    "exVi": "Tôi nhớ những bữa cơm nhà của mẹ khi đi xa."
   },
   {
     "word": "alcohol",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "An intoxicating drink",
     "vi": "rượu",
-    "viDef": "thức uống có men gây say"
+    "viDef": "thức uống có men gây say",
+    "ex": "Dad doesn't drink alcohol, so we'll serve juice at dinner.",
+    "exHit": "alcohol",
+    "exVi": "Bố không uống rượu bia, nên bữa tối chúng ta sẽ dùng nước ép."
   },
   {
     "word": "nervous",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to be uncomfortable(usually emotionally)",
     "vi": "bồn chồn",
-    "viDef": "thấy không thoải mái, nhất là về cảm xúc"
+    "viDef": "thấy không thoải mái, nhất là về cảm xúc",
+    "ex": "I'm so nervous about meeting her parents tonight.",
+    "exHit": "nervous",
+    "exVi": "Tôi lo lắng quá về việc gặp bố mẹ cô ấy tối nay."
   },
   {
     "word": "frighten",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to scare someone",
     "vi": "làm ai sợ",
-    "viDef": "khiến người khác hoảng"
+    "viDef": "khiến người khác hoảng",
+    "ex": "Don't frighten the dog by shouting like that.",
+    "exHit": "frighten",
+    "exVi": "Đừng hét như vậy làm con chó sợ."
   },
   {
     "word": "chastise",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "to scold someone",
     "vi": "mắng mỏ",
-    "viDef": "rầy la ai"
+    "viDef": "rầy la ai",
+    "ex": "Her father chastised her for coming home so late.",
+    "exHit": "chastised",
+    "exVi": "Bố cô ấy mắng cô vì về nhà quá muộn."
   }
 ]

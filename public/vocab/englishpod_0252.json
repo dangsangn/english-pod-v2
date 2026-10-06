@@ -5,7 +5,10 @@
     "type": "",
     "def": "the aggregate of courses of study given in a school, college, university, etc.",
     "vi": "chương trình học",
-    "viDef": "toàn bộ các môn được dạy ở một trường, đại học..."
+    "viDef": "toàn bộ các môn được dạy ở một trường, đại học...",
+    "ex": "As part of this school's curriculum we'll be covering sex ed this week.",
+    "exHit": "curriculum",
+    "exVi": "Trong chương trình giảng dạy của trường, tuần này chúng ta sẽ học về giáo dục giới tính."
   },
   {
     "word": "contraceptive",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "device, drug, or chemical agent that prevents conception",
     "vi": "biện pháp tránh thai",
-    "viDef": "dụng cụ, thuốc hoặc hóa chất ngăn thụ thai"
+    "viDef": "dụng cụ, thuốc hoặc hóa chất ngăn thụ thai",
+    "ex": "This will be the topic of our first class, contraceptives.",
+    "exHit": "contraceptives",
+    "exVi": "Đây sẽ là chủ đề của buổi học đầu tiên của chúng ta, các biện pháp tránh thai."
   },
   {
     "word": "condom",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a thin sheath worn over the penis during sex",
     "vi": "bao cao su",
-    "viDef": "túi mỏng dùng khi quan hệ"
+    "viDef": "túi mỏng dùng khi quan hệ",
+    "ex": "What are condoms made out of?",
+    "exHit": "condoms",
+    "exVi": "Bao cao su được làm từ gì?"
   },
   {
     "word": "to prevent",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to stop from happening",
     "vi": "ngăn ngừa",
-    "viDef": "làm cho điều gì không xảy ra"
+    "viDef": "làm cho điều gì không xảy ra",
+    "ex": "The birth control pill is taken daily by a woman in order to prevent unwanted pregnancy, but it does not protect her from contracting STD's from an infected person.",
+    "exHit": "to prevent",
+    "exVi": "Phụ nữ uống thuốc tránh thai hằng ngày để ngăn ngừa mang thai ngoài ý muốn, nhưng nó không bảo vệ họ khỏi lây các bệnh lây truyền qua đường tình dục từ người nhiễm bệnh."
   },
   {
     "word": "to contract",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to get or acquire, as by exposure to something contagious",
     "vi": "mắc phải",
-    "viDef": "nhiễm hoặc bị lây do tiếp xúc với thứ gì"
+    "viDef": "nhiễm hoặc bị lây do tiếp xúc với thứ gì",
+    "ex": "You can contract a cold just by shaking hands.",
+    "exHit": "contract",
+    "exVi": "Bạn có thể bị nhiễm cảm lạnh chỉ vì bắt tay."
   },
   {
     "word": "72 hour pill",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a pill taken immediately or within 72 hours of having unprotected sex",
     "vi": "thuốc tránh thai 72 giờ",
-    "viDef": "viên thuốc uống ngay hoặc trong vòng 72 giờ sau khi quan hệ không an toàn"
+    "viDef": "viên thuốc uống ngay hoặc trong vòng 72 giờ sau khi quan hệ không an toàn",
+    "ex": "She took the 72 hour pill the morning after.",
+    "exHit": "72 hour pill",
+    "exVi": "Cô ấy đã uống thuốc tránh thai khẩn cấp 72 giờ vào sáng hôm sau."
   },
   {
     "word": "abortion",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the termination of a pregnancy",
     "vi": "phá thai",
-    "viDef": "việc chấm dứt thai kỳ"
+    "viDef": "việc chấm dứt thai kỳ",
+    "ex": "The nurse explained what an abortion involves.",
+    "exHit": "abortion",
+    "exVi": "Cô y tá giải thích việc phá thai gồm những gì."
   },
   {
     "word": "planned parenthood",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a clinic in America which deals with sexually active adults",
     "vi": "tổ chức Planned Parenthood",
-    "viDef": "phòng khám ở Mỹ phục vụ những người trưởng thành có quan hệ tình dục"
+    "viDef": "phòng khám ở Mỹ phục vụ những người trưởng thành có quan hệ tình dục",
+    "ex": "They went to planned parenthood for some advice and a check-up.",
+    "exHit": "planned parenthood",
+    "exVi": "Họ đến phòng khám Planned Parenthood để xin tư vấn và khám sức khỏe."
   },
   {
     "word": "syphillis",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "one form of a sexually transmitted disease",
     "vi": "bệnh giang mai",
-    "viDef": "một dạng bệnh lây qua đường tình dục"
+    "viDef": "một dạng bệnh lây qua đường tình dục",
+    "ex": "Syphillis can be cured if it's found early.",
+    "exHit": "Syphillis",
+    "exVi": "Bệnh giang mai có thể chữa khỏi nếu được phát hiện sớm."
   },
   {
     "word": "penicillum",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "an anti-biotic used to treat syphillis",
     "vi": "penicillin",
-    "viDef": "kháng sinh dùng chữa giang mai"
+    "viDef": "kháng sinh dùng chữa giang mai",
+    "ex": "The doctor gave him penicillum to treat the infection.",
+    "exHit": "penicillum",
+    "exVi": "Bác sĩ cho anh ấy dùng penicillin để điều trị nhiễm trùng."
   }
 ]

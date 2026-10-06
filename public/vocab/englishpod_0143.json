@@ -5,7 +5,10 @@
     "type": "common noun, non-variable",
     "def": "beef that has been put through a grinder",
     "vi": "thịt bò xay",
-    "viDef": "thịt bò đưa qua máy nghiền"
+    "viDef": "thịt bò đưa qua máy nghiền",
+    "ex": "I'd like a half a pound of ground beef, please.",
+    "exHit": "ground beef",
+    "exVi": "Cho tôi nửa pound thịt bò xay."
   },
   {
     "word": "if you know what I mean",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "used to express the listener is aware of something that is assumed to be known",
     "vi": "anh/chị hiểu ý tôi mà",
-    "viDef": "câu nói khi tin rằng người nghe đã ngầm hiểu"
+    "viDef": "câu nói khi tin rằng người nghe đã ngầm hiểu",
+    "ex": "Our ground beef is extra lean, if you know what I mean.",
+    "exHit": "if you know what I mean",
+    "exVi": "Thịt bò xay của chúng tôi rất nạc, bạn hiểu ý tôi mà."
   },
   {
     "word": "lean",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "having a low fat content",
     "vi": "nạc",
-    "viDef": "ít mỡ"
+    "viDef": "ít mỡ",
+    "ex": "Our ground beef is extra lean, if you know what I mean.",
+    "exHit": "lean",
+    "exVi": "Thịt bò xay của chúng tôi rất nạc, bạn hiểu ý tôi mà."
   },
   {
     "word": "pork chop",
@@ -29,7 +38,10 @@
     "type": "common noun, plural",
     "def": "a cut of pork in a individual size",
     "vi": "sườn heo cốt lết",
-    "viDef": "miếng thịt heo cắt vừa một phần ăn"
+    "viDef": "miếng thịt heo cắt vừa một phần ăn",
+    "ex": "Could I also have half a dozen pork chops and two pounds of boneless chicken breasts?",
+    "exHit": "pork chops",
+    "exVi": "Cho tôi thêm nửa tá sườn heo và hai pound ức gà không xương nữa."
   },
   {
     "word": "chicken breast",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "the meaty breast portion of a chicken",
     "vi": "ức gà",
-    "viDef": "phần thịt ở ngực con gà"
+    "viDef": "phần thịt ở ngực con gà",
+    "ex": "No, no no no chicken breasts at the moment, but we have some nice chicken thighs.",
+    "exHit": "chicken breasts",
+    "exVi": "Hiện giờ không còn ức gà, nhưng chúng tôi có đùi gà rất ngon."
   },
   {
     "word": "boneless",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "with the bones removed",
     "vi": "đã lọc xương",
-    "viDef": "phần thịt bỏ hết xương"
+    "viDef": "phần thịt bỏ hết xương",
+    "ex": "Could I also have half a dozen pork chops and two pounds of boneless chicken breasts?",
+    "exHit": "boneless",
+    "exVi": "Cho tôi thêm nửa tá sườn heo và hai pound ức gà không xương nữa."
   },
   {
     "word": "chicken thigh",
@@ -53,7 +71,10 @@
     "type": "common noun, plural",
     "def": "the upper leg portion of meat on a chicken",
     "vi": "đùi gà",
-    "viDef": "phần thịt trên của chân gà"
+    "viDef": "phần thịt trên của chân gà",
+    "ex": "No, no no no chicken breasts at the moment, but we have some nice chicken thighs.",
+    "exHit": "chicken thighs",
+    "exVi": "Hiện giờ không còn ức gà, nhưng chúng tôi có đùi gà rất ngon."
   },
   {
     "word": "smoked ham",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a ham which has been seasoned with smoke",
     "vi": "giăm bông xông khói",
-    "viDef": "thịt giăm bông ướp bằng khói"
+    "viDef": "thịt giăm bông ướp bằng khói",
+    "ex": "I'll take this smoked ham you have here.",
+    "exHit": "smoked ham",
+    "exVi": "Tôi lấy miếng giăm bông hun khói này."
   },
   {
     "word": "cold cuts",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "cold cooked meat, used for sandwiches",
     "vi": "thịt nguội",
-    "viDef": "thịt đã nấu để nguội, dùng kẹp bánh"
+    "viDef": "thịt đã nấu để nguội, dùng kẹp bánh",
+    "ex": "Do you have any other cold cuts?",
+    "exHit": "cold cuts",
+    "exVi": "Bạn còn loại thịt nguội nào khác không?"
   },
   {
     "word": "salami",
@@ -77,7 +104,10 @@
     "type": "common noun, non-variable",
     "def": "spicy dry sausage",
     "vi": "xúc xích salami",
-    "viDef": "xúc xích khô, có vị cay"
+    "viDef": "xúc xích khô, có vị cay",
+    "ex": "Is this salami and bologna you have here?",
+    "exHit": "salami",
+    "exVi": "Đây là xúc xích salami và bologna phải không?"
   },
   {
     "word": "bologna",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "wide sausage that is sliced",
     "vi": "xúc xích bologna",
-    "viDef": "xúc xích khổ lớn được cắt lát"
+    "viDef": "xúc xích khổ lớn được cắt lát",
+    "ex": "Is this salami and bologna you have here?",
+    "exHit": "bologna",
+    "exVi": "Đây là xúc xích salami và bologna phải không?"
   },
   {
     "word": "T-bone",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a thick piece of beef with a T shaped bone in it",
     "vi": "thịt bò xương chữ T",
-    "viDef": "miếng bò dày có khúc xương hình chữ T"
+    "viDef": "miếng bò dày có khúc xương hình chữ T",
+    "ex": "He ordered a juicy T-bone steak with fries and a salad.",
+    "exHit": "T-bone",
+    "exVi": "Anh ấy gọi một miếng bít tết T-bone mọng nước với khoai tây chiên và salad."
   },
   {
     "word": "rib eye",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a tender cut of beef from the outer side of the ri",
     "vi": "thịt bò rib eye",
-    "viDef": "miếng bò mềm lấy ở mé ngoài phần sườn"
+    "viDef": "miếng bò mềm lấy ở mé ngoài phần sườn",
+    "ex": "We have T-bone, rib eye, and sirloin steaks.",
+    "exHit": "rib eye",
+    "exVi": "Chúng tôi có bít tết T-bone, rib eye và thăn ngoại."
   },
   {
     "word": "slaughter house",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "the place where animals are killed for their meat",
     "vi": "lò mổ",
-    "viDef": "nơi giết gia súc để lấy thịt"
+    "viDef": "nơi giết gia súc để lấy thịt",
+    "ex": "Just came from the slaughter house...",
+    "exHit": "slaughter house",
+    "exVi": "Tôi vừa từ lò mổ về đây..."
   },
   {
     "word": "sirloin",
@@ -117,7 +159,10 @@
     "type": "common noun, non-variable",
     "def": "a piece of beef from lower back of the cow",
     "vi": "thịt thăn lưng",
-    "viDef": "miếng bò lấy ở phần lưng dưới"
+    "viDef": "miếng bò lấy ở phần lưng dưới",
+    "ex": "We have T-bone, rib eye, and sirloin steaks.",
+    "exHit": "sirloin",
+    "exVi": "Chúng tôi có bít tết T-bone, rib eye và thăn ngoại."
   },
   {
     "word": "steak",
@@ -125,7 +170,10 @@
     "type": "common noun, plural",
     "def": "a slice of beef",
     "vi": "miếng bít tết",
-    "viDef": "lát thịt bò"
+    "viDef": "lát thịt bò",
+    "ex": "We have T-bone, rib eye, and sirloin steaks.",
+    "exHit": "steaks",
+    "exVi": "Chúng tôi có bít tết T-bone, rib eye và thăn ngoại."
   },
   {
     "word": "turkey",
@@ -133,7 +181,10 @@
     "type": "common noun, non-variable",
     "def": "a type of meat from a large bird, similar to chicken",
     "vi": "thịt gà tây",
-    "viDef": "thịt của loài chim lớn, giống gà"
+    "viDef": "thịt của loài chim lớn, giống gà",
+    "ex": "We always have a big roasted turkey for dinner at Thanksgiving.",
+    "exHit": "turkey",
+    "exVi": "Chúng tôi luôn ăn tối với một con gà tây nướng to vào dịp Lễ Tạ ơn."
   },
   {
     "word": "hot dog",
@@ -141,7 +192,10 @@
     "type": "common noun, singular",
     "def": "a type of small sausage",
     "vi": "xúc xích hot dog",
-    "viDef": "loại xúc xích nhỏ"
+    "viDef": "loại xúc xích nhỏ",
+    "ex": "The kids want to eat hot dogs with mustard at the picnic.",
+    "exHit": "hot dogs",
+    "exVi": "Bọn trẻ muốn ăn xúc xích hot dog với mù tạt trong buổi dã ngoại."
   },
   {
     "word": "cleaver",
@@ -149,7 +203,10 @@
     "type": "common noun, singular",
     "def": "a type of knife a butcher uses",
     "vi": "dao phay",
-    "viDef": "loại dao của người bán thịt"
+    "viDef": "loại dao của người bán thịt",
+    "ex": "The butcher cut through the big bone with one swing of his cleaver.",
+    "exHit": "cleaver",
+    "exVi": "Người bán thịt chặt đứt khúc xương lớn chỉ bằng một nhát dao phay."
   },
   {
     "word": "chopping block",
@@ -157,7 +214,10 @@
     "type": "common noun, singular",
     "def": "the table that a butcher works on",
     "vi": "thớt chặt",
-    "viDef": "mặt bàn người bán thịt làm việc trên đó"
+    "viDef": "mặt bàn người bán thịt làm việc trên đó",
+    "ex": "The butcher put the huge piece of beef on the chopping block.",
+    "exHit": "chopping block",
+    "exVi": "Người bán thịt đặt miếng thịt bò khổng lồ lên thớt."
   },
   {
     "word": "butcher paper",
@@ -165,6 +225,9 @@
     "type": "common noun, non-variable",
     "def": "the waxy paper a butcher uses to wrap meat in",
     "vi": "giấy gói thịt",
-    "viDef": "giấy có sáp mà người bán thịt dùng để bọc"
+    "viDef": "giấy có sáp mà người bán thịt dùng để bọc",
+    "ex": "He wrapped my pork chops in butcher paper and tied it with string.",
+    "exHit": "butcher paper",
+    "exVi": "Ông ấy gói sườn heo của tôi bằng giấy gói thịt rồi buộc dây lại."
   }
 ]

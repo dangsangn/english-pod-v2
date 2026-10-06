@@ -5,7 +5,10 @@
     "type": "",
     "def": "ridiculous",
     "vi": "vô lý",
-    "viDef": "ngớ ngẩn"
+    "viDef": "ngớ ngẩn",
+    "ex": "That's absurd!",
+    "exHit": "absurd",
+    "exVi": "Thật vô lý!"
   },
   {
     "word": "rip off",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "be cheated violently;be stolen from",
     "vi": "bị chặt giá, bị móc",
-    "viDef": "bị lừa trắng trợn hoặc bị lấy của"
+    "viDef": "bị lừa trắng trợn hoặc bị lấy của",
+    "ex": "How do you know you aren't going to be ripped off by the seller?",
+    "exHit": "ripped off",
+    "exVi": "Làm sao bạn biết mình sẽ không bị người bán lừa?"
   },
   {
     "word": "trustworthy",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "reliable, or dependable;worthy of being trusted",
     "vi": "đáng tin",
-    "viDef": "tin cậy được, xứng đáng được tin"
+    "viDef": "tin cậy được, xứng đáng được tin",
+    "ex": "Well, the website handles a point system where if the seller does something wrong, people comment negatively and then you know that he or she may not be trustworthy.",
+    "exHit": "trustworthy",
+    "exVi": "À, trang web có hệ thống chấm điểm, nếu người bán làm sai điều gì thì mọi người sẽ nhận xét tiêu cực, và bạn sẽ biết người đó có thể không đáng tin."
   },
   {
     "word": "hack",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "gain unauthorized access to another computer syste",
     "vi": "xâm nhập trái phép",
-    "viDef": "vào hệ thống máy tính của người khác mà không được phép"
+    "viDef": "vào hệ thống máy tính của người khác mà không được phép",
+    "ex": "I have never had any problems with someone hacking my information or anything.",
+    "exHit": "hacking",
+    "exVi": "Tôi chưa bao giờ gặp vấn đề gì với việc có người xâm nhập thông tin của tôi hay đại loại thế."
   },
   {
     "word": "browse",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to inspect something leisurely and casually",
     "vi": "xem qua",
-    "viDef": "xem xét thứ gì một cách thư thả, ngẫu nhiên"
+    "viDef": "xem xét thứ gì một cách thư thả, ngẫu nhiên",
+    "ex": "I don't have to leave the house or browse a dozen stores to find what I'm looking for.",
+    "exHit": "browse",
+    "exVi": "Tôi không phải ra khỏi nhà hay đi dạo qua cả chục cửa hàng để tìm món mình cần."
   },
   {
     "word": "point system",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a system of evaluation based on awarding points",
     "vi": "hệ điểm tích lũy",
-    "viDef": "cách đánh giá dựa trên việc cộng điểm"
+    "viDef": "cách đánh giá dựa trên việc cộng điểm",
+    "ex": "Well, the website handles a point system where if the seller does something wrong, people comment negatively and then you know that he or she may not be trustworthy.",
+    "exHit": "point system",
+    "exVi": "À, trang web có hệ thống chấm điểm, nếu người bán làm sai điều gì thì mọi người sẽ nhận xét tiêu cực, và bạn sẽ biết người đó có thể không đáng tin."
   },
   {
     "word": "credit card",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a plastic card enables the holder to pay on credit",
     "vi": "thẻ tín dụng",
-    "viDef": "thẻ nhựa cho phép chủ thẻ trả tiền theo hình thức ghi nợ"
+    "viDef": "thẻ nhựa cho phép chủ thẻ trả tiền theo hình thức ghi nợ",
+    "ex": "Do you need a credit card?",
+    "exHit": "credit card",
+    "exVi": "Bạn có cần thẻ tín dụng không?"
   },
   {
     "word": "no turning back",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "not to halt the advance of; no to regret",
     "vi": "không lùi được nữa",
-    "viDef": "không chặn được bước tiến, không thể tiếc lại"
+    "viDef": "không chặn được bước tiến, không thể tiếc lại",
+    "ex": "Once you step into this world, there is no turning back!",
+    "exHit": "no turning back",
+    "exVi": "Một khi bạn bước vào thế giới này thì sẽ không còn đường quay lại!"
   },
   {
     "word": "electronic commerce",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the buying and selling of products or services over the internet",
     "vi": "thương mại điện tử",
-    "viDef": "việc mua bán sản phẩm hoặc dịch vụ qua internet"
+    "viDef": "việc mua bán sản phẩm hoặc dịch vụ qua internet",
+    "ex": "Electronic commerce has made shopping much easier for busy people.",
+    "exHit": "Electronic commerce",
+    "exVi": "Thương mại điện tử đã giúp việc mua sắm dễ dàng hơn nhiều cho người bận rộn."
   },
   {
     "word": "search engine",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A program that searches documents for specified keywords and returns a list of the documents where the keywords were found.",
     "vi": "máy tìm kiếm",
-    "viDef": "chương trình tìm tài liệu theo từ khóa và trả về danh sách các tài liệu chứa từ đó"
+    "viDef": "chương trình tìm tài liệu theo từ khóa và trả về danh sách các tài liệu chứa từ đó",
+    "ex": "I typed the product name into a search engine.",
+    "exHit": "search engine",
+    "exVi": "Tôi gõ tên sản phẩm vào một công cụ tìm kiếm."
   },
   {
     "word": "COD",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "Charge on Delivery, a payment method that allows you to pay for goods once they have been delivered.",
     "vi": "thanh toán khi nhận hàng",
-    "viDef": "Charge on Delivery, cách trả tiền sau khi hàng đã được giao"
+    "viDef": "Charge on Delivery, cách trả tiền sau khi hàng đã được giao",
+    "ex": "I'll pay COD, so I only pay when the package arrives.",
+    "exHit": "COD",
+    "exVi": "Tôi sẽ trả tiền khi nhận hàng, nên chỉ trả khi gói hàng đến."
   },
   {
     "word": "wire transfer",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "An electronic transfer of funds from one account to another",
     "vi": "chuyển khoản",
-    "viDef": "việc chuyển tiền bằng điện tử từ tài khoản này sang tài khoản khác"
+    "viDef": "việc chuyển tiền bằng điện tử từ tài khoản này sang tài khoản khác",
+    "ex": "The seller asked me to pay by wire transfer.",
+    "exHit": "wire transfer",
+    "exVi": "Người bán yêu cầu tôi thanh toán bằng chuyển khoản."
   },
   {
     "word": "webstore",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "A webstore is a website that sells products or services and typically has an online shopping cart associated with it",
     "vi": "gian hàng trực tuyến",
-    "viDef": "trang web bán sản phẩm hoặc dịch vụ, thường có giỏ hàng đi kèm"
+    "viDef": "trang web bán sản phẩm hoặc dịch vụ, thường có giỏ hàng đi kèm",
+    "ex": "She opened a webstore to sell her handmade bags.",
+    "exHit": "webstore",
+    "exVi": "Cô ấy mở một cửa hàng trực tuyến để bán túi tự làm."
   }
 ]

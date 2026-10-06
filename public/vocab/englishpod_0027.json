@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "have some time, not busy",
     "vi": "rảnh một phút",
-    "viDef": "có chút thời gian, không bận"
+    "viDef": "có chút thời gian, không bận",
+    "ex": "Mr. McKenna, do you have a second?",
+    "exHit": "have a second",
+    "exVi": "Thưa ông McKenna, ông có rảnh một chút không ạ?"
   },
   {
     "word": "use up",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "take all of something",
     "vi": "dùng hết",
-    "viDef": "lấy hết, không còn lại gì"
+    "viDef": "lấy hết, không còn lại gì",
+    "ex": "you see, I know I've used up all my vacation days this year, but my sister is getting married, and the wedding is overseas, and, well...",
+    "exHit": "used up",
+    "exVi": "em biết là em đã dùng hết số ngày nghỉ phép năm nay rồi, nhưng chị gái em sắp cưới, đám cưới lại ở nước ngoài, và, thì..."
   },
   {
     "word": "overseas",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "in an other country, across the ocean",
     "vi": "ở nước ngoài",
-    "viDef": "ở nước khác, bên kia đại dương"
+    "viDef": "ở nước khác, bên kia đại dương",
+    "ex": "you see, I know I've used up all my vacation days this year, but my sister is getting married, and the wedding is overseas, and, well...",
+    "exHit": "overseas",
+    "exVi": "em biết là em đã dùng hết số ngày nghỉ phép năm nay rồi, nhưng chị gái em sắp cưới, đám cưới lại ở nước ngoài, và, thì..."
   },
   {
     "word": "take some time off",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "stop working for a short time",
     "vi": "nghỉ phép ít bữa",
-    "viDef": "tạm ngừng làm việc một thời gian ngắn"
+    "viDef": "tạm ngừng làm việc một thời gian ngắn",
+    "ex": "You wanna take some time off, is that right?",
+    "exHit": "take some time off",
+    "exVi": "Cậu muốn nghỉ làm một thời gian, đúng không?"
   },
   {
     "word": "notice",
@@ -37,7 +49,10 @@
     "type": "common noun, non-variable",
     "def": "information that tells you about something or warns about something",
     "vi": "thông báo trước",
-    "viDef": "tin báo hoặc lời cảnh báo về việc gì"
+    "viDef": "tin báo hoặc lời cảnh báo về việc gì",
+    "ex": "I'll need at least two months notice, so that I can plan for your absence.",
+    "exHit": "notice",
+    "exVi": "Tôi cần được báo trước ít nhất hai tháng để còn lên kế hoạch cho việc vắng mặt của cậu."
   },
   {
     "word": "be okay with that",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "agree",
     "vi": "đồng ý vậy cũng được",
-    "viDef": "chấp nhận, không phản đối"
+    "viDef": "chấp nhận, không phản đối",
+    "ex": "Would you be okay with that?",
+    "exHit": "be okay with that",
+    "exVi": "Cậu có đồng ý với điều đó không?"
   },
   {
     "word": "unpaid leave",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "time away from work that is not paid",
     "vi": "nghỉ không lương",
-    "viDef": "thời gian nghỉ việc không được trả lương"
+    "viDef": "thời gian nghỉ việc không được trả lương",
+    "ex": "Well, sir, I was just hoping that I might be able to take some unpaid leave this year.",
+    "exHit": "unpaid leave",
+    "exVi": "Thưa ông, em chỉ hy vọng năm nay em có thể được nghỉ phép không lương."
   },
   {
     "word": "take a leave of absence",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "stay away from work for a long period of time, without getting paid",
     "vi": "xin nghỉ dài hạn",
-    "viDef": "nghỉ việc một thời gian dài, không lương"
+    "viDef": "nghỉ việc một thời gian dài, không lương",
+    "ex": "She plans to take a leave of absence to study abroad.",
+    "exHit": "take a leave of absence",
+    "exVi": "Cô ấy dự định nghỉ việc dài hạn không lương để đi du học."
   },
   {
     "word": "sick leave",
@@ -69,7 +93,10 @@
     "type": "common noun, non-variable",
     "def": "time away from work when sick",
     "vi": "nghỉ bệnh",
-    "viDef": "thời gian nghỉ làm vì ốm"
+    "viDef": "thời gian nghỉ làm vì ốm",
+    "ex": "I used two days of sick leave because I had a fever.",
+    "exHit": "sick leave",
+    "exVi": "Tôi đã dùng hai ngày nghỉ ốm vì bị sốt."
   },
   {
     "word": "personal leave",
@@ -77,7 +104,10 @@
     "type": "common noun, non-variable",
     "def": "time away from work for personal reasons (i.e. doctor's appointment, etc.)",
     "vi": "nghỉ việc riêng",
-    "viDef": "nghỉ làm vì lý do cá nhân (đi khám bệnh...)"
+    "viDef": "nghỉ làm vì lý do cá nhân (đi khám bệnh...)",
+    "ex": "He asked for personal leave to go to a doctor's appointment.",
+    "exHit": "personal leave",
+    "exVi": "Anh ấy xin nghỉ phép việc riêng để đi khám bác sĩ."
   },
   {
     "word": "maternity leave",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "time away from work for a mother to care for a new baby",
     "vi": "nghỉ thai sản",
-    "viDef": "thời gian mẹ nghỉ làm để chăm con mới sinh"
+    "viDef": "thời gian mẹ nghỉ làm để chăm con mới sinh",
+    "ex": "She will start her maternity leave next month, before the baby arrives.",
+    "exHit": "maternity leave",
+    "exVi": "Tháng sau cô ấy sẽ bắt đầu nghỉ thai sản, trước khi em bé chào đời."
   },
   {
     "word": "bank holiday",
@@ -93,6 +126,9 @@
     "type": "common noun, singular",
     "def": "public holiday recognized by law (BrE)",
     "vi": "ngày lễ chính thức",
-    "viDef": "ngày nghỉ lễ theo luật (tiếng Anh-Anh)"
+    "viDef": "ngày nghỉ lễ theo luật (tiếng Anh-Anh)",
+    "ex": "The offices are closed on Monday because it's a bank holiday.",
+    "exHit": "bank holiday",
+    "exVi": "Các văn phòng đóng cửa vào thứ Hai vì đó là ngày nghỉ lễ."
   }
 ]

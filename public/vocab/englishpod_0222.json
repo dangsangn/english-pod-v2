@@ -5,7 +5,10 @@
     "type": "",
     "def": "unintelligible or incomprehensible language",
     "vi": "lời rối rắm khó hiểu",
-    "viDef": "ngôn từ tối nghĩa, chẳng hiểu nổi"
+    "viDef": "ngôn từ tối nghĩa, chẳng hiểu nổi",
+    "ex": "It sounds like a bunch of mumbo jumbo if you ask me.",
+    "exHit": "mumbo jumbo",
+    "exVi": "Nghe như một đống lời lẽ khó hiểu nếu bạn hỏi tôi."
   },
   {
     "word": "heat up",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "gain heat or get hot",
     "vi": "nóng lên",
-    "viDef": "thu nhiệt hoặc trở nên nóng"
+    "viDef": "thu nhiệt hoặc trở nên nóng",
+    "ex": "There have been tons of scientific studies and the scientific community says that the earth is heating up.",
+    "exHit": "heating up",
+    "exVi": "Đã có hàng tấn nghiên cứu khoa học và cộng đồng khoa học nói rằng Trái Đất đang nóng lên."
   },
   {
     "word": "preserve",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "maintain in safety from injury, peril, or harm",
     "vi": "giữ gìn",
-    "viDef": "duy trì cho khỏi hư hại, hiểm nguy hoặc tổn thất"
+    "viDef": "duy trì cho khỏi hư hại, hiểm nguy hoặc tổn thất",
+    "ex": "We need to make some drastic changes to our lifestyle if we want to preserve our planet.",
+    "exHit": "preserve",
+    "exVi": "Chúng ta cần thay đổi lối sống một cách quyết liệt nếu muốn bảo vệ hành tinh của mình."
   },
   {
     "word": "boonies",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "rural country or jungle",
     "vi": "vùng hẻo hút",
-    "viDef": "vùng nông thôn hoặc rừng rú"
+    "viDef": "vùng nông thôn hoặc rừng rú",
+    "ex": "I mean, honestly, we live in the boonies.",
+    "exHit": "boonies",
+    "exVi": "Ý tôi là, thật lòng mà nói, chúng tôi sống ở vùng hẻo lánh."
   },
   {
     "word": "sustainability",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "keep in existence and maintain",
     "vi": "tính bền vững",
-    "viDef": "việc giữ cho tồn tại và duy trì được"
+    "viDef": "việc giữ cho tồn tại và duy trì được",
+    "ex": "I think the issue at hand is sustainability.",
+    "exHit": "sustainability",
+    "exVi": "Tôi nghĩ vấn đề đang bàn là tính bền vững."
   },
   {
     "word": "drastic",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "sudden and severe",
     "vi": "quyết liệt, đột ngột",
-    "viDef": "xảy ra thình lình và nặng nề"
+    "viDef": "xảy ra thình lình và nặng nề",
+    "ex": "But it doesn't have to be that drastic.",
+    "exHit": "drastic",
+    "exVi": "Nhưng không cần phải quyết liệt đến thế."
   },
   {
     "word": "feasible",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "capable of being done with means at hand",
     "vi": "khả thi",
-    "viDef": "làm được bằng những phương tiện sẵn có"
+    "viDef": "làm được bằng những phương tiện sẵn có",
+    "ex": "Hybrid vehicles and solar panels are too expensive to be feasible right now.",
+    "exHit": "feasible",
+    "exVi": "Xe hybrid và pin mặt trời đắt quá nên hiện giờ chưa khả thi."
   },
   {
     "word": "refit",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "add new parts",
     "vi": "thay bộ phận mới",
-    "viDef": "gắn thêm các phần mới"
+    "viDef": "gắn thêm các phần mới",
+    "ex": "My house is forty years old and it would take a lot of money to get it refitted to be \"green\" and \"energy-efficient\".",
+    "exHit": "refitted",
+    "exVi": "Nhà tôi đã bốn mươi năm tuổi và sẽ tốn rất nhiều tiền để lắp đặt lại cho thành nhà \"xanh\" và \"tiết kiệm năng lượng\"."
   },
   {
     "word": "refit",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "prepare and equip for additional use",
     "vi": "tân trang lại",
-    "viDef": "chuẩn bị và trang bị lại để dùng thêm"
+    "viDef": "chuẩn bị và trang bị lại để dùng thêm",
+    "ex": "My house is forty years old and it would take a lot of money to get it refitted to be \"green\" and \"energy-efficient\".",
+    "exHit": "refitted",
+    "exVi": "Nhà tôi đã bốn mươi năm tuổi và sẽ tốn rất nhiều tiền để lắp đặt lại cho thành nhà \"xanh\" và \"tiết kiệm năng lượng\"."
   },
   {
     "word": "resource",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "available source of wealth",
     "vi": "tài nguyên",
-    "viDef": "nguồn của cải sẵn có"
+    "viDef": "nguồn của cải sẵn có",
+    "ex": "We've only got this one earth we can live on, and our resources are quickly disappearing because of our own carelessness and our inability to think of anyone but ourselves and anything but the present.",
+    "exHit": "resources",
+    "exVi": "Chúng ta chỉ có một Trái Đất này để sống, và tài nguyên đang cạn kiệt nhanh chóng vì sự bất cẩn của chính chúng ta và việc không biết nghĩ đến ai ngoài bản thân và không nghĩ đến gì ngoài hiện tại."
   },
   {
     "word": "car pool",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "share the car with others to work",
     "vi": "đi xe chung",
-    "viDef": "cùng đi một xe với người khác tới nơi làm"
+    "viDef": "cùng đi một xe với người khác tới nơi làm",
+    "ex": "I car pool to work everyday with some buddies of mine.",
+    "exHit": "car pool",
+    "exVi": "Ngày nào tôi cũng đi chung xe đi làm với mấy người bạn."
   },
   {
     "word": "going green",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "the term used for being more environmentally friendly",
     "vi": "sống xanh",
-    "viDef": "cách nói về việc thân thiện hơn với môi trường"
+    "viDef": "cách nói về việc thân thiện hơn với môi trường",
+    "ex": "Our whole family is going green by recycling and saving energy at home.",
+    "exHit": "going green",
+    "exVi": "Cả nhà chúng tôi đang sống xanh bằng cách tái chế và tiết kiệm năng lượng ở nhà."
   },
   {
     "word": "energy star",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a label given to efficient appliances.",
     "vi": "nhãn Energy Star",
-    "viDef": "nhãn dán cho các thiết bị tiết kiệm điện"
+    "viDef": "nhãn dán cho các thiết bị tiết kiệm điện",
+    "ex": "We bought a new fridge with an energy star label to save electricity.",
+    "exHit": "energy star",
+    "exVi": "Chúng tôi mua tủ lạnh mới có nhãn energy star để tiết kiệm điện."
   },
   {
     "word": "realization",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "to come to a sudden conclusion",
     "vi": "sự chợt nhận ra",
-    "viDef": "việc bỗng đi tới một kết luận"
+    "viDef": "việc bỗng đi tới một kết luận",
+    "ex": "It was a big realization that my small habits really hurt the planet.",
+    "exHit": "realization",
+    "exVi": "Đó là một nhận thức lớn: những thói quen nhỏ của tôi thật sự gây hại cho hành tinh."
   },
   {
     "word": "skeptic",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "a person who questions popular thought",
     "vi": "người hoài nghi",
-    "viDef": "người đặt dấu hỏi với suy nghĩ phổ biến"
+    "viDef": "người đặt dấu hỏi với suy nghĩ phổ biến",
+    "ex": "My uncle is a skeptic and he doubts that the climate is changing.",
+    "exHit": "skeptic",
+    "exVi": "Chú tôi là người hay hoài nghi và chú nghi ngờ việc khí hậu đang thay đổi."
   },
   {
     "word": "alternatives",
@@ -125,6 +170,9 @@
     "type": "",
     "def": "to replace something with something of equal use",
     "vi": "các phương án thay thế",
-    "viDef": "việc đổi sang thứ khác có công dụng tương đương"
+    "viDef": "việc đổi sang thứ khác có công dụng tương đương",
+    "ex": "There are many alternatives to driving, like biking or taking the bus.",
+    "exHit": "alternatives",
+    "exVi": "Có nhiều lựa chọn thay thế cho việc lái xe, như đạp xe hoặc đi xe buýt."
   }
 ]

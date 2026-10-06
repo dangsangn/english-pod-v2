@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "something that is spread all over an area",
     "vi": "rải rác",
-    "viDef": "trải khắp một vùng"
+    "viDef": "trải khắp một vùng",
+    "ex": "The sun is hot and there are just a few clouds scattered here and there!",
+    "exHit": "scattered",
+    "exVi": "Trời nắng gắt và chỉ có vài đám mây rải rác đây đó thôi!"
   },
   {
     "word": "hover around",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "stay near a certain level or place",
     "vi": "dao động quanh",
-    "viDef": "giữ gần một mức hoặc một chỗ"
+    "viDef": "giữ gần một mức hoặc một chỗ",
+    "ex": "We can expect clear skies, but it will be quite cold, with temperatures hovering around the thirty degree mark.",
+    "exHit": "hovering around",
+    "exVi": "Chúng ta có thể mong đợi trời quang, nhưng sẽ khá lạnh, với nhiệt độ dao động quanh mức ba mươi độ."
   },
   {
     "word": "come in from",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "to enter or arrive from somehwere",
     "vi": "tràn vào từ",
-    "viDef": "đi tới hoặc kéo đến từ đâu"
+    "viDef": "đi tới hoặc kéo đến từ đâu",
+    "ex": "Winds will be coming in from the North East, with gusts reaching twenty-three miles per hour.",
+    "exHit": "coming in from",
+    "exVi": "Gió sẽ thổi từ hướng đông bắc, với những cơn gió giật đạt hai mươi ba dặm một giờ."
   },
   {
     "word": "forecast",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "a statement of what will happen in the future",
     "vi": "bản dự báo",
-    "viDef": "lời nói trước điều sẽ xảy ra"
+    "viDef": "lời nói trước điều sẽ xảy ra",
+    "ex": "That's the weather forecast for this morning.",
+    "exHit": "forecast",
+    "exVi": "Đó là dự báo thời tiết cho sáng nay."
   },
   {
     "word": "mixed bag",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "a collection of different kinds of things",
     "vi": "đủ thứ lẫn lộn",
-    "viDef": "tập hợp nhiều loại khác nhau"
+    "viDef": "tập hợp nhiều loại khác nhau",
+    "ex": "Well, it's a bit of a mixed bag in Utah today; we've got heavy cloud cover here in Northern Utah, and we're calling for scattered showers throughout the day, with a day-time high of forty-five degrees.",
+    "exHit": "mixed bag",
+    "exVi": "À, hôm nay ở Utah thời tiết khá thất thường; phía bắc Utah có nhiều mây, và chúng tôi dự báo có mưa rào rải rác suốt cả ngày, với nhiệt độ cao nhất ban ngày là bốn mươi lăm độ."
   },
   {
     "word": "cloud cover",
@@ -45,7 +60,10 @@
     "type": "common noun, non-variable",
     "def": "the amount of sky that is covered with cloud",
     "vi": "lượng mây che",
-    "viDef": "phần trời bị mây phủ"
+    "viDef": "phần trời bị mây phủ",
+    "ex": "Well, it's a bit of a mixed bag in Utah today; we've got heavy cloud cover here in Northern Utah, and we're calling for scattered showers throughout the day, with a day-time high of forty-five degrees.",
+    "exHit": "cloud cover",
+    "exVi": "À, hôm nay ở Utah thời tiết khá thất thường; phía bắc Utah có nhiều mây, và chúng tôi dự báo có mưa rào rải rác suốt cả ngày, với nhiệt độ cao nhất ban ngày là bốn mươi lăm độ."
   },
   {
     "word": "call for",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "saying that some type of weather will happen",
     "vi": "dự báo có",
-    "viDef": "nói rằng sẽ có loại thời tiết nào"
+    "viDef": "nói rằng sẽ có loại thời tiết nào",
+    "ex": "Well, it's a bit of a mixed bag in Utah today; we've got heavy cloud cover here in Northern Utah, and we're calling for scattered showers throughout the day, with a day-time high of forty-five degrees.",
+    "exHit": "calling for",
+    "exVi": "À, hôm nay ở Utah thời tiết khá thất thường; phía bắc Utah có nhiều mây, và chúng tôi dự báo có mưa rào rải rác suốt cả ngày, với nhiệt độ cao nhất ban ngày là bốn mươi lăm độ."
   },
   {
     "word": "shower",
@@ -61,7 +82,10 @@
     "type": "common noun, plural",
     "def": "rainfall in a short time",
     "vi": "mưa rào",
-    "viDef": "cơn mưa trong thời gian ngắn"
+    "viDef": "cơn mưa trong thời gian ngắn",
+    "ex": "Things are looking a bit better for the South; we'll see cloudy skies with a chance of showers.",
+    "exHit": "showers",
+    "exVi": "Phía nam trông khá hơn một chút; chúng ta sẽ thấy trời nhiều mây với khả năng có mưa rào."
   },
   {
     "word": "cold front",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "leading edge of a cooler and drier mass of air",
     "vi": "khối khí lạnh tràn về",
-    "viDef": "mép trước của khối không khí lạnh và khô hơn"
+    "viDef": "mép trước của khối không khí lạnh và khô hơn",
+    "ex": "Now, if we move down to the south of the state, we can see that a cold front is moving in.",
+    "exHit": "cold front",
+    "exVi": "Bây giờ, nếu chúng ta xuống phía nam của bang, có thể thấy một front lạnh đang tiến vào."
   },
   {
     "word": "chilly",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "very cold",
     "vi": "lạnh buốt",
-    "viDef": "rất lạnh"
+    "viDef": "rất lạnh",
+    "ex": "It's a chilly day folks, so don't forget your coats!",
+    "exHit": "chilly",
+    "exVi": "Hôm nay trời se lạnh các bạn ạ, nên đừng quên mang áo khoác!"
   },
   {
     "word": "isolated",
@@ -85,7 +115,10 @@
     "type": "Adjective",
     "def": "limited to one area",
     "vi": "cục bộ",
-    "viDef": "chỉ trong một khu vực"
+    "viDef": "chỉ trong một khu vực",
+    "ex": "Well, it'll be a rainy day for Northern Utah; we can expect some isolated downpours in the morning.",
+    "exHit": "isolated",
+    "exVi": "À, đó sẽ là một ngày mưa ở phía bắc Utah; buổi sáng chúng ta có thể gặp vài trận mưa lớn cục bộ."
   },
   {
     "word": "downpour",
@@ -93,7 +126,10 @@
     "type": "common noun, plural",
     "def": "strong, sudden rain storm",
     "vi": "mưa như trút",
-    "viDef": "cơn mưa lớn, đổ xuống thình lình"
+    "viDef": "cơn mưa lớn, đổ xuống thình lình",
+    "ex": "Well, it'll be a rainy day for Northern Utah; we can expect some isolated downpours in the morning.",
+    "exHit": "downpours",
+    "exVi": "À, đó sẽ là một ngày mưa ở phía bắc Utah; buổi sáng chúng ta có thể gặp vài trận mưa lớn cục bộ."
   },
   {
     "word": "gust",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "strong, sudden increase in wind speed",
     "vi": "cơn gió giật",
-    "viDef": "gió mạnh lên đột ngột"
+    "viDef": "gió mạnh lên đột ngột",
+    "ex": "Winds will be coming in from the North East, with gusts reaching twenty-three miles per hour.",
+    "exHit": "gusts",
+    "exVi": "Gió sẽ thổi từ hướng đông bắc, với những cơn gió giật đạt hai mươi ba dặm một giờ."
   },
   {
     "word": "sleet",
@@ -109,7 +148,10 @@
     "type": "common noun, non-variable",
     "def": "a mix of rain and snow",
     "vi": "mưa tuyết",
-    "viDef": "mưa lẫn tuyết"
+    "viDef": "mưa lẫn tuyết",
+    "ex": "Salt Lake City can expect the rain to turn to sleet in the evening.",
+    "exHit": "sleet",
+    "exVi": "Salt Lake City có thể sẽ chuyển từ mưa sang mưa tuyết vào buổi tối."
   },
   {
     "word": "partly-cloudy skies",
@@ -117,7 +159,10 @@
     "type": "phrase",
     "def": "having some cloud and some sun",
     "vi": "trời có mây rải rác",
-    "viDef": "lúc có mây lúc có nắng"
+    "viDef": "lúc có mây lúc có nắng",
+    "ex": "Tomorrow will have partly-cloudy skies with a light breeze.",
+    "exHit": "partly-cloudy skies",
+    "exVi": "Ngày mai trời sẽ có mây rải rác với gió nhẹ."
   },
   {
     "word": "hail",
@@ -125,7 +170,10 @@
     "type": "common noun, non-variable",
     "def": "small balls of ice that fall from the sky",
     "vi": "mưa đá",
-    "viDef": "những viên băng nhỏ rơi từ trời"
+    "viDef": "những viên băng nhỏ rơi từ trời",
+    "ex": "The hail hit our car and left small dents.",
+    "exHit": "hail",
+    "exVi": "Mưa đá đập vào xe và để lại những vết lõm nhỏ."
   },
   {
     "word": "drizzle",
@@ -133,7 +181,10 @@
     "type": "common noun, non-variable",
     "def": "light rain",
     "vi": "mưa lâm thâm",
-    "viDef": "mưa nhẹ"
+    "viDef": "mưa nhẹ",
+    "ex": "It's only a drizzle, so you don't need an umbrella.",
+    "exHit": "drizzle",
+    "exVi": "Chỉ là mưa phùn thôi, nên bạn không cần ô."
   },
   {
     "word": "hazy",
@@ -141,7 +192,10 @@
     "type": "Adjective",
     "def": "describes when air is not clear becaause of fog or smog",
     "vi": "mù mịt",
-    "viDef": "không khí đục vì sương hoặc khói bụi"
+    "viDef": "không khí đục vì sương hoặc khói bụi",
+    "ex": "It was too hazy to see the mountains today.",
+    "exHit": "hazy",
+    "exVi": "Hôm nay trời mù quá nên không nhìn thấy núi."
   },
   {
     "word": "fog",
@@ -149,7 +203,10 @@
     "type": "common noun, non-variable",
     "def": "small drops of water that float in the air",
     "vi": "sương mù",
-    "viDef": "những hạt nước nhỏ lơ lửng trong không khí"
+    "viDef": "những hạt nước nhỏ lơ lửng trong không khí",
+    "ex": "The fog was so thick that I could barely see the road.",
+    "exHit": "fog",
+    "exVi": "Sương mù dày đến mức tôi gần như không nhìn thấy đường."
   },
   {
     "word": "blizard",
@@ -157,6 +214,9 @@
     "type": "common noun, singular",
     "def": "a very strong snow storm",
     "vi": "bão tuyết",
-    "viDef": "cơn bão tuyết rất mạnh"
+    "viDef": "cơn bão tuyết rất mạnh",
+    "ex": "A big blizard is coming, so stay home tomorrow.",
+    "exHit": "blizard",
+    "exVi": "Một trận bão tuyết lớn đang đến, nên ngày mai hãy ở nhà."
   }
 ]

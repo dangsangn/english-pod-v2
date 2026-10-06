@@ -5,7 +5,10 @@
     "type": "",
     "def": "live in a place permanently",
     "vi": "cư trú",
-    "viDef": "sống thường trực ở một nơi"
+    "viDef": "sống thường trực ở một nơi",
+    "ex": "My parents reside in a small town near Hanoi.",
+    "exHit": "reside",
+    "exVi": "Bố mẹ tôi sống ở một thị trấn nhỏ gần Hà Nội."
   },
   {
     "word": "sound",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "free from disease or injury ;in good condition",
     "vi": "minh mẫn, lành mạnh",
-    "viDef": "không bệnh tật hay thương tích, ở trạng thái tốt"
+    "viDef": "không bệnh tật hay thương tích, ở trạng thái tốt",
+    "ex": "I, Luke Thompson, residing in California, being of sound mind, do hereby declare this instrument to be my last will and testament.",
+    "exHit": "sound",
+    "exVi": "Tôi, Luke Thompson, cư trú tại California, với tinh thần minh mẫn, nay tuyên bố văn bản này là di chúc cuối cùng của tôi."
   },
   {
     "word": "hereby",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "by means of or as a result of this",
     "vi": "nay bằng văn bản này",
-    "viDef": "bởi hoặc theo văn bản này"
+    "viDef": "bởi hoặc theo văn bản này",
+    "ex": "I hereby revoke all previous wills and codicils.",
+    "exHit": "hereby",
+    "exVi": "Tôi xin hủy bỏ mọi di chúc và bản bổ sung trước đây."
   },
   {
     "word": "last will and testament",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a paper made to settle property after one's death",
     "vi": "di chúc",
-    "viDef": "văn bản lập ra để định đoạt tài sản sau khi mình mất"
+    "viDef": "văn bản lập ra để định đoạt tài sản sau khi mình mất",
+    "ex": "I, Luke Thompson, residing in California, being of sound mind, do hereby declare this instrument to be my last will and testament.",
+    "exHit": "last will and testament",
+    "exVi": "Tôi, Luke Thompson, cư trú tại California, với tinh thần minh mẫn, nay tuyên bố văn bản này là di chúc cuối cùng của tôi."
   },
   {
     "word": "remains",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the body of a dead person",
     "vi": "di hài",
-    "viDef": "thân thể của người đã mất"
+    "viDef": "thân thể của người đã mất",
+    "ex": "I direct that the disposition of my remains be as follows: I am to be cremated and taken to the summit of Mount Everest where my ashes will forever remain at the ceiling of the Earth.",
+    "exHit": "remains",
+    "exVi": "Tôi yêu cầu việc xử lý thi hài của tôi như sau: tôi sẽ được hỏa táng và đưa lên đỉnh Everest, nơi tro của tôi sẽ mãi nằm trên nóc nhà của Trái Đất."
   },
   {
     "word": "summit",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the highest point;top",
     "vi": "đỉnh cao nhất",
-    "viDef": "điểm cao nhất, trên chóp"
+    "viDef": "điểm cao nhất, trên chóp",
+    "ex": "I direct that the disposition of my remains be as follows: I am to be cremated and taken to the summit of Mount Everest where my ashes will forever remain at the ceiling of the Earth.",
+    "exHit": "summit",
+    "exVi": "Tôi yêu cầu việc xử lý thi hài của tôi như sau: tôi sẽ được hỏa táng và đưa lên đỉnh Everest, nơi tro của tôi sẽ mãi nằm trên nóc nhà của Trái Đất."
   },
   {
     "word": "estate",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "everything you own;all your assets",
     "vi": "di sản, khối tài sản",
-    "viDef": "toàn bộ những gì mình sở hữu"
+    "viDef": "toàn bộ những gì mình sở hữu",
+    "ex": "I give all the rest and residue of my estate to my spouse, Betty Thompson, should she survive me for days.",
+    "exHit": "estate",
+    "exVi": "Tôi để lại toàn bộ phần còn lại của tài sản cho vợ tôi là Betty Thompson, nếu bà ấy còn sống sau tôi vài ngày."
   },
   {
     "word": "appoint",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "choose someone to do a particular job",
     "vi": "chỉ định",
-    "viDef": "chọn ai để làm một việc nhất định"
+    "viDef": "chọn ai để làm một việc nhất định",
+    "ex": "I appoint Robert Porter, to act as the executor of this will, to serve without bond.",
+    "exHit": "appoint",
+    "exVi": "Tôi chỉ định Robert Porter làm người thi hành di chúc này, không cần bảo lãnh."
   },
   {
     "word": "affix",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "add or append",
     "vi": "ký kèm, đính vào",
-    "viDef": "thêm hoặc gắn vào"
+    "viDef": "thêm hoặc gắn vào",
+    "ex": "I herewith affix my signature to this will on this the twenty third of May two thousand ten in the presence of the following witnesses, who witnessed and subscribed this will at my request, and in my presence.",
+    "exHit": "affix",
+    "exVi": "Nay tôi ký tên vào di chúc này vào ngày hai mươi ba tháng Năm năm hai nghìn không trăm mười, trước sự chứng kiến của các nhân chứng sau đây, những người đã chứng kiến và ký vào di chúc này theo yêu cầu của tôi và có mặt tôi."
   },
   {
     "word": "subscribe",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to sign at the end of the will or contract",
     "vi": "ký tên vào cuối",
-    "viDef": "ký ở phần cuối di chúc hoặc hợp đồng"
+    "viDef": "ký ở phần cuối di chúc hoặc hợp đồng",
+    "ex": "I herewith affix my signature to this will on this the twenty third of May two thousand ten in the presence of the following witnesses, who witnessed and subscribed this will at my request, and in my presence.",
+    "exHit": "subscribed",
+    "exVi": "Nay tôi ký tên vào di chúc này vào ngày hai mươi ba tháng Năm năm hai nghìn không trăm mười, trước sự chứng kiến của các nhân chứng sau đây, những người đã chứng kiến và ký vào di chúc này theo yêu cầu của tôi và có mặt tôi."
   },
   {
     "word": "spouse",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a person's partner in marriage",
     "vi": "vợ hoặc chồng",
-    "viDef": "người bạn đời trong hôn nhân"
+    "viDef": "người bạn đời trong hôn nhân",
+    "ex": "I give all the rest and residue of my estate to my spouse, Betty Thompson, should she survive me for days.",
+    "exHit": "spouse",
+    "exVi": "Tôi để lại toàn bộ phần còn lại của tài sản cho vợ tôi là Betty Thompson, nếu bà ấy còn sống sau tôi vài ngày."
   },
   {
     "word": "revoke",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "cancel",
     "vi": "thu hồi, hủy",
-    "viDef": "bãi bỏ"
+    "viDef": "bãi bỏ",
+    "ex": "I hereby revoke all previous wills and codicils.",
+    "exHit": "revoke",
+    "exVi": "Tôi xin hủy bỏ mọi di chúc và bản bổ sung trước đây."
   },
   {
     "word": "Responsiblity",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "to be held accountable",
     "vi": "trách nhiệm",
-    "viDef": "việc phải chịu phần đối với điều gì"
+    "viDef": "việc phải chịu phần đối với điều gì",
+    "ex": "It's your responsibility to pay the rent on time.",
+    "exHit": "responsibility",
+    "exVi": "Trả tiền thuê đúng hạn là trách nhiệm của bạn."
   },
   {
     "word": "Directions",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "A set of actions",
     "vi": "các chỉ dẫn",
-    "viDef": "một tập hợp việc phải làm"
+    "viDef": "một tập hợp việc phải làm",
+    "ex": "Read the directions carefully before you sign this form.",
+    "exHit": "directions",
+    "exVi": "Hãy đọc kỹ hướng dẫn trước khi ký vào mẫu đơn này."
   },
   {
     "word": "Residence",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "A person's house or dwelling",
     "vi": "nơi ở",
-    "viDef": "nhà hoặc chỗ trú của một người"
+    "viDef": "nhà hoặc chỗ trú của một người",
+    "ex": "Her main residence is a small house in California.",
+    "exHit": "residence",
+    "exVi": "Nơi ở chính của cô ấy là một căn nhà nhỏ ở California."
   },
   {
     "word": "Donation",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "To give something free of charge(usually of value)",
     "vi": "sự hiến tặng",
-    "viDef": "việc cho không thứ gì, thường là có giá trị"
+    "viDef": "việc cho không thứ gì, thường là có giá trị",
+    "ex": "She made a generous donation to the local hospital.",
+    "exHit": "donation",
+    "exVi": "Cô ấy đã quyên góp hào phóng cho bệnh viện địa phương."
   },
   {
     "word": "Funeral",
@@ -133,6 +181,9 @@
     "type": "",
     "def": "A celebration of a person's life after passing",
     "vi": "lễ tang",
-    "viDef": "buổi tưởng niệm cuộc đời một người sau khi họ mất"
+    "viDef": "buổi tưởng niệm cuộc đời một người sau khi họ mất",
+    "ex": "Lots of old friends came to his funeral.",
+    "exHit": "funeral",
+    "exVi": "Rất nhiều bạn cũ đã đến dự tang lễ của ông ấy."
   }
 ]

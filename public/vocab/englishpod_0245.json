@@ -5,7 +5,10 @@
     "type": "",
     "def": "a purchase by prepayment for goods or services",
     "vi": "gói đăng ký dài hạn",
-    "viDef": "việc trả tiền trước để nhận hàng hoặc dịch vụ"
+    "viDef": "việc trả tiền trước để nhận hàng hoặc dịch vụ",
+    "ex": "Good afternoon Ma'am, My name is Mike and I am selling subscriptions to all sorts of periodicals.",
+    "exHit": "subscriptions",
+    "exVi": "Chào bà, tôi tên là Mike và tôi đang bán thuê bao đủ loại tạp chí định kỳ."
   },
   {
     "word": "if you could spare",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "do you have, can you offer",
     "vi": "nếu anh/chị dành cho",
-    "viDef": "anh/chị có hoặc có thể cho được không"
+    "viDef": "anh/chị có hoặc có thể cho được không",
+    "ex": "Please ma'am, if you could spare five minutes of your time, I am sure we could find something that interests you!",
+    "exHit": "if you could spare",
+    "exVi": "Thưa bà, nếu bà có thể dành cho tôi năm phút, tôi chắc chắn chúng tôi sẽ tìm được thứ khiến bà hứng thú!"
   },
   {
     "word": "quarterly",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "at three month intervals",
     "vi": "theo quý",
-    "viDef": "cách ba tháng một lần"
+    "viDef": "cách ba tháng một lần",
+    "ex": "This one is a quarterly publication, but each issue has over 200 color pages of recipes and also many home decorating ideas!",
+    "exHit": "quarterly",
+    "exVi": "Tờ này ra theo quý, nhưng mỗi số có hơn 200 trang màu với các công thức nấu ăn và rất nhiều ý tưởng trang trí nhà cửa!"
   },
   {
     "word": "issue",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a final publication such as a magazine",
     "vi": "số báo",
-    "viDef": "một ấn bản đã in, chẳng hạn tạp chí"
+    "viDef": "một ấn bản đã in, chẳng hạn tạp chí",
+    "ex": "This one is a quarterly publication, but each issue has over 200 color pages of recipes and also many home decorating ideas!",
+    "exHit": "issue",
+    "exVi": "Tờ này ra theo quý, nhưng mỗi số có hơn 200 trang màu với các công thức nấu ăn và rất nhiều ý tưởng trang trí nhà cửa!"
   },
   {
     "word": "pet sitter",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "person who takes care of pets in owner's absence",
     "vi": "người trông vật nuôi",
-    "viDef": "người chăm thú nuôi khi chủ đi vắng"
+    "viDef": "người chăm thú nuôi khi chủ đi vắng",
+    "ex": "You mentioned you have a dog, most pet owners sign up for this weekly newsletter that has information on dog care, pet shops and even pet sitters!",
+    "exHit": "pet sitters",
+    "exVi": "Bà có nhắc là bà nuôi một chú chó, hầu hết chủ thú cưng đều đăng ký bản tin hằng tuần này, với thông tin về chăm sóc chó, cửa hàng thú cưng và cả người trông thú cưng!"
   },
   {
     "word": "cable tv",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "tv channels which are purchased for a monthly fee",
     "vi": "truyền hình cáp",
-    "viDef": "các kênh tivi mua theo tháng"
+    "viDef": "các kênh tivi mua theo tháng",
+    "ex": "We pay for cable tv every month, but we hardly watch it.",
+    "exHit": "cable tv",
+    "exVi": "Tháng nào chúng tôi cũng trả tiền truyền hình cáp, nhưng hầu như không xem."
   },
   {
     "word": "internet service",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "service that provides internet access for a fee",
     "vi": "dịch vụ internet",
-    "viDef": "dịch vụ cung cấp mạng có thu phí"
+    "viDef": "dịch vụ cung cấp mạng có thu phí",
+    "ex": "Our internet service is down again this morning.",
+    "exHit": "internet service",
+    "exVi": "Dịch vụ internet nhà chúng tôi sáng nay lại bị mất nữa rồi."
   },
   {
     "word": "gym membership",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "paid membership that provides access to the gym",
     "vi": "thẻ tập gym",
-    "viDef": "gói trả tiền để được vào phòng tập"
+    "viDef": "gói trả tiền để được vào phòng tập",
+    "ex": "I have a gym membership, but I never go.",
+    "exHit": "gym membership",
+    "exVi": "Tôi có thẻ thành viên phòng tập, nhưng chẳng bao giờ đi."
   },
   {
     "word": "Vogue",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a magazine that is delivered monthly",
     "vi": "tạp chí Vogue",
-    "viDef": "tờ tạp chí giao hằng tháng"
+    "viDef": "tờ tạp chí giao hằng tháng",
+    "ex": "My sister gets Vogue delivered to her house every month.",
+    "exHit": "Vogue",
+    "exVi": "Chị gái tôi được giao tạp chí Vogue đến tận nhà mỗi tháng."
   },
   {
     "word": "NY Times",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a newspaper printed daily",
     "vi": "báo NY Times",
-    "viDef": "tờ báo in mỗi ngày"
+    "viDef": "tờ báo in mỗi ngày",
+    "ex": "I read the NY Times on my phone every morning.",
+    "exHit": "NY Times",
+    "exVi": "Sáng nào tôi cũng đọc tờ NY Times trên điện thoại."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "unavoidable",
     "vi": "tất yếu",
-    "viDef": "không thể tránh khỏi"
+    "viDef": "không thể tránh khỏi",
+    "ex": "You know, I'm tired of hearing all this news about the economic downturn, the inevitable recession, people stuffing their money in their mattresses.",
+    "exHit": "inevitable",
+    "exVi": "Bạn biết đấy, tôi chán nghe mấy tin tức về suy thoái kinh tế, cuộc suy thoái không thể tránh khỏi, và việc người ta nhét tiền vào dưới nệm."
   },
   {
     "word": "nest egg",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "money that is saved to pay for something in the future, usually a house, or retirement",
     "vi": "khoản để dành",
-    "viDef": "tiền tích lũy cho sau này, thường để mua nhà hoặc dưỡng già"
+    "viDef": "tiền tích lũy cho sau này, thường để mua nhà hoặc dưỡng già",
+    "ex": "This is a chance for me to get a jump start on building my nest egg.",
+    "exHit": "nest egg",
+    "exVi": "Đây là cơ hội để mình khởi đầu việc xây dựng quỹ tiết kiệm cho tương lai."
   },
   {
     "word": "turmoil",
@@ -21,7 +27,10 @@
     "type": "common noun, non-variable",
     "def": "a state of confusion, disorder, disturbance",
     "vi": "sự rối loạn",
-    "viDef": "tình trạng hỗn loạn, xáo trộn"
+    "viDef": "tình trạng hỗn loạn, xáo trộn",
+    "ex": "I don't know if you're aware son, but there has been a lot of turmoil in the markets recently.",
+    "exHit": "turmoil",
+    "exVi": "Con trai, bố không biết con có biết không, nhưng gần đây thị trường có rất nhiều biến động."
   },
   {
     "word": "stimulus package",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "amount of money the government uses to improve the economy",
     "vi": "gói kích thích kinh tế",
-    "viDef": "khoản tiền nhà nước bỏ ra để vực dậy kinh tế"
+    "viDef": "khoản tiền nhà nước bỏ ra để vực dậy kinh tế",
+    "ex": "There have already been half a million layoffs in the last few months, and we have no idea how the proposed stimulus package will impact the economy.",
+    "exHit": "stimulus package",
+    "exVi": "Chỉ trong vài tháng qua đã có nửa triệu người bị sa thải, và chúng ta không biết gói kích thích kinh tế được đề xuất sẽ tác động đến nền kinh tế thế nào."
   },
   {
     "word": "instability",
@@ -37,7 +49,10 @@
     "type": "common noun, non-variable",
     "def": "state of not being stable, being likely to change",
     "vi": "sự bất ổn",
-    "viDef": "trạng thái không vững, dễ thay đổi"
+    "viDef": "trạng thái không vững, dễ thay đổi",
+    "ex": "There's just too much instability.",
+    "exHit": "instability",
+    "exVi": "Có quá nhiều bất ổn."
   },
   {
     "word": "emerging market",
@@ -45,7 +60,10 @@
     "type": "common noun, plural",
     "def": "nations undergoing quick industrialization",
     "vi": "thị trường mới nổi",
-    "viDef": "các nước đang công nghiệp hóa nhanh"
+    "viDef": "các nước đang công nghiệp hóa nhanh",
+    "ex": "There are emerging markets that promise great returns.",
+    "exHit": "emerging markets",
+    "exVi": "Có những thị trường mới nổi hứa hẹn lợi nhuận lớn."
   },
   {
     "word": "aggregate",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "combined",
     "vi": "gộp chung, tổng hợp",
-    "viDef": "cộng gộp lại"
+    "viDef": "cộng gộp lại",
+    "ex": "Here alone, the aggregate demand for consumer goods represents an amazing wealth generating opportunity",
+    "exHit": "aggregate",
+    "exVi": "Chỉ riêng ở đây, tổng nhu cầu về hàng tiêu dùng đã là một cơ hội tạo ra của cải tuyệt vời."
   },
   {
     "word": "devalue",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "reduced in value",
     "vi": "phá giá, mất giá",
-    "viDef": "bị giảm giá trị"
+    "viDef": "bị giảm giá trị",
+    "ex": "Come on son, you're looking at this too naively, the Chinese market has exhibited a great deal of instability, and their currency has been devalued by almost a whole percentage point.",
+    "exHit": "devalued",
+    "exVi": "Thôi nào con, con nhìn nhận chuyện này quá ngây thơ, thị trường Trung Quốc đã cho thấy rất nhiều bất ổn, và đồng tiền của họ đã bị mất giá gần cả một điểm phần trăm."
   },
   {
     "word": "hit up",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "ask for money",
     "vi": "hỏi vay tiền",
-    "viDef": "xin hoặc mượn tiền ai"
+    "viDef": "xin hoặc mượn tiền ai",
+    "ex": "I'm going to go hit up Mom for the cash.",
+    "exHit": "hit up",
+    "exVi": "Mình sẽ đi xin mẹ ít tiền."
   },
   {
     "word": "depreciation",
@@ -77,7 +104,10 @@
     "type": "common noun, non-variable",
     "def": "an decrease in the value of something",
     "vi": "sự giảm giá trị",
-    "viDef": "giá trị của thứ gì đó đi xuống"
+    "viDef": "giá trị của thứ gì đó đi xuống",
+    "ex": "The depreciation of the dollar made imported goods more expensive.",
+    "exHit": "depreciation",
+    "exVi": "Việc đồng đô la mất giá khiến hàng nhập khẩu đắt hơn."
   },
   {
     "word": "appreciation",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "an increase in the value of something",
     "vi": "sự tăng giá trị",
-    "viDef": "giá trị của thứ gì đó đi lên"
+    "viDef": "giá trị của thứ gì đó đi lên",
+    "ex": "The appreciation of our house over ten years surprised us.",
+    "exHit": "appreciation",
+    "exVi": "Việc giá trị căn nhà của chúng tôi tăng lên sau mười năm khiến chúng tôi ngạc nhiên."
   },
   {
     "word": "inflation",
@@ -93,7 +126,10 @@
     "type": "common noun, non-variable",
     "def": "an continual increase in price",
     "vi": "lạm phát",
-    "viDef": "giá cả tăng liên tục"
+    "viDef": "giá cả tăng liên tục",
+    "ex": "Inflation is making groceries more expensive every month.",
+    "exHit": "Inflation",
+    "exVi": "Lạm phát đang làm giá thực phẩm đắt hơn mỗi tháng."
   },
   {
     "word": "developing economy",
@@ -101,7 +137,10 @@
     "type": "common noun, plural",
     "def": "growing economy",
     "vi": "nền kinh tế đang phát triển",
-    "viDef": "kinh tế đang đi lên"
+    "viDef": "kinh tế đang đi lên",
+    "ex": "India is a large developing economy with many young workers.",
+    "exHit": "developing economy",
+    "exVi": "Ấn Độ là một nền kinh tế đang phát triển lớn với nhiều lao động trẻ."
   },
   {
     "word": "rapidly developing country",
@@ -109,7 +148,10 @@
     "type": "common noun, plural",
     "def": "countries undergoing quick industrialization",
     "vi": "nước phát triển nhanh",
-    "viDef": "quốc gia đang công nghiệp hóa nhanh"
+    "viDef": "quốc gia đang công nghiệp hóa nhanh",
+    "ex": "Many investors are interested in a rapidly developing country like Vietnam.",
+    "exHit": "rapidly developing country",
+    "exVi": "Nhiều nhà đầu tư quan tâm đến một quốc gia đang phát triển nhanh như Việt Nam."
   },
   {
     "word": "industrialized nation",
@@ -117,6 +159,9 @@
     "type": "common noun, plural",
     "def": "nations that have developed factories and businesses",
     "vi": "nước công nghiệp",
-    "viDef": "quốc gia đã có nhà máy và doanh nghiệp phát triển"
+    "viDef": "quốc gia đã có nhà máy và doanh nghiệp phát triển",
+    "ex": "Japan is an industrialized nation with many large factories.",
+    "exHit": "industrialized nation",
+    "exVi": "Nhật Bản là một quốc gia công nghiệp hóa với nhiều nhà máy lớn."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "to rub your skin with something sharp",
     "vi": "cào xước",
-    "viDef": "chà lên da bằng vật nhọn"
+    "viDef": "chà lên da bằng vật nhọn",
+    "ex": "Stop scratching your arm, or you'll make the rash worse.",
+    "exHit": "scratching",
+    "exVi": "Đừng gãi tay nữa, không là phát ban sẽ nặng hơn đó."
   },
   {
     "word": "sneaky",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "behaving in a secret and usually dishonest manner",
     "vi": "gian, lén lút",
-    "viDef": "hành xử ngấm ngầm, thường là không thật"
+    "viDef": "hành xử ngấm ngầm, thường là không thật",
+    "ex": "Sneaky little jerks.",
+    "exHit": "Sneaky",
+    "exVi": "Lũ nhóc láu cá đáng ghét."
   },
   {
     "word": "put up with",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to allow to exist or happen",
     "vi": "cam chịu",
-    "viDef": "để cho tồn tại hoặc xảy ra"
+    "viDef": "để cho tồn tại hoặc xảy ra",
+    "ex": "Then we'll have to put up with it.",
+    "exHit": "put up with",
+    "exVi": "Vậy thì chúng ta đành phải chịu đựng nó thôi."
   },
   {
     "word": "bug spray",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a liquid used to prevent being bitten by bugs",
     "vi": "thuốc xịt chống muỗi",
-    "viDef": "dung dịch xịt để khỏi bị bọ đốt"
+    "viDef": "dung dịch xịt để khỏi bị bọ đốt",
+    "ex": "Do you have any bug spray?",
+    "exHit": "bug spray",
+    "exVi": "Bạn có thuốc xịt côn trùng không?"
   },
   {
     "word": "mosquito",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a small flying insect that bites the skin",
     "vi": "con muỗi",
-    "viDef": "loài bọ nhỏ bay và đốt da"
+    "viDef": "loài bọ nhỏ bay và đốt da",
+    "ex": "The mosquitos are biting me!",
+    "exHit": "mosquitos",
+    "exVi": "Muỗi đang cắn tôi!"
   },
   {
     "word": "mosquito net",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a net placed usually around a bed to prevent somone sleeping from being bitten",
     "vi": "mùng, màn chống muỗi",
-    "viDef": "lưới quây quanh giường để người ngủ không bị đốt"
+    "viDef": "lưới quây quanh giường để người ngủ không bị đốt",
+    "ex": "Please hang a mosquito net over the bed before you go to sleep.",
+    "exHit": "mosquito net",
+    "exVi": "Làm ơn treo màn chống muỗi trên giường trước khi đi ngủ."
   },
   {
     "word": "rash",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "an outbreak of spots or patches on the skin, caused by illness or allergy",
     "vi": "mẩn đỏ",
-    "viDef": "các nốt hoặc vùng nổi trên da do bệnh hoặc dị ứng"
+    "viDef": "các nốt hoặc vùng nổi trên da do bệnh hoặc dị ứng",
+    "ex": "I got a red rash on my arms after the camping trip.",
+    "exHit": "rash",
+    "exVi": "Tôi bị nổi mẩn đỏ trên tay sau chuyến cắm trại."
   },
   {
     "word": "malaria",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a disease with recurring attacks of fever, caused by the bite of some types of mosquito",
     "vi": "bệnh sốt rét",
-    "viDef": "bệnh gây các cơn sốt lặp lại, do một số loài muỗi đốt"
+    "viDef": "bệnh gây các cơn sốt lặp lại, do một số loài muỗi đốt",
+    "ex": "Travelers to the jungle should take medicine to protect themselves from malaria.",
+    "exHit": "malaria",
+    "exVi": "Du khách đến vùng rừng rậm nên uống thuốc để phòng bệnh sốt rét."
   },
   {
     "word": "bug zapper",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a device that attracts and kills insects that are attracted by light",
     "vi": "đèn bắt muỗi",
-    "viDef": "thiết bị dùng đèn hút rồi diệt côn trùng"
+    "viDef": "thiết bị dùng đèn hút rồi diệt côn trùng",
+    "ex": "The bug zapper on the porch buzzes all night and kills dozens of insects.",
+    "exHit": "bug zapper",
+    "exVi": "Cái đèn diệt côn trùng ngoài hiên kêu vo vo cả đêm và giết hàng chục con côn trùng."
   },
   {
     "word": "pesticide",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a chemical used to destroy pests, esp. insects",
     "vi": "thuốc trừ sâu",
-    "viDef": "hóa chất dùng diệt sinh vật gây hại, nhất là côn trùng"
+    "viDef": "hóa chất dùng diệt sinh vật gây hại, nhất là côn trùng",
+    "ex": "The farmer sprayed pesticide on the field to keep the insects away.",
+    "exHit": "pesticide",
+    "exVi": "Người nông dân phun thuốc trừ sâu lên ruộng để xua côn trùng đi."
   }
 ]

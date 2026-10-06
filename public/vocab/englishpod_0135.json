@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "sad or unhappy",
     "vi": "xuống tinh thần",
-    "viDef": "buồn, không vui"
+    "viDef": "buồn, không vui",
+    "ex": "You seem a bit down.",
+    "exHit": "down",
+    "exVi": "Trông bạn có vẻ hơi buồn."
   },
   {
     "word": "stress out",
@@ -13,7 +16,10 @@
     "type": "principle verb, past simple",
     "def": "to feel very worried or anxious",
     "vi": "căng thẳng quá",
-    "viDef": "lo lắng, bồn chồn dữ dội"
+    "viDef": "lo lắng, bồn chồn dữ dội",
+    "ex": "Maybe it's just that he is stressed out from work or something.",
+    "exHit": "stressed out",
+    "exVi": "Có lẽ anh ấy chỉ bị căng thẳng vì công việc hay gì đó thôi."
   },
   {
     "word": "nerve wracking",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "causing a person to feel very nervous",
     "vi": "khiến ruột gan lộn nhào",
-    "viDef": "làm người ta rất lo lắng"
+    "viDef": "làm người ta rất lo lắng",
+    "ex": "He does have a pretty nerve wracking job you know.",
+    "exHit": "nerve wracking",
+    "exVi": "Anh ấy có một công việc khá căng thẳng thần kinh đấy, bạn biết mà."
   },
   {
     "word": "brush me off",
@@ -29,7 +38,10 @@
     "type": "principle verb, present simple",
     "def": "refuse to talk about something with someone",
     "vi": "gạt tôi đi",
-    "viDef": "không chịu nói chuyện đó với mình"
+    "viDef": "không chịu nói chuyện đó với mình",
+    "ex": "I try to find out what's bothering him or get him to talk about his day but, he always shuts down and brushes me off.",
+    "exHit": "brushes me off",
+    "exVi": "Tôi cố tìm hiểu điều gì đang làm phiền anh ấy hoặc để anh ấy kể về một ngày của mình, nhưng anh ấy cứ im bặt và gạt tôi đi."
   },
   {
     "word": "cheer up",
@@ -37,7 +49,10 @@
     "type": "principle verb, infinitive",
     "def": "to make (someone) happier",
     "vi": "làm vui lên",
-    "viDef": "khiến ai đỡ buồn"
+    "viDef": "khiến ai đỡ buồn",
+    "ex": "Talk to him, try to cheer him up when he is down and if that doesn't work, I say get rid of him and get a new one!",
+    "exHit": "cheer him up",
+    "exVi": "Hãy nói chuyện với anh ấy, cố làm anh ấy vui lên khi anh ấy buồn, và nếu không được thì tôi bảo là bỏ anh ta đi và kiếm người mới!"
   },
   {
     "word": "down in the dumps",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "feeling sad, not happy",
     "vi": "buồn thiu",
-    "viDef": "đang chán, không vui"
+    "viDef": "đang chán, không vui",
+    "ex": "He's been down in the dumps since he lost his job.",
+    "exHit": "down in the dumps",
+    "exVi": "Anh ấy buồn rầu từ khi mất việc."
   },
   {
     "word": "have the blues",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "having sad feelings or emotions",
     "vi": "đang mang tâm trạng buồn",
-    "viDef": "trong lòng u sầu"
+    "viDef": "trong lòng u sầu",
+    "ex": "I always have the blues on rainy Monday mornings.",
+    "exHit": "have the blues",
+    "exVi": "Tôi luôn thấy buồn bã vào những sáng thứ Hai mưa."
   },
   {
     "word": "rattled",
@@ -61,7 +82,10 @@
     "type": "principle verb, past simple",
     "def": "to fluster, unnerve",
     "vi": "bị rúng",
-    "viDef": "làm cho hoang mang, mất bình tĩnh"
+    "viDef": "làm cho hoang mang, mất bình tĩnh",
+    "ex": "The bad news rattled her, and she couldn't speak for a minute.",
+    "exHit": "rattled",
+    "exVi": "Tin xấu làm cô ấy bối rối, và cô không nói nên lời trong một phút."
   },
   {
     "word": "grinds my gears",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "makes me angry, upsets me",
     "vi": "làm tôi điên tiết",
-    "viDef": "khiến tôi tức, bực"
+    "viDef": "khiến tôi tức, bực",
+    "ex": "It really grinds my gears when people talk during movies.",
+    "exHit": "grinds my gears",
+    "exVi": "Tôi thật sự bực mình khi người ta nói chuyện trong lúc xem phim."
   },
   {
     "word": "pissed off",
@@ -77,6 +104,9 @@
     "type": "phrase",
     "def": "upset, very angry",
     "vi": "tức điên",
-    "viDef": "bực, rất giận"
+    "viDef": "bực, rất giận",
+    "ex": "I was so pissed off when he broke my favorite cup.",
+    "exHit": "pissed off",
+    "exVi": "Tôi tức điên lên khi anh ta làm vỡ cái cốc yêu thích của tôi."
   }
 ]

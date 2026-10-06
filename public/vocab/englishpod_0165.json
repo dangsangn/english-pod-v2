@@ -5,7 +5,10 @@
     "type": "",
     "def": "percentage of the money paid to you by the bank ou",
     "vi": "lãi suất",
-    "viDef": "tỷ lệ phần trăm tiền lãi ngân hàng trả hoặc thu"
+    "viDef": "tỷ lệ phần trăm tiền lãi ngân hàng trả hoặc thu",
+    "ex": "We pride ourselves on having the lowest interest rate for personal loans.",
+    "exHit": "interest rate",
+    "exVi": "Chúng tôi tự hào có lãi suất thấp nhất cho các khoản vay cá nhân."
   },
   {
     "word": "general terms",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "common rules listed in an agreement",
     "vi": "điều khoản chung",
-    "viDef": "các quy định thông thường ghi trong hợp đồng"
+    "viDef": "các quy định thông thường ghi trong hợp đồng",
+    "ex": "Before you sign, please read the general terms of the loan carefully.",
+    "exHit": "general terms",
+    "exVi": "Trước khi ký, xin hãy đọc kỹ các điều khoản chung của khoản vay."
   },
   {
     "word": "calculate",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "measure",
     "vi": "tính toán",
-    "viDef": "đo, tính ra"
+    "viDef": "đo, tính ra",
+    "ex": "Let me calculate how much you'll pay back each month.",
+    "exHit": "calculate",
+    "exVi": "Để tôi tính xem mỗi tháng anh sẽ trả lại bao nhiêu."
   },
   {
     "word": "credit score",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the score given to an individual to determine the",
     "vi": "điểm tín dụng",
-    "viDef": "điểm đánh giá một người để xét khả năng trả nợ"
+    "viDef": "điểm đánh giá một người để xét khả năng trả nợ",
+    "ex": "I have a terrible credit score.",
+    "exHit": "credit score",
+    "exVi": "Điểm tín dụng của tôi rất tệ."
   },
   {
     "word": "mortgage",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the transfer of an interest in property from a borrower to a lender as a security for a loan of money",
     "vi": "thế chấp",
-    "viDef": "việc người vay chuyển quyền lợi trên tài sản cho bên cho vay làm bảo đảm"
+    "viDef": "việc người vay chuyển quyền lợi trên tài sản cho bên cho vay làm bảo đảm",
+    "ex": "We took out a mortgage to buy our first house.",
+    "exHit": "mortgage",
+    "exVi": "Chúng tôi vay thế chấp để mua căn nhà đầu tiên."
   },
   {
     "word": "mortgage broker",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "person who finds a lender for a homebuyer and brings them together with the goal of them originating a mortgage loan",
     "vi": "người môi giới vay thế chấp",
-    "viDef": "người tìm bên cho vay cho khách mua nhà và kết nối hai bên để lập khoản vay"
+    "viDef": "người tìm bên cho vay cho khách mua nhà và kết nối hai bên để lập khoản vay",
+    "ex": "A mortgage broker helped us find the best loan.",
+    "exHit": "mortgage broker",
+    "exVi": "Một nhà môi giới thế chấp đã giúp chúng tôi tìm được khoản vay tốt nhất."
   },
   {
     "word": "mortgage lender/banker",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "originates and services a loan with a borrower",
     "vi": "bên cho vay thế chấp",
-    "viDef": "nơi lập và quản lý khoản vay với người vay"
+    "viDef": "nơi lập và quản lý khoản vay với người vay",
+    "ex": "Our mortgage lender called to say the loan was approved.",
+    "exHit": "mortgage lender",
+    "exVi": "Bên cho vay thế chấp của chúng tôi gọi báo khoản vay đã được duyệt."
   },
   {
     "word": "foreclosure",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "when a homeowner is unable to make payments on the mortgage so the lender can seize and sell the property as agreed upon in the mortgage contract",
     "vi": "việc siết nhà",
-    "viDef": "khi chủ nhà không trả được nợ, bên cho vay được thu giữ và bán tài sản như hợp đồng đã định"
+    "viDef": "khi chủ nhà không trả được nợ, bên cho vay được thu giữ và bán tài sản như hợp đồng đã định",
+    "ex": "They lost their home to foreclosure when they couldn't pay the mortgage.",
+    "exHit": "foreclosure",
+    "exVi": "Họ mất nhà do bị tịch thu tài sản thế chấp khi không thể trả tiền vay."
   },
   {
     "word": "creditor",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "someone who extends credit by giving permission for a loan if the borrower promises to pay it back at a later date",
     "vi": "chủ nợ",
-    "viDef": "người cấp khoản vay khi bên vay hứa sẽ trả lại sau"
+    "viDef": "người cấp khoản vay khi bên vay hứa sẽ trả lại sau",
+    "ex": "The creditor called me again about the money I owe.",
+    "exHit": "creditor",
+    "exVi": "Chủ nợ lại gọi cho tôi về số tiền tôi còn nợ."
   }
 ]

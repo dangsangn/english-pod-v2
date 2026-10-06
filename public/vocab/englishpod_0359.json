@@ -5,7 +5,10 @@
     "type": "",
     "def": "important",
     "vi": "gấp",
-    "viDef": "quan trọng"
+    "viDef": "quan trọng",
+    "ex": "I got an urgent email from Tom!",
+    "exHit": "urgent",
+    "exVi": "Tôi nhận được một email khẩn từ Tom!"
   },
   {
     "word": "get robbed",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to be victim of a robbery, something stolen",
     "vi": "bị cướp",
-    "viDef": "trở thành nạn nhân của một vụ cướp, bị lấy mất thứ gì"
+    "viDef": "trở thành nạn nhân của một vụ cướp, bị lấy mất thứ gì",
+    "ex": "Be careful or you might get robbed on that street.",
+    "exHit": "get robbed",
+    "exVi": "Hãy cẩn thận kẻo bạn có thể bị cướp trên con phố đó."
   },
   {
     "word": "wire",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to send money electronically",
     "vi": "chuyển khoản",
-    "viDef": "gửi tiền bằng đường điện tử"
+    "viDef": "gửi tiền bằng đường điện tử",
+    "ex": "He says he is in London and got robbed and needs us to wire him some money for his hotel.",
+    "exHit": "wire",
+    "exVi": "Anh ấy nói đang ở London, bị cướp và cần chúng ta chuyển tiền cho anh ấy trả tiền khách sạn."
   },
   {
     "word": "dodgy",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "questionable, suspicious",
     "vi": "ám muội",
-    "viDef": "khả nghi, đáng ngờ"
+    "viDef": "khả nghi, đáng ngờ",
+    "ex": "That sounds really dodgy tome.",
+    "exHit": "dodgy",
+    "exVi": "Nghe có vẻ rất đáng ngờ với tôi."
   },
   {
     "word": "hack",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to gain access illegally or without authorization",
     "vi": "xâm nhập trái phép",
-    "viDef": "truy cập bất hợp pháp hoặc không được cho phép"
+    "viDef": "truy cập bất hợp pháp hoặc không được cho phép",
+    "ex": "No I mean, it seems like someone may have hacked his email account and sent that out.",
+    "exHit": "hacked",
+    "exVi": "Không, ý tôi là có vẻ ai đó đã xâm nhập tài khoản email của anh ấy và gửi thư đó đi."
   },
   {
     "word": "scam",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to swindle (someone) by means of a trick",
     "vi": "lừa đảo",
-    "viDef": "gạt ai bằng một mánh khóe"
+    "viDef": "gạt ai bằng một mánh khóe",
+    "ex": "Do you really think someone is trying to scam people into sending money?",
+    "exHit": "scam",
+    "exVi": "Bạn thực sự nghĩ có người đang cố lừa mọi người gửi tiền sao?"
   },
   {
     "word": "con artist",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a swindler who exploits the confidence of his vict",
     "vi": "tay lừa chuyên nghiệp",
-    "viDef": "kẻ lừa gạt lợi dụng lòng tin của nạn nhân"
+    "viDef": "kẻ lừa gạt lợi dụng lòng tin của nạn nhân",
+    "ex": "There are so many con artists out there, you never really know.",
+    "exHit": "con artists",
+    "exVi": "Có rất nhiều kẻ lừa đảo ngoài kia, bạn không bao giờ biết được."
   },
   {
     "word": "swindle",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "To cheat or defraud of money or property",
     "vi": "bịp lấy tiền",
-    "viDef": "gian lận hoặc chiếm đoạt tiền, tài sản"
+    "viDef": "gian lận hoặc chiếm đoạt tiền, tài sản",
+    "ex": "Someone tried to swindle my grandmother out of her savings.",
+    "exHit": "swindle",
+    "exVi": "Có người đã cố lừa bà tôi lấy hết tiền tiết kiệm."
   },
   {
     "word": "Ponzi Scheme",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "is an investment fraud that involves the payment of purported returns to existing investors from funds contributed by new investors.",
     "vi": "mô hình Ponzi",
-    "viDef": "trò gian lận đầu tư mà tiền trả cho nhà đầu tư cũ lại lấy từ khoản góp của nhà đầu tư mới"
+    "viDef": "trò gian lận đầu tư mà tiền trả cho nhà đầu tư cũ lại lấy từ khoản góp của nhà đầu tư mới",
+    "ex": "He lost his savings in a Ponzi scheme.",
+    "exHit": "Ponzi scheme",
+    "exVi": "Anh ấy mất hết tiền tiết kiệm vì một mô hình Ponzi."
   },
   {
     "word": "con",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to persuade by deception",
     "vi": "lừa",
-    "viDef": "thuyết phục bằng cách gạt"
+    "viDef": "thuyết phục bằng cách gạt",
+    "ex": "There are so many con artists out there, you never really know.",
+    "exHit": "con",
+    "exVi": "Có rất nhiều kẻ lừa đảo ngoài kia, bạn không bao giờ biết được."
   },
   {
     "word": "Fraud",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a person who makes deceitful pretenses",
     "vi": "kẻ giả mạo",
-    "viDef": "người bày ra những vẻ ngoài dối trá"
+    "viDef": "người bày ra những vẻ ngoài dối trá",
+    "ex": "That man is a fraud, he isn't really a doctor.",
+    "exHit": "fraud",
+    "exVi": "Người đàn ông đó là kẻ lừa đảo, ông ta không thật sự là bác sĩ."
   },
   {
     "word": "Pirate",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "a person who uses or reproduces the work or invention of another without authorization.",
     "vi": "kẻ ăn cắp bản quyền",
-    "viDef": "người dùng hoặc sao chép tác phẩm, sáng chế của người khác mà không xin phép"
+    "viDef": "người dùng hoặc sao chép tác phẩm, sáng chế của người khác mà không xin phép",
+    "ex": "A pirate copied the movie and sold it online.",
+    "exHit": "pirate",
+    "exVi": "Một kẻ vi phạm bản quyền đã sao chép bộ phim và bán trên mạng."
   }
 ]

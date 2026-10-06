@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "an issue that must be discussed",
     "vi": "việc cần bàn",
-    "viDef": "vấn đề phải đưa ra thảo luận"
+    "viDef": "vấn đề phải đưa ra thảo luận",
+    "ex": "Well, right, let's move to our next order of business, as many of you are aware, in recent weeks there has been a lot of media coverage surrounding this bird flu issue.",
+    "exHit": "order of business",
+    "exVi": "Được rồi, chúng ta chuyển sang vấn đề tiếp theo cần bàn; như nhiều bạn đã biết, những tuần gần đây có rất nhiều tin tức truyền thông xoay quanh vấn đề cúm gia cầm này."
   },
   {
     "word": "bird flu",
@@ -13,7 +16,10 @@
     "type": "common noun, non-variable",
     "def": "flu originated from birds that carry virus",
     "vi": "cúm gia cầm",
-    "viDef": "bệnh cúm bắt nguồn từ chim mang virus"
+    "viDef": "bệnh cúm bắt nguồn từ chim mang virus",
+    "ex": "Many people are worried about the bird flu in our city.",
+    "exHit": "bird flu",
+    "exVi": "Nhiều người đang lo lắng về dịch cúm gia cầm ở thành phố của chúng ta."
   },
   {
     "word": "contingency plan",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "a plan that prepares for a situation where things can go wrong",
     "vi": "kế hoạch dự phòng",
-    "viDef": "phương án chuẩn bị cho tình huống xấu"
+    "viDef": "phương án chuẩn bị cho tình huống xấu",
+    "ex": "Every company should have a contingency plan for a sudden emergency.",
+    "exHit": "contingency plan",
+    "exVi": "Mọi công ty đều nên có một kế hoạch dự phòng cho tình huống khẩn cấp bất ngờ."
   },
   {
     "word": "critical",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "extremely important",
     "vi": "hệ trọng",
-    "viDef": "cực kỳ quan trọng"
+    "viDef": "cực kỳ quan trọng",
+    "ex": "Basically, we need to come up with a clear plan; we need to outline specific actions that our company can take to maintain critical business functions in case a pandemic strikes.",
+    "exHit": "critical",
+    "exVi": "Về cơ bản, chúng ta cần đưa ra một kế hoạch rõ ràng; chúng ta cần vạch ra các hành động cụ thể mà công ty có thể thực hiện để duy trì các chức năng kinh doanh thiết yếu trong trường hợp đại dịch xảy ra."
   },
   {
     "word": "pandemic",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "a situation where a disease is spread out very quickly, and affects many people in many countries",
     "vi": "đại dịch",
-    "viDef": "tình trạng dịch lan rất nhanh, ảnh hưởng nhiều người ở nhiều nước"
+    "viDef": "tình trạng dịch lan rất nhanh, ảnh hưởng nhiều người ở nhiều nước",
+    "ex": "Basically, we need to come up with a clear plan; we need to outline specific actions that our company can take to maintain critical business functions in case a pandemic strikes.",
+    "exHit": "pandemic",
+    "exVi": "Về cơ bản, chúng ta cần đưa ra một kế hoạch rõ ràng; chúng ta cần vạch ra các hành động cụ thể mà công ty có thể thực hiện để duy trì các chức năng kinh doanh thiết yếu trong trường hợp đại dịch xảy ra."
   },
   {
     "word": "draft",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "make a first version of something",
     "vi": "soạn thảo",
-    "viDef": "làm bản đầu tiên của thứ gì đó"
+    "viDef": "làm bản đầu tiên của thứ gì đó",
+    "ex": "So, I'll leave this to you, and we'll review the draft plan in two weeks.",
+    "exHit": "draft",
+    "exVi": "Vì vậy tôi sẽ giao việc này cho bạn, và chúng ta sẽ xem lại bản kế hoạch nháp sau hai tuần nữa."
   },
   {
     "word": "impact",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "major influence or effect on something",
     "vi": "tác động",
-    "viDef": "ảnh hưởng lớn lên điều gì đó"
+    "viDef": "ảnh hưởng lớn lên điều gì đó",
+    "ex": "And I'll think about the impact this will have on our clients.",
+    "exHit": "impact",
+    "exVi": "Và tôi sẽ suy nghĩ về tác động của việc này đối với khách hàng của chúng ta."
   },
   {
     "word": "outbreak",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a sudden start of disease affecting many people",
     "vi": "đợt bùng phát",
-    "viDef": "sự khởi phát đột ngột của dịch bệnh ảnh hưởng nhiều người"
+    "viDef": "sự khởi phát đột ngột của dịch bệnh ảnh hưởng nhiều người",
+    "ex": "first, I'll need you to analyze our numbers and figure out what kind of financial impact an outbreak might have.",
+    "exHit": "outbreak",
+    "exVi": "trước tiên, tôi cần bạn phân tích số liệu của chúng ta và tính xem một đợt bùng phát dịch có thể gây ra tác động tài chính ở mức nào."
   },
   {
     "word": "head up",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "lead and be responsible for",
     "vi": "đứng đầu",
-    "viDef": "dẫn dắt và chịu trách nhiệm"
+    "viDef": "dẫn dắt và chịu trách nhiệm",
+    "ex": "So, what I'd like to do is: first appoint someone to look after drafting our plan; Ralph, I'd like you to head up this project.",
+    "exHit": "head up",
+    "exVi": "Vậy điều tôi muốn làm là: trước hết chỉ định một người phụ trách soạn thảo kế hoạch của chúng ta; Ralph, tôi muốn anh đứng đầu dự án này."
   },
   {
     "word": "forecast",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "predict what is going to happen based on available information",
     "vi": "dự báo",
-    "viDef": "đoán trước điều sắp xảy ra dựa trên thông tin hiện có"
+    "viDef": "đoán trước điều sắp xảy ra dựa trên thông tin hiện có",
+    "ex": "I guess you'll need me to forecast employee absences as well, right?",
+    "exHit": "forecast",
+    "exVi": "Tôi đoán anh cũng sẽ cần tôi dự báo số nhân viên vắng mặt, đúng không?"
   },
   {
     "word": "vaccine",
@@ -85,7 +115,10 @@
     "type": "common noun, plural",
     "def": "medical substance that protect people or animal against diseases",
     "vi": "vắc-xin",
-    "viDef": "chế phẩm y tế bảo vệ người hoặc động vật khỏi bệnh tật"
+    "viDef": "chế phẩm y tế bảo vệ người hoặc động vật khỏi bệnh tật",
+    "ex": "Should we be thinking about getting vaccines for our employees?",
+    "exHit": "vaccines",
+    "exVi": "Chúng ta có nên nghĩ đến việc tiêm vắc-xin cho nhân viên không?"
   },
   {
     "word": "epidemic",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "event where a disease spreads really quickly and affects a large number of people",
     "vi": "dịch bệnh",
-    "viDef": "tình trạng bệnh lây lan rất nhanh và ảnh hưởng đông người"
+    "viDef": "tình trạng bệnh lây lan rất nhanh và ảnh hưởng đông người",
+    "ex": "The doctor said the epidemic spread quickly through the whole town.",
+    "exHit": "epidemic",
+    "exVi": "Bác sĩ nói dịch bệnh đã lây lan nhanh chóng khắp thị trấn."
   },
   {
     "word": "backup plan",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "a plan made in case events go badly",
     "vi": "phương án dự phòng",
-    "viDef": "kế hoạch lập ra phòng khi mọi việc xấu đi"
+    "viDef": "kế hoạch lập ra phòng khi mọi việc xấu đi",
+    "ex": "We need a backup plan in case the meeting gets canceled.",
+    "exHit": "backup plan",
+    "exVi": "Chúng ta cần một kế hoạch dự phòng phòng khi cuộc họp bị hủy."
   },
   {
     "word": "pandemic preparedness plan",
@@ -109,7 +148,10 @@
     "type": "phrase",
     "def": "a plan to prepare for the possible outbreak of a pandemic",
     "vi": "kế hoạch ứng phó đại dịch",
-    "viDef": "phương án chuẩn bị cho khả năng bùng phát đại dịch"
+    "viDef": "phương án chuẩn bị cho khả năng bùng phát đại dịch",
+    "ex": "Our company just finished its pandemic preparedness plan for next year.",
+    "exHit": "pandemic preparedness plan",
+    "exVi": "Công ty chúng tôi vừa hoàn thành kế hoạch chuẩn bị ứng phó đại dịch cho năm tới."
   },
   {
     "word": "transmit disease",
@@ -117,7 +159,10 @@
     "type": "phrase",
     "def": "pass disease from one individual to another",
     "vi": "lây truyền bệnh",
-    "viDef": "truyền bệnh từ người này sang người khác"
+    "viDef": "truyền bệnh từ người này sang người khác",
+    "ex": "Some insects can transmit disease from one person to another.",
+    "exHit": "transmit disease",
+    "exVi": "Một số loài côn trùng có thể truyền bệnh từ người này sang người khác."
   },
   {
     "word": "avian influenza",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "bird flu",
     "vi": "cúm gia cầm",
-    "viDef": "cúm gà"
+    "viDef": "cúm gà",
+    "ex": "The news says avian influenza has reached a few farms nearby.",
+    "exHit": "avian influenza",
+    "exVi": "Tin tức nói cúm gia cầm đã lan đến vài trang trại gần đây."
   },
   {
     "word": "influenza",
@@ -133,6 +181,9 @@
     "type": "common noun, non-variable",
     "def": "flu; illness caused by a virus",
     "vi": "bệnh cúm",
-    "viDef": "cúm, bệnh do virus gây ra"
+    "viDef": "cúm, bệnh do virus gây ra",
+    "ex": "He stayed home for a week because he had influenza.",
+    "exHit": "influenza",
+    "exVi": "Anh ấy ở nhà cả tuần vì bị cúm."
   }
 ]

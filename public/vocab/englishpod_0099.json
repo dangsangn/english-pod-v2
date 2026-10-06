@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "have the confidence to say",
     "vi": "dám nói rằng",
-    "viDef": "đủ tự tin để nói ra"
+    "viDef": "đủ tự tin để nói ra",
+    "ex": "And I would dare to say, it was too predictable.",
+    "exHit": "dare to say",
+    "exVi": "Và tôi dám nói rằng, nó quá dễ đoán."
   },
   {
     "word": "rightfully",
@@ -13,7 +16,10 @@
     "type": "General Adverb",
     "def": "according to law",
     "vi": "một cách chính đáng",
-    "viDef": "theo đúng luật"
+    "viDef": "theo đúng luật",
+    "ex": "Falls in love and returns to retake what is rightfully his.",
+    "exHit": "rightfully",
+    "exVi": "Phải lòng và trở về để lấy lại những gì vốn thuộc về mình một cách chính đáng."
   },
   {
     "word": "erudite",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "having a lot of knowladge; espically gained from studying",
     "vi": "uyên bác",
-    "viDef": "có nhiều kiến thức, nhất là do học hành"
+    "viDef": "có nhiều kiến thức, nhất là do học hành",
+    "ex": "My name is Richard Clarke and I am joined today by the very erudite David Watson.",
+    "exHit": "erudite",
+    "exVi": "Tên tôi là Richard Clarke và hôm nay có sự tham gia của David Watson, một người rất uyên bác."
   },
   {
     "word": "impression",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "the feelings one has after a specific event",
     "vi": "cảm nhận",
-    "viDef": "điều mình cảm thấy sau một việc cụ thể"
+    "viDef": "điều mình cảm thấy sau một việc cụ thể",
+    "ex": "Tell me Dave, what is your impression of this film?",
+    "exHit": "impression",
+    "exVi": "Nói tôi nghe, Dave, ấn tượng của bạn về bộ phim này là gì?"
   },
   {
     "word": "depict",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "describe, show, especially in art or pictures",
     "vi": "khắc họa",
-    "viDef": "mô tả, thể hiện, nhất là bằng nghệ thuật hay hình ảnh"
+    "viDef": "mô tả, thể hiện, nhất là bằng nghệ thuật hay hình ảnh",
+    "ex": "Well, I think this film is simply a fable, depicting man's eternal greed for power, and in my opinion, it's a very fine film.",
+    "exHit": "depicting",
+    "exVi": "À, tôi nghĩ bộ phim này đơn giản là một câu chuyện ngụ ngôn, khắc họa lòng tham quyền lực muôn thuở của con người, và theo ý tôi, nó là một bộ phim rất hay."
   },
   {
     "word": "fable",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "beautiful story about animals that has a moral or lesson",
     "vi": "truyện ngụ ngôn",
-    "viDef": "câu chuyện hay về loài vật, kèm bài học đạo lý"
+    "viDef": "câu chuyện hay về loài vật, kèm bài học đạo lý",
+    "ex": "Well, I think this film is simply a fable, depicting man's eternal greed for power, and in my opinion, it's a very fine film.",
+    "exHit": "fable",
+    "exVi": "À, tôi nghĩ bộ phim này đơn giản là một câu chuyện ngụ ngôn, khắc họa lòng tham quyền lực muôn thuở của con người, và theo ý tôi, nó là một bộ phim rất hay."
   },
   {
     "word": "eternal",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "lasting forever",
     "vi": "vĩnh cửu",
-    "viDef": "còn mãi"
+    "viDef": "còn mãi",
+    "ex": "Well, I think this film is simply a fable, depicting man's eternal greed for power, and in my opinion, it's a very fine film.",
+    "exHit": "eternal",
+    "exVi": "À, tôi nghĩ bộ phim này đơn giản là một câu chuyện ngụ ngôn, khắc họa lòng tham quyền lực muôn thuở của con người, và theo ý tôi, nó là một bộ phim rất hay."
   },
   {
     "word": "accusation",
@@ -61,7 +82,10 @@
     "type": "common noun, plural",
     "def": "action of caliming something is wrong",
     "vi": "lời cáo buộc",
-    "viDef": "việc quy rằng điều gì là sai"
+    "viDef": "việc quy rằng điều gì là sai",
+    "ex": "Even despite the accusations of plagiarism traditional folk tales from other countries.",
+    "exHit": "accusations",
+    "exVi": "Dù vậy vẫn có những lời cáo buộc đạo văn từ các truyện dân gian truyền thống của những nước khác."
   },
   {
     "word": "plagiarism",
@@ -69,7 +93,10 @@
     "type": "common noun, non-variable",
     "def": "practice of copying others' ideas",
     "vi": "sự sao chép ý tưởng",
-    "viDef": "việc lấy ý của người khác làm của mình"
+    "viDef": "việc lấy ý của người khác làm của mình",
+    "ex": "Even despite the accusations of plagiarism traditional folk tales from other countries.",
+    "exHit": "plagiarism",
+    "exVi": "Dù vậy vẫn có những lời cáo buộc đạo văn từ các truyện dân gian truyền thống của những nước khác."
   },
   {
     "word": "enchanting",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "attractive, holding one's attention",
     "vi": "mê hoặc",
-    "viDef": "hấp dẫn, giữ được sự chú ý"
+    "viDef": "hấp dẫn, giữ được sự chú ý",
+    "ex": "The musical score was amazing, the animation was very well done, and the story was simply enchanting.",
+    "exHit": "enchanting",
+    "exVi": "Phần nhạc nền thật tuyệt, hoạt hình được làm rất tốt, và câu chuyện thì đơn giản là quyến rũ."
   },
   {
     "word": "score",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "written work showing notes of music",
     "vi": "bản nhạc phim",
-    "viDef": "văn bản ghi các nốt nhạc"
+    "viDef": "văn bản ghi các nốt nhạc",
+    "ex": "The musical score was amazing, the animation was very well done, and the story was simply enchanting.",
+    "exHit": "score",
+    "exVi": "Phần nhạc nền thật tuyệt, hoạt hình được làm rất tốt, và câu chuyện thì đơn giản là quyến rũ."
   },
   {
     "word": "predictable",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "easy for others to foresee what is going to happen",
     "vi": "dễ đoán",
-    "viDef": "người ta dễ biết trước điều sẽ xảy ra"
+    "viDef": "người ta dễ biết trước điều sẽ xảy ra",
+    "ex": "And I would dare to say, it was too predictable.",
+    "exHit": "predictable",
+    "exVi": "Và tôi dám nói rằng, nó quá dễ đoán."
   },
   {
     "word": "portrayal",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "the act of showing or describing somehting, especially in art",
     "vi": "sự thể hiện",
-    "viDef": "việc trình bày hoặc mô tả điều gì, nhất là trong nghệ thuật"
+    "viDef": "việc trình bày hoặc mô tả điều gì, nhất là trong nghệ thuật",
+    "ex": "It did have some very dramatic and intense scenes For example when Mufasa dies, or the dark, grim portrayal of Scar.",
+    "exHit": "portrayal",
+    "exVi": "Phim có những cảnh rất kịch tính và căng thẳng, ví dụ như khi Mufasa chết, hay cách khắc họa u ám, ảm đạm về Scar."
   },
   {
     "word": "grim",
@@ -109,7 +148,10 @@
     "type": "Adjective",
     "def": "unpleasant",
     "vi": "u tối",
-    "viDef": "không dễ chịu"
+    "viDef": "không dễ chịu",
+    "ex": "It did have some very dramatic and intense scenes For example when Mufasa dies, or the dark, grim portrayal of Scar.",
+    "exHit": "grim",
+    "exVi": "Phim có những cảnh rất kịch tính và căng thẳng, ví dụ như khi Mufasa chết, hay cách khắc họa u ám, ảm đạm về Scar."
   },
   {
     "word": "linear",
@@ -117,7 +159,10 @@
     "type": "Adjective",
     "def": "moving in logical way, from start to end",
     "vi": "tuyến tính",
-    "viDef": "diễn tiến theo trình tự từ đầu đến cuối"
+    "viDef": "diễn tiến theo trình tự từ đầu đến cuối",
+    "ex": "Even so, the film is linear.",
+    "exHit": "linear",
+    "exVi": "Dù vậy, bộ phim vẫn đi theo một mạch thẳng."
   },
   {
     "word": "cliche",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "something that is too often used so that it loses meaning or importance",
     "vi": "sáo rỗng",
-    "viDef": "thứ dùng nhiều quá đến mất ý nghĩa"
+    "viDef": "thứ dùng nhiều quá đến mất ý nghĩa",
+    "ex": "How can it be cliché?",
+    "exHit": "cliché",
+    "exVi": "Sao có thể nói là sáo rỗng được?"
   },
   {
     "word": "time-honoured",
@@ -133,7 +181,10 @@
     "type": "Adjective",
     "def": "something that survives the testing of time",
     "vi": "bền qua thời gian",
-    "viDef": "thứ trụ được qua thử thách của thời gian"
+    "viDef": "thứ trụ được qua thử thách của thời gian",
+    "ex": "It's a time-honoured tradition in my family.",
+    "exHit": "time-honoured",
+    "exVi": "Đó là một truyền thống lâu đời trong gia đình tôi."
   },
   {
     "word": "soft",
@@ -141,7 +192,10 @@
     "type": "Adjective",
     "def": "not critical enough",
     "vi": "nhẹ tay",
-    "viDef": "chưa đủ khắt khe"
+    "viDef": "chưa đủ khắt khe",
+    "ex": "You have always been so soft, Dave!",
+    "exHit": "soft",
+    "exVi": "Bạn lúc nào cũng quá mềm mỏng, Dave!"
   },
   {
     "word": "screen play",
@@ -149,7 +203,10 @@
     "type": "common noun, singular",
     "def": "the written words from a film",
     "vi": "kịch bản phim",
-    "viDef": "phần lời được viết ra cho một bộ phim"
+    "viDef": "phần lời được viết ra cho một bộ phim",
+    "ex": "The screen play was written by a famous author.",
+    "exHit": "screen play",
+    "exVi": "Kịch bản phim do một tác giả nổi tiếng viết."
   },
   {
     "word": "performance",
@@ -157,7 +214,10 @@
     "type": "common noun, singular",
     "def": "the activity of an actor in a play",
     "vi": "diễn xuất",
-    "viDef": "phần thể hiện của diễn viên"
+    "viDef": "phần thể hiện của diễn viên",
+    "ex": "Her performance in that movie was truly great.",
+    "exHit": "performance",
+    "exVi": "Màn trình diễn của cô ấy trong bộ phim đó thật sự tuyệt vời."
   },
   {
     "word": "central character",
@@ -165,7 +225,10 @@
     "type": "common noun, singular",
     "def": "the main person in a movie",
     "vi": "nhân vật trung tâm",
-    "viDef": "người chính trong phim"
+    "viDef": "người chính trong phim",
+    "ex": "The central character is a poor boy who becomes a king.",
+    "exHit": "central character",
+    "exVi": "Nhân vật chính là một cậu bé nghèo trở thành vua."
   },
   {
     "word": "plot",
@@ -173,7 +236,10 @@
     "type": "common noun, singular",
     "def": "story in a movie or book",
     "vi": "cốt truyện",
-    "viDef": "mạch chuyện trong phim hoặc sách"
+    "viDef": "mạch chuyện trong phim hoặc sách",
+    "ex": "I didn't understand the plot of that movie at all.",
+    "exHit": "plot",
+    "exVi": "Tôi hoàn toàn không hiểu cốt truyện của bộ phim đó."
   },
   {
     "word": "cinematography",
@@ -181,6 +247,9 @@
     "type": "common noun, non-variable",
     "def": "used to describe the camera work in a movie",
     "vi": "nghệ thuật quay phim",
-    "viDef": "nói về phần hình ảnh, máy quay của bộ phim"
+    "viDef": "nói về phần hình ảnh, máy quay của bộ phim",
+    "ex": "The cinematography in this film is simply beautiful.",
+    "exHit": "cinematography",
+    "exVi": "Phần quay phim trong bộ phim này đẹp tuyệt vời."
   }
 ]

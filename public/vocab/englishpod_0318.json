@@ -5,7 +5,10 @@
     "type": "",
     "def": "the fertilizing element of flowering plants, consisting of fine, powdery, yellowish grains or spores",
     "vi": "phấn hoa",
-    "viDef": "phần thụ phấn của cây có hoa, gồm những hạt mịn màu vàng nhạt"
+    "viDef": "phần thụ phấn của cây có hoa, gồm những hạt mịn màu vàng nhạt",
+    "ex": "I never thought about that, I don't think I'm allergic to pollen though and I'm desensitized to bee stings after being stung so many times, Hmm…",
+    "exHit": "pollen",
+    "exVi": "Tôi chưa từng nghĩ đến điều đó, mà tôi nghĩ mình không dị ứng phấn hoa, lại còn quen với vết ong đốt vì bị đốt quá nhiều lần rồi, ừm..."
   },
   {
     "word": "desensitize",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to lessen the sensitiveness of",
     "vi": "giảm mẫn cảm",
-    "viDef": "làm cho bớt nhạy cảm"
+    "viDef": "làm cho bớt nhạy cảm",
+    "ex": "I never thought about that, I don't think I'm allergic to pollen though and I'm desensitized to bee stings after being stung so many times, Hmm…",
+    "exHit": "desensitized",
+    "exVi": "Tôi chưa từng nghĩ đến điều đó, mà tôi nghĩ mình không dị ứng phấn hoa, lại còn quen với vết ong đốt vì bị đốt quá nhiều lần rồi, ừm..."
   },
   {
     "word": "allergic",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "have allergy towards something",
     "vi": "bị dị ứng",
-    "viDef": "có dị ứng với thứ gì"
+    "viDef": "có dị ứng với thứ gì",
+    "ex": "I guess we found the problem, your allergic to cats!",
+    "exHit": "allergic",
+    "exVi": "Chắc là tìm ra vấn đề rồi, bạn bị dị ứng với mèo đấy!"
   },
   {
     "word": "affect",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to act on; produce an effect or change in",
     "vi": "ảnh hưởng tới",
-    "viDef": "tác động lên, gây ra thay đổi"
+    "viDef": "tác động lên, gây ra thay đổi",
+    "ex": "Yes the whole is office is dusty yet I only feel affected near our desks!",
+    "exHit": "affected",
+    "exVi": "Đúng vậy, cả văn phòng đều bụi bặm nhưng tôi chỉ thấy khó chịu ở gần bàn làm việc của chúng ta!"
   },
   {
     "word": "dust",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "dry fine powdery material, such as particles of dirt, earth or pollen",
     "vi": "bụi",
-    "viDef": "chất bột mịn khô như hạt đất, bùn hoặc phấn hoa"
+    "viDef": "chất bột mịn khô như hạt đất, bùn hoặc phấn hoa",
+    "ex": "Okay my bad, how about dust?",
+    "exHit": "dust",
+    "exVi": "Được rồi, lỗi của tôi, thế còn bụi thì sao?"
   },
   {
     "word": "anaphylactic shock",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "severe and sometimes fatal allergic reaction to a foreign substance such as bee venom",
     "vi": "sốc phản vệ",
-    "viDef": "phản ứng dị ứng nặng, đôi khi gây tử vong, với một chất lạ như nọc ong"
+    "viDef": "phản ứng dị ứng nặng, đôi khi gây tử vong, với một chất lạ như nọc ong",
+    "ex": "I could have gone into Anaphylactic Shock.",
+    "exHit": "Anaphylactic Shock",
+    "exVi": "Tôi đã có thể bị sốc phản vệ."
   },
   {
     "word": "quarantine",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a strict isolation imposed to prevent the spread of disease.",
     "vi": "cách ly",
-    "viDef": "việc cô lập nghiêm ngặt để ngăn bệnh lây lan"
+    "viDef": "việc cô lập nghiêm ngặt để ngăn bệnh lây lan",
+    "ex": "Maybe we should put you into quarantine ha ha, jokes aside, I think you might have an allergy.",
+    "exHit": "quarantine",
+    "exVi": "Có lẽ nên cách ly bạn lại, ha ha, đùa thôi, tôi nghĩ bạn có thể bị dị ứng."
   },
   {
     "word": "sneeze",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to expel air and nasal secretions from the nose involuntarily",
     "vi": "hắt hơi",
-    "viDef": "bật khí và dịch mũi ra ngoài không kìm được"
+    "viDef": "bật khí và dịch mũi ra ngoài không kìm được",
+    "ex": "I feel terrible, I keep sneezing and my eyes are all watery, what's wrong with me?",
+    "exHit": "sneezing",
+    "exVi": "Tôi thấy rất khó chịu, cứ hắt hơi suốt và mắt thì chảy nước, tôi bị sao vậy?"
   },
   {
     "word": "hayfever",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "an allergic reaction to pollen, dust",
     "vi": "viêm mũi dị ứng",
-    "viDef": "phản ứng dị ứng với phấn hoa, bụi"
+    "viDef": "phản ứng dị ứng với phấn hoa, bụi",
+    "ex": "Every spring my hayfever makes my nose run all day.",
+    "exHit": "hayfever",
+    "exVi": "Mỗi mùa xuân, bệnh sốt cỏ khô làm tôi chảy nước mũi cả ngày."
   },
   {
     "word": "reaction",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "action in response to some influence",
     "vi": "phản ứng",
-    "viDef": "hành động đáp lại một tác động nào đó"
+    "viDef": "hành động đáp lại một tác động nào đó",
+    "ex": "I had a bad reaction to the dust in the old office.",
+    "exHit": "reaction",
+    "exVi": "Tôi bị phản ứng xấu với bụi trong văn phòng cũ."
   },
   {
     "word": "contagious",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "capable of being transmitted by bodily contact with an infected person or object",
     "vi": "dễ lây",
-    "viDef": "có thể truyền qua tiếp xúc với người hoặc vật đã nhiễm"
+    "viDef": "có thể truyền qua tiếp xúc với người hoặc vật đã nhiễm",
+    "ex": "Stay home today, because your cold is very contagious.",
+    "exHit": "contagious",
+    "exVi": "Hôm nay bạn ở nhà đi, vì bệnh cảm của bạn rất dễ lây."
   }
 ]

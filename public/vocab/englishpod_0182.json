@@ -5,7 +5,10 @@
     "type": "",
     "def": "smart and noticeable, but in a rather vulgar way",
     "vi": "lòe loẹt",
-    "viDef": "bắt mắt nhưng hơi kém thẩm mỹ"
+    "viDef": "bắt mắt nhưng hơi kém thẩm mỹ",
+    "ex": "Too flashy?",
+    "exHit": "flashy",
+    "exVi": "Quá lòe loẹt à?"
   },
   {
     "word": "yap",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "bark in a high-pitched tone, nag",
     "vi": "ăng ẳng, càm ràm",
-    "viDef": "kêu giọng cao, hoặc nói nhằng nhẵng"
+    "viDef": "kêu giọng cao, hoặc nói nhằng nhẵng",
+    "ex": "And I'm trying to watch the game, but you're yapping on about your new clothes!",
+    "exHit": "yapping",
+    "exVi": "Và anh đang cố xem trận đấu, nhưng em cứ lải nhải mãi về mấy bộ quần áo mới!"
   },
   {
     "word": "exchange",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "give something and receive something in return",
     "vi": "đổi",
-    "viDef": "đưa thứ này và nhận lại thứ khác"
+    "viDef": "đưa thứ này và nhận lại thứ khác",
+    "ex": "I am sorry sir, but we can only exchange or refund defective products, we cannot take responsibility for misuse or damages.",
+    "exHit": "exchange",
+    "exVi": "Tôi xin lỗi, thưa ông, nhưng chúng tôi chỉ đổi hoặc hoàn tiền cho hàng bị lỗi, chúng tôi không chịu trách nhiệm về việc sử dụng sai hoặc hư hỏng."
   },
   {
     "word": "sale",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "an occasion for buying at special price",
     "vi": "đợt hạ giá",
-    "viDef": "dịp mua được giá đặc biệt"
+    "viDef": "dịp mua được giá đặc biệt",
+    "ex": "Everything in the store is half price at the Boxing Day sale.",
+    "exHit": "sale",
+    "exVi": "Mọi thứ trong cửa hàng đều giảm nửa giá trong đợt giảm giá ngày Boxing Day."
   },
   {
     "word": "do someone the favor",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "help someone",
     "vi": "giúp ai một việc",
-    "viDef": "làm giúp người khác"
+    "viDef": "làm giúp người khác",
+    "ex": "Would you do me the favor of holding my place in line?",
+    "exHit": "do me the favor",
+    "exVi": "Bạn giúp mình giữ chỗ trong hàng được không?"
   },
   {
     "word": "craziness",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "wild excitement, the act of being crazy",
     "vi": "sự náo loạn",
-    "viDef": "cảnh nhộn nhạo, hành động điên khùng"
+    "viDef": "cảnh nhộn nhạo, hành động điên khùng",
+    "ex": "I can't handle the craziness of the Boxing Day crowds.",
+    "exHit": "craziness",
+    "exVi": "Mình không chịu nổi cảnh điên cuồng của đám đông ngày Boxing Day."
   },
   {
     "word": "discount",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "an amount deducted from the usual list price",
     "vi": "mức trừ giá",
-    "viDef": "khoản bớt so với giá niêm yết"
+    "viDef": "khoản bớt so với giá niêm yết",
+    "ex": "This jacket has a thirty percent discount today.",
+    "exHit": "discount",
+    "exVi": "Hôm nay chiếc áo khoác này được giảm giá ba mươi phần trăm."
   },
   {
     "word": "flier",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a pamphlet for mass distribution",
     "vi": "tờ rơi",
-    "viDef": "tờ giấy in phát rộng cho nhiều người"
+    "viDef": "tờ giấy in phát rộng cho nhiều người",
+    "ex": "I picked up a flier with all the Boxing Day deals.",
+    "exHit": "flier",
+    "exVi": "Mình lấy một tờ rơi có tất cả ưu đãi ngày Boxing Day."
   },
   {
     "word": "merchandise",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the manufactured goods bought and sold in any business",
     "vi": "hàng hóa",
-    "viDef": "các mặt hàng được mua bán trong kinh doanh"
+    "viDef": "các mặt hàng được mua bán trong kinh doanh",
+    "ex": "All the winter merchandise is on sale at the mall.",
+    "exHit": "merchandise",
+    "exVi": "Toàn bộ hàng mùa đông ở trung tâm thương mại đều đang giảm giá."
   },
   {
     "word": "jam-packed with people",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "crowded",
     "vi": "chật cứng người",
-    "viDef": "đông nghẹt"
+    "viDef": "đông nghẹt",
+    "ex": "The mall was jam-packed with people on Boxing Day.",
+    "exHit": "jam-packed with people",
+    "exVi": "Trung tâm thương mại chật cứng người vào ngày Boxing Day."
   }
 ]

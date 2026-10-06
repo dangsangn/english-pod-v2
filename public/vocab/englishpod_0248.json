@@ -5,7 +5,10 @@
     "type": "",
     "def": "prepare the table so as to sit down and eat",
     "vi": "dọn bàn ăn",
-    "viDef": "sắp bàn để ngồi vào ăn"
+    "viDef": "sắp bàn để ngồi vào ăn",
+    "ex": "Could you set the table while I finish cooking?",
+    "exHit": "set the table",
+    "exVi": "Bạn dọn bàn ăn giúp mình trong lúc mình nấu xong được không?"
   },
   {
     "word": "anything in particular",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "anything specific",
     "vi": "có gì cụ thể không",
-    "viDef": "điều gì riêng biệt"
+    "viDef": "điều gì riêng biệt",
+    "ex": "Do I need to put out anything in particular?",
+    "exHit": "anything in particular",
+    "exVi": "Tôi có cần bày thêm thứ gì đặc biệt không?"
   },
   {
     "word": "silverware",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "eating utensils: fork, spoon, knife",
     "vi": "bộ dao thìa nĩa",
-    "viDef": "các dụng cụ ăn: nĩa, thìa, dao"
+    "viDef": "các dụng cụ ăn: nĩa, thìa, dao",
+    "ex": "Ok, should I use the fancy silverware?",
+    "exHit": "silverware",
+    "exVi": "Được rồi, tôi có nên dùng bộ dao dĩa sang trọng không?"
   },
   {
     "word": "to roast",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to bake uncovered, esp. in an oven",
     "vi": "nướng lò",
-    "viDef": "nướng để hở, nhất là trong lò"
+    "viDef": "nướng để hở, nhất là trong lò",
+    "ex": "I'm going to roast a chicken for dinner tonight.",
+    "exHit": "roast",
+    "exVi": "Tối nay mình sẽ nướng một con gà cho bữa tối."
   },
   {
     "word": "serving dish",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a dish used for serving food",
     "vi": "đĩa bày món",
-    "viDef": "đĩa dùng để dọn thức ăn ra"
+    "viDef": "đĩa dùng để dọn thức ăn ra",
+    "ex": "They are in the cupboard where you keep the gravy boat and serving dishes.",
+    "exHit": "serving dishes",
+    "exVi": "Chúng ở trong tủ bát, chỗ bạn để bình đựng nước sốt và các đĩa đựng thức ăn."
   },
   {
     "word": "fork",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a fork used specifically for eating salads",
     "vi": "nĩa xà lách",
-    "viDef": "loại nĩa dùng riêng để ăn rau trộn"
+    "viDef": "loại nĩa dùng riêng để ăn rau trộn",
+    "ex": "Use the small salad fork for the first course.",
+    "exHit": "salad fork",
+    "exVi": "Hãy dùng chiếc nĩa nhỏ ăn salad cho món đầu tiên."
   },
   {
     "word": "fine china",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a term used for expensive dinnerware",
     "vi": "bộ đồ sứ cao cấp",
-    "viDef": "từ dùng cho bộ bàn ăn đắt tiền"
+    "viDef": "từ dùng cho bộ bàn ăn đắt tiền",
+    "ex": "We only use our fine china on special occasions.",
+    "exHit": "fine china",
+    "exVi": "Chúng tôi chỉ dùng bộ đồ sứ cao cấp vào những dịp đặc biệt."
   },
   {
     "word": "spoon",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "spoon used specifically for eating soup",
     "vi": "thìa súp",
-    "viDef": "loại thìa dùng riêng để ăn súp"
+    "viDef": "loại thìa dùng riêng để ăn súp",
+    "ex": "Please pass me a soup spoon, I don't need a fork.",
+    "exHit": "soup spoon",
+    "exVi": "Làm ơn đưa mình cái thìa ăn súp, mình không cần nĩa."
   },
   {
     "word": "dinner party",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "inviting friends over for dinner",
     "vi": "bữa tiệc tối",
-    "viDef": "việc mời bạn bè đến ăn tối"
+    "viDef": "việc mời bạn bè đến ăn tối",
+    "ex": "We're having a dinner party for ten people on Saturday.",
+    "exHit": "dinner party",
+    "exVi": "Thứ Bảy này chúng tôi tổ chức một bữa tiệc tối cho mười người."
   },
   {
     "word": "tea kettle",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a pot used for boiling the water for tea",
     "vi": "ấm đun nước",
-    "viDef": "ấm dùng đun nước pha trà"
+    "viDef": "ấm dùng đun nước pha trà",
+    "ex": "Put the tea kettle on, and I'll get the cups.",
+    "exHit": "tea kettle",
+    "exVi": "Bắc ấm trà lên đi, mình sẽ lấy tách."
   }
 ]

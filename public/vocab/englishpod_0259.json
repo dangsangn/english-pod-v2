@@ -5,7 +5,10 @@
     "type": "",
     "def": "what do you think",
     "vi": "còn... thì sao",
-    "viDef": "anh/chị thấy thế nào"
+    "viDef": "anh/chị thấy thế nào",
+    "ex": "And how about the working hours?",
+    "exHit": "how about",
+    "exVi": "Còn về giờ làm việc thì sao?"
   },
   {
     "word": "staff",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "employees",
     "vi": "nhân viên",
-    "viDef": "những người làm trong đơn vị"
+    "viDef": "những người làm trong đơn vị",
+    "ex": "The newsdesk staff in Hong Kong comprises around 80 staff.",
+    "exHit": "staff",
+    "exVi": "Bộ phận tin tức ở Hồng Kông có khoảng 80 nhân viên."
   },
   {
     "word": "used to",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "accustomed or habituated to",
     "vi": "đã quen với",
-    "viDef": "thành nếp, thành thói"
+    "viDef": "thành nếp, thành thói",
+    "ex": "Well I am used to that Mr. Parsons, so that's not really a shock for me.",
+    "exHit": "used to",
+    "exVi": "À, tôi quen với điều đó rồi, thưa ông Parsons, nên nó không thực sự làm tôi bất ngờ."
   },
   {
     "word": "on call",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to be available to work at any time",
     "vi": "trực sẵn",
-    "viDef": "phải có mặt làm việc bất cứ lúc nào"
+    "viDef": "phải có mặt làm việc bất cứ lúc nào",
+    "ex": "You could be on call at any time.",
+    "exHit": "on call",
+    "exVi": "Bạn có thể phải sẵn sàng làm việc bất cứ lúc nào."
   },
   {
     "word": "nine to five",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "9AM-5PM",
     "vi": "giờ hành chính",
-    "viDef": "từ 9 giờ sáng đến 5 giờ chiều"
+    "viDef": "từ 9 giờ sáng đến 5 giờ chiều",
+    "ex": "I work nine to five, so I'm home by six.",
+    "exHit": "nine to five",
+    "exVi": "Tôi làm giờ hành chính từ chín giờ đến năm giờ, nên sáu giờ là về đến nhà."
   },
   {
     "word": "overtime",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to work more than your normal working schedule",
     "vi": "làm ngoài giờ",
-    "viDef": "làm nhiều hơn lịch làm việc thường ngày"
+    "viDef": "làm nhiều hơn lịch làm việc thường ngày",
+    "ex": "Will I get paid extra for overtime?",
+    "exHit": "overtime",
+    "exVi": "Tôi có được trả thêm tiền khi làm thêm giờ không?"
   },
   {
     "word": "policy",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a set of rules or procedures in a company",
     "vi": "quy định nội bộ",
-    "viDef": "bộ quy tắc hoặc thủ tục trong một công ty"
+    "viDef": "bộ quy tắc hoặc thủ tục trong một công ty",
+    "ex": "What is the company's policy on working from home?",
+    "exHit": "policy",
+    "exVi": "Chính sách của công ty về làm việc tại nhà là gì?"
   },
   {
     "word": "dress code",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "rules regarding how one should dress",
     "vi": "quy định trang phục",
-    "viDef": "các quy tắc về cách ăn mặc"
+    "viDef": "các quy tắc về cách ăn mặc",
+    "ex": "Is there a dress code, or can I wear jeans?",
+    "exHit": "dress code",
+    "exVi": "Có quy định về trang phục không, hay tôi mặc quần jean được?"
   },
   {
     "word": "pay slip",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a receipt with information about your salary, deductions and taxes.",
     "vi": "phiếu lương",
-    "viDef": "giấy ghi thông tin về lương, các khoản trừ và thuế"
+    "viDef": "giấy ghi thông tin về lương, các khoản trừ và thuế",
+    "ex": "Please check your pay slip for any mistakes.",
+    "exHit": "pay slip",
+    "exVi": "Bạn hãy kiểm tra phiếu lương xem có sai sót nào không."
   },
   {
     "word": "HR",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "Human Resources",
     "vi": "phòng nhân sự",
-    "viDef": "Human Resources"
+    "viDef": "Human Resources",
+    "ex": "Please send your questions about vacation days to HR.",
+    "exHit": "HR",
+    "exVi": "Vui lòng gửi câu hỏi về ngày nghỉ phép cho phòng nhân sự."
   }
 ]

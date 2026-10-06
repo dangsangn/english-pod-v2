@@ -5,7 +5,10 @@
     "type": "",
     "def": "a device that is used to make music",
     "vi": "nhạc cụ",
-    "viDef": "dụng cụ dùng để chơi nhạc"
+    "viDef": "dụng cụ dùng để chơi nhạc",
+    "ex": "Do you already know how to play an instrument?",
+    "exHit": "instrument",
+    "exVi": "Bạn đã biết chơi nhạc cụ nào chưa?"
   },
   {
     "word": "a thousand times",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "many times",
     "vi": "cả nghìn lần",
-    "viDef": "rất nhiều lần"
+    "viDef": "rất nhiều lần",
+    "ex": "I've told you a thousand times that I'm learning to play the drums.",
+    "exHit": "a thousand times",
+    "exVi": "Tôi đã nói với bạn cả nghìn lần rồi là tôi đang học chơi trống."
   },
   {
     "word": "form",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "create,organize",
     "vi": "lập ra",
-    "viDef": "tạo, tổ chức nên"
+    "viDef": "tạo, tổ chức nên",
+    "ex": "Now that I know how to play well, I would like to form a rock band.",
+    "exHit": "form",
+    "exVi": "Giờ tôi đã chơi giỏi rồi, tôi muốn thành lập một ban nhạc rock."
   },
   {
     "word": "audition",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to take part in a trial performance",
     "vi": "thử vai, thử giọng",
-    "viDef": "tham gia buổi diễn thử"
+    "viDef": "tham gia buổi diễn thử",
+    "ex": "So you can audition this weekend here at my house.",
+    "exHit": "audition",
+    "exVi": "Vậy bạn có thể thử giọng vào cuối tuần này ở nhà tôi."
   },
   {
     "word": "we are set",
@@ -37,6 +49,9 @@
     "type": "",
     "def": "we are ready",
     "vi": "thế là đủ bộ",
-    "viDef": "chúng ta đã sẵn sàng"
+    "viDef": "chúng ta đã sẵn sàng",
+    "ex": "All we need is my Nintendo Wii and we are set!",
+    "exHit": "we are set",
+    "exVi": "Chỉ cần có máy Nintendo Wii của tôi là chúng ta sẵn sàng!"
   }
 ]

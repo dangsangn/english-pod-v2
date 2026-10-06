@@ -5,7 +5,10 @@
     "type": "",
     "def": "increase in size with liquid or internal pressure",
     "vi": "sưng phồng",
-    "viDef": "to lên do dịch hoặc áp lực bên trong"
+    "viDef": "to lên do dịch hoặc áp lực bên trong",
+    "ex": "My cheek is swollen and I can't eat anything.",
+    "exHit": "swollen",
+    "exVi": "Má tôi bị sưng và tôi không ăn được gì cả."
   },
   {
     "word": "wisdom tooth",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "one of four rearmost molars on each side of both jaws",
     "vi": "răng khôn",
-    "viDef": "một trong bốn răng hàm trong cùng ở mỗi bên của hai hàm"
+    "viDef": "một trong bốn răng hàm trong cùng ở mỗi bên của hai hàm",
+    "ex": "I think we may have to pull out your wisdom tooth.",
+    "exHit": "wisdom tooth",
+    "exVi": "Tôi nghĩ có lẽ chúng tôi sẽ phải nhổ chiếc răng khôn của bạn."
   },
   {
     "word": "to experience",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "have the experience of; undergo; feel",
     "vi": "trải qua",
-    "viDef": "có trải nghiệm, hứng chịu, cảm thấy"
+    "viDef": "có trải nghiệm, hứng chịu, cảm thấy",
+    "ex": "Yesterday I began to experience terrible pain in my tooth.",
+    "exHit": "experience",
+    "exVi": "Hôm qua tôi bị đau răng dữ dội, tôi chưa từng đau như thế bao giờ."
   },
   {
     "word": "that is what one gets for",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "that is what one deserves for",
     "vi": "đáng đời vì",
-    "viDef": "đó là điều người ta phải nhận vì đã làm vậy"
+    "viDef": "đó là điều người ta phải nhận vì đã làm vậy",
+    "ex": "You never brush your teeth, so that is what you get for eating candy.",
+    "exHit": "that is what you get for",
+    "exVi": "Anh ăn đồ ngọt cả ngày mà không chịu đánh răng thì đáng đời bị sâu răng."
   },
   {
     "word": "to brush",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to clean with a brush",
     "vi": "chải, đánh",
-    "viDef": "làm sạch bằng bàn chải"
+    "viDef": "làm sạch bằng bàn chải",
+    "ex": "You should brush your teeth at least twice a day.",
+    "exHit": "brush",
+    "exVi": "Bạn nên đánh răng ít nhất hai lần một ngày."
   },
   {
     "word": "to administer",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to give or apply as a remedy or relief",
     "vi": "cho dùng",
-    "viDef": "đưa hoặc bôi vào như một cách trị hoặc giảm đau"
+    "viDef": "đưa hoặc bôi vào như một cách trị hoặc giảm đau",
+    "ex": "The dentist will administer some medicine to relieve the pain.",
+    "exHit": "administer",
+    "exVi": "Nha sĩ tiêm thuốc tê để giảm đau cho tôi."
   },
   {
     "word": "fluoride",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a mouthwash given by the dentist that contains fluoride",
     "vi": "nước fluor",
-    "viDef": "nước súc miệng có fluor do nha sĩ cho dùng"
+    "viDef": "nước súc miệng có fluor do nha sĩ cho dùng",
+    "ex": "After cleaning my teeth, the dentist gave me a fluoride rinse.",
+    "exHit": "fluoride",
+    "exVi": "Sau khi lấy cao răng, nha sĩ cho tôi súc miệng bằng nước có fluoride."
   },
   {
     "word": "root canal",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a dental operation to save a tooth by removing the diseased contents from the canal of the root of the tooth and filling it with a protective substance",
     "vi": "lấy tủy răng",
-    "viDef": "thủ thuật cứu răng bằng cách lấy phần bệnh trong ống tủy ra rồi trám bằng chất bảo vệ"
+    "viDef": "thủ thuật cứu răng bằng cách lấy phần bệnh trong ống tủy ra rồi trám bằng chất bảo vệ",
+    "ex": "The doctor said I need a root canal because the tooth is badly infected.",
+    "exHit": "root canal",
+    "exVi": "Bác sĩ nói tôi cần chữa tủy răng vì răng bị nhiễm trùng nặng."
   },
   {
     "word": "rinse your mouth",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "put water in one's mouth, swish it around and spit it back out",
     "vi": "súc miệng",
-    "viDef": "lấy nước vào miệng, đảo quanh rồi nhổ ra"
+    "viDef": "lấy nước vào miệng, đảo quanh rồi nhổ ra",
+    "ex": "After you brush your teeth, rinse your mouth with clean water.",
+    "exHit": "rinse your mouth",
+    "exVi": "Sau khi đánh răng, hãy súc miệng bằng nước sạch."
   },
   {
     "word": "gums",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "the firm, fleshy tissue that covers the inside of the jaws and that surrounds the bases of the teeth",
     "vi": "nướu",
-    "viDef": "phần thịt chắc phủ bên trong hàm và bao quanh chân răng"
+    "viDef": "phần thịt chắc phủ bên trong hàm và bao quanh chân răng",
+    "ex": "My gums bleed whenever I use dental floss.",
+    "exHit": "gums",
+    "exVi": "Nướu của tôi chảy máu mỗi khi tôi dùng chỉ nha khoa."
   },
   {
     "word": "molar",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "a type of tooth at the back of the mouth with a rounded or flattened surface for grinding food",
     "vi": "răng hàm",
-    "viDef": "loại răng ở phía trong miệng, mặt tròn hoặc phẳng để nghiền thức ăn"
+    "viDef": "loại răng ở phía trong miệng, mặt tròn hoặc phẳng để nghiền thức ăn",
+    "ex": "It's pressing against your molars and that's one of the reasons you are experiencing so much pain.",
+    "exHit": "molars",
+    "exVi": "Nó đang đè lên các răng hàm của bạn, và đó là một trong những lý do khiến bạn đau đến vậy."
   }
 ]

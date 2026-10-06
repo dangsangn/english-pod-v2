@@ -5,7 +5,10 @@
     "type": "",
     "def": "a professional who kills pests",
     "vi": "người diệt sâu bọ",
-    "viDef": "người làm nghề diệt sinh vật gây hại"
+    "viDef": "người làm nghề diệt sinh vật gây hại",
+    "ex": "Hi, did you call for an exterminator?",
+    "exHit": "exterminator",
+    "exVi": "Chào, anh là người gọi thợ diệt côn trùng phải không?"
   },
   {
     "word": "pest",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "an annoying and harmful insect or animal",
     "vi": "sinh vật gây hại",
-    "viDef": "côn trùng hoặc động vật gây phiền và có hại"
+    "viDef": "côn trùng hoặc động vật gây phiền và có hại",
+    "ex": "What sort of pest are we dealing with?",
+    "exHit": "pest",
+    "exVi": "Chúng ta đang phải đối phó với loại sinh vật gây hại nào vậy?"
   },
   {
     "word": "fumigate",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to spray with smoke or other chemicals",
     "vi": "phun xông khử trùng",
-    "viDef": "phun khói hoặc hóa chất"
+    "viDef": "phun khói hoặc hóa chất",
+    "ex": "We will have to cover the entire house and fumigate it.",
+    "exHit": "fumigate",
+    "exVi": "Chúng tôi sẽ phải che kín cả ngôi nhà rồi phun thuốc khử trùng."
   },
   {
     "word": "can't handle",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "not be able to deal with",
     "vi": "không kham nổi",
-    "viDef": "không thể xử được"
+    "viDef": "không thể xử được",
+    "ex": "Well, there's nothing we can't handle.",
+    "exHit": "can't handle",
+    "exVi": "Yên tâm đi, không có gì mà chúng tôi không xử lý được."
   },
   {
     "word": "just",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "simply",
     "vi": "chỉ là",
-    "viDef": "đơn giản là"
+    "viDef": "đơn giản là",
+    "ex": "No problem, just get rid of the bugs!",
+    "exHit": "just",
+    "exVi": "Không sao, cứ diệt hết lũ côn trùng đi!"
   },
   {
     "word": "pesticide",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "strong chemical used to kill bugs and pests",
     "vi": "thuốc diệt sâu",
-    "viDef": "hóa chất mạnh dùng diệt bọ và sinh vật gây hại"
+    "viDef": "hóa chất mạnh dùng diệt bọ và sinh vật gây hại",
+    "ex": "The farmer sprayed pesticide on the field to protect his crops.",
+    "exHit": "pesticide",
+    "exVi": "Nông dân phun thuốc trừ sâu lên ruộng để bảo vệ mùa màng."
   },
   {
     "word": "flea",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a small insect that is usually found in hairy animals like cats and dogs",
     "vi": "con bọ chét",
-    "viDef": "côn trùng nhỏ thường thấy trên các loài lông rậm như mèo và chó"
+    "viDef": "côn trùng nhỏ thường thấy trên các loài lông rậm như mèo và chó",
+    "ex": "My dog keeps scratching because he has a flea.",
+    "exHit": "flea",
+    "exVi": "Con chó nhà tôi cứ gãi mãi vì bị bọ chét cắn."
   },
   {
     "word": "mouse trap",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "device used to catch or kill mice",
     "vi": "bẫy chuột",
-    "viDef": "dụng cụ để bắt hoặc diệt chuột"
+    "viDef": "dụng cụ để bắt hoặc diệt chuột",
+    "ex": "I put a mouse trap in the corner of the kitchen last night.",
+    "exHit": "mouse trap",
+    "exVi": "Tôi đặt một cái bẫy chuột ở góc bếp tối qua."
   },
   {
     "word": "fly swatter",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a hand-held device for swatting flies and other insects",
     "vi": "vỉ đập ruồi",
-    "viDef": "dụng cụ cầm tay để đập ruồi và côn trùng khác"
+    "viDef": "dụng cụ cầm tay để đập ruồi và côn trùng khác",
+    "ex": "Pass me the fly swatter, there is a fly in the room.",
+    "exHit": "fly swatter",
+    "exVi": "Đưa tôi cái vỉ đập ruồi, có một con ruồi trong phòng."
   },
   {
     "word": "roach motel",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "small device where cockroaches can enter and eat poisoned food",
     "vi": "bẫy gián",
-    "viDef": "hộp nhỏ cho gián vào và ăn bả độc"
+    "viDef": "hộp nhỏ cho gián vào và ăn bả độc",
+    "ex": "Put a roach motel in the kitchen and the cockroaches will disappear.",
+    "exHit": "roach motel",
+    "exVi": "Cứ để một cái bẫy gián trong bếp là lũ gián sẽ biến mất."
   }
 ]

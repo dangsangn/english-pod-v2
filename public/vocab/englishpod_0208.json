@@ -5,7 +5,10 @@
     "type": "",
     "def": "a steep and rapid fall",
     "vi": "cú lao dốc",
-    "viDef": "sự sụt xuống dốc và nhanh"
+    "viDef": "sự sụt xuống dốc và nhanh",
+    "ex": "Well, the stock market just took a huge plunge and we've lost a lot of money!",
+    "exHit": "plunge",
+    "exVi": "À, thị trường chứng khoán vừa lao dốc mạnh và chúng ta đã mất rất nhiều tiền!"
   },
   {
     "word": "weigh in",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to contribute, especially in a discussion",
     "vi": "góp lời",
-    "viDef": "đóng góp, nhất là trong một cuộc bàn luận"
+    "viDef": "đóng góp, nhất là trong một cuộc bàn luận",
+    "ex": "There are many factors that weigh in, but NASDAQ is down 200 points, the DOW JONES indicator also suffered!",
+    "exHit": "weigh in",
+    "exVi": "Có nhiều yếu tố tác động, nhưng NASDAQ giảm 200 điểm, chỉ số DOW JONES cũng bị thiệt hại!"
   },
   {
     "word": "profitable",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "affording gain, benefit, or profit",
     "vi": "có lời",
-    "viDef": "mang lại lợi, ích hoặc lợi nhuận"
+    "viDef": "mang lại lợi, ích hoặc lợi nhuận",
+    "ex": "You are supposed to be talking to our stockbrokers and making sure that our securities and investments are safe and making a profitable return!",
+    "exHit": "profitable",
+    "exVi": "Bạn phải nói chuyện với các nhà môi giới chứng khoán của chúng ta và đảm bảo rằng chứng khoán và các khoản đầu tư an toàn, đồng thời mang lại lợi nhuận!"
   },
   {
     "word": "yield",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the amount of something that is produced",
     "vi": "sản lượng, mức sinh lời",
-    "viDef": "lượng thứ gì thu được"
+    "viDef": "lượng thứ gì thu được",
+    "ex": "On the other hand, you still have some high yield trash bonds and government bonds that will give us enough liquidity to cut our loses and reinvest in emerging markets.",
+    "exHit": "yield",
+    "exVi": "Mặt khác, chúng ta vẫn còn một số trái phiếu rác lãi suất cao và trái phiếu chính phủ sẽ cho chúng ta đủ thanh khoản để cắt lỗ và tái đầu tư vào các thị trường mới nổi."
   },
   {
     "word": "think outside the box",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "take another look at something",
     "vi": "nghĩ khác lối thường",
-    "viDef": "nhìn lại vấn đề theo cách khác"
+    "viDef": "nhìn lại vấn đề theo cách khác",
+    "ex": "We could potentially make this tragedy work for us and make us think outside the box.",
+    "exHit": "think outside the box",
+    "exVi": "Chúng ta có thể biến thảm họa này thành lợi thế và buộc mình phải suy nghĩ khác đi."
   },
   {
     "word": "Dow Jones Average",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "an index that shows how 30 large, publicly-owned companies based in the United States have traded during a standard trading session in the stock market.",
     "vi": "chỉ số Dow Jones",
-    "viDef": "chỉ số cho biết 30 công ty đại chúng lớn của Mỹ giao dịch thế nào trong một phiên chứng khoán tiêu chuẩn"
+    "viDef": "chỉ số cho biết 30 công ty đại chúng lớn của Mỹ giao dịch thế nào trong một phiên chứng khoán tiêu chuẩn",
+    "ex": "The Dow Jones Average fell sharply this morning.",
+    "exHit": "Dow Jones Average",
+    "exVi": "Chỉ số Dow Jones giảm mạnh vào sáng nay."
   },
   {
     "word": "Fortune 500",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "an annual list compiled and published by Fortune magazine that ranks the top 500 U.S. closely held and public corporations as ranked by their gross revenue",
     "vi": "danh sách Fortune 500",
-    "viDef": "bảng do tạp chí Fortune lập hằng năm, xếp 500 tập đoàn Mỹ hàng đầu, cả công và tư, theo tổng doanh thu"
+    "viDef": "bảng do tạp chí Fortune lập hằng năm, xếp 500 tập đoàn Mỹ hàng đầu, cả công và tư, theo tổng doanh thu",
+    "ex": "He works for a Fortune 500 company in New York.",
+    "exHit": "Fortune 500",
+    "exVi": "Anh ấy làm cho một công ty thuộc danh sách Fortune 500 ở New York."
   },
   {
     "word": "Equities",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "Common and preferred stocks, which represent a share in the ownership of a company.",
     "vi": "chứng khoán vốn",
-    "viDef": "cổ phiếu phổ thông và ưu đãi, đại diện cho phần sở hữu trong công ty"
+    "viDef": "cổ phiếu phổ thông và ưu đãi, đại diện cho phần sở hữu trong công ty",
+    "ex": "Our broker advised us to put more money into equities.",
+    "exHit": "equities",
+    "exVi": "Nhà môi giới khuyên chúng tôi bỏ thêm tiền vào cổ phiếu."
   },
   {
     "word": "face value",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "The cash denomination of the individual debt instrument.",
     "vi": "giá trị danh nghĩa",
-    "viDef": "mức tiền ghi trên chính công cụ nợ đó"
+    "viDef": "mức tiền ghi trên chính công cụ nợ đó",
+    "ex": "The bond's face value is one thousand dollars.",
+    "exHit": "face value",
+    "exVi": "Mệnh giá của trái phiếu này là một nghìn đô la."
   },
   {
     "word": "Initial Public Offering",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "A company's first issue of shares to the general public.",
     "vi": "đợt chào bán lần đầu",
-    "viDef": "lần đầu công ty phát hành cổ phiếu ra công chúng"
+    "viDef": "lần đầu công ty phát hành cổ phiếu ra công chúng",
+    "ex": "The company's initial public offering made the founders very rich.",
+    "exHit": "initial public offering",
+    "exVi": "Đợt phát hành cổ phiếu lần đầu ra công chúng của công ty đã khiến các nhà sáng lập rất giàu."
   }
 ]

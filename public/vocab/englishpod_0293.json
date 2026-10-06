@@ -5,7 +5,10 @@
     "type": "",
     "def": "a type of cheese",
     "vi": "phô mai camembert",
-    "viDef": "một loại phô mai"
+    "viDef": "một loại phô mai",
+    "ex": "Camembert is soft and goes well with fresh bread.",
+    "exHit": "Camembert",
+    "exVi": "Camembert mềm và rất hợp với bánh mì tươi."
   },
   {
     "word": "mild",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "soft, not strong",
     "vi": "nhẹ, dịu",
-    "viDef": "mềm, không nồng"
+    "viDef": "mềm, không nồng",
+    "ex": "They are usually mildly flavored and very high in moisture.",
+    "exHit": "mildly",
+    "exVi": "Chúng thường có vị nhẹ và rất nhiều độ ẩm."
   },
   {
     "word": "cheese",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "solid product made from milk",
     "vi": "phô mai",
-    "viDef": "sản phẩm đặc làm từ sữa"
+    "viDef": "sản phẩm đặc làm từ sữa",
+    "ex": "Co-jack cheese, a blend of Colby and Monterrey jack is one of the most popular.",
+    "exHit": "cheese",
+    "exVi": "Phô mai Co-jack, hỗn hợp của Colby và Monterey jack, là một trong những loại phổ biến nhất."
   },
   {
     "word": "flavour",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the way something tastes",
     "vi": "vị",
-    "viDef": "mùi vị của thứ gì"
+    "viDef": "mùi vị của thứ gì",
+    "ex": "They are usually mildly flavored and very high in moisture.",
+    "exHit": "flavored",
+    "exVi": "Chúng thường có vị nhẹ và rất nhiều độ ẩm."
   },
   {
     "word": "texture",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the way something feels",
     "vi": "kết cấu",
-    "viDef": "cảm giác khi chạm vào thứ gì"
+    "viDef": "cảm giác khi chạm vào thứ gì",
+    "ex": "The designation refers to the amount of moisture in the cheese, which directly affects its texture.",
+    "exHit": "texture",
+    "exVi": "Tên gọi này chỉ lượng độ ẩm trong phô mai, yếu tố ảnh hưởng trực tiếp đến kết cấu của nó."
   },
   {
     "word": "moisture",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a small quantity of water",
     "vi": "độ ẩm",
-    "viDef": "lượng nước nhỏ"
+    "viDef": "lượng nước nhỏ",
+    "ex": "They are usually mildly flavored and very high in moisture.",
+    "exHit": "moisture",
+    "exVi": "Chúng thường có vị nhẹ và rất nhiều độ ẩm."
   },
   {
     "word": "pasteurize",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to destroy micro organisims via elevated temperaures",
     "vi": "thanh trùng",
-    "viDef": "diệt vi sinh vật bằng cách nâng nhiệt độ"
+    "viDef": "diệt vi sinh vật bằng cách nâng nhiệt độ",
+    "ex": "The factory has to pasteurize the milk before selling it.",
+    "exHit": "pasteurize",
+    "exVi": "Nhà máy phải tiệt trùng sữa theo phương pháp Pasteur trước khi bán."
   },
   {
     "word": "American",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "Nationality",
     "vi": "phô mai Mỹ",
-    "viDef": "chỉ quốc tịch"
+    "viDef": "chỉ quốc tịch",
+    "ex": "American, Colby, co-jack and similar cheeses are in the semi-soft category.",
+    "exHit": "American",
+    "exVi": "Phô mai American, Colby, Co-jack và các loại tương tự thuộc nhóm bán mềm."
   },
   {
     "word": "Colby",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a type of cheese",
     "vi": "phô mai Colby",
-    "viDef": "một loại phô mai"
+    "viDef": "một loại phô mai",
+    "ex": "American, Colby, co-jack and similar cheeses are in the semi-soft category.",
+    "exHit": "Colby",
+    "exVi": "Phô mai American, Colby, Co-jack và các loại tương tự thuộc nhóm bán mềm."
   },
   {
     "word": "co-jack",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a type of cheese",
     "vi": "phô mai co-jack",
-    "viDef": "một loại phô mai"
+    "viDef": "một loại phô mai",
+    "ex": "Co-jack cheese, a blend of Colby and Monterrey jack is one of the most popular.",
+    "exHit": "Co-jack",
+    "exVi": "Phô mai Co-jack, hỗn hợp của Colby và Monterey jack, là một trong những loại phổ biến nhất."
   },
   {
     "word": "quesco",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a type of cheese",
     "vi": "phô mai queso",
-    "viDef": "một loại phô mai"
+    "viDef": "một loại phô mai",
+    "ex": "Grilled cheese sandwiches often use American cheese, and Mexican cheeses such as Asadero and Queso Fresco are becoming more popular.",
+    "exHit": "Queso",
+    "exVi": "Bánh sandwich phô mai nướng thường dùng phô mai American, còn các loại phô mai Mexico như Asadero và Queso Fresco ngày càng phổ biến."
   },
   {
     "word": "Parmesan",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a type of cheese",
     "vi": "phô mai Parmesan",
-    "viDef": "một loại phô mai"
+    "viDef": "một loại phô mai",
+    "ex": "Hard cheeses include Parmesan, Romano, Asiago, Swiss, Gruyere and others.",
+    "exHit": "Parmesan",
+    "exVi": "Các loại phô mai cứng gồm Parmesan, Romano, Asiago, Swiss, Gruyere và những loại khác."
   },
   {
     "word": "Romano",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a type of cheese",
     "vi": "phô mai Romano",
-    "viDef": "một loại phô mai"
+    "viDef": "một loại phô mai",
+    "ex": "Hard cheeses include Parmesan, Romano, Asiago, Swiss, Gruyere and others.",
+    "exHit": "Romano",
+    "exVi": "Các loại phô mai cứng gồm Parmesan, Romano, Asiago, Swiss, Gruyere và những loại khác."
   },
   {
     "word": "Asiago",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "a type of cheese",
     "vi": "phô mai Asiago",
-    "viDef": "một loại phô mai"
+    "viDef": "một loại phô mai",
+    "ex": "Hard cheeses include Parmesan, Romano, Asiago, Swiss, Gruyere and others.",
+    "exHit": "Asiago",
+    "exVi": "Các loại phô mai cứng gồm Parmesan, Romano, Asiago, Swiss, Gruyere và những loại khác."
   },
   {
     "word": "Swiss",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "a type of cheese",
     "vi": "phô mai Thụy Sĩ",
-    "viDef": "một loại phô mai"
+    "viDef": "một loại phô mai",
+    "ex": "Hard cheeses include Parmesan, Romano, Asiago, Swiss, Gruyere and others.",
+    "exHit": "Swiss",
+    "exVi": "Các loại phô mai cứng gồm Parmesan, Romano, Asiago, Swiss, Gruyere và những loại khác."
   },
   {
     "word": "Gruyere",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "a type of cheese",
     "vi": "phô mai Gruyère",
-    "viDef": "một loại phô mai"
+    "viDef": "một loại phô mai",
+    "ex": "Hard cheeses include Parmesan, Romano, Asiago, Swiss, Gruyere and others.",
+    "exHit": "Gruyere",
+    "exVi": "Các loại phô mai cứng gồm Parmesan, Romano, Asiago, Swiss, Gruyere và những loại khác."
   },
   {
     "word": "blue",
@@ -133,7 +181,10 @@
     "type": "",
     "def": "a type of cheese",
     "vi": "phô mai xanh",
-    "viDef": "một loại phô mai"
+    "viDef": "một loại phô mai",
+    "ex": "I'd like a salad with blue cheese on top.",
+    "exHit": "blue",
+    "exVi": "Tôi muốn một đĩa salad có phô mai xanh ở trên."
   },
   {
     "word": "mature",
@@ -141,7 +192,10 @@
     "type": "",
     "def": "fully aged",
     "vi": "đã ủ chín",
-    "viDef": "để lâu tới độ"
+    "viDef": "để lâu tới độ",
+    "ex": "I prefer mature cheddar because it has a stronger taste.",
+    "exHit": "mature",
+    "exVi": "Tôi thích phô mai cheddar ủ lâu hơn vì vị đậm hơn."
   },
   {
     "word": "organism",
@@ -149,6 +203,9 @@
     "type": "",
     "def": "a form of life",
     "vi": "sinh vật",
-    "viDef": "một dạng sống"
+    "viDef": "một dạng sống",
+    "ex": "A tiny organism lives in every spoonful of this yogurt.",
+    "exHit": "organism",
+    "exVi": "Một sinh vật nhỏ bé sống trong từng thìa sữa chua này."
   }
 ]

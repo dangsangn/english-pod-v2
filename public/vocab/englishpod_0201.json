@@ -5,7 +5,10 @@
     "type": "",
     "def": "to find the weight of something",
     "vi": "cân",
-    "viDef": "xác định khối lượng của thứ gì"
+    "viDef": "xác định khối lượng của thứ gì",
+    "ex": "You will need some stamps for the postcards and I need to weigh that package, too.",
+    "exHit": "weigh",
+    "exVi": "Bạn sẽ cần mua tem cho những tấm bưu thiếp, và tôi cũng cần cân gói hàng đó."
   },
   {
     "word": "up to",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "at least",
     "vi": "tới mức",
-    "viDef": "ít nhất, cho tới"
+    "viDef": "ít nhất, cho tới",
+    "ex": "Well, standard mail can take up to fifteen working days.",
+    "exHit": "up to",
+    "exVi": "À, thư thường có thể mất đến mười lăm ngày làm việc."
   },
   {
     "word": "take",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "cost or require",
     "vi": "mất, tốn",
-    "viDef": "đòi hoặc tiêu tốn"
+    "viDef": "đòi hoặc tiêu tốn",
+    "ex": "Well, standard mail can take up to fifteen working days.",
+    "exHit": "take",
+    "exVi": "À, thư thường có thể mất đến mười lăm ngày làm việc."
   },
   {
     "word": "rush",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to be in a hurry",
     "vi": "gửi gấp",
-    "viDef": "đang gấp gáp"
+    "viDef": "đang gấp gáp",
+    "ex": "Well, there's no rush.",
+    "exHit": "rush",
+    "exVi": "À, không có gì phải vội cả."
   },
   {
     "word": "fragile",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "easily broken or damaged",
     "vi": "dễ vỡ",
-    "viDef": "dễ bị hư hoặc hỏng"
+    "viDef": "dễ bị hư hoặc hỏng",
+    "ex": "Please be extra careful, the contents of the package are fragile.",
+    "exHit": "fragile",
+    "exVi": "Xin hãy hết sức cẩn thận, đồ bên trong gói hàng rất dễ vỡ."
   },
   {
     "word": "via",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "travelling through a place on the way to somewhere",
     "vi": "qua ngả",
-    "viDef": "đi qua một nơi trên đường tới chỗ khác"
+    "viDef": "đi qua một nơi trên đường tới chỗ khác",
+    "ex": "Please send it via priority mail.",
+    "exHit": "via",
+    "exVi": "Xin hãy gửi qua đường thư ưu tiên."
   },
   {
     "word": "priority",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to be treated as more important than something els",
     "vi": "ưu tiên",
-    "viDef": "được xử lý trước những thứ khác"
+    "viDef": "được xử lý trước những thứ khác",
+    "ex": "Please send it via priority mail.",
+    "exHit": "priority",
+    "exVi": "Xin hãy gửi qua đường thư ưu tiên."
   },
   {
     "word": "express",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a service for carrying things faster than usual",
     "vi": "chuyển phát nhanh",
-    "viDef": "dịch vụ chở nhanh hơn thường lệ"
+    "viDef": "dịch vụ chở nhanh hơn thường lệ",
+    "ex": "Express is the fastest, but it's also the most expensive.",
+    "exHit": "Express",
+    "exVi": "Chuyển phát nhanh là nhanh nhất, nhưng cũng đắt nhất."
   },
   {
     "word": "standard",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "usual or ordinary",
     "vi": "tiêu chuẩn thường",
-    "viDef": "thông thường, bình thường"
+    "viDef": "thông thường, bình thường",
+    "ex": "Well, standard mail can take up to fifteen working days.",
+    "exHit": "standard",
+    "exVi": "À, thư thường có thể mất đến mười lăm ngày làm việc."
   },
   {
     "word": "parcel",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "something wrapped up; a package",
     "vi": "bưu kiện",
-    "viDef": "thứ được bọc lại, một gói hàng"
+    "viDef": "thứ được bọc lại, một gói hàng",
+    "ex": "I need to pick up a parcel from the post office.",
+    "exHit": "parcel",
+    "exVi": "Tôi cần đến bưu điện lấy một bưu kiện."
   },
   {
     "word": "forwarder",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "an agent that facilitates and assures the passage of received goods to their destination.",
     "vi": "đại lý giao nhận",
-    "viDef": "bên lo và bảo đảm cho hàng nhận về tới đúng đích"
+    "viDef": "bên lo và bảo đảm cho hàng nhận về tới đúng đích",
+    "ex": "We hired a freight forwarder to get our boxes overseas.",
+    "exHit": "forwarder",
+    "exVi": "Chúng tôi thuê một đơn vị giao nhận để chuyển các thùng hàng ra nước ngoài."
   },
   {
     "word": "postage",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "the charge for delivering a piece of mail",
     "vi": "tiền tem, cước gửi",
-    "viDef": "khoản phí để chuyển một kiện thư"
+    "viDef": "khoản phí để chuyển một kiện thư",
+    "ex": "The postage for this package to Canada is twelve dollars.",
+    "exHit": "postage",
+    "exVi": "Bưu phí gửi gói hàng này sang Canada là mười hai đô la."
   },
   {
     "word": "P.O Box",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a numbered compartment in a post office where mail is put to be called for",
     "vi": "hộp thư bưu điện",
-    "viDef": "ô có số ở bưu điện, thư được để vào đó cho người nhận tới lấy"
+    "viDef": "ô có số ở bưu điện, thư được để vào đó cho người nhận tới lấy",
+    "ex": "Please send it to my PO Box instead of my house.",
+    "exHit": "PO Box",
+    "exVi": "Xin hãy gửi nó đến hộp thư bưu điện của tôi thay vì nhà tôi."
   },
   {
     "word": "ship",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "to place, transport, or travel on any conveyance, esp aboard a ship",
     "vi": "gửi hàng",
-    "viDef": "đặt lên, chở đi hoặc đi bằng phương tiện nào, nhất là bằng tàu"
+    "viDef": "đặt lên, chở đi hoặc đi bằng phương tiện nào, nhất là bằng tàu",
+    "ex": "Can you ship this box to Vietnam by the end of the week?",
+    "exHit": "ship",
+    "exVi": "Bạn có thể gửi thùng này sang Việt Nam trước cuối tuần không?"
   }
 ]

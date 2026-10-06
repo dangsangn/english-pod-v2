@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "to make an arrangement to hold something for later",
     "vi": "đặt chỗ trước",
-    "viDef": "thu xếp để giữ thứ gì cho sau đó"
+    "viDef": "thu xếp để giữ thứ gì cho sau đó",
+    "ex": "Yes hello, I would like to make a reservation please.",
+    "exHit": "make a reservation",
+    "exVi": "Xin chào, tôi muốn đặt bàn."
   },
   {
     "word": "have no",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "to not have any",
     "vi": "không còn cái nào",
-    "viDef": "chẳng có gì cả"
+    "viDef": "chẳng có gì cả",
+    "ex": "I'm sorry, we have no mid-size available at the moment.",
+    "exHit": "have no",
+    "exVi": "Xin lỗi, hiện chúng tôi không còn xe cỡ trung nào."
   },
   {
     "word": "run out",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "to have no more",
     "vi": "hết",
-    "viDef": "không còn nữa"
+    "viDef": "không còn nữa",
+    "ex": "We ran out of gas on the way to the airport.",
+    "exHit": "ran out",
+    "exVi": "Chúng tôi hết xăng trên đường ra sân bay."
   },
   {
     "word": "you better",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "you should",
     "vi": "tốt nhất anh/chị nên",
-    "viDef": "nên làm thế đi"
+    "viDef": "nên làm thế đi",
+    "ex": "Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.",
+    "exHit": "you better",
+    "exVi": "Ừ, anh nên đưa tôi bảo hiểm đi, vì tôi sẽ dùng chiếc xe này thật tàn tệ đấy."
   },
   {
     "word": "beat the hell out of",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "to purposefully abuse something",
     "vi": "quần cho tơi tả",
-    "viDef": "cố tình dùng thứ gì rất thô bạo"
+    "viDef": "cố tình dùng thứ gì rất thô bạo",
+    "ex": "Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.",
+    "exHit": "beat the hell out of",
+    "exVi": "Ừ, anh nên đưa tôi bảo hiểm đi, vì tôi sẽ dùng chiếc xe này thật tàn tệ đấy."
   },
   {
     "word": "mid-size vehicle",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "a medium sized car",
     "vi": "xe cỡ trung",
-    "viDef": "xe hơi hạng vừa"
+    "viDef": "xe hơi hạng vừa",
+    "ex": "I'd like to rent a mid-size vehicle for the weekend.",
+    "exHit": "mid-size vehicle",
+    "exVi": "Tôi muốn thuê một chiếc xe cỡ trung cho cuối tuần."
   },
   {
     "word": "at the moment",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "at the present time",
     "vi": "hiện giờ",
-    "viDef": "vào lúc này"
+    "viDef": "vào lúc này",
+    "ex": "I'm sorry, we have no mid-size available at the moment.",
+    "exHit": "at the moment",
+    "exVi": "Xin lỗi, hiện tại chúng tôi không còn xe cỡ trung nào."
   },
   {
     "word": "compact",
@@ -61,7 +82,10 @@
     "type": "common noun, plural",
     "def": "a small car",
     "vi": "xe cỡ nhỏ",
-    "viDef": "xe hơi nhỏ gọn"
+    "viDef": "xe hơi nhỏ gọn",
+    "ex": "But we do have a compact or an SUV if you'd like.",
+    "exHit": "compact",
+    "exVi": "Nhưng chúng tôi có xe cỡ nhỏ hoặc xe SUV nếu anh muốn."
   },
   {
     "word": "SUV",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "sport utility vehicle",
     "vi": "xe SUV",
-    "viDef": "xe thể thao đa dụng"
+    "viDef": "xe thể thao đa dụng",
+    "ex": "But we do have a compact or an SUV if you'd like.",
+    "exHit": "SUV",
+    "exVi": "Nhưng chúng tôi có xe cỡ nhỏ hoặc xe SUV nếu anh muốn."
   },
   {
     "word": "insurance",
@@ -77,7 +104,10 @@
     "type": "common noun, non-variable",
     "def": "protection from costs of accidental damage",
     "vi": "bảo hiểm",
-    "viDef": "sự che chắn khỏi phí tổn khi có hư hại ngoài ý muốn"
+    "viDef": "sự che chắn khỏi phí tổn khi có hư hại ngoài ý muốn",
+    "ex": "Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.",
+    "exHit": "insurance",
+    "exVi": "Ừ, anh nên đưa tôi bảo hiểm đi, vì tôi sẽ dùng chiếc xe này thật tàn tệ đấy."
   },
   {
     "word": "rental agreement",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "contract signed with details of car rental",
     "vi": "hợp đồng thuê xe",
-    "viDef": "văn bản ký kết ghi chi tiết việc thuê xe"
+    "viDef": "văn bản ký kết ghi chi tiết việc thuê xe",
+    "ex": "Please read the rental agreement carefully before you sign it.",
+    "exHit": "rental agreement",
+    "exVi": "Vui lòng đọc kỹ hợp đồng thuê xe trước khi ký."
   },
   {
     "word": "daily rate",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "the amount of money to be paid per day the car is rented",
     "vi": "giá theo ngày",
-    "viDef": "số tiền phải trả cho mỗi ngày thuê xe"
+    "viDef": "số tiền phải trả cho mỗi ngày thuê xe",
+    "ex": "What is the daily rate for a small car?",
+    "exHit": "daily rate",
+    "exVi": "Giá thuê mỗi ngày của một chiếc xe nhỏ là bao nhiêu?"
   },
   {
     "word": "book",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "to make arrangements for later",
     "vi": "đặt trước",
-    "viDef": "thu xếp cho lần sau"
+    "viDef": "thu xếp cho lần sau",
+    "ex": "I'd like to book a car for next Friday, please.",
+    "exHit": "book",
+    "exVi": "Tôi muốn đặt một chiếc xe cho thứ Sáu tuần sau."
   },
   {
     "word": "coverage",
@@ -109,7 +148,10 @@
     "type": "common noun, non-variable",
     "def": "the protection that is offered by an insurance policy",
     "vi": "phạm vi bảo hiểm",
-    "viDef": "mức che chắn mà hợp đồng bảo hiểm mang lại"
+    "viDef": "mức che chắn mà hợp đồng bảo hiểm mang lại",
+    "ex": "Does the coverage include damage to the windows?",
+    "exHit": "coverage",
+    "exVi": "Phạm vi bảo hiểm có bao gồm hư hỏng kính xe không?"
   },
   {
     "word": "leave a deposit",
@@ -117,6 +159,9 @@
     "type": "phrase",
     "def": "to leave money when you rent a car and that you get back if you return the car in good condition",
     "vi": "đặt cọc",
-    "viDef": "gửi tiền khi thuê xe, trả xe nguyên vẹn thì được nhận lại"
+    "viDef": "gửi tiền khi thuê xe, trả xe nguyên vẹn thì được nhận lại",
+    "ex": "You need to leave a deposit when you pick up the car.",
+    "exHit": "leave a deposit",
+    "exVi": "Bạn cần đặt cọc khi nhận xe."
   }
 ]

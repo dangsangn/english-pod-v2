@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "the history of the education you've had",
     "vi": "quá trình học vấn",
-    "viDef": "lịch sử học hành của một người"
+    "viDef": "lịch sử học hành của một người",
+    "ex": "So, let's get started; tell me a bit about your educational background.",
+    "exHit": "educational background",
+    "exVi": "Vậy thì bắt đầu nhé; hãy kể cho tôi nghe một chút về nền tảng học vấn của bạn."
   },
   {
     "word": "with honors",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "with special recognition for receiving very high marks",
     "vi": "tốt nghiệp loại ưu",
-    "viDef": "được ghi nhận riêng vì điểm rất cao"
+    "viDef": "được ghi nhận riêng vì điểm rất cao",
+    "ex": "Well, I graduated with honors from Chesterton University with a major in Business Administration, with a specialization in Information Management, and I minored in psychology.",
+    "exHit": "with honors",
+    "exVi": "Tôi tốt nghiệp loại ưu tại Đại học Chesterton, chuyên ngành chính là Quản trị Kinh doanh, chuyên sâu về Quản lý Thông tin, và học phụ ngành tâm lý học."
   },
   {
     "word": "major",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "the main field of study in an undergraduate degree",
     "vi": "chuyên ngành chính",
-    "viDef": "ngành học chính ở bậc đại học"
+    "viDef": "ngành học chính ở bậc đại học",
+    "ex": "Well, I graduated with honors from Chesterton University with a major in Business Administration, with a specialization in Information Management, and I minored in psychology.",
+    "exHit": "major",
+    "exVi": "Tôi tốt nghiệp loại ưu tại Đại học Chesterton, chuyên ngành chính là Quản trị Kinh doanh, chuyên sâu về Quản lý Thông tin, và học phụ ngành tâm lý học."
   },
   {
     "word": "specialization",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "a limited area of study",
     "vi": "chuyên môn hẹp",
-    "viDef": "lĩnh vực học tập trong phạm vi nhỏ"
+    "viDef": "lĩnh vực học tập trong phạm vi nhỏ",
+    "ex": "Well, I graduated with honors from Chesterton University with a major in Business Administration, with a specialization in Information Management, and I minored in psychology.",
+    "exHit": "specialization",
+    "exVi": "Tôi tốt nghiệp loại ưu tại Đại học Chesterton, chuyên ngành chính là Quản trị Kinh doanh, chuyên sâu về Quản lý Thông tin, và học phụ ngành tâm lý học."
   },
   {
     "word": "minor",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "to have a secondary area of study in an undergraduate program",
     "vi": "học ngành phụ",
-    "viDef": "lấy thêm một ngành thứ hai ở bậc đại học"
+    "viDef": "lấy thêm một ngành thứ hai ở bậc đại học",
+    "ex": "I chose this course of study for two reasons: I wanted to gain some practical, marketable skills, which the information management track provided, and I also feel that interpersonal skills are essential for professional success, hence the minor in psychology.",
+    "exHit": "minor",
+    "exVi": "Tôi chọn chương trình học này vì hai lý do: tôi muốn có những kỹ năng thực tế, dễ ứng dụng trên thị trường, mà hướng quản lý thông tin đã mang lại, và tôi cũng cảm thấy kỹ năng giao tiếp rất cần thiết cho thành công trong nghề nghiệp, vì thế tôi học phụ ngành tâm lý học."
   },
   {
     "word": "course of study",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "the combination of courses taken in a degree program",
     "vi": "chương trình học",
-    "viDef": "tổ hợp các môn trong một chương trình cấp bằng"
+    "viDef": "tổ hợp các môn trong một chương trình cấp bằng",
+    "ex": "I chose this course of study for two reasons: I wanted to gain some practical, marketable skills, which the information management track provided, and I also feel that interpersonal skills are essential for professional success, hence the minor in psychology.",
+    "exHit": "course of study",
+    "exVi": "Tôi chọn chương trình học này vì hai lý do: tôi muốn có những kỹ năng thực tế, dễ ứng dụng trên thị trường, mà hướng quản lý thông tin đã mang lại, và tôi cũng cảm thấy kỹ năng giao tiếp rất cần thiết cho thành công trong nghề nghiệp, vì thế tôi học phụ ngành tâm lý học."
   },
   {
     "word": "track",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "course of study",
     "vi": "hướng học",
-    "viDef": "lộ trình môn học"
+    "viDef": "lộ trình môn học",
+    "ex": "I chose this course of study for two reasons: I wanted to gain some practical, marketable skills, which the information management track provided, and I also feel that interpersonal skills are essential for professional success, hence the minor in psychology.",
+    "exHit": "track",
+    "exVi": "Tôi chọn chương trình học này vì hai lý do: tôi muốn có những kỹ năng thực tế, dễ ứng dụng trên thị trường, mà hướng quản lý thông tin đã mang lại, và tôi cũng cảm thấy kỹ năng giao tiếp rất cần thiết cho thành công trong nghề nghiệp, vì thế tôi học phụ ngành tâm lý học."
   },
   {
     "word": "postgraduate",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "masters or Ph.D; education above the bachelor's degree level",
     "vi": "sau đại học",
-    "viDef": "bậc thạc sĩ hoặc tiến sĩ, trên cử nhân"
+    "viDef": "bậc thạc sĩ hoặc tiến sĩ, trên cử nhân",
+    "ex": "And, your postgraduate studies?",
+    "exHit": "postgraduate",
+    "exVi": "Còn chương trình sau đại học của bạn thì sao?"
   },
   {
     "word": "hence",
@@ -69,7 +93,10 @@
     "type": "General Adverb",
     "def": "for that reason",
     "vi": "do vậy",
-    "viDef": "vì lý do đó"
+    "viDef": "vì lý do đó",
+    "ex": "I chose this course of study for two reasons: I wanted to gain some practical, marketable skills, which the information management track provided, and I also feel that interpersonal skills are essential for professional success, hence the minor in psychology.",
+    "exHit": "hence",
+    "exVi": "Tôi chọn chương trình học này vì hai lý do: tôi muốn có những kỹ năng thực tế, dễ ứng dụng trên thị trường, mà hướng quản lý thông tin đã mang lại, và tôi cũng cảm thấy kỹ năng giao tiếp rất cần thiết cho thành công trong nghề nghiệp, vì thế tôi học phụ ngành tâm lý học."
   },
   {
     "word": "pursue",
@@ -77,7 +104,10 @@
     "type": "principle verb, past simple",
     "def": "try to do something over a longer period of time",
     "vi": "theo đuổi",
-    "viDef": "kiên trì làm việc gì trong thời gian dài"
+    "viDef": "kiên trì làm việc gì trong thời gian dài",
+    "ex": "Well, I am really passionate about consumer behavior, so I pursued a master's in that area.",
+    "exHit": "pursued",
+    "exVi": "Tôi thực sự đam mê hành vi người tiêu dùng, nên đã theo đuổi bằng thạc sĩ trong lĩnh vực đó."
   },
   {
     "word": "strive",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "try hard to do something",
     "vi": "nỗ lực",
-    "viDef": "cố gắng hết sức làm việc gì"
+    "viDef": "cố gắng hết sức làm việc gì",
+    "ex": "I also strive to keep my professional skills current, so I continuously attend seminars and conferences related management and customer service.",
+    "exHit": "strive",
+    "exVi": "Tôi cũng cố gắng cập nhật kỹ năng chuyên môn, nên liên tục tham dự các buổi hội thảo và hội nghị về quản lý và chăm sóc khách hàng."
   },
   {
     "word": "breadth",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a wide range or scope of something",
     "vi": "độ rộng, tầm bao quát",
-    "viDef": "phạm vi rộng của thứ gì"
+    "viDef": "phạm vi rộng của thứ gì",
+    "ex": "Yeah, I worked as their customer support manager, which brought me a breadth of experience in both client care, and process management.",
+    "exHit": "breadth",
+    "exVi": "Vâng, tôi làm quản lý hỗ trợ khách hàng của họ, vị trí này mang lại cho tôi kinh nghiệm phong phú ở cả chăm sóc khách hàng lẫn quản lý quy trình."
   },
   {
     "word": "significant",
@@ -101,7 +137,10 @@
     "type": "Adjective",
     "def": "important and large enough to have a noticeable effect",
     "vi": "đáng kể",
-    "viDef": "quan trọng và đủ lớn để thấy được tác động"
+    "viDef": "quan trọng và đủ lớn để thấy được tác động",
+    "ex": "Yes, in this position I was able to make some pretty significant contributions to the overall success of the company.",
+    "exHit": "significant",
+    "exVi": "Vâng, ở vị trí này tôi đã có thể đóng góp khá đáng kể vào thành công chung của công ty."
   },
   {
     "word": "contribution",
@@ -109,7 +148,10 @@
     "type": "common noun, plural",
     "def": "adding or giving something",
     "vi": "sự đóng góp",
-    "viDef": "việc góp thêm hoặc cho đi điều gì"
+    "viDef": "việc góp thêm hoặc cho đi điều gì",
+    "ex": "Yes, in this position I was able to make some pretty significant contributions to the overall success of the company.",
+    "exHit": "contributions",
+    "exVi": "Vâng, ở vị trí này tôi đã có thể đóng góp khá đáng kể vào thành công chung của công ty."
   },
   {
     "word": "tertiary education",
@@ -117,7 +159,10 @@
     "type": "phrase",
     "def": "university education",
     "vi": "giáo dục bậc cao",
-    "viDef": "học vấn đại học"
+    "viDef": "học vấn đại học",
+    "ex": "She completed her tertiary education at a university in Hanoi.",
+    "exHit": "tertiary education",
+    "exVi": "Cô ấy đã hoàn thành chương trình giáo dục đại học tại một trường ở Hà Nội."
   },
   {
     "word": "take initiative",
@@ -125,7 +170,10 @@
     "type": "phrase",
     "def": "take the chance to do something before others do",
     "vi": "chủ động ra tay",
-    "viDef": "làm trước khi người khác kịp làm"
+    "viDef": "làm trước khi người khác kịp làm",
+    "ex": "If you want a promotion, you need to take initiative at work.",
+    "exHit": "take initiative",
+    "exVi": "Nếu muốn được thăng chức, bạn cần chủ động trong công việc."
   },
   {
     "word": "distinguish",
@@ -133,7 +181,10 @@
     "type": "verb",
     "def": "make something different in a special way",
     "vi": "tạo nét riêng",
-    "viDef": "làm cho thứ gì khác biệt hẳn"
+    "viDef": "làm cho thứ gì khác biệt hẳn",
+    "ex": "A strong portfolio will distinguish you from the other candidates.",
+    "exHit": "distinguish",
+    "exVi": "Một hồ sơ năng lực ấn tượng sẽ giúp bạn nổi bật hơn các ứng viên khác."
   },
   {
     "word": "attribute",
@@ -141,7 +192,10 @@
     "type": "common noun, singular",
     "def": "a good quality or feature that someone has",
     "vi": "phẩm chất",
-    "viDef": "điểm tốt hoặc đặc điểm hay của một người"
+    "viDef": "điểm tốt hoặc đặc điểm hay của một người",
+    "ex": "Honesty is the best attribute a good employee can have.",
+    "exHit": "attribute",
+    "exVi": "Sự trung thực là phẩm chất tốt nhất mà một nhân viên giỏi có thể có."
   },
   {
     "word": "scrutinize",
@@ -149,6 +203,9 @@
     "type": "verb",
     "def": "examine something in a careful and critical way",
     "vi": "xem xét kỹ lưỡng",
-    "viDef": "soi thật cẩn thận và khắt khe"
+    "viDef": "soi thật cẩn thận và khắt khe",
+    "ex": "The manager will scrutinize every application before choosing candidates.",
+    "exHit": "scrutinize",
+    "exVi": "Quản lý sẽ xem xét kỹ lưỡng từng hồ sơ trước khi chọn ứng viên."
   }
 ]

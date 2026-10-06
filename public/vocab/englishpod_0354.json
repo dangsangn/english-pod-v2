@@ -5,7 +5,10 @@
     "type": "",
     "def": "to educate kids at home by a parent or tutor",
     "vi": "học tại nhà",
-    "viDef": "dạy trẻ ở nhà, do cha mẹ hoặc gia sư đảm nhận"
+    "viDef": "dạy trẻ ở nhà, do cha mẹ hoặc gia sư đảm nhận",
+    "ex": "I think we should home school our children when we decide to have kids.",
+    "exHit": "home school",
+    "exVi": "Tôi nghĩ khi có con, chúng ta nên cho con học tại nhà."
   },
   {
     "word": "first of all",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "firstly",
     "vi": "trước tiên",
-    "viDef": "thứ nhất là"
+    "viDef": "thứ nhất là",
+    "ex": "Well, first of all, I would be able to teach them everything they learn in school in a more relaxed and fun way.",
+    "exHit": "first of all",
+    "exVi": "Trước hết, tôi có thể dạy con mọi thứ chúng học ở trường theo cách thoải mái và vui hơn."
   },
   {
     "word": "read up",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to do research or instruct yourself on a topic",
     "vi": "đọc tìm hiểu",
-    "viDef": "tra cứu hoặc tự học về một chủ đề"
+    "viDef": "tra cứu hoặc tự học về một chủ đề",
+    "ex": "I have been reading up on home schooling and it has a lot of advantages.",
+    "exHit": "reading up",
+    "exVi": "Tôi đã tìm hiểu về việc học tại nhà và nó có rất nhiều lợi ích."
   },
   {
     "word": "isolate",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to set apart from others; place alone",
     "vi": "tách biệt",
-    "viDef": "để riêng khỏi những người khác, đặt một mình"
+    "viDef": "để riêng khỏi những người khác, đặt một mình",
+    "ex": "I think that by doing something like that we would be isolating our children from social interaction.",
+    "exHit": "isolating",
+    "exVi": "Tôi nghĩ làm như vậy là chúng ta đang cô lập con khỏi giao tiếp xã hội."
   },
   {
     "word": "social interaction",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "meeting, talking, doing activities with people",
     "vi": "giao tiếp xã hội",
-    "viDef": "việc gặp gỡ, trò chuyện, làm các hoạt động cùng người khác"
+    "viDef": "việc gặp gỡ, trò chuyện, làm các hoạt động cùng người khác",
+    "ex": "I think that by doing something like that we would be isolating our children from social interaction.",
+    "exHit": "social interaction",
+    "exVi": "Tôi nghĩ làm như vậy là chúng ta đang cô lập con khỏi giao tiếp xã hội."
   },
   {
     "word": "one-on-one",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a meeting or class between two people",
     "vi": "một kèm một",
-    "viDef": "buổi gặp hoặc lớp học giữa hai người"
+    "viDef": "buổi gặp hoặc lớp học giữa hai người",
+    "ex": "The teacher gave me a one-on-one lesson after class.",
+    "exHit": "one-on-one",
+    "exVi": "Giáo viên đã dạy kèm riêng cho tôi một buổi sau giờ học."
   },
   {
     "word": "strengths",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a quality that makes someone effective or useful",
     "vi": "điểm mạnh",
-    "viDef": "phẩm chất làm cho một người hiệu quả hoặc hữu dụng"
+    "viDef": "phẩm chất làm cho một người hiệu quả hoặc hữu dụng",
+    "ex": "How would you describe your key strengths?",
+    "exHit": "strengths",
+    "exVi": "Bạn mô tả những điểm mạnh chính của mình thế nào?"
   },
   {
     "word": "weakness",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the quality or state of being weak",
     "vi": "điểm yếu",
-    "viDef": "tính chất hoặc trạng thái yếu kém"
+    "viDef": "tính chất hoặc trạng thái yếu kém",
+    "ex": "I also think that having a one-on-one class is much better since you can focus more on his or her strengths or weaknesses.",
+    "exHit": "weaknesses",
+    "exVi": "Tôi cũng nghĩ học kèm một thầy một trò tốt hơn nhiều vì bạn có thể tập trung vào điểm mạnh hay điểm yếu của em đó."
   },
   {
     "word": "bring something up",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to mention or open for discussion",
     "vi": "nêu ra",
-    "viDef": "nhắc tới hoặc đưa ra để bàn"
+    "viDef": "nhắc tới hoặc đưa ra để bàn",
+    "ex": "If you're worried, you can bring something up with the teacher.",
+    "exHit": "bring something up",
+    "exVi": "Nếu bạn lo lắng, bạn có thể nêu vấn đề đó với giáo viên."
   },
   {
     "word": "GED",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "general education diploma which is the equivalent of a high school diploma",
     "vi": "bằng GED",
-    "viDef": "general education diploma, tương đương bằng tốt nghiệp trung học"
+    "viDef": "general education diploma, tương đương bằng tốt nghiệp trung học",
+    "ex": "He didn't finish high school, so he took the GED.",
+    "exHit": "GED",
+    "exVi": "Anh ấy chưa học xong cấp ba nên đã thi chứng chỉ GED."
   },
   {
     "word": "SAT",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "Scholastic Aptitude Test is a test which is taken throughout the US as an admission test to US colleges",
     "vi": "kỳ thi SAT",
-    "viDef": "Scholastic Aptitude Test, bài thi được dùng khắp nước Mỹ làm bài kiểm tra đầu vào đại học"
+    "viDef": "Scholastic Aptitude Test, bài thi được dùng khắp nước Mỹ làm bài kiểm tra đầu vào đại học",
+    "ex": "She studied hard for the SAT last month.",
+    "exHit": "SAT",
+    "exVi": "Tháng trước cô ấy đã học chăm chỉ để thi SAT."
   },
   {
     "word": "tutor",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a person employed in the education of others, either individually or in groups.",
     "vi": "gia sư",
-    "viDef": "người được thuê để dạy người khác, kèm riêng hoặc theo nhóm"
+    "viDef": "người được thuê để dạy người khác, kèm riêng hoặc theo nhóm",
+    "ex": "My tutor helps me with math twice a week.",
+    "exHit": "tutor",
+    "exVi": "Gia sư của tôi kèm tôi môn toán hai lần một tuần."
   },
   {
     "word": "recess",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a short period of free time between school classes.",
     "vi": "giờ ra chơi",
-    "viDef": "khoảng nghỉ ngắn giữa các tiết học"
+    "viDef": "khoảng nghỉ ngắn giữa các tiết học",
+    "ex": "The kids play outside during recess.",
+    "exHit": "recess",
+    "exVi": "Bọn trẻ chơi ngoài sân trong giờ ra chơi."
   },
   {
     "word": "quiz",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "a short quick test",
     "vi": "bài kiểm tra ngắn",
-    "viDef": "bài kiểm tra nhanh"
+    "viDef": "bài kiểm tra nhanh",
+    "ex": "We have a quiz in math class tomorrow.",
+    "exHit": "quiz",
+    "exVi": "Ngày mai lớp toán có bài kiểm tra nhanh."
   }
 ]

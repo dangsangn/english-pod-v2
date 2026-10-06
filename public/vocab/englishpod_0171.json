@@ -5,7 +5,10 @@
     "type": "",
     "def": "Any compact non-SLR camera with non-interchangeable lenses, using automatic settings and simplified controls. Generally desired by novices and casual users.",
     "vi": "máy ảnh compact",
-    "viDef": "máy ảnh gọn, không phải SLR, ống kính liền, chế độ tự động và ít nút, phù hợp người mới hoặc dùng thường ngày"
+    "viDef": "máy ảnh gọn, không phải SLR, ống kính liền, chế độ tự động và ít nút, phù hợp người mới hoặc dùng thường ngày",
+    "ex": "I just need a simple point-and-shoot for my vacation photos.",
+    "exHit": "point-and-shoot",
+    "exVi": "Tôi chỉ cần một chiếc máy ảnh compact đơn giản để chụp ảnh kỳ nghỉ."
   },
   {
     "word": "interest someone in",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "try to persuade someone to buy, do, or eat something",
     "vi": "giới thiệu cho ai",
-    "viDef": "cố thuyết phục ai mua, làm hoặc dùng thứ gì"
+    "viDef": "cố thuyết phục ai mua, làm hoặc dùng thứ gì",
+    "ex": "Can I interest you in a new lens for your camera?",
+    "exHit": "interest you in",
+    "exVi": "Tôi có thể mời bạn xem một ống kính mới cho máy ảnh của bạn không?"
   },
   {
     "word": "lens",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a transparent optical device used to converge or diverge transmitted light and to form images",
     "vi": "thấu kính, ống kính",
-    "viDef": "bộ phận quang học trong suốt để hội tụ hoặc phân tán ánh sáng và tạo ảnh"
+    "viDef": "bộ phận quang học trong suốt để hội tụ hoặc phân tán ánh sáng và tạo ảnh",
+    "ex": "Looks to me like an 18-55mm lens.",
+    "exHit": "lens",
+    "exVi": "Tôi thấy hình như đó là ống kính 18-55mm."
   },
   {
     "word": "polarizing filter",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a camera lens filter used to control the plane of polarization of light entering the lens.",
     "vi": "kính lọc phân cực",
-    "viDef": "kính lọc gắn ống kính để điều tiết mặt phẳng phân cực của ánh sáng vào máy"
+    "viDef": "kính lọc gắn ống kính để điều tiết mặt phẳng phân cực của ánh sáng vào máy",
+    "ex": "Polarizing filter um we should!",
+    "exHit": "Polarizing filter",
+    "exVi": "Kính lọc phân cực, ừm, chúng ta nên mua!"
   },
   {
     "word": "entry-level",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "simple and appropriate to an inexperienced person",
     "vi": "dành cho người mới",
-    "viDef": "đơn giản, phù hợp người chưa có kinh nghiệm"
+    "viDef": "đơn giản, phù hợp người chưa có kinh nghiệm",
+    "ex": "An entry-level camera is perfect if you're just starting out.",
+    "exHit": "entry-level",
+    "exVi": "Máy ảnh cấp nhập môn là hoàn hảo nếu bạn mới bắt đầu."
   },
   {
     "word": "tripod",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a three-legged stand for a camera",
     "vi": "chân máy ba càng",
-    "viDef": "giá ba chân để đặt máy ảnh"
+    "viDef": "giá ba chân để đặt máy ảnh",
+    "ex": "Put the camera on a tripod so the photo isn't blurry.",
+    "exHit": "tripod",
+    "exVi": "Hãy đặt máy ảnh lên chân máy để ảnh không bị mờ."
   },
   {
     "word": "filter",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a lens screen of dyed gelatin or glass for controlling color or for diminishing the intensity of light",
     "vi": "kính lọc",
-    "viDef": "tấm phim hoặc kính nhuộm màu để điều màu hay giảm cường độ sáng"
+    "viDef": "tấm phim hoặc kính nhuộm màu để điều màu hay giảm cường độ sáng",
+    "ex": "Polarizing filter um we should!",
+    "exHit": "filter",
+    "exVi": "Kính lọc phân cực, ừm, chúng ta nên mua!"
   },
   {
     "word": "exposure",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the process of light hitting a photosensitive surface, such as film or a digital image sensor",
     "vi": "độ phơi sáng",
-    "viDef": "quá trình ánh sáng chiếu vào bề mặt cảm quang như phim hoặc cảm biến"
+    "viDef": "quá trình ánh sáng chiếu vào bề mặt cảm quang như phim hoặc cảm biến",
+    "ex": "Too much exposure makes the photo look washed out.",
+    "exHit": "exposure",
+    "exVi": "Phơi sáng quá nhiều làm bức ảnh bị bạc màu."
   },
   {
     "word": "shutter",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a mechanical device for opening and closing the aperture of a camera lens to expose film",
     "vi": "màn trập",
-    "viDef": "bộ phận mở và đóng khẩu ống kính để phơi sáng phim"
+    "viDef": "bộ phận mở và đóng khẩu ống kính để phơi sáng phim",
+    "ex": "I heard the shutter click as she took the picture.",
+    "exHit": "shutter",
+    "exVi": "Tôi nghe tiếng cửa chập kêu tách khi cô ấy chụp bức ảnh."
   },
   {
     "word": "wide-angle lens",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a lens which has a wide coverage angle so it can take in a great deal of scene, usually any lens shorter than 42mm",
     "vi": "ống kính góc rộng",
-    "viDef": "ống kính có góc thu rộng nên bắt được nhiều cảnh, thường là loại dưới 42mm"
+    "viDef": "ống kính có góc thu rộng nên bắt được nhiều cảnh, thường là loại dưới 42mm",
+    "ex": "A wide-angle lens is great for photos of big buildings.",
+    "exHit": "wide-angle lens",
+    "exVi": "Ống kính góc rộng rất tuyệt để chụp những tòa nhà lớn."
   }
 ]

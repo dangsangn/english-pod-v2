@@ -5,7 +5,10 @@
     "type": "",
     "def": "new year's decision or plan",
     "vi": "quyết tâm đầu năm",
-    "viDef": "điều mình định làm hoặc kế hoạch cho năm mới"
+    "viDef": "điều mình định làm hoặc kế hoạch cho năm mới",
+    "ex": "We always make a new year's resolution and by February we will have forgotten about it.",
+    "exHit": "new year's resolution",
+    "exVi": "Chúng ta lúc nào cũng đặt ra quyết tâm đầu năm mới và đến tháng Hai là quên sạch."
   },
   {
     "word": "on the go",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "very busy and active",
     "vi": "tất bật",
-    "viDef": "rất bận rộn, luôn di chuyển"
+    "viDef": "rất bận rộn, luôn di chuyển",
+    "ex": "We are a society that is always on the go, not because we have to, but because we want to.",
+    "exHit": "on the go",
+    "exVi": "Chúng ta là một xã hội lúc nào cũng bận rộn, không phải vì bắt buộc mà vì chính chúng ta muốn vậy."
   },
   {
     "word": "point",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "idea you try to make people understand",
     "vi": "ý muốn nói",
-    "viDef": "điều mình muốn người khác hiểu"
+    "viDef": "điều mình muốn người khác hiểu",
+    "ex": "What's the point?",
+    "exHit": "point",
+    "exVi": "Làm thế để làm gì chứ?"
   },
   {
     "word": "resolve",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "bring to an end",
     "vi": "giải quyết dứt",
-    "viDef": "đưa tới chỗ kết thúc"
+    "viDef": "đưa tới chỗ kết thúc",
+    "ex": "Well then maybe you should resolve to sticking to your goals and objectives.",
+    "exHit": "resolve",
+    "exVi": "Vậy thì có lẽ bạn nên quyết tâm bám sát mục tiêu của mình."
   },
   {
     "word": "brand new",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "completely new",
     "vi": "mới cứng",
-    "viDef": "hoàn toàn mới"
+    "viDef": "hoàn toàn mới",
+    "ex": "We are about to start a brand new year!",
+    "exHit": "brand new",
+    "exVi": "Chúng ta sắp bắt đầu một năm hoàn toàn mới rồi!"
   },
   {
     "word": "to make a commitment",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to make a pledge to do something",
     "vi": "cam kết",
-    "viDef": "hứa sẽ làm điều gì"
+    "viDef": "hứa sẽ làm điều gì",
+    "ex": "I want to make a commitment to exercise every morning this year.",
+    "exHit": "make a commitment",
+    "exVi": "Năm nay tôi muốn cam kết tập thể dục mỗi sáng."
   },
   {
     "word": "clean slate",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a new start by clearing the record",
     "vi": "làm lại từ đầu",
-    "viDef": "khởi sự mới bằng cách xóa hết chuyện cũ"
+    "viDef": "khởi sự mới bằng cách xóa hết chuyện cũ",
+    "ex": "January feels like a clean slate for everyone.",
+    "exHit": "clean slate",
+    "exVi": "Tháng Giêng giống như một khởi đầu mới tinh đối với mọi người."
   },
   {
     "word": "to implement",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to put into effect by means of a definite plan",
     "vi": "triển khai",
-    "viDef": "đưa vào thực hiện theo một kế hoạch rõ ràng"
+    "viDef": "đưa vào thực hiện theo một kế hoạch rõ ràng",
+    "ex": "It's easy to make plans but hard to implement them.",
+    "exHit": "implement",
+    "exVi": "Lập kế hoạch thì dễ nhưng thực hiện chúng thì khó."
   },
   {
     "word": "to reform",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to change for the better",
     "vi": "cải thiện",
-    "viDef": "thay đổi cho tốt hơn"
+    "viDef": "thay đổi cho tốt hơn",
+    "ex": "He promised to reform his bad habits before the new year.",
+    "exHit": "reform",
+    "exVi": "Anh ấy hứa sẽ sửa đổi những thói quen xấu trước năm mới."
   },
   {
     "word": "lifestyle change",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a change in the way a person lives",
     "vi": "thay đổi lối sống",
-    "viDef": "sự đổi khác trong cách một người sống"
+    "viDef": "sự đổi khác trong cách một người sống",
+    "ex": "Quitting smoking is a big lifestyle change for him.",
+    "exHit": "lifestyle change",
+    "exVi": "Bỏ thuốc lá là một thay đổi lớn trong lối sống của anh ấy."
   }
 ]

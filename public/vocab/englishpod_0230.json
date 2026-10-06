@@ -5,7 +5,10 @@
     "type": "",
     "def": "In opposition to what has been stated",
     "vi": "ngược lại thì",
-    "viDef": "trái với điều vừa nói"
+    "viDef": "trái với điều vừa nói",
+    "ex": "On the contrary, I have been reading a lot of books about the subject.",
+    "exHit": "On the contrary",
+    "exVi": "Ngược lại, tôi đã đọc rất nhiều sách về chủ đề này."
   },
   {
     "word": "set up",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to make ready for use",
     "vi": "sắp sẵn",
-    "viDef": "chuẩn bị cho dùng được"
+    "viDef": "chuẩn bị cho dùng được",
+    "ex": "Tell me then, smarty pants, how will you go about setting up your garden?",
+    "exHit": "setting up",
+    "exVi": "Vậy hãy nói tôi nghe, anh giỏi lắm, anh sẽ bố trí khu vườn của mình thế nào?"
   },
   {
     "word": "rake",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a hand implement consisting of a row of teeth",
     "vi": "cái cào",
-    "viDef": "dụng cụ cầm tay có một hàng răng"
+    "viDef": "dụng cụ cầm tay có một hàng răng",
+    "ex": "A rake, shovel, spade and a hoe.",
+    "exHit": "rake",
+    "exVi": "Một cái cào, xẻng, thuổng và cuốc."
   },
   {
     "word": "shovel",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a tool with a long handle used for lifting and thr",
     "vi": "cái xẻng cán dài",
-    "viDef": "dụng cụ cán dài dùng xúc và ném"
+    "viDef": "dụng cụ cán dài dùng xúc và ném",
+    "ex": "A rake, shovel, spade and a hoe.",
+    "exHit": "shovel",
+    "exVi": "Một cái cào, xẻng, thuổng và cuốc."
   },
   {
     "word": "spade",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a tool with a heavy metal blade used for digging",
     "vi": "cái mai xúc",
-    "viDef": "dụng cụ có lưỡi kim loại nặng dùng để đào"
+    "viDef": "dụng cụ có lưỡi kim loại nặng dùng để đào",
+    "ex": "A rake, shovel, spade and a hoe.",
+    "exHit": "spade",
+    "exVi": "Một cái cào, xẻng, thuổng và cuốc."
   },
   {
     "word": "hoe",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a garden tool that has a flat blade on a long hand",
     "vi": "cái cuốc",
-    "viDef": "dụng cụ làm vườn có lưỡi phẳng gắn cán dài"
+    "viDef": "dụng cụ làm vườn có lưỡi phẳng gắn cán dài",
+    "ex": "A rake, shovel, spade and a hoe.",
+    "exHit": "hoe",
+    "exVi": "Một cái cào, xẻng, thuổng và cuốc."
   },
   {
     "word": "base covered",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "have all the things prepared",
     "vi": "lo đủ mọi mặt",
-    "viDef": "đã chuẩn bị hết mọi thứ"
+    "viDef": "đã chuẩn bị hết mọi thứ",
+    "ex": "Well it seems like you have all your bases covered.",
+    "exHit": "bases covered",
+    "exVi": "Chà, có vẻ như anh đã chuẩn bị chu đáo mọi thứ rồi."
   },
   {
     "word": "smarty pants",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a person who tries to show he is so smart",
     "vi": "kẻ tỏ ra thông thái",
-    "viDef": "người hay tỏ vẻ mình giỏi"
+    "viDef": "người hay tỏ vẻ mình giỏi",
+    "ex": "Okay, smarty pants, the square root of two!",
+    "exHit": "smarty pants",
+    "exVi": "Được rồi, bạn thông minh, căn bậc hai của hai thì sao!"
   },
   {
     "word": "till",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "prepare for growing plants",
     "vi": "xới đất",
-    "viDef": "làm đất cho cây trồng"
+    "viDef": "làm đất cho cây trồng",
+    "ex": "I'll till the soil and then sow the seeds.",
+    "exHit": "till",
+    "exVi": "Tôi sẽ xới đất rồi gieo hạt."
   },
   {
     "word": "voila",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "something used when something is being presented",
     "vi": "đây rồi",
-    "viDef": "câu thốt lên khi trình ra thứ gì"
+    "viDef": "câu thốt lên khi trình ra thứ gì",
+    "ex": "I'll then add some fertilizer and voila!",
+    "exHit": "voila",
+    "exVi": "Sau đó tôi sẽ bón thêm phân và thế là xong!"
   },
   {
     "word": "sprinkler",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a device attached to a water hose to spread water",
     "vi": "vòi phun tưới",
-    "viDef": "thiết bị gắn vào ống nước để phun tán ra"
+    "viDef": "thiết bị gắn vào ống nước để phun tán ra",
+    "ex": "The sprinkler turns on every morning and waters the whole front lawn.",
+    "exHit": "sprinkler",
+    "exVi": "Vòi phun nước bật mỗi sáng và tưới cả bãi cỏ phía trước."
   },
   {
     "word": "pruner",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a tool used to remove small branches from trees",
     "vi": "kìm tỉa cành",
-    "viDef": "dụng cụ dùng cắt các nhánh nhỏ trên cây"
+    "viDef": "dụng cụ dùng cắt các nhánh nhỏ trên cây",
+    "ex": "Use the pruner to cut the small branches off the apple tree.",
+    "exHit": "pruner",
+    "exVi": "Hãy dùng kéo tỉa để cắt những cành nhỏ trên cây táo."
   },
   {
     "word": "hedges",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a kind of shrub plant",
     "vi": "bụi rào",
-    "viDef": "loại cây bụi trồng làm hàng"
+    "viDef": "loại cây bụi trồng làm hàng",
+    "ex": "We planted tall hedges around the yard to keep our garden private.",
+    "exHit": "hedges",
+    "exVi": "Chúng tôi trồng hàng rào cây cao quanh sân để khu vườn được riêng tư."
   },
   {
     "word": "garden hose",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "a long tube connected to a facet to disperse water",
     "vi": "ống nước vườn",
-    "viDef": "ống dài nối vào vòi để dẫn nước"
+    "viDef": "ống dài nối vào vòi để dẫn nước",
+    "ex": "Please use the garden hose to water the flowers before it gets hot.",
+    "exHit": "garden hose",
+    "exVi": "Làm ơn dùng vòi tưới vườn để tưới hoa trước khi trời nóng lên."
   },
   {
     "word": "gardener",
@@ -117,6 +159,9 @@
     "type": "",
     "def": "a person who tends to gardens",
     "vi": "người làm vườn",
-    "viDef": "người chăm sóc vườn"
+    "viDef": "người chăm sóc vườn",
+    "ex": "My grandfather has been a gardener for this big hotel for twenty years.",
+    "exHit": "gardener",
+    "exVi": "Ông tôi làm người làm vườn cho khách sạn lớn này đã hai mươi năm."
   }
 ]

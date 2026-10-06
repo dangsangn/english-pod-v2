@@ -5,7 +5,10 @@
     "type": "General Adverb",
     "def": "with out doubt; of course",
     "vi": "chắc chắn rồi",
-    "viDef": "không phải bàn; tất nhiên"
+    "viDef": "không phải bàn; tất nhiên",
+    "ex": "Certainly, may I take your name?",
+    "exHit": "Certainly",
+    "exVi": "Chắc chắn rồi, tôi xin phép hỏi tên của bạn được không?"
   },
   {
     "word": "may I take your name",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "polite way to ask for someone's name",
     "vi": "cho tôi xin tên anh/chị",
-    "viDef": "cách hỏi tên lịch sự"
+    "viDef": "cách hỏi tên lịch sự",
+    "ex": "Certainly, may I take your name?",
+    "exHit": "may I take your name",
+    "exVi": "Chắc chắn rồi, tôi xin phép hỏi tên của bạn được không?"
   },
   {
     "word": "let (someone) know",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "tell someone",
     "vi": "cho ai hay",
-    "viDef": "nói lại cho ai biết"
+    "viDef": "nói lại cho ai biết",
+    "ex": "I'll let her know you've arrived.",
+    "exHit": "let her know",
+    "exVi": "Tôi sẽ báo cho cô ấy biết là bạn đã đến."
   },
   {
     "word": "momentarily",
@@ -29,7 +38,10 @@
     "type": "General Adverb",
     "def": "in a very short time",
     "vi": "trong chốc lát",
-    "viDef": "chỉ một lúc nữa"
+    "viDef": "chỉ một lúc nữa",
+    "ex": "Ms. Stevens will be with you momentarily.",
+    "exHit": "momentarily",
+    "exVi": "Cô Stevens sẽ gặp bạn trong giây lát."
   },
   {
     "word": "be ready for you",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "is prepared to meet with you",
     "vi": "sẵn sàng gặp anh/chị",
-    "viDef": "đã chuẩn bị để tiếp"
+    "viDef": "đã chuẩn bị để tiếp",
+    "ex": "Please wait here, and Mr. Lee will be ready for you soon.",
+    "exHit": "be ready for you",
+    "exVi": "Xin vui lòng đợi ở đây, ông Lee sẽ sớm sẵn sàng tiếp bạn."
   },
   {
     "word": "show (someone) to",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "show a person the way to a place",
     "vi": "dẫn ai tới",
-    "viDef": "chỉ đường cho ai đến một nơi"
+    "viDef": "chỉ đường cho ai đến một nơi",
+    "ex": "I'll show you to her office, right this way.",
+    "exHit": "show you to",
+    "exVi": "Tôi sẽ dẫn bạn đến văn phòng của cô ấy, mời đi lối này."
   },
   {
     "word": "right this way",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "phrase you use to show someone the direction to walk",
     "vi": "mời đi lối này",
-    "viDef": "câu dùng để chỉ hướng đi cho ai"
+    "viDef": "câu dùng để chỉ hướng đi cho ai",
+    "ex": "I'll show you to her office, right this way.",
+    "exHit": "right this way",
+    "exVi": "Tôi sẽ dẫn bạn đến văn phòng của cô ấy, mời đi lối này."
   },
   {
     "word": "administrative assistant",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "secretary",
     "vi": "trợ lý hành chính",
-    "viDef": "thư ký"
+    "viDef": "thư ký",
+    "ex": "She works as an administrative assistant at a law firm.",
+    "exHit": "administrative assistant",
+    "exVi": "Cô ấy làm trợ lý hành chính tại một công ty luật."
   },
   {
     "word": "lobby",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "the waiting area of a building",
     "vi": "tiền sảnh",
-    "viDef": "khu chờ trong tòa nhà"
+    "viDef": "khu chờ trong tòa nhà",
+    "ex": "Please wait in the lobby until someone comes to get you.",
+    "exHit": "lobby",
+    "exVi": "Xin hãy đợi ở sảnh cho đến khi có người đến đón bạn."
   },
   {
     "word": "front desk",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "the desk at the entrance of a building where the receptionist sits",
     "vi": "quầy tiếp tân",
-    "viDef": "bàn ở cửa tòa nhà nơi nhân viên lễ tân ngồi"
+    "viDef": "bàn ở cửa tòa nhà nơi nhân viên lễ tân ngồi",
+    "ex": "Please leave your key at the front desk when you go out.",
+    "exHit": "front desk",
+    "exVi": "Xin hãy để chìa khóa ở quầy lễ tân khi bạn ra ngoài."
   },
   {
     "word": "field calls",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "receive and direct phone calls",
     "vi": "tiếp và chuyển cuộc gọi",
-    "viDef": "nhận rồi nối các cuộc điện thoại"
+    "viDef": "nhận rồi nối các cuộc điện thoại",
+    "ex": "My job is to field calls and answer customers' questions.",
+    "exHit": "field calls",
+    "exVi": "Công việc của tôi là tiếp nhận các cuộc gọi và giải đáp thắc mắc của khách hàng."
   },
   {
     "word": "switchboard",
@@ -93,6 +126,9 @@
     "type": "common noun, singular",
     "def": "a system used to connect phone calls to many different phone lines within a building",
     "vi": "tổng đài",
-    "viDef": "hệ thống nối cuộc gọi tới nhiều đường dây trong tòa nhà"
+    "viDef": "hệ thống nối cuộc gọi tới nhiều đường dây trong tòa nhà",
+    "ex": "The switchboard connects every call to the right office.",
+    "exHit": "switchboard",
+    "exVi": "Tổng đài chuyển mọi cuộc gọi đến đúng văn phòng."
   }
 ]

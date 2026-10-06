@@ -5,7 +5,10 @@
     "type": "",
     "def": "written agreement between two or more people",
     "vi": "hợp đồng",
-    "viDef": "thỏa thuận viết ra giữa hai hay nhiều người"
+    "viDef": "thỏa thuận viết ra giữa hai hay nhiều người",
+    "ex": "Did you hear about the Lawson contract?",
+    "exHit": "contract",
+    "exVi": "Bạn có nghe về hợp đồng Lawson chưa?"
   },
   {
     "word": "fingers crossed",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "hope for luck",
     "vi": "bắt chéo tay cầu may",
-    "viDef": "mong cho được may mắn"
+    "viDef": "mong cho được may mắn",
+    "ex": "And hopefully they are going to confirm the deal on Wednesday, fingers crossed",
+    "exHit": "fingers crossed",
+    "exVi": "Hy vọng là họ sẽ xác nhận thỏa thuận vào thứ Tư, cầu may nhé."
   },
   {
     "word": "deal",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "price",
     "vi": "mức giá thỏa thuận",
-    "viDef": "giá cả"
+    "viDef": "giá cả",
+    "ex": "And hopefully they are going to confirm the deal on Wednesday, fingers crossed",
+    "exHit": "deal",
+    "exVi": "Hy vọng là họ sẽ xác nhận thỏa thuận vào thứ Tư, cầu may nhé."
   },
   {
     "word": "regard",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "good wishes",
     "vi": "lời hỏi thăm",
-    "viDef": "những lời chúc tốt lành"
+    "viDef": "những lời chúc tốt lành",
+    "ex": "Anyway, I must get back, but give my regards to your wife Monica.",
+    "exHit": "regards",
+    "exVi": "Dù sao tôi cũng phải quay lại rồi, nhưng nhớ gửi lời hỏi thăm của tôi đến vợ bạn, Monica nhé."
   },
   {
     "word": "head",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "top boss",
     "vi": "sếp lớn",
-    "viDef": "người đứng đầu"
+    "viDef": "người đứng đầu",
+    "ex": "Well, I was discussing the contract with Bill and he said that they met the head of Lawsons last week.",
+    "exHit": "head",
+    "exVi": "À, tôi đang bàn về hợp đồng với Bill và anh ấy nói họ đã gặp người đứng đầu của Lawsons tuần trước."
   },
   {
     "word": "hopeful",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "full of hope; expressing hope",
     "vi": "đầy hy vọng",
-    "viDef": "tràn hy vọng, tỏ ra trông mong"
+    "viDef": "tràn hy vọng, tỏ ra trông mong",
+    "ex": "She feels hopeful that the interview will go well.",
+    "exHit": "hopeful",
+    "exVi": "Cô ấy cảm thấy tràn đầy hy vọng rằng buổi phỏng vấn sẽ suôn sẻ."
   },
   {
     "word": "executive",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a person or group of persons having administrative or supervisory authority in an organization",
     "vi": "cấp điều hành",
-    "viDef": "người hoặc nhóm người nắm quyền quản lý hoặc giám sát trong một tổ chức"
+    "viDef": "người hoặc nhóm người nắm quyền quản lý hoặc giám sát trong một tổ chức",
+    "ex": "The executive signed the contract at the end of the meeting.",
+    "exHit": "executive",
+    "exVi": "Vị giám đốc điều hành đã ký hợp đồng vào cuối cuộc họp."
   },
   {
     "word": "sincere",
@@ -61,6 +82,9 @@
     "type": "",
     "def": "not hypocritical or deceitful",
     "vi": "chân thành",
-    "viDef": "không giả tạo hay dối trá"
+    "viDef": "không giả tạo hay dối trá",
+    "ex": "He gave a sincere apology and shook my hand.",
+    "exHit": "sincere",
+    "exVi": "Anh ấy đã xin lỗi chân thành và bắt tay tôi."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "very dirty, disordered",
     "vi": "bừa bộn quá thể",
-    "viDef": "rất bẩn và lộn xộn"
+    "viDef": "rất bẩn và lộn xộn",
+    "ex": "Honey, the house is such a mess!",
+    "exHit": "such a mess",
+    "exVi": "Anh yêu, nhà bừa bộn quá!"
   },
   {
     "word": "tidy up",
@@ -13,7 +16,10 @@
     "type": "principle verb, present simple",
     "def": "put things in place, organize",
     "vi": "dọn dẹp",
-    "viDef": "sắp xếp đồ đạc gọn gàng"
+    "viDef": "sắp xếp đồ đạc gọn gàng",
+    "ex": "I need you to help me tidy up a bit.",
+    "exHit": "tidy up",
+    "exVi": "Em cần anh giúp em dọn dẹp một chút."
   },
   {
     "word": "spotless",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "perfectly clean",
     "vi": "sạch bong",
-    "viDef": "sạch hoàn toàn"
+    "viDef": "sạch hoàn toàn",
+    "ex": "My boss and her husband are coming over for dinner and the house needs to be spotless!",
+    "exHit": "spotless",
+    "exVi": "Sếp của em và chồng cô ấy sắp đến ăn tối, nên nhà phải sạch bóng!"
   },
   {
     "word": "in the middle of something",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "busy doing something at the moment",
     "vi": "đang dở tay",
-    "viDef": "đang bận làm việc gì đó"
+    "viDef": "đang bận làm việc gì đó",
+    "ex": "I'm in the middle of something right now.",
+    "exHit": "in the middle of something",
+    "exVi": "Hiện giờ anh đang bận làm dở việc."
   },
   {
     "word": "chores",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "common house tasks",
     "vi": "việc nhà",
-    "viDef": "những công việc thường ngày trong nhà"
+    "viDef": "những công việc thường ngày trong nhà",
+    "ex": "Ok, here's a list of chores we need to get done.",
+    "exHit": "chores",
+    "exVi": "Được rồi, đây là danh sách việc nhà mình cần làm xong."
   },
   {
     "word": "groceries",
@@ -45,7 +60,10 @@
     "type": "common noun, plural",
     "def": "food that you buy at a store",
     "vi": "thực phẩm đi chợ",
-    "viDef": "đồ ăn mua ở cửa hàng"
+    "viDef": "đồ ăn mua ở cửa hàng",
+    "ex": "I'll do the dishes and get all the groceries for tonight.",
+    "exHit": "groceries",
+    "exVi": "Anh sẽ rửa chén và mua hết đồ ăn cho bữa tối nay."
   },
   {
     "word": "spring cleaning",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "careful, thorough house cleaning usually done in the spring/ spring cleaning",
     "vi": "tổng vệ sinh mùa xuân",
-    "viDef": "dọn dẹp nhà kỹ lưỡng, thường làm vào mùa xuân"
+    "viDef": "dọn dẹp nhà kỹ lưỡng, thường làm vào mùa xuân",
+    "ex": "Every March we do spring cleaning and throw out old things.",
+    "exHit": "spring cleaning",
+    "exVi": "Tháng Ba nào chúng tôi cũng tổng vệ sinh nhà và bỏ bớt đồ cũ."
   },
   {
     "word": "immaculate",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "perfectly clean, having no dirt at all",
     "vi": "sạch không tì vết",
-    "viDef": "sạch tuyệt đối, không chút bụi bẩn"
+    "viDef": "sạch tuyệt đối, không chút bụi bẩn",
+    "ex": "After two hours of work, the kitchen was finally immaculate.",
+    "exHit": "immaculate",
+    "exVi": "Sau hai giờ làm việc, cuối cùng căn bếp cũng sạch tinh tươm."
   },
   {
     "word": "do the laundry",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "wash the dirty clothes",
     "vi": "giặt giũ",
-    "viDef": "giặt quần áo bẩn"
+    "viDef": "giặt quần áo bẩn",
+    "ex": "I always do the laundry on Sunday morning before the kids wake up.",
+    "exHit": "do the laundry",
+    "exVi": "Tôi luôn giặt đồ vào sáng Chủ nhật trước khi bọn trẻ thức dậy."
   },
   {
     "word": "dish detergent",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "soap used to wash the plates, knives, forks, bowls, etc.",
     "vi": "nước rửa chén",
-    "viDef": "chất tẩy rửa dùng để rửa đĩa, dao, nĩa, bát"
+    "viDef": "chất tẩy rửa dùng để rửa đĩa, dao, nĩa, bát",
+    "ex": "We're out of dish detergent, so I can't wash the plates.",
+    "exHit": "dish detergent",
+    "exVi": "Hết nước rửa chén rồi nên tôi không rửa bát đĩa được."
   },
   {
     "word": "trash",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "garbage (AmE)",
     "vi": "rác",
-    "viDef": "rác (cách nói Anh-Mỹ)"
+    "viDef": "rác (cách nói Anh-Mỹ)",
+    "ex": "Can you take out the trash before you go to bed?",
+    "exHit": "trash",
+    "exVi": "Trước khi đi ngủ bạn đổ rác giúp được không?"
   },
   {
     "word": "rubbish",
@@ -93,6 +126,9 @@
     "type": "common noun, non-variable",
     "def": "garbage (BrE)",
     "vi": "rác",
-    "viDef": "rác (cách nói Anh-Anh)"
+    "viDef": "rác (cách nói Anh-Anh)",
+    "ex": "There's too much rubbish in the street after the festival.",
+    "exHit": "rubbish",
+    "exVi": "Sau lễ hội, ngoài đường có quá nhiều rác."
   }
 ]

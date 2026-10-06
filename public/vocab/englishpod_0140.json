@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "to be completely unaware of something",
     "vi": "tôi chẳng biết gì",
-    "viDef": "hoàn toàn không hay biết"
+    "viDef": "hoàn toàn không hay biết",
+    "ex": "I have no idea what you are talking about.",
+    "exHit": "I have no idea",
+    "exVi": "Tôi không hiểu bạn đang nói gì cả."
   },
   {
     "word": "freeze",
@@ -13,7 +16,10 @@
     "type": "principle verb, present simple",
     "def": "to suddenly stop functioning",
     "vi": "treo máy",
-    "viDef": "bỗng ngừng hoạt động"
+    "viDef": "bỗng ngừng hoạt động",
+    "ex": "This PC is top of the line and I guarantee it will never freeze!",
+    "exHit": "freeze",
+    "exVi": "Máy tính này là loại hàng đầu và tôi đảm bảo nó sẽ không bao giờ bị treo!"
   },
   {
     "word": "where (something) is going",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "the direction of an event",
     "vi": "chuyện này đi đến đâu",
-    "viDef": "chiều hướng của một việc"
+    "viDef": "chiều hướng của một việc",
+    "ex": "Ok, I know where this is going.",
+    "exHit": "where this is going",
+    "exVi": "Được rồi, tôi biết chuyện này sẽ dẫn đến đâu."
   },
   {
     "word": "ever changing",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "always becoming different",
     "vi": "luôn thay đổi",
-    "viDef": "lúc nào cũng khác đi"
+    "viDef": "lúc nào cũng khác đi",
+    "ex": "Yes, but technology is ever changing and technology is becoming obsolete faster and faster!",
+    "exHit": "ever changing",
+    "exVi": "Đúng, nhưng công nghệ luôn thay đổi và ngày càng nhanh chóng trở nên lỗi thời!"
   },
   {
     "word": "obsolete",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "no longer useful",
     "vi": "lỗi thời",
-    "viDef": "không còn dùng được"
+    "viDef": "không còn dùng được",
+    "ex": "Yes, but technology is ever changing and technology is becoming obsolete faster and faster!",
+    "exHit": "obsolete",
+    "exVi": "Đúng, nhưng công nghệ luôn thay đổi và ngày càng nhanh chóng trở nên lỗi thời!"
   },
   {
     "word": "program",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a computer application",
     "vi": "chương trình",
-    "viDef": "ứng dụng máy tính"
+    "viDef": "ứng dụng máy tính",
+    "ex": "That's why your programs and applications are running slow.",
+    "exHit": "programs",
+    "exVi": "Đó là lý do các chương trình và ứng dụng của bạn chạy chậm."
   },
   {
     "word": "gigabyte",
@@ -53,7 +71,10 @@
     "type": "common noun, plural",
     "def": "unit to measure a computer's storage capacity",
     "vi": "gigabyte",
-    "viDef": "đơn vị đo dung lượng lưu trữ của máy tính"
+    "viDef": "đơn vị đo dung lượng lưu trữ của máy tính",
+    "ex": "It has a four gigahertz processor with sixteen gigabytes in RAM and a hard disk with one terabyte.",
+    "exHit": "gigabytes",
+    "exVi": "Nó có bộ xử lý bốn gigahertz với RAM mười sáu gigabyte và ổ cứng một terabyte."
   },
   {
     "word": "random access memory",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "part of computer that temporarily stores informati",
     "vi": "bộ nhớ RAM",
-    "viDef": "phần máy tính lưu tạm thông tin"
+    "viDef": "phần máy tính lưu tạm thông tin",
+    "ex": "This laptop has eight gigabytes of random access memory.",
+    "exHit": "random access memory",
+    "exVi": "Chiếc laptop này có tám gigabyte bộ nhớ truy cập ngẫu nhiên."
   },
   {
     "word": "hard disk",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "part of computer that stores data",
     "vi": "ổ cứng",
-    "viDef": "phần máy tính chứa dữ liệu"
+    "viDef": "phần máy tính chứa dữ liệu",
+    "ex": "It has a four gigahertz processor with sixteen gigabytes in RAM and a hard disk with one terabyte.",
+    "exHit": "hard disk",
+    "exVi": "Nó có bộ xử lý bốn gigahertz với RAM mười sáu gigabyte và ổ cứng một terabyte."
   },
   {
     "word": "gigahertz",
@@ -77,7 +104,10 @@
     "type": "common noun, non-variable",
     "def": "measurement of computer processor speed",
     "vi": "gigahertz",
-    "viDef": "đơn vị đo tốc độ vi xử lý"
+    "viDef": "đơn vị đo tốc độ vi xử lý",
+    "ex": "It has a four gigahertz processor with sixteen gigabytes in RAM and a hard disk with one terabyte.",
+    "exHit": "gigahertz",
+    "exVi": "Nó có bộ xử lý bốn gigahertz với RAM mười sáu gigabyte và ổ cứng một terabyte."
   },
   {
     "word": "processor",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "device in a computer that manages operations",
     "vi": "vi xử lý",
-    "viDef": "bộ phận điều hành các phép tính trong máy"
+    "viDef": "bộ phận điều hành các phép tính trong máy",
+    "ex": "It has a four gigahertz processor with sixteen gigabytes in RAM and a hard disk with one terabyte.",
+    "exHit": "processor",
+    "exVi": "Nó có bộ xử lý bốn gigahertz với RAM mười sáu gigabyte và ổ cứng một terabyte."
   },
   {
     "word": "crash",
@@ -93,7 +126,10 @@
     "type": "principle verb, present progressive",
     "def": "to suddenly stop functioning",
     "vi": "sập",
-    "viDef": "bỗng ngừng chạy"
+    "viDef": "bỗng ngừng chạy",
+    "ex": "I just want to know if it's good and if I will be able to play solitaire without the computer crashing or freezing all the time!",
+    "exHit": "crashing",
+    "exVi": "Tôi chỉ muốn biết nó có tốt không và liệu tôi có chơi được trò solitaire mà máy tính không bị sập hay treo suốt ngày không!"
   },
   {
     "word": "guarantee",
@@ -101,7 +137,10 @@
     "type": "principle verb, present simple",
     "def": "to make a written promise",
     "vi": "bảo đảm",
-    "viDef": "cam kết bằng văn bản"
+    "viDef": "cam kết bằng văn bản",
+    "ex": "This PC is top of the line and I guarantee it will never freeze!",
+    "exHit": "guarantee",
+    "exVi": "Máy tính này là loại hàng đầu và tôi đảm bảo nó sẽ không bao giờ bị treo!"
   },
   {
     "word": "warranty",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a written promise that a seller will repair a product if a problem arises",
     "vi": "giấy bảo hành",
-    "viDef": "cam kết bằng giấy rằng bên bán sẽ sửa nếu có lỗi"
+    "viDef": "cam kết bằng giấy rằng bên bán sẽ sửa nếu có lỗi",
+    "ex": "The laptop comes with a two-year warranty, so you're safe.",
+    "exHit": "warranty",
+    "exVi": "Chiếc laptop này được bảo hành hai năm nên bạn yên tâm."
   },
   {
     "word": "laptop",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "a portable computer",
     "vi": "máy tính xách tay",
-    "viDef": "máy tính mang đi được"
+    "viDef": "máy tính mang đi được",
+    "ex": "I carry my laptop to the coffee shop every morning.",
+    "exHit": "laptop",
+    "exVi": "Sáng nào tôi cũng mang laptop đến quán cà phê."
   },
   {
     "word": "network",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "a system for communicating between computers",
     "vi": "mạng",
-    "viDef": "hệ thống nối các máy tính với nhau"
+    "viDef": "hệ thống nối các máy tính với nhau",
+    "ex": "The whole network went down, and nobody could send email.",
+    "exHit": "network",
+    "exVi": "Cả mạng bị sập và không ai gửi được email."
   },
   {
     "word": "evolve",
@@ -133,7 +181,10 @@
     "type": "verb",
     "def": "to change into a more advanced state",
     "vi": "tiến hóa",
-    "viDef": "đổi lên trạng thái cao hơn"
+    "viDef": "đổi lên trạng thái cao hơn",
+    "ex": "Computers have evolved so fast in the last ten years.",
+    "exHit": "evolved",
+    "exVi": "Máy tính đã tiến hóa rất nhanh trong mười năm qua."
   },
   {
     "word": "wireless modem",
@@ -141,6 +192,9 @@
     "type": "common noun, singular",
     "def": "a device that allows computers to communicate without wires",
     "vi": "modem không dây",
-    "viDef": "thiết bị cho máy tính liên lạc mà không cần dây"
+    "viDef": "thiết bị cho máy tính liên lạc mà không cần dây",
+    "ex": "Do I need a wireless modem to use the internet in the living room?",
+    "exHit": "wireless modem",
+    "exVi": "Tôi có cần modem không dây để dùng internet trong phòng khách không?"
   }
 ]

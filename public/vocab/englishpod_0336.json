@@ -5,7 +5,10 @@
     "type": "",
     "def": "twelve AM",
     "vi": "nửa đêm",
-    "viDef": "mười hai giờ đêm"
+    "viDef": "mười hai giờ đêm",
+    "ex": "Sure, as long as you don't try to kiss me at midnight!",
+    "exHit": "midnight",
+    "exVi": "Được thôi, miễn là bạn đừng cố hôn tôi lúc nửa đêm!"
   },
   {
     "word": "christmas",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the annual festival of the Christian church commemorating the birth of Jesus",
     "vi": "lễ Giáng sinh",
-    "viDef": "lễ hằng năm của Kitô giáo mừng ngày Chúa Giêsu ra đời"
+    "viDef": "lễ hằng năm của Kitô giáo mừng ngày Chúa Giêsu ra đời",
+    "ex": "I'm too excited for Christmas morning.",
+    "exHit": "Christmas",
+    "exVi": "Tôi háo hức quá cho sáng Giáng sinh."
   },
   {
     "word": "santa",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a figure of Christmas who brings presents to kids",
     "vi": "ông già Noel",
-    "viDef": "nhân vật Giáng sinh mang quà tới cho trẻ con"
+    "viDef": "nhân vật Giáng sinh mang quà tới cho trẻ con",
+    "ex": "How do you know it was Santa?",
+    "exHit": "Santa",
+    "exVi": "Sao bạn biết đó là ông già Noel?"
   },
   {
     "word": "naughty",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "disobedient; mischievous",
     "vi": "nghịch ngợm",
-    "viDef": "không nghe lời, hay quậy"
+    "viDef": "không nghe lời, hay quậy",
+    "ex": "Well I heard that naughty boys and girls get coal in their stockings, so I thought I'd be nice and make Santa cookies.",
+    "exHit": "naughty",
+    "exVi": "Chà, tôi nghe nói bé trai bé gái hư thì nhận than trong tất, nên tôi nghĩ mình sẽ ngoan và làm bánh quy cho ông già Noel."
   },
   {
     "word": "coal",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a black or dark-brown mineral",
     "vi": "than",
-    "viDef": "khoáng chất màu đen hoặc nâu sẫm"
+    "viDef": "khoáng chất màu đen hoặc nâu sẫm",
+    "ex": "Well I heard that naughty boys and girls get coal in their stockings, so I thought I'd be nice and make Santa cookies.",
+    "exHit": "coal",
+    "exVi": "Chà, tôi nghe nói bé trai bé gái hư thì nhận than trong tất, nên tôi nghĩ mình sẽ ngoan và làm bánh quy cho ông già Noel."
   },
   {
     "word": "stocking",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "large sock; traditionally Christmas gifts are put in",
     "vi": "chiếc bít tất lớn",
-    "viDef": "vớ to; theo lệ Giáng sinh quà được nhét vào trong"
+    "viDef": "vớ to; theo lệ Giáng sinh quà được nhét vào trong",
+    "ex": "Well I heard that naughty boys and girls get coal in their stockings, so I thought I'd be nice and make Santa cookies.",
+    "exHit": "stockings",
+    "exVi": "Chà, tôi nghe nói bé trai bé gái hư thì nhận than trong tất, nên tôi nghĩ mình sẽ ngoan và làm bánh quy cho ông già Noel."
   },
   {
     "word": "cookie",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a sweet baked food",
     "vi": "bánh quy",
-    "viDef": "món bánh ngọt được nướng"
+    "viDef": "món bánh ngọt được nướng",
+    "ex": "Don't eat all the cookies - I want some, too!",
+    "exHit": "cookies",
+    "exVi": "Đừng ăn hết bánh quy - tôi cũng muốn ăn!"
   },
   {
     "word": "chimney",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a usually vertical structure that allows the passage of smoke",
     "vi": "ống khói",
-    "viDef": "kết cấu thường dựng đứng cho khói thoát ra"
+    "viDef": "kết cấu thường dựng đứng cho khói thoát ra",
+    "ex": "well I know that Santa won't come down the chimney with you hiding behind the tree, spying on him!",
+    "exHit": "chimney",
+    "exVi": "Chà, tôi biết ông già Noel sẽ không xuống ống khói đâu nếu bạn cứ trốn sau cây thông rình ông ấy!"
   },
   {
     "word": "spying",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to observe secretively",
     "vi": "dòm ngó",
-    "viDef": "quan sát một cách lén lút"
+    "viDef": "quan sát một cách lén lút",
+    "ex": "well I know that Santa won't come down the chimney with you hiding behind the tree, spying on him!",
+    "exHit": "spying",
+    "exVi": "Chà, tôi biết ông già Noel sẽ không xuống ống khói đâu nếu bạn cứ trốn sau cây thông rình ông ấy!"
   },
   {
     "word": "elf",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a creature with magical powers, often mischievous",
     "vi": "yêu tinh nhỏ",
-    "viDef": "sinh vật có phép, thường hay nghịch"
+    "viDef": "sinh vật có phép, thường hay nghịch",
+    "ex": "My little brother dressed up as an elf for Christmas.",
+    "exHit": "elf",
+    "exVi": "Em trai tôi hóa trang thành chú lùn Giáng sinh."
   },
   {
     "word": "reindeer",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a type of large deer",
     "vi": "tuần lộc",
-    "viDef": "một loài hươu lớn"
+    "viDef": "một loài hươu lớn",
+    "ex": "Santa's reindeer fly through the sky on Christmas Eve.",
+    "exHit": "reindeer",
+    "exVi": "Những chú tuần lộc của ông già Noel bay trên bầu trời vào đêm Giáng sinh."
   },
   {
     "word": "angel",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a spiritual being said to be from heaven",
     "vi": "thiên thần",
-    "viDef": "linh thể được cho là đến từ thiên đàng"
+    "viDef": "linh thể được cho là đến từ thiên đàng",
+    "ex": "We put a small angel on top of the tree.",
+    "exHit": "angel",
+    "exVi": "Chúng tôi đặt một thiên thần nhỏ lên đỉnh cây thông."
   },
   {
     "word": "snow",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "ice crystals which fall from the sky",
     "vi": "tuyết",
-    "viDef": "các tinh thể băng rơi từ trời"
+    "viDef": "các tinh thể băng rơi từ trời",
+    "ex": "There was a lot of snow on Christmas morning.",
+    "exHit": "snow",
+    "exVi": "Sáng Giáng sinh có rất nhiều tuyết."
   },
   {
     "word": "sled",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "a small vehicle consisting of a platform mounted on runners for use in traveling over snow or ice.",
     "vi": "xe trượt tuyết",
-    "viDef": "phương tiện nhỏ gồm mặt bệ gắn trên thanh trượt để đi trên tuyết hoặc băng"
+    "viDef": "phương tiện nhỏ gồm mặt bệ gắn trên thanh trượt để đi trên tuyết hoặc băng",
+    "ex": "The kids are riding a sled down the hill.",
+    "exHit": "sled",
+    "exVi": "Bọn trẻ đang trượt xe trượt tuyết xuống đồi."
   }
 ]

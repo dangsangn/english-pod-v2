@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "find or contact someone",
     "vi": "liên lạc được",
-    "viDef": "tìm hoặc bắt liên lạc với ai"
+    "viDef": "tìm hoặc bắt liên lạc với ai",
+    "ex": "I've been trying to get a hold of you for hours!",
+    "exHit": "get a hold of",
+    "exVi": "Mình đã cố liên lạc với bạn suốt mấy tiếng đồng hồ!"
   },
   {
     "word": "decency",
@@ -13,7 +16,10 @@
     "type": "common noun, non-variable",
     "def": "polite or moral behavior",
     "vi": "sự đứng đắn",
-    "viDef": "cách xử sự lịch sự, có đạo lý"
+    "viDef": "cách xử sự lịch sự, có đạo lý",
+    "ex": "And you didn't even have the decency to call me!",
+    "exHit": "decency",
+    "exVi": "Và bạn thậm chí còn không có sự lịch sự để gọi cho mình!"
   },
   {
     "word": "do you have any idea",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "do you know",
     "vi": "anh có biết không",
-    "viDef": "anh/chị có biết hay không"
+    "viDef": "anh/chị có biết hay không",
+    "ex": "Do you have any idea how embarrassed I was?",
+    "exHit": "Do you have any idea",
+    "exVi": "Bạn có biết mình đã xấu hổ thế nào không?"
   },
   {
     "word": "stand (someone) up",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "fail to keep the appointment to meet someone",
     "vi": "cho leo cây",
-    "viDef": "hẹn rồi không đến"
+    "viDef": "hẹn rồi không đến",
+    "ex": "I waited an hour at the café, but he stood me up.",
+    "exHit": "stood me up",
+    "exVi": "Mình đã đợi một tiếng ở quán cà phê nhưng anh ta đã cho mình leo cây."
   },
   {
     "word": "get your priorities straight",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "realize what is more important",
     "vi": "xem lại cái gì quan trọng hơn",
-    "viDef": "nhận ra điều gì cần ưu tiên"
+    "viDef": "nhận ra điều gì cần ưu tiên",
+    "ex": "You need to get your priorities straight.",
+    "exHit": "get your priorities straight",
+    "exVi": "Bạn cần xác định lại đâu là ưu tiên của mình."
   },
   {
     "word": "head",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "go towards a specified direction or place",
     "vi": "đi về hướng",
-    "viDef": "tiến về phía hoặc nơi nào"
+    "viDef": "tiến về phía hoặc nơi nào",
+    "ex": "We need to head to the station before the last train leaves.",
+    "exHit": "head",
+    "exVi": "Chúng ta cần đi về phía nhà ga trước khi chuyến tàu cuối cùng rời đi."
   },
   {
     "word": "break up",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "end a relationship",
     "vi": "chia tay",
-    "viDef": "kết thúc một mối quan hệ"
+    "viDef": "kết thúc một mối quan hệ",
+    "ex": "They decided to break up after dating for two years.",
+    "exHit": "break up",
+    "exVi": "Họ quyết định chia tay sau hai năm hẹn hò."
   },
   {
     "word": "cheat on (someone)",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "kiss or have sex with someone who is not your boyfriend, girlfriend, wife or husband",
     "vi": "ngoại tình",
-    "viDef": "thân mật với người không phải người yêu hay vợ/chồng mình"
+    "viDef": "thân mật với người không phải người yêu hay vợ/chồng mình",
+    "ex": "He promised never to cheat on his girlfriend again.",
+    "exHit": "cheat on",
+    "exVi": "Anh ta hứa sẽ không bao giờ phản bội bạn gái nữa."
   },
   {
     "word": "get back together",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "restart a relationship that ended",
     "vi": "quay lại với nhau",
-    "viDef": "nối lại mối quan hệ đã tan"
+    "viDef": "nối lại mối quan hệ đã tan",
+    "ex": "I heard that Tom and Lisa want to get back together.",
+    "exHit": "get back together",
+    "exVi": "Mình nghe nói Tom và Lisa muốn quay lại với nhau."
   },
   {
     "word": "ex-boyfriend",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "person who used to be your boyfriend",
     "vi": "bạn trai cũ",
-    "viDef": "người từng là bạn trai của mình"
+    "viDef": "người từng là bạn trai của mình",
+    "ex": "I ran into my ex-boyfriend at the supermarket yesterday.",
+    "exHit": "ex-boyfriend",
+    "exVi": "Hôm qua mình tình cờ gặp bạn trai cũ ở siêu thị."
   },
   {
     "word": "ex-girlfriend",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "ex-girlfriend",
     "vi": "bạn gái cũ",
-    "viDef": "người từng là bạn gái của mình"
+    "viDef": "người từng là bạn gái của mình",
+    "ex": "His ex-girlfriend still calls him every weekend, which annoys me.",
+    "exHit": "ex-girlfriend",
+    "exVi": "Bạn gái cũ của anh ấy vẫn gọi cho anh mỗi cuối tuần, điều đó làm mình khó chịu."
   }
 ]

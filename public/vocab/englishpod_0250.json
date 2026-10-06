@@ -5,7 +5,10 @@
     "type": "",
     "def": "a quality that makes someone effective or useful",
     "vi": "điểm mạnh",
-    "viDef": "phẩm chất làm cho một người hiệu quả hoặc hữu dụng"
+    "viDef": "phẩm chất làm cho một người hiệu quả hoặc hữu dụng",
+    "ex": "How would you describe your key strengths?",
+    "exHit": "strengths",
+    "exVi": "Bạn mô tả những điểm mạnh chính của mình thế nào?"
   },
   {
     "word": "focus",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "giving attention and effort to a specific task",
     "vi": "sự tập trung",
-    "viDef": "dồn chú ý và sức lực vào một việc cụ thể"
+    "viDef": "dồn chú ý và sức lực vào một việc cụ thể",
+    "ex": "I'm really focused and hard hard-working.",
+    "exHit": "focused",
+    "exVi": "Tôi thực sự tập trung và chăm chỉ."
   },
   {
     "word": "hard-working",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "worked hard",
     "vi": "chịu khó",
-    "viDef": "đã làm việc rất cần mẫn"
+    "viDef": "đã làm việc rất cần mẫn",
+    "ex": "My boss says I'm very hard-working and reliable.",
+    "exHit": "hard-working",
+    "exVi": "Sếp tôi nói tôi rất chăm chỉ và đáng tin cậy."
   },
   {
     "word": "prove",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "show the truth by some evidence",
     "vi": "chứng minh",
-    "viDef": "cho thấy sự thật bằng chứng cứ"
+    "viDef": "cho thấy sự thật bằng chứng cứ",
+    "ex": "I think my academic results prove this.",
+    "exHit": "prove",
+    "exVi": "Tôi nghĩ kết quả học tập của tôi chứng minh điều đó."
   },
   {
     "word": "team",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "group of people who work together to achieve a com",
     "vi": "nhóm, đội",
-    "viDef": "nhóm người cùng làm để đạt một mục tiêu chung"
+    "viDef": "nhóm người cùng làm để đạt một mục tiêu chung",
+    "ex": "Well I believe I'm a good team-player, but I can also work well independently.",
+    "exHit": "team",
+    "exVi": "Tôi tin mình là người làm việc nhóm tốt, nhưng tôi cũng có thể làm việc độc lập tốt."
   },
   {
     "word": "player",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "person taking part in a sporting event",
     "vi": "người chơi",
-    "viDef": "người tham gia một cuộc thi đấu"
+    "viDef": "người tham gia một cuộc thi đấu",
+    "ex": "Well I believe I'm a good team-player, but I can also work well independently.",
+    "exHit": "player",
+    "exVi": "Tôi tin mình là người làm việc nhóm tốt, nhưng tôi cũng có thể làm việc độc lập tốt."
   },
   {
     "word": "positive",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "good",
     "vi": "tích cực",
-    "viDef": "tốt"
+    "viDef": "tốt",
+    "ex": "What would you say is your most positive quality?",
+    "exHit": "positive",
+    "exVi": "Bạn cho rằng phẩm chất tích cực nhất của mình là gì?"
   },
   {
     "word": "passionate",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "have a lot of interest in or passion for a particu",
     "vi": "đầy nhiệt huyết",
-    "viDef": "có nhiều hứng thú hoặc say mê với một việc"
+    "viDef": "có nhiều hứng thú hoặc say mê với một việc",
+    "ex": "I'm really passionate about journalism and passionate about my career.",
+    "exHit": "passionate",
+    "exVi": "Tôi thực sự đam mê nghề báo và say mê sự nghiệp của mình."
   },
   {
     "word": "passion",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "enthusiasm that one has when doing things",
     "vi": "niềm say mê",
-    "viDef": "sự nhiệt tình khi làm việc gì"
+    "viDef": "sự nhiệt tình khi làm việc gì",
+    "ex": "But I would have to say my passion.",
+    "exHit": "passion",
+    "exVi": "Nhưng tôi phải nói đó là niềm đam mê của tôi."
   },
   {
     "word": "over-confident",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to have too much confidence to a fault",
     "vi": "tự tin quá đà",
-    "viDef": "tự tin nhiều tới mức thành lỗi"
+    "viDef": "tự tin nhiều tới mức thành lỗi",
+    "ex": "He's a bit over-confident, so he never prepares well.",
+    "exHit": "over-confident",
+    "exVi": "Anh ấy hơi tự tin thái quá, nên chẳng bao giờ chuẩn bị kỹ."
   },
   {
     "word": "hobby",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "an activity done for pure enjoyment",
     "vi": "thú vui",
-    "viDef": "hoạt động làm chỉ vì thích"
+    "viDef": "hoạt động làm chỉ vì thích",
+    "ex": "My hobby is photography, and I take pictures every weekend.",
+    "exHit": "hobby",
+    "exVi": "Sở thích của tôi là chụp ảnh, và cuối tuần nào tôi cũng đi chụp."
   },
   {
     "word": "outgoing",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a person who is easy to get a long with",
     "vi": "hòa đồng",
-    "viDef": "người dễ hòa hợp"
+    "viDef": "người dễ hòa hợp",
+    "ex": "My sister is very outgoing and makes friends easily.",
+    "exHit": "outgoing",
+    "exVi": "Em gái tôi rất hướng ngoại và dễ kết bạn."
   },
   {
     "word": "co-workers",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "the people who work with you",
     "vi": "đồng nghiệp",
-    "viDef": "những người làm cùng với mình"
+    "viDef": "những người làm cùng với mình",
+    "ex": "I get along well with all my co-workers.",
+    "exHit": "co-workers",
+    "exVi": "Tôi hòa thuận với tất cả đồng nghiệp của mình."
   },
   {
     "word": "goal oriented",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "a person who actively pursues ways to better themselves",
     "vi": "hướng mục tiêu",
-    "viDef": "người chủ động tìm cách để tự tiến lên"
+    "viDef": "người chủ động tìm cách để tự tiến lên",
+    "ex": "I'm a goal oriented person, so I make a plan every year.",
+    "exHit": "goal oriented",
+    "exVi": "Tôi là người luôn hướng đến mục tiêu, nên năm nào tôi cũng lập kế hoạch."
   }
 ]

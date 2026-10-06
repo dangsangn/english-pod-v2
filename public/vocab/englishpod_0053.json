@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "put butter on something",
     "vi": "phết bơ",
-    "viDef": "quét bơ lên thứ gì"
+    "viDef": "quét bơ lên thứ gì",
+    "ex": "Harry, stop talking and get over here I need this sauce stirred and the fish needs to be butchered and buttered.",
+    "exHit": "buttered",
+    "exVi": "Harry, đừng nói nữa, lại đây, tôi cần nước sốt được khuấy lên, còn cá thì cần được làm sạch và phết bơ."
   },
   {
     "word": "butcher",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "cut meat into pieces taking out bones and organs",
     "vi": "xẻ thịt",
-    "viDef": "cắt thịt thành miếng, lấy xương và nội tạng ra"
+    "viDef": "cắt thịt thành miếng, lấy xương và nội tạng ra",
+    "ex": "Harry, stop talking and get over here I need this sauce stirred and the fish needs to be butchered and buttered.",
+    "exHit": "butchered",
+    "exVi": "Harry, đừng nói nữa, lại đây, tôi cần nước sốt được khuấy lên, còn cá thì cần được làm sạch và phết bơ."
   },
   {
     "word": "Right away",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "quickly, as soon as possible",
     "vi": "ngay lập tức",
-    "viDef": "nhanh, càng sớm càng tốt"
+    "viDef": "nhanh, càng sớm càng tốt",
+    "ex": "Right away sir, your order will be ready shortly.",
+    "exHit": "Right away",
+    "exVi": "Vâng thưa ông, món của ông sẽ sẵn sàng ngay."
   },
   {
     "word": "in the weeds",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "in a difficult situation",
     "vi": "ngập đầu ngập cổ",
-    "viDef": "đang trong tình thế khó"
+    "viDef": "đang trong tình thế khó",
+    "ex": "We're really in the weeds!",
+    "exHit": "in the weeds",
+    "exVi": "Chúng ta đang thật sự rối tung lên!"
   },
   {
     "word": "sous chef",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "chef that helps and assists the head chef",
     "vi": "phó bếp",
-    "viDef": "đầu bếp giúp việc cho bếp trưởng"
+    "viDef": "đầu bếp giúp việc cho bếp trưởng",
+    "ex": "Where is my sous chef?",
+    "exHit": "sous chef",
+    "exVi": "Phụ bếp của tôi đâu rồi?"
   },
   {
     "word": "peel",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "remove the outter skin of a fruit or vegetable",
     "vi": "gọt vỏ",
-    "viDef": "bỏ lớp vỏ ngoài của trái cây hay rau củ"
+    "viDef": "bỏ lớp vỏ ngoài của trái cây hay rau củ",
+    "ex": "I need you to peel more potatoes.",
+    "exHit": "peel",
+    "exVi": "Tôi cần bạn gọt thêm khoai tây."
   },
   {
     "word": "chop",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "cut into small pieces",
     "vi": "băm, chặt",
-    "viDef": "cắt thành miếng nhỏ"
+    "viDef": "cắt thành miếng nhỏ",
+    "ex": "Marie, chop some onions and carrots for the stew.",
+    "exHit": "chop",
+    "exVi": "Marie, hãy thái hành và cà rốt để nấu món hầm."
   },
   {
     "word": "running low on",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "to not have so much, having not enough",
     "vi": "gần hết",
-    "viDef": "còn ít, không còn đủ"
+    "viDef": "còn ít, không còn đủ",
+    "ex": "We're running low on wine.",
+    "exHit": "running low on",
+    "exVi": "Chúng ta sắp hết rượu vang rồi."
   },
   {
     "word": "stir",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "move or mix something; usually with a spoon",
     "vi": "khuấy",
-    "viDef": "trộn hoặc đảo, thường bằng thìa"
+    "viDef": "trộn hoặc đảo, thường bằng thìa",
+    "ex": "Harry, stop talking and get over here I need this sauce stirred and the fish needs to be butchered and buttered.",
+    "exHit": "stirred",
+    "exVi": "Harry, đừng nói nữa, lại đây, tôi cần nước sốt được khuấy lên, còn cá thì cần được làm sạch và phết bơ."
   },
   {
     "word": "bake",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "to cook food at very high and dry heat",
     "vi": "nướng lò",
-    "viDef": "làm chín thức ăn bằng nhiệt khô rất cao"
+    "viDef": "làm chín thức ăn bằng nhiệt khô rất cao",
+    "ex": "I bake bread in the oven every Sunday.",
+    "exHit": "bake",
+    "exVi": "Chủ nhật nào tôi cũng nướng bánh mì trong lò."
   },
   {
     "word": "pan",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a usually shallow and open metal container that has a handle and that is used for cooking or baking",
     "vi": "chảo",
-    "viDef": "đồ kim loại lòng nông, có tay cầm, dùng để nấu hoặc nướng"
+    "viDef": "đồ kim loại lòng nông, có tay cầm, dùng để nấu hoặc nướng",
+    "ex": "Put the fish in a hot pan with some butter.",
+    "exHit": "pan",
+    "exVi": "Cho cá vào chảo nóng với một ít bơ."
   },
   {
     "word": "pot",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a deep, round container that is used for cooking",
     "vi": "nồi",
-    "viDef": "đồ đựng lòng sâu, tròn, dùng để nấu"
+    "viDef": "đồ đựng lòng sâu, tròn, dùng để nấu",
+    "ex": "Put the potatoes in a big pot of water.",
+    "exHit": "pot",
+    "exVi": "Cho khoai tây vào một cái nồi lớn đựng nước."
   },
   {
     "word": "dice",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "to cut something into small cubes",
     "vi": "cắt hạt lựu",
-    "viDef": "cắt thành khối vuông nhỏ"
+    "viDef": "cắt thành khối vuông nhỏ",
+    "ex": "Please dice the tomatoes into small cubes.",
+    "exHit": "dice",
+    "exVi": "Làm ơn thái hạt lựu cà chua thành những khối nhỏ."
   },
   {
     "word": "stove",
@@ -109,6 +148,9 @@
     "type": "common noun, singular",
     "def": "a flat piece of kitchen equipment for cooking with fire",
     "vi": "bếp lò",
-    "viDef": "thiết bị nhà bếp mặt phẳng dùng lửa để nấu"
+    "viDef": "thiết bị nhà bếp mặt phẳng dùng lửa để nấu",
+    "ex": "Turn off the stove before you leave the kitchen.",
+    "exHit": "stove",
+    "exVi": "Hãy tắt bếp trước khi rời khỏi nhà bếp."
   }
 ]

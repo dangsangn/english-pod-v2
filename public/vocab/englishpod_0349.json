@@ -5,7 +5,10 @@
     "type": "",
     "def": "Chinese Medical practice or procedure that treats illness or provides local anesthesia by the insertion of needles at specified sites of the body.",
     "vi": "châm cứu",
-    "viDef": "phép hoặc thủ thuật y học Trung Hoa chữa bệnh hoặc gây tê cục bộ bằng cách châm kim vào các huyệt trên cơ thể"
+    "viDef": "phép hoặc thủ thuật y học Trung Hoa chữa bệnh hoặc gây tê cục bộ bằng cách châm kim vào các huyệt trên cơ thể",
+    "ex": "You should get acupuncture treatment.",
+    "exHit": "acupuncture",
+    "exVi": "Bạn nên đi châm cứu."
   },
   {
     "word": "pressure point",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a point on the skin that is extremely sensitive to pressure because of the presence of pressure-sensing organs.",
     "vi": "huyệt đạo",
-    "viDef": "điểm trên da rất nhạy với lực ấn vì có các cơ quan cảm nhận áp lực"
+    "viDef": "điểm trên da rất nhạy với lực ấn vì có các cơ quan cảm nhận áp lực",
+    "ex": "They don't just randomly stick you, they find your pressure points.",
+    "exHit": "pressure points",
+    "exVi": "Họ không châm bừa đâu, họ tìm đúng các huyệt đạo của bạn."
   },
   {
     "word": "treatment",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "an act or manner of treating.",
     "vi": "liệu trình",
-    "viDef": "một cách hoặc lần chữa trị"
+    "viDef": "một cách hoặc lần chữa trị",
+    "ex": "You should get acupuncture treatment.",
+    "exHit": "treatment",
+    "exVi": "Bạn nên đi châm cứu."
   },
   {
     "word": "needle",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a small, slender, rodlike instrument, usually of polished steel, with a sharp point at one end",
     "vi": "cây kim",
-    "viDef": "dụng cụ nhỏ, mảnh như que, thường bằng thép bóng, một đầu nhọn"
+    "viDef": "dụng cụ nhỏ, mảnh như que, thường bằng thép bóng, một đầu nhọn",
+    "ex": "But I get scared the moment I see a needle.",
+    "exHit": "needle",
+    "exVi": "Nhưng tôi sợ ngay khi nhìn thấy cây kim."
   },
   {
     "word": "cupping",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the process of drawing blood from the body and the application of a cupping glass",
     "vi": "giác hơi",
-    "viDef": "quá trình hút máu ra khỏi cơ thể và việc dùng ống giác"
+    "viDef": "quá trình hút máu ra khỏi cơ thể và việc dùng ống giác",
+    "ex": "However, if you are really scared of acupuncture, scraping or cupping are also options.",
+    "exHit": "cupping",
+    "exVi": "Tuy nhiên, nếu bạn rất sợ châm cứu thì cạo gió hoặc giác hơi cũng là những lựa chọn."
   },
   {
     "word": "flesh",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the soft substance of a human or other animal body, consisting of muscle and fat.",
     "vi": "thịt da",
-    "viDef": "phần mềm của cơ thể người hoặc động vật, gồm cơ và mỡ"
+    "viDef": "phần mềm của cơ thể người hoặc động vật, gồm cơ và mỡ",
+    "ex": "On top of that, just the thought of smoking needles poking into my flesh frightens me.",
+    "exHit": "flesh",
+    "exVi": "Hơn nữa, chỉ nghĩ đến việc những cây kim đâm vào da thịt là tôi đã sợ."
   },
   {
     "word": "painkiller",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a drug, treatment, or anything else that relieves pain",
     "vi": "thuốc giảm đau",
-    "viDef": "thuốc, cách chữa hoặc bất cứ thứ gì làm dịu cơn đau"
+    "viDef": "thuốc, cách chữa hoặc bất cứ thứ gì làm dịu cơn đau",
+    "ex": "These past few days I've been living off painkillers.",
+    "exHit": "painkillers",
+    "exVi": "Mấy ngày nay tôi sống nhờ thuốc giảm đau."
   },
   {
     "word": "meditation",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "devout religious contemplation or spiritual introspection.",
     "vi": "thiền định",
-    "viDef": "sự chiêm niệm sùng kính hoặc soi xét nội tâm"
+    "viDef": "sự chiêm niệm sùng kính hoặc soi xét nội tâm",
+    "ex": "I do meditation every morning to calm my mind.",
+    "exHit": "meditation",
+    "exVi": "Sáng nào tôi cũng ngồi thiền để làm dịu tâm trí."
   },
   {
     "word": "tai chi",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a meditative exercise, characterized by slow circular and stretching movements and positions of bodily balance.",
     "vi": "thái cực quyền",
-    "viDef": "bài tập mang tính thiền, với các động tác xoay tròn chậm rãi, vươn duỗi và những thế giữ thăng bằng"
+    "viDef": "bài tập mang tính thiền, với các động tác xoay tròn chậm rãi, vươn duỗi và những thế giữ thăng bằng",
+    "ex": "My grandfather does tai chi in the park every morning.",
+    "exHit": "tai chi",
+    "exVi": "Ông tôi tập thái cực quyền ở công viên mỗi sáng."
   },
   {
     "word": "herb",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a plant when valued for its medicinal properties",
     "vi": "dược thảo",
-    "viDef": "loài cây được coi trọng vì tính chất chữa bệnh"
+    "viDef": "loài cây được coi trọng vì tính chất chữa bệnh",
+    "ex": "My mother drinks herb tea whenever she has a cold.",
+    "exHit": "herb",
+    "exVi": "Mẹ tôi uống trà thảo dược mỗi khi bị cảm."
   },
   {
     "word": "incense",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "he perfume or smoke arising from a substance when burned",
     "vi": "hương trầm",
-    "viDef": "mùi thơm hoặc làn khói tỏa ra khi đốt một chất"
+    "viDef": "mùi thơm hoặc làn khói tỏa ra khi đốt một chất",
+    "ex": "They burn incense in the room to help you relax.",
+    "exHit": "incense",
+    "exVi": "Họ đốt hương trong phòng để giúp bạn thư giãn."
   }
 ]

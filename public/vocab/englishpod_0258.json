@@ -5,7 +5,10 @@
     "type": "",
     "def": "order requiring one to be indoors at a certain time",
     "vi": "giờ giới nghiêm",
-    "viDef": "lệnh buộc phải có mặt trong nhà vào một giờ nhất định"
+    "viDef": "lệnh buộc phải có mặt trong nhà vào một giờ nhất định",
+    "ex": "It's midnight, you are two hours past curfew.",
+    "exHit": "curfew",
+    "exVi": "Nửa đêm rồi, con đã về trễ giờ giới nghiêm hai tiếng."
   },
   {
     "word": "allowance",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "money given on a regular basis for personal use",
     "vi": "tiền tiêu hằng tuần",
-    "viDef": "tiền cho đều đặn để dùng riêng"
+    "viDef": "tiền cho đều đặn để dùng riêng",
+    "ex": "No allowance and no TV for a week.",
+    "exHit": "allowance",
+    "exVi": "Không có tiền tiêu vặt và không xem TV một tuần."
   },
   {
     "word": "ground",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to restrict one's activities, esp. of a child",
     "vi": "cấm cửa, phạt ở nhà",
-    "viDef": "hạn chế hoạt động của ai, nhất là của trẻ con"
+    "viDef": "hạn chế hoạt động của ai, nhất là của trẻ con",
+    "ex": "I usually never ground you but this time I have to put my foot down!",
+    "exHit": "ground",
+    "exVi": "Bố mẹ hầu như chưa bao giờ phạt con cấm túc, nhưng lần này bố mẹ phải cứng rắn."
   },
   {
     "word": "drop one off",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to unload someone as from a car, ship etc.",
     "vi": "thả xuống",
-    "viDef": "cho ai xuống xe, tàu..."
+    "viDef": "cho ai xuống xe, tàu...",
+    "ex": "Can you drop me off at the corner, please?",
+    "exHit": "drop me off",
+    "exVi": "Bạn thả tôi xuống ở góc phố được không?"
   },
   {
     "word": "furious",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "overly angry or upset",
     "vi": "giận sôi",
-    "viDef": "tức hoặc bực quá đỗi"
+    "viDef": "tức hoặc bực quá đỗi",
+    "ex": "Dad was furious when I came home so late.",
+    "exHit": "furious",
+    "exVi": "Bố đã rất giận dữ khi con về nhà quá muộn."
   },
   {
     "word": "punish",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to be reprimanded",
     "vi": "trừng phạt",
-    "viDef": "bị khiển trách, chịu hình phạt"
+    "viDef": "bị khiển trách, chịu hình phạt",
+    "ex": "I'll punish you if you break the rules again.",
+    "exHit": "punish",
+    "exVi": "Bố mẹ sẽ phạt con nếu con lại phá vỡ quy định."
   },
   {
     "word": "unexcusable",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "have no reason or excuse",
     "vi": "không thể tha",
-    "viDef": "chẳng có lý do hay cớ gì bào chữa"
+    "viDef": "chẳng có lý do hay cớ gì bào chữa",
+    "ex": "Lying to your parents is unexcusable.",
+    "exHit": "unexcusable",
+    "exVi": "Nói dối bố mẹ là điều không thể bào chữa được."
   },
   {
     "word": "unreliable",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a person who cannot be trusted to do something",
     "vi": "không đáng tin",
-    "viDef": "người không thể tin sẽ làm việc gì"
+    "viDef": "người không thể tin sẽ làm việc gì",
+    "ex": "You've been unreliable lately, and I can't trust you.",
+    "exHit": "unreliable",
+    "exVi": "Dạo này con không đáng tin, và bố mẹ không thể tin con."
   },
   {
     "word": "dissappointed",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "to be angry or sad when an expectation is not met",
     "vi": "thất vọng",
-    "viDef": "tức hoặc buồn khi điều mong đợi không thành"
+    "viDef": "tức hoặc buồn khi điều mong đợi không thành",
+    "ex": "I'm so dissappointed in you right now.",
+    "exHit": "dissappointed",
+    "exVi": "Bây giờ bố mẹ rất thất vọng về con."
   }
 ]

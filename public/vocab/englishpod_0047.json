@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "make a person do something because it is the right thing to do",
     "vi": "buộc phải làm",
-    "viDef": "khiến ai làm việc gì vì đó là điều đúng"
+    "viDef": "khiến ai làm việc gì vì đó là điều đúng",
+    "ex": "As I'm sure you're all aware, with the credit crunch, and the global financial crisis, we're obligated to look for more cost efficient ways of producing our goods.",
+    "exHit": "obligated",
+    "exVi": "Như tôi chắc mọi người đều biết, vì khủng hoảng tín dụng và khủng hoảng tài chính toàn cầu, chúng ta buộc phải tìm cách sản xuất hàng hóa tiết kiệm chi phí hơn."
   },
   {
     "word": "cost efficient",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "cheap, not expensive",
     "vi": "tiết kiệm chi phí",
-    "viDef": "rẻ, không tốn kém"
+    "viDef": "rẻ, không tốn kém",
+    "ex": "As I'm sure you're all aware, with the credit crunch, and the global financial crisis, we're obligated to look for more cost efficient ways of producing our goods.",
+    "exHit": "cost efficient",
+    "exVi": "Như tôi chắc mọi người đều biết, vì khủng hoảng tín dụng và khủng hoảng tài chính toàn cầu, chúng ta buộc phải tìm cách sản xuất hàng hóa tiết kiệm chi phí hơn."
   },
   {
     "word": "redundancy",
@@ -21,7 +27,10 @@
     "type": "common noun, plural",
     "def": "layoff, the ending of workers' employment",
     "vi": "sự cắt giảm nhân sự",
-    "viDef": "việc cho thôi việc, chấm dứt hợp đồng lao động"
+    "viDef": "việc cho thôi việc, chấm dứt hợp đồng lao động",
+    "ex": "We don't want to have to be looking at redundancies.",
+    "exHit": "redundancies",
+    "exVi": "Chúng tôi không muốn phải tính đến chuyện cắt giảm nhân sự."
   },
   {
     "word": "implement",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "put a plan into action",
     "vi": "triển khai",
-    "viDef": "đưa kế hoạch vào thực hiện"
+    "viDef": "đưa kế hoạch vào thực hiện",
+    "ex": "So, we've outlined a brief plan to implement the just-in-time philosophy.",
+    "exHit": "implement",
+    "exVi": "Vậy nên chúng tôi đã phác thảo một kế hoạch ngắn gọn để áp dụng triết lý sản xuất đúng lúc."
   },
   {
     "word": "lead time",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "the time between the beginning of a process and its end",
     "vi": "thời gian hoàn thành",
-    "viDef": "khoảng thời gian từ lúc bắt đầu đến khi xong một quy trình"
+    "viDef": "khoảng thời gian từ lúc bắt đầu đến khi xong một quy trình",
+    "ex": "First of all, we want to reduce our lead time.",
+    "exHit": "lead time",
+    "exVi": "Trước hết, chúng tôi muốn rút ngắn thời gian chờ sản xuất."
   },
   {
     "word": "efficiency",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "the ability to produce something more quickly",
     "vi": "hiệu suất",
-    "viDef": "khả năng làm ra sản phẩm nhanh hơn"
+    "viDef": "khả năng làm ra sản phẩm nhanh hơn",
+    "ex": "Well, we want to reduce production and delivery lead times for better overall efficiency.",
+    "exHit": "efficiency",
+    "exVi": "Chúng tôi muốn giảm thời gian sản xuất và giao hàng để nâng cao hiệu quả chung."
   },
   {
     "word": "work station",
@@ -53,7 +71,10 @@
     "type": "common noun, plural",
     "def": "an area where a person works and does his job",
     "vi": "vị trí làm việc",
-    "viDef": "khu vực một người ngồi làm việc"
+    "viDef": "khu vực một người ngồi làm việc",
+    "ex": "Right, production lead times can be reduced by moving work stations closer together, reducing queue length, like for example, reducing the number of jobs waiting to be processed at a given machine, and improving the coordination and cooperation between successive processes.",
+    "exHit": "work stations",
+    "exVi": "Đúng vậy, thời gian sản xuất có thể được rút ngắn bằng cách dời các trạm làm việc lại gần nhau hơn, giảm độ dài hàng chờ, chẳng hạn giảm số công việc đang chờ xử lý ở một máy nhất định, và cải thiện sự phối hợp giữa các công đoạn kế tiếp."
   },
   {
     "word": "given",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "used to refer to a specific time, place or thing",
     "vi": "nhất định, cụ thể",
-    "viDef": "chỉ một thời điểm, nơi hoặc vật cụ thể"
+    "viDef": "chỉ một thời điểm, nơi hoặc vật cụ thể",
+    "ex": "Right, production lead times can be reduced by moving work stations closer together, reducing queue length, like for example, reducing the number of jobs waiting to be processed at a given machine, and improving the coordination and cooperation between successive processes.",
+    "exHit": "given",
+    "exVi": "Đúng vậy, thời gian sản xuất có thể được rút ngắn bằng cách dời các trạm làm việc lại gần nhau hơn, giảm độ dài hàng chờ, chẳng hạn giảm số công việc đang chờ xử lý ở một máy nhất định, và cải thiện sự phối hợp giữa các công đoạn kế tiếp."
   },
   {
     "word": "defective",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "having a mistake or error that makes something not perfect",
     "vi": "bị lỗi",
-    "viDef": "có sai sót khiến sản phẩm không hoàn hảo"
+    "viDef": "có sai sót khiến sản phẩm không hoàn hảo",
+    "ex": "We currently have far too many errors that lead to defective items and therefore, they must be eliminated.",
+    "exHit": "defective",
+    "exVi": "Hiện chúng ta có quá nhiều lỗi dẫn đến sản phẩm lỗi, vì vậy phải loại bỏ chúng."
   },
   {
     "word": "defect",
@@ -77,7 +104,10 @@
     "type": "common noun, plural",
     "def": "a mistake or error that makes something not perfect",
     "vi": "khuyết điểm, lỗi",
-    "viDef": "sai sót làm cho thứ gì không hoàn hảo"
+    "viDef": "sai sót làm cho thứ gì không hoàn hảo",
+    "ex": "The factory found a defect in the engine before shipping it.",
+    "exHit": "defect",
+    "exVi": "Nhà máy phát hiện một lỗi ở động cơ trước khi xuất hàng."
   },
   {
     "word": "inventory",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "supply of goods stored in a place",
     "vi": "hàng tồn kho",
-    "viDef": "lượng hàng đang trữ ở một nơi"
+    "viDef": "lượng hàng đang trữ ở một nơi",
+    "ex": "We count our inventory at the end of every month.",
+    "exHit": "inventory",
+    "exVi": "Cuối tháng nào chúng tôi cũng kiểm kê hàng tồn kho."
   },
   {
     "word": "carrying cost",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "the cost of holding inventory",
     "vi": "chi phí lưu kho",
-    "viDef": "khoản tốn để giữ hàng tồn"
+    "viDef": "khoản tốn để giữ hàng tồn",
+    "ex": "A big warehouse has a high carrying cost for unsold goods.",
+    "exHit": "carrying cost",
+    "exVi": "Một nhà kho lớn có chi phí lưu kho cao đối với hàng chưa bán được."
   },
   {
     "word": "warehouse",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "large building where products or goods are stored",
     "vi": "nhà kho",
-    "viDef": "tòa nhà lớn để chứa hàng"
+    "viDef": "tòa nhà lớn để chứa hàng",
+    "ex": "All the new products are stored in the warehouse downtown.",
+    "exHit": "warehouse",
+    "exVi": "Tất cả sản phẩm mới được cất trong nhà kho ở trung tâm thành phố."
   },
   {
     "word": "stock",
@@ -109,7 +148,10 @@
     "type": "common noun, non-variable",
     "def": "the supply of goods for sale, or available",
     "vi": "lượng hàng có sẵn",
-    "viDef": "số hàng đang có để bán"
+    "viDef": "số hàng đang có để bán",
+    "ex": "That shop has plenty of stock, so you can buy it today.",
+    "exHit": "stock",
+    "exVi": "Cửa hàng đó có nhiều hàng sẵn, nên hôm nay bạn mua được luôn."
   },
   {
     "word": "bottleneck",
@@ -117,6 +159,9 @@
     "type": "common noun, singular",
     "def": "something that slows a process down",
     "vi": "điểm nghẽn",
-    "viDef": "chỗ làm cả quy trình chậm lại"
+    "viDef": "chỗ làm cả quy trình chậm lại",
+    "ex": "The old machine is the bottleneck that slows down the whole line.",
+    "exHit": "bottleneck",
+    "exVi": "Cái máy cũ là điểm nghẽn làm chậm cả dây chuyền."
   }
 ]

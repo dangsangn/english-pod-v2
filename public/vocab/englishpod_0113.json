@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "blocked so you can't move forward",
     "vi": "ùn tắc",
-    "viDef": "bị nghẽn nên không nhích lên được"
+    "viDef": "bị nghẽn nên không nhích lên được",
+    "ex": "There was a huge pileup on the highway and traffic was backed up for miles.",
+    "exHit": "backed up",
+    "exVi": "Có một vụ tai nạn liên hoàn lớn trên đường cao tốc và giao thông bị ùn tắc hàng dặm."
   },
   {
     "word": "get tied up",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "became busy; unable to leave",
     "vi": "bị vướng việc",
-    "viDef": "bận nên chưa đi được"
+    "viDef": "bận nên chưa đi được",
+    "ex": "Sorry, I got tied up at work and could not leave.",
+    "exHit": "got tied up",
+    "exVi": "Xin lỗi, tôi bận việc ở công ty nên không đi được."
   },
   {
     "word": "running late",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "going to be late",
     "vi": "sắp trễ rồi",
-    "viDef": "sẽ đến muộn"
+    "viDef": "sẽ đến muộn",
+    "ex": "Scott just called and said that he's running late.",
+    "exHit": "running late",
+    "exVi": "Scott vừa gọi và nói anh ấy sẽ đến muộn."
   },
   {
     "word": "run over",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "to go beyond a limit",
     "vi": "quá giờ",
-    "viDef": "vượt qua mức giới hạn"
+    "viDef": "vượt qua mức giới hạn",
+    "ex": "The meeting ran over, so I'll be late.",
+    "exHit": "ran over",
+    "exVi": "Cuộc họp kéo dài quá giờ nên tôi sẽ đến muộn."
   },
   {
     "word": "stuck in traffic",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "so may cars on the road that you can not drive or move forward",
     "vi": "mắc kẹt xe",
-    "viDef": "đường quá nhiều xe nên không nhích được"
+    "viDef": "đường quá nhiều xe nên không nhích được",
+    "ex": "Were you stuck in traffic as well, Jess?",
+    "exHit": "stuck in traffic",
+    "exVi": "Bạn cũng bị kẹt xe à, Jess?"
   },
   {
     "word": "in a sec",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "soon",
     "vi": "một giây thôi",
-    "viDef": "sắp, ngay bây giờ"
+    "viDef": "sắp, ngay bây giờ",
+    "ex": "Jo called and said she'd be here in a sec.",
+    "exHit": "in a sec",
+    "exVi": "Jo vừa gọi và nói cô ấy sẽ đến ngay thôi."
   },
   {
     "word": "huge",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "very big",
     "vi": "bự tổ chảng",
-    "viDef": "rất to"
+    "viDef": "rất to",
+    "ex": "There was a huge traffic jam on the highway this morning.",
+    "exHit": "huge",
+    "exVi": "Sáng nay có một vụ tắc đường rất lớn trên đường cao tốc."
   },
   {
     "word": "traffic jam",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a lot of cars stopped from moving",
     "vi": "tắc đường",
-    "viDef": "nhiều xe đứng lại không di chuyển"
+    "viDef": "nhiều xe đứng lại không di chuyển",
+    "ex": "There was a huge traffic jam on the highway this morning.",
+    "exHit": "traffic jam",
+    "exVi": "Sáng nay có một vụ tắc đường rất lớn trên đường cao tốc."
   },
   {
     "word": "pileup",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "an accident where many cars crash into each other",
     "vi": "vụ đâm liên hoàn",
-    "viDef": "tai nạn nhiều xe húc vào nhau"
+    "viDef": "tai nạn nhiều xe húc vào nhau",
+    "ex": "There was a huge pileup on the highway and traffic was backed up for miles.",
+    "exHit": "pileup",
+    "exVi": "Có một vụ tai nạn liên hoàn lớn trên đường cao tốc và giao thông bị ùn tắc hàng dặm."
   },
   {
     "word": "punctual",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "the quality of always being on time",
     "vi": "đúng giờ",
-    "viDef": "luôn có mặt kịp giờ"
+    "viDef": "luôn có mặt kịp giờ",
+    "ex": "Please be punctual, because the meeting starts at nine.",
+    "exHit": "punctual",
+    "exVi": "Làm ơn đúng giờ nhé, vì cuộc họp bắt đầu lúc chín giờ."
   },
   {
     "word": "behind schedule",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "later than planed; late",
     "vi": "chậm lịch",
-    "viDef": "muộn hơn dự kiến"
+    "viDef": "muộn hơn dự kiến",
+    "ex": "The bus is behind schedule because of the traffic.",
+    "exHit": "behind schedule",
+    "exVi": "Xe buýt bị trễ so với lịch vì kẹt xe."
   },
   {
     "word": "sleep in",
@@ -93,7 +126,10 @@
     "type": "verb",
     "def": "sleep later than planned",
     "vi": "ngủ nướng",
-    "viDef": "ngủ quá giờ đã định"
+    "viDef": "ngủ quá giờ đã định",
+    "ex": "I slept in this morning and missed my usual bus.",
+    "exHit": "slept in",
+    "exVi": "Sáng nay tôi ngủ nướng và lỡ chuyến xe buýt thường đi."
   },
   {
     "word": "tardiness",
@@ -101,7 +137,10 @@
     "type": "Adjective",
     "def": "the quality of often being late",
     "vi": "tính hay trễ",
-    "viDef": "thói thường xuyên đến muộn"
+    "viDef": "thói thường xuyên đến muộn",
+    "ex": "His constant tardiness made the boss very angry.",
+    "exHit": "tardiness",
+    "exVi": "Việc anh ta liên tục đi trễ khiến sếp rất tức giận."
   },
   {
     "word": "hustle",
@@ -109,6 +148,9 @@
     "type": "verb",
     "def": "move very quickly",
     "vi": "nhanh chân lên",
-    "viDef": "di chuyển thật nhanh"
+    "viDef": "di chuyển thật nhanh",
+    "ex": "We have to hustle if we want to catch the train.",
+    "exHit": "hustle",
+    "exVi": "Chúng ta phải nhanh chân nếu muốn kịp chuyến tàu."
   }
 ]

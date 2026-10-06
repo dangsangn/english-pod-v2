@@ -5,7 +5,10 @@
     "type": "",
     "def": "a container used to give its shape to something",
     "vi": "cái khuôn",
-    "viDef": "vật đựng dùng tạo hình cho thứ khác"
+    "viDef": "vật đựng dùng tạo hình cho thứ khác",
+    "ex": "Make large colorful gems for you and your friends with five special molds!",
+    "exHit": "molds",
+    "exVi": "Hãy làm những viên đá quý to nhiều màu cho bạn và bạn bè bằng năm khuôn đặc biệt!"
   },
   {
     "word": "collectible",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "considered valuable by collectors",
     "vi": "món đáng sưu tầm",
-    "viDef": "được người sưu tập coi là có giá"
+    "viDef": "được người sưu tập coi là có giá",
+    "ex": "Collect all four of these special-edition collectible X-Men action figures and decide the future of mutants in our world!",
+    "exHit": "collectible",
+    "exVi": "Hãy sưu tầm cả bốn mô hình nhân vật X-Men phiên bản đặc biệt có giá trị sưu tầm này và quyết định tương lai của người đột biến trong thế giới của chúng ta!"
   },
   {
     "word": "action figure",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a posable plastic figurine of a character",
     "vi": "mô hình nhân vật",
-    "viDef": "tượng nhựa nhân vật có thể tạo dáng được"
+    "viDef": "tượng nhựa nhân vật có thể tạo dáng được",
+    "ex": "Collect all four of these special-edition collectible X-Men action figures and decide the future of mutants in our world!",
+    "exHit": "action figures",
+    "exVi": "Hãy sưu tầm cả bốn mô hình nhân vật X-Men phiên bản đặc biệt có giá trị sưu tầm này và quyết định tương lai của người đột biến trong thế giới của chúng ta!"
   },
   {
     "word": "Yoyo",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a kind of toy",
     "vi": "con yoyo",
-    "viDef": "một loại đồ chơi"
+    "viDef": "một loại đồ chơi",
+    "ex": "Now you can take Spongebob Squarepants wherever you go with the new Spongebob Squarepants Glow-in-the-Dark Yoyo!",
+    "exHit": "Yoyo",
+    "exVi": "Giờ bạn có thể mang SpongeBob SquarePants đi khắp nơi với chiếc yo-yo phát sáng trong bóng tối SpongeBob SquarePants mới!"
   },
   {
     "word": "Spongebob Squarepants",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "an animated television series",
     "vi": "Bob Bọt Biển",
-    "viDef": "một bộ phim hoạt hình dài kỳ"
+    "viDef": "một bộ phim hoạt hình dài kỳ",
+    "ex": "Spongebob Squarepants will be right back after these brief messages!",
+    "exHit": "Spongebob Squarepants",
+    "exVi": "SpongeBob SquarePants sẽ trở lại ngay sau các thông điệp ngắn này!"
   },
   {
     "word": "Pirates Lego set",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a toy set of Lego",
     "vi": "bộ Lego cướp biển",
-    "viDef": "một bộ đồ chơi xếp hình Lego"
+    "viDef": "một bộ đồ chơi xếp hình Lego",
+    "ex": "Raid villages and find buried treasure with this new Pirates Lego set.",
+    "exHit": "Pirates Lego set",
+    "exVi": "Hãy cướp phá các ngôi làng và tìm kho báu chôn giấu với bộ Lego Cướp biển mới này."
   },
   {
     "word": "set",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a group of similar things that belong together",
     "vi": "bộ",
-    "viDef": "nhóm những thứ tương tự đi cùng nhau"
+    "viDef": "nhóm những thứ tương tự đi cùng nhau",
+    "ex": "Raid villages and find buried treasure with this new Pirates Lego set.",
+    "exHit": "set",
+    "exVi": "Hãy cướp phá các ngôi làng và tìm kho báu chôn giấu với bộ Lego Cướp biển mới này."
   },
   {
     "word": "X-Men",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a fictional superhero team",
     "vi": "nhóm X-Men",
-    "viDef": "đội siêu anh hùng trong truyện tranh"
+    "viDef": "đội siêu anh hùng trong truyện tranh",
+    "ex": "My little brother has all the X-Men movies and he watches them every weekend.",
+    "exHit": "X-Men",
+    "exVi": "Em trai tôi có tất cả phim X-Men và cuối tuần nào cũng xem."
   },
   {
     "word": "PLAY-DOH",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a modeling compound used by children",
     "vi": "đất sét nặn PLAY-DOH",
-    "viDef": "chất dẻo để trẻ con nặn hình"
+    "viDef": "chất dẻo để trẻ con nặn hình",
+    "ex": "The kids made little animals out of PLAY-DOH on the kitchen table.",
+    "exHit": "PLAY-DOH",
+    "exVi": "Bọn trẻ nặn những con vật nhỏ bằng đất nặn PLAY-DOH trên bàn bếp."
   },
   {
     "word": "Treasure chest",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a chest filled with valuables",
     "vi": "hòm châu báu",
-    "viDef": "chiếc hòm đầy của quý"
+    "viDef": "chiếc hòm đầy của quý",
+    "ex": "Treasure chest sold separately.",
+    "exHit": "Treasure chest",
+    "exVi": "Hộp kho báu được bán riêng."
   },
   {
     "word": "jigsaw puzzle",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "irregularly cut pieces that form a picture when fitted together",
     "vi": "tranh xếp hình",
-    "viDef": "các mảnh cắt lô nhô, ghép lại thành một bức tranh"
+    "viDef": "các mảnh cắt lô nhô, ghép lại thành một bức tranh",
+    "ex": "We worked on a thousand-piece jigsaw puzzle all afternoon.",
+    "exHit": "jigsaw puzzle",
+    "exVi": "Chúng tôi xếp một bức tranh ghép nghìn mảnh suốt buổi chiều."
   },
   {
     "word": "plush toy",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "toy sewn from fabric stuffed with a material such as cotton",
     "vi": "thú nhồi bông",
-    "viDef": "đồ chơi may bằng vải, nhồi bông hoặc chất tương tự"
+    "viDef": "đồ chơi may bằng vải, nhồi bông hoặc chất tương tự",
+    "ex": "My daughter sleeps with her favorite plush toy every night.",
+    "exHit": "plush toy",
+    "exVi": "Con gái tôi đêm nào cũng ngủ với con thú nhồi bông yêu thích."
   },
   {
     "word": "skipping rope / jump rope",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "rope with handles on each end swung around while someone jumps over it",
     "vi": "dây nhảy",
-    "viDef": "dây có tay cầm hai đầu, quay vòng cho người nhảy qua"
+    "viDef": "dây có tay cầm hai đầu, quay vòng cho người nhảy qua",
+    "ex": "The girls took turns jumping over the jump rope in the playground.",
+    "exHit": "jump rope",
+    "exVi": "Các cô bé thay phiên nhau nhảy qua sợi dây nhảy ở sân chơi."
   },
   {
     "word": "building blocks",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "set of cube-shaped blocks used by children to make simple constructions",
     "vi": "khối xếp hình",
-    "viDef": "bộ khối vuông cho trẻ con xếp thành công trình đơn giản"
+    "viDef": "bộ khối vuông cho trẻ con xếp thành công trình đơn giản",
+    "ex": "The toddler stacked the building blocks into a tall tower.",
+    "exHit": "building blocks",
+    "exVi": "Đứa bé chập chững xếp những khối xếp hình thành một cái tháp cao."
   },
   {
     "word": "train set",
@@ -117,6 +159,9 @@
     "type": "",
     "def": "toy consisting of small models of railroad trains and the track for them to run on",
     "vi": "bộ xe lửa mô hình",
-    "viDef": "đồ chơi gồm các đầu tàu, toa nhỏ và đường ray để chạy"
+    "viDef": "đồ chơi gồm các đầu tàu, toa nhỏ và đường ray để chạy",
+    "ex": "For his birthday, Dad bought him a train set with a long track.",
+    "exHit": "train set",
+    "exVi": "Vào sinh nhật, bố mua cho cậu bé một bộ tàu hỏa đồ chơi có đường ray dài."
   }
 ]

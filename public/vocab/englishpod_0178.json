@@ -5,7 +5,10 @@
     "type": "",
     "def": "examine the shop windows",
     "vi": "ngắm cửa kính",
-    "viDef": "xem hàng bày trong tủ kính"
+    "viDef": "xem hàng bày trong tủ kính",
+    "ex": "Let's go to the mall and window shop a little.",
+    "exHit": "window shop",
+    "exVi": "Mình đến trung tâm thương mại ngắm đồ qua cửa kính một chút nhé."
   },
   {
     "word": "on top of",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "in addition to something else",
     "vi": "bên cạnh đó",
-    "viDef": "thêm vào điều khác"
+    "viDef": "thêm vào điều khác",
+    "ex": "On top of that, I think that you should get your mom something that shows how much you love her.",
+    "exHit": "On top of",
+    "exVi": "Hơn nữa, tớ nghĩ cậu nên tặng mẹ thứ gì đó thể hiện cậu yêu mẹ nhiều thế nào."
   },
   {
     "word": "When it comes down to it",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "when I look at what the whole situation amounts to",
     "vi": "xét cho cùng",
-    "viDef": "khi nhìn vào bản chất của cả tình hình"
+    "viDef": "khi nhìn vào bản chất của cả tình hình",
+    "ex": "When it comes down to it, I can be pretty tacky.",
+    "exHit": "When it comes down to it",
+    "exVi": "Xét cho cùng, tôi cũng có thể khá là sến."
   },
   {
     "word": "tacky",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "looking cheap, having bad taste",
     "vi": "rẻ tiền, kém gu",
-    "viDef": "trông rẻ, không có thẩm mỹ"
+    "viDef": "trông rẻ, không có thẩm mỹ",
+    "ex": "When it comes down to it, I can be pretty tacky.",
+    "exHit": "tacky",
+    "exVi": "Xét cho cùng, tôi cũng có thể khá là sến."
   },
   {
     "word": "tell me about it",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "I agree; I understand",
     "vi": "nói làm gì nữa",
-    "viDef": "tôi hiểu, tôi cũng thấy vậy"
+    "viDef": "tôi hiểu, tôi cũng thấy vậy",
+    "ex": "Yeah tell me about it.",
+    "exHit": "tell me about it",
+    "exVi": "Ừ, ai nói không phải chứ."
   },
   {
     "word": "voucher",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a form or check indicating a credit against future purchases or expenditures",
     "vi": "phiếu mua hàng",
-    "viDef": "tờ phiếu hoặc giấy ghi khoản tín dụng cho lần mua sau"
+    "viDef": "tờ phiếu hoặc giấy ghi khoản tín dụng cho lần mua sau",
+    "ex": "I got a voucher for fifty dollars from the store.",
+    "exHit": "voucher",
+    "exVi": "Tôi nhận được một phiếu mua hàng năm mươi đô từ cửa hàng."
   },
   {
     "word": "shop till you drop",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to shop until one is exhausted",
     "vi": "mua sắm tới rã người",
-    "viDef": "đi mua cho tới lúc kiệt sức"
+    "viDef": "đi mua cho tới lúc kiệt sức",
+    "ex": "Every December, my sister and I shop till we drop.",
+    "exHit": "shop till we drop",
+    "exVi": "Mỗi tháng Mười Hai, chị tôi và tôi đều mua sắm đến kiệt sức."
   },
   {
     "word": "gift card",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a plastic card with a certain amount of money on it used to make purchases at select stores or restaurants",
     "vi": "thẻ quà tặng",
-    "viDef": "thẻ nhựa có sẵn một khoản tiền để mua ở một số cửa hàng hoặc quán ăn"
+    "viDef": "thẻ nhựa có sẵn một khoản tiền để mua ở một số cửa hàng hoặc quán ăn",
+    "ex": "I'm not sure what to buy, so I'll get her a gift card.",
+    "exHit": "gift card",
+    "exVi": "Tôi không biết nên mua gì nên sẽ tặng cô ấy thẻ quà tặng."
   },
   {
     "word": "last-minute shopping",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "shopping done just before the deadline",
     "vi": "mua sắm phút chót",
-    "viDef": "việc đi mua ngay trước hạn cuối"
+    "viDef": "việc đi mua ngay trước hạn cuối",
+    "ex": "I'm doing my last-minute shopping on Christmas Eve again.",
+    "exHit": "last-minute shopping",
+    "exVi": "Tôi lại đi mua sắm vào phút chót vào đêm Giáng sinh rồi."
   },
   {
     "word": "wrack your brain",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "to think really hard for ideas until it feels like you have put your brain through the torture of \"the rack\"",
     "vi": "vắt óc suy nghĩ",
-    "viDef": "nghĩ đến nhức đầu để ra ý"
+    "viDef": "nghĩ đến nhức đầu để ra ý",
+    "ex": "I had to wrack my brain to think of a gift for Dad.",
+    "exHit": "wrack my brain",
+    "exVi": "Tôi phải vắt óc nghĩ ra món quà cho bố."
   }
 ]

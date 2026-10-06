@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "give good wishes to something or someone",
     "vi": "chúc phúc",
-    "viDef": "ban lời cầu tốt lành cho ai hoặc điều gì"
+    "viDef": "ban lời cầu tốt lành cho ai hoặc điều gì",
+    "ex": "May this ring be blessed so he who gives it and she who wears it may abide in peace, and continue in love until life's end.",
+    "exHit": "blessed",
+    "exVi": "Xin cho chiếc nhẫn này được ban phước, để người trao và người đeo được sống bình yên, và tiếp tục yêu thương nhau đến hết đời."
   },
   {
     "word": "abide",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "live",
     "vi": "ở, trú",
-    "viDef": "sinh sống"
+    "viDef": "sinh sống",
+    "ex": "May this ring be blessed so he who gives it and she who wears it may abide in peace, and continue in love until life's end.",
+    "exHit": "abide",
+    "exVi": "Xin cho chiếc nhẫn này được ban phước, để người trao và người đeo được sống bình yên, và tiếp tục yêu thương nhau đến hết đời."
   },
   {
     "word": "thee",
@@ -21,7 +27,10 @@
     "type": "Pronoun, singular",
     "def": "you (old use or formal use )",
     "vi": "chàng, nàng, ngươi",
-    "viDef": "cách gọi \"bạn\" trong văn cổ hoặc trang trọng"
+    "viDef": "cách gọi \"bạn\" trong văn cổ hoặc trang trọng",
+    "ex": "With this ring I thee wed.",
+    "exHit": "thee",
+    "exVi": "Với chiếc nhẫn này, ta kết hôn cùng nàng."
   },
   {
     "word": "wed",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "get married (old use or formal use )",
     "vi": "kết duyên",
-    "viDef": "cưới nhau (văn cổ hoặc trang trọng)"
+    "viDef": "cưới nhau (văn cổ hoặc trang trọng)",
+    "ex": "With this ring I thee wed.",
+    "exHit": "wed",
+    "exVi": "Với chiếc nhẫn này, ta kết hôn cùng nàng."
   },
   {
     "word": "symbol",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "something that represents a certain idea",
     "vi": "biểu tượng",
-    "viDef": "thứ đại diện cho một ý nghĩa"
+    "viDef": "thứ đại diện cho một ý nghĩa",
+    "ex": "Wear it as a symbol of our love and commitment",
+    "exHit": "symbol",
+    "exVi": "Hãy đeo nó như biểu tượng của tình yêu và sự cam kết của chúng ta."
   },
   {
     "word": "pinkie",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "little finger",
     "vi": "ngón út",
-    "viDef": "ngón tay nhỏ nhất"
+    "viDef": "ngón tay nhỏ nhất",
+    "ex": "Honey, that's my pinkie.",
+    "exHit": "pinkie",
+    "exVi": "Anh yêu, đó là ngón út của em."
   },
   {
     "word": "index finger",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "the finger beside the thumb",
     "vi": "ngón trỏ",
-    "viDef": "ngón kế bên ngón cái"
+    "viDef": "ngón kế bên ngón cái",
+    "ex": "That's my index finger!",
+    "exHit": "index finger",
+    "exVi": "Đó là ngón trỏ của em!"
   },
   {
     "word": "thumb",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "the short, thick finger on the side of a hand",
     "vi": "ngón cái",
-    "viDef": "ngón ngắn và to ở mé bàn tay"
+    "viDef": "ngón ngắn và to ở mé bàn tay",
+    "ex": "that's the thumb, Nick.",
+    "exHit": "thumb",
+    "exVi": "Đó là ngón cái, Nick."
   },
   {
     "word": "middle finger",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "the finger which is in the middle of five",
     "vi": "ngón giữa",
-    "viDef": "ngón ở giữa năm ngón"
+    "viDef": "ngón ở giữa năm ngón",
+    "ex": "That's my middle finger, Nick.",
+    "exHit": "middle finger",
+    "exVi": "Đó là ngón giữa của em, Nick."
   },
   {
     "word": "ring finger",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "the finger between middle finger and little finger",
     "vi": "ngón áp út",
-    "viDef": "ngón nằm giữa ngón giữa và ngón út"
+    "viDef": "ngón nằm giữa ngón giữa và ngón út",
+    "ex": "This is my ring finger!",
+    "exHit": "ring finger",
+    "exVi": "Đây là ngón áp út của em!"
   },
   {
     "word": "wedding band",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "ring you receive when you get married",
     "vi": "nhẫn cưới",
-    "viDef": "chiếc nhẫn nhận khi thành hôn"
+    "viDef": "chiếc nhẫn nhận khi thành hôn",
+    "ex": "He put the wedding band on her finger during the ceremony.",
+    "exHit": "wedding band",
+    "exVi": "Anh ấy đeo nhẫn cưới vào ngón tay cô ấy trong buổi lễ."
   },
   {
     "word": "toe",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "the fingers on the feet",
     "vi": "ngón chân",
-    "viDef": "các ngón ở bàn chân"
+    "viDef": "các ngón ở bàn chân",
+    "ex": "I hurt my big toe when I kicked the table.",
+    "exHit": "toe",
+    "exVi": "Tôi bị đau ngón chân cái khi đá vào cái bàn."
   },
   {
     "word": "baby finger",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "smallest finger on your hand; synonym for pinkie",
     "vi": "ngón út",
-    "viDef": "ngón nhỏ nhất trên bàn tay, cùng nghĩa với pinkie"
+    "viDef": "ngón nhỏ nhất trên bàn tay, cùng nghĩa với pinkie",
+    "ex": "She held the cup with her baby finger stuck out.",
+    "exHit": "baby finger",
+    "exVi": "Cô ấy cầm tách với ngón út vểnh ra."
   },
   {
     "word": "engagement ring",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a ring a man gives to his girlfriend when he asks her to marry him",
     "vi": "nhẫn cầu hôn",
-    "viDef": "nhẫn người nam tặng bạn gái khi ngỏ lời cưới"
+    "viDef": "nhẫn người nam tặng bạn gái khi ngỏ lời cưới",
+    "ex": "He bought an engagement ring and asked her to marry him.",
+    "exHit": "engagement ring",
+    "exVi": "Anh ấy mua một chiếc nhẫn đính hôn và cầu hôn cô ấy."
   },
   {
     "word": "finger nail",
@@ -117,6 +159,9 @@
     "type": "common noun, singular",
     "def": "the hard part at the end of your finger that keeps growing",
     "vi": "móng tay",
-    "viDef": "phần cứng ở đầu ngón tay, mọc dài ra"
+    "viDef": "phần cứng ở đầu ngón tay, mọc dài ra",
+    "ex": "She painted each finger nail bright red.",
+    "exHit": "finger nail",
+    "exVi": "Cô ấy sơn từng móng tay màu đỏ tươi."
   }
 ]

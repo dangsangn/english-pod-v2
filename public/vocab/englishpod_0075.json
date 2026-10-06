@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "sit down",
     "vi": "mời ngồi",
-    "viDef": "ngồi xuống"
+    "viDef": "ngồi xuống",
+    "ex": "Please have a seat.",
+    "exHit": "have a seat",
+    "exVi": "Mời bạn ngồi."
   },
   {
     "word": "toothache",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "tooth pain",
     "vi": "đau răng",
-    "viDef": "cơn nhức răng"
+    "viDef": "cơn nhức răng",
+    "ex": "I've got a really bad toothache!",
+    "exHit": "toothache",
+    "exVi": "Tôi bị đau răng dữ dội!"
   },
   {
     "word": "swollen",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "some parts are bigger than others due to a certain disease",
     "vi": "sưng lên",
-    "viDef": "chỗ nào phồng to hơn bình thường do bệnh"
+    "viDef": "chỗ nào phồng to hơn bình thường do bệnh",
+    "ex": "I can't eat anything, and look, my face is all swollen.",
+    "exHit": "swollen",
+    "exVi": "Tôi không ăn được gì cả, và nhìn xem, mặt tôi sưng hết cả lên."
   },
   {
     "word": "wisdom tooth",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "big tooth at the back of your mouth which grows in one's adulthood",
     "vi": "răng khôn",
-    "viDef": "răng lớn phía trong cùng, mọc khi đã trưởng thành"
+    "viDef": "răng lớn phía trong cùng, mọc khi đã trưởng thành",
+    "ex": "I think it might be my wisdom tooth.",
+    "exHit": "wisdom tooth",
+    "exVi": "Tôi nghĩ có thể là răng khôn."
   },
   {
     "word": "have a look",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "take a glance",
     "vi": "xem thử",
-    "viDef": "ngó qua một cái"
+    "viDef": "ngó qua một cái",
+    "ex": "Well, let's have a look.",
+    "exHit": "have a look",
+    "exVi": "Để tôi xem nào."
   },
   {
     "word": "cavity",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a hole in a tooth",
     "vi": "lỗ sâu răng",
-    "viDef": "chỗ khuyết trên răng"
+    "viDef": "chỗ khuyết trên răng",
+    "ex": "Well, it looks like you have a cavity and your crown is loose.",
+    "exHit": "cavity",
+    "exVi": "Có vẻ như bạn bị sâu răng và thân răng bị lung lay."
   },
   {
     "word": "crown",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "the part of the tooth which can be seen",
     "vi": "thân răng",
-    "viDef": "phần răng nhìn thấy được"
+    "viDef": "phần răng nhìn thấy được",
+    "ex": "Well, it looks like you have a cavity and your crown is loose.",
+    "exHit": "crown",
+    "exVi": "Có vẻ như bạn bị sâu răng và thân răng bị lung lay."
   },
   {
     "word": "filling",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "something that fills the hole of the tooth",
     "vi": "miếng trám",
-    "viDef": "vật liệu bịt lỗ sâu răng"
+    "viDef": "vật liệu bịt lỗ sâu răng",
+    "ex": "We'll need to put in a filling before it gets any worse, and the crown probably needs to be refitted.",
+    "exHit": "filling",
+    "exVi": "Chúng tôi cần trám răng trước khi nó tệ hơn, và có lẽ cũng cần gắn lại thân răng."
   },
   {
     "word": "x-rays",
@@ -69,7 +93,10 @@
     "type": "common noun, plural",
     "def": "a medical examination that takes a picture of your bones",
     "vi": "phim chụp X-quang",
-    "viDef": "kiểm tra y tế chụp ảnh xương"
+    "viDef": "kiểm tra y tế chụp ảnh xương",
+    "ex": "The dentist took some x-rays of my teeth.",
+    "exHit": "x-rays",
+    "exVi": "Nha sĩ đã chụp X-quang răng của tôi."
   },
   {
     "word": "floss",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "to use a thin thread or string to clean between your teeth",
     "vi": "dùng chỉ nha khoa",
-    "viDef": "dùng sợi chỉ mảnh làm sạch kẽ răng"
+    "viDef": "dùng sợi chỉ mảnh làm sạch kẽ răng",
+    "ex": "You should floss every night before you go to bed.",
+    "exHit": "floss",
+    "exVi": "Bạn nên dùng chỉ nha khoa mỗi tối trước khi đi ngủ."
   },
   {
     "word": "mouthwash",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a liquid that is used to clean your mouth and teeth and to make your breath smell better",
     "vi": "nước súc miệng",
-    "viDef": "dung dịch làm sạch miệng, răng và cho hơi thở thơm"
+    "viDef": "dung dịch làm sạch miệng, răng và cho hơi thở thơm",
+    "ex": "I use mouthwash every morning to keep my breath fresh.",
+    "exHit": "mouthwash",
+    "exVi": "Sáng nào tôi cũng dùng nước súc miệng để hơi thở thơm tho."
   },
   {
     "word": "gingivitis",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a disease in which the gums become red, swollen, and sore",
     "vi": "viêm nướu",
-    "viDef": "bệnh làm nướu đỏ, sưng và đau"
+    "viDef": "bệnh làm nướu đỏ, sưng và đau",
+    "ex": "My dentist said I have gingivitis and need to brush better.",
+    "exHit": "gingivitis",
+    "exVi": "Nha sĩ nói tôi bị viêm lợi và cần đánh răng kỹ hơn."
   },
   {
     "word": "plaque",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a thin coating that forms on teeth and contains bacteria",
     "vi": "bợn răng",
-    "viDef": "lớp mỏng đóng trên răng, có chứa vi khuẩn"
+    "viDef": "lớp mỏng đóng trên răng, có chứa vi khuẩn",
+    "ex": "The dentist cleaned all the plaque off my teeth.",
+    "exHit": "plaque",
+    "exVi": "Nha sĩ đã làm sạch hết mảng bám trên răng tôi."
   },
   {
     "word": "dog breath",
@@ -109,6 +148,9 @@
     "type": "common noun, singular",
     "def": "used to describe when somebody has very bad breath",
     "vi": "hơi thở thối",
-    "viDef": "cách nói khi ai đó có mùi miệng rất nặng"
+    "viDef": "cách nói khi ai đó có mùi miệng rất nặng",
+    "ex": "Please brush your teeth, because you have terrible dog breath.",
+    "exHit": "dog breath",
+    "exVi": "Làm ơn đánh răng đi, vì miệng bạn hôi kinh khủng."
   }
 ]

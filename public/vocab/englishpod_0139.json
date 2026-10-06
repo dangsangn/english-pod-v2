@@ -5,7 +5,10 @@
     "type": "General Adverb",
     "def": "on a diagonal, forward and to the left or right",
     "vi": "theo đường chéo",
-    "viDef": "chếch sang trái hoặc phải"
+    "viDef": "chếch sang trái hoặc phải",
+    "ex": "When you are about to capture another piece, it can move one space diagonally.",
+    "exHit": "diagonally",
+    "exVi": "Khi sắp bắt được một quân khác, nó có thể đi chéo một ô."
   },
   {
     "word": "set up",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "make ready for use",
     "vi": "dàn ra, bày sẵn",
-    "viDef": "chuẩn bị cho dùng được"
+    "viDef": "chuẩn bị cho dùng được",
+    "ex": "Now in the front, you set up the pawns.",
+    "exHit": "set up",
+    "exVi": "Bây giờ ở hàng trước, con xếp các quân tốt vào."
   },
   {
     "word": "valuable",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "very useful or helpful",
     "vi": "quý giá",
-    "viDef": "rất hữu ích"
+    "viDef": "rất hữu ích",
+    "ex": "Those are the least valuable pieces and can only move one space forward.",
+    "exHit": "valuable",
+    "exVi": "Đó là những quân ít giá trị nhất và chỉ đi được một ô về phía trước."
   },
   {
     "word": "capture",
@@ -29,7 +38,10 @@
     "type": "principle verb, present simple",
     "def": "to take",
     "vi": "bắt lấy",
-    "viDef": "chiếm được"
+    "viDef": "chiếm được",
+    "ex": "When you are about to capture another piece, it can move one space diagonally.",
+    "exHit": "capture",
+    "exVi": "Khi sắp bắt được một quân khác, nó có thể đi chéo một ô."
   },
   {
     "word": "pawn",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "the weakest piece in chess; a person or group without much power",
     "vi": "quân tốt",
-    "viDef": "quân yếu nhất trong cờ; người hoặc nhóm chẳng có quyền lực"
+    "viDef": "quân yếu nhất trong cờ; người hoặc nhóm chẳng có quyền lực",
+    "ex": "Now in the front, you set up the pawns.",
+    "exHit": "pawns",
+    "exVi": "Bây giờ ở hàng trước, con xếp các quân tốt vào."
   },
   {
     "word": "boring",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "not interesting",
     "vi": "nhàm",
-    "viDef": "chẳng thú vị"
+    "viDef": "chẳng thú vị",
+    "ex": "This is boring!",
+    "exHit": "boring",
+    "exVi": "Chán quá!"
   },
   {
     "word": "Check Mate",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "describes situation in which king cannot move",
     "vi": "hết nước, chiếu bí",
-    "viDef": "tình thế vua không còn đường đi"
+    "viDef": "tình thế vua không còn đường đi",
+    "ex": "If the other player captures your king, he will say \"Check Mate\" and the game is over!",
+    "exHit": "Check Mate",
+    "exVi": "Nếu đối thủ bắt được vua của con, người ấy sẽ nói \"chiếu hết\" và ván cờ kết thúc!"
   },
   {
     "word": "queen",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a very powerful piece in chess",
     "vi": "quân hậu",
-    "viDef": "quân rất mạnh trong cờ"
+    "viDef": "quân rất mạnh trong cờ",
+    "ex": "That's the queen and that's the king.",
+    "exHit": "queen",
+    "exVi": "Đó là quân hậu và đây là quân vua."
   },
   {
     "word": "knight",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a useful piece in chess",
     "vi": "quân mã",
-    "viDef": "quân hữu dụng trong cờ"
+    "viDef": "quân hữu dụng trong cờ",
+    "ex": "This is called the knight, it's a very important piece so it's best to not let your opponent capture it.",
+    "exHit": "knight",
+    "exVi": "Đây gọi là quân mã, nó là quân rất quan trọng nên tốt nhất đừng để đối thủ bắt mất."
   },
   {
     "word": "bishop",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a piece in chess that can only move diagonally",
     "vi": "quân tượng",
-    "viDef": "quân chỉ đi theo đường chéo"
+    "viDef": "quân chỉ đi theo đường chéo",
+    "ex": "The one with the tall hat is called the bishop.",
+    "exHit": "bishop",
+    "exVi": "Quân có cái mũ cao gọi là quân tượng."
   },
   {
     "word": "king",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "the final and most important piece in chess",
     "vi": "quân vua",
-    "viDef": "quân cuối cùng và quan trọng nhất"
+    "viDef": "quân cuối cùng và quan trọng nhất",
+    "ex": "That's the queen and that's the king.",
+    "exHit": "king",
+    "exVi": "Đó là quân hậu và đây là quân vua."
   },
   {
     "word": "chess",
@@ -93,7 +126,10 @@
     "type": "common noun, non-variable",
     "def": "a game in which each player moves 16 pieces across a board and tries to capture the opponent's king",
     "vi": "cờ vua",
-    "viDef": "trò mỗi bên đi 16 quân trên bàn, cố bắt vua đối phương"
+    "viDef": "trò mỗi bên đi 16 quân trên bàn, cố bắt vua đối phương",
+    "ex": "A chess board!",
+    "exHit": "chess",
+    "exVi": "Một bàn cờ vua!"
   },
   {
     "word": "rook",
@@ -101,6 +137,9 @@
     "type": "common noun, singular",
     "def": "a piece in chess that can only move along straight lines",
     "vi": "quân xe",
-    "viDef": "quân chỉ đi theo đường thẳng"
+    "viDef": "quân chỉ đi theo đường thẳng",
+    "ex": "It's called the rook.",
+    "exHit": "rook",
+    "exVi": "Nó gọi là quân xe."
   }
 ]

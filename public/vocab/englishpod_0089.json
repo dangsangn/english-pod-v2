@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "very cheap, inexpensive",
     "vi": "rẻ như cho",
-    "viDef": "giá cực thấp"
+    "viDef": "giá cực thấp",
+    "ex": "You charge next to nothing for an international ticket, but when it comes to charging for any other small thing, you charge an arm and a leg!",
+    "exHit": "next to nothing",
+    "exVi": "Bạn tính vé quốc tế rẻ như cho không, nhưng hễ tính phí cho bất cứ thứ nhỏ nhặt nào khác thì bạn lại tính cắt cổ!"
   },
   {
     "word": "board",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "get on the plane",
     "vi": "lên máy bay",
-    "viDef": "vào khoang máy bay"
+    "viDef": "vào khoang máy bay",
+    "ex": "You cannot board the flight with that large bag either.",
+    "exHit": "board",
+    "exVi": "Bạn cũng không thể lên chuyến bay với chiếc túi lớn như vậy."
   },
   {
     "word": "intercontinental",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "between continents",
     "vi": "liên lục địa",
-    "viDef": "giữa các châu lục"
+    "viDef": "giữa các châu lục",
+    "ex": "I am taking an intercontinental flight!",
+    "exHit": "intercontinental",
+    "exVi": "Tôi sắp đi một chuyến bay liên lục địa!"
   },
   {
     "word": "carry-on luggage",
@@ -29,7 +38,10 @@
     "type": "common noun, non-variable",
     "def": "the bags that one can carry onto the plane",
     "vi": "hành lý xách tay",
-    "viDef": "túi được phép mang lên máy bay"
+    "viDef": "túi được phép mang lên máy bay",
+    "ex": "I only have carry-on luggage for this short trip.",
+    "exHit": "carry-on luggage",
+    "exVi": "Tôi chỉ có hành lý xách tay cho chuyến đi ngắn này."
   },
   {
     "word": "piece",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "piece of luggage; one bag",
     "vi": "kiện",
-    "viDef": "một kiện hành lý, một túi"
+    "viDef": "một kiện hành lý, một túi",
+    "ex": "Airline policy allows only two pieces of checked luggage, at twenty kilograms each, plus one piece of carry-on luggage.",
+    "exHit": "piece",
+    "exVi": "Chính sách của hãng cho phép tối đa hai kiện hành lý ký gửi, mỗi kiện hai mươi ki-lô-gam, cộng thêm một kiện hành lý xách tay."
   },
   {
     "word": "check",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "register bags with the airline and give them to be put on the plane",
     "vi": "gửi hành lý",
-    "viDef": "khai và giao túi cho hãng bay xếp lên máy bay"
+    "viDef": "khai và giao túi cho hãng bay xếp lên máy bay",
+    "ex": "Yes, I'd like to check three pieces.",
+    "exHit": "check",
+    "exVi": "Vâng, tôi muốn ký gửi ba kiện."
   },
   {
     "word": "passport",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "a document showing the identity of someone when outside his country",
     "vi": "hộ chiếu",
-    "viDef": "giấy tờ chứng minh danh tính khi ra nước ngoài"
+    "viDef": "giấy tờ chứng minh danh tính khi ra nước ngoài",
+    "ex": "Hello sir, may I see your passport please?",
+    "exHit": "passport",
+    "exVi": "Xin chào ông, cho tôi xem hộ chiếu của ông được không?"
   },
   {
     "word": "an arm and a leg",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "phrase used to indicate that something is very expensive",
     "vi": "đắt cắt cổ",
-    "viDef": "câu chỉ thứ gì rất đắt"
+    "viDef": "câu chỉ thứ gì rất đắt",
+    "ex": "You charge next to nothing for an international ticket, but when it comes to charging for any other small thing, you charge an arm and a leg!",
+    "exHit": "an arm and a leg",
+    "exVi": "Bạn tính vé quốc tế rẻ như cho không, nhưng hễ tính phí cho bất cứ thứ nhỏ nhặt nào khác thì bạn lại tính cắt cổ!"
   },
   {
     "word": "metal detector",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "A device that senses the presence of metal",
     "vi": "máy dò kim loại",
-    "viDef": "thiết bị phát hiện có kim loại"
+    "viDef": "thiết bị phát hiện có kim loại",
+    "ex": "I walked through the metal detector without any problem.",
+    "exHit": "metal detector",
+    "exVi": "Tôi đi qua cổng dò kim loại mà không gặp vấn đề gì."
   },
   {
     "word": "boarding pass",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "A pass that authorizes a passenger to get on an airplane",
     "vi": "thẻ lên máy bay",
-    "viDef": "giấy cho phép khách vào máy bay"
+    "viDef": "giấy cho phép khách vào máy bay",
+    "ex": "Please show your boarding pass at the gate.",
+    "exHit": "boarding pass",
+    "exVi": "Vui lòng xuất trình thẻ lên máy bay ở cổng."
   },
   {
     "word": "scale",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "An instrument or machine for weighing",
     "vi": "cái cân",
-    "viDef": "dụng cụ hoặc máy để cân"
+    "viDef": "dụng cụ hoặc máy để cân",
+    "ex": "Put your suitcase on the scale, please.",
+    "exHit": "scale",
+    "exVi": "Làm ơn đặt vali của bạn lên cân."
   },
   {
     "word": "layover",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "A short stop or break in a journey, usually imposed by scheduling requirements",
     "vi": "chặng nối chuyến",
-    "viDef": "lần dừng ngắn giữa hành trình, thường do lịch bay"
+    "viDef": "lần dừng ngắn giữa hành trình, thường do lịch bay",
+    "ex": "We had a five-hour layover in Dubai.",
+    "exHit": "layover",
+    "exVi": "Chúng tôi có năm tiếng quá cảnh ở Dubai."
   },
   {
     "word": "round trip",
@@ -101,6 +137,9 @@
     "type": "common noun, singular",
     "def": "A trip from one place to another and back, usually over the same route",
     "vi": "chuyến khứ hồi",
-    "viDef": "đi từ nơi này tới nơi khác rồi về, thường cùng lộ trình"
+    "viDef": "đi từ nơi này tới nơi khác rồi về, thường cùng lộ trình",
+    "ex": "I'd like a round trip ticket to Seoul, please.",
+    "exHit": "round trip",
+    "exVi": "Cho tôi một vé khứ hồi đi Seoul."
   }
 ]

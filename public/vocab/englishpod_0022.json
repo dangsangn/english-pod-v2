@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "take someone who is arrested to a place where other criminals are kept",
     "vi": "áp giải vào tù",
-    "viDef": "đưa người bị bắt đến nơi giam giữ tội phạm"
+    "viDef": "đưa người bị bắt đến nơi giam giữ tội phạm",
+    "ex": "The police officer had to take him to jail last night.",
+    "exHit": "take him to jail",
+    "exVi": "Đêm qua viên cảnh sát đã phải đưa anh ta vào tù."
   },
   {
     "word": "book",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "arrest (informal)",
     "vi": "còng đầu",
-    "viDef": "bắt giữ (thân mật)"
+    "viDef": "bắt giữ (thân mật)",
+    "ex": "Yeah, last week we booked this guy who claimed to be the tooth fairy!",
+    "exHit": "booked",
+    "exVi": "Ừ, tuần trước bọn tôi đã bắt một gã tự xưng là tiên răng đấy!"
   },
   {
     "word": "claim",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "say something is true when some people say it may not be true",
     "vi": "khẳng định",
-    "viDef": "quả quyết điều gì là thật trong khi có người cho là không"
+    "viDef": "quả quyết điều gì là thật trong khi có người cho là không",
+    "ex": "Yeah, last week we booked this guy who claimed to be the tooth fairy!",
+    "exHit": "claimed",
+    "exVi": "Ừ, tuần trước bọn tôi đã bắt một gã tự xưng là tiên răng đấy!"
   },
   {
     "word": "stocking",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "large sock; traditionally, Christmas gifts are put inside on the Christmas Eve",
     "vi": "tất Giáng sinh",
-    "viDef": "chiếc tất lớn, theo truyền thống quà Giáng sinh được bỏ vào đêm Noel"
+    "viDef": "chiếc tất lớn, theo truyền thống quà Giáng sinh được bỏ vào đêm Noel",
+    "ex": "What will happen when all the children wake up tomorrow and don't find any gifts in their stockings?",
+    "exHit": "stockings",
+    "exVi": "Điều gì sẽ xảy ra khi tất cả bọn trẻ thức dậy vào ngày mai mà không thấy món quà nào trong chiếc tất của chúng?"
   },
   {
     "word": "speed",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "drive faster than legal speed limit",
     "vi": "chạy quá tốc độ",
-    "viDef": "lái nhanh hơn giới hạn cho phép"
+    "viDef": "lái nhanh hơn giới hạn cho phép",
+    "ex": "Sorry buddy, you were parked in a no-parking zone, you were speeding, and you have no ID!",
+    "exHit": "speeding",
+    "exVi": "Xin lỗi anh bạn, anh đã đỗ xe ở khu cấm đỗ, anh chạy quá tốc độ và anh không có giấy tờ tùy thân!"
   },
   {
     "word": "impound",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "held by the police",
     "vi": "bị tạm giữ",
-    "viDef": "bị cảnh sát giữ lại"
+    "viDef": "bị cảnh sát giữ lại",
+    "ex": "Besides that, even if we let you go now, your sleigh has been impounded and those reindeer were taken to the city zoo.",
+    "exHit": "impounded",
+    "exVi": "Ngoài ra, ngay cả khi bây giờ chúng tôi thả anh, xe trượt tuyết của anh đã bị tạm giữ và những con tuần lộc đã bị đưa đến sở thú thành phố."
   },
   {
     "word": "ruined",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "damaged or destroyed",
     "vi": "hỏng bét",
-    "viDef": "bị hư hại hoặc phá hủy"
+    "viDef": "bị hư hại hoặc phá hủy",
+    "ex": "Christmas is ruined!",
+    "exHit": "ruined",
+    "exVi": "Giáng sinh bị phá hỏng rồi!"
   },
   {
     "word": "reindeer",
@@ -61,7 +82,10 @@
     "type": "common noun, non-variable",
     "def": "large deer that lives in the north part of the globe",
     "vi": "tuần lộc",
-    "viDef": "loài hươu lớn sống ở vùng phía bắc địa cầu"
+    "viDef": "loài hươu lớn sống ở vùng phía bắc địa cầu",
+    "ex": "Besides that, even if we let you go now, your sleigh has been impounded and those reindeer were taken to the city zoo.",
+    "exHit": "reindeer",
+    "exVi": "Ngoài ra, ngay cả khi bây giờ chúng tôi thả anh, xe trượt tuyết của anh đã bị tạm giữ và những con tuần lộc đã bị đưa đến sở thú thành phố."
   },
   {
     "word": "elf",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "small creature (in stories) that have pointed ears and magic powers",
     "vi": "yêu tinh nhỏ",
-    "viDef": "sinh vật nhỏ trong truyện, tai nhọn và có phép thuật"
+    "viDef": "sinh vật nhỏ trong truyện, tai nhọn và có phép thuật",
+    "ex": "An elf with pointed ears helps Santa wrap the presents.",
+    "exHit": "elf",
+    "exVi": "Một chú yêu tinh tai nhọn giúp ông già Noel gói quà."
   },
   {
     "word": "candy cane",
@@ -77,7 +104,10 @@
     "type": "common noun, plural",
     "def": "a stick-shaped candy with red and white curves on the top",
     "vi": "kẹo gậy",
-    "viDef": "cây kẹo hình gậy sọc đỏ trắng cong ở đầu"
+    "viDef": "cây kẹo hình gậy sọc đỏ trắng cong ở đầu",
+    "ex": "Whoa, they're shooting candy canes!",
+    "exHit": "candy canes",
+    "exVi": "Chà, họ đang bắn kẹo gậy kìa!"
   },
   {
     "word": "under heavy",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "being attacked or hurt",
     "vi": "đang bị tấn công dữ dội",
-    "viDef": "bị công kích hoặc bị thương"
+    "viDef": "bị công kích hoặc bị thương",
+    "ex": "Mayday, Mayday, we are under heavy attack!",
+    "exHit": "under heavy",
+    "exVi": "Mayday, Mayday, chúng tôi đang bị tấn công dữ dội!"
   },
   {
     "word": "backup",
@@ -93,7 +126,10 @@
     "type": "common noun, non-variable",
     "def": "help",
     "vi": "chi viện",
-    "viDef": "sự hỗ trợ"
+    "viDef": "sự hỗ trợ",
+    "ex": "We need backup!",
+    "exHit": "backup",
+    "exVi": "Chúng tôi cần chi viện!"
   },
   {
     "word": "charge",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "formally accuse someone of a crime",
     "vi": "buộc tội",
-    "viDef": "chính thức cáo buộc ai đó phạm tội"
+    "viDef": "chính thức cáo buộc ai đó phạm tội",
+    "ex": "The police decided to charge him with stealing Christmas presents.",
+    "exHit": "charge",
+    "exVi": "Cảnh sát quyết định buộc tội anh ta ăn cắp quà Giáng sinh."
   },
   {
     "word": "pull someone over",
@@ -109,7 +148,10 @@
     "type": "phrase",
     "def": "make a moving car move to the side of the road",
     "vi": "chặn xe lại",
-    "viDef": "buộc xe đang chạy tấp vào lề đường"
+    "viDef": "buộc xe đang chạy tấp vào lề đường",
+    "ex": "The officer tried to pull the sleigh over near the bridge.",
+    "exHit": "pull the sleigh over",
+    "exVi": "Viên cảnh sát cố chặn chiếc xe trượt tuyết lại gần cây cầu."
   },
   {
     "word": "ambush",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "a sudden attack",
     "vi": "cuộc phục kích",
-    "viDef": "đòn tấn công bất ngờ"
+    "viDef": "đòn tấn công bất ngờ",
+    "ex": "The elves set up an ambush behind the snowy hill.",
+    "exHit": "ambush",
+    "exVi": "Những chú yêu tinh bố trí một cuộc phục kích sau ngọn đồi phủ tuyết."
   },
   {
     "word": "stocking stuffer",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "small gifts that are put in the Christmas stocking",
     "vi": "quà nhỏ nhét tất",
-    "viDef": "những món quà nhỏ bỏ vào tất Giáng sinh"
+    "viDef": "những món quà nhỏ bỏ vào tất Giáng sinh",
+    "ex": "I bought a small chocolate bar as a stocking stuffer for my brother.",
+    "exHit": "stocking stuffer",
+    "exVi": "Tôi mua một thanh sô cô la nhỏ làm quà nhét vào tất Giáng sinh cho em trai."
   },
   {
     "word": "Christmas ornament",
@@ -133,6 +181,9 @@
     "type": "common noun, singular",
     "def": "decoration that is used to make the Christmas tree beautiful",
     "vi": "đồ trang trí cây thông",
-    "viDef": "vật trang trí làm đẹp cây thông Noel"
+    "viDef": "vật trang trí làm đẹp cây thông Noel",
+    "ex": "We hung a shiny Christmas ornament on every branch of the tree.",
+    "exHit": "Christmas ornament",
+    "exVi": "Chúng tôi treo một món đồ trang trí Giáng sinh lấp lánh lên mỗi cành cây thông."
   }
 ]

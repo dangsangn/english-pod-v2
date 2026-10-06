@@ -5,7 +5,10 @@
     "type": "",
     "def": "a dirty or untidy place",
     "vi": "như cái chuồng heo",
-    "viDef": "chỗ bẩn thỉu hoặc bừa bộn"
+    "viDef": "chỗ bẩn thỉu hoặc bừa bộn",
+    "ex": "Ugg, this bathroom is a pigsty!",
+    "exHit": "pigsty",
+    "exVi": "Ôi, cái nhà tắm này bẩn như chuồng lợn vậy!"
   },
   {
     "word": "flush",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to cause water to clean a toilet",
     "vi": "xả nước",
-    "viDef": "cho nước dội rửa bồn cầu"
+    "viDef": "cho nước dội rửa bồn cầu",
+    "ex": "It seems that your toilet is clogged, and that's why it won't flush.",
+    "exHit": "flush",
+    "exVi": "Có vẻ bồn cầu của bạn bị tắc, nên nó không xả được."
   },
   {
     "word": "gross",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "disgusting",
     "vi": "gớm quá",
-    "viDef": "kinh, đáng ghê"
+    "viDef": "kinh, đáng ghê",
+    "ex": "It's really gross in here!",
+    "exHit": "gross",
+    "exVi": "Ở đây thật sự kinh khủng quá!"
   },
   {
     "word": "are you out of your mind",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "saying to indicate someones idea or actions is unbelievable or crazy e.g are you out of your mind? you can't fight a bear!",
     "vi": "anh điên rồi à",
-    "viDef": "câu nói khi thấy ý hoặc việc ai làm là khó tin hoặc điên rồ"
+    "viDef": "câu nói khi thấy ý hoặc việc ai làm là khó tin hoặc điên rồ",
+    "ex": "are you out of your mind?",
+    "exHit": "are you out of your mind",
+    "exVi": "Bạn điên rồi à?"
   },
   {
     "word": "neat freak",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "likes to have every element of their life tidy and in order",
     "vi": "người sạch sẽ quá mức",
-    "viDef": "người muốn mọi thứ trong đời mình đều gọn gàng, đúng chỗ"
+    "viDef": "người muốn mọi thứ trong đời mình đều gọn gàng, đúng chỗ",
+    "ex": "You're such a neat freak!",
+    "exHit": "neat freak",
+    "exVi": "Bạn đúng là người cuồng sạch sẽ!"
   },
   {
     "word": "dump",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "an accumulation of discarded garbage",
     "vi": "bãi rác",
-    "viDef": "chỗ rác thải chất đống"
+    "viDef": "chỗ rác thải chất đống",
+    "ex": "Your room looks like a dump, so please clean it up.",
+    "exHit": "dump",
+    "exVi": "Phòng của bạn trông như bãi rác vậy, nên làm ơn dọn đi."
   },
   {
     "word": "litter",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "scattered rubbish",
     "vi": "rác vụn",
-    "viDef": "rác rưởi bị bỏ bừa"
+    "viDef": "rác rưởi bị bỏ bừa",
+    "ex": "There is so much litter on the floor after the party.",
+    "exHit": "litter",
+    "exVi": "Sau bữa tiệc, sàn nhà đầy rác vứt bừa bãi."
   },
   {
     "word": "tidy",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "neat, orderly, or trim",
     "vi": "ngăn nắp",
-    "viDef": "gọn, có thứ tự, tươm tất"
+    "viDef": "gọn, có thứ tự, tươm tất",
+    "ex": "She keeps her desk tidy, and everything has its place.",
+    "exHit": "tidy",
+    "exVi": "Cô ấy giữ bàn làm việc gọn gàng, mọi thứ đều có chỗ của nó."
   },
   {
     "word": "revolting",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "disgusting; repulsive",
     "vi": "kinh tởm",
-    "viDef": "gớm ghiếc, đáng ghê"
+    "viDef": "gớm ghiếc, đáng ghê",
+    "ex": "The smell coming from the fridge is absolutely revolting.",
+    "exHit": "revolting",
+    "exVi": "Mùi bốc ra từ tủ lạnh thật sự kinh tởm."
   },
   {
     "word": "odour",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "smell, aroma",
     "vi": "mùi",
-    "viDef": "mùi hương, mùi tỏa ra"
+    "viDef": "mùi hương, mùi tỏa ra",
+    "ex": "What is that strange odour in the bathroom?",
+    "exHit": "odour",
+    "exVi": "Cái mùi lạ trong nhà tắm là mùi gì vậy?"
   }
 ]

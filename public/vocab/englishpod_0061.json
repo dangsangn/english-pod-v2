@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "travel in a boat that is powered by wind",
     "vi": "đi thuyền buồm",
-    "viDef": "di chuyển bằng thuyền chạy bằng sức gió"
+    "viDef": "di chuyển bằng thuyền chạy bằng sức gió",
+    "ex": "Great for sailing!",
+    "exHit": "sailing",
+    "exVi": "Rất tuyệt để đi thuyền buồm!"
   },
   {
     "word": "for a little while",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "for a short amount of time",
     "vi": "một lát",
-    "viDef": "trong khoảng thời gian ngắn"
+    "viDef": "trong khoảng thời gian ngắn",
+    "ex": "Anchor the boat for a little while.",
+    "exHit": "for a little while",
+    "exVi": "Hãy thả neo con thuyền một lúc."
   },
   {
     "word": "a dip",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "a swim",
     "vi": "ngụp một cái",
-    "viDef": "một lần xuống nước tắm"
+    "viDef": "một lần xuống nước tắm",
+    "ex": "I'm going to take a dip.",
+    "exHit": "a dip",
+    "exVi": "Tôi sẽ đi bơi một lát."
   },
   {
     "word": "doggy-paddle",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "swim like a dog",
     "vi": "kiểu bơi cún",
-    "viDef": "bơi kiểu như con chó"
+    "viDef": "bơi kiểu như con chó",
+    "ex": "I can't swim well, so I just doggy-paddle across the pool.",
+    "exHit": "doggy-paddle",
+    "exVi": "Tôi bơi không giỏi nên chỉ bơi chó để qua hết hồ bơi."
   },
   {
     "word": "breast stroke",
@@ -37,7 +49,10 @@
     "type": "common noun, non-variable",
     "def": "way of swimming where the person moves the arms and legs in a half-circle in front of them; like a frog",
     "vi": "bơi ếch",
-    "viDef": "kiểu bơi quạt tay chân thành nửa vòng trước người, giống con ếch"
+    "viDef": "kiểu bơi quạt tay chân thành nửa vòng trước người, giống con ếch",
+    "ex": "Do your breast stroke!",
+    "exHit": "breast stroke",
+    "exVi": "Bạn bơi ếch đi!"
   },
   {
     "word": "backstroke",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "swim on your back with arms moving up and down in a circle",
     "vi": "bơi ngửa",
-    "viDef": "bơi nằm ngửa, tay quạt vòng lên xuống"
+    "viDef": "bơi nằm ngửa, tay quạt vòng lên xuống",
+    "ex": "I'll just backstroke, it's easier!",
+    "exHit": "backstroke",
+    "exVi": "Tôi sẽ bơi ngửa thôi, dễ hơn!"
   },
   {
     "word": "straight towards",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "directly in the direction of something",
     "vi": "nhắm thẳng tới",
-    "viDef": "đi đúng về phía thứ gì"
+    "viDef": "đi đúng về phía thứ gì",
+    "ex": "The shark is coming straight towards me!",
+    "exHit": "straight towards",
+    "exVi": "Con cá mập đang lao thẳng về phía tôi!"
   },
   {
     "word": "swim suit",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "clothes you wear when you go swimming (AmE)",
     "vi": "áo tắm",
-    "viDef": "đồ mặc khi đi bơi (Anh-Mỹ)"
+    "viDef": "đồ mặc khi đi bơi (Anh-Mỹ)",
+    "ex": "Don't forget to pack your swim suit for the beach.",
+    "exHit": "swim suit",
+    "exVi": "Đừng quên mang theo đồ bơi khi đi biển nhé."
   },
   {
     "word": "swimming costume",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "clothes you wear when you go swimming (BrE)",
     "vi": "đồ bơi",
-    "viDef": "đồ mặc khi đi bơi (Anh-Anh)"
+    "viDef": "đồ mặc khi đi bơi (Anh-Anh)",
+    "ex": "She bought a new swimming costume for her holiday in Spain.",
+    "exHit": "swimming costume",
+    "exVi": "Cô ấy đã mua một bộ đồ bơi mới cho kỳ nghỉ ở Tây Ban Nha."
   },
   {
     "word": "towel",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "piece of soft cloth you use to dry yourself after swimming or bathing",
     "vi": "khăn tắm",
-    "viDef": "miếng vải mềm để lau khô người sau khi bơi hay tắm"
+    "viDef": "miếng vải mềm để lau khô người sau khi bơi hay tắm",
+    "ex": "Could you pass me a towel, because I'm completely soaked?",
+    "exHit": "towel",
+    "exVi": "Bạn đưa giúp tôi cái khăn tắm được không, vì tôi ướt sũng rồi?"
   },
   {
     "word": "tan",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "lie in the sun and try to make your skin more brown",
     "vi": "tắm nắng cho da rám",
-    "viDef": "phơi nắng để da ngăm hơn"
+    "viDef": "phơi nắng để da ngăm hơn",
+    "ex": "I want to tan on the beach all afternoon.",
+    "exHit": "tan",
+    "exVi": "Tôi muốn nằm phơi nắng cho da rám nắng trên bãi biển cả buổi chiều."
   },
   {
     "word": "dive",
@@ -93,6 +126,9 @@
     "type": "verb",
     "def": "jump into the water with your head first",
     "vi": "lao đầu xuống nước",
-    "viDef": "nhảy xuống nước đầu trước"
+    "viDef": "nhảy xuống nước đầu trước",
+    "ex": "He wanted to dive into the pool from the edge.",
+    "exHit": "dive",
+    "exVi": "Anh ấy muốn lao đầu xuống hồ bơi từ mép hồ."
   }
 ]

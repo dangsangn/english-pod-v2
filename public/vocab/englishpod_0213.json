@@ -5,7 +5,10 @@
     "type": "",
     "def": "continue to live through hardship",
     "vi": "trụ được",
-    "viDef": "tiếp tục sống qua giai đoạn khó"
+    "viDef": "tiếp tục sống qua giai đoạn khó",
+    "ex": "Hi Daniel, how are you holding up?",
+    "exHit": "holding up",
+    "exVi": "Chào Daniel, anh vẫn chống chọi được chứ?"
   },
   {
     "word": "burial",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the act of burying, esp the interment of a dead body",
     "vi": "việc mai táng",
-    "viDef": "việc chôn, nhất là chôn thi hài"
+    "viDef": "việc chôn, nhất là chôn thi hài",
+    "ex": "Have you bought a burial plot and a casket?",
+    "exHit": "burial",
+    "exVi": "Bạn đã mua khu đất chôn cất và quan tài chưa?"
   },
   {
     "word": "cremate",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "burn up something and reduce to ash",
     "vi": "hỏa táng",
-    "viDef": "thiêu thứ gì thành tro"
+    "viDef": "thiêu thứ gì thành tro",
+    "ex": "They decided to cremate him and spread the ashes at sea.",
+    "exHit": "cremate",
+    "exVi": "Họ quyết định hỏa táng ông ấy và rải tro ra biển."
   },
   {
     "word": "tasteful",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "being in keeping with good taste",
     "vi": "có thẩm mỹ",
-    "viDef": "đúng gu, tinh tế"
+    "viDef": "đúng gu, tinh tế",
+    "ex": "I am sure the memorial service will be tasteful.",
+    "exHit": "tasteful",
+    "exVi": "Tôi chắc rằng lễ tưởng niệm sẽ trang nhã."
   },
   {
     "word": "detail",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "having many details",
     "vi": "tỉ mỉ, chi tiết",
-    "viDef": "có nhiều tình tiết"
+    "viDef": "có nhiều tình tiết",
+    "ex": "Thanks, it hasn't been easy, but luckily we have life insurance and Wendy left behind a detailed will that will sort out any other legal matters.",
+    "exHit": "detailed",
+    "exVi": "Cảm ơn, mọi chuyện không dễ dàng, nhưng may mắn là chúng tôi có bảo hiểm nhân thọ và Wendy để lại một bản di chúc chi tiết sẽ giải quyết mọi vấn đề pháp lý còn lại."
   },
   {
     "word": "Arrange",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to make preparations",
     "vi": "thu xếp",
-    "viDef": "lo việc chuẩn bị"
+    "viDef": "lo việc chuẩn bị",
+    "ex": "There are many things that you have to to arrange.",
+    "exHit": "arrange",
+    "exVi": "Có rất nhiều việc bạn phải sắp xếp."
   },
   {
     "word": "Morgue",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A place where dead bodies are stored",
     "vi": "nhà xác",
-    "viDef": "nơi lưu giữ thi hài"
+    "viDef": "nơi lưu giữ thi hài",
+    "ex": "The body was taken to the morgue after the accident.",
+    "exHit": "morgue",
+    "exVi": "Thi thể được đưa đến nhà xác sau vụ tai nạn."
   },
   {
     "word": "Funeral Home",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A place where memorial services are held",
     "vi": "nhà tang lễ",
-    "viDef": "nơi tổ chức lễ tưởng niệm"
+    "viDef": "nơi tổ chức lễ tưởng niệm",
+    "ex": "I booked a time and date with the funeral home, but I still have a lot of things to do.",
+    "exHit": "funeral home",
+    "exVi": "Tôi đã đặt giờ và ngày với nhà tang lễ, nhưng vẫn còn rất nhiều việc phải làm."
   },
   {
     "word": "To book",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to set a specific time to do something",
     "vi": "đặt lịch",
-    "viDef": "định một giờ cụ thể để làm việc gì"
+    "viDef": "định một giờ cụ thể để làm việc gì",
+    "ex": "I need to book the church for Saturday's service.",
+    "exHit": "book",
+    "exVi": "Tôi cần đặt nhà thờ cho buổi lễ vào thứ Bảy."
   },
   {
     "word": "To grieve",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "to be sad",
     "vi": "đau buồn",
-    "viDef": "thấy thương tiếc"
+    "viDef": "thấy thương tiếc",
+    "ex": "She is still grieving after losing her husband.",
+    "exHit": "grieving",
+    "exVi": "Cô ấy vẫn đang đau buồn sau khi mất chồng."
   }
 ]

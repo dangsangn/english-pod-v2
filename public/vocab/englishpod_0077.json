@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "a person you always do things together with",
     "vi": "bạn đồng hành chí cốt",
-    "viDef": "người lúc nào cũng cùng mình làm mọi việc"
+    "viDef": "người lúc nào cũng cùng mình làm mọi việc",
+    "ex": "My name is Rick Fields and, as always, I am joined by my partner in crime, Bob Copeland.",
+    "exHit": "partner in crime",
+    "exVi": "Tôi là Rick Fields và như mọi khi, cùng tôi có người bạn đồng hành ăn ý, Bob Copeland."
   },
   {
     "word": "stretch",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "the final time period",
     "vi": "chặng cuối",
-    "viDef": "quãng thời gian sau chót"
+    "viDef": "quãng thời gian sau chót",
+    "ex": "We're in the last stretch of this very exciting race, and Kimi Räikkönen is leading the pack with only four laps to go!",
+    "exHit": "stretch",
+    "exVi": "Chúng ta đang ở chặng cuối của cuộc đua vô cùng hấp dẫn này, và Kimi Räikkönen đang dẫn đầu nhóm xe khi chỉ còn bốn vòng nữa!"
   },
   {
     "word": "to go",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "left to complete",
     "vi": "còn lại",
-    "viDef": "còn phải hoàn thành"
+    "viDef": "còn phải hoàn thành",
+    "ex": "Räikkönen is still in the lead with only two laps to go!",
+    "exHit": "to go",
+    "exVi": "Räikkönen vẫn dẫn đầu khi chỉ còn hai vòng nữa!"
   },
   {
     "word": "jam on the breaks",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "to hit or step on the breaks quickly and forcefully",
     "vi": "đạp phanh gấp",
-    "viDef": "nhấn phanh thật nhanh và mạnh"
+    "viDef": "nhấn phanh thật nhanh và mạnh",
+    "ex": "He came in too fast, jammed on the breaks and spun out.",
+    "exHit": "jammed on the breaks",
+    "exVi": "Anh ấy vào cua quá nhanh, đạp phanh gấp và bị xoay vòng mất lái."
   },
   {
     "word": "spin out",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "(a car) slides and makes a turn rapidly in an uncontrolled way",
     "vi": "xoay tròn mất lái",
-    "viDef": "xe trượt và quay ngang không kiểm soát được"
+    "viDef": "xe trượt và quay ngang không kiểm soát được",
+    "ex": "The car hit the wet road and began to spin out.",
+    "exHit": "spin out",
+    "exVi": "Chiếc xe đi vào đoạn đường ướt và bắt đầu trượt xoay vòng mất lái."
   },
   {
     "word": "pace car",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "the car used when accidents happen which leads other cars but is not a competitor in the face",
     "vi": "xe dẫn tốc",
-    "viDef": "xe dẫn đoàn khi có sự cố, không tham gia tranh tài"
+    "viDef": "xe dẫn đoàn khi có sự cố, không tham gia tranh tài",
+    "ex": "We have a yellow flag and the pace car is making its way onto the track.",
+    "exHit": "pace car",
+    "exVi": "Chúng ta có cờ vàng và xe dẫn đường đang tiến vào đường đua."
   },
   {
     "word": "yellow flag",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "the sign use in F1 race to show there is an accident on the track",
     "vi": "cờ vàng",
-    "viDef": "dấu hiệu trong đua F1 báo có sự cố trên đường đua"
+    "viDef": "dấu hiệu trong đua F1 báo có sự cố trên đường đua",
+    "ex": "We have a yellow flag and the pace car is making its way onto the track.",
+    "exHit": "yellow flag",
+    "exVi": "Chúng ta có cờ vàng và xe dẫn đường đang tiến vào đường đua."
   },
   {
     "word": "cleanup crew",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "the group of people who clean the track",
     "vi": "tổ dọn đường đua",
-    "viDef": "nhóm người làm sạch đường đua"
+    "viDef": "nhóm người làm sạch đường đua",
+    "ex": "The cleanup crew is towing the heavily damaged car and the green flag drops!",
+    "exHit": "cleanup crew",
+    "exVi": "Đội dọn dẹp đang kéo chiếc xe hư hỏng nặng đi và cờ xanh được phất!"
   },
   {
     "word": "green flag",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "the sign used in an F1 race to show that the race is back to the normal state",
     "vi": "cờ xanh",
-    "viDef": "dấu hiệu trong đua F1 báo cuộc đua trở lại bình thường"
+    "viDef": "dấu hiệu trong đua F1 báo cuộc đua trở lại bình thường",
+    "ex": "The cleanup crew is towing the heavily damaged car and the green flag drops!",
+    "exHit": "green flag",
+    "exVi": "Đội dọn dẹp đang kéo chiếc xe hư hỏng nặng đi và cờ xanh được phất!"
   },
   {
     "word": "take the lead",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "be in the first position",
     "vi": "vươn lên dẫn đầu",
-    "viDef": "ở vị trí số một"
+    "viDef": "ở vị trí số một",
+    "ex": "He makes his way into the pit, and Fernando Alonso takes the lead!",
+    "exHit": "takes the lead",
+    "exVi": "Anh ấy vào khu vực pit, và Fernando Alonso dẫn đầu!"
   },
   {
     "word": "checkered flag",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a flag with black and white squares showing someone has won",
     "vi": "cờ ô vuông về đích",
-    "viDef": "cờ ô đen trắng báo đã có người thắng"
+    "viDef": "cờ ô đen trắng báo đã có người thắng",
+    "ex": "How unlucky for Räikkönen, and this race is over ladies and gentlemen, Alonso takes the checkered flag!",
+    "exHit": "checkered flag",
+    "exVi": "Thật xui xẻo cho Räikkönen, và cuộc đua đã kết thúc, thưa quý vị, Alonso nhận cờ ca-rô về đích!"
   },
   {
     "word": "rev",
@@ -93,7 +126,10 @@
     "type": "verb",
     "def": "cause an engine to run very quickly",
     "vi": "rú ga",
-    "viDef": "làm động cơ chạy vọt lên"
+    "viDef": "làm động cơ chạy vọt lên",
+    "ex": "He sat in the car and started to rev the engine.",
+    "exHit": "rev",
+    "exVi": "Anh ấy ngồi trong xe và bắt đầu rồ ga cho động cơ."
   },
   {
     "word": "title",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "the status of winning a championship in a sport",
     "vi": "ngôi vô địch",
-    "viDef": "danh hiệu thắng giải trong thể thao"
+    "viDef": "danh hiệu thắng giải trong thể thao",
+    "ex": "Alonso won his second world title this season.",
+    "exHit": "title",
+    "exVi": "Alonso đã giành danh hiệu vô địch thế giới thứ hai trong mùa giải này."
   },
   {
     "word": "aerodynamic",
@@ -109,7 +148,10 @@
     "type": "Adjective",
     "def": "the quality of moving easily through the air",
     "vi": "khí động học",
-    "viDef": "đặc tính chuyển động dễ dàng trong không khí"
+    "viDef": "đặc tính chuyển động dễ dàng trong không khí",
+    "ex": "This race car has a very aerodynamic shape.",
+    "exHit": "aerodynamic",
+    "exVi": "Chiếc xe đua này có hình dáng rất khí động học."
   },
   {
     "word": "motorhead",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "a person who loves cars and car racing (Am.E)",
     "vi": "dân mê xe",
-    "viDef": "người say xe cộ và đua xe (Anh-Mỹ)"
+    "viDef": "người say xe cộ và đua xe (Anh-Mỹ)",
+    "ex": "My dad is a real motorhead who loves fast cars.",
+    "exHit": "motorhead",
+    "exVi": "Bố tôi là một người mê xe thực sự, rất thích xe chạy nhanh."
   },
   {
     "word": "qualifying round",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "the race that determines who will be able to participate in the main race",
     "vi": "vòng loại",
-    "viDef": "chặng đua chọn ai được vào cuộc đua chính"
+    "viDef": "chặng đua chọn ai được vào cuộc đua chính",
+    "ex": "He finished first in the qualifying round on Saturday.",
+    "exHit": "qualifying round",
+    "exVi": "Anh ấy về nhất ở vòng loại vào thứ Bảy."
   },
   {
     "word": "pole position",
@@ -133,6 +181,9 @@
     "type": "phrase",
     "def": "the front position in a car race",
     "vi": "vị trí xuất phát đầu",
-    "viDef": "chỗ đứng trước nhất trong cuộc đua xe"
+    "viDef": "chỗ đứng trước nhất trong cuộc đua xe",
+    "ex": "Hamilton starts the race from pole position tomorrow.",
+    "exHit": "pole position",
+    "exVi": "Ngày mai Hamilton xuất phát từ vị trí pole."
   }
 ]

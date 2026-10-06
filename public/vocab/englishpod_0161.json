@@ -5,7 +5,10 @@
     "type": "",
     "def": "to ignore someone or not appear to an appointment",
     "vi": "bỏ mặc, xù hẹn",
-    "viDef": "phớt lờ ai hoặc không đến chỗ đã hẹn"
+    "viDef": "phớt lờ ai hoặc không đến chỗ đã hẹn",
+    "ex": "I can't believe he blew me off again after we planned this game night.",
+    "exHit": "blew me off",
+    "exVi": "Không thể tin là anh ấy lại cho tôi leo cây sau khi chúng tôi đã lên kế hoạch cho đêm chơi game này."
   },
   {
     "word": "challenging",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "difficult in an enjoyable way",
     "vi": "thử thách mà thú",
-    "viDef": "khó nhưng chơi thấy vui"
+    "viDef": "khó nhưng chơi thấy vui",
+    "ex": "It doesn't even look fun or challenging!",
+    "exHit": "challenging",
+    "exVi": "Nhìn nó còn chẳng vui hay thử thách gì cả!"
   },
   {
     "word": "beat",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "defeat",
     "vi": "thắng, hạ",
-    "viDef": "đánh bại"
+    "viDef": "đánh bại",
+    "ex": "If you think it's so easy, I bet you can't beat me.",
+    "exHit": "beat",
+    "exVi": "Nếu cậu nghĩ dễ vậy thì tôi cược là cậu không thắng nổi tôi đâu."
   },
   {
     "word": "hooked",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "addicted",
     "vi": "nghiện rồi",
-    "viDef": "bị cuốn không dứt ra được"
+    "viDef": "bị cuốn không dứt ra được",
+    "ex": "I am totally hooked on this game!",
+    "exHit": "hooked",
+    "exVi": "Tôi nghiện trò này rồi!"
   },
   {
     "word": "waste",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "use more than necessary",
     "vi": "tốn vô ích",
-    "viDef": "dùng nhiều hơn mức cần"
+    "viDef": "dùng nhiều hơn mức cần",
+    "ex": "You've been wasting your time on this?",
+    "exHit": "wasting",
+    "exVi": "Bạn đã lãng phí thời gian vào cái này à?"
   },
   {
     "word": "strategy",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a plan to obtain a specific result",
     "vi": "chiến lược",
-    "viDef": "kế hoạch để đạt một kết quả cụ thể"
+    "viDef": "kế hoạch để đạt một kết quả cụ thể",
+    "ex": "You need a good strategy if you want to win this game.",
+    "exHit": "strategy",
+    "exVi": "Cậu cần một chiến thuật hay nếu muốn thắng trò này."
   },
   {
     "word": "simulation",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "something that imitates reality to seem real",
     "vi": "mô phỏng",
-    "viDef": "thứ dựng lại thực tế cho giống như thật"
+    "viDef": "thứ dựng lại thực tế cho giống như thật",
+    "ex": "This flight simulation feels so real that I got nervous.",
+    "exHit": "simulation",
+    "exVi": "Trò mô phỏng bay này chân thật đến mức tôi thấy hồi hộp."
   },
   {
     "word": "real-time",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "describes when a game is played live",
     "vi": "thời gian thực",
-    "viDef": "nói về lối chơi diễn ra trực tiếp"
+    "viDef": "nói về lối chơi diễn ra trực tiếp",
+    "ex": "I love real-time games because everything happens while you play.",
+    "exHit": "real-time",
+    "exVi": "Tôi thích game thời gian thực vì mọi thứ diễn ra ngay khi bạn chơi."
   },
   {
     "word": "hardcore",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "being extremely dedicated to something",
     "vi": "dốc hết mình",
-    "viDef": "cực kỳ tận tâm với việc gì"
+    "viDef": "cực kỳ tận tâm với việc gì",
+    "ex": "My brother is a hardcore gamer who plays ten hours a day.",
+    "exHit": "hardcore",
+    "exVi": "Anh trai tôi là game thủ cực kỳ cuồng nhiệt, ngày nào cũng chơi mười tiếng."
   },
   {
     "word": "to own",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "to win a battle and take over the enemy in a game",
     "vi": "nghiền đối thủ",
-    "viDef": "thắng và áp đảo đối phương trong trò chơi"
+    "viDef": "thắng và áp đảo đối phương trong trò chơi",
+    "ex": "We totally owned them in the last round of the game.",
+    "exHit": "owned",
+    "exVi": "Chúng tôi đã hạ gục hoàn toàn họ ở vòng cuối của trận game."
   }
 ]

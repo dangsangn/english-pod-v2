@@ -5,7 +5,10 @@
     "type": "common noun, plural",
     "def": "interesting or important quality",
     "vi": "tính năng",
-    "viDef": "điểm hay hoặc quan trọng của thứ gì"
+    "viDef": "điểm hay hoặc quan trọng của thứ gì",
+    "ex": "What What features do they offer?",
+    "exHit": "features",
+    "exVi": "Họ cung cấp những tính năng nào?"
   },
   {
     "word": "chequing account",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "a regular account for daily transations",
     "vi": "tài khoản thanh toán",
-    "viDef": "tài khoản thường dùng cho giao dịch hằng ngày"
+    "viDef": "tài khoản thường dùng cho giao dịch hằng ngày",
+    "ex": "Alright, then, with this chequing account you'll be issued a debit card and a cheque book.",
+    "exHit": "chequing account",
+    "exVi": "Vậy thì, với tài khoản thanh toán này, bạn sẽ được cấp một thẻ ghi nợ và một cuốn séc."
   },
   {
     "word": "transaction",
@@ -21,7 +27,10 @@
     "type": "common noun, plural",
     "def": "an occurrence in which money is transfered from one person, or one account, to another",
     "vi": "giao dịch",
-    "viDef": "lần chuyển tiền từ người này hoặc tài khoản này sang bên khác"
+    "viDef": "lần chuyển tiền từ người này hoặc tài khoản này sang bên khác",
+    "ex": "Well, if you just take a look here, see, with our chequing account, you can have unlimited daily transactions for a small monthly fee, and our savings account has a higher interest rate, but you must carry a minimum balance of $ 10,000 dollars.",
+    "exHit": "transactions",
+    "exVi": "Nếu bạn xem ở đây, với tài khoản thanh toán của chúng tôi, bạn có thể thực hiện không giới hạn giao dịch mỗi ngày với một khoản phí hằng tháng nhỏ, còn tài khoản tiết kiệm có lãi suất cao hơn, nhưng bạn phải duy trì số dư tối thiểu 10.000 đô la."
   },
   {
     "word": "savings account",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "an account for people to keep their money, usually offers a higher interest rate",
     "vi": "tài khoản tiết kiệm",
-    "viDef": "tài khoản để giữ tiền, thường lãi cao hơn"
+    "viDef": "tài khoản để giữ tiền, thường lãi cao hơn",
+    "ex": "A chequing or a savings account?",
+    "exHit": "savings account",
+    "exVi": "Tài khoản thanh toán hay tài khoản tiết kiệm ạ?"
   },
   {
     "word": "balance",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "the amount of money in a bank account",
     "vi": "số dư",
-    "viDef": "số tiền còn trong tài khoản"
+    "viDef": "số tiền còn trong tài khoản",
+    "ex": "Well, if you just take a look here, see, with our chequing account, you can have unlimited daily transactions for a small monthly fee, and our savings account has a higher interest rate, but you must carry a minimum balance of $ 10,000 dollars.",
+    "exHit": "balance",
+    "exVi": "Nếu bạn xem ở đây, với tài khoản thanh toán của chúng tôi, bạn có thể thực hiện không giới hạn giao dịch mỗi ngày với một khoản phí hằng tháng nhỏ, còn tài khoản tiết kiệm có lãi suất cao hơn, nhưng bạn phải duy trì số dư tối thiểu 10.000 đô la."
   },
   {
     "word": "access",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a way to get to something",
     "vi": "cách truy cập",
-    "viDef": "đường để tới hoặc dùng được thứ gì"
+    "viDef": "đường để tới hoặc dùng được thứ gì",
+    "ex": "I see, well, I think I'm more interested in a chequing account; I like to have easy access to my money.",
+    "exHit": "access",
+    "exVi": "Tôi hiểu rồi, tôi nghĩ tôi quan tâm đến tài khoản thanh toán hơn; tôi muốn dễ dàng truy cập vào tiền của mình."
   },
   {
     "word": "debit card",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "a card for you to take money out of your bank account",
     "vi": "thẻ ghi nợ",
-    "viDef": "thẻ dùng để rút tiền từ tài khoản của mình"
+    "viDef": "thẻ dùng để rút tiền từ tài khoản của mình",
+    "ex": "Alright, then, with this chequing account you'll be issued a debit card and a cheque book.",
+    "exHit": "debit card",
+    "exVi": "Vậy thì, với tài khoản thanh toán này, bạn sẽ được cấp một thẻ ghi nợ và một cuốn séc."
   },
   {
     "word": "overdraft",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "taking out more money than what is available in the account",
     "vi": "thấu chi",
-    "viDef": "rút quá số tiền đang có trong tài khoản"
+    "viDef": "rút quá số tiền đang có trong tài khoản",
+    "ex": "Will you require overdraft protection?",
+    "exHit": "overdraft",
+    "exVi": "Bạn có cần dịch vụ bảo vệ thấu chi không?"
   },
   {
     "word": "I'll get you",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "(a way to ask people to do things)",
     "vi": "nhờ anh/chị làm giúp",
-    "viDef": "cách nói lịch sự khi yêu cầu ai làm gì"
+    "viDef": "cách nói lịch sự khi yêu cầu ai làm gì",
+    "ex": "In that case, I'll get you to fill out this paperwork; I'll need your social insurance number, and two pieces of government ID.",
+    "exHit": "I'll get you",
+    "exVi": "Vậy thì, tôi sẽ nhờ bạn điền vào giấy tờ này; tôi sẽ cần số bảo hiểm xã hội của bạn và hai loại giấy tờ tùy thân do chính phủ cấp."
   },
   {
     "word": "I'll need your",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "(a way to request people to provide something)",
     "vi": "tôi cần anh/chị cho...",
-    "viDef": "cách nói khi yêu cầu ai cung cấp thứ gì"
+    "viDef": "cách nói khi yêu cầu ai cung cấp thứ gì",
+    "ex": "In that case, I'll get you to fill out this paperwork; I'll need your social insurance number, and two pieces of government ID.",
+    "exHit": "I'll need your",
+    "exVi": "Vậy thì, tôi sẽ nhờ bạn điền vào giấy tờ này; tôi sẽ cần số bảo hiểm xã hội của bạn và hai loại giấy tờ tùy thân do chính phủ cấp."
   },
   {
     "word": "If you could just",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "(a polite way of asking people to do things)",
     "vi": "anh/chị làm giúp...",
-    "viDef": "cách nói nhã nhặn khi nhờ ai làm gì"
+    "viDef": "cách nói nhã nhặn khi nhờ ai làm gì",
+    "ex": "If you could just sign here, and here, and here; we'll be all set.",
+    "exHit": "If you could just",
+    "exVi": "Nếu bạn vui lòng ký vào đây, đây, và đây; thế là xong."
   },
   {
     "word": "deposit",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "an amount of money that is put in a bank account",
     "vi": "tiền gửi",
-    "viDef": "khoản tiền nạp vào tài khoản"
+    "viDef": "khoản tiền nạp vào tài khoản",
+    "ex": "Would you like to make a deposit today?",
+    "exHit": "deposit",
+    "exVi": "Hôm nay bạn có muốn gửi tiền không?"
   },
   {
     "word": "credit card",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a card to buy things and pay for them later",
     "vi": "thẻ tín dụng",
-    "viDef": "thẻ để mua trước, trả tiền sau"
+    "viDef": "thẻ để mua trước, trả tiền sau",
+    "ex": "I paid for the plane ticket with my credit card.",
+    "exHit": "credit card",
+    "exVi": "Tôi đã trả tiền vé máy bay bằng thẻ tín dụng của mình."
   },
   {
     "word": "online banking",
@@ -109,7 +148,10 @@
     "type": "common noun, non-variable",
     "def": "a service that allows people to do transactions online",
     "vi": "ngân hàng trực tuyến",
-    "viDef": "dịch vụ cho phép giao dịch qua mạng"
+    "viDef": "dịch vụ cho phép giao dịch qua mạng",
+    "ex": "I use online banking to pay my bills every month.",
+    "exHit": "online banking",
+    "exVi": "Tôi dùng ngân hàng trực tuyến để thanh toán hóa đơn mỗi tháng."
   },
   {
     "word": "telephone banking",
@@ -117,7 +159,10 @@
     "type": "common noun, non-variable",
     "def": "a service that allows people to do transactions by phone",
     "vi": "ngân hàng qua điện thoại",
-    "viDef": "dịch vụ cho phép giao dịch bằng điện thoại"
+    "viDef": "dịch vụ cho phép giao dịch bằng điện thoại",
+    "ex": "You can check your balance by using telephone banking at any time.",
+    "exHit": "telephone banking",
+    "exVi": "Bạn có thể kiểm tra số dư bằng dịch vụ ngân hàng qua điện thoại bất cứ lúc nào."
   },
   {
     "word": "cheque book",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "a book of cheques for use with a chequing account",
     "vi": "sổ chi phiếu",
-    "viDef": "tập chi phiếu dùng với tài khoản thanh toán"
+    "viDef": "tập chi phiếu dùng với tài khoản thanh toán",
+    "ex": "Alright, then, with this chequing account you'll be issued a debit card and a cheque book.",
+    "exHit": "cheque book",
+    "exVi": "Vậy thì, với tài khoản thanh toán này, bạn sẽ được cấp một thẻ ghi nợ và một cuốn séc."
   },
   {
     "word": "terms and conditions",
@@ -133,7 +181,10 @@
     "type": "common noun, non-variable",
     "def": "an outline of the rules and company policies of a particular product or service",
     "vi": "điều khoản và điều kiện",
-    "viDef": "bản tóm các quy định và chính sách của sản phẩm hoặc dịch vụ"
+    "viDef": "bản tóm các quy định và chính sách của sản phẩm hoặc dịch vụ",
+    "ex": "Please read the terms and conditions before you sign the form.",
+    "exHit": "terms and conditions",
+    "exVi": "Vui lòng đọc kỹ các điều khoản và điều kiện trước khi ký vào biểu mẫu."
   },
   {
     "word": "high interest account",
@@ -141,7 +192,10 @@
     "type": "common noun, singular",
     "def": "a savings account that offers higher than usual interest rate",
     "vi": "tài khoản lãi cao",
-    "viDef": "tài khoản tiết kiệm có lãi suất cao hơn bình thường"
+    "viDef": "tài khoản tiết kiệm có lãi suất cao hơn bình thường",
+    "ex": "I moved my savings into a high interest account last month.",
+    "exHit": "high interest account",
+    "exVi": "Tháng trước tôi đã chuyển tiền tiết kiệm sang một tài khoản lãi suất cao."
   },
   {
     "word": "teller",
@@ -149,6 +203,9 @@
     "type": "common noun, singular",
     "def": "a person working in a bank, who helps customers with daily transactions",
     "vi": "giao dịch viên",
-    "viDef": "nhân viên ngân hàng làm giao dịch cho khách"
+    "viDef": "nhân viên ngân hàng làm giao dịch cho khách",
+    "ex": "The teller at the bank helped me deposit my paycheck.",
+    "exHit": "teller",
+    "exVi": "Nhân viên giao dịch ở ngân hàng đã giúp tôi gửi tiền lương vào."
   }
 ]

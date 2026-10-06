@@ -5,7 +5,10 @@
     "type": "",
     "def": "so extreme a degree",
     "vi": "đến mức là",
-    "viDef": "ở mức độ quá đỗi"
+    "viDef": "ở mức độ quá đỗi",
+    "ex": "You are such a cheater!",
+    "exHit": "such a",
+    "exVi": "Anh đúng là đồ gian lận!"
   },
   {
     "word": "cheat",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to deceive by trickery",
     "vi": "gian, chơi gian",
-    "viDef": "lừa bằng mánh"
+    "viDef": "lừa bằng mánh",
+    "ex": "You are such a cheater!",
+    "exHit": "cheater",
+    "exVi": "Anh đúng là đồ gian lận!"
   },
   {
     "word": "my turn",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "my opportunity to do something",
     "vi": "tới lượt tôi",
-    "viDef": "dịp để tôi làm"
+    "viDef": "dịp để tôi làm",
+    "ex": "Now it's my turn to roll the dice.",
+    "exHit": "my turn",
+    "exVi": "Giờ đến lượt tôi đổ xúc xắc."
   },
   {
     "word": "jail",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "place where prisoners are kept",
     "vi": "nhà tù",
-    "viDef": "nơi giam giữ tù nhân"
+    "viDef": "nơi giam giữ tù nhân",
+    "ex": "I should send you to jail!",
+    "exHit": "jail",
+    "exVi": "Tôi nên tống anh vào tù!"
   },
   {
     "word": "can I",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "used to ask for permissions",
     "vi": "tôi có thể... không",
-    "viDef": "câu dùng để xin phép"
+    "viDef": "câu dùng để xin phép",
+    "ex": "Can I have my $200 please?",
+    "exHit": "Can I",
+    "exVi": "Cho tôi nhận lại 200 đô được không?"
   },
   {
     "word": "banker",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the player in charge of the bank in gambling games",
     "vi": "người giữ tiền",
-    "viDef": "người phụ trách quỹ trong các trò cá cược"
+    "viDef": "người phụ trách quỹ trong các trò cá cược",
+    "ex": "Banker?",
+    "exHit": "Banker",
+    "exVi": "Người giữ ngân hàng á?"
   },
   {
     "word": "Bank Teller",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A person who works for the bank",
     "vi": "giao dịch viên ngân hàng",
-    "viDef": "người làm việc cho ngân hàng"
+    "viDef": "người làm việc cho ngân hàng",
+    "ex": "The bank teller counted out my money twice.",
+    "exHit": "bank teller",
+    "exVi": "Nhân viên giao dịch ngân hàng đếm tiền cho tôi hai lần."
   },
   {
     "word": "Crook",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A person who steals(usually things of value)",
     "vi": "kẻ trộm cắp",
-    "viDef": "người lấy của người khác, thường là thứ có giá trị"
+    "viDef": "người lấy của người khác, thường là thứ có giá trị",
+    "ex": "That crook cheated everyone at the game and ran off.",
+    "exHit": "crook",
+    "exVi": "Tên lừa đảo đó đã gian lận với mọi người trong ván chơi rồi bỏ chạy."
   },
   {
     "word": "Permission",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "To accept a request",
     "vi": "sự cho phép",
-    "viDef": "việc đồng ý với một lời xin"
+    "viDef": "việc đồng ý với một lời xin",
+    "ex": "You need permission from your parents before you go.",
+    "exHit": "permission",
+    "exVi": "Bạn cần được bố mẹ cho phép trước khi đi."
   },
   {
     "word": "Gambling",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A game of odds",
     "vi": "cờ bạc",
-    "viDef": "trò chơi dựa vào may rủi"
+    "viDef": "trò chơi dựa vào may rủi",
+    "ex": "Gambling can be fun, but you shouldn't bet too much.",
+    "exHit": "Gambling",
+    "exVi": "Cờ bạc có thể vui, nhưng bạn không nên đặt cược quá nhiều."
   },
   {
     "word": "Collect",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "to receive something of yours",
     "vi": "nhận lấy",
-    "viDef": "nhận về thứ thuộc phần mình"
+    "viDef": "nhận về thứ thuộc phần mình",
+    "ex": "When you pass go, you collect $200, Everyone knows that!",
+    "exHit": "collect",
+    "exVi": "Khi đi qua ô xuất phát, bạn nhận 200 đô, ai cũng biết mà!"
   }
 ]

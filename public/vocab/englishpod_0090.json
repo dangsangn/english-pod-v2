@@ -5,7 +5,10 @@
     "type": "common noun, plural",
     "def": "the approximate place, where a person or thing is",
     "vi": "tung tích",
-    "viDef": "nơi phỏng đoán mà người hoặc vật đang ở"
+    "viDef": "nơi phỏng đoán mà người hoặc vật đang ở",
+    "ex": "I vowed to discover the whereabouts of my father and consequently joined the Indian Intelligence Bureau.",
+    "exHit": "whereabouts",
+    "exVi": "Tôi đã thề sẽ tìm ra tung tích của cha mình, và vì thế tôi gia nhập Cục Tình báo Ấn Độ."
   },
   {
     "word": "vow",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "promised",
     "vi": "thề",
-    "viDef": "đã hứa chắc"
+    "viDef": "đã hứa chắc",
+    "ex": "I vowed to discover the whereabouts of my father and consequently joined the Indian Intelligence Bureau.",
+    "exHit": "vowed",
+    "exVi": "Tôi đã thề sẽ tìm ra tung tích của cha mình, và vì thế tôi gia nhập Cục Tình báo Ấn Độ."
   },
   {
     "word": "millennium",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "1000 years",
     "vi": "thiên niên kỷ",
-    "viDef": "một nghìn năm"
+    "viDef": "một nghìn năm",
+    "ex": "One day, he was approached by members of the CIA, claiming that my father had made the discovery of the millennium in his small lab back at the university where he taught bio-chemistry.",
+    "exHit": "millennium",
+    "exVi": "Một ngày nọ, các thành viên của CIA tìm đến ông, nói rằng cha tôi đã có phát hiện của thiên niên kỷ trong phòng thí nghiệm nhỏ ở trường đại học nơi ông dạy hóa sinh."
   },
   {
     "word": "renowned",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "well known",
     "vi": "lừng danh",
-    "viDef": "nổi tiếng"
+    "viDef": "nổi tiếng",
+    "ex": "It was a peaceful town, and my father was a renowned chemist.",
+    "exHit": "renowned",
+    "exVi": "Đó là một thị trấn yên bình, và cha tôi là một nhà hóa học nổi tiếng."
   },
   {
     "word": "claim",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to assert as a fact",
     "vi": "khẳng định",
-    "viDef": "nói chắc rằng đó là thật"
+    "viDef": "nói chắc rằng đó là thật",
+    "ex": "One day, he was approached by members of the CIA, claiming that my father had made the discovery of the millennium in his small lab back at the university where he taught bio-chemistry.",
+    "exHit": "claiming",
+    "exVi": "Một ngày nọ, các thành viên của CIA tìm đến ông, nói rằng cha tôi đã có phát hiện của thiên niên kỷ trong phòng thí nghiệm nhỏ ở trường đại học nơi ông dạy hóa sinh."
   },
   {
     "word": "spy",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a person employed to find out secret information about other countries or organizations",
     "vi": "điệp viên",
-    "viDef": "người được thuê để lấy tin mật của nước hoặc tổ chức khác"
+    "viDef": "người được thuê để lấy tin mật của nước hoặc tổ chức khác",
+    "ex": "I'm a spy for the Indian government.",
+    "exHit": "spy",
+    "exVi": "Tôi là gián điệp của chính phủ Ấn Độ."
   },
   {
     "word": "honest",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "truthful and moral in behaviour; trustworthy",
     "vi": "thật thà",
-    "viDef": "nói thật, xử sự có đạo lý, đáng tin"
+    "viDef": "nói thật, xử sự có đạo lý, đáng tin",
+    "ex": "I haven't been completely honest with you Veronica, I'm sorry.",
+    "exHit": "honest",
+    "exVi": "Veronica, anh đã không hoàn toàn thành thật với em, anh xin lỗi."
   },
   {
     "word": "go on",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "happening",
     "vi": "đang diễn ra",
-    "viDef": "đang xảy ra"
+    "viDef": "đang xảy ra",
+    "ex": "What's going on!",
+    "exHit": "going on",
+    "exVi": "Chuyện gì đang xảy ra vậy!"
   },
   {
     "word": "come clean",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "confess, tell everything, tell the truth",
     "vi": "thú thật hết",
-    "viDef": "nhận và kể hết sự thật"
+    "viDef": "nhận và kể hết sự thật",
+    "ex": "I will come clean as soon as we get to safety, OK?",
+    "exHit": "come clean",
+    "exVi": "Anh sẽ nói hết sự thật ngay khi chúng ta đến nơi an toàn, được chứ?"
   },
   {
     "word": "FBI",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "Federal Bureau of Investigation",
     "vi": "FBI",
-    "viDef": "Cục Điều tra Liên bang Mỹ"
+    "viDef": "Cục Điều tra Liên bang Mỹ",
+    "ex": "The FBI is investigating the case.",
+    "exHit": "FBI",
+    "exVi": "FBI đang điều tra vụ này."
   },
   {
     "word": "undercover",
@@ -85,7 +115,10 @@
     "type": "Adjective",
     "def": "done or acting in secret",
     "vi": "nằm vùng, bí mật",
-    "viDef": "làm hoặc hoạt động ngầm"
+    "viDef": "làm hoặc hoạt động ngầm",
+    "ex": "She works undercover to catch the thieves.",
+    "exHit": "undercover",
+    "exVi": "Cô ấy làm việc ngầm để bắt bọn trộm."
   },
   {
     "word": "notorious",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "well known for some bad reason",
     "vi": "khét tiếng",
-    "viDef": "nổi tiếng vì điều xấu"
+    "viDef": "nổi tiếng vì điều xấu",
+    "ex": "He is notorious for lying to his friends.",
+    "exHit": "notorious",
+    "exVi": "Anh ta nổi tiếng xấu vì hay nói dối bạn bè."
   },
   {
     "word": "white lie",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "an unimportant, small lie",
     "vi": "lời dối vô hại",
-    "viDef": "câu nói dối nhỏ, không quan trọng"
+    "viDef": "câu nói dối nhỏ, không quan trọng",
+    "ex": "It was only a white lie, so don't be upset.",
+    "exHit": "white lie",
+    "exVi": "Đó chỉ là lời nói dối vô hại thôi, đừng buồn nhé."
   },
   {
     "word": "pull (someone's) leg",
@@ -109,6 +148,9 @@
     "type": "phrase",
     "def": "tell false information to for fun",
     "vi": "trêu, chọc chơi",
-    "viDef": "nói sai sự thật để đùa"
+    "viDef": "nói sai sự thật để đùa",
+    "ex": "Are you pulling my leg right now?",
+    "exHit": "pulling my leg",
+    "exVi": "Bạn đang trêu tôi đấy à?"
   }
 ]

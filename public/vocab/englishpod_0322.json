@@ -5,7 +5,10 @@
     "type": "",
     "def": "a person who is traveling",
     "vi": "khách du lịch",
-    "viDef": "người đang đi du lịch"
+    "viDef": "người đang đi du lịch",
+    "ex": "No, I'm a tourist.",
+    "exHit": "tourist",
+    "exVi": "Không, tôi là khách du lịch."
   },
   {
     "word": "amazing",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "causing wonder or astonishment",
     "vi": "tuyệt vời",
-    "viDef": "gây ngạc nhiên hoặc kinh ngạc"
+    "viDef": "gây ngạc nhiên hoặc kinh ngạc",
+    "ex": "This place is amazing!",
+    "exHit": "amazing",
+    "exVi": "Nơi này tuyệt vời quá!"
   },
   {
     "word": "modern",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "high-tech",
     "vi": "hiện đại",
-    "viDef": "công nghệ cao"
+    "viDef": "công nghệ cao",
+    "ex": "It's much more modern than people imagine.",
+    "exHit": "modern",
+    "exVi": "Nó hiện đại hơn nhiều so với những gì mọi người tưởng."
   },
   {
     "word": "originally",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "originally",
     "vi": "vốn dĩ",
-    "viDef": "ban đầu là"
+    "viDef": "ban đầu là",
+    "ex": "I'm from Kansas originally.",
+    "exHit": "originally",
+    "exVi": "Tôi vốn là người Kansas."
   },
   {
     "word": "peaceful",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "calm or tranquil",
     "vi": "yên bình",
-    "viDef": "êm ả, tĩnh lặng"
+    "viDef": "êm ả, tĩnh lặng",
+    "ex": "A much quieter and more peaceful place than here, that's for sure!",
+    "exHit": "peaceful",
+    "exVi": "Một nơi yên tĩnh và thanh bình hơn ở đây nhiều, chắc chắn rồi!"
   },
   {
     "word": "imagine",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to form a mental image of",
     "vi": "hình dung",
-    "viDef": "dựng lên một hình ảnh trong đầu"
+    "viDef": "dựng lên một hình ảnh trong đầu",
+    "ex": "It's much more modern than people imagine.",
+    "exHit": "imagine",
+    "exVi": "Nó hiện đại hơn nhiều so với những gì mọi người hình dung."
   },
   {
     "word": "exciting",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "excite",
     "vi": "thú vị",
-    "viDef": "gây phấn khích"
+    "viDef": "gây phấn khích",
+    "ex": "It's much bigger than I imagined, and much more exciting!",
+    "exHit": "exciting",
+    "exVi": "Nó lớn hơn tôi tưởng tượng nhiều, và thú vị hơn nhiều!"
   },
   {
     "word": "ego",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "self-importance",
     "vi": "cái tôi",
-    "viDef": "sự tự cho mình là quan trọng"
+    "viDef": "sự tự cho mình là quan trọng",
+    "ex": "He has a huge ego, so he never listens to anyone.",
+    "exHit": "ego",
+    "exVi": "Anh ta có cái tôi rất lớn nên chẳng bao giờ nghe ai."
   },
   {
     "word": "vain",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "excessively proud of or concerned about one's own appearance, qualities, achievements",
     "vi": "tự phụ",
-    "viDef": "quá tự hào hoặc quá bận tâm về ngoại hình, phẩm chất, thành tựu của mình"
+    "viDef": "quá tự hào hoặc quá bận tâm về ngoại hình, phẩm chất, thành tựu của mình",
+    "ex": "She is a bit vain and checks her hair all the time.",
+    "exHit": "vain",
+    "exVi": "Cô ấy hơi tự cao về ngoại hình và lúc nào cũng kiểm tra tóc."
   },
   {
     "word": "historic",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "well-known or important in history",
     "vi": "có tính lịch sử",
-    "viDef": "nổi tiếng hoặc quan trọng trong lịch sử"
+    "viDef": "nổi tiếng hoặc quan trọng trong lịch sử",
+    "ex": "I visited a historic temple in the city yesterday.",
+    "exHit": "historic",
+    "exVi": "Hôm qua tôi đã đến thăm một ngôi đền nổi tiếng trong lịch sử ở thành phố."
   },
   {
     "word": "seclude",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "sheltered or screened from general activity",
     "vi": "tách biệt",
-    "viDef": "được che chắn hoặc khuất khỏi hoạt động chung"
+    "viDef": "được che chắn hoặc khuất khỏi hoạt động chung",
+    "ex": "We found a secluded beach far away from the crowds.",
+    "exHit": "secluded",
+    "exVi": "Chúng tôi tìm được một bãi biển hẻo lánh, xa đám đông."
   },
   {
     "word": "off the beaten track",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "out of the way",
     "vi": "ngoài lối mòn",
-    "viDef": "nằm khuất, ít người lui tới"
+    "viDef": "nằm khuất, ít người lui tới",
+    "ex": "I prefer small villages that are off the beaten track.",
+    "exHit": "off the beaten track",
+    "exVi": "Tôi thích những ngôi làng nhỏ nằm ở nơi hẻo lánh, ít người biết đến."
   }
 ]

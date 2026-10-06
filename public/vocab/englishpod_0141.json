@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "to end up like",
     "vi": "hóa thành",
-    "viDef": "kết cục lại thành ra như vậy"
+    "viDef": "kết cục lại thành ra như vậy",
+    "ex": "Well, sometimes I think of how things could have turned out if I had done things a little differently.",
+    "exHit": "turned out",
+    "exVi": "Đôi khi tôi nghĩ xem mọi chuyện sẽ ra sao nếu ngày xưa tôi làm khác đi một chút."
   },
   {
     "word": "wonder",
@@ -13,7 +16,10 @@
     "type": "principle verb, present simple",
     "def": "to think about",
     "vi": "nghĩ ngợi",
-    "viDef": "suy nghĩ về điều gì"
+    "viDef": "suy nghĩ về điều gì",
+    "ex": "Although, don't you ever wonder what \"could have been\"?",
+    "exHit": "wonder",
+    "exVi": "Nhưng mà, bạn không bao giờ tự hỏi chuyện \"giá như\" sẽ thế nào sao?"
   },
   {
     "word": "now that I think of it",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "used to express a realization",
     "vi": "giờ nghĩ lại",
-    "viDef": "câu nói khi chợt nhận ra điều gì"
+    "viDef": "câu nói khi chợt nhận ra điều gì",
+    "ex": "Yeah now that I think of it, I wouldn't have gotten married if I hadn't moved to this town and met Sally.",
+    "exHit": "now that I think of it",
+    "exVi": "Ừ, giờ nghĩ lại thì tôi sẽ không cưới nếu tôi không chuyển đến thị trấn này và gặp Sally."
   },
   {
     "word": "regret",
@@ -29,7 +38,10 @@
     "type": "common noun, plural",
     "def": "to feel sad or sorry about something",
     "vi": "hối tiếc",
-    "viDef": "thấy buồn hoặc tiếc về điều gì"
+    "viDef": "thấy buồn hoặc tiếc về điều gì",
+    "ex": "Well, I have no regrets!",
+    "exHit": "regrets",
+    "exVi": "Chà, tôi không hối tiếc gì cả!"
   },
   {
     "word": "good life",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "a happy and relaxed life",
     "vi": "đời sống sung túc",
-    "viDef": "cuộc sống vui vẻ, thoải mái"
+    "viDef": "cuộc sống vui vẻ, thoải mái",
+    "ex": "This is the good life!",
+    "exHit": "good life",
+    "exVi": "Đây mới đúng là cuộc sống sung sướng!"
   },
   {
     "word": "could have been",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "an alternative scenario",
     "vi": "lẽ ra đã có thể",
-    "viDef": "một khả năng khác đã có thể xảy ra"
+    "viDef": "một khả năng khác đã có thể xảy ra",
+    "ex": "Although, don't you ever wonder what \"could have been\"?",
+    "exHit": "could have been",
+    "exVi": "Nhưng mà, bạn không bao giờ tự hỏi chuyện \"giá như\" sẽ thế nào sao?"
   },
   {
     "word": "architecture",
@@ -53,7 +71,10 @@
     "type": "common noun, non-variable",
     "def": "the art and science of designing buildings",
     "vi": "kiến trúc",
-    "viDef": "nghệ thuật và khoa học thiết kế công trình"
+    "viDef": "nghệ thuật và khoa học thiết kế công trình",
+    "ex": "It really is an amazing work of architecture and art.",
+    "exHit": "architecture",
+    "exVi": "Đó thực sự là một công trình kiến trúc và nghệ thuật tuyệt vời."
   },
   {
     "word": "accident",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a sudden event that is not planned",
     "vi": "tai nạn",
-    "viDef": "việc xảy ra bất ngờ, ngoài dự tính"
+    "viDef": "việc xảy ra bất ngờ, ngoài dự tính",
+    "ex": "We wouldn't even have met if I hadn't been in that car accident ten years ago!",
+    "exHit": "accident",
+    "exVi": "Chúng ta thậm chí đã không gặp nhau nếu tôi không bị tai nạn xe hơi mười năm trước!"
   },
   {
     "word": "architect",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a person who designs buildings",
     "vi": "kiến trúc sư",
-    "viDef": "người thiết kế công trình"
+    "viDef": "người thiết kế công trình",
+    "ex": "My sister is an architect and she designed our new house.",
+    "exHit": "architect",
+    "exVi": "Chị gái tôi là kiến trúc sư và chính chị ấy đã thiết kế ngôi nhà mới của chúng tôi."
   },
   {
     "word": "wreck",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "to ruin or destroy something (like a car)",
     "vi": "làm tan nát",
-    "viDef": "phá hỏng thứ gì, chẳng hạn chiếc xe"
+    "viDef": "phá hỏng thứ gì, chẳng hạn chiếc xe",
+    "ex": "He drove too fast and wrecked his new car in just one week.",
+    "exHit": "wrecked",
+    "exVi": "Anh ấy lái xe quá nhanh và làm nát chiếc xe mới chỉ trong một tuần."
   },
   {
     "word": "remorse",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "a feeling of guilt",
     "vi": "sự ăn năn",
-    "viDef": "cảm giác thấy mình có lỗi"
+    "viDef": "cảm giác thấy mình có lỗi",
+    "ex": "After the argument, he felt deep remorse for what he had said.",
+    "exHit": "remorse",
+    "exVi": "Sau cuộc cãi vã, anh ấy cảm thấy day dứt sâu sắc vì những gì mình đã nói."
   },
   {
     "word": "ponder",
@@ -93,7 +126,10 @@
     "type": "verb",
     "def": "to think deeply about something",
     "vi": "ngẫm nghĩ",
-    "viDef": "suy tư sâu về điều gì"
+    "viDef": "suy tư sâu về điều gì",
+    "ex": "I often sit and ponder how my life would be different.",
+    "exHit": "ponder",
+    "exVi": "Tôi thường ngồi suy ngẫm xem cuộc đời mình sẽ khác đi thế nào."
   },
   {
     "word": "reminisce",
@@ -101,6 +137,9 @@
     "type": "verb",
     "def": "to think fondly about the past",
     "vi": "hồi tưởng",
-    "viDef": "nghĩ về chuyện xưa với lòng trìu mến"
+    "viDef": "nghĩ về chuyện xưa với lòng trìu mến",
+    "ex": "My grandparents love to reminisce about the old days in the village.",
+    "exHit": "reminisce",
+    "exVi": "Ông bà tôi thích ngồi hồi tưởng về những ngày xưa ở quê."
   }
 ]

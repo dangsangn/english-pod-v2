@@ -5,7 +5,10 @@
     "type": "",
     "def": "a game where you try to knock pins down with a bal",
     "vi": "bowling",
-    "viDef": "trò dùng quả bóng lăn để hạ các con ky"
+    "viDef": "trò dùng quả bóng lăn để hạ các con ky",
+    "ex": "OK, so I got my bowling shoes, my ball, our names on the scorecard, so now, how the heck do I play this?",
+    "exHit": "bowling",
+    "exVi": "Được rồi, tôi có giày bowling, bóng, tên mình cũng ghi lên bảng điểm rồi, vậy giờ chơi thế nào đây?"
   },
   {
     "word": "polish",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to make smooth and glossy, esp. by rubbing or friction",
     "vi": "đánh bóng",
-    "viDef": "làm cho mượt và sáng, nhất là bằng cách chà xát"
+    "viDef": "làm cho mượt và sáng, nhất là bằng cách chà xát",
+    "ex": "Because they polish and oil it to make the ball slide down.",
+    "exHit": "polish",
+    "exVi": "Vì họ đánh bóng và tra dầu cho nó để quả bóng trượt xuống."
   },
   {
     "word": "lane",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "any narrow or well-defined passage, track, channel, or course",
     "vi": "làn, đường lăn",
-    "viDef": "lối, rãnh hoặc đường hẹp và rõ ràng"
+    "viDef": "lối, rãnh hoặc đường hẹp và rõ ràng",
+    "ex": "You throw the ball down the lane and try to knock down all the pins.",
+    "exHit": "lane",
+    "exVi": "Bạn lăn quả bóng xuống đường băng và cố hạ gục tất cả các ky."
   },
   {
     "word": "knock",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to strike in collision",
     "vi": "đập trúng",
-    "viDef": "va đập vào"
+    "viDef": "va đập vào",
+    "ex": "You throw the ball down the lane and try to knock down all the pins.",
+    "exHit": "knock",
+    "exVi": "Bạn lăn quả bóng xuống đường băng và cố hạ gục tất cả các ky."
   },
   {
     "word": "gutter",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a sunken channel on each side of the lane",
     "vi": "rãnh biên",
-    "viDef": "máng lõm ở hai bên đường lăn"
+    "viDef": "máng lõm ở hai bên đường lăn",
+    "ex": "My ball went in the gutter!",
+    "exHit": "gutter",
+    "exVi": "Bóng của tôi rơi xuống rãnh rồi!"
   },
   {
     "word": "pro",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "an expert player",
     "vi": "tay chuyên nghiệp",
-    "viDef": "người chơi giỏi"
+    "viDef": "người chơi giỏi",
+    "ex": "Now let a pro show you how it's done.",
+    "exHit": "pro",
+    "exVi": "Giờ để cao thủ chỉ bạn cách chơi nhé."
   },
   {
     "word": "split",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "separate or apart",
     "vi": "thế ky tách",
-    "viDef": "tách ra, cách nhau"
+    "viDef": "tách ra, cách nhau",
+    "ex": "If two pins stand far apart, that is called a split.",
+    "exHit": "split",
+    "exVi": "Nếu hai ky đứng cách xa nhau thì gọi là split."
   },
   {
     "word": "perfect game",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a game in bowling of 12 consecutive strikes.",
     "vi": "ván hoàn hảo",
-    "viDef": "ván bowling ăn 12 cú strike liên tiếp"
+    "viDef": "ván bowling ăn 12 cú strike liên tiếp",
+    "ex": "He bowled a perfect game, and everyone cheered loudly.",
+    "exHit": "perfect game",
+    "exVi": "Anh ấy chơi được một ván hoàn hảo, và mọi người reo hò ầm ĩ."
   },
   {
     "word": "pin",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a small, slender, often pointed piece of wood, metal",
     "vi": "con ky",
-    "viDef": "thanh gỗ hoặc kim loại nhỏ, thon, thường có đầu nhọn"
+    "viDef": "thanh gỗ hoặc kim loại nhỏ, thon, thường có đầu nhọn",
+    "ex": "You throw the ball down the lane and try to knock down all the pins.",
+    "exHit": "pins",
+    "exVi": "Bạn lăn quả bóng xuống đường băng và cố hạ gục tất cả các ky."
   },
   {
     "word": "strike",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to hit, collide",
     "vi": "cú strike",
-    "viDef": "đánh trúng, va vào"
+    "viDef": "đánh trúng, va vào",
+    "ex": "Try to strike the pins with a heavy ball.",
+    "exHit": "strike",
+    "exVi": "Hãy thử đánh trúng các ky bằng một quả bóng nặng."
   },
   {
     "word": "gutter ball",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "A ball that goes into the gutter",
     "vi": "bóng lọt rãnh",
-    "viDef": "quả bóng lăn xuống rãnh biên"
+    "viDef": "quả bóng lăn xuống rãnh biên",
+    "ex": "My first throw was a gutter ball, which was embarrassing.",
+    "exHit": "gutter ball",
+    "exVi": "Lần ném đầu của tôi là bóng rơi xuống rãnh, thật xấu hổ."
   }
 ]

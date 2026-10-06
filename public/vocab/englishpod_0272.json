@@ -5,7 +5,10 @@
     "type": "",
     "def": "very tired",
     "vi": "kiệt sức",
-    "viDef": "rất mệt"
+    "viDef": "rất mệt",
+    "ex": "I'm exhausted!",
+    "exHit": "exhausted",
+    "exVi": "Tôi kiệt sức rồi!"
   },
   {
     "word": "hire",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to give work",
     "vi": "thuê người",
-    "viDef": "giao việc cho ai"
+    "viDef": "giao việc cho ai",
+    "ex": "Maybe you should hire a nanny to help you out!",
+    "exHit": "hire",
+    "exVi": "Có lẽ bạn nên thuê một người giữ trẻ để đỡ đần!"
   },
   {
     "word": "nanny",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a woman who is paid to care for a young child",
     "vi": "bảo mẫu",
-    "viDef": "người nữ được trả tiền để trông trẻ nhỏ"
+    "viDef": "người nữ được trả tiền để trông trẻ nhỏ",
+    "ex": "it's hard to find the right nanny.",
+    "exHit": "nanny",
+    "exVi": "Thật khó để tìm được một người giữ trẻ phù hợp."
   },
   {
     "word": "chore",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a small job that is done regularly",
     "vi": "việc nhà",
-    "viDef": "công việc nhỏ phải làm thường xuyên"
+    "viDef": "công việc nhỏ phải làm thường xuyên",
+    "ex": "She can also help you do some household chores, and run some errands.",
+    "exHit": "chores",
+    "exVi": "Cô ấy còn có thể giúp bạn làm việc nhà và chạy việc vặt."
   },
   {
     "word": "errand",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "short journey that you take to do or get something",
     "vi": "việc chạy ra ngoài",
-    "viDef": "chuyến đi ngắn để làm hoặc lấy thứ gì"
+    "viDef": "chuyến đi ngắn để làm hoặc lấy thứ gì",
+    "ex": "She can also help you do some household chores, and run some errands.",
+    "exHit": "errands",
+    "exVi": "Cô ấy còn có thể giúp bạn làm việc nhà và chạy việc vặt."
   },
   {
     "word": "juggle",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to do several things at the same time",
     "vi": "xoay xở nhiều việc",
-    "viDef": "làm nhiều việc cùng lúc"
+    "viDef": "làm nhiều việc cùng lúc",
+    "ex": "This way you won't have to juggle such a busy schedule, and you'll still get to spend time with the kids in the evenings.",
+    "exHit": "juggle",
+    "exVi": "Như vậy bạn sẽ không phải xoay xở với lịch trình bận rộn nữa, mà buổi tối vẫn có thời gian bên các con."
   },
   {
     "word": "refer",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to send someone to a person or place for treatment",
     "vi": "giới thiệu chuyển tới",
-    "viDef": "gửi ai tới một người hoặc nơi để được chữa trị"
+    "viDef": "gửi ai tới một người hoặc nơi để được chữa trị",
+    "ex": "I can refer you this great nanny Amy.",
+    "exHit": "refer",
+    "exVi": "Tôi có thể giới thiệu cho bạn một người giữ trẻ rất tốt tên là Amy."
   },
   {
     "word": "Babysitter",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A person that looks after kids when their parents are not home",
     "vi": "người trông trẻ",
-    "viDef": "người coi con nhỏ khi cha mẹ không ở nhà"
+    "viDef": "người coi con nhỏ khi cha mẹ không ở nhà",
+    "ex": "She works as a babysitter on weekends to earn extra money.",
+    "exHit": "babysitter",
+    "exVi": "Cô ấy làm người trông trẻ vào cuối tuần để kiếm thêm tiền."
   },
   {
     "word": "Domestic Help",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Any person that is hired to work at a residence",
     "vi": "người giúp việc nhà",
-    "viDef": "người được thuê làm việc tại một gia đình"
+    "viDef": "người được thuê làm việc tại một gia đình",
+    "ex": "Their family hired domestic help to clean the house every day.",
+    "exHit": "domestic help",
+    "exVi": "Gia đình họ thuê một người giúp việc nhà để dọn dẹp mỗi ngày."
   },
   {
     "word": "Minimum Wage",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "The lowest legal wage a person can earn either hourly or monthly",
     "vi": "lương tối thiểu",
-    "viDef": "mức lương thấp nhất theo luật mà một người được trả theo giờ hoặc theo tháng"
+    "viDef": "mức lương thấp nhất theo luật mà một người được trả theo giờ hoặc theo tháng",
+    "ex": "The minimum wage here was raised at the beginning of this year.",
+    "exHit": "minimum wage",
+    "exVi": "Mức lương tối thiểu ở đây vừa được tăng lên vào đầu năm nay."
   },
   {
     "word": "Maid",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "A woman that helps with the household chores such as cleaning and cooking",
     "vi": "người giúp việc nữ",
-    "viDef": "người nữ giúp làm việc nhà như dọn dẹp và nấu ăn"
+    "viDef": "người nữ giúp làm việc nhà như dọn dẹp và nấu ăn",
+    "ex": "The maid cleans the house and cooks dinner for the whole family.",
+    "exHit": "maid",
+    "exVi": "Cô giúp việc dọn nhà và nấu bữa tối cho cả gia đình."
   },
   {
     "word": "Butler",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "A man that helps with the household chores such as cleaning and cooking",
     "vi": "quản gia",
-    "viDef": "người nam giúp làm việc nhà như dọn dẹp và nấu ăn"
+    "viDef": "người nam giúp làm việc nhà như dọn dẹp và nấu ăn",
+    "ex": "The butler opened the door and invited us into the living room.",
+    "exHit": "butler",
+    "exVi": "Người quản gia mở cửa và mời chúng tôi vào phòng khách."
   }
 ]

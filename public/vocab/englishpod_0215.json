@@ -5,7 +5,10 @@
     "type": "",
     "def": "lack",
     "vi": "hết mất",
-    "viDef": "thiếu, không còn"
+    "viDef": "thiếu, không còn",
+    "ex": "Honey, we are all out of wine and cheese.",
+    "exHit": "out of",
+    "exVi": "Em yêu, nhà mình hết rượu vang và phô mai rồi."
   },
   {
     "word": "pick up",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to choose and buy",
     "vi": "chọn mua",
-    "viDef": "lựa rồi mua"
+    "viDef": "lựa rồi mua",
+    "ex": "Ok, pick up some cured meats to go with the wine.",
+    "exHit": "pick up",
+    "exVi": "Được rồi, mua ít thịt muối để ăn kèm rượu vang nhé."
   },
   {
     "word": "promotion",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "something done to make people aware of a product",
     "vi": "hoạt động quảng bá",
-    "viDef": "việc làm nhằm giúp mọi người biết đến sản phẩm"
+    "viDef": "việc làm nhằm giúp mọi người biết đến sản phẩm",
+    "ex": "Um, perhaps, um, a sales promotion.",
+    "exHit": "promotion",
+    "exVi": "Ừm, có lẽ là một chương trình khuyến mãi."
   },
   {
     "word": "never mind",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "don't take what you just said into consideration",
     "vi": "thôi bỏ đi",
-    "viDef": "đừng để ý câu vừa rồi"
+    "viDef": "đừng để ý câu vừa rồi",
+    "ex": "Never mind that.",
+    "exHit": "Never mind",
+    "exVi": "Thôi bỏ qua chuyện đó đi."
   },
   {
     "word": "last but not least",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "in addition to all the foregoing",
     "vi": "cuối nhưng không kém phần",
-    "viDef": "thêm vào tất cả những điều trên"
+    "viDef": "thêm vào tất cả những điều trên",
+    "ex": "Last but not least, get some pickles.",
+    "exHit": "Last but not least",
+    "exVi": "Cuối cùng nhưng không kém phần quan trọng, mua ít dưa chuột muối nhé."
   },
   {
     "word": "deli",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a shop selling ready-to-eat food products",
     "vi": "quầy đồ ăn sẵn",
-    "viDef": "cửa hàng bán thực phẩm ăn liền"
+    "viDef": "cửa hàng bán thực phẩm ăn liền",
+    "ex": "Do you mind running to the deli and picking up a few things?",
+    "exHit": "deli",
+    "exVi": "Bạn có phiền chạy ra tiệm đồ ăn sẵn mua giúp vài thứ không?"
   },
   {
     "word": "Demand",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "To aggressively give orders",
     "vi": "ra lệnh gắt",
-    "viDef": "yêu cầu một cách áp đặt"
+    "viDef": "yêu cầu một cách áp đặt",
+    "ex": "The customer began to demand a refund loudly.",
+    "exHit": "demand",
+    "exVi": "Vị khách bắt đầu lớn tiếng đòi hoàn tiền."
   },
   {
     "word": "Distraction",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "To lose focus",
     "vi": "sự mất tập trung",
-    "viDef": "việc bị hút chú ý sang chỗ khác"
+    "viDef": "việc bị hút chú ý sang chỗ khác",
+    "ex": "My phone is a big distraction when I'm studying.",
+    "exHit": "distraction",
+    "exVi": "Điện thoại là thứ gây xao nhãng lớn khi tôi học bài."
   },
   {
     "word": "Inconvenient",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Have bad timing",
     "vi": "bất tiện",
-    "viDef": "không đúng lúc"
+    "viDef": "không đúng lúc",
+    "ex": "Sorry, is this an inconvenient time to call?",
+    "exHit": "inconvenient",
+    "exVi": "Xin lỗi, bây giờ gọi có bất tiện không?"
   },
   {
     "word": "Decieving",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "To not be truthful",
     "vi": "dối gạt",
-    "viDef": "không nói thật"
+    "viDef": "không nói thật",
+    "ex": "I think he was deceiving us the whole time.",
+    "exHit": "deceiving",
+    "exVi": "Tôi nghĩ anh ta đã lừa dối chúng ta suốt thời gian qua."
   },
   {
     "word": "Expenses",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "To be aware of the spending or saving money",
     "vi": "các khoản chi",
-    "viDef": "việc để tâm đến chuyện chi hay giữ tiền"
+    "viDef": "việc để tâm đến chuyện chi hay giữ tiền",
+    "ex": "I keep track of my monthly expenses in a notebook.",
+    "exHit": "expenses",
+    "exVi": "Tôi ghi chép các khoản chi tiêu hàng tháng vào một quyển sổ."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "to turn out to be",
     "vi": "lên tới",
-    "viDef": "hóa ra là, cộng lại thành"
+    "viDef": "hóa ra là, cộng lại thành",
+    "ex": "As you can see in the 1980's computer ownership amounted to around 0.",
+    "exHit": "amounted to",
+    "exVi": "Như bạn thấy, vào những năm 1980, số người sở hữu máy tính chỉ đạt khoảng 0."
   },
   {
     "word": "dramatically",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "in a sudden and extreme way",
     "vi": "đột biến rõ rệt",
-    "viDef": "theo cách bất ngờ và mạnh"
+    "viDef": "theo cách bất ngờ và mạnh",
+    "ex": "Since the 1990's, computer ownership has risen dramatically.",
+    "exHit": "dramatically",
+    "exVi": "Từ những năm 1990, số người sở hữu máy tính đã tăng vọt."
   },
   {
     "word": "stand",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "represent",
     "vi": "tượng trưng cho",
-    "viDef": "đại diện"
+    "viDef": "đại diện",
+    "ex": "The letters on this gate stand for Hanoi Junior High School.",
+    "exHit": "stand for",
+    "exVi": "Những chữ cái trên cổng này có nghĩa là Trường Trung học Cơ sở Hà Nội."
   },
   {
     "word": "reap",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to get something as a result of something",
     "vi": "thu về",
-    "viDef": "nhận được điều gì nhờ một việc khác"
+    "viDef": "nhận được điều gì nhờ một việc khác",
+    "ex": "If we do this right we really can reap huge rewards in a very short time frame.",
+    "exHit": "reap",
+    "exVi": "Nếu làm đúng, chúng ta thật sự có thể gặt hái thành quả lớn trong thời gian rất ngắn."
   },
   {
     "word": "cut-throat",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "situation in which people compete in an unpleasant way",
     "vi": "cạnh tranh khốc liệt",
-    "viDef": "tình thế mà người ta đua nhau theo cách chẳng dễ chịu"
+    "viDef": "tình thế mà người ta đua nhau theo cách chẳng dễ chịu",
+    "ex": "The phone market is cut-throat, and everyone fights for the same customers.",
+    "exHit": "cut-throat",
+    "exVi": "Thị trường điện thoại cạnh tranh khốc liệt, ai cũng cố giành khách của nhau."
   },
   {
     "word": "pie chart",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a circular chart divided into sectors, illustrating proportion",
     "vi": "biểu đồ tròn",
-    "viDef": "đồ thị hình tròn chia thành các phần, cho thấy tỉ lệ"
+    "viDef": "đồ thị hình tròn chia thành các phần, cho thấy tỉ lệ",
+    "ex": "This pie chart shows how much of the budget each department gets.",
+    "exHit": "pie chart",
+    "exVi": "Biểu đồ tròn này cho thấy mỗi phòng ban chiếm bao nhiêu phần ngân sách."
   },
   {
     "word": "bar graph",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a chart with rectangular bars with lengths proportional to the values that they represent.",
     "vi": "biểu đồ cột",
-    "viDef": "đồ thị có các cột chữ nhật dài ngắn theo giá trị chúng thể hiện"
+    "viDef": "đồ thị có các cột chữ nhật dài ngắn theo giá trị chúng thể hiện",
+    "ex": "The bar graph shows that this month's sales are higher than last month's.",
+    "exHit": "bar graph",
+    "exVi": "Biểu đồ cột cho thấy doanh số tháng này cao hơn tháng trước."
   },
   {
     "word": "line chart",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a two-dimensional scatterplot of ordered observations where the observations are connected following their order.",
     "vi": "biểu đồ đường",
-    "viDef": "đồ thị hai chiều gồm các điểm quan sát theo thứ tự được nối lại theo đúng trình tự"
+    "viDef": "đồ thị hai chiều gồm các điểm quan sát theo thứ tự được nối lại theo đúng trình tự",
+    "ex": "The line chart shows the temperature rising slowly all week.",
+    "exHit": "line chart",
+    "exVi": "Biểu đồ đường cho thấy nhiệt độ tăng dần trong suốt cả tuần."
   },
   {
     "word": "market share",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the proportion of industry sales of a good or service that is controlled by a company.",
     "vi": "thị phần",
-    "viDef": "tỉ lệ doanh số ngành của một hàng hóa hay dịch vụ mà một công ty nắm"
+    "viDef": "tỉ lệ doanh số ngành của một hàng hóa hay dịch vụ mà một công ty nắm",
+    "ex": "We continue to fight with our competitors for market share, and this is the case both in the developed markets in the West, as well as more developing markets in Asia and Africa.",
+    "exHit": "market share",
+    "exVi": "Chúng tôi tiếp tục cạnh tranh thị phần với các đối thủ, ở cả những thị trường phát triển phía Tây lẫn những thị trường đang phát triển ở châu Á và châu Phi."
   },
   {
     "word": "sales forecast",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "the estimate of upcoming or future sales",
     "vi": "dự báo doanh số",
-    "viDef": "mức bán dự tính cho thời gian tới"
+    "viDef": "mức bán dự tính cho thời gian tới",
+    "ex": "The sales forecast for next quarter looks very good.",
+    "exHit": "sales forecast",
+    "exVi": "Dự báo doanh số cho quý sau trông rất khả quan."
   }
 ]

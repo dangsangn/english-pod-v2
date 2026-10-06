@@ -5,7 +5,10 @@
     "type": "common noun, plural",
     "def": "worry",
     "vi": "điều lo ngại",
-    "viDef": "sự lo lắng"
+    "viDef": "sự lo lắng",
+    "ex": "Basically, I've got a few concerns about him, and the bottom line is, I don't think he's a good fit for our company.",
+    "exHit": "concerns",
+    "exVi": "Về cơ bản, tôi có vài lo ngại về anh ta, và cuối cùng là tôi không nghĩ anh ta phù hợp với công ty chúng ta."
   },
   {
     "word": "bottom line",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "most important point",
     "vi": "điều cốt lõi",
-    "viDef": "ý quan trọng nhất"
+    "viDef": "ý quan trọng nhất",
+    "ex": "Basically, I've got a few concerns about him, and the bottom line is, I don't think he's a good fit for our company.",
+    "exHit": "bottom line",
+    "exVi": "Về cơ bản, tôi có vài lo ngại về anh ta, và cuối cùng là tôi không nghĩ anh ta phù hợp với công ty chúng ta."
   },
   {
     "word": "overall",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "general",
     "vi": "nhìn chung",
-    "viDef": "tổng thể, chung chung"
+    "viDef": "tổng thể, chung chung",
+    "ex": "I thought you were pleased with his overall performance.",
+    "exHit": "overall",
+    "exVi": "Tôi tưởng anh hài lòng với hiệu suất làm việc nói chung của anh ấy."
   },
   {
     "word": "performance",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "how well someone does their job",
     "vi": "hiệu suất làm việc",
-    "viDef": "mức độ làm tốt công việc"
+    "viDef": "mức độ làm tốt công việc",
+    "ex": "I thought you were pleased with his overall performance.",
+    "exHit": "performance",
+    "exVi": "Tôi tưởng anh hài lòng với hiệu suất làm việc nói chung của anh ấy."
   },
   {
     "word": "unreliable",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "not able to be trusted",
     "vi": "không đáng tin",
-    "viDef": "không thể trông cậy"
+    "viDef": "không thể trông cậy",
+    "ex": "Yeah, his attitude is great, but he's really unreliable.",
+    "exHit": "unreliable",
+    "exVi": "Ừ, thái độ của anh ấy rất tốt, nhưng anh ấy thật sự không đáng tin cậy."
   },
   {
     "word": "productive",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "doing a lot in a short amount of time",
     "vi": "năng suất cao",
-    "viDef": "làm được nhiều việc trong thời gian ngắn"
+    "viDef": "làm được nhiều việc trong thời gian ngắn",
+    "ex": "Sometimes he's really productive, but then other times...",
+    "exHit": "productive",
+    "exVi": "Có lúc anh ấy làm việc rất hiệu quả, nhưng có lúc khác thì..."
   },
   {
     "word": "perfectly good",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "having no problems, just fine",
     "vi": "vẫn tốt chán",
-    "viDef": "chẳng có vấn đề gì, ổn cả"
+    "viDef": "chẳng có vấn đề gì, ổn cả",
+    "ex": "Well, I'm sure he had a perfectly good reason...",
+    "exHit": "perfectly good",
+    "exVi": "Chà, tôi chắc là anh ấy có một lý do hoàn toàn chính đáng..."
   },
   {
     "word": "work ethic",
@@ -61,7 +82,10 @@
     "type": "common noun, non-variable",
     "def": "attitude to work",
     "vi": "tinh thần làm việc",
-    "viDef": "thái độ với công việc"
+    "viDef": "thái độ với công việc",
+    "ex": "you know, he really doesn't have the best work ethic, I'm constantly catching him on MSN and Facebook when he should be talking to clients.",
+    "exHit": "work ethic",
+    "exVi": "bạn biết đấy, anh ta thật sự không có tinh thần làm việc tốt nhất, tôi cứ liên tục bắt gặp anh ta dùng MSN và Facebook lúc lẽ ra phải nói chuyện với khách hàng."
   },
   {
     "word": "coach",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "teach and train someone new skills",
     "vi": "kèm cặp",
-    "viDef": "dạy và huấn luyện kỹ năng mới cho ai"
+    "viDef": "dạy và huấn luyện kỹ năng mới cho ai",
+    "ex": "Look, you hired this guy, we've invested a lot of time and money in his training, so now it's up to you to coach him.",
+    "exHit": "coach",
+    "exVi": "Nghe này, chính anh đã thuê anh ta, chúng ta đã đầu tư rất nhiều thời gian và tiền bạc vào việc đào tạo anh ta, nên bây giờ việc kèm cặp anh ta là trách nhiệm của anh."
   },
   {
     "word": "poor judgment",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "regularly makes bad decisions",
     "vi": "phán đoán kém",
-    "viDef": "hay đưa ra quyết định sai"
+    "viDef": "hay đưa ra quyết định sai",
+    "ex": "He showed poor judgment when he lent money to a stranger.",
+    "exHit": "poor judgment",
+    "exVi": "Anh ấy đã thiếu sáng suốt khi cho một người lạ vay tiền."
   },
   {
     "word": "poor work ethic",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "bad attitude to work",
     "vi": "thái độ làm việc tệ",
-    "viDef": "tinh thần với công việc kém"
+    "viDef": "tinh thần với công việc kém",
+    "ex": "His boss was upset about his poor work ethic and constant lateness.",
+    "exHit": "poor work ethic",
+    "exVi": "Sếp của anh ấy bực mình vì tinh thần làm việc kém và việc đi trễ liên tục."
   },
   {
     "word": "dependable",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "able to be trusted and relied upon",
     "vi": "đáng tin cậy",
-    "viDef": "có thể tin và trông cậy được"
+    "viDef": "có thể tin và trông cậy được",
+    "ex": "Sara is dependable, so I always give her the important jobs.",
+    "exHit": "dependable",
+    "exVi": "Sara rất đáng tin cậy nên tôi luôn giao cho cô ấy những việc quan trọng."
   },
   {
     "word": "a bad apple",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "a bad member of a group who makes things more difficult for others",
     "vi": "con sâu làm rầu nồi canh",
-    "viDef": "thành viên tệ khiến cả nhóm thêm khó"
+    "viDef": "thành viên tệ khiến cả nhóm thêm khó",
+    "ex": "Every team has a bad apple who makes work harder for others.",
+    "exHit": "a bad apple",
+    "exVi": "Đội nào cũng có một kẻ phá đám làm công việc của mọi người khó khăn hơn."
   },
   {
     "word": "unproductive",
@@ -109,6 +148,9 @@
     "type": "Adjective",
     "def": "not productive, not doing a lot",
     "vi": "năng suất kém",
-    "viDef": "không làm được nhiều việc"
+    "viDef": "không làm được nhiều việc",
+    "ex": "I felt unproductive today because I spent hours in useless meetings.",
+    "exHit": "unproductive",
+    "exVi": "Hôm nay tôi cảm thấy làm việc không hiệu quả vì dành hàng giờ cho những cuộc họp vô ích."
   }
 ]

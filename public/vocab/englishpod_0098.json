@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "I really like the design or the change you made",
     "vi": "tôi thích cách anh/chị làm cho...",
-    "viDef": "rất thích thiết kế hoặc thay đổi bạn đã làm"
+    "viDef": "rất thích thiết kế hoặc thay đổi bạn đã làm",
+    "ex": "I love what you have done with the living room!",
+    "exHit": "I love what you have done with",
+    "exVi": "Tôi thích những gì bạn đã làm với phòng khách quá!"
   },
   {
     "word": "you haven't aged a day",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "you haven't gotten older; you look young",
     "vi": "trông chẳng già đi chút nào",
-    "viDef": "vẫn trẻ như xưa"
+    "viDef": "vẫn trẻ như xưa",
+    "ex": "You haven't aged a day since the last time I saw you!",
+    "exHit": "You haven't aged a day",
+    "exVi": "Bạn chẳng già đi chút nào kể từ lần cuối tôi gặp bạn!"
   },
   {
     "word": "work out",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "do physical exercises",
     "vi": "tập thể dục",
-    "viDef": "rèn luyện thân thể"
+    "viDef": "rèn luyện thân thể",
+    "ex": "Well, I've been watching what I eat, and working out three times a week.",
+    "exHit": "working out",
+    "exVi": "À, tôi đang chú ý chuyện ăn uống, và tập thể dục ba lần một tuần."
   },
   {
     "word": "by the way",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "phrase used to shift to another topic",
     "vi": "à này",
-    "viDef": "câu dùng để chuyển sang chuyện khác"
+    "viDef": "câu dùng để chuyển sang chuyện khác",
+    "ex": "By the way, I heard your son recently graduated!",
+    "exHit": "By the way",
+    "exVi": "Nhân tiện, tôi nghe nói con trai bạn vừa tốt nghiệp!"
   },
   {
     "word": "bar exam",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "the exam to qualify as a lawer",
     "vi": "kỳ thi luật sư",
-    "viDef": "bài thi để được hành nghề luật"
+    "viDef": "bài thi để được hành nghề luật",
+    "ex": "I heard she has passed the bar exam and married recently.",
+    "exHit": "bar exam",
+    "exVi": "Tôi nghe nói cô ấy đã đậu kỳ thi luật sư và mới kết hôn."
   },
   {
     "word": "get going",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "leave",
     "vi": "đi nhé",
-    "viDef": "rời đi"
+    "viDef": "rời đi",
+    "ex": "Well, it's been great talking to you, but I have to get going.",
+    "exHit": "get going",
+    "exVi": "À, nói chuyện với bạn thật vui, nhưng tôi phải đi đây."
   },
   {
     "word": "obnoxious",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "really annoying",
     "vi": "khó chịu hết sức",
-    "viDef": "rất đáng ghét"
+    "viDef": "rất đáng ghét",
+    "ex": "I can't stand that woman or her obnoxious son.",
+    "exHit": "obnoxious",
+    "exVi": "Tôi không chịu nổi người phụ nữ đó và đứa con trai đáng ghét của bà ta."
   },
   {
     "word": "small talk",
@@ -61,7 +82,10 @@
     "type": "common noun, non-variable",
     "def": "short, friendly, unimportant conversations",
     "vi": "chuyện xã giao",
-    "viDef": "những mẩu trò chuyện ngắn, thân thiện, không quan trọng"
+    "viDef": "những mẩu trò chuyện ngắn, thân thiện, không quan trọng",
+    "ex": "We made some small talk while waiting for the bus.",
+    "exHit": "small talk",
+    "exVi": "Chúng tôi trò chuyện xã giao trong lúc chờ xe buýt."
   },
   {
     "word": "talk behind (somone's) back",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "speak badly of someone with out them knowing",
     "vi": "nói sau lưng",
-    "viDef": "nói xấu ai khi họ không biết"
+    "viDef": "nói xấu ai khi họ không biết",
+    "ex": "I don't like it when people talk behind my back.",
+    "exHit": "talk behind my back",
+    "exVi": "Tôi không thích khi người ta nói xấu sau lưng tôi."
   },
   {
     "word": "two-faced",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "pretend to like someone when you don't; be hypocritical",
     "vi": "hai mặt",
-    "viDef": "giả vờ thích ai trong khi không thật lòng"
+    "viDef": "giả vờ thích ai trong khi không thật lòng",
+    "ex": "I think she is two-faced, so be careful.",
+    "exHit": "two-faced",
+    "exVi": "Tôi nghĩ cô ta là người hai mặt, nên hãy cẩn thận."
   },
   {
     "word": "stab (somone) in the back",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "do something unkind to a friend",
     "vi": "chơi xấu bạn",
-    "viDef": "làm điều tệ với người bạn của mình"
+    "viDef": "làm điều tệ với người bạn của mình",
+    "ex": "I can't believe he would stab me in the back like that.",
+    "exHit": "stab me in the back",
+    "exVi": "Tôi không thể tin anh ta lại đâm sau lưng tôi như vậy."
   },
   {
     "word": "gossip",
@@ -93,6 +126,9 @@
     "type": "verb",
     "def": "talk about the details of other people's lives",
     "vi": "nói chuyện đời tư",
-    "viDef": "bàn tán về đời sống của người khác"
+    "viDef": "bàn tán về đời sống của người khác",
+    "ex": "Stop spreading gossip about our new neighbor.",
+    "exHit": "gossip",
+    "exVi": "Đừng buôn chuyện về người hàng xóm mới của chúng ta nữa."
   }
 ]

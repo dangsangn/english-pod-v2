@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "a final judgment that is not able to be changed; that is final",
     "vi": "kết luận dứt khoát",
-    "viDef": "phán quyết cuối, không thể thay đổi"
+    "viDef": "phán quyết cuối, không thể thay đổi",
+    "ex": "To draw a definitive conclusion based on that data would be misleading",
+    "exHit": "definitive conclusion",
+    "exVi": "Rút ra một kết luận dứt khoát dựa trên dữ liệu đó sẽ gây hiểu lầm."
   },
   {
     "word": "single-handedly",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "do something on your own, without help",
     "vi": "một tay làm nên",
-    "viDef": "tự mình làm, không cần ai giúp"
+    "viDef": "tự mình làm, không cần ai giúp",
+    "ex": "She single-handedly finished the whole project in one weekend.",
+    "exHit": "single-handedly",
+    "exVi": "Cô ấy một mình hoàn thành toàn bộ dự án chỉ trong một cuối tuần."
   },
   {
     "word": "investigative approach",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "way of looking for information",
     "vi": "cách tiếp cận điều tra",
-    "viDef": "phương pháp đi tìm thông tin"
+    "viDef": "phương pháp đi tìm thông tin",
+    "ex": "Even in your most recent study, the investigative approach was flawed!",
+    "exHit": "investigative approach",
+    "exVi": "Ngay cả trong nghiên cứu gần đây nhất của bạn, cách tiếp cận điều tra cũng có sai sót!"
   },
   {
     "word": "flawed",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "having errors or mistake",
     "vi": "có sai sót",
-    "viDef": "chứa lỗi"
+    "viDef": "chứa lỗi",
+    "ex": "Even in your most recent study, the investigative approach was flawed!",
+    "exHit": "flawed",
+    "exVi": "Ngay cả trong nghiên cứu gần đây nhất của bạn, cách tiếp cận điều tra cũng có sai sót!"
   },
   {
     "word": "preposterous",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "crazy, foolish, or silly",
     "vi": "nghe mà buồn cười",
-    "viDef": "điên rồ, ngớ ngẩn"
+    "viDef": "điên rồ, ngớ ngẩn",
+    "ex": "That is preposterous!",
+    "exHit": "preposterous",
+    "exVi": "Thật vô lý hết sức!"
   },
   {
     "word": "oblivious to",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "unaware or don't know",
     "vi": "không hay biết",
-    "viDef": "chẳng nhận ra, không biết"
+    "viDef": "chẳng nhận ra, không biết",
+    "ex": "You are trying to single-handedly solve one of the world's greatest mysteries, and yet you are oblivious to the fact that you are wrong!",
+    "exHit": "oblivious to",
+    "exVi": "Bạn đang cố một mình giải một trong những bí ẩn lớn nhất thế giới, vậy mà bạn lại không nhận ra mình đang sai!"
   },
   {
     "word": "extensive research",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "very full and complete study to find information",
     "vi": "nghiên cứu sâu rộng",
-    "viDef": "công trình tìm hiểu thật đầy đủ, kỹ càng"
+    "viDef": "công trình tìm hiểu thật đầy đủ, kỹ càng",
+    "ex": "Look, we've done extensive research, built studies, and read the literature, and there is conclusive evidence to support my theory!",
+    "exHit": "extensive research",
+    "exVi": "Nghe này, chúng tôi đã nghiên cứu rất sâu rộng, thực hiện các nghiên cứu và đọc tài liệu, và có bằng chứng thuyết phục để ủng hộ lý thuyết của tôi!"
   },
   {
     "word": "systematic",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "using a careful system or method",
     "vi": "có hệ thống",
-    "viDef": "làm theo một cách thức, quy trình cẩn thận"
+    "viDef": "làm theo một cách thức, quy trình cẩn thận",
+    "ex": "You know as well as I do that the collection of data was not systematic, and there is a large margin of error.",
+    "exHit": "systematic",
+    "exVi": "Bạn cũng biết như tôi rằng việc thu thập dữ liệu không có hệ thống, và biên độ sai số rất lớn."
   },
   {
     "word": "irrefutable",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "correct; not able to be proved wrong",
     "vi": "không thể phản bác",
-    "viDef": "đúng, không ai bắt lỗi được"
+    "viDef": "đúng, không ai bắt lỗi được",
+    "ex": "The data is irrefutable!",
+    "exHit": "irrefutable",
+    "exVi": "Dữ liệu này không thể bác bỏ được!"
   },
   {
     "word": "associated with",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "linked or connected with",
     "vi": "liên quan tới",
-    "viDef": "gắn hoặc nối với"
+    "viDef": "gắn hoặc nối với",
+    "ex": "Heart disease is often associated with a poor diet.",
+    "exHit": "associated with",
+    "exVi": "Bệnh tim thường liên quan đến chế độ ăn uống không lành mạnh."
   },
   {
     "word": "circumstantial evidence",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "a collection of facts that implies or suggests something to be true, but does not prove it",
     "vi": "chứng cứ gián tiếp",
-    "viDef": "các dữ kiện chỉ ngụ ý điều gì là thật chứ không chứng minh được"
+    "viDef": "các dữ kiện chỉ ngụ ý điều gì là thật chứ không chứng minh được",
+    "ex": "The police only had circumstantial evidence against him.",
+    "exHit": "circumstantial evidence",
+    "exVi": "Cảnh sát chỉ có bằng chứng gián tiếp chống lại anh ta."
   },
   {
     "word": "indicate",
@@ -93,7 +126,10 @@
     "type": "verb",
     "def": "show something to be true",
     "vi": "cho thấy",
-    "viDef": "chỉ ra điều gì là đúng"
+    "viDef": "chỉ ra điều gì là đúng",
+    "ex": "The results indicate that our idea is correct.",
+    "exHit": "indicate",
+    "exVi": "Kết quả cho thấy ý tưởng của chúng ta là đúng."
   },
   {
     "word": "a compelling case",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "an argument that is capable of making people believe that point of view",
     "vi": "lập luận thuyết phục",
-    "viDef": "lý lẽ đủ sức làm người ta tin theo"
+    "viDef": "lý lẽ đủ sức làm người ta tin theo",
+    "ex": "She made a compelling case for working fewer hours.",
+    "exHit": "a compelling case",
+    "exVi": "Cô ấy đưa ra lập luận thuyết phục về việc làm ít giờ hơn."
   },
   {
     "word": "determine",
@@ -109,6 +148,9 @@
     "type": "verb",
     "def": "find out if something is true",
     "vi": "xác định",
-    "viDef": "tìm ra xem điều gì có đúng không"
+    "viDef": "tìm ra xem điều gì có đúng không",
+    "ex": "We need more data to determine whether the theory is true.",
+    "exHit": "determine",
+    "exVi": "Chúng ta cần thêm dữ liệu để xác định xem lý thuyết này có đúng không."
   }
 ]

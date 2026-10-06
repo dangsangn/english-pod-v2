@@ -5,7 +5,10 @@
     "type": "",
     "def": "out of bed and beginning to move around",
     "vi": "đã dậy đi lại",
-    "viDef": "ra khỏi giường và bắt đầu hoạt động"
+    "viDef": "ra khỏi giường và bắt đầu hoạt động",
+    "ex": "But you were up and about when I left the dorm this morning!",
+    "exHit": "up and about",
+    "exVi": "Nhưng sáng nay lúc mình rời ký túc xá thì cậu đã dậy và đi lại rồi mà!"
   },
   {
     "word": "set aside",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to keep time for a particular purpose",
     "vi": "dành riêng ra",
-    "viDef": "giữ thời gian cho một việc nhất định"
+    "viDef": "giữ thời gian cho một việc nhất định",
+    "ex": "I have to set aside about an hour and a half to get ready in the mornings.",
+    "exHit": "set aside",
+    "exVi": "Mình phải dành ra khoảng một tiếng rưỡi để chuẩn bị mỗi buổi sáng."
   },
   {
     "word": "frequently",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "often",
     "vi": "thường xuyên",
-    "viDef": "hay xảy ra"
+    "viDef": "hay xảy ra",
+    "ex": "If it's a hair-washing day, I frequently need to wash my hair twice because it gets really oily.",
+    "exHit": "frequently",
+    "exVi": "Nếu hôm đó là ngày gội đầu, mình thường phải gội hai lần vì tóc rất dễ bị bết dầu."
   },
   {
     "word": "seldom",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "almost never",
     "vi": "ít khi",
-    "viDef": "gần như chẳng bao giờ"
+    "viDef": "gần như chẳng bao giờ",
+    "ex": "Because my hair is so long, I seldom manage to take a shower in under twenty minutes.",
+    "exHit": "seldom",
+    "exVi": "Vì tóc mình rất dài nên mình hiếm khi tắm xong trong vòng dưới hai mươi phút."
   },
   {
     "word": "at which time",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "whenever",
     "vi": "khi ấy thì",
-    "viDef": "vào bất cứ lúc đó"
+    "viDef": "vào bất cứ lúc đó",
+    "ex": "In all, getting dressed takes about half an hour, at which time my hair is now semi-dry so then I have to style my hair.",
+    "exHit": "at which time",
+    "exVi": "Tổng cộng, mặc quần áo mất khoảng nửa tiếng, lúc đó tóc mình đã gần khô nên mình phải tạo kiểu tóc."
   },
   {
     "word": "from time to time",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "once in a while",
     "vi": "thỉnh thoảng",
-    "viDef": "đôi lúc"
+    "viDef": "đôi lúc",
+    "ex": "From time to time I'll put my hair up, but oftentimes I blow-dry it straight.",
+    "exHit": "From time to time",
+    "exVi": "Thỉnh thoảng mình búi tóc lên, nhưng thường thì mình sấy thẳng."
   },
   {
     "word": "oftentimes",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "frequently",
     "vi": "nhiều khi",
-    "viDef": "thường xuyên"
+    "viDef": "thường xuyên",
+    "ex": "From time to time I'll put my hair up, but oftentimes I blow-dry it straight.",
+    "exHit": "oftentimes",
+    "exVi": "Thỉnh thoảng mình búi tóc lên, nhưng thường thì mình sấy thẳng."
   },
   {
     "word": "makeup",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "cosmetics applied to improve your appearance",
     "vi": "đồ trang điểm",
-    "viDef": "mỹ phẩm dùng để tôn vẻ ngoài"
+    "viDef": "mỹ phẩm dùng để tôn vẻ ngoài",
+    "ex": "After that, I have my daily makeup routine.",
+    "exHit": "makeup",
+    "exVi": "Sau đó là quy trình trang điểm hằng ngày của mình."
   },
   {
     "word": "outfit",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a set of clothes",
     "vi": "bộ đồ",
-    "viDef": "một bộ quần áo"
+    "viDef": "một bộ quần áo",
+    "ex": "Tell me, how long does it take you to choose that outfit in the morning?",
+    "exHit": "outfit",
+    "exVi": "Nói tôi nghe, bạn mất bao lâu để chọn bộ đồ vào buổi sáng?"
   },
   {
     "word": "curling iron",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a tool for making straight hair curly",
     "vi": "máy uốn tóc",
-    "viDef": "dụng cụ làm tóc thẳng thành xoăn"
+    "viDef": "dụng cụ làm tóc thẳng thành xoăn",
+    "ex": "She used a curling iron to make soft curls in her hair.",
+    "exHit": "curling iron",
+    "exVi": "Cô ấy dùng máy uốn tóc để tạo những lọn tóc xoăn mềm."
   },
   {
     "word": "face wash",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a soap used to clean the face",
     "vi": "sữa rửa mặt",
-    "viDef": "loại xà phòng để làm sạch mặt"
+    "viDef": "loại xà phòng để làm sạch mặt",
+    "ex": "I wash my face with a gentle face wash every morning.",
+    "exHit": "face wash",
+    "exVi": "Sáng nào tôi cũng rửa mặt bằng sữa rửa mặt dịu nhẹ."
   },
   {
     "word": "mouth wash",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a liquid used to clear germs in bad breath in the mouth",
     "vi": "nước súc miệng",
-    "viDef": "dung dịch diệt khuẩn gây mùi trong miệng"
+    "viDef": "dung dịch diệt khuẩn gây mùi trong miệng",
+    "ex": "Use some mouth wash after brushing to freshen your breath.",
+    "exHit": "mouth wash",
+    "exVi": "Hãy súc miệng bằng nước súc miệng sau khi đánh răng để hơi thở thơm tho."
   },
   {
     "word": "french press",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a specific technique to make coffee",
     "vi": "bình pha kiểu Pháp",
-    "viDef": "một cách pha cà phê riêng"
+    "viDef": "một cách pha cà phê riêng",
+    "ex": "My dad makes coffee with a french press every morning.",
+    "exHit": "french press",
+    "exVi": "Bố tôi pha cà phê bằng bình ép kiểu Pháp mỗi sáng."
   },
   {
     "word": "body wash",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "liquid soap used to clean the body",
     "vi": "sữa tắm",
-    "viDef": "xà phòng dạng lỏng để tắm"
+    "viDef": "xà phòng dạng lỏng để tắm",
+    "ex": "I used body wash that smells like lemon in the shower.",
+    "exHit": "body wash",
+    "exVi": "Tôi dùng sữa tắm có mùi chanh khi tắm."
   }
 ]

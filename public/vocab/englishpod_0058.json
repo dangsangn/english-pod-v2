@@ -5,7 +5,10 @@
     "type": "common noun, non-variable",
     "def": "sudden, strong movement of air especially that causes a plane to move up and down in the air",
     "vi": "nhiễu động không khí",
-    "viDef": "luồng khí xáo động mạnh làm máy bay lên xuống"
+    "viDef": "luồng khí xáo động mạnh làm máy bay lên xuống",
+    "ex": "Yeah, don't worry about it; we're just going through a bit of turbulence.",
+    "exHit": "turbulence",
+    "exVi": "Ừ, đừng lo; chúng ta chỉ đang đi qua một chút nhiễu động thôi."
   },
   {
     "word": "rough",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "having or causing sudden violent movements",
     "vi": "xóc, dằn",
-    "viDef": "có hoặc gây ra những cú lắc mạnh bất chợt"
+    "viDef": "có hoặc gây ra những cú lắc mạnh bất chợt",
+    "ex": "We've got quite a large patch of rough air ahead of us, so for your safety, we will be suspending in-flight service.",
+    "exHit": "rough",
+    "exVi": "Phía trước chúng ta có một vùng không khí động khá rộng, vì vậy để đảm bảo an toàn, chúng tôi sẽ tạm ngừng phục vụ trên chuyến bay."
   },
   {
     "word": "patch",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "small area",
     "vi": "vùng nhỏ",
-    "viDef": "một khoảng nhỏ"
+    "viDef": "một khoảng nhỏ",
+    "ex": "We've got quite a large patch of rough air ahead of us, so for your safety, we will be suspending in-flight service.",
+    "exHit": "patch",
+    "exVi": "Phía trước chúng ta có một vùng không khí động khá rộng, vì vậy để đảm bảo an toàn, chúng tôi sẽ tạm ngừng phục vụ trên chuyến bay."
   },
   {
     "word": "bumpy",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "having sudden up and down movements",
     "vi": "gập ghềnh, xóc nảy",
-    "viDef": "có những cú nhô lên hụp xuống bất chợt"
+    "viDef": "có những cú nhô lên hụp xuống bất chợt",
+    "ex": "It looks like we've hit a patch of rough air, so we're going to have a bit of a bumpy ride for the next several minutes, and...",
+    "exHit": "bumpy",
+    "exVi": "Có vẻ chúng ta đã gặp một vùng không khí động, nên vài phút tới chuyến bay sẽ hơi xóc, và..."
   },
   {
     "word": "fasten",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to fasten",
     "vi": "cài, thắt",
-    "viDef": "buộc hoặc gài chặt lại"
+    "viDef": "buộc hoặc gài chặt lại",
+    "ex": "At this time, I'd like to remind all of our passengers to fasten their seat belts and remain seated until the fasten seat belt sign is turned off.",
+    "exHit": "fasten",
+    "exVi": "Lúc này, tôi xin nhắc quý hành khách thắt dây an toàn và ngồi yên tại chỗ cho đến khi đèn hiệu thắt dây an toàn tắt."
   },
   {
     "word": "cabin baggage",
@@ -45,7 +60,10 @@
     "type": "common noun, non-variable",
     "def": "suitcases and luggage that travels inside the plane with the passengers",
     "vi": "hành lý mang lên khoang",
-    "viDef": "vali và túi được đem vào trong khoang cùng khách"
+    "viDef": "vali và túi được đem vào trong khoang cùng khách",
+    "ex": "Please keep your cabin baggage under the seat in front of you.",
+    "exHit": "cabin baggage",
+    "exVi": "Xin hãy để hành lý xách tay dưới ghế phía trước quý khách."
   },
   {
     "word": "stow",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "stowed",
     "vi": "xếp gọn",
-    "viDef": "đặt và cất vào chỗ cho gọn"
+    "viDef": "đặt và cất vào chỗ cho gọn",
+    "ex": "Please ensure that all cabin baggage is carefully stowed under the seat in front of you.",
+    "exHit": "stowed",
+    "exVi": "Xin hãy chắc chắn rằng toàn bộ hành lý xách tay được cất cẩn thận dưới ghế phía trước quý khách."
   },
   {
     "word": "suspend",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "will be suspending",
     "vi": "tạm ngừng",
-    "viDef": "dừng lại một thời gian"
+    "viDef": "dừng lại một thời gian",
+    "ex": "We've got quite a large patch of rough air ahead of us, so for your safety, we will be suspending in-flight service.",
+    "exHit": "suspending",
+    "exVi": "Phía trước chúng ta có một vùng không khí động khá rộng, vì vậy để đảm bảo an toàn, chúng tôi sẽ tạm ngừng phục vụ trên chuyến bay."
   },
   {
     "word": "refrain",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "avoid doing",
     "vi": "xin đừng, kiềm chế",
-    "viDef": "tránh không làm việc gì"
+    "viDef": "tránh không làm việc gì",
+    "ex": "I would also like to ask that all our passengers refrain from using the lavatory until the seat belt sign has been switched off We can expect...",
+    "exHit": "refrain",
+    "exVi": "Tôi cũng xin đề nghị quý hành khách không sử dụng nhà vệ sinh cho đến khi đèn hiệu thắt dây an toàn tắt. Chúng ta có thể sẽ..."
   },
   {
     "word": "lavatory",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "room with a sink and toilet, chiefly on an airplane or train",
     "vi": "nhà vệ sinh",
-    "viDef": "buồng có bồn rửa và bồn cầu, nhất là trên máy bay hoặc tàu"
+    "viDef": "buồng có bồn rửa và bồn cầu, nhất là trên máy bay hoặc tàu",
+    "ex": "I would also like to ask that all our passengers refrain from using the lavatory until the seat belt sign has been switched off We can expect...",
+    "exHit": "lavatory",
+    "exVi": "Tôi cũng xin đề nghị quý hành khách không sử dụng nhà vệ sinh cho đến khi đèn hiệu thắt dây an toàn tắt. Chúng ta có thể sẽ..."
   },
   {
     "word": "overhead bin",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "place above the seat in an airplane where you can store luggage",
     "vi": "khoang hành lý phía trên",
-    "viDef": "chỗ trên đầu ghế máy bay để cất hành lý"
+    "viDef": "chỗ trên đầu ghế máy bay để cất hành lý",
+    "ex": "Please put your bag in the overhead bin.",
+    "exHit": "overhead bin",
+    "exVi": "Xin hãy để túi của bạn vào ngăn hành lý phía trên."
   },
   {
     "word": "carry-on",
@@ -93,7 +126,10 @@
     "type": "common noun, non-variable",
     "def": "a suit case that you bring onto the plane",
     "vi": "hành lý xách tay",
-    "viDef": "vali được mang lên máy bay"
+    "viDef": "vali được mang lên máy bay",
+    "ex": "I only have one carry-on, so I don't need to check anything.",
+    "exHit": "carry-on",
+    "exVi": "Tôi chỉ có một vali xách tay, nên không cần ký gửi gì cả."
   },
   {
     "word": "table tray",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a table that folds down from the seat in front of you on a an airplane",
     "vi": "bàn gấp",
-    "viDef": "mặt bàn hạ xuống từ lưng ghế trước trên máy bay"
+    "viDef": "mặt bàn hạ xuống từ lưng ghế trước trên máy bay",
+    "ex": "Please put your table tray up before we land.",
+    "exHit": "table tray",
+    "exVi": "Xin hãy gập khay ăn lên trước khi chúng ta hạ cánh."
   },
   {
     "word": "life jacket",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "piece of clothing that you ware to stay floating in water /life jacket",
     "vi": "áo phao",
-    "viDef": "áo mặc vào để nổi được trên nước"
+    "viDef": "áo mặc vào để nổi được trên nước",
+    "ex": "Your life jacket is under your seat.",
+    "exHit": "life jacket",
+    "exVi": "Áo phao của bạn nằm dưới ghế ngồi."
   },
   {
     "word": "oxygen mask",
@@ -117,6 +159,9 @@
     "type": "common noun, singular",
     "def": "a mask worn over your mouth and nose so you can breathe",
     "vi": "mặt nạ ô-xy",
-    "viDef": "mặt nạ trùm miệng và mũi để thở được"
+    "viDef": "mặt nạ trùm miệng và mũi để thở được",
+    "ex": "If the cabin loses pressure, put on your oxygen mask first.",
+    "exHit": "oxygen mask",
+    "exVi": "Nếu khoang máy bay mất áp suất, hãy đeo mặt nạ dưỡng khí của bạn trước."
   }
 ]

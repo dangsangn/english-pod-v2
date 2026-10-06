@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "the way something tastes",
     "vi": "vị",
-    "viDef": "mùi vị của thứ gì"
+    "viDef": "mùi vị của thứ gì",
+    "ex": "It has a unique ingredient which gives it a pleasant aroma and superior flavor.",
+    "exHit": "flavor",
+    "exVi": "Nó có một thành phần độc đáo mang lại hương thơm dễ chịu và hương vị tuyệt hảo."
   },
   {
     "word": "aroma",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "the way something smells",
     "vi": "hương thơm",
-    "viDef": "mùi của thứ gì"
+    "viDef": "mùi của thứ gì",
+    "ex": "It's light and crisp, with a bit of a vanilla aroma.",
+    "exHit": "aroma",
+    "exVi": "Nó nhẹ và giòn, với một chút hương vani."
   },
   {
     "word": "pointer",
@@ -21,7 +27,10 @@
     "type": "common noun, plural",
     "def": "tips, advice, hints",
     "vi": "mẹo, lời chỉ dẫn",
-    "viDef": "gợi ý, lời khuyên"
+    "viDef": "gợi ý, lời khuyên",
+    "ex": "I'm thinking of re-decorating my house; maybe you could give me a few pointers?",
+    "exHit": "pointers",
+    "exVi": "Tôi đang nghĩ đến việc trang trí lại nhà; có lẽ bạn cho tôi vài lời khuyên được không?"
   },
   {
     "word": "make yourselves at home",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "get comfortable and feel like you are in your own home",
     "vi": "mọi người cứ tự nhiên",
-    "viDef": "thoải mái như đang ở nhà mình"
+    "viDef": "thoải mái như đang ở nhà mình",
+    "ex": "Please make yourselves at home.",
+    "exHit": "make yourselves at home",
+    "exVi": "Xin cứ tự nhiên như ở nhà."
   },
   {
     "word": "good taste",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "refers to liking nice things",
     "vi": "khiếu thẩm mỹ tốt",
-    "viDef": "biết thích những thứ đẹp, hay"
+    "viDef": "biết thích những thứ đẹp, hay",
+    "ex": "You have such good taste, Armand.",
+    "exHit": "good taste",
+    "exVi": "Anh có gu thật tốt, Armand."
   },
   {
     "word": "bitter",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "opposite of sweet",
     "vi": "đắng",
-    "viDef": "trái với ngọt"
+    "viDef": "trái với ngọt",
+    "ex": "It's a bit bitter for my taste...",
+    "exHit": "bitter",
+    "exVi": "Với khẩu vị của tôi thì nó hơi đắng."
   },
   {
     "word": "pass out",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "faint, loss consciousness",
     "vi": "ngất xỉu",
-    "viDef": "bất tỉnh, mất ý thức"
+    "viDef": "bất tỉnh, mất ý thức",
+    "ex": "Did she pass out?",
+    "exHit": "pass out",
+    "exVi": "Cô ấy bị ngất à?"
   },
   {
     "word": "sweet",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "containing a lot of sugar",
     "vi": "ngọt",
-    "viDef": "có nhiều đường"
+    "viDef": "có nhiều đường",
+    "ex": "This coffee is too sweet for me.",
+    "exHit": "sweet",
+    "exVi": "Ly cà phê này quá ngọt đối với tôi."
   },
   {
     "word": "have a seat",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "sit down, take a seat",
     "vi": "mời ngồi",
-    "viDef": "ngồi xuống đi"
+    "viDef": "ngồi xuống đi",
+    "ex": "Please have a seat.",
+    "exHit": "have a seat",
+    "exVi": "Xin mời ngồi."
   },
   {
     "word": "spike",
@@ -77,7 +104,10 @@
     "type": "principle verb, present simple",
     "def": "to add alcohol or drugs to (food or drink)",
     "vi": "pha thêm rượu hoặc thuốc",
-    "viDef": "cho rượu hoặc thuốc vào đồ ăn, thức uống"
+    "viDef": "cho rượu hoặc thuốc vào đồ ăn, thức uống",
+    "ex": "Someone spiked my drink at the party.",
+    "exHit": "spiked",
+    "exVi": "Có người đã bỏ thứ gì đó vào đồ uống của tôi ở bữa tiệc."
   },
   {
     "word": "sour",
@@ -85,7 +115,10 @@
     "type": "Adjective",
     "def": "having an acid taste that is like the taste of a lemon",
     "vi": "chua",
-    "viDef": "vị chua như chanh"
+    "viDef": "vị chua như chanh",
+    "ex": "This lemon juice is too sour to drink.",
+    "exHit": "sour",
+    "exVi": "Nước chanh này chua quá không uống nổi."
   },
   {
     "word": "exclusive",
@@ -93,6 +126,9 @@
     "type": "Adjective",
     "def": "only allowing in people from a high social class",
     "vi": "kén khách, dành cho giới thượng lưu",
-    "viDef": "chỉ cho người thuộc tầng lớp cao vào"
+    "viDef": "chỉ cho người thuộc tầng lớp cao vào",
+    "ex": "It's an exclusive club, so only rich people can join.",
+    "exHit": "exclusive",
+    "exVi": "Đó là câu lạc bộ dành cho giới thượng lưu, nên chỉ người giàu mới vào được."
   }
 ]

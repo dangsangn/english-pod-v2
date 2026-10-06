@@ -5,7 +5,10 @@
     "type": "",
     "def": "a meal that serves as both breakfast and lunch",
     "vi": "bữa sáng muộn",
-    "viDef": "bữa ăn kiêm cả sáng lẫn trưa"
+    "viDef": "bữa ăn kiêm cả sáng lẫn trưa",
+    "ex": "Brunch!",
+    "exHit": "Brunch",
+    "exVi": "Bữa brunch nhé!"
   },
   {
     "word": "kind of",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to some extent; somewhat; rather; sort of",
     "vi": "hơi hơi",
-    "viDef": "phần nào, kha khá, đại khái"
+    "viDef": "phần nào, kha khá, đại khái",
+    "ex": "Kind of, so I made scrambled and soft boiled eggs, some french toast and buttermilk pancakes!",
+    "exHit": "Kind of",
+    "exVi": "Cũng hơi hơi, nên tôi làm trứng bác và trứng luộc lòng đào, bánh mì nướng kiểu Pháp và bánh kếp sữa bơ!"
   },
   {
     "word": "pancake",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a thin, flat cake of batter fried on both sides",
     "vi": "bánh kếp",
-    "viDef": "bánh bột mỏng, dẹt, chiên cả hai mặt"
+    "viDef": "bánh bột mỏng, dẹt, chiên cả hai mặt",
+    "ex": "Kind of, so I made scrambled and soft boiled eggs, some french toast and buttermilk pancakes!",
+    "exHit": "pancakes",
+    "exVi": "Cũng hơi hơi, nên tôi làm trứng bác và trứng luộc lòng đào, bánh mì nướng kiểu Pháp và bánh kếp sữa bơ!"
   },
   {
     "word": "to go all out",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "with maximum effort; using all one's resources",
     "vi": "làm tới bến",
-    "viDef": "dốc hết sức, dùng hết những gì mình có"
+    "viDef": "dốc hết sức, dùng hết những gì mình có",
+    "ex": "We went all out for brunch and cooked everything.",
+    "exHit": "went all out",
+    "exVi": "Chúng tôi đã dốc hết sức cho bữa brunch và nấu đủ mọi thứ."
   },
   {
     "word": "jam",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a preserve of whole fruit, slightly crushed, boiled with sugar",
     "vi": "mứt trái cây",
-    "viDef": "trái cây nguyên quả dầm sơ, nấu với đường để giữ lâu"
+    "viDef": "trái cây nguyên quả dầm sơ, nấu với đường để giữ lâu",
+    "ex": "Get the jam and butter while you are in there!",
+    "exHit": "jam",
+    "exVi": "Khi vào trong đó thì lấy giúp mình mứt và bơ nhé!"
   },
   {
     "word": "oatmeal",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a meal made from oats softened by boiling water",
     "vi": "cháo yến mạch",
-    "viDef": "món làm từ yến mạch nấu mềm với nước sôi"
+    "viDef": "món làm từ yến mạch nấu mềm với nước sôi",
+    "ex": "I usually have oatmeal with honey for breakfast.",
+    "exHit": "oatmeal",
+    "exVi": "Bữa sáng tôi thường ăn bột yến mạch với mật ong."
   },
   {
     "word": "bacon",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a strip of fat and meat usually made from pork",
     "vi": "thịt xông khói",
-    "viDef": "dải mỡ và thịt, thường làm từ heo"
+    "viDef": "dải mỡ và thịt, thường làm từ heo",
+    "ex": "Could you fry some bacon to go with the eggs?",
+    "exHit": "bacon",
+    "exVi": "Bạn chiên ít thịt xông khói để ăn kèm trứng được không?"
   },
   {
     "word": "Cap'n Crunch",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a breakfast cereal brand in America",
     "vi": "ngũ cốc Cap'n Crunch",
-    "viDef": "một hãng ngũ cốc ăn sáng ở Mỹ"
+    "viDef": "một hãng ngũ cốc ăn sáng ở Mỹ",
+    "ex": "Kids in America love Cap'n Crunch for breakfast.",
+    "exHit": "Cap'n Crunch",
+    "exVi": "Trẻ con ở Mỹ rất thích ăn Cap'n Crunch vào bữa sáng."
   },
   {
     "word": "waffles",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a pancake like breakfast made in squares rather than circles",
     "vi": "bánh waffle",
-    "viDef": "món bánh ăn sáng như bánh kếp nhưng in ô vuông thay vì tròn"
+    "viDef": "món bánh ăn sáng như bánh kếp nhưng in ô vuông thay vì tròn",
+    "ex": "I'd like waffles with strawberries and cream, please.",
+    "exHit": "waffles",
+    "exVi": "Cho tôi bánh waffle với dâu tây và kem nhé."
   },
   {
     "word": "eggs benedict",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a poached egg on half of a english muffin with a hollandaise sauce",
     "vi": "trứng benedict",
-    "viDef": "trứng chần đặt trên nửa chiếc bánh muffin Anh, rưới sốt hollandaise"
+    "viDef": "trứng chần đặt trên nửa chiếc bánh muffin Anh, rưới sốt hollandaise",
+    "ex": "The café down the street makes great eggs benedict.",
+    "exHit": "eggs benedict",
+    "exVi": "Quán cà phê ở cuối phố làm món trứng benedict rất ngon."
   }
 ]

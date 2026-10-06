@@ -5,7 +5,10 @@
     "type": "",
     "def": "a group of services",
     "vi": "gói dịch vụ",
-    "viDef": "một nhóm các dịch vụ"
+    "viDef": "một nhóm các dịch vụ",
+    "ex": "This package includes round-trip flights to New Hampshire.",
+    "exHit": "package",
+    "exVi": "Gói dịch vụ này bao gồm vé máy bay khứ hồi đến New Hampshire."
   },
   {
     "word": "round-trip",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "travel both to the place and back again",
     "vi": "khứ hồi",
-    "viDef": "đi tới nơi rồi về lại"
+    "viDef": "đi tới nơi rồi về lại",
+    "ex": "I'd like a round-trip flight to Bangkok, please.",
+    "exHit": "round-trip",
+    "exVi": "Tôi muốn một chuyến bay khứ hồi đến Bangkok."
   },
   {
     "word": "complimentary",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "expressing a compliment",
     "vi": "khen ngợi",
-    "viDef": "lời tỏ ý ngợi khen"
+    "viDef": "lời tỏ ý ngợi khen",
+    "ex": "Our VIP limousine will pick you up and provide you with complimentary champagne and finger foods to soften the thirty-minute ride to the countryside.",
+    "exHit": "complimentary",
+    "exVi": "Chiếc limousine VIP của chúng tôi sẽ đón bạn và phục vụ champagne cùng đồ ăn nhẹ miễn phí để bạn bớt thấm mệt trong chặng đường ba mươi phút về miền quê."
   },
   {
     "word": "accommodate",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to provide room for (someone)",
     "vi": "sắp chỗ cho",
-    "viDef": "lo chỗ cho ai"
+    "viDef": "lo chỗ cho ai",
+    "ex": "Your hotel is actually an old country villa that has been restored and refurbished to accommodate a maximum of that is guests.",
+    "exHit": "accommodate",
+    "exVi": "Khách sạn của bạn thực ra là một biệt thự cũ ở vùng quê, đã được trùng tu và tân trang để có thể đón tối đa số lượng khách nhất định."
   },
   {
     "word": "restore",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to return (something) to an original condition",
     "vi": "phục hồi",
-    "viDef": "đưa thứ gì về lại trạng thái ban đầu"
+    "viDef": "đưa thứ gì về lại trạng thái ban đầu",
+    "ex": "Your hotel is actually an old country villa that has been restored and refurbished to accommodate a maximum of that is guests.",
+    "exHit": "restored",
+    "exVi": "Khách sạn của bạn thực ra là một biệt thự cũ ở vùng quê, đã được trùng tu và tân trang để có thể đón tối đa số lượng khách nhất định."
   },
   {
     "word": "be sold",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "be persuaded to recognize the worth of",
     "vi": "thấy thuyết phục quá",
-    "viDef": "bị làm cho tin vào giá trị của điều gì"
+    "viDef": "bị làm cho tin vào giá trị của điều gì",
+    "ex": "After seeing the photos, I was sold on the beach resort.",
+    "exHit": "was sold",
+    "exVi": "Sau khi xem các bức ảnh, tôi đã bị thuyết phục bởi khu nghỉ dưỡng bên bờ biển đó."
   },
   {
     "word": "getaway",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A place appropriate for a vacation.",
     "vi": "chuyến đi nghỉ",
-    "viDef": "nơi thích hợp để nghỉ dưỡng"
+    "viDef": "nơi thích hợp để nghỉ dưỡng",
+    "ex": "Welcome to Perfect Getaway Tours.",
+    "exHit": "Getaway",
+    "exVi": "Chào mừng bạn đến với Perfect Getaway Tours."
   },
   {
     "word": "itenerary",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a written plan of events",
     "vi": "hành trình",
-    "viDef": "bản kế hoạch các việc theo thứ tự"
+    "viDef": "bản kế hoạch các việc theo thứ tự",
+    "ex": "Could you email me the itenerary for our trip?",
+    "exHit": "itenerary",
+    "exVi": "Bạn có thể gửi email cho tôi lịch trình chuyến đi của chúng ta không?"
   },
   {
     "word": "hotel suite",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a luxury room above a standard room",
     "vi": "phòng suite",
-    "viDef": "phòng hạng sang trên mức phòng thường"
+    "viDef": "phòng hạng sang trên mức phòng thường",
+    "ex": "We upgraded to a hotel suite with an ocean view.",
+    "exHit": "hotel suite",
+    "exVi": "Chúng tôi đã nâng cấp lên một phòng suite khách sạn nhìn ra biển."
   },
   {
     "word": "all inclusive",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a term used for everything provided free of charge",
     "vi": "bao trọn gói",
-    "viDef": "từ dùng khi mọi thứ đều được cung cấp miễn phí"
+    "viDef": "từ dùng khi mọi thứ đều được cung cấp miễn phí",
+    "ex": "The price is all inclusive, so meals and drinks are free.",
+    "exHit": "all inclusive",
+    "exVi": "Giá này là trọn gói, nên các bữa ăn và đồ uống đều miễn phí."
   },
   {
     "word": "first class",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "to travel in the luxury seating area",
     "vi": "hạng nhất",
-    "viDef": "đi ở khu ghế hạng sang"
+    "viDef": "đi ở khu ghế hạng sang",
+    "ex": "I'd love to fly first class just once in my life.",
+    "exHit": "first class",
+    "exVi": "Tôi rất muốn được đi hạng nhất một lần trong đời."
   },
   {
     "word": "king sized bed",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "the largest bed one can request in a hotel",
     "vi": "giường cỡ king",
-    "viDef": "giường lớn nhất có thể yêu cầu ở khách sạn"
+    "viDef": "giường lớn nhất có thể yêu cầu ở khách sạn",
+    "ex": "Do you have a room with a king sized bed?",
+    "exHit": "king sized bed",
+    "exVi": "Bạn có phòng nào có giường cỡ lớn nhất không?"
   }
 ]

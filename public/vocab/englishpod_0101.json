@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "used to say that something that makes sense",
     "vi": "đúng thế",
-    "viDef": "câu tán đồng khi thấy điều gì hợp lý"
+    "viDef": "câu tán đồng khi thấy điều gì hợp lý",
+    "ex": "Right on, right on!",
+    "exHit": "Right on",
+    "exVi": "Chuẩn rồi, chuẩn rồi!"
   },
   {
     "word": "how is it hanging",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "how's it going, how are you",
     "vi": "dạo này sao rồi",
-    "viDef": "bạn thế nào"
+    "viDef": "bạn thế nào",
+    "ex": "Hey Joe, how is it hanging with you these days?",
+    "exHit": "how is it hanging",
+    "exVi": "Này Joe, dạo này cậu thế nào?"
   },
   {
     "word": "groovy",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "cool, excellent, enjoyable",
     "vi": "bắt tai",
-    "viDef": "ngầu, tuyệt, thú vị"
+    "viDef": "ngầu, tuyệt, thú vị",
+    "ex": "Everything is just groovy baby!",
+    "exHit": "groovy",
+    "exVi": "Mọi thứ đều tuyệt vời, cưng ạ!"
   },
   {
     "word": "roller rink",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "an enclosed place for roller skating",
     "vi": "sân trượt patin",
-    "viDef": "nơi có mái để trượt bánh xe"
+    "viDef": "nơi có mái để trượt bánh xe",
+    "ex": "Did you go to the roller rink on Saturday?",
+    "exHit": "roller rink",
+    "exVi": "Bạn có đi sân trượt patin hôm thứ Bảy không?"
   },
   {
     "word": "far out",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "the latest, cool",
     "vi": "xịn hết cỡ",
-    "viDef": "mới nhất, ngầu"
+    "viDef": "mới nhất, ngầu",
+    "ex": "I heard it was far out, man!",
+    "exHit": "far out",
+    "exVi": "Tôi nghe nói nó tuyệt cú mèo, anh bạn!"
   },
   {
     "word": "foxy",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "sexy, attractive",
     "vi": "bốc lửa",
-    "viDef": "quyến rũ, hấp dẫn"
+    "viDef": "quyến rũ, hấp dẫn",
+    "ex": "I wanted to, but I ran into this foxy lady that just moved to my block!",
+    "exHit": "foxy",
+    "exVi": "Tôi cũng muốn đi, nhưng tôi tình cờ gặp một cô nàng quyến rũ vừa chuyển đến khu phố của tôi!"
   },
   {
     "word": "block",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "part of a neighborhood surrounded by four streets",
     "vi": "khu phố",
-    "viDef": "phần khu dân cư nằm giữa bốn con đường"
+    "viDef": "phần khu dân cư nằm giữa bốn con đường",
+    "ex": "I wanted to, but I ran into this foxy lady that just moved to my block!",
+    "exHit": "block",
+    "exVi": "Tôi cũng muốn đi, nhưng tôi tình cờ gặp một cô nàng quyến rũ vừa chuyển đến khu phố của tôi!"
   },
   {
     "word": "chat (someone) up",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "talk informally to a person you're attracted to",
     "vi": "bắt chuyện tán tỉnh",
-    "viDef": "nói chuyện suồng sã với người mình để ý"
+    "viDef": "nói chuyện suồng sã với người mình để ý",
+    "ex": "I was chatting her up a bit and then we mellowed out at her place.",
+    "exHit": "chatting her up",
+    "exVi": "Tôi tán tỉnh cô ấy một chút rồi bọn tôi thư giãn ở nhà cô ấy."
   },
   {
     "word": "mellow out",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "relax",
     "vi": "dịu lại",
-    "viDef": "thư giãn"
+    "viDef": "thư giãn",
+    "ex": "I was chatting her up a bit and then we mellowed out at her place.",
+    "exHit": "mellowed out",
+    "exVi": "Tôi tán tỉnh cô ấy một chút rồi bọn tôi thư giãn ở nhà cô ấy."
   },
   {
     "word": "bread",
@@ -77,7 +104,10 @@
     "type": "common noun, non-variable",
     "def": "money (informal and old fashioned)",
     "vi": "tiền",
-    "viDef": "tiền (cách nói thân mật, xưa)"
+    "viDef": "tiền (cách nói thân mật, xưa)",
+    "ex": "He was low on bread, but Sherry paid for everything.",
+    "exHit": "bread",
+    "exVi": "Anh ấy hết tiền, nhưng Sherry đã trả hết mọi thứ."
   },
   {
     "word": "gravy",
@@ -85,7 +115,10 @@
     "type": "Adjective",
     "def": "alright, cool",
     "vi": "ổn cả",
-    "viDef": "được, ngon"
+    "viDef": "được, ngon",
+    "ex": "Gravy!",
+    "exHit": "Gravy",
+    "exVi": "Tuyệt!"
   },
   {
     "word": "jive turkey",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a person who is unreliable or irresponsible",
     "vi": "tay không đáng tin",
-    "viDef": "người thiếu tin cậy, không có trách nhiệm"
+    "viDef": "người thiếu tin cậy, không có trách nhiệm",
+    "ex": "Jim is such a jive turkey man.",
+    "exHit": "jive turkey",
+    "exVi": "Jim đúng là một gã vô trách nhiệm, bạn ạ."
   },
   {
     "word": "hit someone up for",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "ask someone for money",
     "vi": "xin tiền ai",
-    "viDef": "hỏi ai vay hoặc cho tiền"
+    "viDef": "hỏi ai vay hoặc cho tiền",
+    "ex": "He always hits me up for cash at the end of the month.",
+    "exHit": "hits me up for",
+    "exVi": "Cuối tháng nào anh ấy cũng xin tôi tiền."
   },
   {
     "word": "book",
@@ -109,7 +148,10 @@
     "type": "verb",
     "def": "leave quickly",
     "vi": "dông cho lẹ",
-    "viDef": "rời đi nhanh"
+    "viDef": "rời đi nhanh",
+    "ex": "Anyway, you wanna book and go grab some grub?",
+    "exHit": "book",
+    "exVi": "Dù sao thì, cậu muốn chuồn đi kiếm gì ăn không?"
   },
   {
     "word": "grub",
@@ -117,7 +159,10 @@
     "type": "common noun, non-variable",
     "def": "food (informal)",
     "vi": "đồ ăn",
-    "viDef": "thức ăn (thân mật)"
+    "viDef": "thức ăn (thân mật)",
+    "ex": "Anyway, you wanna book and go grab some grub?",
+    "exHit": "grub",
+    "exVi": "Dù sao thì, cậu muốn chuồn đi kiếm gì ăn không?"
   },
   {
     "word": "Disco",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "popular dance music, especially of the late 1970s",
     "vi": "nhạc disco",
-    "viDef": "nhạc nhảy thịnh hành, nhất là cuối thập niên 1970"
+    "viDef": "nhạc nhảy thịnh hành, nhất là cuối thập niên 1970",
+    "ex": "Disco was the biggest dance craze of the seventies.",
+    "exHit": "Disco",
+    "exVi": "Disco là cơn sốt nhảy lớn nhất của thập niên bảy mươi."
   },
   {
     "word": "crib",
@@ -133,7 +181,10 @@
     "type": "common noun, singular",
     "def": "house",
     "vi": "nhà",
-    "viDef": "chỗ ở"
+    "viDef": "chỗ ở",
+    "ex": "Come over to my crib after the roller rink tonight.",
+    "exHit": "crib",
+    "exVi": "Tối nay sau khi đi trượt patin thì ghé nhà tớ nhé."
   },
   {
     "word": "gig",
@@ -141,7 +192,10 @@
     "type": "common noun, singular",
     "def": "a performance especially by a band",
     "vi": "buổi diễn",
-    "viDef": "sô diễn, nhất là của một nhóm nhạc"
+    "viDef": "sô diễn, nhất là của một nhóm nhạc",
+    "ex": "My brother's band has a gig at the club on Saturday.",
+    "exHit": "gig",
+    "exVi": "Ban nhạc của anh trai tôi có buổi diễn ở câu lạc bộ vào thứ Bảy."
   },
   {
     "word": "the man",
@@ -149,7 +203,10 @@
     "type": "phrase",
     "def": "an authority figure, like the boss or government",
     "vi": "bên trên",
-    "viDef": "người có quyền, như cấp trên hoặc chính quyền"
+    "viDef": "người có quyền, như cấp trên hoặc chính quyền",
+    "ex": "You can't fight the man, so just pay the parking ticket.",
+    "exHit": "the man",
+    "exVi": "Chống lại chính quyền sao nổi, cứ nộp phạt vé đỗ xe đi."
   },
   {
     "word": "bummer",
@@ -157,6 +214,9 @@
     "type": "",
     "def": "a negative situation",
     "vi": "chuyện chán",
-    "viDef": "tình huống tệ"
+    "viDef": "tình huống tệ",
+    "ex": "It's a real bummer that the concert got canceled.",
+    "exHit": "bummer",
+    "exVi": "Buổi hòa nhạc bị hủy thật là xui xẻo."
   }
 ]

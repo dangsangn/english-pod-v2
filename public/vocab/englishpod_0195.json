@@ -5,7 +5,10 @@
     "type": "",
     "def": "woo",
     "vi": "tán tỉnh",
-    "viDef": "ra sức chinh phục ai"
+    "viDef": "ra sức chinh phục ai",
+    "ex": "Woo hoo!",
+    "exHit": "Woo",
+    "exVi": "Hoan hô!"
   },
   {
     "word": "manager",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a person who manages an organization, company",
     "vi": "người quản lý",
-    "viDef": "người điều hành một tổ chức, công ty"
+    "viDef": "người điều hành một tổ chức, công ty",
+    "ex": "I've even done my research and found the names of the managers so I can address the letters personally.",
+    "exHit": "managers",
+    "exVi": "Tôi còn đã nghiên cứu và tìm được tên của các quản lý nên có thể gửi thư đích danh."
   },
   {
     "word": "charming",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "delightful; pleasant; attractive",
     "vi": "dễ mến",
-    "viDef": "thú vị, dễ chịu, hấp dẫn"
+    "viDef": "thú vị, dễ chịu, hấp dẫn",
+    "ex": "And you know I can be charming in interviews.",
+    "exHit": "charming",
+    "exVi": "Và bạn biết đấy, tôi có thể rất duyên dáng trong các buổi phỏng vấn."
   },
   {
     "word": "interview",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a conversation with or questioning of a person",
     "vi": "cuộc phỏng vấn",
-    "viDef": "buổi trò chuyện hoặc hỏi đáp với một người"
+    "viDef": "buổi trò chuyện hoặc hỏi đáp với một người",
+    "ex": "And you know I can be charming in interviews.",
+    "exHit": "interviews",
+    "exVi": "Và bạn biết đấy, tôi có thể rất duyên dáng trong các buổi phỏng vấn."
   },
   {
     "word": "penniless",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "very poor; almost totally without money",
     "vi": "không một xu",
-    "viDef": "rất nghèo, hầu như chẳng còn tiền"
+    "viDef": "rất nghèo, hầu như chẳng còn tiền",
+    "ex": "Goodbye my penniless days!",
+    "exHit": "penniless",
+    "exVi": "Tạm biệt những ngày không một xu dính túi!"
   },
   {
     "word": "salary",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "money paid by the employer each month",
     "vi": "tiền lương",
-    "viDef": "khoản chủ trả mỗi tháng"
+    "viDef": "khoản chủ trả mỗi tháng",
+    "ex": "Hello salary and a career!",
+    "exHit": "salary",
+    "exVi": "Chào lương tháng và sự nghiệp!"
   },
   {
     "word": "career",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "profession that someone does for a long time",
     "vi": "nghề nghiệp",
-    "viDef": "công việc người ta theo suốt thời gian dài"
+    "viDef": "công việc người ta theo suốt thời gian dài",
+    "ex": "Hello salary and a career!",
+    "exHit": "career",
+    "exVi": "Chào lương tháng và sự nghiệp!"
   },
   {
     "word": "position",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "job, occupation",
     "vi": "vị trí công việc",
-    "viDef": "chỗ làm, chức việc"
+    "viDef": "chỗ làm, chức việc",
+    "ex": "Oh, just for a position as a gas station attendant.",
+    "exHit": "position",
+    "exVi": "Ồ, chỉ là để xin một vị trí nhân viên trạm xăng thôi."
   },
   {
     "word": "gas station",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "place where gasoline is sold",
     "vi": "trạm xăng",
-    "viDef": "nơi bán xăng"
+    "viDef": "nơi bán xăng",
+    "ex": "Oh, just for a position as a gas station attendant.",
+    "exHit": "gas station",
+    "exVi": "Ồ, chỉ là để xin một vị trí nhân viên trạm xăng thôi."
   },
   {
     "word": "attendant",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a person employed to provide a service",
     "vi": "nhân viên phục vụ",
-    "viDef": "người được thuê để làm một dịch vụ"
+    "viDef": "người được thuê để làm một dịch vụ",
+    "ex": "Oh, just for a position as a gas station attendant.",
+    "exHit": "attendant",
+    "exVi": "Ồ, chỉ là để xin một vị trí nhân viên trạm xăng thôi."
   },
   {
     "word": "lowly",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "humble or low in position",
     "vi": "thấp kém",
-    "viDef": "khiêm nhường hoặc ở vị trí thấp"
+    "viDef": "khiêm nhường hoặc ở vị trí thấp",
+    "ex": "You know, starting at a simple lowly job, just like all the greats before they made it big in the world.",
+    "exHit": "lowly",
+    "exVi": "Bạn biết đấy, bắt đầu từ một công việc đơn giản, thấp kém, giống như tất cả những người vĩ đại trước khi họ thành công lớn trên đời."
   },
   {
     "word": "great",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "great, or big people",
     "vi": "bậc lớn",
-    "viDef": "người vĩ đại, có tầm"
+    "viDef": "người vĩ đại, có tầm",
+    "ex": "You know, starting at a simple lowly job, just like all the greats before they made it big in the world.",
+    "exHit": "greats",
+    "exVi": "Bạn biết đấy, bắt đầu từ một công việc đơn giản, thấp kém, giống như tất cả những người vĩ đại trước khi họ thành công lớn trên đời."
   },
   {
     "word": "the",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "the",
     "vi": "cái, con, người",
-    "viDef": "mạo từ xác định trong tiếng Anh"
+    "viDef": "mạo từ xác định trong tiếng Anh",
+    "ex": "I'm in the market for a job!",
+    "exHit": "the",
+    "exVi": "Mình đang tìm việc đây!"
   },
   {
     "word": "uh-huh",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "a less emphatic variant of yes",
     "vi": "ừ hử",
-    "viDef": "cách nói \"vâng\" nhẹ hơn"
+    "viDef": "cách nói \"vâng\" nhẹ hơn",
+    "ex": "Uh-huh, I'll send my resume today.",
+    "exHit": "Uh-huh",
+    "exVi": "Ừ hử, hôm nay mình sẽ gửi sơ yếu lý lịch."
   },
   {
     "word": "gasoline",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "petroleum fuel",
     "vi": "xăng",
-    "viDef": "nhiên liệu từ dầu mỏ"
+    "viDef": "nhiên liệu từ dầu mỏ",
+    "ex": "Besides, I love the smell of gasoline, don't you?",
+    "exHit": "gasoline",
+    "exVi": "Hơn nữa, tôi thích mùi xăng, bạn thì sao?"
   },
   {
     "word": "job",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "regular work you do to earn money",
     "vi": "công việc",
-    "viDef": "việc làm thường xuyên để kiếm tiền"
+    "viDef": "việc làm thường xuyên để kiếm tiền",
+    "ex": "I'm in the market for a job!",
+    "exHit": "job",
+    "exVi": "Mình đang tìm việc đây!"
   },
   {
     "word": "listing",
@@ -133,7 +181,10 @@
     "type": "",
     "def": "a database containing an ordered array of items",
     "vi": "bản danh sách",
-    "viDef": "kho dữ liệu chứa các mục xếp theo thứ tự"
+    "viDef": "kho dữ liệu chứa các mục xếp theo thứ tự",
+    "ex": "I went on a website with hundreds of job listings in the area and browsed through them until I got the names of a few employers I would like to work for.",
+    "exHit": "listings",
+    "exVi": "Tôi vào một trang web có hàng trăm tin tuyển dụng trong khu vực và lướt xem cho đến khi có được tên của vài nhà tuyển dụng mà tôi muốn làm việc."
   },
   {
     "word": "browse",
@@ -141,7 +192,10 @@
     "type": "",
     "def": "to search for and read hypertext",
     "vi": "xem dạo",
-    "viDef": "tìm và đọc các trang liên kết"
+    "viDef": "tìm và đọc các trang liên kết",
+    "ex": "I went on a website with hundreds of job listings in the area and browsed through them until I got the names of a few employers I would like to work for.",
+    "exHit": "browsed",
+    "exVi": "Tôi vào một trang web có hàng trăm tin tuyển dụng trong khu vực và lướt xem cho đến khi có được tên của vài nhà tuyển dụng mà tôi muốn làm việc."
   },
   {
     "word": "employer",
@@ -149,7 +203,10 @@
     "type": "",
     "def": "a person or firm who employs",
     "vi": "nhà tuyển dụng",
-    "viDef": "người hoặc công ty thuê lao động"
+    "viDef": "người hoặc công ty thuê lao động",
+    "ex": "I went on a website with hundreds of job listings in the area and browsed through them until I got the names of a few employers I would like to work for.",
+    "exHit": "employers",
+    "exVi": "Tôi vào một trang web có hàng trăm tin tuyển dụng trong khu vực và lướt xem cho đến khi có được tên của vài nhà tuyển dụng mà tôi muốn làm việc."
   },
   {
     "word": "resume",
@@ -157,7 +214,10 @@
     "type": "",
     "def": "a summary of your academic and work history",
     "vi": "bản lý lịch",
-    "viDef": "bản tóm về học vấn và quá trình làm việc"
+    "viDef": "bản tóm về học vấn và quá trình làm việc",
+    "ex": "I have the resume I wrote for English class last month and a cover letter will be a piece of cake to write.",
+    "exHit": "resume",
+    "exVi": "Tôi có sơ yếu lý lịch viết cho lớp tiếng Anh tháng trước và viết thư xin việc sẽ dễ như ăn bánh."
   },
   {
     "word": "cover",
@@ -165,7 +225,10 @@
     "type": "",
     "def": "put something on top of",
     "vi": "che, kèm ngoài",
-    "viDef": "đặt lên trên thứ gì"
+    "viDef": "đặt lên trên thứ gì",
+    "ex": "I used a plain folder to cover my resume so it wouldn't get wet.",
+    "exHit": "cover",
+    "exVi": "Mình dùng một tập hồ sơ trơn để che sơ yếu lý lịch cho khỏi bị ướt."
   },
   {
     "word": "letter",
@@ -173,7 +236,10 @@
     "type": "",
     "def": "a written communication addressed to a person, com",
     "vi": "thư",
-    "viDef": "văn bản gửi cho một người hoặc công ty"
+    "viDef": "văn bản gửi cho một người hoặc công ty",
+    "ex": "I have the resume I wrote for English class last month and a cover letter will be a piece of cake to write.",
+    "exHit": "letter",
+    "exVi": "Tôi có sơ yếu lý lịch viết cho lớp tiếng Anh tháng trước và viết thư xin việc sẽ dễ như ăn bánh."
   },
   {
     "word": "manager",
@@ -181,7 +247,10 @@
     "type": "",
     "def": "a person who manages an organization, company",
     "vi": "người quản lý",
-    "viDef": "người điều hành một tổ chức, công ty"
+    "viDef": "người điều hành một tổ chức, công ty",
+    "ex": "I've even done my research and found the names of the managers so I can address the letters personally.",
+    "exHit": "managers",
+    "exVi": "Tôi còn đã nghiên cứu và tìm được tên của các quản lý nên có thể gửi thư đích danh."
   },
   {
     "word": "address",
@@ -189,6 +258,9 @@
     "type": "",
     "def": "put an address on an envelope",
     "vi": "ghi địa chỉ",
-    "viDef": "viết địa chỉ lên phong bì"
+    "viDef": "viết địa chỉ lên phong bì",
+    "ex": "I've even done my research and found the names of the managers so I can address the letters personally.",
+    "exHit": "address",
+    "exVi": "Tôi còn đã nghiên cứu và tìm được tên của các quản lý nên có thể ghi đích danh trên các lá thư."
   }
 ]

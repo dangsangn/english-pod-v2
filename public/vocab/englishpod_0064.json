@@ -5,7 +5,10 @@
     "type": "principle verb, past simple",
     "def": "destroy",
     "vi": "phá tan",
-    "viDef": "hủy hoại"
+    "viDef": "hủy hoại",
+    "ex": "Everything was going fine until that jerk came into the picture and ruined everything!",
+    "exHit": "ruined",
+    "exVi": "Mọi chuyện đang suôn sẻ cho đến khi tên khốn đó xuất hiện và phá hỏng tất cả!"
   },
   {
     "word": "bastard",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "an cruel or unkind person",
     "vi": "thằng tồi",
-    "viDef": "người ác hoặc tệ bạc"
+    "viDef": "người ác hoặc tệ bạc",
+    "ex": "I heard everything, you lying bastard!",
+    "exHit": "bastard",
+    "exVi": "Tôi nghe thấy hết rồi, đồ khốn dối trá!"
   },
   {
     "word": "jealousy",
@@ -21,7 +27,10 @@
     "type": "common noun, plural",
     "def": "a feeling of being supplanted; apprehensive of losing affection or position.",
     "vi": "sự ghen tức",
-    "viDef": "cảm giác bị thay thế, lo mất tình cảm hoặc vị trí"
+    "viDef": "cảm giác bị thay thế, lo mất tình cảm hoặc vị trí",
+    "ex": "I was just so overwhelmed with jealousy that I couldn't help myself.",
+    "exHit": "jealousy",
+    "exVi": "Tôi bị ghen tuông lấn át đến mức không kiềm chế được bản thân."
   },
   {
     "word": "insane",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "very crazy",
     "vi": "điên rồ",
-    "viDef": "mất trí, rất rồ"
+    "viDef": "mất trí, rất rồ",
+    "ex": "You are insane!",
+    "exHit": "insane",
+    "exVi": "Bạn điên rồi!"
   },
   {
     "word": "overwhelmed",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "state of being affected deeply in mind or emotion",
     "vi": "choáng ngợp",
-    "viDef": "bị tác động mạnh về tâm trí hoặc cảm xúc"
+    "viDef": "bị tác động mạnh về tâm trí hoặc cảm xúc",
+    "ex": "I was just so overwhelmed with jealousy that I couldn't help myself.",
+    "exHit": "overwhelmed",
+    "exVi": "Tôi bị ghen tuông lấn át đến mức không kiềm chế được bản thân."
   },
   {
     "word": "bun in the oven",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "informal way of saying: pregnant",
     "vi": "có tin vui",
-    "viDef": "cách nói thân mật của việc mang thai"
+    "viDef": "cách nói thân mật của việc mang thai",
+    "ex": "You aren't even pregnant; there's no bun in the oven.",
+    "exHit": "bun in the oven",
+    "exVi": "Bạn còn chưa mang thai nữa; làm gì có đứa bé nào trong bụng."
   },
   {
     "word": "confess",
@@ -53,7 +71,10 @@
     "type": "principle verb, infinitive",
     "def": "to admit (a fault or crime)",
     "vi": "thừa nhận",
-    "viDef": "nhận lỗi hoặc nhận tội"
+    "viDef": "nhận lỗi hoặc nhận tội",
+    "ex": "I have something to confess...",
+    "exHit": "confess",
+    "exVi": "Tôi có điều muốn thú nhận..."
   },
   {
     "word": "ridiculous",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "absurd, not logical",
     "vi": "vô lý",
-    "viDef": "nghịch lý, không hợp lẽ"
+    "viDef": "nghịch lý, không hợp lẽ",
+    "ex": "This is ridiculous!",
+    "exHit": "ridiculous",
+    "exVi": "Thật lố bịch!"
   },
   {
     "word": "eavesdrop",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "listen to another person's conversation",
     "vi": "nghe lén",
-    "viDef": "nghe trộm chuyện của người khác"
+    "viDef": "nghe trộm chuyện của người khác",
+    "ex": "I didn't mean to eavesdrop, but I heard everything you said.",
+    "exHit": "eavesdrop",
+    "exVi": "Tôi không cố ý nghe lén, nhưng tôi đã nghe hết những gì bạn nói."
   },
   {
     "word": "split up with",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "end a relationship with",
     "vi": "chia tay với",
-    "viDef": "kết thúc quan hệ với ai"
+    "viDef": "kết thúc quan hệ với ai",
+    "ex": "She decided to split up with him after the big argument.",
+    "exHit": "split up with",
+    "exVi": "Cô ấy quyết định chia tay anh ta sau cuộc cãi vã lớn."
   },
   {
     "word": "deceit",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "dishonest behavior",
     "vi": "sự dối trá",
-    "viDef": "cách xử sự không thật thà"
+    "viDef": "cách xử sự không thật thà",
+    "ex": "I can't forgive his deceit after everything he told me.",
+    "exHit": "deceit",
+    "exVi": "Tôi không thể tha thứ cho sự lừa dối của anh ấy sau tất cả những gì anh ấy đã nói với tôi."
   },
   {
     "word": "a homewrecker",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "a person who has a relationship with a married man or a married woman",
     "vi": "kẻ phá hoại gia đình",
-    "viDef": "người dính vào quan hệ với người đã có vợ hoặc có chồng"
+    "viDef": "người dính vào quan hệ với người đã có vợ hoặc có chồng",
+    "ex": "She called the other woman a homewrecker in front of everyone.",
+    "exHit": "a homewrecker",
+    "exVi": "Cô ấy gọi người phụ nữ kia là kẻ phá hoại gia đình ngay trước mặt mọi người."
   },
   {
     "word": "a fraud",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a person who is not who they seem; a person who lies",
     "vi": "kẻ giả tạo",
-    "viDef": "người không như bề ngoài, kẻ dối trá"
+    "viDef": "người không như bề ngoài, kẻ dối trá",
+    "ex": "He turned out to be a fraud who lied about everything.",
+    "exHit": "a fraud",
+    "exVi": "Hóa ra anh ta là kẻ lừa đảo, nói dối về mọi thứ."
   },
   {
     "word": "unfaithful",
@@ -109,6 +148,9 @@
     "type": "Adjective",
     "def": "to have a sexual relationship with someone who is not your husband, wife, boyfriend, or girlfriend",
     "vi": "không chung thủy",
-    "viDef": "có quan hệ với người không phải vợ, chồng hay người yêu mình"
+    "viDef": "có quan hệ với người không phải vợ, chồng hay người yêu mình",
+    "ex": "She found out that her husband had been unfaithful to her.",
+    "exHit": "unfaithful",
+    "exVi": "Cô ấy phát hiện chồng mình đã không chung thủy với cô."
   }
 ]

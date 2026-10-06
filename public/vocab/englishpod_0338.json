@@ -5,7 +5,10 @@
     "type": "",
     "def": "food remaining uneaten at the end of a meal",
     "vi": "đồ ăn thừa",
-    "viDef": "thức ăn còn lại sau bữa"
+    "viDef": "thức ăn còn lại sau bữa",
+    "ex": "Leftovers of what and from when?",
+    "exHit": "Leftovers",
+    "exVi": "Thức ăn thừa của món gì và từ khi nào?"
   },
   {
     "word": "turkey",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a large American bird similar to the chicken",
     "vi": "gà tây",
-    "viDef": "loài chim lớn ở châu Mỹ, giống gà"
+    "viDef": "loài chim lớn ở châu Mỹ, giống gà",
+    "ex": "We are having turkey, pumpkin pie, mashed potatoes with gravy, and lots of stuffing!",
+    "exHit": "turkey",
+    "exVi": "Chúng tôi sẽ có gà tây, bánh bí ngô, khoai tây nghiền với nước sốt thịt và thật nhiều nhân nhồi!"
   },
   {
     "word": "mix",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "of different kinds combined",
     "vi": "trộn lẫn",
-    "viDef": "gồm nhiều loại khác nhau hợp lại"
+    "viDef": "gồm nhiều loại khác nhau hợp lại",
+    "ex": "I took the left over turkey, mixed it with some diced peppers and onions, added a little bit of mayonnaise and made some sandwiches!",
+    "exHit": "mixed",
+    "exVi": "Tôi lấy thịt gà tây còn thừa, trộn với ớt chuông và hành thái hạt lựu, thêm chút mayonnaise và làm mấy cái bánh mì kẹp!"
   },
   {
     "word": "dice",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to cut into small cubes",
     "vi": "cắt hạt lựu",
-    "viDef": "cắt thành khối vuông nhỏ"
+    "viDef": "cắt thành khối vuông nhỏ",
+    "ex": "I took the left over turkey, mixed it with some diced peppers and onions, added a little bit of mayonnaise and made some sandwiches!",
+    "exHit": "diced",
+    "exVi": "Tôi lấy thịt gà tây còn thừa, trộn với ớt chuông và hành thái hạt lựu, thêm chút mayonnaise và làm mấy cái bánh mì kẹp!"
   },
   {
     "word": "bacteria",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "small organisims",
     "vi": "vi khuẩn",
-    "viDef": "các sinh vật nhỏ"
+    "viDef": "các sinh vật nhỏ",
+    "ex": "I mean bacteria and germs reproducing on food that was left out or reheated?",
+    "exHit": "bacteria",
+    "exVi": "Ý tôi là vi khuẩn và mầm bệnh sinh sôi trên thức ăn để ngoài hoặc đã hâm lại ấy?"
   },
   {
     "word": "germ",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a microorganism",
     "vi": "mầm bệnh",
-    "viDef": "một vi sinh vật"
+    "viDef": "một vi sinh vật",
+    "ex": "I mean bacteria and germs reproducing on food that was left out or reheated?",
+    "exHit": "germs",
+    "exVi": "Ý tôi là vi khuẩn và mầm bệnh sinh sôi trên thức ăn để ngoài hoặc đã hâm lại ấy?"
   },
   {
     "word": "reheat",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to make hot or warm again",
     "vi": "hâm nóng lại",
-    "viDef": "làm nóng hoặc ấm lại"
+    "viDef": "làm nóng hoặc ấm lại",
+    "ex": "I mean bacteria and germs reproducing on food that was left out or reheated?",
+    "exHit": "reheated",
+    "exVi": "Ý tôi là vi khuẩn và mầm bệnh sinh sôi trên thức ăn để ngoài hoặc đã hâm lại ấy?"
   },
   {
     "word": "refrigerate",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to make or keep cold",
     "vi": "bỏ tủ lạnh",
-    "viDef": "làm lạnh hoặc giữ lạnh"
+    "viDef": "làm lạnh hoặc giữ lạnh",
+    "ex": "Well, I didn't leave the turkey out at room temperature for more than a an hour and I refrigerated it soon after we finished eating.",
+    "exHit": "refrigerated",
+    "exVi": "Tôi không để gà tây ngoài nhiệt độ phòng quá một tiếng, và tôi đã cho vào tủ lạnh ngay sau khi ăn xong."
   },
   {
     "word": "food poisoning",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "becoming sick because of bacteria in food",
     "vi": "ngộ độc thực phẩm",
-    "viDef": "bị ốm do vi khuẩn trong thức ăn"
+    "viDef": "bị ốm do vi khuẩn trong thức ăn",
+    "ex": "Well ok, I am just afraid of getting food poisoning.",
+    "exHit": "food poisoning",
+    "exVi": "Ừ được rồi, tôi chỉ sợ bị ngộ độc thực phẩm thôi."
   },
   {
     "word": "sanitary",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "of or pertaining to health or the conditions affecting health",
     "vi": "hợp vệ sinh",
-    "viDef": "liên quan tới sức khỏe hoặc các điều kiện ảnh hưởng tới sức khỏe"
+    "viDef": "liên quan tới sức khỏe hoặc các điều kiện ảnh hưởng tới sức khỏe",
+    "ex": "Make sure the kitchen is clean and sanitary.",
+    "exHit": "sanitary",
+    "exVi": "Hãy chắc chắn rằng nhà bếp sạch sẽ và hợp vệ sinh."
   },
   {
     "word": "microwave",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "to cook, defrost, or otherwise prepare in a microwave oven",
     "vi": "quay lò vi sóng",
-    "viDef": "nấu, rã đông hoặc chế biến trong lò vi sóng"
+    "viDef": "nấu, rã đông hoặc chế biến trong lò vi sóng",
+    "ex": "Please microwave the soup for two minutes.",
+    "exHit": "microwave",
+    "exVi": "Làm ơn hâm súp trong lò vi sóng hai phút."
   },
   {
     "word": "soap",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a substance used for washing and cleansing purposes",
     "vi": "xà phòng",
-    "viDef": "chất dùng để rửa và làm sạch"
+    "viDef": "chất dùng để rửa và làm sạch",
+    "ex": "Wash your hands with soap before you eat.",
+    "exHit": "soap",
+    "exVi": "Hãy rửa tay bằng xà phòng trước khi ăn."
   },
   {
     "word": "contaminate",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "to make impure or unsuitable by contact or mixture with something unclean, bad",
     "vi": "làm nhiễm bẩn",
-    "viDef": "làm cho không sạch hoặc không dùng được do dính hoặc trộn với thứ bẩn, xấu"
+    "viDef": "làm cho không sạch hoặc không dùng được do dính hoặc trộn với thứ bẩn, xấu",
+    "ex": "Raw chicken can contaminate other food in the fridge.",
+    "exHit": "contaminate",
+    "exVi": "Thịt gà sống có thể làm nhiễm bẩn các thức ăn khác trong tủ lạnh."
   }
 ]

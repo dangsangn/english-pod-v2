@@ -5,7 +5,10 @@
     "type": "",
     "def": "a person through whom the spirits of the dead are alleged to be able to contact the living.",
     "vi": "người gọi hồn",
-    "viDef": "người được cho là có thể giúp hồn người chết liên lạc với người sống"
+    "viDef": "người được cho là có thể giúp hồn người chết liên lạc với người sống",
+    "ex": "Look at this newspaper article about this famous local medium.",
+    "exHit": "medium",
+    "exVi": "Nhìn bài báo này về một nhà ngoại cảm nổi tiếng ở địa phương."
   },
   {
     "word": "gifted",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "having great special talent or ability",
     "vi": "có thiên bẩm",
-    "viDef": "có tài năng hoặc khả năng đặc biệt"
+    "viDef": "có tài năng hoặc khả năng đặc biệt",
+    "ex": "It says that she is really gifted and so popular now, that she is booked solid with appointments for the next twelve months!",
+    "exHit": "gifted",
+    "exVi": "Báo nói bà ấy thật sự có năng khiếu và giờ nổi tiếng đến mức lịch hẹn đã kín hết mười hai tháng tới!"
   },
   {
     "word": "psychic",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "sensitive to influences or forces of a nonphysical or supernatural nature.",
     "vi": "nhạy cảm siêu nhiên",
-    "viDef": "nhạy với những tác động hoặc lực thuộc về phi vật chất hay siêu nhiên"
+    "viDef": "nhạy với những tác động hoặc lực thuộc về phi vật chất hay siêu nhiên",
+    "ex": "Well I have had many friends that went to a psychic and got their palms read and most of the things the psychic told her came true!",
+    "exHit": "psychic",
+    "exVi": "Chà, tôi có nhiều bạn từng đến gặp nhà tiên tri xem chỉ tay và hầu hết điều nhà tiên tri nói với cô ấy đều thành sự thật!"
   },
   {
     "word": "historic",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "of, pertaining to, treating, or characteristic of history or past events",
     "vi": "thuộc lịch sử",
-    "viDef": "liên quan tới, bàn về hoặc mang tính lịch sử và các sự kiện đã qua"
+    "viDef": "liên quan tới, bàn về hoặc mang tính lịch sử và các sự kiện đã qua",
+    "ex": "The museum has many historic documents about fortune telling.",
+    "exHit": "historic",
+    "exVi": "Bảo tàng có nhiều tài liệu lịch sử về nghề bói toán."
   },
   {
     "word": "practice",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to do or perform (something) repeatedly",
     "vi": "hành nghề, luyện tập",
-    "viDef": "làm hoặc thực hiện điều gì nhiều lần"
+    "viDef": "làm hoặc thực hiện điều gì nhiều lần",
+    "ex": "Well historically it is a practice that many cultures share.",
+    "exHit": "practice",
+    "exVi": "Chà, xét về lịch sử thì đó là một tập tục mà nhiều nền văn hóa đều có."
   },
   {
     "word": "tarot",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "any of a set of 22 playing cards bearing allegorical representations, used for fortunetelling",
     "vi": "lá bài tarot",
-    "viDef": "một trong bộ 22 lá bài mang hình ẩn dụ, dùng để đoán vận"
+    "viDef": "một trong bộ 22 lá bài mang hình ẩn dụ, dùng để đoán vận",
+    "ex": "Reading the tarot cards, in the east they would even read tea leaves!",
+    "exHit": "tarot",
+    "exVi": "Xem bài tarot, ở phương Đông họ còn xem cả bã trà nữa!"
   },
   {
     "word": "ash",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the powdery residue of matter that remains after burning",
     "vi": "tro",
-    "viDef": "phần bột còn lại sau khi thứ gì cháy hết"
+    "viDef": "phần bột còn lại sau khi thứ gì cháy hết",
+    "ex": "I even heard that there are people that make you smoke a cigar, and then read your ashes.",
+    "exHit": "ashes",
+    "exVi": "Tôi còn nghe nói có người bắt bạn hút xì gà rồi xem tro của bạn."
   },
   {
     "word": "superstition",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "irrational fear of what is unknown or mysterious",
     "vi": "sự mê tín",
-    "viDef": "nỗi sợ vô lý trước những gì chưa biết hoặc khó hiểu"
+    "viDef": "nỗi sợ vô lý trước những gì chưa biết hoặc khó hiểu",
+    "ex": "All superstitious nonsense!",
+    "exHit": "superstitious",
+    "exVi": "Toàn là chuyện nhảm nhí mê tín!"
   },
   {
     "word": "hocus pocus mumbo jumbo",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "foolish religious reverence, ritual, or incantation",
     "vi": "trò bùa chú vớ vẩn",
-    "viDef": "sự sùng bái, nghi thức hoặc câu thần chú ngớ ngẩn"
+    "viDef": "sự sùng bái, nghi thức hoặc câu thần chú ngớ ngẩn",
+    "ex": "You don't really believe in all that hocus pocus mumbo jumbo do you?",
+    "exHit": "hocus pocus mumbo jumbo",
+    "exVi": "Bạn không thật sự tin vào mấy trò bùa phép nhảm nhí đó chứ?"
   },
   {
     "word": "talent",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a special natural ability or aptitude",
     "vi": "tài năng",
-    "viDef": "khả năng hoặc năng khiếu trời cho"
+    "viDef": "khả năng hoặc năng khiếu trời cho",
+    "ex": "She has a real talent for reading people's palms.",
+    "exHit": "talent",
+    "exVi": "Cô ấy có tài thực sự trong việc xem chỉ tay cho người khác."
   },
   {
     "word": "far fetched",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "improbable",
     "vi": "xa vời khó tin",
-    "viDef": "khó có khả năng xảy ra"
+    "viDef": "khó có khả năng xảy ra",
+    "ex": "Your story sounds a bit far fetched to me.",
+    "exHit": "far fetched",
+    "exVi": "Câu chuyện của bạn nghe hơi khó tin đối với tôi."
   },
   {
     "word": "voodoo",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "black magic; sorcery",
     "vi": "bùa voodoo",
-    "viDef": "ma thuật đen; pháp thuật"
+    "viDef": "ma thuật đen; pháp thuật",
+    "ex": "I saw a voodoo doll in the shop.",
+    "exHit": "voodoo",
+    "exVi": "Tôi đã thấy một con búp bê vu đu trong cửa hàng."
   },
   {
     "word": "gypsie",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "a member of a people scattered throughout Europe and North America",
     "vi": "người Digan",
-    "viDef": "thành viên của một tộc người sống rải rác khắp châu Âu và Bắc Mỹ"
+    "viDef": "thành viên của một tộc người sống rải rác khắp châu Âu và Bắc Mỹ",
+    "ex": "A gypsy told me I would travel far one day.",
+    "exHit": "gypsy",
+    "exVi": "Một người Digan đã nói với tôi rằng một ngày nào đó tôi sẽ đi rất xa."
   }
 ]

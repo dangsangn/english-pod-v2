@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "as soon as possible",
     "vi": "càng sớm càng tốt",
-    "viDef": "nhanh nhất có thể"
+    "viDef": "nhanh nhất có thể",
+    "ex": "We should start looking for a new place for you ASAP.",
+    "exHit": "ASAP",
+    "exVi": "Chúng ta nên bắt đầu tìm chỗ ở mới cho bạn càng sớm càng tốt."
   },
   {
     "word": "tech",
@@ -13,7 +16,10 @@
     "type": "common noun, non-variable",
     "def": "technology",
     "vi": "bên kỹ thuật",
-    "viDef": "công nghệ, nhân viên kỹ thuật"
+    "viDef": "công nghệ, nhân viên kỹ thuật",
+    "ex": "I'm not really a tech guy.",
+    "exHit": "tech",
+    "exVi": "Tôi không thật sự là người rành công nghệ."
   },
   {
     "word": "toner",
@@ -21,7 +27,10 @@
     "type": "common noun, non-variable",
     "def": "ink used in a printer or photocopier",
     "vi": "mực in",
-    "viDef": "mực dùng cho máy in hoặc máy photocopy"
+    "viDef": "mực dùng cho máy in hoặc máy photocopy",
+    "ex": "I think it's just out of toner.",
+    "exHit": "toner",
+    "exVi": "Tôi nghĩ nó chỉ là hết mực in thôi."
   },
   {
     "word": "on (someone's) way",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "while moving from one place to another",
     "vi": "đang trên đường",
-    "viDef": "trong lúc đi từ nơi này sang nơi khác"
+    "viDef": "trong lúc đi từ nơi này sang nơi khác",
+    "ex": "On your way up, can you fax this while I try and fix this thing?",
+    "exHit": "On your way",
+    "exVi": "Trên đường lên, bạn fax giúp cái này nhé trong lúc tôi cố sửa cái máy này?"
   },
   {
     "word": "break down",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "suddenly stop working",
     "vi": "hỏng hóc",
-    "viDef": "đột nhiên không chạy nữa"
+    "viDef": "đột nhiên không chạy nữa",
+    "ex": "Everything in this office seems to be breaking down!",
+    "exHit": "breaking down",
+    "exVi": "Mọi thứ trong văn phòng này dường như đều đang hỏng hết!"
   },
   {
     "word": "never mind",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "forget the last thing I said; don't worry about it",
     "vi": "thôi bỏ đi",
-    "viDef": "quên câu vừa rồi đi, đừng lo"
+    "viDef": "quên câu vừa rồi đi, đừng lo",
+    "ex": "Never mind.",
+    "exHit": "Never mind",
+    "exVi": "Thôi bỏ đi."
   },
   {
     "word": "practical joke",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "a joke where something is done, rather than said",
     "vi": "cú chơi khăm",
-    "viDef": "trò đùa bằng hành động chứ không phải lời nói"
+    "viDef": "trò đùa bằng hành động chứ không phải lời nói",
+    "ex": "Is someone playing a practical joke on me?",
+    "exHit": "practical joke",
+    "exVi": "Có ai đang chơi khăm tôi không?"
   },
   {
     "word": "ridiculous",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "very unreasonable or silly",
     "vi": "vô lý hết sức",
-    "viDef": "rất vô lý hoặc ngớ ngẩn"
+    "viDef": "rất vô lý hoặc ngớ ngẩn",
+    "ex": "That's ridiculous!",
+    "exHit": "ridiculous",
+    "exVi": "Thật là lố bịch!"
   },
   {
     "word": "malfunction",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a problem causing a thing to stop working properly",
     "vi": "sự cố hỏng hóc",
-    "viDef": "lỗi làm thứ gì không chạy đúng nữa"
+    "viDef": "lỗi làm thứ gì không chạy đúng nữa",
+    "ex": "The elevator has some sort of malfunction.",
+    "exHit": "malfunction",
+    "exVi": "Thang máy có trục trặc gì đó."
   },
   {
     "word": "bug",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a technical problem that causes a computer or system to not work properly",
     "vi": "lỗi kỹ thuật",
-    "viDef": "sự cố khiến máy hay hệ thống chạy sai"
+    "viDef": "sự cố khiến máy hay hệ thống chạy sai",
+    "ex": "The app keeps crashing because of a bug.",
+    "exHit": "bug",
+    "exVi": "Ứng dụng cứ bị treo vì có một lỗi phần mềm."
   },
   {
     "word": "office equipment",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "tools used in an office",
     "vi": "thiết bị văn phòng",
-    "viDef": "các máy móc dùng trong văn phòng"
+    "viDef": "các máy móc dùng trong văn phòng",
+    "ex": "We need to buy new office equipment, like printers.",
+    "exHit": "office equipment",
+    "exVi": "Chúng ta cần mua thiết bị văn phòng mới, như máy in."
   },
   {
     "word": "paper jam",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "paper getting stuck in a photocopier, fax machine, or printer",
     "vi": "kẹt giấy",
-    "viDef": "giấy mắc trong máy photocopy, máy fax hay máy in"
+    "viDef": "giấy mắc trong máy photocopy, máy fax hay máy in",
+    "ex": "There's a paper jam in the printer again.",
+    "exHit": "paper jam",
+    "exVi": "Máy in lại bị kẹt giấy rồi."
   },
   {
     "word": "damage",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "break or harm something, make something not work properly, or not look perfect",
     "vi": "làm hư hại",
-    "viDef": "làm hỏng, làm không chạy đúng hoặc mất đẹp"
+    "viDef": "làm hỏng, làm không chạy đúng hoặc mất đẹp",
+    "ex": "The water damaged my laptop, and now it won't turn on.",
+    "exHit": "damaged",
+    "exVi": "Nước làm hỏng máy tính xách tay của tôi, giờ nó không bật lên được."
   },
   {
     "word": "power surge",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "an increase in electrical current that can damage electric equipment",
     "vi": "xung điện tăng vọt",
-    "viDef": "dòng điện tăng đột ngột, có thể làm hỏng thiết bị"
+    "viDef": "dòng điện tăng đột ngột, có thể làm hỏng thiết bị",
+    "ex": "A power surge burned out the office computers.",
+    "exHit": "power surge",
+    "exVi": "Một đợt tăng điện áp đột ngột đã làm cháy các máy tính văn phòng."
   },
   {
     "word": "breakdown",
@@ -117,6 +159,9 @@
     "type": "common noun, singular",
     "def": "the act of a machine suddenly not working properly",
     "vi": "sự hỏng máy",
-    "viDef": "việc máy bỗng chạy sai hoặc dừng hẳn"
+    "viDef": "việc máy bỗng chạy sai hoặc dừng hẳn",
+    "ex": "The breakdown of the copier made everybody late.",
+    "exHit": "breakdown",
+    "exVi": "Việc máy photocopy hỏng khiến mọi người bị trễ."
   }
 ]

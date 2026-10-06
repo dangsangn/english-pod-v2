@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "go over what have been learned",
     "vi": "ôn lại",
-    "viDef": "xem lại phần đã học"
+    "viDef": "xem lại phần đã học",
+    "ex": "Alright, children, let's review.",
+    "exHit": "review",
+    "exVi": "Được rồi các con, chúng ta cùng ôn bài nào."
   },
   {
     "word": "plus",
@@ -13,7 +16,10 @@
     "type": "Preposition",
     "def": "add (+)",
     "vi": "cộng",
-    "viDef": "phép thêm vào (+)"
+    "viDef": "phép thêm vào (+)",
+    "ex": "Okay, Crystal, now tell me, what's four plus eleven?",
+    "exHit": "plus",
+    "exVi": "Được rồi Crystal, bây giờ nói cho cô biết, bốn cộng mười một bằng bao nhiêu?"
   },
   {
     "word": "teacher's pet",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "the student a teacher likes best",
     "vi": "học sinh ruột của cô",
-    "viDef": "đứa được thầy cô thương nhất"
+    "viDef": "đứa được thầy cô thương nhất",
+    "ex": "Miss Kadlec always asks Crystal; she's such a teacher's pet.",
+    "exHit": "teacher's pet",
+    "exVi": "Cô Kadlec lúc nào cũng hỏi Crystal; bạn ấy đúng là học trò cưng của cô."
   },
   {
     "word": "minus",
@@ -29,7 +38,10 @@
     "type": "Preposition",
     "def": "take away; subtract (-)",
     "vi": "trừ",
-    "viDef": "phép bớt đi (-)"
+    "viDef": "phép bớt đi (-)",
+    "ex": "and what about fifty six minus sixty?",
+    "exHit": "minus",
+    "exVi": "Còn năm mươi sáu trừ sáu mươi thì sao?"
   },
   {
     "word": "times",
@@ -37,7 +49,10 @@
     "type": "principle verb, present simple",
     "def": "multiply; (x)",
     "vi": "nhân",
-    "viDef": "phép nhân (x)"
+    "viDef": "phép nhân (x)",
+    "ex": "twelve times twelve?",
+    "exHit": "times",
+    "exVi": "Mười hai nhân mười hai?"
   },
   {
     "word": "suck up",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a person who always tries to make the teacher or boss like him or her",
     "vi": "kẻ nịnh",
-    "viDef": "người luôn tìm cách lấy lòng thầy cô hoặc cấp trên"
+    "viDef": "người luôn tìm cách lấy lòng thầy cô hoặc cấp trên",
+    "ex": "Suck up.",
+    "exHit": "Suck up",
+    "exVi": "Đồ nịnh hót."
   },
   {
     "word": "divided by",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "separate to some parts",
     "vi": "chia cho",
-    "viDef": "tách ra thành các phần"
+    "viDef": "tách ra thành các phần",
+    "ex": "Zero divided by one?",
+    "exHit": "divided by",
+    "exVi": "Không chia cho một bằng bao nhiêu?"
   },
   {
     "word": "smarty pants",
@@ -61,7 +82,10 @@
     "type": "common noun, plural",
     "def": "a person who tries to show he is so smart",
     "vi": "kẻ tỏ ra thông thái",
-    "viDef": "người hay tỏ vẻ mình giỏi"
+    "viDef": "người hay tỏ vẻ mình giỏi",
+    "ex": "Okay, smarty pants, the square root of two!",
+    "exHit": "smarty pants",
+    "exVi": "Được rồi, bạn thông minh, căn bậc hai của hai thì sao!"
   },
   {
     "word": "square root",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "the number got when a number is multiplied by itself",
     "vi": "căn bậc hai",
-    "viDef": "số mà nhân với chính nó thì ra số đã cho"
+    "viDef": "số mà nhân với chính nó thì ra số đã cho",
+    "ex": "Okay, smarty pants, the square root of two!",
+    "exHit": "square root",
+    "exVi": "Được rồi, bạn thông minh, căn bậc hai của hai thì sao!"
   },
   {
     "word": "I'll bet",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "I think something is likely to happen",
     "vi": "tôi cá là",
-    "viDef": "tôi cho rằng chuyện đó dễ xảy ra"
+    "viDef": "tôi cho rằng chuyện đó dễ xảy ra",
+    "ex": "I'll bet he forgot to do his homework again.",
+    "exHit": "I'll bet",
+    "exVi": "Tôi đoán là cậu ấy lại quên làm bài tập về nhà."
   },
   {
     "word": "know-it-all",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "the person claims or pretends to know everything",
     "vi": "kẻ tỏ ra biết tuốt",
-    "viDef": "người tự nhận hoặc làm như mình biết mọi thứ"
+    "viDef": "người tự nhận hoặc làm như mình biết mọi thứ",
+    "ex": "Nobody likes working with a know-it-all in class.",
+    "exHit": "know-it-all",
+    "exVi": "Không ai thích học cùng một người lúc nào cũng tỏ ra biết tuốt trong lớp."
   },
   {
     "word": "equation",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a math problem where each side is equal (3+6=9)",
     "vi": "phương trình",
-    "viDef": "bài toán mà hai vế bằng nhau (3+6=9)"
+    "viDef": "bài toán mà hai vế bằng nhau (3+6=9)",
+    "ex": "Can you solve this equation before the bell rings?",
+    "exHit": "equation",
+    "exVi": "Em giải được phương trình này trước khi chuông reo không?"
   },
   {
     "word": "operation",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a mathematical process such as +, x, -, etc.",
     "vi": "phép tính",
-    "viDef": "thao tác toán học như +, x, -..."
+    "viDef": "thao tác toán học như +, x, -...",
+    "ex": "Which math operation do you use to find the total?",
+    "exHit": "operation",
+    "exVi": "Bạn dùng phép tính nào để tìm tổng?"
   },
   {
     "word": "multiplication",
@@ -109,7 +148,10 @@
     "type": "common noun, non-variable",
     "def": "the process of adding a number to itself a certain number of times",
     "vi": "phép nhân",
-    "viDef": "việc cộng một số với chính nó nhiều lần"
+    "viDef": "việc cộng một số với chính nó nhiều lần",
+    "ex": "My son is learning multiplication tables at school this week.",
+    "exHit": "multiplication",
+    "exVi": "Tuần này con trai tôi đang học bảng cửu chương ở trường."
   },
   {
     "word": "addition",
@@ -117,7 +159,10 @@
     "type": "common noun, non-variable",
     "def": "the process of adding two numbers together",
     "vi": "phép cộng",
-    "viDef": "việc cộng hai số lại"
+    "viDef": "việc cộng hai số lại",
+    "ex": "My daughter can do addition without using her fingers.",
+    "exHit": "addition",
+    "exVi": "Con gái tôi làm được phép cộng mà không cần dùng ngón tay."
   },
   {
     "word": "subtraction",
@@ -125,7 +170,10 @@
     "type": "common noun, non-variable",
     "def": "the process of taking one number away from another",
     "vi": "phép trừ",
-    "viDef": "việc lấy số này bớt đi số kia"
+    "viDef": "việc lấy số này bớt đi số kia",
+    "ex": "Subtraction is harder than addition for most young children.",
+    "exHit": "Subtraction",
+    "exVi": "Với hầu hết trẻ nhỏ, phép trừ khó hơn phép cộng."
   },
   {
     "word": "division",
@@ -133,6 +181,9 @@
     "type": "common noun, non-variable",
     "def": "the process of divining something into parts",
     "vi": "phép chia",
-    "viDef": "việc tách thứ gì thành các phần"
+    "viDef": "việc tách thứ gì thành các phần",
+    "ex": "Long division was the hardest part of math class.",
+    "exHit": "division",
+    "exVi": "Phép chia dài là phần khó nhất của giờ toán."
   }
 ]

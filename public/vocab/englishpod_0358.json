@@ -5,7 +5,10 @@
     "type": "",
     "def": "act of sending a text message via a mobile phone",
     "vi": "nhắn tin",
-    "viDef": "việc gửi tin nhắn bằng điện thoại di động"
+    "viDef": "việc gửi tin nhắn bằng điện thoại di động",
+    "ex": "Why didn't you text me last night?",
+    "exHit": "text",
+    "exVi": "Sao tối qua bạn không nhắn tin cho tôi?"
   },
   {
     "word": "SMS",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "abbreviation for Short Message Service",
     "vi": "tin nhắn SMS",
-    "viDef": "viết tắt của Short Message Service"
+    "viDef": "viết tắt của Short Message Service",
+    "ex": "I hate sending SMS messages.",
+    "exHit": "SMS",
+    "exVi": "Tôi ghét gửi tin nhắn SMS."
   },
   {
     "word": "credit",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "amount of money that you have available to make ca",
     "vi": "tiền trong tài khoản",
-    "viDef": "số tiền bạn còn để gọi"
+    "viDef": "số tiền bạn còn để gọi",
+    "ex": "Well, because I didn't have any credit on my phone.",
+    "exHit": "credit",
+    "exVi": "À, vì điện thoại của tôi hết tiền rồi."
   },
   {
     "word": "use it up",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to completely finish or extinguish something",
     "vi": "dùng hết sạch",
-    "viDef": "xài cho hết hoặc làm cạn thứ gì"
+    "viDef": "xài cho hết hoặc làm cạn thứ gì",
+    "ex": "I used it all up this month.",
+    "exHit": "used it all up",
+    "exVi": "Tháng này tôi dùng hết sạch rồi."
   },
   {
     "word": "unlimited",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "without limits or restrictions",
     "vi": "không giới hạn",
-    "viDef": "không có mức trần hay ràng buộc"
+    "viDef": "không có mức trần hay ràng buộc",
+    "ex": "I thought you had an unlimited SMS plan?",
+    "exHit": "unlimited",
+    "exVi": "Tôi tưởng bạn có gói SMS không giới hạn chứ?"
   },
   {
     "word": "no wonder",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "not surprisingly",
     "vi": "chẳng lạ gì",
-    "viDef": "thế thì không có gì đáng ngạc nhiên"
+    "viDef": "thế thì không có gì đáng ngạc nhiên",
+    "ex": "No wonder you didn't get my texts!",
+    "exHit": "No wonder",
+    "exVi": "Thảo nào bạn không nhận được tin nhắn của tôi!"
   },
   {
     "word": "voicemail",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A service that allows you to leave a recorded message",
     "vi": "hộp thư thoại",
-    "viDef": "dịch vụ cho phép để lại lời nhắn được ghi âm"
+    "viDef": "dịch vụ cho phép để lại lời nhắn được ghi âm",
+    "ex": "I left you a voicemail, but you didn't call back.",
+    "exHit": "voicemail",
+    "exVi": "Tôi đã để lại tin nhắn thoại cho bạn nhưng bạn không gọi lại."
   },
   {
     "word": "calling card",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A prepaid card that allows you to make international phone calls",
     "vi": "thẻ gọi",
-    "viDef": "thẻ trả trước cho phép bạn gọi quốc tế"
+    "viDef": "thẻ trả trước cho phép bạn gọi quốc tế",
+    "ex": "I bought a calling card to call my family abroad.",
+    "exHit": "calling card",
+    "exVi": "Tôi đã mua một thẻ gọi điện để gọi cho gia đình ở nước ngoài."
   },
   {
     "word": "pay as you go",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Credit purchased in advance in order to make phone calls on a mobile phone",
     "vi": "trả trước dùng dần",
-    "viDef": "tiền nạp sẵn để gọi bằng điện thoại di động"
+    "viDef": "tiền nạp sẵn để gọi bằng điện thoại di động",
+    "ex": "I have a pay as you go phone, so I top it up monthly.",
+    "exHit": "pay as you go",
+    "exVi": "Tôi dùng điện thoại trả trước nên mỗi tháng tôi nạp tiền một lần."
   },
   {
     "word": "coverage",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "The area that the mobile phone operator covers or allows for making phone calls",
     "vi": "vùng phủ sóng",
-    "viDef": "khu vực mà nhà mạng phủ tới hoặc cho phép gọi"
+    "viDef": "khu vực mà nhà mạng phủ tới hoặc cho phép gọi",
+    "ex": "I can't get any coverage in the mountains.",
+    "exHit": "coverage",
+    "exVi": "Ở trên núi tôi không có sóng điện thoại."
   },
   {
     "word": "drop a call",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "To lose connection of a call",
     "vi": "rớt cuộc gọi",
-    "viDef": "bị mất kết nối giữa cuộc gọi"
+    "viDef": "bị mất kết nối giữa cuộc gọi",
+    "ex": "My phone seems to drop a call every time I'm in the subway.",
+    "exHit": "drop a call",
+    "exVi": "Điện thoại của tôi hình như cứ bị rớt cuộc gọi mỗi khi tôi ở trong tàu điện ngầm."
   }
 ]

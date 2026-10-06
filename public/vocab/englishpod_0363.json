@@ -5,7 +5,10 @@
     "type": "",
     "def": "a female romantic partner",
     "vi": "bạn gái",
-    "viDef": "người nữ trong quan hệ tình cảm"
+    "viDef": "người nữ trong quan hệ tình cảm",
+    "ex": "Why did your girlfriend break up with you?",
+    "exHit": "girlfriend",
+    "exVi": "Tại sao bạn gái của cậu lại chia tay với cậu vậy?"
   },
   {
     "word": "break up",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "end a romantic relationship",
     "vi": "chia tay",
-    "viDef": "kết thúc quan hệ tình cảm"
+    "viDef": "kết thúc quan hệ tình cảm",
+    "ex": "Why did your girlfriend break up with you?",
+    "exHit": "break up",
+    "exVi": "Tại sao bạn gái của cậu lại chia tay với cậu vậy?"
   },
   {
     "word": "man up",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "take responsibility for your actions",
     "vi": "ra dáng đàn ông đi",
-    "viDef": "chịu trách nhiệm cho việc mình làm"
+    "viDef": "chịu trách nhiệm cho việc mình làm",
+    "ex": "I don't know, she said she was tired of me not manning up and being more independent, which I think is all a bunch of crap.",
+    "exHit": "manning up",
+    "exVi": "Tôi không biết, cô ấy nói cô ấy chán việc tôi không chịu trưởng thành và tự lập hơn, mà tôi thấy toàn là chuyện vớ vẩn."
   },
   {
     "word": "crap",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "an unpolite way of saying something is foolish",
     "vi": "nhảm nhí",
-    "viDef": "cách nói thô khi cho rằng điều gì thật ngớ ngẩn"
+    "viDef": "cách nói thô khi cho rằng điều gì thật ngớ ngẩn",
+    "ex": "I don't know, she said she was tired of me not manning up and being more independent, which I think is all a bunch of crap.",
+    "exHit": "crap",
+    "exVi": "Tôi không biết, cô ấy nói cô ấy chán việc tôi không chịu trưởng thành và tự lập hơn, mà tôi thấy toàn là chuyện vớ vẩn."
   },
   {
     "word": "momma's boy",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "A grown male still dependent on his mother",
     "vi": "cậu ấm bám mẹ",
-    "viDef": "người nam đã lớn mà vẫn lệ thuộc vào mẹ"
+    "viDef": "người nam đã lớn mà vẫn lệ thuộc vào mẹ",
+    "ex": "It's simply because you are a momma's boy.",
+    "exHit": "momma's boy",
+    "exVi": "Đơn giản là vì cậu là con trai cưng của mẹ."
   },
   {
     "word": "move out",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "change the place where you live, leave a house",
     "vi": "dọn ra riêng",
-    "viDef": "đổi chỗ ở, rời khỏi một căn nhà"
+    "viDef": "đổi chỗ ở, rời khỏi một căn nhà",
+    "ex": "Whatever dude, I have everything I need, why would I move out!",
+    "exHit": "move out",
+    "exVi": "Kệ đi anh bạn, mình có mọi thứ mình cần rồi, sao mình phải dọn ra ngoài chứ!"
   },
   {
     "word": "wimp",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a weak, cowardly, or ineffectual person",
     "vi": "kẻ nhu nhược",
-    "viDef": "người yếu đuối, hèn nhát hoặc chẳng được việc"
+    "viDef": "người yếu đuối, hèn nhát hoặc chẳng được việc",
+    "ex": "Don't be such a wimp and just talk to your dad.",
+    "exHit": "wimp",
+    "exVi": "Đừng yếu đuối như vậy nữa, cứ nói chuyện với bố cậu đi."
   },
   {
     "word": "pamper",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "To treat with excessive care, attention or indulgence",
     "vi": "chiều quá mức",
-    "viDef": "chăm chút, để tâm hoặc nuông chiều quá đỗi"
+    "viDef": "chăm chút, để tâm hoặc nuông chiều quá đỗi",
+    "ex": "My mom likes to pamper me when I come home.",
+    "exHit": "pamper",
+    "exVi": "Mẹ tôi thích chiều chuộng tôi mỗi khi tôi về nhà."
   },
   {
     "word": "Mooch",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "someone that tries to get something free",
     "vi": "kẻ chực chờ xin",
-    "viDef": "người tìm cách xin thứ gì miễn phí"
+    "viDef": "người tìm cách xin thứ gì miễn phí",
+    "ex": "He's a mooch who never pays for his own dinner.",
+    "exHit": "mooch",
+    "exVi": "Anh ta là kẻ ăn bám, chẳng bao giờ tự trả tiền bữa tối của mình."
   },
   {
     "word": "immature",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "characteristic of a lack of maturity",
     "vi": "non nớt",
-    "viDef": "mang nét thiếu chín chắn"
+    "viDef": "mang nét thiếu chín chắn",
+    "ex": "It's immature to ask your parents for money every week.",
+    "exHit": "immature",
+    "exVi": "Tuần nào cũng xin tiền bố mẹ là hành động thiếu chín chắn."
   },
   {
     "word": "needy",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "demanding or needing attention, affection, or reassurance to an excessive degree",
     "vi": "bám dính đòi hỏi",
-    "viDef": "đòi hoặc cần sự chú ý, tình cảm hay lời trấn an quá mức"
+    "viDef": "đòi hoặc cần sự chú ý, tình cảm hay lời trấn an quá mức",
+    "ex": "My roommate is so needy that he calls me ten times a day.",
+    "exHit": "needy",
+    "exVi": "Bạn cùng phòng của tôi đòi hỏi sự quan tâm đến mức một ngày gọi cho tôi mười lần."
   }
 ]

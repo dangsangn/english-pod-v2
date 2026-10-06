@@ -5,7 +5,10 @@
     "type": "",
     "def": "occasion",
     "vi": "dịp",
-    "viDef": "lúc, cơ hội đặc biệt"
+    "viDef": "lúc, cơ hội đặc biệt",
+    "ex": "I see, may I ask what the occasion is?",
+    "exHit": "occasion",
+    "exVi": "Tôi hiểu rồi, tôi hỏi nhân dịp gì được không?"
   },
   {
     "word": "dozen",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a word used to describe twelve units",
     "vi": "một tá",
-    "viDef": "từ chỉ mười hai đơn vị"
+    "viDef": "từ chỉ mười hai đơn vị",
+    "ex": "She bought a dozen eggs and a loaf of bread.",
+    "exHit": "dozen",
+    "exVi": "Cô ấy mua một tá trứng và một ổ bánh mì."
   },
   {
     "word": "recommend",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "say something deserves to be chosen",
     "vi": "gợi ý chọn",
-    "viDef": "nói rằng thứ gì đáng được chọn"
+    "viDef": "nói rằng thứ gì đáng được chọn",
+    "ex": "What else do you recommend?",
+    "exHit": "recommend",
+    "exVi": "Bạn còn gợi ý gì nữa không?"
   },
   {
     "word": "fragrance",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a scent or smell",
     "vi": "hương",
-    "viDef": "mùi thơm"
+    "viDef": "mùi thơm",
+    "ex": "The fragrance and beauty of this flower arrangement is sure to make her forgive you.",
+    "exHit": "fragrance",
+    "exVi": "Hương thơm và vẻ đẹp của bình hoa này chắc chắn sẽ khiến cô ấy tha thứ cho bạn."
   },
   {
     "word": "chubby",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "more polite way of calling someone fat",
     "vi": "tròn trịa",
-    "viDef": "cách gọi nhã hơn khi nói ai mập"
+    "viDef": "cách gọi nhã hơn khi nói ai mập",
+    "ex": "Well, I may have accidentally insinuated that she is getting chubbier.",
+    "exHit": "chubbier",
+    "exVi": "Chà, tôi có thể đã vô tình ám chỉ rằng cô ấy đang mập ra."
   },
   {
     "word": "vase",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a container for holding flowers, usually made of glass or porcelain",
     "vi": "bình hoa",
-    "viDef": "đồ đựng hoa, thường bằng thủy tinh hoặc sứ"
+    "viDef": "đồ đựng hoa, thường bằng thủy tinh hoặc sứ",
+    "ex": "She put the fresh roses in a tall glass vase on the table.",
+    "exHit": "vase",
+    "exVi": "Cô ấy cắm những bông hồng tươi vào chiếc bình thủy tinh cao đặt trên bàn."
   },
   {
     "word": "bouquet",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a bunch of flowers tied together",
     "vi": "bó hoa",
-    "viDef": "chùm hoa buộc lại với nhau"
+    "viDef": "chùm hoa buộc lại với nhau",
+    "ex": "He gave her a beautiful bouquet of roses on her birthday.",
+    "exHit": "bouquet",
+    "exVi": "Anh ấy tặng cô ấy một bó hồng tuyệt đẹp vào ngày sinh nhật."
   },
   {
     "word": "greenery",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the green plants in a bouquet that are not flowers, such as large leaves",
     "vi": "lá phụ trong bó hoa",
-    "viDef": "phần cây xanh không phải hoa trong bó, như lá to"
+    "viDef": "phần cây xanh không phải hoa trong bó, như lá to",
+    "ex": "The florist added some greenery to the flowers to make the bunch look fuller.",
+    "exHit": "greenery",
+    "exVi": "Người bán hoa thêm ít lá xanh vào hoa để bó trông đầy đặn hơn."
   },
   {
     "word": "centerpiece",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a decorative object found at the center of a table, usually made of flowers",
     "vi": "đồ trang trí giữa bàn",
-    "viDef": "vật đặt chính giữa bàn, thường kết bằng hoa"
+    "viDef": "vật đặt chính giữa bàn, thường kết bằng hoa",
+    "ex": "A big vase of tulips made a lovely centerpiece for our dinner table.",
+    "exHit": "centerpiece",
+    "exVi": "Một bình hoa tulip lớn trở thành vật trang trí giữa bàn ăn rất đẹp của chúng tôi."
   },
   {
     "word": "to suck up",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "to flatter someone excessively with words and gifts, in order to get on their good side",
     "vi": "nịnh cho được lòng",
-    "viDef": "tán tụng quá mức bằng lời và quà để lấy lòng ai"
+    "viDef": "tán tụng quá mức bằng lời và quà để lấy lòng ai",
+    "ex": "He always tries to suck up to the boss by bringing her coffee every morning.",
+    "exHit": "suck up",
+    "exVi": "Anh ta luôn cố nịnh nọt sếp bằng cách mang cà phê cho cô ấy mỗi sáng."
   }
 ]

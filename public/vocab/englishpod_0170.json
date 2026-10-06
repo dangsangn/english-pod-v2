@@ -5,7 +5,10 @@
     "type": "",
     "def": "a party of people at a wedding",
     "vi": "đoàn nhà cưới",
-    "viDef": "nhóm người tham dự trong lễ cưới"
+    "viDef": "nhóm người tham dự trong lễ cưới",
+    "ex": "The wedding party stood together for the photos.",
+    "exHit": "wedding party",
+    "exVi": "Đoàn người trong lễ cưới đứng cùng nhau để chụp ảnh."
   },
   {
     "word": "get cold feet",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "become nervous and reconsider a decision about an",
     "vi": "chùn chân",
-    "viDef": "bỗng lo và tính lại quyết định"
+    "viDef": "bỗng lo và tính lại quyết định",
+    "ex": "Second of all, you are just getting cold feet.",
+    "exHit": "getting cold feet",
+    "exVi": "Thứ hai, bạn chỉ đang chùn bước thôi."
   },
   {
     "word": "freak out",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "lose one's nerve",
     "vi": "mất bình tĩnh",
-    "viDef": "run, hoảng lên"
+    "viDef": "run, hoảng lên",
+    "ex": "Man, I'm freaking out!",
+    "exHit": "freaking out",
+    "exVi": "Trời ơi, tôi hoảng quá!"
   },
   {
     "word": "soul-searching",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "long and careful examination of one's thoughts and",
     "vi": "tự vấn lòng mình",
-    "viDef": "việc soi xét lâu và kỹ suy nghĩ của bản thân"
+    "viDef": "việc soi xét lâu và kỹ suy nghĩ của bản thân",
+    "ex": "After a lot of soul-searching, he decided to talk to her.",
+    "exHit": "soul-searching",
+    "exVi": "Sau nhiều lần tự vấn lòng mình, anh ấy quyết định nói chuyện với cô ấy."
   },
   {
     "word": "slap some sense into",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "remind someone to stay calm",
     "vi": "tát cho tỉnh ra",
-    "viDef": "nhắc ai bình tĩnh lại"
+    "viDef": "nhắc ai bình tĩnh lại",
+    "ex": "If you keep doubting yourself, I'll have to slap some sense into you.",
+    "exHit": "slap some sense into",
+    "exVi": "Nếu cậu cứ nghi ngờ bản thân, tớ sẽ phải cho cậu một trận để tỉnh ra đấy."
   },
   {
     "word": "fiance/fiancee",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "male/female who is engaged to be married",
     "vi": "vị hôn phu, hôn thê",
-    "viDef": "người nam hoặc nữ đã hứa hôn"
+    "viDef": "người nam hoặc nữ đã hứa hôn",
+    "ex": "Let me introduce you to my fiance, Tom.",
+    "exHit": "fiance",
+    "exVi": "Để tôi giới thiệu bạn với vị hôn phu của tôi, Tom."
   },
   {
     "word": "bridesgroom",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "groom",
     "vi": "chú rể",
-    "viDef": "người nam trong lễ cưới"
+    "viDef": "người nam trong lễ cưới",
+    "ex": "The bridesgroom looked very nervous in his new suit.",
+    "exHit": "bridesgroom",
+    "exVi": "Chú rể trông rất lo lắng trong bộ vest mới."
   },
   {
     "word": "betrothal",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "engagement",
     "vi": "lễ hứa hôn",
-    "viDef": "việc đính ước"
+    "viDef": "việc đính ước",
+    "ex": "They announced their betrothal at the family dinner last night.",
+    "exHit": "betrothal",
+    "exVi": "Họ đã công bố lễ đính hôn trong bữa tối gia đình hôm qua."
   },
   {
     "word": "unfaithful",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "not sexually faithful to a spouse or lover",
     "vi": "không chung thủy",
-    "viDef": "không giữ lòng với vợ, chồng hay người yêu"
+    "viDef": "không giữ lòng với vợ, chồng hay người yêu",
+    "ex": "She left him after she found out he'd been unfaithful.",
+    "exHit": "unfaithful",
+    "exVi": "Cô ấy bỏ anh ta sau khi phát hiện anh ta không chung thủy."
   },
   {
     "word": "don't see eye to eye",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "have differences of opinion",
     "vi": "không đồng quan điểm",
-    "viDef": "có ý kiến khác nhau"
+    "viDef": "có ý kiến khác nhau",
+    "ex": "We don't see eye to eye on where to hold the wedding.",
+    "exHit": "don't see eye to eye",
+    "exVi": "Chúng tôi không đồng quan điểm về nơi tổ chức đám cưới."
   }
 ]

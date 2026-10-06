@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "strange and a little frightening",
     "vi": "rờn rợn",
-    "viDef": "lạ và hơi đáng sợ"
+    "viDef": "lạ và hơi đáng sợ",
+    "ex": "It's like, ultra spooky!",
+    "exHit": "spooky",
+    "exVi": "Nó giống như cực kỳ rùng rợn!"
   },
   {
     "word": "scary looking",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "frightening in appearance",
     "vi": "trông đáng sợ",
-    "viDef": "vẻ ngoài gây sợ"
+    "viDef": "vẻ ngoài gây sợ",
+    "ex": "Eddie, why are we at this scary looking mansion?",
+    "exHit": "scary looking",
+    "exVi": "Eddie, sao chúng ta lại ở ngôi biệt thự trông đáng sợ này?"
   },
   {
     "word": "scaredy cat",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "someone who is always scared of things",
     "vi": "thỏ đế",
-    "viDef": "người lúc nào cũng sợ"
+    "viDef": "người lúc nào cũng sợ",
+    "ex": "Shabby is a scaredy cat!",
+    "exHit": "scaredy cat",
+    "exVi": "Shabby là đồ nhát gan!"
   },
   {
     "word": "coward",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "someone who is too afraid to do what is right",
     "vi": "kẻ nhát gan",
-    "viDef": "người sợ đến mức không dám làm điều đúng"
+    "viDef": "người sợ đến mức không dám làm điều đúng",
+    "ex": "Come on guys, stop being such cowards.",
+    "exHit": "cowards",
+    "exVi": "Nào các cậu, đừng có hèn nhát như vậy."
   },
   {
     "word": "goosebumps",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "small bumps on your skin caused by fear, cold, exc",
     "vi": "da nổi gai ốc",
-    "viDef": "những nốt nhỏ trên da do sợ hoặc lạnh"
+    "viDef": "những nốt nhỏ trên da do sợ hoặc lạnh",
+    "ex": "I'm getting goosebumps just being here!",
+    "exHit": "goosebumps",
+    "exVi": "Tôi nổi da gà chỉ vì ở đây!"
   },
   {
     "word": "haunt",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "(a ghost) lives or visit a place",
     "vi": "ám nơi nào",
-    "viDef": "hồn ma ở hoặc lui về một chỗ"
+    "viDef": "hồn ma ở hoặc lui về một chỗ",
+    "ex": "I told you already Shabby, the owner of the house says there is a ghost haunting his house so we have to go in and investigate.",
+    "exHit": "haunting",
+    "exVi": "Tôi đã nói rồi Shabby, chủ nhà bảo có một con ma ám ngôi nhà nên chúng ta phải vào điều tra."
   },
   {
     "word": "investigate",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "to try and get information about something",
     "vi": "điều tra",
-    "viDef": "tìm hiểu thông tin về việc gì"
+    "viDef": "tìm hiểu thông tin về việc gì",
+    "ex": "I told you already Shabby, the owner of the house says there is a ghost haunting his house so we have to go in and investigate.",
+    "exHit": "investigate",
+    "exVi": "Tôi đã nói rồi Shabby, chủ nhà bảo có một con ma ám ngôi nhà nên chúng ta phải vào điều tra."
   },
   {
     "word": "mansion",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a very large house",
     "vi": "dinh thự",
-    "viDef": "căn nhà rất lớn"
+    "viDef": "căn nhà rất lớn",
+    "ex": "Eddie, why are we at this scary looking mansion?",
+    "exHit": "mansion",
+    "exVi": "Eddie, sao chúng ta lại ở ngôi biệt thự trông đáng sợ này?"
   },
   {
     "word": "supernatural",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "unable to be explained by science",
     "vi": "siêu nhiên",
-    "viDef": "khoa học không giải thích được"
+    "viDef": "khoa học không giải thích được",
+    "ex": "She believes in ghosts and other supernatural things.",
+    "exHit": "supernatural",
+    "exVi": "Cô ấy tin vào ma và những điều siêu nhiên khác."
   },
   {
     "word": "terrifying",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "extremly scary",
     "vi": "kinh hoàng",
-    "viDef": "cực kỳ đáng sợ"
+    "viDef": "cực kỳ đáng sợ",
+    "ex": "The sound from the attic was absolutely terrifying.",
+    "exHit": "terrifying",
+    "exVi": "Âm thanh từ gác mái thật sự kinh hoàng."
   },
   {
     "word": "creepy",
@@ -85,7 +115,10 @@
     "type": "Adjective",
     "def": "strange or scary (informal)",
     "vi": "gờm gớm",
-    "viDef": "lạ hoặc đáng sợ (thân mật)"
+    "viDef": "lạ hoặc đáng sợ (thân mật)",
+    "ex": "The old mansion looks creepy at night.",
+    "exHit": "creepy",
+    "exVi": "Ngôi biệt thự cũ trông rợn người vào ban đêm."
   },
   {
     "word": "creep (someone) out",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "make someone scared and uncomfortable",
     "vi": "làm ai rợn người",
-    "viDef": "khiến ai thấy sợ và bất an"
+    "viDef": "khiến ai thấy sợ và bất an",
+    "ex": "That empty house really creeps me out.",
+    "exHit": "creeps me out",
+    "exVi": "Căn nhà trống đó thật sự làm tôi sợ."
   },
   {
     "word": "chilling",
@@ -101,6 +137,9 @@
     "type": "Adjective",
     "def": "very disturbing or frightening",
     "vi": "lạnh sống lưng",
-    "viDef": "rất bất an hoặc đáng sợ"
+    "viDef": "rất bất an hoặc đáng sợ",
+    "ex": "The ghost story was so chilling that nobody could sleep.",
+    "exHit": "chilling",
+    "exVi": "Câu chuyện ma rợn người đến mức không ai ngủ được."
   }
 ]

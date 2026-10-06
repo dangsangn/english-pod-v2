@@ -5,7 +5,10 @@
     "type": "",
     "def": "an area of land, for the enjoyment of the public",
     "vi": "công viên",
-    "viDef": "khu đất dành cho công chúng vui chơi"
+    "viDef": "khu đất dành cho công chúng vui chơi",
+    "ex": "I decided to take Kenny to the park and get some fresh air.",
+    "exHit": "park",
+    "exVi": "Tôi quyết định đưa Kenny ra công viên hít thở không khí trong lành."
   },
   {
     "word": "crowded",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "filled to excess; packed.",
     "vi": "đông nghịt",
-    "viDef": "chật kín người"
+    "viDef": "chật kín người",
+    "ex": "It wasn't too crowded, but we had a great time!",
+    "exHit": "crowded",
+    "exVi": "Không quá đông, nhưng chúng tôi chơi rất vui!"
   },
   {
     "word": "see-saw",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a plank used to balance",
     "vi": "bập bênh",
-    "viDef": "tấm ván dùng để bập lên xuống cho cân"
+    "viDef": "tấm ván dùng để bập lên xuống cho cân",
+    "ex": "The kids took turns on the see-saw.",
+    "exHit": "see-saw",
+    "exVi": "Bọn trẻ thay phiên nhau chơi bập bênh."
   },
   {
     "word": "slide",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a smooth surface for sliding on",
     "vi": "cầu trượt",
-    "viDef": "mặt nhẵn để trượt xuống"
+    "viDef": "mặt nhẵn để trượt xuống",
+    "ex": "We got on the see-saw together, the went on a couple of different slides and then I tried to go with him in the jungle gym, but I didn't fit.",
+    "exHit": "slides",
+    "exVi": "Chúng tôi cùng chơi bập bênh, rồi chơi vài cái cầu trượt khác nhau, rồi tôi thử vào khu leo trèo cùng thằng bé nhưng tôi không lọt."
   },
   {
     "word": "sandbox",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a box for holding sand, lare enough for children to play in",
     "vi": "hố cát",
-    "viDef": "thùng đựng cát, đủ rộng cho trẻ vào chơi"
+    "viDef": "thùng đựng cát, đủ rộng cho trẻ vào chơi",
+    "ex": "When we go he always just likes to play in the sandbox.",
+    "exHit": "sandbox",
+    "exVi": "Mỗi lần đến, thằng bé luôn chỉ thích chơi ở hố cát."
   },
   {
     "word": "hyper",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "overexcited; overstimulated",
     "vi": "tăng động",
-    "viDef": "phấn khích quá mức, bị kích thích quá đà"
+    "viDef": "phấn khích quá mức, bị kích thích quá đà",
+    "ex": "Yeah, but today he was really hyper.",
+    "exHit": "hyper",
+    "exVi": "Ừ, nhưng hôm nay thằng bé thực sự quá hiếu động."
   },
   {
     "word": "swing",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the action of hitting the golf ball",
     "vi": "cú vung gậy",
-    "viDef": "động tác đánh bóng golf"
+    "viDef": "động tác đánh bóng golf",
+    "ex": "Not a good swing at all!",
+    "exHit": "swing",
+    "exVi": "Cú đánh không tốt chút nào!"
   },
   {
     "word": "exhausted",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "very tired",
     "vi": "kiệt sức",
-    "viDef": "rất mệt"
+    "viDef": "rất mệt",
+    "ex": "I'm exhausted!",
+    "exHit": "exhausted",
+    "exVi": "Tôi kiệt sức rồi!"
   },
   {
     "word": "merry-go-round",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a revolving, circular platform with wooden horses or other animals, benches, etc., on which people may sit or ride",
     "vi": "vòng ngựa gỗ",
-    "viDef": "bệ tròn xoay có ngựa gỗ hoặc con vật khác, ghế... để người ngồi hoặc cưỡi"
+    "viDef": "bệ tròn xoay có ngựa gỗ hoặc con vật khác, ghế... để người ngồi hoặc cưỡi",
+    "ex": "My daughter loves riding the merry-go-round at the park.",
+    "exHit": "merry-go-round",
+    "exVi": "Con gái tôi thích cưỡi vòng quay ngựa gỗ ở công viên."
   },
   {
     "word": "hop scotch",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a children's game in which one hops across square spaces",
     "vi": "nhảy lò cò ô",
-    "viDef": "trò trẻ con nhảy lò cò qua các ô vuông"
+    "viDef": "trò trẻ con nhảy lò cò qua các ô vuông",
+    "ex": "The girls were playing hop scotch on the sidewalk.",
+    "exHit": "hop scotch",
+    "exVi": "Mấy bé gái đang chơi nhảy lò cò trên vỉa hè."
   },
   {
     "word": "marbles",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a game for children in which a marble is propelled by the thumb to hit another marble",
     "vi": "trò bắn bi",
-    "viDef": "trò trẻ con búng viên bi bằng ngón cái để chạm vào viên bi khác"
+    "viDef": "trò trẻ con búng viên bi bằng ngón cái để chạm vào viên bi khác",
+    "ex": "My son keeps his marbles in a small bag.",
+    "exHit": "marbles",
+    "exVi": "Con trai tôi cất những viên bi trong một cái túi nhỏ."
   },
   {
     "word": "skipping rope",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "a length of rope that is swung around while someone jumps over it",
     "vi": "dây nhảy",
-    "viDef": "đoạn dây được quay vòng cho người nhảy qua"
+    "viDef": "đoạn dây được quay vòng cho người nhảy qua",
+    "ex": "She can jump with a skipping rope for ten minutes.",
+    "exHit": "skipping rope",
+    "exVi": "Cô bé có thể nhảy dây suốt mười phút."
   }
 ]

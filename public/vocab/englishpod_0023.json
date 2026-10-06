@@ -5,7 +5,10 @@
     "type": "",
     "def": "to arrange",
     "vi": "sắp xếp, thu xếp",
-    "viDef": "bố trí, hẹn trước"
+    "viDef": "bố trí, hẹn trước",
+    "ex": "Yes, this is Julianne Horton, and I'm calling to arrange an appointment with Ms. McNealy.",
+    "exHit": "arrange",
+    "exVi": "Vâng, tôi là Julianne Horton, và tôi gọi để sắp xếp một cuộc hẹn với cô McNealy."
   },
   {
     "word": "appointment",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "an agreement to meet someone at a particular time",
     "vi": "cuộc hẹn",
-    "viDef": "thỏa thuận gặp ai đó vào giờ nhất định"
+    "viDef": "thỏa thuận gặp ai đó vào giờ nhất định",
+    "ex": "Yes, this is Julianne Horton, and I'm calling to arrange an appointment with Ms. McNealy.",
+    "exHit": "appointment",
+    "exVi": "Vâng, tôi là Julianne Horton, và tôi gọi để sắp xếp một cuộc hẹn với cô McNealy."
   },
   {
     "word": "available",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "not busy, willing to talk to someone",
     "vi": "rảnh, tiếp được",
-    "viDef": "không bận, sẵn sàng trò chuyện"
+    "viDef": "không bận, sẵn sàng trò chuyện",
+    "ex": "Does she have any time available then?",
+    "exHit": "available",
+    "exVi": "Lúc đó cô ấy có thời gian rảnh không?"
   },
   {
     "word": "double check",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "check again",
     "vi": "kiểm tra lại",
-    "viDef": "xem lại lần nữa"
+    "viDef": "xem lại lần nữa",
+    "ex": "let me double check...",
+    "exHit": "double check",
+    "exVi": "để tôi kiểm tra lại..."
   },
   {
     "word": "booked solid",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "having no available place or time",
     "vi": "kín lịch",
-    "viDef": "không còn chỗ hay thời gian trống"
+    "viDef": "không còn chỗ hay thời gian trống",
+    "ex": "unfortunately, she's booked solid on Thursday, how does next Monday work for you?",
+    "exHit": "booked solid",
+    "exVi": "Thật không may, cô ấy kín lịch cả ngày thứ Năm, thứ Hai tuần sau thì bạn thấy thế nào?"
   },
   {
     "word": "work for you",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "be okay with you",
     "vi": "anh/chị thấy tiện không",
-    "viDef": "có phù hợp với bạn không"
+    "viDef": "có phù hợp với bạn không",
+    "ex": "unfortunately, she's booked solid on Thursday, how does next Monday work for you?",
+    "exHit": "work for you",
+    "exVi": "Thật không may, cô ấy kín lịch cả ngày thứ Năm, thứ Hai tuần sau thì bạn thấy thế nào?"
   },
   {
     "word": "scheduled",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "planned at a specific time",
     "vi": "đã lên lịch",
-    "viDef": "được sắp xếp vào một giờ cụ thể"
+    "viDef": "được sắp xếp vào một giờ cụ thể",
+    "ex": "Actually, I've got something scheduled on Monday.",
+    "exHit": "scheduled",
+    "exVi": "Thật ra tôi có việc đã lên lịch vào thứ Hai rồi."
   },
   {
     "word": "no good",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "not okay",
     "vi": "không ổn",
-    "viDef": "không được"
+    "viDef": "không được",
+    "ex": "Oh, actually, Tuesday's no good.",
+    "exHit": "no good",
+    "exVi": "Ồ, thật ra thứ Ba thì không được."
   },
   {
     "word": "fully booked",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "booked solid; having no space or time available",
     "vi": "kín chỗ hoàn toàn",
-    "viDef": "hết sạch chỗ và thời gian trống"
+    "viDef": "hết sạch chỗ và thời gian trống",
+    "ex": "Sorry, the restaurant is fully booked for this Saturday night.",
+    "exHit": "fully booked",
+    "exVi": "Xin lỗi, nhà hàng đã kín chỗ hết vào tối thứ Bảy này."
   },
   {
     "word": "fit you in",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "find time to see someone in a busy schedule",
     "vi": "xếp chen cho bạn",
-    "viDef": "tìm thời gian tiếp ai đó trong lịch đã kín"
+    "viDef": "tìm thời gian tiếp ai đó trong lịch đã kín",
+    "ex": "I can fit you in at four o'clock on Friday afternoon.",
+    "exHit": "fit you in",
+    "exVi": "Tôi có thể sắp xếp cho bạn vào lúc bốn giờ chiều thứ Sáu."
   },
   {
     "word": "unavailable",
@@ -85,7 +115,10 @@
     "type": "Adjective",
     "def": "not available",
     "vi": "không tiếp được",
-    "viDef": "không rảnh"
+    "viDef": "không rảnh",
+    "ex": "Mr. Lee is unavailable right now, but he can call you back later.",
+    "exHit": "unavailable",
+    "exVi": "Ông Lee hiện không rảnh, nhưng ông ấy có thể gọi lại cho bạn sau."
   },
   {
     "word": "occupied",
@@ -93,6 +126,9 @@
     "type": "Adjective",
     "def": "busy doing something",
     "vi": "đang bận",
-    "viDef": "đang mắc làm việc gì đó"
+    "viDef": "đang mắc làm việc gì đó",
+    "ex": "I'm occupied with a client right now, so can I call you later?",
+    "exHit": "occupied",
+    "exVi": "Hiện giờ tôi đang bận với một khách hàng, tôi gọi lại cho bạn sau được không?"
   }
 ]

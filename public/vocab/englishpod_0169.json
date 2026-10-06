@@ -5,7 +5,10 @@
     "type": "",
     "def": "relax",
     "vi": "bình tĩnh lại",
-    "viDef": "thư giãn"
+    "viDef": "thư giãn",
+    "ex": "Alright settle down now, you're gonna give yourself a heart attack.",
+    "exHit": "settle down",
+    "exVi": "Được rồi, bình tĩnh lại đi, cậu sắp lên cơn đau tim đến nơi rồi."
   },
   {
     "word": "rip-off",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the act of overcharging",
     "vi": "vụ chặt giá",
-    "viDef": "việc tính tiền quá đắt"
+    "viDef": "việc tính tiền quá đắt",
+    "ex": "Five dollars for a bottle of water is a total rip-off.",
+    "exHit": "rip-off",
+    "exVi": "Năm đô cho một chai nước thì đúng là chặt chém."
   },
   {
     "word": "handle",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "deal with",
     "vi": "chịu được, xử được",
-    "viDef": "đối phó với việc gì"
+    "viDef": "đối phó với việc gì",
+    "ex": "I can handle it.",
+    "exHit": "handle",
+    "exVi": "Tôi xử lý được mà."
   },
   {
     "word": "throw up",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "vomit",
     "vi": "nôn",
-    "viDef": "trút ra ngoài"
+    "viDef": "trút ra ngoài",
+    "ex": "If you eat too much before the ride, you might throw up.",
+    "exHit": "throw up",
+    "exVi": "Nếu ăn quá nhiều trước khi chơi trò này, bạn có thể bị nôn đấy."
   },
   {
     "word": "amusement",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "entertainment",
     "vi": "sự giải trí",
-    "viDef": "chuyện mua vui"
+    "viDef": "chuyện mua vui",
+    "ex": "We spent the whole day at the amusement park.",
+    "exHit": "amusement",
+    "exVi": "Chúng tôi dành cả ngày ở công viên giải trí."
   },
   {
     "word": "loop-the-loop",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a complete vertical loop",
     "vi": "vòng lộn ngược",
-    "viDef": "một vòng tròn trọn vẹn theo chiều dọc"
+    "viDef": "một vòng tròn trọn vẹn theo chiều dọc",
+    "ex": "The loop-the-loop turns you completely upside down.",
+    "exHit": "loop-the-loop",
+    "exVi": "Vòng xoay loop-the-loop làm bạn lộn ngược hoàn toàn."
   },
   {
     "word": "steep",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "having a slope that is almost vertical",
     "vi": "dốc dựng",
-    "viDef": "độ nghiêng gần như thẳng đứng"
+    "viDef": "độ nghiêng gần như thẳng đứng",
+    "ex": "The first hill is so steep that I closed my eyes.",
+    "exHit": "steep",
+    "exVi": "Con dốc đầu tiên dốc đến mức tôi nhắm tịt mắt lại."
   },
   {
     "word": "lineup",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a line of people waiting their turn",
     "vi": "hàng người chờ",
-    "viDef": "dòng người xếp đợi tới lượt"
+    "viDef": "dòng người xếp đợi tới lượt",
+    "ex": "The lineup for this ride is over an hour long.",
+    "exHit": "lineup",
+    "exVi": "Hàng người xếp hàng chơi trò này dài hơn một tiếng."
   },
   {
     "word": "safety/lap bar",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a bar that goes across a passenger's lap in order to keep them from falling out of the car",
     "vi": "thanh chắn an toàn",
-    "viDef": "thanh gác qua chân khách để không bị rơi khỏi khoang"
+    "viDef": "thanh gác qua chân khách để không bị rơi khỏi khoang",
+    "ex": "Pull the safety bar down tight before the ride starts.",
+    "exHit": "safety bar",
+    "exVi": "Hãy kéo thanh an toàn xuống thật chặt trước khi trò chơi bắt đầu."
   },
   {
     "word": "harness",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "straps or a metal restraint that fit around a passenger's shoulders and mid-section in order to keep them from falling out of the car",
     "vi": "dây đai an toàn",
-    "viDef": "bộ dây hoặc gọng kim loại ôm vai và bụng để khách không rơi ra"
+    "viDef": "bộ dây hoặc gọng kim loại ôm vai và bụng để khách không rơi ra",
+    "ex": "The harness held me firmly in my seat the whole time.",
+    "exHit": "harness",
+    "exVi": "Dây đai giữ tôi chắc chắn trên ghế suốt cả chuyến."
   }
 ]

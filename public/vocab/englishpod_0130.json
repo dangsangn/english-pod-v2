@@ -5,7 +5,10 @@
     "type": "principle verb, present progressive",
     "def": "to lift weights in order to make your muscles strong",
     "vi": "tập tạ",
-    "viDef": "nâng tạ cho cơ khỏe lên"
+    "viDef": "nâng tạ cho cơ khỏe lên",
+    "ex": "Now it's very important that you stretch before pumping iron or you might pull a muscle.",
+    "exHit": "pumping iron",
+    "exVi": "Điều rất quan trọng là bạn phải giãn cơ trước khi tập tạ, nếu không có thể bị căng cơ."
   },
   {
     "word": "pull a muscle",
@@ -13,7 +16,10 @@
     "type": "principle verb, present simple",
     "def": "to hurt (a muscle, tendon, or ligament) by stretch",
     "vi": "giãn cơ, trật cơ",
-    "viDef": "làm đau cơ, gân hoặc dây chằng do kéo căng"
+    "viDef": "làm đau cơ, gân hoặc dây chằng do kéo căng",
+    "ex": "Now it's very important that you stretch before pumping iron or you might pull a muscle.",
+    "exHit": "pull a muscle",
+    "exVi": "Điều rất quan trọng là bạn phải giãn cơ trước khi tập tạ, nếu không có thể bị căng cơ."
   },
   {
     "word": "pointer",
@@ -21,7 +27,10 @@
     "type": "common noun, plural",
     "def": "suggestions, help",
     "vi": "lời chỉ dẫn",
-    "viDef": "gợi ý, sự giúp đỡ"
+    "viDef": "gợi ý, sự giúp đỡ",
+    "ex": "I can give you a few pointers if you want.",
+    "exHit": "pointers",
+    "exVi": "Tôi có thể chỉ cho bạn vài mẹo nếu bạn muốn."
   },
   {
     "word": "physique",
@@ -29,7 +38,10 @@
     "type": "common noun, non-variable",
     "def": "the size and shape of a person's body",
     "vi": "thể hình",
-    "viDef": "kích thước và dáng người"
+    "viDef": "kích thước và dáng người",
+    "ex": "I just want a good physique with weights and cardio.",
+    "exHit": "physique",
+    "exVi": "Tôi chỉ muốn có một vóc dáng đẹp nhờ tập tạ và cardio."
   },
   {
     "word": "ripped",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "having a strong and muscular body or shape",
     "vi": "cơ bắp cuồn cuộn",
-    "viDef": "thân hình chắc, nhiều cơ"
+    "viDef": "thân hình chắc, nhiều cơ",
+    "ex": "Well, I don't want to be ripped like you!",
+    "exHit": "ripped",
+    "exVi": "Tôi không muốn cơ bắp cuồn cuộn như anh đâu!"
   },
   {
     "word": "barbell",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a long metal rod to which heavy discs are attached at each end for weightlifting",
     "vi": "thanh tạ đòn",
-    "viDef": "thanh kim loại dài có đĩa nặng hai đầu để nâng tạ"
+    "viDef": "thanh kim loại dài có đĩa nặng hai đầu để nâng tạ",
+    "ex": "Put the heavy plates on both ends of the barbell, please.",
+    "exHit": "barbell",
+    "exVi": "Làm ơn lắp các tạ nặng vào hai đầu thanh tạ đòn."
   },
   {
     "word": "treadmill",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "an exercise machine that consists of a continuous moving belt on which to walk or jog",
     "vi": "máy chạy bộ",
-    "viDef": "máy tập có băng chạy để đi hoặc chạy trên đó"
+    "viDef": "máy tập có băng chạy để đi hoặc chạy trên đó",
+    "ex": "I run on the treadmill for thirty minutes every morning.",
+    "exHit": "treadmill",
+    "exVi": "Sáng nào tôi cũng chạy trên máy chạy bộ ba mươi phút."
   },
   {
     "word": "spinning",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "an aerobic exercise that takes place on a specially designed stationary bicycle",
     "vi": "tập xe đạp trong phòng",
-    "viDef": "bài tập nhịp điệu trên xe đạp tại chỗ chuyên dụng"
+    "viDef": "bài tập nhịp điệu trên xe đạp tại chỗ chuyên dụng",
+    "ex": "I joined a spinning class because I love riding bikes.",
+    "exHit": "spinning",
+    "exVi": "Tôi tham gia lớp đạp xe trong nhà vì tôi thích đi xe đạp."
   },
   {
     "word": "scale",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "An instrument or machine for weighing",
     "vi": "cái cân",
-    "viDef": "dụng cụ hoặc máy để cân"
+    "viDef": "dụng cụ hoặc máy để cân",
+    "ex": "Put your suitcase on the scale, please.",
+    "exHit": "scale",
+    "exVi": "Làm ơn đặt vali của bạn lên cân."
   },
   {
     "word": "sit-up",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "an excercise performed to work out the abdominal muscles",
     "vi": "gập bụng",
-    "viDef": "bài tập cho cơ bụng"
+    "viDef": "bài tập cho cơ bụng",
+    "ex": "I do fifty sit-ups every night to build my stomach muscles.",
+    "exHit": "sit-ups",
+    "exVi": "Tối nào tôi cũng tập năm mươi cái gập bụng để rèn cơ bụng."
   }
 ]

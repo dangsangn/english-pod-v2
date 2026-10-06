@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "nerd, loser",
     "vi": "thằng đần dở",
-    "viDef": "kẻ lù đù, thất bại"
+    "viDef": "kẻ lù đù, thất bại",
+    "ex": "Too bad the driver is a major dweeb.",
+    "exHit": "dweeb",
+    "exVi": "Tiếc là tài xế là một gã mọt sách quê mùa."
   },
   {
     "word": "to get with",
@@ -13,7 +16,10 @@
     "type": "principle verb, infinitive",
     "def": "to be romantic with (slang)",
     "vi": "cặp với",
-    "viDef": "yêu đương với ai (tiếng lóng)"
+    "viDef": "yêu đương với ai (tiếng lóng)",
+    "ex": "The ladies are gonna be lining up to get with you when they see you driving around in that car.",
+    "exHit": "to get with",
+    "exVi": "Các cô nàng sẽ xếp hàng để được hẹn hò với cậu khi thấy cậu lái chiếc xe đó."
   },
   {
     "word": "airhead",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "a silly or stupid person",
     "vi": "đầu rỗng",
-    "viDef": "người khờ hoặc ngốc"
+    "viDef": "người khờ hoặc ngốc",
+    "ex": "Don't be a airhead!",
+    "exHit": "airhead",
+    "exVi": "Đừng có ngốc nghếch thế!"
   },
   {
     "word": "wicked",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "very good (slang)",
     "vi": "đỉnh",
-    "viDef": "rất hay (tiếng lóng)"
+    "viDef": "rất hay (tiếng lóng)",
+    "ex": "In a couple of months, this baby is gonna be wicked!",
+    "exHit": "wicked",
+    "exVi": "Vài tháng nữa thôi, em yêu này sẽ cực kỳ đỉnh!"
   },
   {
     "word": "loaded",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "rich",
     "vi": "giàu nứt",
-    "viDef": "nhiều tiền"
+    "viDef": "nhiều tiền",
+    "ex": "Anyone can have a car like that if their daddy is loaded like his.",
+    "exHit": "loaded",
+    "exVi": "Ai cũng có thể có chiếc xe như thế nếu bố họ giàu sụ như bố cậu ta."
   },
   {
     "word": "butt ugly",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "very ugly",
     "vi": "xấu không tả",
-    "viDef": "cực xấu"
+    "viDef": "cực xấu",
+    "ex": "It's butt ugly, dude!",
+    "exHit": "butt ugly",
+    "exVi": "Xấu hoắc, anh bạn!"
   },
   {
     "word": "ride",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "car (slang)",
     "vi": "xế",
-    "viDef": "chiếc xe (tiếng lóng)"
+    "viDef": "chiếc xe (tiếng lóng)",
+    "ex": "Now that's a fresh ride!",
+    "exHit": "ride",
+    "exVi": "Đúng là một chiếc xe ngầu!"
   },
   {
     "word": "dude",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "man (slang)",
     "vi": "gã, ông bạn",
-    "viDef": "anh chàng (tiếng lóng)"
+    "viDef": "anh chàng (tiếng lóng)",
+    "ex": "Dude, don't have a cow!",
+    "exHit": "Dude",
+    "exVi": "Này anh bạn, đừng có nổi cáu!"
   },
   {
     "word": "fresh",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "new, cool (slang)",
     "vi": "mới toanh, ngầu",
-    "viDef": "mới, hay (tiếng lóng)"
+    "viDef": "mới, hay (tiếng lóng)",
+    "ex": "Now that's a fresh ride!",
+    "exHit": "fresh",
+    "exVi": "Đúng là một chiếc xe ngầu!"
   },
   {
     "word": "bad to the bones",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "completely cool",
     "vi": "ngầu tới xương",
-    "viDef": "ngầu hết mực"
+    "viDef": "ngầu hết mực",
+    "ex": "Isn't it bad to the bone?",
+    "exHit": "bad to the bone",
+    "exVi": "Có phải nó ngầu hết chỗ nói không?"
   },
   {
     "word": "psych",
@@ -85,7 +115,10 @@
     "type": "Interjection",
     "def": "just kidding; I was joking",
     "vi": "giỡn thôi",
-    "viDef": "tôi chỉ đùa"
+    "viDef": "tôi chỉ đùa",
+    "ex": "Psych!",
+    "exHit": "Psych",
+    "exVi": "Đùa thôi!"
   },
   {
     "word": "have a cow",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "get angry",
     "vi": "làm dữ lên",
-    "viDef": "nổi giận"
+    "viDef": "nổi giận",
+    "ex": "Dude, don't have a cow!",
+    "exHit": "have a cow",
+    "exVi": "Này anh bạn, đừng có nổi cáu!"
   },
   {
     "word": "411",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "information",
     "vi": "thông tin",
-    "viDef": "tin tức cần biết"
+    "viDef": "tin tức cần biết",
+    "ex": "Hey, can you give me the 411 on the new teacher?",
+    "exHit": "411",
+    "exVi": "Này, cậu cho tớ biết thông tin về giáo viên mới được không?"
   },
   {
     "word": "take a chill pill",
@@ -109,7 +148,10 @@
     "type": "phrase",
     "def": "relax; chill out",
     "vi": "hạ nhiệt cái đi",
-    "viDef": "bình tĩnh, thư giãn"
+    "viDef": "bình tĩnh, thư giãn",
+    "ex": "You need to take a chill pill, it's only a game.",
+    "exHit": "take a chill pill",
+    "exVi": "Cậu cần bình tĩnh lại đi, chỉ là một trò chơi thôi."
   },
   {
     "word": "jock",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "a male who plays a lot of sport",
     "vi": "tay thể thao",
-    "viDef": "chàng trai chơi thể thao nhiều"
+    "viDef": "chàng trai chơi thể thao nhiều",
+    "ex": "Mike is a jock who plays football every day after school.",
+    "exHit": "jock",
+    "exVi": "Mike là một gã thể thao suốt ngày chơi bóng bầu dục sau giờ học."
   },
   {
     "word": "jet",
@@ -125,7 +170,10 @@
     "type": "verb",
     "def": "leave a place quickly",
     "vi": "biến cho lẹ",
-    "viDef": "rời khỏi nơi nào thật nhanh"
+    "viDef": "rời khỏi nơi nào thật nhanh",
+    "ex": "I have to jet, my bus leaves in five minutes.",
+    "exHit": "jet",
+    "exVi": "Tớ phải chuồn đây, xe buýt chạy trong năm phút nữa."
   },
   {
     "word": "bite me",
@@ -133,6 +181,9 @@
     "type": "phrase",
     "def": "leave me alone; go away; I don't care",
     "vi": "dẹp đi",
-    "viDef": "để tôi yên, tôi chẳng quan tâm"
+    "viDef": "để tôi yên, tôi chẳng quan tâm",
+    "ex": "Oh, bite me, I don't care what you think.",
+    "exHit": "bite me",
+    "exVi": "Thôi đi, tớ không quan tâm cậu nghĩ gì."
   }
 ]

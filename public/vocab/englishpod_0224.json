@@ -5,7 +5,10 @@
     "type": "",
     "def": "scientific tests used in the investigation of crime",
     "vi": "pháp y, khoa học hình sự",
-    "viDef": "các phép xét nghiệm khoa học dùng trong điều tra tội phạm"
+    "viDef": "các phép xét nghiệm khoa học dùng trong điều tra tội phạm",
+    "ex": "Have the forensics team been in yet?",
+    "exHit": "forensics",
+    "exVi": "Đội pháp y đã vào chưa?"
   },
   {
     "word": "identify",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "discover and define",
     "vi": "xác định danh tính",
-    "viDef": "phát hiện và định rõ"
+    "viDef": "phát hiện và định rõ",
+    "ex": "Hopefully, they will be able to identify the burglar soon.",
+    "exHit": "identify",
+    "exVi": "Hy vọng họ sẽ sớm xác định được tên trộm."
   },
   {
     "word": "strand",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a single length of",
     "vi": "một sợi",
-    "viDef": "một đoạn đơn của thứ gì"
+    "viDef": "một đoạn đơn của thứ gì",
+    "ex": "A strand of golden hair…… this is a very important piece of trace evidence McGraw.",
+    "exHit": "strand",
+    "exVi": "Một sợi tóc vàng... đây là bằng chứng dấu vết rất quan trọng đấy McGraw."
   },
   {
     "word": "accomplice",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a person who helps another in committing a crime",
     "vi": "đồng phạm",
-    "viDef": "người giúp kẻ khác gây án"
+    "viDef": "người giúp kẻ khác gây án",
+    "ex": "Did she have an accomplice?",
+    "exHit": "accomplice",
+    "exVi": "Cô ấy có đồng phạm không?"
   },
   {
     "word": "reconstruct",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "form a picture of a crime by piecing together evidence",
     "vi": "dựng lại hiện trường",
-    "viDef": "ghép các chứng cứ để hình dung lại vụ án"
+    "viDef": "ghép các chứng cứ để hình dung lại vụ án",
+    "ex": "Now, let's reconstruct the crime…… the suspect came in, sat in each chair breaking the smallest one into little pieces.",
+    "exHit": "reconstruct",
+    "exVi": "Giờ hãy dựng lại hiện trường vụ án... nghi phạm vào, ngồi lên từng chiếc ghế và làm chiếc nhỏ nhất vỡ thành từng mảnh."
   },
   {
     "word": "Give it to me straight",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "tell me something directly and honestly",
     "vi": "nói thẳng cho tôi biết",
-    "viDef": "kể cho tôi trực tiếp và thật lòng"
+    "viDef": "kể cho tôi trực tiếp và thật lòng",
+    "ex": "Alright, Officer McGraw, Give it to me straight, what are we looking at here?",
+    "exHit": "Give it to me straight",
+    "exVi": "Được rồi, Cảnh sát McGraw, cứ nói thẳng với tôi đi, chúng ta đang đối mặt với chuyện gì đây?"
   },
   {
     "word": "suspect",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "think something is false",
     "vi": "nghi ngờ",
-    "viDef": "cho rằng điều gì không đúng"
+    "viDef": "cho rằng điều gì không đúng",
+    "ex": "I suspect that he is lying about where he was last night.",
+    "exHit": "suspect",
+    "exVi": "Tôi nghi ngờ anh ta đang nói dối về nơi anh ta ở tối qua."
   },
   {
     "word": "yellow tape",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A tape used by police to block off a crime scene",
     "vi": "dây vàng phong tỏa",
-    "viDef": "dây cảnh sát dùng để chặn hiện trường"
+    "viDef": "dây cảnh sát dùng để chặn hiện trường",
+    "ex": "Police put yellow tape around the house so nobody could go inside.",
+    "exHit": "yellow tape",
+    "exVi": "Cảnh sát giăng băng vàng quanh ngôi nhà để không ai vào được."
   },
   {
     "word": "Crime Scene Investigator",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "The person in charge of collecting evidence",
     "vi": "điều tra viên hiện trường",
-    "viDef": "người phụ trách thu thập chứng cứ"
+    "viDef": "người phụ trách thu thập chứng cứ",
+    "ex": "The crime scene investigator found a small fingerprint on the window.",
+    "exHit": "crime scene investigator",
+    "exVi": "Điều tra viên hiện trường tìm thấy một dấu vân tay nhỏ trên cửa sổ."
   },
   {
     "word": "Trespasser",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A person who illegally enters private property",
     "vi": "kẻ xâm nhập",
-    "viDef": "người vào đất riêng của người khác trái phép"
+    "viDef": "người vào đất riêng của người khác trái phép",
+    "ex": "The trespasser climbed over the fence and walked into the garden.",
+    "exHit": "trespasser",
+    "exVi": "Kẻ xâm phạm trèo qua hàng rào và đi vào vườn."
   },
   {
     "word": "Destruction of property",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "The physical damage of private property",
     "vi": "phá hoại tài sản",
-    "viDef": "việc làm hư hại tài sản riêng của người khác"
+    "viDef": "việc làm hư hại tài sản riêng của người khác",
+    "ex": "He was arrested for destruction of property after breaking the neighbor's window.",
+    "exHit": "destruction of property",
+    "exVi": "Anh ta bị bắt vì phá hoại tài sản sau khi làm vỡ cửa sổ nhà hàng xóm."
   }
 ]

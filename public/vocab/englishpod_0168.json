@@ -5,7 +5,10 @@
     "type": "",
     "def": "potatoes that are boiled and mashed, often with milk and butter",
     "vi": "khoai tây nghiền",
-    "viDef": "khoai luộc rồi tán nhuyễn, thường trộn sữa và bơ"
+    "viDef": "khoai luộc rồi tán nhuyễn, thường trộn sữa và bơ",
+    "ex": "My mom makes the best mashed potatoes with lots of butter.",
+    "exHit": "mashed potatoes",
+    "exVi": "Mẹ tôi làm món khoai tây nghiền ngon nhất với thật nhiều bơ."
   },
   {
     "word": "gravy",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "brown sauce made from the fat and juices of cooking meat",
     "vi": "nước sốt thịt",
-    "viDef": "sốt màu nâu làm từ mỡ và nước thịt khi nấu"
+    "viDef": "sốt màu nâu làm từ mỡ và nước thịt khi nấu",
+    "ex": "Could you pass me the gravy for the turkey, please?",
+    "exHit": "gravy",
+    "exVi": "Bạn đưa giúp tôi nước sốt thịt cho món gà tây được không?"
   },
   {
     "word": "stuffing",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a mixture made of bread, herbs, etc. that has been stuffed inside a turkey and cooked with the turkey",
     "vi": "nhân nhồi",
-    "viDef": "hỗn hợp bánh mì, thảo mộc... nhồi trong con gà tây và nướng cùng"
+    "viDef": "hỗn hợp bánh mì, thảo mộc... nhồi trong con gà tây và nướng cùng",
+    "ex": "The stuffing inside the turkey smells wonderful.",
+    "exHit": "stuffing",
+    "exVi": "Phần nhân nhồi bên trong con gà tây thơm tuyệt."
   },
   {
     "word": "apple cider",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "an unfiltered, unsweetened, and non-alcoholic drink made of apple juice, sometimes with spices such as cinnamon",
     "vi": "nước táo ép",
-    "viDef": "nước ép táo không lọc, không thêm đường, không cồn, có khi thêm quế"
+    "viDef": "nước ép táo không lọc, không thêm đường, không cồn, có khi thêm quế",
+    "ex": "We drank warm apple cider while the turkey was roasting.",
+    "exHit": "apple cider",
+    "exVi": "Chúng tôi uống rượu táo ấm không cồn trong lúc gà tây đang nướng."
   },
   {
     "word": "corn on the cob",
@@ -37,6 +49,9 @@
     "type": "",
     "def": "corn still on the ear that has been boiled or grilled",
     "vi": "bắp nguyên trái",
-    "viDef": "ngô còn nguyên cùi, luộc hoặc nướng"
+    "viDef": "ngô còn nguyên cùi, luộc hoặc nướng",
+    "ex": "I love eating corn on the cob with a little salt.",
+    "exHit": "corn on the cob",
+    "exVi": "Tôi thích ăn bắp nguyên bắp với một chút muối."
   }
 ]

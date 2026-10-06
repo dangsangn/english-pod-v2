@@ -5,7 +5,10 @@
     "type": "",
     "def": "a meal cooked out of doors over an open fire",
     "vi": "tiệc nướng ngoài trời",
-    "viDef": "bữa ăn nấu ngoài trời trên lửa mở"
+    "viDef": "bữa ăn nấu ngoài trời trên lửa mở",
+    "ex": "This is gonna be a great barbecue!",
+    "exHit": "barbecue",
+    "exVi": "Đây sẽ là một bữa tiệc nướng tuyệt vời!"
   },
   {
     "word": "marinate",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "be soaked in marinade",
     "vi": "ướp",
-    "viDef": "ngâm trong nước sốt gia vị"
+    "viDef": "ngâm trong nước sốt gia vị",
+    "ex": "The steaks and chicken are marinated and I also bought hamburger buns.",
+    "exHit": "marinated",
+    "exVi": "Bít tết và thịt gà đã được ướp rồi, và tôi cũng mua bánh hamburger."
   },
   {
     "word": "dozen",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a group of twelve",
     "vi": "một tá",
-    "viDef": "nhóm mười hai cái"
+    "viDef": "nhóm mười hai cái",
+    "ex": "We should also cook a couple dozen hot dogs and kebabs.",
+    "exHit": "dozen",
+    "exVi": "Chúng ta cũng nên nướng vài chục cái xúc xích và thịt xiên."
   },
   {
     "word": "kebab",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "pieces of roasted meat, fish, and vegetables on a skewer",
     "vi": "thịt xiên nướng",
-    "viDef": "các miếng thịt, cá và rau nướng trên xiên"
+    "viDef": "các miếng thịt, cá và rau nướng trên xiên",
+    "ex": "We should also cook a couple dozen hot dogs and kebabs.",
+    "exHit": "kebabs",
+    "exVi": "Chúng ta cũng nên nướng vài chục cái xúc xích và thịt xiên."
   },
   {
     "word": "grill",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "utensil with a metal grate (parallel metal bars) for cooking food over a fire",
     "vi": "vỉ nướng",
-    "viDef": "dụng cụ có vỉ kim loại để nướng đồ ăn trên lửa"
+    "viDef": "dụng cụ có vỉ kim loại để nướng đồ ăn trên lửa",
+    "ex": "We can put some lawn furniture outside next to the grill.",
+    "exHit": "grill",
+    "exVi": "Chúng ta có thể đặt ít bàn ghế sân vườn ra ngoài cạnh vỉ nướng."
   },
   {
     "word": "tent",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "portable shelter of canvas held up by poles, rope, and pegs",
     "vi": "lều",
-    "viDef": "chỗ trú di động bằng vải, dựng bằng cọc, dây và chốt"
+    "viDef": "chỗ trú di động bằng vải, dựng bằng cọc, dây và chốt",
+    "ex": "I also set up the tent outside so we can hide from the sun if it gets too hot.",
+    "exHit": "tent",
+    "exVi": "Tôi cũng dựng lều ngoài sân để chúng ta trốn nắng nếu trời quá nóng."
   },
   {
     "word": "serviette",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a small square of cloth or paper",
     "vi": "khăn giấy ăn",
-    "viDef": "miếng vải hoặc giấy vuông nhỏ"
+    "viDef": "miếng vải hoặc giấy vuông nhỏ",
+    "ex": "I asked Grace to bring cups and serviettes as she is also bringing two big coolers for the beers.",
+    "exHit": "serviettes",
+    "exVi": "Tôi nhờ Grace mang cốc và khăn giấy vì cô ấy cũng mang hai thùng giữ lạnh lớn đựng bia."
   },
   {
     "word": "cooler",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a container, vessel, or apparatus for cooling",
     "vi": "thùng giữ lạnh",
-    "viDef": "thùng hoặc thiết bị dùng để làm mát"
+    "viDef": "thùng hoặc thiết bị dùng để làm mát",
+    "ex": "I asked Grace to bring cups and serviettes as she is also bringing two big coolers for the beers.",
+    "exHit": "coolers",
+    "exVi": "Tôi nhờ Grace mang cốc và khăn giấy vì cô ấy cũng mang hai thùng giữ lạnh lớn đựng bia."
   },
   {
     "word": "lawn furniture",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "furniture intended for use outside in the yard",
     "vi": "bàn ghế ngoài sân",
-    "viDef": "đồ nội thất dành dùng ngoài trời trong sân"
+    "viDef": "đồ nội thất dành dùng ngoài trời trong sân",
+    "ex": "We can put some lawn furniture outside next to the grill.",
+    "exHit": "lawn furniture",
+    "exVi": "Chúng ta có thể đặt ít bàn ghế sân vườn ra ngoài cạnh vỉ nướng."
   },
   {
     "word": "hamburger bun",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a round bun shaped to hold a hamburger patty",
     "vi": "bánh mì kẹp tròn",
-    "viDef": "ổ bánh tròn để kẹp miếng thịt hamburger"
+    "viDef": "ổ bánh tròn để kẹp miếng thịt hamburger",
+    "ex": "The steaks and chicken are marinated and I also bought hamburger buns.",
+    "exHit": "hamburger buns",
+    "exVi": "Bít tết và thịt gà đã được ướp rồi, và tôi cũng mua bánh hamburger."
   },
   {
     "word": "tongs",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "device with two arms that are joined as a hinge at one end, used for grasping, holding, or lifting something",
     "vi": "cái kẹp gắp",
-    "viDef": "dụng cụ hai càng nối bản lề một đầu, dùng gắp, giữ hoặc nhấc đồ"
+    "viDef": "dụng cụ hai càng nối bản lề một đầu, dùng gắp, giữ hoặc nhấc đồ",
+    "ex": "Use the tongs to turn the steaks over.",
+    "exHit": "tongs",
+    "exVi": "Dùng kẹp để lật miếng bít tết."
   },
   {
     "word": "charcoal grill",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "grill used for barbecuing using charcoal as a fuel, which gives the food a smokey taste",
     "vi": "lò nướng than",
-    "viDef": "lò nướng dùng than làm nhiên liệu, cho món ăn vị khói"
+    "viDef": "lò nướng dùng than làm nhiên liệu, cho món ăn vị khói",
+    "ex": "Dad lit the charcoal grill an hour before the party.",
+    "exHit": "charcoal grill",
+    "exVi": "Bố nhóm lò nướng than một tiếng trước bữa tiệc."
   },
   {
     "word": "gas grill",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "grill used for barbecuing using gas as a fuel, as from a propane tank or from a natural gas pipeline",
     "vi": "lò nướng gas",
-    "viDef": "lò nướng dùng gas, lấy từ bình propane hoặc đường ống khí"
+    "viDef": "lò nướng dùng gas, lấy từ bình propane hoặc đường ống khí",
+    "ex": "A gas grill heats up much faster than charcoal.",
+    "exHit": "gas grill",
+    "exVi": "Lò nướng gas nóng lên nhanh hơn than nhiều."
   },
   {
     "word": "skewer",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "long pin of wood or metal for inserting through meat or other food to hold or bind it while cooking",
     "vi": "xiên nướng",
-    "viDef": "que gỗ hoặc kim loại dài xâu qua thịt và đồ ăn để giữ khi nướng"
+    "viDef": "que gỗ hoặc kim loại dài xâu qua thịt và đồ ăn để giữ khi nướng",
+    "ex": "Thread the chicken and peppers onto a skewer.",
+    "exHit": "skewer",
+    "exVi": "Xiên thịt gà và ớt chuông vào một cây xiên."
   },
   {
     "word": "basting brush",
@@ -117,6 +159,9 @@
     "type": "",
     "def": "brush used to moisten food periodically with a liquid or sauce, especially while cooking",
     "vi": "cọ phết sốt",
-    "viDef": "cọ dùng phết nước sốt lên đồ ăn cho ẩm, nhất là trong lúc nướng"
+    "viDef": "cọ dùng phết nước sốt lên đồ ăn cho ẩm, nhất là trong lúc nướng",
+    "ex": "Use a basting brush to spread sauce on the ribs.",
+    "exHit": "basting brush",
+    "exVi": "Dùng cọ quét để phết nước sốt lên sườn."
   }
 ]

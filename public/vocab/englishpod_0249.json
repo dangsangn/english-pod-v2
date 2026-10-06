@@ -5,7 +5,10 @@
     "type": "",
     "def": "to put too low a value on",
     "vi": "đánh giá thấp",
-    "viDef": "định giá thứ gì thấp quá"
+    "viDef": "định giá thứ gì thấp quá",
+    "ex": "Don't undervalue the bread, because it matters a lot.",
+    "exHit": "undervalue",
+    "exVi": "Đừng đánh giá thấp chiếc bánh mì, vì nó quan trọng lắm."
   },
   {
     "word": "refreshing",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to provide new vigor and energy by rest, food, etc.",
     "vi": "tươi mát lại người",
-    "viDef": "mang lại sức sống và năng lượng mới nhờ nghỉ ngơi, ăn uống..."
+    "viDef": "mang lại sức sống và năng lượng mới nhờ nghỉ ngơi, ăn uống...",
+    "ex": "Do not undervalue them as they play a big role in forming the taste and will make the sandwich more refreshing and light.",
+    "exHit": "refreshing",
+    "exVi": "Đừng đánh giá thấp chúng, vì chúng đóng vai trò lớn trong việc tạo hương vị và làm chiếc bánh sandwich thanh mát và nhẹ hơn."
   },
   {
     "word": "a touch",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a slight quantity or degree",
     "vi": "một chút",
-    "viDef": "lượng hoặc mức độ nhỏ"
+    "viDef": "lượng hoặc mức độ nhỏ",
+    "ex": "We can be subtle and just add a touch of salt and pepper, or we can combine mustard sauce, mayonnaise, ketchup or even caviar to achieve a stronger flavor!",
+    "exHit": "a touch",
+    "exVi": "Chúng ta có thể tinh tế bằng cách chỉ thêm một chút muối tiêu, hoặc trộn sốt mù tạt, mayonnaise, tương cà hay thậm chí trứng cá muối để có hương vị đậm hơn!"
   },
   {
     "word": "subtle",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "so slight as to be difficult to detect or describe",
     "vi": "tinh tế",
-    "viDef": "nhẹ đến mức khó nhận ra hay khó tả"
+    "viDef": "nhẹ đến mức khó nhận ra hay khó tả",
+    "ex": "We can be subtle and just add a touch of salt and pepper, or we can combine mustard sauce, mayonnaise, ketchup or even caviar to achieve a stronger flavor!",
+    "exHit": "subtle",
+    "exVi": "Chúng ta có thể tinh tế bằng cách chỉ thêm một chút muối tiêu, hoặc trộn sốt mù tạt, mayonnaise, tương cà hay thậm chí trứng cá muối để có hương vị đậm hơn!"
   },
   {
     "word": "manageable",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "that can be managed or controlled",
     "vi": "xoay xở được",
-    "viDef": "có thể quản hoặc kiểm soát được"
+    "viDef": "có thể quản hoặc kiểm soát được",
+    "ex": "It's always a good idea to cut your sandwich in triangles or manageable pieces to avoid all your ingredients falling out and staining your shirt!",
+    "exHit": "manageable",
+    "exVi": "Nên cắt bánh sandwich thành hình tam giác hoặc những miếng vừa tay để nguyên liệu không rơi ra ngoài và làm bẩn áo bạn!"
   },
   {
     "word": "panini",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "originally an italian style sandwich made with a small loaf of bread",
     "vi": "bánh panini",
-    "viDef": "vốn là loại sandwich kiểu Ý làm bằng ổ bánh nhỏ"
+    "viDef": "vốn là loại sandwich kiểu Ý làm bằng ổ bánh nhỏ",
+    "ex": "I ordered a hot panini with cheese and tomato.",
+    "exHit": "panini",
+    "exVi": "Tôi gọi một chiếc panini nóng với phô mai và cà chua."
   },
   {
     "word": "deli",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a store where you can buy sandwich meats and bread",
     "vi": "tiệm đồ nguội",
-    "viDef": "cửa hàng bán thịt kẹp bánh và bánh mì"
+    "viDef": "cửa hàng bán thịt kẹp bánh và bánh mì",
+    "ex": "Let's stop by the deli and get some ham for lunch.",
+    "exHit": "deli",
+    "exVi": "Mình ghé tiệm đồ nguội mua ít giăm bông cho bữa trưa nhé."
   },
   {
     "word": "cooking show",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a show which teaches people how to cook",
     "vi": "chương trình dạy nấu ăn",
-    "viDef": "chương trình chỉ cho người ta cách nấu"
+    "viDef": "chương trình chỉ cho người ta cách nấu",
+    "ex": "I learned this recipe from a cooking show on TV.",
+    "exHit": "cooking show",
+    "exVi": "Tôi học được công thức này từ một chương trình nấu ăn trên TV."
   },
   {
     "word": "wheat bread",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a dark brown bread considered to be healthier to eat",
     "vi": "bánh mì lúa mì",
-    "viDef": "bánh mì màu nâu sậm, được coi là ăn lành hơn"
+    "viDef": "bánh mì màu nâu sậm, được coi là ăn lành hơn",
+    "ex": "I prefer wheat bread because it's healthier.",
+    "exHit": "wheat bread",
+    "exVi": "Tôi thích bánh mì lúa mì hơn vì nó tốt cho sức khỏe hơn."
   },
   {
     "word": "pickles",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a cucumber which has been fermented in a vinegar solution",
     "vi": "dưa chuột muối",
-    "viDef": "quả dưa leo lên men trong dung dịch giấm"
+    "viDef": "quả dưa leo lên men trong dung dịch giấm",
+    "ex": "Could you add some pickles to my sandwich?",
+    "exHit": "pickles",
+    "exVi": "Bạn cho thêm ít dưa chuột muối vào bánh sandwich của tôi được không?"
   }
 ]

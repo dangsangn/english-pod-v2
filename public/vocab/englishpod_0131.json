@@ -5,7 +5,10 @@
     "type": "principle verb, first conditional",
     "def": "to lose one's nerve, become suddenly anxious",
     "vi": "mất bình tĩnh",
-    "viDef": "run, bỗng lo lắng dữ dội"
+    "viDef": "run, bỗng lo lắng dữ dội",
+    "ex": "My dad will freak out if I even mention a trip like that!",
+    "exHit": "freak out",
+    "exVi": "Bố tớ sẽ hoảng loạn nếu tớ chỉ cần nhắc đến một chuyến đi như thế!"
   },
   {
     "word": "ask (someone) out",
@@ -13,7 +16,10 @@
     "type": "principle verb, past simple",
     "def": "to request a date",
     "vi": "mời ai đi hẹn hò",
-    "viDef": "ngỏ lời rủ đi chơi"
+    "viDef": "ngỏ lời rủ đi chơi",
+    "ex": "If Eric asked you out on a date, what would you say?",
+    "exHit": "asked you out",
+    "exVi": "Nếu Eric mời bạn đi hẹn hò, bạn sẽ nói gì?"
   },
   {
     "word": "commit",
@@ -21,7 +27,10 @@
     "type": "principle verb, second conditional",
     "def": "put in a mental hospital",
     "vi": "đưa vào viện tâm thần",
-    "viDef": "cho nhập bệnh viện tâm thần"
+    "viDef": "cho nhập bệnh viện tâm thần",
+    "ex": "If I told her that, she would faint and have me committed!",
+    "exHit": "committed",
+    "exVi": "Nếu tôi nói với cô ấy điều đó, cô ấy sẽ ngất xỉu và cho người đưa tôi vào bệnh viện tâm thần!"
   },
   {
     "word": "get married",
@@ -29,7 +38,10 @@
     "type": "principle verb, Going to Future",
     "def": "to join in marriage",
     "vi": "kết hôn",
-    "viDef": "lấy nhau, thành vợ chồng"
+    "viDef": "lấy nhau, thành vợ chồng",
+    "ex": "What would your mom say if you told her you are going to get married?",
+    "exHit": "get married",
+    "exVi": "Mẹ bạn sẽ nói gì nếu bạn bảo là bạn sắp kết hôn?"
   },
   {
     "word": "date",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "a romantic meeting",
     "vi": "buổi hẹn hò",
-    "viDef": "cuộc gặp mang tính tình cảm"
+    "viDef": "cuộc gặp mang tính tình cảm",
+    "ex": "If Eric asked you out on a date, what would you say?",
+    "exHit": "date",
+    "exVi": "Nếu Eric mời bạn đi hẹn hò, bạn sẽ nói gì?"
   },
   {
     "word": "be in your shoes",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "to be in the place of someone",
     "vi": "ở vào vị trí của bạn",
-    "viDef": "đặt mình vào chỗ của người khác"
+    "viDef": "đặt mình vào chỗ của người khác",
+    "ex": "What would you do if I were in your shoes?",
+    "exHit": "in your shoes",
+    "exVi": "Nếu tôi ở vào hoàn cảnh của bạn thì bạn nghĩ tôi sẽ làm gì?"
   },
   {
     "word": "sleepover",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "An instance of spending the night as a guest at another's home.",
     "vi": "ngủ lại nhà bạn",
-    "viDef": "việc qua đêm ở nhà người khác"
+    "viDef": "việc qua đêm ở nhà người khác",
+    "ex": "My daughter invited five friends to a sleepover on Saturday.",
+    "exHit": "sleepover",
+    "exVi": "Con gái tôi mời năm người bạn đến ngủ lại nhà vào thứ Bảy."
   },
   {
     "word": "hypothetical",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "Suppositional; uncertain",
     "vi": "giả định",
-    "viDef": "chỉ là phỏng đoán, chưa chắc"
+    "viDef": "chỉ là phỏng đoán, chưa chắc",
+    "ex": "That's just a hypothetical question, so don't worry about it.",
+    "exHit": "hypothetical",
+    "exVi": "Đó chỉ là một câu hỏi giả định thôi, nên đừng lo."
   },
   {
     "word": "gossip",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "Rumor or talk of a personal, sensational, or intimate nature.",
     "vi": "chuyện bàn tán",
-    "viDef": "tin đồn hoặc lời bàn về đời tư ai đó"
+    "viDef": "tin đồn hoặc lời bàn về đời tư ai đó",
+    "ex": "Did you hear the latest gossip about our new neighbor?",
+    "exHit": "gossip",
+    "exVi": "Bạn có nghe tin đồn mới nhất về người hàng xóm mới của chúng ta chưa?"
   },
   {
     "word": "daydream",
@@ -77,6 +104,9 @@
     "type": "principle verb, present simple",
     "def": "To have dreamlike musings or fantasies while awake.",
     "vi": "mơ mộng giữa ban ngày",
-    "viDef": "thả trí tưởng tượng khi vẫn đang thức"
+    "viDef": "thả trí tưởng tượng khi vẫn đang thức",
+    "ex": "I like to daydream about traveling the world during class.",
+    "exHit": "daydream",
+    "exVi": "Tôi thích mơ mộng về việc đi du lịch vòng quanh thế giới trong giờ học."
   }
 ]

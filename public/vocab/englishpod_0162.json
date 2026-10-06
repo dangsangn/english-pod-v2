@@ -5,7 +5,10 @@
     "type": "",
     "def": "an agreement to stop a war",
     "vi": "hiệp định đình chiến",
-    "viDef": "thỏa thuận ngừng chiến tranh"
+    "viDef": "thỏa thuận ngừng chiến tranh",
+    "ex": "You mean Armistice Day",
+    "exHit": "Armistice",
+    "exVi": "Ý bạn là Ngày Đình chiến à?"
   },
   {
     "word": "treaty",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "agreement",
     "vi": "hiệp ước",
-    "viDef": "thỏa thuận"
+    "viDef": "thỏa thuận",
+    "ex": "The two countries signed a peace treaty after years of fighting.",
+    "exHit": "treaty",
+    "exVi": "Hai nước đã ký hiệp ước hòa bình sau nhiều năm giao tranh."
   },
   {
     "word": "commemorate",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "memorize",
     "vi": "tưởng niệm",
-    "viDef": "ghi nhớ, kỷ niệm"
+    "viDef": "ghi nhớ, kỷ niệm",
+    "ex": "Every November, people gather to commemorate the soldiers who died in the war.",
+    "exHit": "commemorate",
+    "exVi": "Mỗi tháng Mười Một, mọi người tụ họp để tưởng niệm những người lính đã hy sinh trong chiến tranh."
   },
   {
     "word": "flunk",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "fail in exams",
     "vi": "thi trượt",
-    "viDef": "không đạt trong kỳ thi"
+    "viDef": "không đạt trong kỳ thi",
+    "ex": "Probably because I flunked history in school.",
+    "exHit": "flunked",
+    "exVi": "Chắc là vì hồi đi học tôi trượt môn Lịch sử."
   },
   {
     "word": "poppy",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a red flower with a black center that grew on the graves of soldiers who died in WWI, worn to commemorate the dead in Commonwealth countries",
     "vi": "hoa anh túc đỏ",
-    "viDef": "loài hoa đỏ tâm đen mọc trên mộ lính tử trận Thế chiến I, được cài để tưởng niệm ở các nước Khối Thịnh vượng chung"
+    "viDef": "loài hoa đỏ tâm đen mọc trên mộ lính tử trận Thế chiến I, được cài để tưởng niệm ở các nước Khối Thịnh vượng chung",
+    "ex": "She pinned a red poppy to her coat before the ceremony.",
+    "exHit": "poppy",
+    "exVi": "Cô ấy cài một bông hoa anh túc đỏ lên áo khoác trước buổi lễ."
   },
   {
     "word": "to pay your respects",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to show respect to someone you are grateful to",
     "vi": "bày tỏ lòng thành kính",
-    "viDef": "tỏ sự kính trọng với người mình mang ơn"
+    "viDef": "tỏ sự kính trọng với người mình mang ơn",
+    "ex": "We went to the cemetery to pay our respects to the veterans.",
+    "exHit": "pay our respects",
+    "exVi": "Chúng tôi đến nghĩa trang để bày tỏ lòng kính trọng với các cựu chiến binh."
   },
   {
     "word": "a moment of silence",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the time in a Veteran's Day ceremony when everyone is quiet for one minute as they pay their respects",
     "vi": "một phút mặc niệm",
-    "viDef": "khoảnh khắc trong lễ Cựu chiến binh khi mọi người im lặng một phút để tỏ lòng kính"
+    "viDef": "khoảnh khắc trong lễ Cựu chiến binh khi mọi người im lặng một phút để tỏ lòng kính",
+    "ex": "Everyone stood up for a moment of silence at eleven o'clock.",
+    "exHit": "a moment of silence",
+    "exVi": "Mọi người đứng lên mặc niệm một phút vào lúc mười một giờ."
   },
   {
     "word": "salute",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to pay respect to or to honor by an outward act",
     "vi": "nghi thức chào kính",
-    "viDef": "tỏ lòng kính trọng bằng một hành động bên ngoài"
+    "viDef": "tỏ lòng kính trọng bằng một hành động bên ngoài",
+    "ex": "The soldiers stood tall and saluted the flag.",
+    "exHit": "saluted",
+    "exVi": "Những người lính đứng nghiêm và chào lá cờ."
   },
   {
     "word": "The Last Post",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "the name of a famous salute, a trumpet solo played at most Remembrance Day ceremonies in Commonwealth countries",
     "vi": "khúc \"The Last Post\"",
-    "viDef": "bản kèn độc tấu nổi tiếng, thổi trong hầu hết các lễ Tưởng niệm ở các nước Khối Thịnh vượng chung"
+    "viDef": "bản kèn độc tấu nổi tiếng, thổi trong hầu hết các lễ Tưởng niệm ở các nước Khối Thịnh vượng chung",
+    "ex": "A young man played The Last Post on his trumpet at the ceremony.",
+    "exHit": "The Last Post",
+    "exVi": "Một chàng trai trẻ đã thổi bản The Last Post bằng kèn trumpet tại buổi lễ."
   }
 ]

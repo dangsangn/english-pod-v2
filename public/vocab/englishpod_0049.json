@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "used to change the topic of a conversation",
     "vi": "nhân đây thì",
-    "viDef": "câu dùng để chuyển sang chuyện khác"
+    "viDef": "câu dùng để chuyển sang chuyện khác",
+    "ex": "By the way, I was wondering can I…",
+    "exHit": "By the way",
+    "exVi": "Nhân tiện, con đang tự hỏi liệu con có thể..."
   },
   {
     "word": "wonder",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "think about if something is possible",
     "vi": "không biết là...",
-    "viDef": "tự hỏi liệu điều gì có được không"
+    "viDef": "tự hỏi liệu điều gì có được không",
+    "ex": "By the way, I was wondering can I…",
+    "exHit": "wondering",
+    "exVi": "Nhân tiện, con đang tự hỏi liệu con có thể..."
   },
   {
     "word": "concert",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "a public performance of music",
     "vi": "buổi hòa nhạc",
-    "viDef": "buổi diễn nhạc trước công chúng"
+    "viDef": "buổi diễn nhạc trước công chúng",
+    "ex": "I'm going to a concert tonight.",
+    "exHit": "concert",
+    "exVi": "Tối nay con sẽ đi xem một buổi hòa nhạc."
   },
   {
     "word": "pick up",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "go and get",
     "vi": "đi lấy, đi mua",
-    "viDef": "đến lấy về"
+    "viDef": "đến lấy về",
+    "ex": "I need the car tonight to pick up your mother.",
+    "exHit": "pick up",
+    "exVi": "Tối nay con cần xe để đón mẹ của bố."
   },
   {
     "word": "popular",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "very well known and well liked",
     "vi": "được yêu thích",
-    "viDef": "nổi tiếng và được nhiều người thích"
+    "viDef": "nổi tiếng và được nhiều người thích",
+    "ex": "He's like the hottest and most popular guy at school!",
+    "exHit": "popular",
+    "exVi": "Cậu ấy kiểu như là chàng trai nổi bật và được yêu thích nhất trường!"
   },
   {
     "word": "bucks",
@@ -45,7 +60,10 @@
     "type": "common noun, plural",
     "def": "informal word for dollars",
     "vi": "đô",
-    "viDef": "cách gọi thân mật của đồng đô-la"
+    "viDef": "cách gọi thân mật của đồng đô-la",
+    "ex": "Would you mind giving me 100 bucks?",
+    "exHit": "bucks",
+    "exVi": "Bố có thể cho con 100 đô được không?"
   },
   {
     "word": "unfair",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "not fair, not just",
     "vi": "không công bằng",
-    "viDef": "bất công"
+    "viDef": "bất công",
+    "ex": "That's so unfair!",
+    "exHit": "unfair",
+    "exVi": "Thật không công bằng!"
   },
   {
     "word": "suit",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a set of clothes that usually consists of a jacket and a skirt or pair of pants that are made out of the same material",
     "vi": "bộ đồ vest",
-    "viDef": "bộ áo gồm áo khoác với váy hoặc quần cùng chất liệu"
+    "viDef": "bộ áo gồm áo khoác với váy hoặc quần cùng chất liệu",
+    "ex": "My dad wears a suit and tie to work every day.",
+    "exHit": "suit",
+    "exVi": "Bố tôi mặc com-lê và đeo cà vạt đi làm mỗi ngày."
   },
   {
     "word": "play",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a piece of writing that tells a story through the actions and words of characters and that is performed on a stage",
     "vi": "kịch",
-    "viDef": "tác phẩm kể chuyện qua lời và hành động của nhân vật, diễn trên sân khấu"
+    "viDef": "tác phẩm kể chuyện qua lời và hành động của nhân vật, diễn trên sân khấu",
+    "ex": "We watched a play at the theater last night.",
+    "exHit": "play",
+    "exVi": "Tối qua chúng tôi xem một vở kịch ở nhà hát."
   },
   {
     "word": "drop off",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "to go and leave someone at a certain place",
     "vi": "chở đến rồi để lại",
-    "viDef": "đưa ai tới một chỗ rồi đi"
+    "viDef": "đưa ai tới một chỗ rồi đi",
+    "ex": "Dad, can you drop off Sarah at the mall?",
+    "exHit": "drop off",
+    "exVi": "Bố ơi, bố có thể đưa Sarah đến trung tâm mua sắm được không?"
   },
   {
     "word": "no way",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "I cannot do it, it is not possible",
     "vi": "không được đâu",
-    "viDef": "tôi không làm được, chuyện đó không thể"
+    "viDef": "tôi không làm được, chuyện đó không thể",
+    "ex": "No way!",
+    "exHit": "No way",
+    "exVi": "Không đời nào!"
   },
   {
     "word": "lend",
@@ -93,6 +126,9 @@
     "type": "principle verb, present simple",
     "def": "to give (something) to (someone) to be used for a period of time and then returned",
     "vi": "cho mượn",
-    "viDef": "đưa cho ai dùng một thời gian rồi trả lại"
+    "viDef": "đưa cho ai dùng một thời gian rồi trả lại",
+    "ex": "Dad, can you lend me the car tonight?",
+    "exHit": "lend",
+    "exVi": "Bố ơi, tối nay bố cho con mượn xe được không?"
   }
 ]

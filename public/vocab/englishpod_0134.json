@@ -5,7 +5,10 @@
     "type": "principle verb, present simple",
     "def": "to be grateful for (something)",
     "vi": "biết ơn",
-    "viDef": "cảm kích về điều gì"
+    "viDef": "cảm kích về điều gì",
+    "ex": "I can't appreciate the graphics level and detail of the games on my Playstation 3 on our old TV.",
+    "exHit": "appreciate",
+    "exVi": "Tôi không thể thưởng thức được độ họa và chi tiết của các game trên Playstation 3 với cái TV cũ của chúng ta."
   },
   {
     "word": "upgrade",
@@ -13,7 +16,10 @@
     "type": "principle verb, infinitive",
     "def": "get something better, more modern, more useful",
     "vi": "nâng cấp",
-    "viDef": "đổi lên thứ tốt hơn, mới hơn"
+    "viDef": "đổi lên thứ tốt hơn, mới hơn",
+    "ex": "I'm looking to upgrade to a newer, bigger television set.",
+    "exHit": "upgrade",
+    "exVi": "Tôi đang muốn nâng cấp lên một chiếc tivi mới, lớn hơn."
   },
   {
     "word": "hook up",
@@ -21,7 +27,10 @@
     "type": "principle verb, present simple",
     "def": "connect",
     "vi": "gắn nối",
-    "viDef": "kết nối vào"
+    "viDef": "kết nối vào",
+    "ex": "It even has a DVI port so you can hook up your PC or laptop!",
+    "exHit": "hook up",
+    "exVi": "Nó còn có cổng DVI nên bạn có thể kết nối với máy tính để bàn hoặc laptop!"
   },
   {
     "word": "set me back",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "cost",
     "vi": "tốn của tôi",
-    "viDef": "khiến mình mất bao nhiêu tiền"
+    "viDef": "khiến mình mất bao nhiêu tiền",
+    "ex": "How much will this set me back?",
+    "exHit": "set me back",
+    "exVi": "Cái này sẽ tốn của tôi bao nhiêu?"
   },
   {
     "word": "the works",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "the best things offered",
     "vi": "đủ bộ xịn nhất",
-    "viDef": "tất cả những thứ tốt nhất có"
+    "viDef": "tất cả những thứ tốt nhất có",
+    "ex": "It's a forty six inch HDTV screen and has all the works.",
+    "exHit": "the works",
+    "exVi": "Đây là màn hình HDTV bốn mươi sáu inch và có đủ mọi tính năng."
   },
   {
     "word": "projector",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "A machine for projecting an image onto a screen or other surface.",
     "vi": "máy chiếu",
-    "viDef": "máy phóng hình lên màn hoặc mặt phẳng"
+    "viDef": "máy phóng hình lên màn hoặc mặt phẳng",
+    "ex": "We watched the movie on a projector in the backyard.",
+    "exHit": "projector",
+    "exVi": "Chúng tôi xem phim bằng máy chiếu ở sân sau."
   },
   {
     "word": "plug in",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "To connect (an appliance) to an electrical outlet.",
     "vi": "cắm điện",
-    "viDef": "nối thiết bị vào ổ điện"
+    "viDef": "nối thiết bị vào ổ điện",
+    "ex": "Please plug in the TV before you turn it on.",
+    "exHit": "plug in",
+    "exVi": "Làm ơn cắm tivi vào điện trước khi bật."
   },
   {
     "word": "speaker",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a device that converts electrical signals into sounds loud enough to be heard at a distance",
     "vi": "loa",
-    "viDef": "thiết bị biến tín hiệu điện thành âm thanh nghe được từ xa"
+    "viDef": "thiết bị biến tín hiệu điện thành âm thanh nghe được từ xa",
+    "ex": "The speaker on this TV is too quiet for me.",
+    "exHit": "speaker",
+    "exVi": "Loa của chiếc tivi này nhỏ quá đối với tôi."
   },
   {
     "word": "remote control",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "A device used to control an apparatus or machine from a distance.",
     "vi": "điều khiển từ xa",
-    "viDef": "thiết bị dùng để điều khiển máy từ xa"
+    "viDef": "thiết bị dùng để điều khiển máy từ xa",
+    "ex": "I can't find the remote control, so I can't change the channel.",
+    "exHit": "remote control",
+    "exVi": "Tôi không tìm thấy điều khiển từ xa nên không đổi kênh được."
   },
   {
     "word": "cable television",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "a television service in which the subscriber's television is connected to a central receiver by cable",
     "vi": "truyền hình cáp",
-    "viDef": "dịch vụ tivi nối vào đầu thu trung tâm bằng dây cáp"
+    "viDef": "dịch vụ tivi nối vào đầu thu trung tâm bằng dây cáp",
+    "ex": "We pay thirty dollars a month for cable television.",
+    "exHit": "cable television",
+    "exVi": "Chúng tôi trả ba mươi đô la mỗi tháng cho truyền hình cáp."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "when a club or restaurant allows for anyone to sign or perform",
     "vi": "đêm diễn tự do",
-    "viDef": "buổi mà quán cho bất cứ ai lên hát hoặc diễn"
+    "viDef": "buổi mà quán cho bất cứ ai lên hát hoặc diễn",
+    "ex": "Hello everyone, and welcome to open mic night!",
+    "exHit": "open mic night",
+    "exVi": "Xin chào mọi người, và chào mừng đến với đêm sân khấu mở!"
   },
   {
     "word": "stand-up comedy",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "when someone performs comedy while standing on a stage",
     "vi": "tấu hài độc thoại",
-    "viDef": "diễn hài một mình trên sân khấu"
+    "viDef": "diễn hài một mình trên sân khấu",
+    "ex": "I want to try stand-up comedy, but I get so nervous.",
+    "exHit": "stand-up comedy",
+    "exVi": "Tôi muốn thử diễn hài độc thoại nhưng tôi lo lắm."
   },
   {
     "word": "routine",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "a series of things (such as movements or jokes)",
     "vi": "bài diễn",
-    "viDef": "chuỗi động tác hoặc câu chuyện cười đã tập"
+    "viDef": "chuỗi động tác hoặc câu chuyện cười đã tập",
+    "ex": "You know, I've been working on my routine for months now, and I've got some real zingers for you tonight.",
+    "exHit": "routine",
+    "exVi": "Bạn biết đấy, tôi đã chuẩn bị tiết mục của mình suốt nhiều tháng, và tối nay tôi có vài câu châm biếm cực hay dành cho các bạn."
   },
   {
     "word": "zinger",
@@ -29,7 +38,10 @@
     "type": "common noun, plural",
     "def": "a quick and clever comment that criticizes",
     "vi": "câu chọc sắc",
-    "viDef": "lời nhận xét nhanh, khôn mà đá vào ai"
+    "viDef": "lời nhận xét nhanh, khôn mà đá vào ai",
+    "ex": "You know, I've been working on my routine for months now, and I've got some real zingers for you tonight.",
+    "exHit": "zingers",
+    "exVi": "Bạn biết đấy, tôi đã chuẩn bị tiết mục của mình suốt nhiều tháng, và tối nay tôi có vài câu châm biếm cực hay dành cho các bạn."
   },
   {
     "word": "heckler",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "someone who interrupts (someone, such as a speaker)",
     "vi": "kẻ chọc ngang",
-    "viDef": "người xen vào cắt lời diễn giả"
+    "viDef": "người xen vào cắt lời diễn giả",
+    "ex": "Okay, Okay, we've got a few hecklers in the audience, but this one is good!",
+    "exHit": "hecklers",
+    "exVi": "Được rồi, khán giả có vài người hay chọc ngoáy, nhưng người này thì hay đấy!"
   },
   {
     "word": "comeback",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "A reply to an insult; a witty retort.",
     "vi": "câu đáp trả",
-    "viDef": "lời phản pháo lại một câu chọc, đáp lại thông minh"
+    "viDef": "lời phản pháo lại một câu chọc, đáp lại thông minh",
+    "ex": "She had a great comeback ready when he made fun of her.",
+    "exHit": "comeback",
+    "exVi": "Cô ấy có sẵn một câu đáp trả hay khi anh ta chế giễu cô."
   },
   {
     "word": "dis",
@@ -53,7 +71,10 @@
     "type": "principle verb, present simple",
     "def": "insulting or in some other way defaming someone or something.",
     "vi": "nói hạ",
-    "viDef": "lăng mạ hoặc dè bỉu ai"
+    "viDef": "lăng mạ hoặc dè bỉu ai",
+    "ex": "Don't dis my friend like that, he's really nice.",
+    "exHit": "dis",
+    "exVi": "Đừng xúc phạm bạn tôi như vậy, cậu ấy rất tốt."
   },
   {
     "word": "punk",
@@ -61,7 +82,10 @@
     "type": "principle verb, present simple",
     "def": "to play a joke or prank someone",
     "vi": "chơi lỡm",
-    "viDef": "trêu, gạt ai cho vui"
+    "viDef": "trêu, gạt ai cho vui",
+    "ex": "They tried to punk me by hiding my keys, but I knew.",
+    "exHit": "punk",
+    "exVi": "Họ định chơi khăm tôi bằng cách giấu chìa khóa, nhưng tôi biết rồi."
   },
   {
     "word": "mock",
@@ -69,7 +93,10 @@
     "type": "principle verb, present simple",
     "def": "make fun of or laugh at someone",
     "vi": "nhại, chê cười",
-    "viDef": "lấy ai ra làm trò cười"
+    "viDef": "lấy ai ra làm trò cười",
+    "ex": "It is mean to mock someone just because they are nervous.",
+    "exHit": "mock",
+    "exVi": "Chế nhạo ai đó chỉ vì họ lo lắng là ác ý."
   },
   {
     "word": "ad lib",
@@ -77,6 +104,9 @@
     "type": "General Adverb",
     "def": "In an unrestrained manner; spontaneously.",
     "vi": "diễn tùy hứng",
-    "viDef": "không theo bài, ứng khẩu"
+    "viDef": "không theo bài, ứng khẩu",
+    "ex": "I forgot my jokes, so I had to ad lib the whole show.",
+    "exHit": "ad lib",
+    "exVi": "Tôi quên mất các câu đùa nên phải ứng khẩu cả buổi diễn."
   }
 ]

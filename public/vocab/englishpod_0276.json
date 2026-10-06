@@ -5,7 +5,10 @@
     "type": "",
     "def": "to cause a device to start working",
     "vi": "kích hoạt",
-    "viDef": "làm cho thiết bị bắt đầu chạy"
+    "viDef": "làm cho thiết bị bắt đầu chạy",
+    "ex": "Yes, I'd like to activate my voice mail service please.",
+    "exHit": "to activate",
+    "exVi": "Vâng, tôi muốn kích hoạt dịch vụ hộp thư thoại của mình."
   },
   {
     "word": "promotion",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "something done to make people aware of a product",
     "vi": "hoạt động quảng bá",
-    "viDef": "việc làm nhằm giúp mọi người biết đến sản phẩm"
+    "viDef": "việc làm nhằm giúp mọi người biết đến sản phẩm",
+    "ex": "Um, perhaps, um, a sales promotion.",
+    "exHit": "promotion",
+    "exVi": "Ừm, có lẽ là một chương trình khuyến mãi."
   },
   {
     "word": "surcharge",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "money that be paid in addition to the regular",
     "vi": "phụ phí",
-    "viDef": "tiền phải trả thêm ngoài khoản thường lệ"
+    "viDef": "tiền phải trả thêm ngoài khoản thường lệ",
+    "ex": "No hidden fees or surcharges, it is a flat monthly rate.",
+    "exHit": "surcharges",
+    "exVi": "Không có phí ẩn hay phụ phí gì cả, đây là mức giá cố định hằng tháng."
   },
   {
     "word": "surcharge",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "money that be paid in addition to the regular",
     "vi": "phụ phí",
-    "viDef": "tiền phải trả thêm ngoài khoản thường lệ"
+    "viDef": "tiền phải trả thêm ngoài khoản thường lệ",
+    "ex": "No hidden fees or surcharges, it is a flat monthly rate.",
+    "exHit": "surcharges",
+    "exVi": "Không có phí ẩn hay phụ phí gì cả, đây là mức giá cố định hằng tháng."
   },
   {
     "word": "ringtone",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the sound made by a cell phone when it receives a call",
     "vi": "nhạc chuông",
-    "viDef": "âm điện thoại phát ra khi có người gọi"
+    "viDef": "âm điện thoại phát ra khi có người gọi",
+    "ex": "Her ringtone was so loud that the whole room could hear it.",
+    "exHit": "ringtone",
+    "exVi": "Nhạc chuông điện thoại của cô ấy to đến nỗi cả phòng đều nghe thấy."
   },
   {
     "word": "smartphone",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a phone that has more features than a traditional cell phone, including web browser, in-phone cameras, and different applications",
     "vi": "điện thoại thông minh",
-    "viDef": "điện thoại có nhiều tính năng hơn máy thường, gồm trình duyệt web, camera tích hợp và các ứng dụng"
+    "viDef": "điện thoại có nhiều tính năng hơn máy thường, gồm trình duyệt web, camera tích hợp và các ứng dụng",
+    "ex": "I just switched to a new smartphone so I can use more apps.",
+    "exHit": "smartphone",
+    "exVi": "Tôi vừa đổi sang điện thoại thông minh mới để dùng được nhiều ứng dụng hơn."
   },
   {
     "word": "headset",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "worn on the head to help you speak and listen while not holding your phone",
     "vi": "tai nghe có mic",
-    "viDef": "thứ đeo lên đầu giúp bạn nói và nghe mà không phải giữ điện thoại"
+    "viDef": "thứ đeo lên đầu giúp bạn nói và nghe mà không phải giữ điện thoại",
+    "ex": "I wear a headset when I drive so I can still take calls.",
+    "exHit": "headset",
+    "exVi": "Tôi đeo tai nghe có micro khi lái xe để vẫn nghe điện thoại được."
   },
   {
     "word": "rebate",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a partial refund, a discount",
     "vi": "khoản hoàn lại",
-    "viDef": "phần tiền trả lại, mức bớt giá"
+    "viDef": "phần tiền trả lại, mức bớt giá",
+    "ex": "If you buy a phone this month, you will get a rebate.",
+    "exHit": "rebate",
+    "exVi": "Nếu mua điện thoại tháng này, bạn sẽ được hoàn tiền một phần."
   },
   {
     "word": "contract",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "an agreement between two or more sides that has specific terms",
     "vi": "hợp đồng",
-    "viDef": "thỏa thuận giữa hai hay nhiều bên với các điều khoản cụ thể"
+    "viDef": "thỏa thuận giữa hai hay nhiều bên với các điều khoản cụ thể",
+    "ex": "This phone contract lasts two years, so you cannot cancel it early.",
+    "exHit": "contract",
+    "exVi": "Hợp đồng điện thoại này kéo dài hai năm, nên bạn không thể hủy sớm."
   },
   {
     "word": "hands-free",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "something that makes you able to use it without hands",
     "vi": "rảnh tay",
-    "viDef": "thứ dùng được mà không cần tay"
+    "viDef": "thứ dùng được mà không cần tay",
+    "ex": "I use the hands-free mode to take calls while I am driving.",
+    "exHit": "hands-free",
+    "exVi": "Tôi dùng chế độ rảnh tay để nghe điện thoại khi đang lái xe."
   }
 ]

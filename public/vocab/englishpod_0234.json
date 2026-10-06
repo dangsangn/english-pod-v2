@@ -5,7 +5,10 @@
     "type": "",
     "def": "some parts are bigger than others due to a certain",
     "vi": "sưng",
-    "viDef": "chỗ nào phồng to hơn bình thường do bệnh"
+    "viDef": "chỗ nào phồng to hơn bình thường do bệnh",
+    "ex": "Good, yes, your tonsils are a little swollen and red.",
+    "exHit": "swollen",
+    "exVi": "Tốt, đúng rồi, amiđan của bạn hơi sưng và đỏ."
   },
   {
     "word": "come down with",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "get sick",
     "vi": "nhiễm bệnh",
-    "viDef": "bị đổ bệnh"
+    "viDef": "bị đổ bệnh",
+    "ex": "I think I am coming down with the flu.",
+    "exHit": "coming down with",
+    "exVi": "Tôi nghĩ mình đang bị cúm."
   },
   {
     "word": "antibiotics",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "chemical substance that can kill a virus",
     "vi": "thuốc kháng sinh",
-    "viDef": "chất hóa học có thể diệt vi khuẩn"
+    "viDef": "chất hóa học có thể diệt vi khuẩn",
+    "ex": "Ok I'm going to set you up with a bunch of antibiotics.",
+    "exHit": "antibiotics",
+    "exVi": "Được rồi, tôi sẽ kê cho bạn một loạt thuốc kháng sinh."
   },
   {
     "word": "contagious",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "having a sickness that other people can catch",
     "vi": "lây",
-    "viDef": "mang bệnh người khác có thể nhiễm phải"
+    "viDef": "mang bệnh người khác có thể nhiễm phải",
+    "ex": "You are highly contagious!",
+    "exHit": "contagious",
+    "exVi": "Bạn lây rất mạnh đấy!"
   },
   {
     "word": "a doctor’s note",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "note from doctor explaining a patient's absence due to sickness",
     "vi": "giấy bác sĩ",
-    "viDef": "giấy bác sĩ ghi rõ bệnh nhân nghỉ vì bệnh"
+    "viDef": "giấy bác sĩ ghi rõ bệnh nhân nghỉ vì bệnh",
+    "ex": "Would you mind writing me a doctor's note for work, otherwise they may think I am faking it!",
+    "exHit": "a doctor's note",
+    "exVi": "Bác sĩ có thể viết cho tôi giấy xác nhận của bác sĩ để nộp cho cơ quan không, nếu không họ có thể nghĩ tôi giả bệnh!"
   },
   {
     "word": "dehydrated",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "not having enough water in the body",
     "vi": "mất nước",
-    "viDef": "trong người không đủ nước"
+    "viDef": "trong người không đủ nước",
+    "ex": "I recommend staying in bed for at least three days and drinking plenty of fluids so you don't get weak and dehydrated.",
+    "exHit": "dehydrated",
+    "exVi": "Tôi khuyên bạn nằm nghỉ ít nhất ba ngày và uống nhiều nước để không bị yếu và mất nước."
   },
   {
     "word": "breathless",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "unable to take enough air into your lungs",
     "vi": "hụt hơi",
-    "viDef": "không hít đủ khí vào phổi"
+    "viDef": "không hít đủ khí vào phổi",
+    "ex": "Finally, I am giving you an inhaler to use every time you feel breathless… just to clear up your lungs!",
+    "exHit": "breathless",
+    "exVi": "Cuối cùng, tôi sẽ đưa bạn một ống xịt hít để dùng mỗi khi bạn thấy khó thở... chỉ để thông phổi!"
   },
   {
     "word": "injection",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a liquid injected into the body for medicinal purposes by use of a needle",
     "vi": "thuốc tiêm",
-    "viDef": "dịch được đưa vào người bằng kim để trị bệnh"
+    "viDef": "dịch được đưa vào người bằng kim để trị bệnh",
+    "ex": "The nurse gave me an injection in my arm, and it hurt a little.",
+    "exHit": "injection",
+    "exVi": "Y tá tiêm cho tôi một mũi ở cánh tay và hơi đau một chút."
   },
   {
     "word": "waiting room",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a room for people to wait before going in to see the doctor",
     "vi": "phòng chờ",
-    "viDef": "phòng để người ta ngồi đợi trước khi vào gặp bác sĩ"
+    "viDef": "phòng để người ta ngồi đợi trước khi vào gặp bác sĩ",
+    "ex": "We sat in the waiting room for an hour before the doctor called us.",
+    "exHit": "waiting room",
+    "exVi": "Chúng tôi ngồi ở phòng chờ một tiếng trước khi bác sĩ gọi."
   },
   {
     "word": "stethoscope",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "instrument used for listening to sounds produced within the body, such as the heartbeat",
     "vi": "ống nghe",
-    "viDef": "dụng cụ để nghe các âm trong người, chẳng hạn nhịp tim"
+    "viDef": "dụng cụ để nghe các âm trong người, chẳng hạn nhịp tim",
+    "ex": "The doctor put her stethoscope on my chest and asked me to breathe.",
+    "exHit": "stethoscope",
+    "exVi": "Bác sĩ đặt ống nghe lên ngực tôi và bảo tôi hít thở."
   },
   {
     "word": "otoscope",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "instrument for examining the interior of the ear, especially the eardrum, consisting essentially of a magnifying lens and a light",
     "vi": "đèn soi tai",
-    "viDef": "dụng cụ soi bên trong tai, nhất là màng nhĩ, gồm kính phóng đại và đèn"
+    "viDef": "dụng cụ soi bên trong tai, nhất là màng nhĩ, gồm kính phóng đại và đèn",
+    "ex": "He used an otoscope to look inside my ear and found an infection.",
+    "exHit": "otoscope",
+    "exVi": "Ông ấy dùng đèn soi tai để nhìn vào tai tôi và phát hiện nhiễm trùng."
   },
   {
     "word": "examining (exam) room",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "a small room where a physician may examine a patient with some privacy",
     "vi": "phòng khám",
-    "viDef": "phòng nhỏ để bác sĩ khám bệnh nhân được kín đáo"
+    "viDef": "phòng nhỏ để bác sĩ khám bệnh nhân được kín đáo",
+    "ex": "The nurse took me to the examining room and asked about my symptoms.",
+    "exHit": "examining room",
+    "exVi": "Y tá đưa tôi vào phòng khám và hỏi về các triệu chứng của tôi."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "principle verb, present simple",
     "def": "get quickly",
     "vi": "chộp lấy, vơ lấy",
-    "viDef": "lấy nhanh"
+    "viDef": "lấy nhanh",
+    "ex": "I'll just go grab a burger across the street.",
+    "exHit": "grab",
+    "exVi": "Tôi sẽ ra bên kia đường mua nhanh một cái bánh mì kẹp thịt."
   },
   {
     "word": "go with",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "to choose, pick",
     "vi": "chọn",
-    "viDef": "lựa chọn, quyết định lấy"
+    "viDef": "lựa chọn, quyết định lấy",
+    "ex": "I'll go with the spaghetti and meatballs, salad and the wine.",
+    "exHit": "go with",
+    "exVi": "Tôi sẽ chọn mì Ý với thịt viên, salad và rượu vang."
   },
   {
     "word": "would recommend",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "suggest",
     "vi": "xin gợi ý",
-    "viDef": "đề xuất, khuyên dùng"
+    "viDef": "đề xuất, khuyên dùng",
+    "ex": "For you sir, I would recommend spaghetti and meatballs.",
+    "exHit": "would recommend",
+    "exVi": "Thưa ông, tôi xin gợi ý món mì Ý với thịt viên cho ông."
   },
   {
     "word": "complimentary",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "free",
     "vi": "miễn phí",
-    "viDef": "được tặng kèm, không tính tiền"
+    "viDef": "được tặng kèm, không tính tiền",
+    "ex": "It comes with either soup or salad and a complimentary glass of wine, sir.",
+    "exHit": "complimentary",
+    "exVi": "Món này đi kèm súp hoặc salad và một ly rượu vang tặng kèm, thưa ông."
   },
   {
     "word": "still working on",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "not yet completed, need more time",
     "vi": "vẫn đang xem dở",
-    "viDef": "chưa xong, cần thêm thời gian"
+    "viDef": "chưa xong, cần thêm thời gian",
+    "ex": "No, I'm still working on it.",
+    "exHit": "still working on",
+    "exVi": "Chưa, tôi vẫn đang dùng dở ạ."
   },
   {
     "word": "impatient",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "uncomfortable waiting, wanting to go",
     "vi": "sốt ruột, mất kiên nhẫn",
-    "viDef": "khó chịu khi phải chờ, muốn đi ngay"
+    "viDef": "khó chịu khi phải chờ, muốn đi ngay",
+    "ex": "The kids got impatient after waiting forty minutes for a table.",
+    "exHit": "impatient",
+    "exVi": "Bọn trẻ trở nên sốt ruột sau khi chờ bàn bốn mươi phút."
   },
   {
     "word": "fast food",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "food prepared and served quickly",
     "vi": "đồ ăn nhanh",
-    "viDef": "món ăn được chế biến và phục vụ nhanh"
+    "viDef": "món ăn được chế biến và phục vụ nhanh",
+    "ex": "We grabbed some fast food because the restaurant was too crowded.",
+    "exHit": "fast food",
+    "exVi": "Chúng tôi mua đồ ăn nhanh vì nhà hàng quá đông."
   },
   {
     "word": "waitress",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "female server at a restaurant or bar",
     "vi": "nữ phục vụ bàn",
-    "viDef": "nhân viên nữ phục vụ ở nhà hàng hoặc quán bar"
+    "viDef": "nhân viên nữ phục vụ ở nhà hàng hoặc quán bar",
+    "ex": "The waitress brought our drinks and asked if we were ready to order.",
+    "exHit": "waitress",
+    "exVi": "Cô phục vụ mang đồ uống ra và hỏi chúng tôi đã sẵn sàng gọi món chưa."
   },
   {
     "word": "fancy",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "nice, expensive, up-scale",
     "vi": "sang trọng",
-    "viDef": "đẹp, đắt tiền, cao cấp"
+    "viDef": "đẹp, đắt tiền, cao cấp",
+    "ex": "That restaurant is too fancy for me, so let's go somewhere cheaper.",
+    "exHit": "fancy",
+    "exVi": "Nhà hàng đó sang quá so với tôi, nên mình đi chỗ nào rẻ hơn đi."
   },
   {
     "word": "casual",
@@ -77,6 +104,9 @@
     "type": "Adjective",
     "def": "relaxed, not dressy",
     "vi": "giản dị, thường ngày",
-    "viDef": "thoải mái, không trang trọng"
+    "viDef": "thoải mái, không trang trọng",
+    "ex": "It's a casual place, so you can wear jeans and a T-shirt.",
+    "exHit": "casual",
+    "exVi": "Đó là quán bình dân nên bạn cứ mặc quần jean và áo thun."
   }
 ]

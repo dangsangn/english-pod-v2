@@ -5,7 +5,10 @@
     "type": "",
     "def": "beginning of an event",
     "vi": "phần khai màn",
-    "viDef": "lúc mở đầu một sự kiện"
+    "viDef": "lúc mở đầu một sự kiện",
+    "ex": "The kick-off of the meeting is at nine o'clock.",
+    "exHit": "kick-off",
+    "exVi": "Buổi họp bắt đầu lúc chín giờ."
   },
   {
     "word": "recognize",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "Identify",
     "vi": "nhận ra",
-    "viDef": "xác định được"
+    "viDef": "xác định được",
+    "ex": "It looks like the projector is not recognizing the computer.",
+    "exHit": "recognizing",
+    "exVi": "Có vẻ như máy chiếu không nhận ra máy tính."
   },
   {
     "word": "crop up",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "appears or happens unexpectedly",
     "vi": "bỗng phát sinh",
-    "viDef": "xuất hiện hoặc xảy ra bất ngờ"
+    "viDef": "xuất hiện hoặc xảy ra bất ngờ",
+    "ex": "Unfortunately technical problems do crop up from time to time, don't they?",
+    "exHit": "crop up",
+    "exVi": "Thật không may, thỉnh thoảng sự cố kỹ thuật vẫn bất ngờ xuất hiện, đúng không?"
   },
   {
     "word": "rough round the edges",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "having a rough quality; not smooth or refined",
     "vi": "còn thô ráp",
-    "viDef": "có chỗ chưa mượt, chưa tinh"
+    "viDef": "có chỗ chưa mượt, chưa tinh",
+    "ex": "Please note that we are still in the early days with this advert, so it might seem a bit rough round the edges.",
+    "exHit": "rough round the edges",
+    "exVi": "Xin lưu ý rằng quảng cáo này vẫn đang ở giai đoạn đầu, nên có thể còn hơi thô."
   },
   {
     "word": "bear with me",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to be patient with me",
     "vi": "xin chịu khó chờ tôi",
-    "viDef": "hãy kiên nhẫn với tôi"
+    "viDef": "hãy kiên nhẫn với tôi",
+    "ex": "Bear with me me a second.",
+    "exHit": "Bear with me",
+    "exVi": "Xin chờ tôi một chút."
   },
   {
     "word": "kink",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a flaw that hinders the success of an operation or plan",
     "vi": "chỗ vướng",
-    "viDef": "lỗi cản trở sự thành công của một việc hoặc kế hoạch"
+    "viDef": "lỗi cản trở sự thành công của một việc hoặc kế hoạch",
+    "ex": "There are still a few kinks in the system we need to fix.",
+    "exHit": "kinks",
+    "exVi": "Hệ thống vẫn còn vài trục trặc mà chúng ta cần sửa."
   },
   {
     "word": "unprepared",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "without adequate preparation, not ready",
     "vi": "chưa chuẩn bị",
-    "viDef": "không có sự chuẩn bị đầy đủ, chưa sẵn sàng"
+    "viDef": "không có sự chuẩn bị đầy đủ, chưa sẵn sàng",
+    "ex": "I felt unprepared when the boss asked me a question.",
+    "exHit": "unprepared",
+    "exVi": "Tôi thấy mình chưa chuẩn bị khi sếp hỏi tôi một câu."
   },
   {
     "word": "stall",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to intentionally delay",
     "vi": "kéo giờ",
-    "viDef": "cố ý làm chậm lại"
+    "viDef": "cố ý làm chậm lại",
+    "ex": "Don't stall, just tell me the answer now.",
+    "exHit": "stall",
+    "exVi": "Đừng câu giờ nữa, nói cho tôi câu trả lời ngay đi."
   },
   {
     "word": "screw-up",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "as a noun: a mess-up, can be used to refer to a person or thing; as a verb: to mess up",
     "vi": "vụ làm hỏng",
-    "viDef": "là danh từ thì chỉ chuyện hỏng bét hoặc người gây ra; là động từ thì nghĩa là làm hỏng"
+    "viDef": "là danh từ thì chỉ chuyện hỏng bét hoặc người gây ra; là động từ thì nghĩa là làm hỏng",
+    "ex": "I'm sorry, I really screw-up the slides again.",
+    "exHit": "screw-up",
+    "exVi": "Xin lỗi, tôi lại làm hỏng phần trình chiếu nữa rồi."
   }
 ]

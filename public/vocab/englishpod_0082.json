@@ -5,7 +5,10 @@
     "type": "common noun, non-variable",
     "def": "hell in a more polite form",
     "vi": "quái, gì thế",
-    "viDef": "cách nói nhẹ hơn của \"hell\""
+    "viDef": "cách nói nhẹ hơn của \"hell\"",
+    "ex": "What the heck is going on!",
+    "exHit": "heck",
+    "exVi": "Chuyện quái gì đang xảy ra thế này!"
   },
   {
     "word": "make it out",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "able to escape or flee",
     "vi": "thoát ra được",
-    "viDef": "chạy hoặc trốn ra được"
+    "viDef": "chạy hoặc trốn ra được",
+    "ex": "Do you think we can make it out before the police arrive?",
+    "exHit": "make it out",
+    "exVi": "Bạn nghĩ chúng ta có thể thoát ra trước khi cảnh sát đến không?"
   },
   {
     "word": "creature",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "a living thing",
     "vi": "sinh vật",
-    "viDef": "vật sống"
+    "viDef": "vật sống",
+    "ex": "Officer, officer, there is, like, a witch creature back there!",
+    "exHit": "creature",
+    "exVi": "Cảnh sát ơi, cảnh sát ơi, ở phía sau kia có một sinh vật giống như phù thủy!"
   },
   {
     "word": "break free",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "get out of something",
     "vi": "vùng thoát",
-    "viDef": "giằng ra khỏi thứ gì"
+    "viDef": "giằng ra khỏi thứ gì",
+    "ex": "He tried hard to break free from the guard.",
+    "exHit": "break free",
+    "exVi": "Anh ta cố hết sức để thoát khỏi tay người bảo vệ."
   },
   {
     "word": "lemme",
@@ -37,7 +49,10 @@
     "type": "Contraction",
     "def": "let me",
     "vi": "để tôi",
-    "viDef": "cách nói tắt của \"let me\""
+    "viDef": "cách nói tắt của \"let me\"",
+    "ex": "Lemme see your eyes please.",
+    "exHit": "Lemme",
+    "exVi": "Để tôi xem mắt của bạn nào."
   },
   {
     "word": "suspect",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "regard someone as a criminal or to be guilty",
     "vi": "nghi là",
-    "viDef": "coi ai như kẻ phạm tội"
+    "viDef": "coi ai như kẻ phạm tội",
+    "ex": "We suspected her of being a kidnapper or rapist but it turns out she's an alien or something.",
+    "exHit": "suspected",
+    "exVi": "Chúng tôi từng nghi cô ta là kẻ bắt cóc hoặc kẻ hiếp dâm, nhưng hóa ra cô ta là người ngoài hành tinh gì đó."
   },
   {
     "word": "kidnapper",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "the kind of criminal that catches someone and asks the family for money",
     "vi": "kẻ bắt cóc",
-    "viDef": "tội phạm bắt người rồi đòi tiền gia đình"
+    "viDef": "tội phạm bắt người rồi đòi tiền gia đình",
+    "ex": "We suspected her of being a kidnapper or rapist but it turns out she's an alien or something.",
+    "exHit": "kidnapper",
+    "exVi": "Chúng tôi từng nghi cô ta là kẻ bắt cóc hoặc kẻ hiếp dâm, nhưng hóa ra cô ta là người ngoài hành tinh gì đó."
   },
   {
     "word": "rapist",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "the kind of criminal who forces someone to have sex",
     "vi": "kẻ cưỡng hiếp",
-    "viDef": "tội phạm cưỡng ép người khác quan hệ"
+    "viDef": "tội phạm cưỡng ép người khác quan hệ",
+    "ex": "We suspected her of being a kidnapper or rapist but it turns out she's an alien or something.",
+    "exHit": "rapist",
+    "exVi": "Chúng tôi từng nghi cô ta là kẻ bắt cóc hoặc kẻ hiếp dâm, nhưng hóa ra cô ta là người ngoài hành tinh gì đó."
   },
   {
     "word": "have a look",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "take a glance",
     "vi": "xem thử",
-    "viDef": "ngó qua một cái"
+    "viDef": "ngó qua một cái",
+    "ex": "Well, let's have a look.",
+    "exHit": "have a look",
+    "exVi": "Để tôi xem nào."
   },
   {
     "word": "larceny",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "act of stealing something",
     "vi": "tội trộm cắp",
-    "viDef": "hành vi lấy của người khác"
+    "viDef": "hành vi lấy của người khác",
+    "ex": "He was arrested for larceny after taking a bike.",
+    "exHit": "larceny",
+    "exVi": "Anh ta bị bắt vì tội trộm cắp sau khi lấy một chiếc xe đạp."
   },
   {
     "word": "homicide",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "the act of killing another person",
     "vi": "tội giết người",
-    "viDef": "hành vi sát hại người khác"
+    "viDef": "hành vi sát hại người khác",
+    "ex": "The detective is working on a homicide case.",
+    "exHit": "homicide",
+    "exVi": "Viên thám tử đang điều tra một vụ giết người."
   },
   {
     "word": "wanna",
@@ -93,7 +126,10 @@
     "type": "Contraction",
     "def": "want to",
     "vi": "muốn",
-    "viDef": "cách nói tắt của \"want to\""
+    "viDef": "cách nói tắt của \"want to\"",
+    "ex": "I wanna go home and sleep for ten hours.",
+    "exHit": "wanna",
+    "exVi": "Tôi muốn về nhà ngủ mười tiếng."
   },
   {
     "word": "gonna",
@@ -101,7 +137,10 @@
     "type": "Contraction",
     "def": "going to",
     "vi": "sẽ",
-    "viDef": "cách nói tắt của \"going to\""
+    "viDef": "cách nói tắt của \"going to\"",
+    "ex": "Are you gonna help us or not?",
+    "exHit": "gonna",
+    "exVi": "Các anh có giúp chúng tôi hay không đây?"
   },
   {
     "word": "DUI",
@@ -109,6 +148,9 @@
     "type": "common noun, singular",
     "def": "abbreviation for Driving Under the Influence. To drive while being intoxicated",
     "vi": "lái xe khi có men",
-    "viDef": "viết tắt của Driving Under the Influence, lái xe khi đã uống rượu"
+    "viDef": "viết tắt của Driving Under the Influence, lái xe khi đã uống rượu",
+    "ex": "He lost his license after a DUI last year.",
+    "exHit": "DUI",
+    "exVi": "Anh ta bị mất bằng lái sau vụ lái xe khi say rượu năm ngoái."
   }
 ]

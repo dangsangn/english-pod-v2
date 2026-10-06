@@ -5,7 +5,10 @@
     "type": "",
     "def": "the uterus of the human female",
     "vi": "tử cung",
-    "viDef": "tử cung của người nữ"
+    "viDef": "tử cung của người nữ",
+    "ex": "Nice try, but this is a woman's womb which contains her uterus and ovaries.",
+    "exHit": "womb",
+    "exVi": "Cố gắng tốt đấy, nhưng đây là tử cung của người phụ nữ, nơi chứa dạ con và buồng trứng."
   },
   {
     "word": "ovulation",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the discharge of a mature ovum from the ovary",
     "vi": "sự rụng trứng",
-    "viDef": "việc trứng chín rời khỏi buồng trứng"
+    "viDef": "việc trứng chín rời khỏi buồng trứng",
+    "ex": "This is called ovulation and the exact time of ovulation depends on the length of your cycle.",
+    "exHit": "ovulation",
+    "exVi": "Đây gọi là sự rụng trứng, và thời điểm rụng trứng chính xác phụ thuộc vào độ dài chu kỳ của bạn."
   },
   {
     "word": "ejaculation",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the discharge of semen by the male reproductive organs",
     "vi": "sự xuất tinh",
-    "viDef": "việc cơ quan sinh dục nam phóng tinh dịch"
+    "viDef": "việc cơ quan sinh dục nam phóng tinh dịch",
+    "ex": "Each ejaculation will release about a hundred million sperm so the factory is always pretty busy.",
+    "exHit": "ejaculation",
+    "exVi": "Mỗi lần xuất tinh sẽ giải phóng khoảng một trăm triệu tinh trùng, nên cái nhà máy này lúc nào cũng khá bận rộn."
   },
   {
     "word": "embryo",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "in humans, the young in the early stages of development within the womb",
     "vi": "phôi",
-    "viDef": "ở người là mầm sống trong giai đoạn phát triển đầu trong tử cung"
+    "viDef": "ở người là mầm sống trong giai đoạn phát triển đầu trong tử cung",
+    "ex": "The woman is not actually pregnant until that bundle of new cells, known as the embryo, travels the rest of the way down the fallopian tube and attaches itself to the wall of her uterus.",
+    "exHit": "embryo",
+    "exVi": "Người phụ nữ chưa thực sự mang thai cho đến khi cụm tế bào mới, gọi là phôi thai, di chuyển hết quãng đường còn lại xuống ống dẫn trứng và bám vào thành tử cung."
   },
   {
     "word": "wall",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the outermost layer defining the physical limits of an object",
     "vi": "thành, vách",
-    "viDef": "lớp ngoài cùng xác định giới hạn của một vật"
+    "viDef": "lớp ngoài cùng xác định giới hạn của một vật",
+    "ex": "The woman is not actually pregnant until that bundle of new cells, known as the embryo, travels the rest of the way down the fallopian tube and attaches itself to the wall of her uterus.",
+    "exHit": "wall",
+    "exVi": "Người phụ nữ chưa thực sự mang thai cho đến khi cụm tế bào mới, gọi là phôi thai, di chuyển hết quãng đường còn lại xuống ống dẫn trứng và bám vào thành tử cung."
   },
   {
     "word": "urethra",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the part of the male anatomy which transports semen",
     "vi": "niệu đạo",
-    "viDef": "phần trong cơ thể nam dẫn tinh dịch ra"
+    "viDef": "phần trong cơ thể nam dẫn tinh dịch ra",
+    "ex": "The urethra carries semen out of the body.",
+    "exHit": "urethra",
+    "exVi": "Niệu đạo dẫn tinh dịch ra khỏi cơ thể."
   },
   {
     "word": "vas deferens",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the specific tube which semen travel through",
     "vi": "ống dẫn tinh",
-    "viDef": "ống mà tinh dịch đi qua"
+    "viDef": "ống mà tinh dịch đi qua",
+    "ex": "Sperm travel through the vas deferens before they leave the body.",
+    "exHit": "vas deferens",
+    "exVi": "Tinh trùng đi qua ống dẫn tinh trước khi ra khỏi cơ thể."
   },
   {
     "word": "scrotum",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a pouch with holds the testes",
     "vi": "bìu",
-    "viDef": "túi da chứa tinh hoàn"
+    "viDef": "túi da chứa tinh hoàn",
+    "ex": "The scrotum holds the testes outside the body.",
+    "exHit": "scrotum",
+    "exVi": "Bìu giữ tinh hoàn ở bên ngoài cơ thể."
   },
   {
     "word": "pre menstrual syndrome",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a disorder during a woman's menstrual cycle characterized by depression and stomach cramps",
     "vi": "hội chứng tiền kinh nguyệt",
-    "viDef": "rối loạn trong chu kỳ của người nữ với biểu hiện buồn rầu và đau quặn bụng"
+    "viDef": "rối loạn trong chu kỳ của người nữ với biểu hiện buồn rầu và đau quặn bụng",
+    "ex": "Pre menstrual syndrome can make some women feel sad and tired.",
+    "exHit": "Pre menstrual syndrome",
+    "exVi": "Hội chứng tiền kinh nguyệt có thể khiến một số phụ nữ thấy buồn và mệt mỏi."
   },
   {
     "word": "vagina",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "the female reproductive organ",
     "vi": "âm đạo",
-    "viDef": "cơ quan sinh dục của người nữ"
+    "viDef": "cơ quan sinh dục của người nữ",
+    "ex": "The teacher drew a diagram of the vagina on the board.",
+    "exHit": "vagina",
+    "exVi": "Cô giáo vẽ sơ đồ cơ quan sinh dục nữ lên bảng."
   }
 ]

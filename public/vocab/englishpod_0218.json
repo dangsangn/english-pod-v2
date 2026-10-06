@@ -5,7 +5,10 @@
     "type": "",
     "def": "thorough or complete stop in a relationship",
     "vi": "dứt hẳn",
-    "viDef": "sự chấm dứt trọn vẹn một mối quan hệ"
+    "viDef": "sự chấm dứt trọn vẹn một mối quan hệ",
+    "ex": "It's important we make a clean break.",
+    "exHit": "clean break",
+    "exVi": "Điều quan trọng là chúng ta chia tay dứt khoát."
   },
   {
     "word": "pre-nup",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "prenuptial agreement;a contract prior to marriage",
     "vi": "thỏa thuận tiền hôn nhân",
-    "viDef": "prenuptial agreement, hợp đồng lập trước khi cưới"
+    "viDef": "prenuptial agreement, hợp đồng lập trước khi cưới",
+    "ex": "They signed a pre-nup before they got married.",
+    "exHit": "pre-nup",
+    "exVi": "Họ đã ký thỏa thuận tiền hôn nhân trước khi kết hôn."
   },
   {
     "word": "custody",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the act of keeping safe or guarding",
     "vi": "quyền trông giữ",
-    "viDef": "việc giữ an toàn hoặc bảo hộ"
+    "viDef": "việc giữ an toàn hoặc bảo hộ",
+    "ex": "My lawyer tells me you've accepted our alimony proposal and the division of property, as well as the custody agreement- I keep the cat and you get the dog.",
+    "exHit": "custody",
+    "exVi": "Luật sư của tôi nói bạn đã chấp nhận đề nghị cấp dưỡng của chúng tôi, việc chia tài sản và cả thỏa thuận quyền nuôi con - tôi giữ con mèo còn bạn giữ con chó."
   },
   {
     "word": "concede",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to acknowledge, often reluctantly, as being true",
     "vi": "đành nhượng",
-    "viDef": "thừa nhận điều gì là đúng, thường là không muốn"
+    "viDef": "thừa nhận điều gì là đúng, thường là không muốn",
+    "ex": "Alright, I'll concede the silly gramophone, if you'll agree that I get the silver tea set.",
+    "exHit": "concede",
+    "exVi": "Được rồi, tôi sẽ nhượng cái máy hát ngớ ngẩn đó, nếu bạn đồng ý để tôi giữ bộ ấm trà bạc."
   },
   {
     "word": "drag this out",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "proceed for an extended period of time",
     "vi": "kéo dài dây dưa",
-    "viDef": "để việc kéo lê thê"
+    "viDef": "để việc kéo lê thê",
+    "ex": "I don't want to drag this out any longer than necessary.",
+    "exHit": "drag this out",
+    "exVi": "Tôi không muốn kéo dài chuyện này lâu hơn mức cần thiết."
   },
   {
     "word": "go our separate ways",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "set or keep apart in the relationship",
     "vi": "mỗi người một đường",
-    "viDef": "tách nhau ra trong mối quan hệ"
+    "viDef": "tách nhau ra trong mối quan hệ",
+    "ex": "Let's just get down to business and start dividing this stuff up fairly, so we can go our separate ways, alright?",
+    "exHit": "go our separate ways",
+    "exVi": "Hãy vào việc và bắt đầu chia số đồ này cho công bằng để chúng ta mỗi người một ngả nhé?"
   },
   {
     "word": "Bitter",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to be angry",
     "vi": "hằn học",
-    "viDef": "đang tức"
+    "viDef": "đang tức",
+    "ex": "He's still bitter about the divorce.",
+    "exHit": "bitter",
+    "exVi": "Anh ấy vẫn còn cay đắng về cuộc ly hôn."
   },
   {
     "word": "Sharing",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "To equally have possession of something",
     "vi": "sự chia sẻ",
-    "viDef": "cùng có quyền với thứ gì như nhau"
+    "viDef": "cùng có quyền với thứ gì như nhau",
+    "ex": "Sharing the furniture was harder than we thought.",
+    "exHit": "Sharing",
+    "exVi": "Việc chia đồ đạc khó hơn chúng tôi nghĩ."
   },
   {
     "word": "Civil",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to behave with class",
     "vi": "nhã nhặn",
-    "viDef": "cư xử có phong thái"
+    "viDef": "cư xử có phong thái",
+    "ex": "Let's stay civil and talk about this calmly.",
+    "exHit": "civil",
+    "exVi": "Hãy giữ thái độ lịch sự và bình tĩnh nói chuyện này."
   },
   {
     "word": "Reconsider",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "To have second thoughts",
     "vi": "nghĩ lại",
-    "viDef": "có suy nghĩ thứ hai về điều gì"
+    "viDef": "có suy nghĩ thứ hai về điều gì",
+    "ex": "Please reconsider, we can still work things out.",
+    "exHit": "reconsider",
+    "exVi": "Xin hãy suy nghĩ lại, chúng ta vẫn có thể giải quyết ổn thỏa."
   },
   {
     "word": "Dispute",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "to have an arguement",
     "vi": "tranh chấp",
-    "viDef": "có cãi vã"
+    "viDef": "có cãi vã",
+    "ex": "They had a dispute about who gets the house.",
+    "exHit": "dispute",
+    "exVi": "Họ đã tranh cãi về việc ai sẽ nhận căn nhà."
   }
 ]

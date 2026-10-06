@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "Do something. An action is required",
     "vi": "đừng đứng đó nữa",
-    "viDef": "phải làm gì đi, cần có hành động"
+    "viDef": "phải làm gì đi, cần có hành động",
+    "ex": "Don't just stand there!",
+    "exHit": "Don't just stand there",
+    "exVi": "Đừng chỉ đứng đó!"
   },
   {
     "word": "take a seat",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "choose a place to sit",
     "vi": "ngồi xuống đi",
-    "viDef": "chọn chỗ mà ngồi"
+    "viDef": "chọn chỗ mà ngồi",
+    "ex": "Come and take a seat!",
+    "exHit": "take a seat",
+    "exVi": "Lại đây ngồi đi!"
   },
   {
     "word": "trim",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "a short cut of hair to make one look clean",
     "vi": "tỉa gọn",
-    "viDef": "cắt bớt tóc cho gọn gàng"
+    "viDef": "cắt bớt tóc cho gọn gàng",
+    "ex": "Well, I just want a trim.",
+    "exHit": "trim",
+    "exVi": "À, tôi chỉ muốn tỉa nhẹ thôi."
   },
   {
     "word": "fancy",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "very fashionable",
     "vi": "bắt mắt, thời thượng",
-    "viDef": "rất hợp thời trang"
+    "viDef": "rất hợp thời trang",
+    "ex": "Nothing too fancy.",
+    "exHit": "fancy",
+    "exVi": "Đừng cầu kỳ quá nhé."
   },
   {
     "word": "silky",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "resembling silk, very smooth",
     "vi": "mượt như tơ",
-    "viDef": "giống lụa, rất mượt"
+    "viDef": "giống lụa, rất mượt",
+    "ex": "So silky, so shiny!",
+    "exHit": "silky",
+    "exVi": "Mượt làm sao, bóng làm sao!"
   },
   {
     "word": "shiny",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "having a smooth and bright appearance",
     "vi": "bóng loáng",
-    "viDef": "trông mịn và sáng"
+    "viDef": "trông mịn và sáng",
+    "ex": "So silky, so shiny!",
+    "exHit": "shiny",
+    "exVi": "Mượt làm sao, bóng làm sao!"
   },
   {
     "word": "a million bucks",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "Very good. To look great",
     "vi": "bảnh như triệu đô",
-    "viDef": "trông cực ngon, rất đẹp"
+    "viDef": "trông cực ngon, rất đẹp",
+    "ex": "You are going to look like a million bucks!",
+    "exHit": "a million bucks",
+    "exVi": "Trông bạn sẽ tuyệt như một triệu đô!"
   },
   {
     "word": "sideburns",
@@ -61,7 +82,10 @@
     "type": "common noun, plural",
     "def": "hair that grows on the sides of man",
     "vi": "tóc mai dài",
-    "viDef": "phần tóc mọc ở hai bên má của người nam"
+    "viDef": "phần tóc mọc ở hai bên má của người nam",
+    "ex": "can you make sure my sideburns are even and you just take a little off the top.",
+    "exHit": "sideburns",
+    "exVi": "anh làm ơn chắc chắn là tóc mai của tôi đều nhau và chỉ cắt bớt một chút ở phía trên thôi nhé."
   },
   {
     "word": "curly",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "hair in form of round shape",
     "vi": "xoăn",
-    "viDef": "tóc uốn thành vòng"
+    "viDef": "tóc uốn thành vòng",
+    "ex": "I just love your curly hair!",
+    "exHit": "curly",
+    "exVi": "Tôi rất thích mái tóc xoăn của bạn!"
   },
   {
     "word": "fluffy",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "soft",
     "vi": "bồng bềnh",
-    "viDef": "mềm, xốp"
+    "viDef": "mềm, xốp",
+    "ex": "It's so fluffy and cute!",
+    "exHit": "fluffy",
+    "exVi": "Nó bông xù và dễ thương quá!"
   },
   {
     "word": "grow out",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "grow long",
     "vi": "để dài ra",
-    "viDef": "nuôi cho dài"
+    "viDef": "nuôi cho dài",
+    "ex": "You should totally let it grow out.",
+    "exHit": "grow out",
+    "exVi": "Bạn nên cứ để tóc dài ra đi."
   },
   {
     "word": "afro",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a kind of hairstyle which very curly hair is formed into round ball",
     "vi": "tóc xù afro",
-    "viDef": "kiểu tóc xoăn tít bung thành khối tròn"
+    "viDef": "kiểu tóc xoăn tít bung thành khối tròn",
+    "ex": "An afro would look great on you!",
+    "exHit": "afro",
+    "exVi": "Kiểu tóc afro sẽ rất hợp với bạn!"
   },
   {
     "word": "buzz cut",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a type of hairstyle where the hair is cut very short with an electric razor",
     "vi": "tóc cạo húi cua",
-    "viDef": "kiểu tóc cắt thật ngắn bằng tông đơ"
+    "viDef": "kiểu tóc cắt thật ngắn bằng tông đơ",
+    "ex": "My brother got a buzz cut before joining the army.",
+    "exHit": "buzz cut",
+    "exVi": "Anh trai tôi cắt tóc cua trước khi nhập ngũ."
   },
   {
     "word": "Mohawk",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a hairstyle which consists of shaving both sides of the head, leaving a strip of noticeably longer hair on top",
     "vi": "tóc mào Mohawk",
-    "viDef": "kiểu cạo hai bên đầu, chừa một dải tóc dài ở giữa"
+    "viDef": "kiểu cạo hai bên đầu, chừa một dải tóc dài ở giữa",
+    "ex": "He looks so cool with that green Mohawk.",
+    "exHit": "Mohawk",
+    "exVi": "Anh ấy trông ngầu quá với kiểu tóc Mohawk màu xanh lá đó."
   },
   {
     "word": "flat top",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "a type of hairstyle where the hair on top is left a bit long and styled upwards, resulting in square looking haircut",
     "vi": "tóc dựng mặt phẳng",
-    "viDef": "kiểu chừa tóc trên hơi dài, dựng lên cho đầu trông vuông"
+    "viDef": "kiểu chừa tóc trên hơi dài, dựng lên cho đầu trông vuông",
+    "ex": "My dad has had the same flat top since the eighties.",
+    "exHit": "flat top",
+    "exVi": "Bố tôi để kiểu tóc đầu bằng đó từ những năm tám mươi."
   },
   {
     "word": "pony tail",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "in which most or all of the hair on the head is pulled away from the face, gathered and secured at the back of the head with a hair tie or clip and allowed to hang freely from that point",
     "vi": "tóc đuôi ngựa",
-    "viDef": "kiểu vuốt hết tóc ra sau, buộc lại bằng dây hoặc kẹp cho rủ xuống"
+    "viDef": "kiểu vuốt hết tóc ra sau, buộc lại bằng dây hoặc kẹp cho rủ xuống",
+    "ex": "She tied her hair back in a pony tail.",
+    "exHit": "pony tail",
+    "exVi": "Cô ấy buộc tóc ra sau thành đuôi ngựa."
   },
   {
     "word": "braid",
@@ -133,6 +181,9 @@
     "type": "common noun, singular",
     "def": "formed by intertwining three or more strands of hair so that the result is similar to a woven textile.",
     "vi": "bím tóc",
-    "viDef": "kiểu bắt chéo ba lọn tóc trở lên thành dải như tấm dệt"
+    "viDef": "kiểu bắt chéo ba lọn tóc trở lên thành dải như tấm dệt",
+    "ex": "Can you do a braid for me before school?",
+    "exHit": "braid",
+    "exVi": "Con tết tóc cho mình trước khi đi học được không?"
   }
 ]

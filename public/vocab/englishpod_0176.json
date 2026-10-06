@@ -5,7 +5,10 @@
     "type": "",
     "def": "acquire bills or debts",
     "vi": "làm đội hóa đơn",
-    "viDef": "khiến hóa đơn hoặc nợ tăng lên"
+    "viDef": "khiến hóa đơn hoặc nợ tăng lên",
+    "ex": "I'm not gonna let you run up my heating bill just because it's a bit chilly.",
+    "exHit": "run up",
+    "exVi": "Tôi không để cậu làm hóa đơn tiền sưởi tăng vọt chỉ vì trời hơi lành lạnh đâu."
   },
   {
     "word": "turn up",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "increase the intensity of a device",
     "vi": "tăng lên",
-    "viDef": "điều thiết bị lên mức mạnh hơn"
+    "viDef": "điều thiết bị lên mức mạnh hơn",
+    "ex": "Can I turn up the heat?",
+    "exHit": "turn up",
+    "exVi": "Tôi tăng nhiệt lên được không?"
   },
   {
     "word": "chilly",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "very cold",
     "vi": "lạnh buốt",
-    "viDef": "rất lạnh"
+    "viDef": "rất lạnh",
+    "ex": "It's a chilly day folks, so don't forget your coats!",
+    "exHit": "chilly",
+    "exVi": "Hôm nay trời se lạnh các bạn ạ, nên đừng quên mang áo khoác!"
   },
   {
     "word": "catch a cold",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "become infected with a cold",
     "vi": "bị cảm",
-    "viDef": "nhiễm bệnh cảm lạnh"
+    "viDef": "nhiễm bệnh cảm lạnh",
+    "ex": "I'm gonna catch a cold!",
+    "exHit": "catch a cold",
+    "exVi": "Tôi sắp bị cảm mất!"
   },
   {
     "word": "grateful",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "thankful",
     "vi": "biết ơn",
-    "viDef": "cảm kích"
+    "viDef": "cảm kích",
+    "ex": "You should be grateful!",
+    "exHit": "grateful",
+    "exVi": "Cậu nên biết ơn đi!"
   },
   {
     "word": "wood stove",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a metal closed fire chamber that burns wood fuel for heating and cooking",
     "vi": "bếp lò củi",
-    "viDef": "buồng đốt kim loại kín, đốt củi để sưởi và nấu"
+    "viDef": "buồng đốt kim loại kín, đốt củi để sưởi và nấu",
+    "ex": "We kept warm by the wood stove all winter.",
+    "exHit": "wood stove",
+    "exVi": "Chúng tôi giữ ấm bằng bếp củi suốt cả mùa đông."
   },
   {
     "word": "thermos",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "container lined with insulating material that keeps liquids hot or cold",
     "vi": "bình giữ nhiệt",
-    "viDef": "bình có lớp cách nhiệt giữ đồ uống nóng hoặc lạnh"
+    "viDef": "bình có lớp cách nhiệt giữ đồ uống nóng hoặc lạnh",
+    "ex": "Pour some hot tea into my thermos before we leave.",
+    "exHit": "thermos",
+    "exVi": "Hãy rót ít trà nóng vào bình giữ nhiệt của tôi trước khi chúng ta đi."
   },
   {
     "word": "fireplace",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a structure, made of stone or brick, for holding a fire at the base of a chimney",
     "vi": "lò sưởi",
-    "viDef": "kết cấu bằng đá hoặc gạch ở chân ống khói để nhóm lửa"
+    "viDef": "kết cấu bằng đá hoặc gạch ở chân ống khói để nhóm lửa",
+    "ex": "Let's sit by the fireplace and drink hot chocolate.",
+    "exHit": "fireplace",
+    "exVi": "Mình ngồi bên lò sưởi và uống sô cô la nóng nhé."
   },
   {
     "word": "frost",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a deposit of tiny ice crystals formed when water vapor condenses at a temperature below freezing",
     "vi": "sương giá",
-    "viDef": "lớp tinh thể băng mỏng tạo ra khi hơi nước đọng ở nhiệt độ dưới không"
+    "viDef": "lớp tinh thể băng mỏng tạo ra khi hơi nước đọng ở nhiệt độ dưới không",
+    "ex": "There was frost on the car windows this morning.",
+    "exHit": "frost",
+    "exVi": "Sáng nay có sương giá trên cửa kính xe."
   },
   {
     "word": "sub-zero temperatures",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "cold temperatures, below 0°C (zero degrees celsius)",
     "vi": "nhiệt độ dưới không",
-    "viDef": "trời lạnh dưới 0 độ C"
+    "viDef": "trời lạnh dưới 0 độ C",
+    "ex": "It's dangerous to go outside in sub-zero temperatures.",
+    "exHit": "sub-zero temperatures",
+    "exVi": "Ra ngoài khi nhiệt độ dưới không độ rất nguy hiểm."
   }
 ]

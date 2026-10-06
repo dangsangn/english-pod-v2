@@ -5,7 +5,10 @@
     "type": "",
     "def": "hair on the face",
     "vi": "râu trên mặt",
-    "viDef": "lông mọc ở mặt"
+    "viDef": "lông mọc ở mặt",
+    "ex": "Ok, the facial hair, was it a beard or a mustache?",
+    "exHit": "facial hair",
+    "exVi": "Được rồi, râu ở mặt đó, là râu quai nón hay ria mép?"
   },
   {
     "word": "beard",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the hair growing on the lower part of a man's face",
     "vi": "râu",
-    "viDef": "phần lông mọc ở nửa dưới mặt người nam"
+    "viDef": "phần lông mọc ở nửa dưới mặt người nam",
+    "ex": "Ok, the facial hair, was it a beard or a mustache?",
+    "exHit": "beard",
+    "exVi": "Được rồi, râu ở mặt đó, là râu quai nón hay ria mép?"
   },
   {
     "word": "mustache",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "an unshaved growth of hair on the upper lip",
     "vi": "râu mép",
-    "viDef": "lông chưa cạo ở môi trên"
+    "viDef": "lông chưa cạo ở môi trên",
+    "ex": "His mustache was very short and thin, ….",
+    "exHit": "mustache",
+    "exVi": "Ria mép của anh ta rất ngắn và mỏng, ..."
   },
   {
     "word": "goatee",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a small chin beard trimmed into a point",
     "vi": "râu chóp",
-    "viDef": "chòm râu nhỏ ở chóp cằm, tỉa thành mũi nhọn"
+    "viDef": "chòm râu nhỏ ở chóp cằm, tỉa thành mũi nhọn",
+    "ex": "Ah yes, that's it, he had a goatee.........",
+    "exHit": "goatee",
+    "exVi": "À đúng rồi, chính là nó, anh ta có chòm râu dê........."
   },
   {
     "word": "sideburns",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "hair that grows on the sides of man",
     "vi": "tóc mai dài",
-    "viDef": "phần tóc mọc ở hai bên má của người nam"
+    "viDef": "phần tóc mọc ở hai bên má của người nam",
+    "ex": "can you make sure my sideburns are even and you just take a little off the top.",
+    "exHit": "sideburns",
+    "exVi": "anh làm ơn chắc chắn là tóc mai của tôi đều nhau và chỉ cắt bớt một chút ở phía trên thôi nhé."
   },
   {
     "word": "thick",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "not thin;great in extent from the surface",
     "vi": "dày",
-    "viDef": "không mỏng, nhô cao khỏi mặt phẳng"
+    "viDef": "không mỏng, nhô cao khỏi mặt phẳng",
+    "ex": "Um, they were long and thick, yours!",
+    "exHit": "thick",
+    "exVi": "Ừm, chúng dài và dày, giống của anh vậy!"
   },
   {
     "word": "ridiculous",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "very unreasonable or silly",
     "vi": "vô lý hết sức",
-    "viDef": "rất vô lý hoặc ngớ ngẩn"
+    "viDef": "rất vô lý hoặc ngớ ngẩn",
+    "ex": "That's ridiculous!",
+    "exHit": "ridiculous",
+    "exVi": "Thật là lố bịch!"
   },
   {
     "word": "why yes",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "as a matter of fact",
     "vi": "ồ có chứ",
-    "viDef": "thực ra là có"
+    "viDef": "thực ra là có",
+    "ex": "Hmmm, why yes he does.",
+    "exHit": "why yes",
+    "exVi": "Ừm, vâng đúng vậy, anh ấy có thật."
   },
   {
     "word": "Sketch Artist",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A person who can draw a face from instruction",
     "vi": "họa sĩ vẽ theo lời kể",
-    "viDef": "người vẽ được khuôn mặt dựa trên lời mô tả"
+    "viDef": "người vẽ được khuôn mặt dựa trên lời mô tả",
+    "ex": "The sketch artist drew the thief's face from the witness's description.",
+    "exHit": "sketch artist",
+    "exVi": "Họa sĩ phác thảo đã vẽ khuôn mặt tên trộm theo lời mô tả của nhân chứng."
   },
   {
     "word": "razor",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a sharp instrument used to shave a beard",
     "vi": "dao cạo",
-    "viDef": "dụng cụ sắc dùng cạo râu"
+    "viDef": "dụng cụ sắc dùng cạo râu",
+    "ex": "My dad cut himself with the razor while he was shaving this morning.",
+    "exHit": "razor",
+    "exVi": "Sáng nay bố tôi bị dao cạo cứa vào mặt khi đang cạo râu."
   },
   {
     "word": "Shaving cream",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a lather applied to the face for a smooth shave",
     "vi": "kem cạo râu",
-    "viDef": "bọt bôi lên mặt để cạo cho mượt"
+    "viDef": "bọt bôi lên mặt để cạo cho mượt",
+    "ex": "Put some shaving cream on your face before you start to shave.",
+    "exHit": "shaving cream",
+    "exVi": "Hãy thoa một ít kem cạo râu lên mặt trước khi bắt đầu cạo."
   },
   {
     "word": "Hair Clippers",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "An electric machine that cuts hair",
     "vi": "tông đơ",
-    "viDef": "máy điện dùng để cắt tóc"
+    "viDef": "máy điện dùng để cắt tóc",
+    "ex": "The barber used hair clippers to cut my hair really short.",
+    "exHit": "hair clippers",
+    "exVi": "Thợ cắt tóc dùng tông-đơ để cắt tóc tôi thật ngắn."
   },
   {
     "word": "Muttonchops",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "Sideburns that are long and extend towards the corner of the mouth",
     "vi": "tóc mai dài kiểu quai nón",
-    "viDef": "tóc mai để dài, ăn xuống tới khóe miệng"
+    "viDef": "tóc mai để dài, ăn xuống tới khóe miệng",
+    "ex": "He looks funny with those long muttonchops on the sides of his face.",
+    "exHit": "muttonchops",
+    "exVi": "Anh ấy trông buồn cười với hàng tóc mai dài hai bên má."
   }
 ]

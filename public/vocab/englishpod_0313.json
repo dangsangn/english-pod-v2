@@ -5,7 +5,10 @@
     "type": "",
     "def": "a greeting phrase used after two friends have not",
     "vi": "lâu quá không gặp",
-    "viDef": "câu chào khi hai người bạn lâu ngày mới thấy nhau"
+    "viDef": "câu chào khi hai người bạn lâu ngày mới thấy nhau",
+    "ex": "Long time no see!",
+    "exHit": "Long time no see",
+    "exVi": "Lâu quá không gặp!"
   },
   {
     "word": "same old same old",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "nothing new",
     "vi": "vẫn vậy thôi",
-    "viDef": "chẳng có gì mới"
+    "viDef": "chẳng có gì mới",
+    "ex": "Work is the same old same old, nothing new lately.",
+    "exHit": "same old same old",
+    "exVi": "Công việc vẫn như mọi khi thôi, dạo này chẳng có gì mới."
   },
   {
     "word": "promotion",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "new position",
     "vi": "thăng chức",
-    "viDef": "vị trí mới"
+    "viDef": "vị trí mới",
+    "ex": "Well you see I got a promotion, so I moved to the new Pudong office last September.",
+    "exHit": "promotion",
+    "exVi": "À, bạn biết đấy, tôi được thăng chức nên đã chuyển đến văn phòng Phố Đông mới hồi tháng Chín năm ngoái."
   },
   {
     "word": "networking",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "meeting new people",
     "vi": "mở rộng quan hệ",
-    "viDef": "việc gặp gỡ người mới"
+    "viDef": "việc gặp gỡ người mới",
+    "ex": "But I met a really cute guy last night at a networking party so, ….....",
+    "exHit": "networking",
+    "exVi": "Nhưng tối qua tôi gặp một anh chàng rất dễ thương ở một buổi tiệc giao lưu, nên là..."
   },
   {
     "word": "split",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "leave here",
     "vi": "dông",
-    "viDef": "rời khỏi đây"
+    "viDef": "rời khỏi đây",
+    "ex": "After the party, we split before it got too late.",
+    "exHit": "split",
+    "exVi": "Sau bữa tiệc, tụi mình chuồn đi trước khi quá muộn."
   },
   {
     "word": "demote",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to reduce to a lower grade, rank, class, or position",
     "vi": "giáng cấp",
-    "viDef": "hạ xuống bậc, cấp, hạng hoặc vị trí thấp hơn"
+    "viDef": "hạ xuống bậc, cấp, hạng hoặc vị trí thấp hơn",
+    "ex": "The company decided to demote him after the big mistake.",
+    "exHit": "demote",
+    "exVi": "Công ty quyết định giáng chức anh ta sau sai lầm lớn đó."
   },
   {
     "word": "depart",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to go away,leave",
     "vi": "rời đi",
-    "viDef": "đi khỏi, ra đi"
+    "viDef": "đi khỏi, ra đi",
+    "ex": "The train will depart from platform five at nine.",
+    "exHit": "depart",
+    "exVi": "Chuyến tàu sẽ khởi hành từ sân ga số năm lúc chín giờ."
   },
   {
     "word": "blog",
@@ -61,6 +82,9 @@
     "type": "",
     "def": "a journal written on-line and accessible to users of the internet",
     "vi": "blog",
-    "viDef": "nhật ký viết trên mạng cho người dùng internet đọc được"
+    "viDef": "nhật ký viết trên mạng cho người dùng internet đọc được",
+    "ex": "She writes a blog about her life in a new city.",
+    "exHit": "blog",
+    "exVi": "Cô ấy viết blog về cuộc sống của mình ở một thành phố mới."
   }
 ]

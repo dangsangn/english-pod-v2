@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "annoy or disturb someone",
     "vi": "làm phiền",
-    "viDef": "quấy rầy hoặc gây khó chịu cho ai"
+    "viDef": "quấy rầy hoặc gây khó chịu cho ai",
+    "ex": "Um, sorry to bother you um...",
+    "exHit": "bother",
+    "exVi": "Ừm, xin lỗi vì làm phiền bạn, ừm..."
   },
   {
     "word": "can I ask you a favor",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "ask someone to do a kind and helpful thing",
     "vi": "nhờ anh/chị việc này được không",
-    "viDef": "câu nhờ ai giúp một việc"
+    "viDef": "câu nhờ ai giúp một việc",
+    "ex": "Can I ask you a favor?",
+    "exHit": "Can I ask you a favor",
+    "exVi": "Mình nhờ bạn giúp một việc được không?"
   },
   {
     "word": "on board",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "to the company",
     "vi": "vào công ty",
-    "viDef": "gia nhập, về làm cho công ty"
+    "viDef": "gia nhập, về làm cho công ty",
+    "ex": "Hi Rachel, welcome on board.",
+    "exHit": "on board",
+    "exVi": "Chào Rachel, chào mừng bạn đến với công ty."
   },
   {
     "word": "can I bother you",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "polite way of asking if you can interrupt someone",
     "vi": "làm phiền anh/chị một chút",
-    "viDef": "cách nói lịch sự khi muốn ngắt việc của ai"
+    "viDef": "cách nói lịch sự khi muốn ngắt việc của ai",
+    "ex": "Excuse me, but can I bother you for a sec?",
+    "exHit": "can I bother you",
+    "exVi": "Xin lỗi, mình làm phiền bạn một chút được không?"
   },
   {
     "word": "instead",
@@ -37,7 +49,10 @@
     "type": "General Adverb",
     "def": "in the place of",
     "vi": "thay vì thế",
-    "viDef": "thay cho cái kia"
+    "viDef": "thay cho cái kia",
+    "ex": "Do you wanna try Sean instead?",
+    "exHit": "instead",
+    "exVi": "Bạn có muốn thử Sean thay vào đó không?"
   },
   {
     "word": "sorry to interrupt",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "phrase used to begin speaking to someone when they are busy doing or saying something",
     "vi": "xin lỗi vì ngắt lời",
-    "viDef": "câu mở lời khi ai đang bận nói hoặc bận làm"
+    "viDef": "câu mở lời khi ai đang bận nói hoặc bận làm",
+    "ex": "Sorry to interrupt you Sean, could you do me a quick favor?",
+    "exHit": "Sorry to interrupt",
+    "exVi": "Xin lỗi đã ngắt lời, Sean, bạn có thể giúp mình một việc nhỏ được không?"
   },
   {
     "word": "do me a quick favor",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "do a small, helpful thing that won't take a long time",
     "vi": "giúp tôi một việc nhỏ",
-    "viDef": "làm giúp việc nhỏ, không mất nhiều thời gian"
+    "viDef": "làm giúp việc nhỏ, không mất nhiều thời gian",
+    "ex": "Sorry to interrupt you Sean, could you do me a quick favor?",
+    "exHit": "do me a quick favor",
+    "exVi": "Xin lỗi đã ngắt lời, Sean, bạn có thể giúp mình một việc nhỏ được không?"
   },
   {
     "word": "help me out",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "help me",
     "vi": "giúp tôi với",
-    "viDef": "giúp đỡ tôi"
+    "viDef": "giúp đỡ tôi",
+    "ex": "Could you help me out with this report before lunch?",
+    "exHit": "help me out",
+    "exVi": "Bạn có thể giúp mình làm bản báo cáo này trước bữa trưa không?"
   },
   {
     "word": "give me a hand",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "help me with something",
     "vi": "phụ tôi một tay",
-    "viDef": "giúp tôi làm việc gì"
+    "viDef": "giúp tôi làm việc gì",
+    "ex": "Can you give me a hand with these heavy boxes?",
+    "exHit": "give me a hand",
+    "exVi": "Bạn giúp mình một tay với mấy cái hộp nặng này được không?"
   },
   {
     "word": "annoy",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "cause someone to feel slightly angry",
     "vi": "làm bực mình",
-    "viDef": "khiến ai hơi tức"
+    "viDef": "khiến ai hơi tức",
+    "ex": "Loud music at night really starts to annoy my neighbors.",
+    "exHit": "annoy",
+    "exVi": "Nhạc to vào ban đêm thật sự bắt đầu làm hàng xóm của tôi bực mình."
   },
   {
     "word": "bug",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "bother or annoy someone (informal)",
     "vi": "làm rầy",
-    "viDef": "quấy hoặc làm ai bực (thân mật)"
+    "viDef": "quấy hoặc làm ai bực (thân mật)",
+    "ex": "Sorry to bug you, but do you have a minute?",
+    "exHit": "bug",
+    "exVi": "Xin lỗi vì làm phiền bạn, nhưng bạn có rảnh một phút không?"
   },
   {
     "word": "disrupt",
@@ -93,6 +126,9 @@
     "type": "verb",
     "def": "stop someone from working, or doing something",
     "vi": "làm gián đoạn",
-    "viDef": "khiến ai không làm việc tiếp được"
+    "viDef": "khiến ai không làm việc tiếp được",
+    "ex": "Please don't disrupt him while he's finishing the report.",
+    "exHit": "disrupt",
+    "exVi": "Làm ơn đừng làm gián đoạn anh ấy khi anh ấy đang hoàn thành báo cáo."
   }
 ]

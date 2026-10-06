@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "how are you",
     "vi": "dạo này thế nào",
-    "viDef": "bạn khỏe không"
+    "viDef": "bạn khỏe không",
+    "ex": "How's it going?",
+    "exHit": "How's it going",
+    "exVi": "Dạo này bạn thế nào?"
   },
   {
     "word": "around here",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "close to here",
     "vi": "quanh đây",
-    "viDef": "gần chỗ này"
+    "viDef": "gần chỗ này",
+    "ex": "Do you live around here?",
+    "exHit": "around here",
+    "exVi": "Bạn có sống quanh đây không?"
   },
   {
     "word": "around the corner",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "on the next street",
     "vi": "ngay góc phố",
-    "viDef": "ở con phố kế bên"
+    "viDef": "ở con phố kế bên",
+    "ex": "Actually, my office is right around the corner.",
+    "exHit": "around the corner",
+    "exVi": "Thật ra văn phòng của tôi ở ngay góc phố."
   },
   {
     "word": "in bit of a hurry",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "moving quickly, having no time",
     "vi": "hơi vội",
-    "viDef": "đang gấp, không có thời gian"
+    "viDef": "đang gấp, không có thời gian",
+    "ex": "You know, I'm in a bit of a hurry, but here's my card.",
+    "exHit": "in a bit of a hurry",
+    "exVi": "Bạn biết đấy, tôi đang hơi vội, nhưng đây là danh thiếp của tôi."
   },
   {
     "word": "contact details",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "information required to contact someone, i.e. telephone number, email address",
     "vi": "thông tin liên hệ",
-    "viDef": "thông tin cần để liên lạc, ví dụ số điện thoại, địa chỉ email"
+    "viDef": "thông tin cần để liên lạc, ví dụ số điện thoại, địa chỉ email",
+    "ex": "Sure, you still have my contact details, right?",
+    "exHit": "contact details",
+    "exVi": "Chắc rồi, bạn vẫn còn thông tin liên lạc của tôi chứ?"
   },
   {
     "word": "slip my mind",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "been forgotten",
     "vi": "tôi quên mất",
-    "viDef": "bị quên"
+    "viDef": "bị quên",
+    "ex": "You know what, this is really embarrassing, but your name has just slipped my mind.",
+    "exHit": "slipped my mind",
+    "exVi": "Bạn biết không, thật ngại quá, nhưng tôi vừa quên mất tên bạn rồi."
   },
   {
     "word": "terrible with",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "bad at",
     "vi": "rất kém khoản",
-    "viDef": "dở về việc gì đó"
+    "viDef": "dở về việc gì đó",
+    "ex": "I'm terrible with names too.",
+    "exHit": "terrible with",
+    "exVi": "Tôi cũng rất kém khoản nhớ tên."
   },
   {
     "word": "around there",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "close to there",
     "vi": "quanh đó",
-    "viDef": "gần chỗ đó"
+    "viDef": "gần chỗ đó",
+    "ex": "There's a nice cafe around there, so let's meet at noon.",
+    "exHit": "around there",
+    "exVi": "Quanh đó có một quán cà phê đẹp, nên mình gặp nhau lúc trưa nhé."
   },
   {
     "word": "to recognize",
@@ -69,7 +93,10 @@
     "type": "principle verb, imperative",
     "def": "to know and remember someone or something you have seen before",
     "vi": "nhận ra",
-    "viDef": "biết và nhớ ra người hoặc vật đã từng gặp"
+    "viDef": "biết và nhớ ra người hoặc vật đã từng gặp",
+    "ex": "I didn't recognize him at first because he had shaved his beard.",
+    "exHit": "recognize",
+    "exVi": "Lúc đầu tôi không nhận ra anh ấy vì anh ấy đã cạo râu."
   },
   {
     "word": "acquaintance",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "someone you know, but who is not a close friend",
     "vi": "người quen",
-    "viDef": "người bạn biết nhưng không thân"
+    "viDef": "người bạn biết nhưng không thân",
+    "ex": "He's just an acquaintance from work, not a close friend.",
+    "exHit": "acquaintance",
+    "exVi": "Anh ấy chỉ là người quen ở chỗ làm, không phải bạn thân."
   },
   {
     "word": "in a rush",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "move quickly, not have much time",
     "vi": "đang vội",
-    "viDef": "làm nhanh, không có nhiều thời gian"
+    "viDef": "làm nhanh, không có nhiều thời gian",
+    "ex": "Sorry, I'm in a rush, so I can't stay and talk.",
+    "exHit": "in a rush",
+    "exVi": "Xin lỗi, tôi đang vội nên không thể ở lại nói chuyện."
   },
   {
     "word": "forgetful",
@@ -93,6 +126,9 @@
     "type": "Adjective",
     "def": "forgetting things easily",
     "vi": "hay quên",
-    "viDef": "dễ quên mọi thứ"
+    "viDef": "dễ quên mọi thứ",
+    "ex": "My grandfather is forgetful and often loses his keys.",
+    "exHit": "forgetful",
+    "exVi": "Ông tôi hay quên và thường làm mất chìa khóa."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "stimulation or arousal of the mind, feelings",
     "vi": "nguồn cảm hứng",
-    "viDef": "sự khơi gợi hoặc thức tỉnh trí óc, cảm xúc"
+    "viDef": "sự khơi gợi hoặc thức tỉnh trí óc, cảm xúc",
+    "ex": "That story gave me a lot of inspiration for my own project.",
+    "exHit": "inspiration",
+    "exVi": "Câu chuyện đó đã cho tôi rất nhiều cảm hứng cho dự án của mình."
   },
   {
     "word": "open it up",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "begin;start",
     "vi": "mở ra cho mọi người",
-    "viDef": "bắt đầu phần đó"
+    "viDef": "bắt đầu phần đó",
+    "ex": "Now, I'm sure many of you will be keen to ask some questions, so I'd like to open it up a Q and A session.",
+    "exHit": "open it up",
+    "exVi": "Bây giờ, tôi chắc nhiều bạn đang muốn đặt câu hỏi, nên tôi xin mở phần hỏi đáp."
   },
   {
     "word": "in regards",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "about",
     "vi": "về việc",
-    "viDef": "liên quan tới"
+    "viDef": "liên quan tới",
+    "ex": "I would just like to go back to the comment Mr. Ford made in regards to our competitors, particularly Orange.",
+    "exHit": "in regards",
+    "exVi": "Tôi muốn quay lại nhận xét của ông Ford về các đối thủ của chúng ta, đặc biệt là Orange."
   },
   {
     "word": "hit the nail on the head",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to say something that is exactly right",
     "vi": "nói trúng phóc",
-    "viDef": "nói ra điều đúng y"
+    "viDef": "nói ra điều đúng y",
+    "ex": "I think you have hit the nail on the head actually.",
+    "exHit": "hit the nail on the head",
+    "exVi": "Thật ra tôi nghĩ bạn nói trúng phóc rồi."
   },
   {
     "word": "elaborate",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to explain something in a more detailed way",
     "vi": "nói rõ thêm",
-    "viDef": "giải thích điều gì chi tiết hơn"
+    "viDef": "giải thích điều gì chi tiết hơn",
+    "ex": "Could you elaborate on the actual technical details of the x420 a little more?",
+    "exHit": "elaborate",
+    "exVi": "Anh có thể nói rõ hơn về các chi tiết kỹ thuật của x420 không?"
   },
   {
     "word": "pressed for time",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "don't have enough time",
     "vi": "bí thời gian",
-    "viDef": "không có đủ thời gian"
+    "viDef": "không có đủ thời gian",
+    "ex": "I'd love to but I think we are a little pressed for time right now.",
+    "exHit": "pressed for time",
+    "exVi": "Tôi rất muốn, nhưng giờ chúng ta hơi gấp thời gian."
   },
   {
     "word": "interpret",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to construe or understand in a particular way",
     "vi": "hiểu theo, diễn giải",
-    "viDef": "lý giải hoặc hiểu theo một cách nhất định"
+    "viDef": "lý giải hoặc hiểu theo một cách nhất định",
+    "ex": "How do you interpret this graph on page five?",
+    "exHit": "interpret",
+    "exVi": "Bạn diễn giải biểu đồ này ở trang năm như thế nào?"
   },
   {
     "word": "precise",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "definite or exact in statement",
     "vi": "chính xác",
-    "viDef": "rõ ràng hoặc chuẩn xác trong lời nói"
+    "viDef": "rõ ràng hoặc chuẩn xác trong lời nói",
+    "ex": "Please be precise about the dates when you write the report.",
+    "exHit": "precise",
+    "exVi": "Hãy ghi chính xác các ngày tháng khi bạn viết báo cáo."
   },
   {
     "word": "jargon",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "any talk or writing that one does not understand",
     "vi": "thuật ngữ khó hiểu",
-    "viDef": "lời nói hoặc bài viết mà người ta chẳng hiểu nổi"
+    "viDef": "lời nói hoặc bài viết mà người ta chẳng hiểu nổi",
+    "ex": "I can't follow all this technical jargon in the report.",
+    "exHit": "jargon",
+    "exVi": "Tôi không theo kịp hết những thuật ngữ chuyên ngành này trong báo cáo."
   },
   {
     "word": "in a rush",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "requiring speed or urgency",
     "vi": "đang gấp",
-    "viDef": "cần nhanh hoặc cấp bách"
+    "viDef": "cần nhanh hoặc cấp bách",
+    "ex": "Sorry, I'm in a rush and can't talk right now.",
+    "exHit": "in a rush",
+    "exVi": "Xin lỗi, tôi đang vội nên bây giờ không nói chuyện được."
   },
   {
     "word": "put forth",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "to give an idea or question e.g I put forth this question to challenge your idea's",
     "vi": "nêu ra",
-    "viDef": "đưa ra một ý hoặc câu hỏi"
+    "viDef": "đưa ra một ý hoặc câu hỏi",
+    "ex": "I'd like to put forth a question about the budget.",
+    "exHit": "put forth",
+    "exVi": "Tôi muốn đưa ra một câu hỏi về ngân sách."
   }
 ]

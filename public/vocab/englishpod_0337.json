@@ -5,7 +5,10 @@
     "type": "",
     "def": "to move,movement",
     "vi": "nhúc nhích",
-    "viDef": "cử động, sự chuyển động"
+    "viDef": "cử động, sự chuyển động",
+    "ex": "Not a creature was stirring, not even a mouse;",
+    "exHit": "stirring",
+    "exVi": "Không một sinh vật nào cựa mình, ngay cả một con chuột;"
   },
   {
     "word": "hung",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to fasten or attach (a thing) so that it is supported only from above or at a point near its own top",
     "vi": "treo lên",
-    "viDef": "buộc hoặc gắn thứ gì sao cho nó chỉ được đỡ từ phía trên hoặc gần đỉnh"
+    "viDef": "buộc hoặc gắn thứ gì sao cho nó chỉ được đỡ từ phía trên hoặc gần đỉnh",
+    "ex": "The stockings were hung by the chimney with care,",
+    "exHit": "hung",
+    "exVi": "Những chiếc tất được treo bên ống khói thật cẩn thận,"
   },
   {
     "word": "chimney",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a vertical structure that allows the passage of smoke",
     "vi": "ống khói",
-    "viDef": "kết cấu dựng đứng cho khói thoát ra"
+    "viDef": "kết cấu dựng đứng cho khói thoát ra",
+    "ex": "And giving a nod, up the chimney he rose;",
+    "exHit": "chimney",
+    "exVi": "Và gật đầu một cái, ông bay lên ống khói;"
   },
   {
     "word": "nestle",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to lie close and snug",
     "vi": "cuộn mình",
-    "viDef": "nằm nép sát và ấm áp"
+    "viDef": "nằm nép sát và ấm áp",
+    "ex": "The children were nestled all snug in their beds,",
+    "exHit": "nestled",
+    "exVi": "Lũ trẻ nằm gọn ấm áp trên giường,"
   },
   {
     "word": "snug",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "warmly comfortable or cozy",
     "vi": "ấm êm",
-    "viDef": "thoải mái ấm áp, dễ chịu"
+    "viDef": "thoải mái ấm áp, dễ chịu",
+    "ex": "The children were nestled all snug in their beds,",
+    "exHit": "snug",
+    "exVi": "Lũ trẻ nằm gọn ấm áp trên giường,"
   },
   {
     "word": "nap",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to sleep for a short time",
     "vi": "chợp mắt",
-    "viDef": "ngủ một lát"
+    "viDef": "ngủ một lát",
+    "ex": "Had just settled down for a long winter's nap,",
+    "exHit": "nap",
+    "exVi": "Vừa mới nằm xuống chợp mắt một giấc dài mùa đông,"
   },
   {
     "word": "clatter",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "noise",
     "vi": "tiếng loảng xoảng",
-    "viDef": "tiếng động"
+    "viDef": "tiếng động",
+    "ex": "When out on the lawn there arose such a clatter,",
+    "exHit": "clatter",
+    "exVi": "Thì ngoài bãi cỏ vang lên một tiếng ồn ào,"
   },
   {
     "word": "tore",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "rip",
     "vi": "giật phăng",
-    "viDef": "xé toạc"
+    "viDef": "xé toạc",
+    "ex": "Tore open the shutters and threw up the sash.",
+    "exHit": "Tore",
+    "exVi": "Tôi giật tung cửa chớp và đẩy cửa sổ lên."
   },
   {
     "word": "lustre",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "radiance of beauty, excellence",
     "vi": "ánh rực rỡ",
-    "viDef": "vẻ sáng đẹp, xuất chúng"
+    "viDef": "vẻ sáng đẹp, xuất chúng",
+    "ex": "Gave the lustre of mid-day to objects below,",
+    "exHit": "lustre",
+    "exVi": "Rọi ánh sáng như giữa trưa xuống mọi vật bên dưới,"
   },
   {
     "word": "sleigh",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "large",
     "vi": "xe trượt tuyết",
-    "viDef": "lớn"
+    "viDef": "lớn",
+    "ex": "But a miniature sleigh, and eight tiny reindeer,",
+    "exHit": "sleigh",
+    "exVi": "Mà là một cỗ xe trượt tuyết nhỏ xíu, cùng tám chú tuần lộc bé tí,"
   },
   {
     "word": "reindeer",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "large deer",
     "vi": "tuần lộc",
-    "viDef": "con hươu lớn"
+    "viDef": "con hươu lớn",
+    "ex": "But a miniature sleigh, and eight tiny reindeer,",
+    "exHit": "reindeer",
+    "exVi": "Mà là một cỗ xe trượt tuyết nhỏ xíu, cùng tám chú tuần lộc bé tí,"
   },
   {
     "word": "rapid",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "with high speed",
     "vi": "nhanh vun vút",
-    "viDef": "với tốc độ cao"
+    "viDef": "với tốc độ cao",
+    "ex": "More rapid than eagles his coursers they came,",
+    "exHit": "rapid",
+    "exVi": "Nhanh hơn đại bàng, những con tuấn mã của ông lao tới,"
   },
   {
     "word": "dash",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "to move with violence; rush",
     "vi": "lao vút",
-    "viDef": "di chuyển mạnh, phóng đi"
+    "viDef": "di chuyển mạnh, phóng đi",
+    "ex": "dash away!",
+    "exHit": "dash",
+    "exVi": "Lao đi thôi!"
   },
   {
     "word": "hurricane",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "very big rain and wind storm",
     "vi": "bão lớn",
-    "viDef": "trận mưa gió rất mạnh"
+    "viDef": "trận mưa gió rất mạnh",
+    "ex": "As dry leaves that before the wild hurricane fly,",
+    "exHit": "hurricane",
+    "exVi": "Như lá khô bay tứ tán trước cơn bão dữ dội,"
   },
   {
     "word": "obstacle",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "something that obstructs or hinders progress.",
     "vi": "chướng ngại",
-    "viDef": "thứ cản trở hoặc làm chậm bước tiến"
+    "viDef": "thứ cản trở hoặc làm chậm bước tiến",
+    "ex": "When they meet with an obstacle, mount to the sky,",
+    "exHit": "obstacle",
+    "exVi": "Khi gặp chướng ngại vật, chúng bay lên trời,"
   },
   {
     "word": "courser",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "a thing suitable for running or chasing",
     "vi": "tuấn mã",
-    "viDef": "con vật hợp để chạy hoặc rượt đuổi"
+    "viDef": "con vật hợp để chạy hoặc rượt đuổi",
+    "ex": "More rapid than eagles his coursers they came,",
+    "exHit": "coursers",
+    "exVi": "Nhanh hơn đại bàng, những con tuấn mã của ông lao tới,"
   },
   {
     "word": "prance",
@@ -133,7 +181,10 @@
     "type": "",
     "def": "to dance or move in a lively or spirited manner",
     "vi": "tung vó",
-    "viDef": "nhảy hoặc di chuyển hoạt bát, hăng hái"
+    "viDef": "nhảy hoặc di chuyển hoạt bát, hăng hái",
+    "ex": "The prancing and pawing of each little hoof.",
+    "exHit": "prancing",
+    "exVi": "Tiếng nhảy nhót và giậm chân của từng cái móng nhỏ."
   },
   {
     "word": "paw",
@@ -141,7 +192,10 @@
     "type": "",
     "def": "to strike or scrape with the paws or feet",
     "vi": "cào chân",
-    "viDef": "đập hoặc cào bằng chân"
+    "viDef": "đập hoặc cào bằng chân",
+    "ex": "The prancing and pawing of each little hoof.",
+    "exHit": "pawing",
+    "exVi": "Tiếng nhảy nhót và giậm chân của từng cái móng nhỏ."
   },
   {
     "word": "hoof",
@@ -149,7 +203,10 @@
     "type": "",
     "def": "an encasing protecting the foot of an animal such as horse",
     "vi": "móng guốc",
-    "viDef": "lớp bọc bảo vệ bàn chân của loài vật như ngựa"
+    "viDef": "lớp bọc bảo vệ bàn chân của loài vật như ngựa",
+    "ex": "The prancing and pawing of each little hoof.",
+    "exHit": "hoof",
+    "exVi": "Tiếng nhảy nhót và giậm chân của từng cái móng nhỏ."
   },
   {
     "word": "St Nicholas",
@@ -157,7 +214,10 @@
     "type": "",
     "def": "another name for Santa clause",
     "vi": "thánh Nicholas",
-    "viDef": "một tên gọi khác của ông già Noel"
+    "viDef": "một tên gọi khác của ông già Noel",
+    "ex": "Some people call Santa Claus St Nicholas.",
+    "exHit": "St Nicholas",
+    "exVi": "Một số người gọi ông già Noel là Thánh Nicholas."
   },
   {
     "word": "tarnish",
@@ -165,7 +225,10 @@
     "type": "",
     "def": "to ruin, make dirty or destroy",
     "vi": "làm hoen ố",
-    "viDef": "làm hỏng, làm bẩn hoặc phá hoại"
+    "viDef": "làm hỏng, làm bẩn hoặc phá hoại",
+    "ex": "And his clothes were all tarnished with ashes and soot;",
+    "exHit": "tarnished",
+    "exVi": "Quần áo ông lấm lem tro và bồ hóng;"
   },
   {
     "word": "soot",
@@ -173,7 +236,10 @@
     "type": "",
     "def": "a black dirty substance",
     "vi": "bồ hóng",
-    "viDef": "chất bẩn màu đen"
+    "viDef": "chất bẩn màu đen",
+    "ex": "And his clothes were all tarnished with ashes and soot;",
+    "exHit": "soot",
+    "exVi": "Quần áo ông lấm lem tro và bồ hóng;"
   },
   {
     "word": "bundle",
@@ -181,7 +247,10 @@
     "type": "",
     "def": "several objects or a quantity of material gathered or bound together",
     "vi": "bọc, bó",
-    "viDef": "nhiều vật hoặc một lượng vật liệu gom hay buộc lại với nhau"
+    "viDef": "nhiều vật hoặc một lượng vật liệu gom hay buộc lại với nhau",
+    "ex": "A bundle of toys he had flung on his back,",
+    "exHit": "bundle",
+    "exVi": "Một bó đồ chơi được ông quẳng lên lưng,"
   },
   {
     "word": "dimple",
@@ -189,7 +258,10 @@
     "type": "",
     "def": "a small, natural hollow area or crease seen when smiling",
     "vi": "má lúm",
-    "viDef": "chỗ lõm nhỏ tự nhiên hiện ra khi cười"
+    "viDef": "chỗ lõm nhỏ tự nhiên hiện ra khi cười",
+    "ex": "his dimples how merry!",
+    "exHit": "dimples",
+    "exVi": "Má lúm đồng tiền của ông mới vui làm sao!"
   },
   {
     "word": "stump",
@@ -197,7 +269,10 @@
     "type": "",
     "def": "the lower end of a tree or plant left after the main part falls or is cut off",
     "vi": "gốc cây",
-    "viDef": "phần dưới của cây còn lại sau khi thân đổ hoặc bị chặt"
+    "viDef": "phần dưới của cây còn lại sau khi thân đổ hoặc bị chặt",
+    "ex": "The stump of a pipe he held tight in his teeth,",
+    "exHit": "stump",
+    "exVi": "Cái tẩu ngắn được ông ngậm chặt giữa hai hàm răng,"
   },
   {
     "word": "pipe",
@@ -205,7 +280,10 @@
     "type": "",
     "def": "smoking utensil",
     "vi": "tẩu thuốc",
-    "viDef": "dụng cụ để hút thuốc"
+    "viDef": "dụng cụ để hút thuốc",
+    "ex": "The stump of a pipe he held tight in his teeth,",
+    "exHit": "pipe",
+    "exVi": "Cái tẩu ngắn được ông ngậm chặt giữa hai hàm răng,"
   },
   {
     "word": "wreath",
@@ -213,7 +291,10 @@
     "type": "",
     "def": "a circular band of flowers, foliage, or any ornamental work, for adorning the head or for any decorative purpose",
     "vi": "vòng hoa",
-    "viDef": "dải hoa, lá hoặc vật trang trí kết thành vòng để đội đầu hoặc trang hoàng"
+    "viDef": "dải hoa, lá hoặc vật trang trí kết thành vòng để đội đầu hoặc trang hoàng",
+    "ex": "And the smoke it encircled his head like a wreath;",
+    "exHit": "wreath",
+    "exVi": "Và khói quấn quanh đầu ông như một vòng hoa;"
   },
   {
     "word": "plump",
@@ -221,7 +302,10 @@
     "type": "",
     "def": "well filled out or rounded in form",
     "vi": "tròn trịa",
-    "viDef": "đầy đặn, có dáng tròn"
+    "viDef": "đầy đặn, có dáng tròn",
+    "ex": "He was chubby and plump, a right jolly old elf,",
+    "exHit": "plump",
+    "exVi": "Ông mũm mĩm và tròn trịa, một lão tiên vui tính,"
   },
   {
     "word": "elf",
@@ -229,7 +313,10 @@
     "type": "",
     "def": "a magical being",
     "vi": "yêu tinh nhỏ",
-    "viDef": "một sinh vật có phép thuật"
+    "viDef": "một sinh vật có phép thuật",
+    "ex": "He was chubby and plump, a right jolly old elf,",
+    "exHit": "elf",
+    "exVi": "Ông mũm mĩm và tròn trịa, một lão tiên vui tính,"
   },
   {
     "word": "thistle",
@@ -237,7 +324,10 @@
     "type": "",
     "def": "a prickly plant",
     "vi": "cây kế gai",
-    "viDef": "loài cây có gai"
+    "viDef": "loài cây có gai",
+    "ex": "And away they all flew like the down of a thistle.",
+    "exHit": "thistle",
+    "exVi": "Rồi tất cả bay đi như lông tơ của cây kế."
   },
   {
     "word": "eggnog",
@@ -245,7 +335,10 @@
     "type": "",
     "def": "a drink made of eggs, milk or cream, sugar, and, usually, rum or wine.",
     "vi": "rượu trứng",
-    "viDef": "thức uống làm từ trứng, sữa hoặc kem, đường và thường có rum hay rượu vang"
+    "viDef": "thức uống làm từ trứng, sữa hoặc kem, đường và thường có rum hay rượu vang",
+    "ex": "Would you like some eggnog with your cookies?",
+    "exHit": "eggnog",
+    "exVi": "Bạn có muốn uống chút eggnog với bánh quy không?"
   },
   {
     "word": "white christmas",
@@ -253,7 +346,10 @@
     "type": "",
     "def": "having Christmas with snow",
     "vi": "Giáng sinh tuyết trắng",
-    "viDef": "đón Noel có tuyết rơi"
+    "viDef": "đón Noel có tuyết rơi",
+    "ex": "I'm dreaming of a white christmas this year.",
+    "exHit": "white christmas",
+    "exVi": "Năm nay tôi mơ về một mùa Giáng sinh trắng tuyết."
   },
   {
     "word": "snowman",
@@ -261,7 +357,10 @@
     "type": "",
     "def": "a figure of a person made of packed snow.",
     "vi": "người tuyết",
-    "viDef": "hình người nặn bằng tuyết nén"
+    "viDef": "hình người nặn bằng tuyết nén",
+    "ex": "Let's build a snowman in the front yard.",
+    "exHit": "snowman",
+    "exVi": "Chúng ta làm người tuyết ở sân trước đi."
   },
   {
     "word": "carol",
@@ -269,6 +368,9 @@
     "type": "",
     "def": "a Christmas song or hymn.",
     "vi": "thánh ca Giáng sinh",
-    "viDef": "bài hát hoặc thánh thi mùa Noel"
+    "viDef": "bài hát hoặc thánh thi mùa Noel",
+    "ex": "We sing a Christmas carol together every year.",
+    "exHit": "carol",
+    "exVi": "Năm nào chúng tôi cũng cùng nhau hát một bài hát mừng Giáng sinh."
   }
 ]

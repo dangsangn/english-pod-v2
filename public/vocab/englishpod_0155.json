@@ -5,7 +5,10 @@
     "type": "",
     "def": "You won't believe",
     "vi": "đoán không ra đâu",
-    "viDef": "anh/chị sẽ không tin nổi"
+    "viDef": "anh/chị sẽ không tin nổi",
+    "ex": "I bet you will never guess who I ran into at the supermarket today.",
+    "exHit": "you will never guess",
+    "exVi": "Chắc chắn bạn không đoán nổi hôm nay tôi gặp ai ở siêu thị đâu."
   },
   {
     "word": "best man",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the principal groomsman at a wedding",
     "vi": "bạn thân của chú rể",
-    "viDef": "người phù rể chính trong đám cưới"
+    "viDef": "người phù rể chính trong đám cưới",
+    "ex": "Anyways I just talked to Alex's best man and he is organizing the bachelor party It's gonna be gonna be so much fun!",
+    "exHit": "best man",
+    "exVi": "Dù sao thì tôi vừa nói chuyện với phù rể của Alex và anh ấy đang tổ chức tiệc độc thân, sẽ vui lắm đây!"
   },
   {
     "word": "You will never gues",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "You don't know what news I have",
     "vi": "không đoán nổi đâu",
-    "viDef": "anh/chị chưa biết tôi có tin gì"
+    "viDef": "anh/chị chưa biết tôi có tin gì",
+    "ex": "You will never guess what news I just got about our trip!",
+    "exHit": "You will never guess",
+    "exVi": "Bạn sẽ không đoán nổi tôi vừa nhận được tin gì về chuyến đi của chúng ta đâu!"
   },
   {
     "word": "bachelor party",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a party held for a man that is getting married",
     "vi": "tiệc chia tay đời độc thân",
-    "viDef": "buổi tiệc dành cho người nam sắp cưới"
+    "viDef": "buổi tiệc dành cho người nam sắp cưới",
+    "ex": "Anyways I just talked to Alex's best man and he is organizing the bachelor party It's gonna be gonna be so much fun!",
+    "exHit": "bachelor party",
+    "exVi": "Dù sao thì tôi vừa nói chuyện với phù rể của Alex và anh ấy đang tổ chức tiệc độc thân, sẽ vui lắm đây!"
   },
   {
     "word": "groomsmen",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a male friend who attends a bridegroom at his wedd",
     "vi": "phù rể",
-    "viDef": "người bạn nam đi cùng chú rể trong lễ cưới"
+    "viDef": "người bạn nam đi cùng chú rể trong lễ cưới",
+    "ex": "All the groomsmen are thinking up all the wacky and crazy things we are going to do that night.",
+    "exHit": "groomsmen",
+    "exVi": "Tất cả các phù rể đang nghĩ ra đủ trò điên rồ và kỳ quặc để làm tối hôm đó."
   },
   {
     "word": "wacky",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "absurdly or amusingly eccentric or irrational",
     "vi": "tưng tửng",
-    "viDef": "kỳ khôi đến mức vui, không theo lẽ thường"
+    "viDef": "kỳ khôi đến mức vui, không theo lẽ thường",
+    "ex": "All the groomsmen are thinking up all the wacky and crazy things we are going to do that night.",
+    "exHit": "wacky",
+    "exVi": "Tất cả các phù rể đang nghĩ ra đủ trò điên rồ và kỳ quặc để làm tối hôm đó."
   },
   {
     "word": "gag gift",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "funny or adult type toys or gifts",
     "vi": "món quà chọc cười",
-    "viDef": "quà hoặc đồ chơi hài, có khi kiểu người lớn"
+    "viDef": "quà hoặc đồ chơi hài, có khi kiểu người lớn",
+    "ex": "We are gonna play drinking games, get him some gag gifts and just have a good time.",
+    "exHit": "gag gifts",
+    "exVi": "Chúng tôi sẽ chơi trò uống rượu, tặng anh ấy vài món quà trêu đùa và chỉ để vui vẻ thôi."
   },
   {
     "word": "over the top",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "extreme, excessive",
     "vi": "quá lố",
-    "viDef": "thái quá, vượt mức"
+    "viDef": "thái quá, vượt mức",
+    "ex": "Nothing too over the top.",
+    "exHit": "over the top",
+    "exVi": "Không có gì quá lố đâu."
   },
   {
     "word": "bachelorette",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "an unmarried woman",
     "vi": "cô gái độc thân",
-    "viDef": "người nữ chưa lập gia đình"
+    "viDef": "người nữ chưa lập gia đình",
+    "ex": "If one of your friends was getting married I wouldn't mind you going to her bachelorette party!",
+    "exHit": "bachelorette",
+    "exVi": "Nếu một người bạn của em sắp cưới thì anh cũng không phiền chuyện em đi dự tiệc độc thân của cô ấy!"
   },
   {
     "word": "going away party",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a party held for someone who is leaving home or the country",
     "vi": "tiệc tiễn",
-    "viDef": "buổi tiệc cho người sắp rời quê hoặc rời nước"
+    "viDef": "buổi tiệc cho người sắp rời quê hoặc rời nước",
+    "ex": "We are throwing a going away party for Anna before she moves to Canada.",
+    "exHit": "going away party",
+    "exVi": "Chúng tôi đang tổ chức tiệc chia tay Anna trước khi cô ấy chuyển sang Canada."
   },
   {
     "word": "drinking binge",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "drinking alcoholic beverages with the primary intention of becoming intoxicated",
     "vi": "chè chén cho say",
-    "viDef": "uống rượu với mục đích chính là say"
+    "viDef": "uống rượu với mục đích chính là say",
+    "ex": "After the exams, a few students went on a drinking binge and felt sick the next day.",
+    "exHit": "drinking binge",
+    "exVi": "Sau kỳ thi, vài sinh viên nhậu say bí tỉ và thấy khó chịu vào hôm sau."
   },
   {
     "word": "passed out",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "to become unconscious",
     "vi": "ngất đi",
-    "viDef": "mất ý thức"
+    "viDef": "mất ý thức",
+    "ex": "He drank so much at the party that he passed out on the sofa.",
+    "exHit": "passed out",
+    "exVi": "Anh ấy uống nhiều đến mức say bất tỉnh trên ghế sofa ở bữa tiệc."
   },
   {
     "word": "pull an all nighter",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "to do something all night, esp. party",
     "vi": "thức trắng đêm",
-    "viDef": "làm gì suốt đêm, nhất là tiệc tùng"
+    "viDef": "làm gì suốt đêm, nhất là tiệc tùng",
+    "ex": "We had to pull an all nighter to finish the party decorations.",
+    "exHit": "pull an all nighter",
+    "exVi": "Chúng tôi phải thức trắng đêm để hoàn thành việc trang trí cho bữa tiệc."
   },
   {
     "word": "stag party",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "a bachelor party",
     "vi": "tiệc độc thân của chú rể",
-    "viDef": "buổi tiệc trước cưới của người nam"
+    "viDef": "buổi tiệc trước cưới của người nam",
+    "ex": "His friends are planning a wild stag party in Las Vegas before his wedding.",
+    "exHit": "stag party",
+    "exVi": "Bạn bè anh ấy đang lên kế hoạch tổ chức một bữa tiệc độc thân hoang dã ở Las Vegas trước đám cưới."
   }
 ]

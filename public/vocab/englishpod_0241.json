@@ -5,7 +5,10 @@
     "type": "",
     "def": "bachelor of arts",
     "vi": "bằng cử nhân",
-    "viDef": "bachelor of arts"
+    "viDef": "bachelor of arts",
+    "ex": "I completed my BA in 2004.",
+    "exHit": "BA",
+    "exVi": "Tôi tốt nghiệp cử nhân năm 2004."
   },
   {
     "word": "major",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the main subject studied in a college",
     "vi": "chuyên ngành",
-    "viDef": "môn học chính ở đại học"
+    "viDef": "môn học chính ở đại học",
+    "ex": "My major was English, and my minor was business studies.",
+    "exHit": "major",
+    "exVi": "Chuyên ngành chính của tôi là tiếng Anh, còn chuyên ngành phụ là kinh doanh."
   },
   {
     "word": "minor",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a second subject studied in a college",
     "vi": "ngành phụ",
-    "viDef": "môn học thứ hai ở đại học"
+    "viDef": "môn học thứ hai ở đại học",
+    "ex": "My major was English, and my minor was business studies.",
+    "exHit": "minor",
+    "exVi": "Chuyên ngành chính của tôi là tiếng Anh, còn chuyên ngành phụ là kinh doanh."
   },
   {
     "word": "distinction",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "excellence",
     "vi": "loại xuất sắc",
-    "viDef": "sự vượt trội"
+    "viDef": "sự vượt trội",
+    "ex": "Yes, I'm pleased to see that you also got a distinction.",
+    "exHit": "distinction",
+    "exVi": "Vâng, tôi rất vui khi thấy bạn cũng đạt loại xuất sắc."
   },
   {
     "word": "bookworm",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a person who likes reading and studying",
     "vi": "con mọt sách",
-    "viDef": "người thích đọc và học"
+    "viDef": "người thích đọc và học",
+    "ex": "My friends say I'm a bit of a bookworm, but my father always pushed us to succeed academically.",
+    "exHit": "bookworm",
+    "exVi": "Bạn bè tôi bảo tôi hơi mọt sách, nhưng bố tôi luôn thúc giục chúng tôi phải thành công trong học tập."
   },
   {
     "word": "pay off",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to effect positively",
     "vi": "gặt kết quả",
-    "viDef": "mang lại tác dụng tốt"
+    "viDef": "mang lại tác dụng tốt",
+    "ex": "Studying hard in college really paid off when I got this job.",
+    "exHit": "paid off",
+    "exVi": "Việc học chăm chỉ ở đại học thực sự đã được đền đáp khi tôi nhận được công việc này."
   },
   {
     "word": "extra-curricular",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "extra activities",
     "vi": "ngoại khóa",
-    "viDef": "các hoạt động thêm ngoài giờ học"
+    "viDef": "các hoạt động thêm ngoài giờ học",
+    "ex": "I joined a few extra-curricular clubs, like drama and debate.",
+    "exHit": "extra-curricular",
+    "exVi": "Tôi đã tham gia vài câu lạc bộ ngoại khóa, như kịch và tranh biện."
   },
   {
     "word": "keen on",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "willing or eager to do something",
     "vi": "hăng hái với",
-    "viDef": "sẵn lòng hoặc háo hức làm việc gì"
+    "viDef": "sẵn lòng hoặc háo hức làm việc gì",
+    "ex": "Well I've always been keen on on writing, so I became the editor for the University student magazine, which I really loved.",
+    "exHit": "keen on",
+    "exVi": "À, tôi luôn rất thích viết lách, nên tôi đã làm biên tập viên cho tạp chí sinh viên của trường đại học, và tôi thực sự yêu công việc đó."
   },
   {
     "word": "volunteer",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "want to do something without being forced or pay",
     "vi": "tình nguyện",
-    "viDef": "muốn làm việc gì mà không bị buộc hay được trả tiền"
+    "viDef": "muốn làm việc gì mà không bị buộc hay được trả tiền",
+    "ex": "Also I volunteered for a group called Shelter, to help the homeless in York.",
+    "exHit": "volunteered",
+    "exVi": "Ngoài ra, tôi còn tình nguyện tham gia một nhóm tên là Shelter để giúp đỡ người vô gia cư ở York."
   },
   {
     "word": "involve",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "contain",
     "vi": "bao gồm",
-    "viDef": "chứa trong đó"
+    "viDef": "chứa trong đó",
+    "ex": "What did that involve?",
+    "exHit": "involve",
+    "exVi": "Công việc đó gồm những gì?"
   },
   {
     "word": "fulfilling",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "full of happiness and satisfaction",
     "vi": "thấy đầy ý nghĩa",
-    "viDef": "tràn hạnh phúc và toại nguyện"
+    "viDef": "tràn hạnh phúc và toại nguyện",
+    "ex": "I found it really fulfilling to be part of that group.",
+    "exHit": "fulfilling",
+    "exVi": "Tôi thấy việc được là một phần của nhóm đó thực sự rất ý nghĩa và viên mãn."
   },
   {
     "word": "push sb.",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "to encourage or persuade (someone) to do something",
     "vi": "thúc ai",
-    "viDef": "động viên hoặc thuyết phục ai làm điều gì"
+    "viDef": "động viên hoặc thuyết phục ai làm điều gì",
+    "ex": "My parents always pushed me to study harder.",
+    "exHit": "pushed me",
+    "exVi": "Bố mẹ tôi luôn thúc giục tôi học chăm chỉ hơn."
   },
   {
     "word": "validictorian",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a distinction given to the top graduate",
     "vi": "thủ khoa đọc lời từ biệt",
-    "viDef": "danh hiệu dành cho người tốt nghiệp đứng đầu"
+    "viDef": "danh hiệu dành cho người tốt nghiệp đứng đầu",
+    "ex": "She was the validictorian of her class and gave the graduation speech.",
+    "exHit": "validictorian",
+    "exVi": "Cô ấy là thủ khoa của lớp và đã phát biểu trong lễ tốt nghiệp."
   },
   {
     "word": "admiration",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "to have respect for a person",
     "vi": "sự nể phục",
-    "viDef": "lòng kính trọng dành cho một người"
+    "viDef": "lòng kính trọng dành cho một người",
+    "ex": "I have great admiration for teachers who work so hard.",
+    "exHit": "admiration",
+    "exVi": "Tôi rất ngưỡng mộ những giáo viên làm việc chăm chỉ như vậy."
   },
   {
     "word": "over achiever",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "a person who strives to be the best",
     "vi": "người luôn vươn quá mức",
-    "viDef": "người nỗ lực để giỏi nhất"
+    "viDef": "người nỗ lực để giỏi nhất",
+    "ex": "My brother is such an over achiever, he always wants top marks.",
+    "exHit": "over achiever",
+    "exVi": "Anh trai tôi đúng là người học giỏi vượt trội, lúc nào cũng muốn điểm cao nhất."
   },
   {
     "word": "honors",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "a distinction given when graduating with high marks",
     "vi": "bằng loại ưu",
-    "viDef": "danh hiệu khi tốt nghiệp với điểm cao"
+    "viDef": "danh hiệu khi tốt nghiệp với điểm cao",
+    "ex": "He graduated with honors from a famous university.",
+    "exHit": "honors",
+    "exVi": "Anh ấy tốt nghiệp loại ưu tại một trường đại học nổi tiếng."
   },
   {
     "word": "class ring",
@@ -133,6 +181,9 @@
     "type": "",
     "def": "a ring signifying the school and year graduated",
     "vi": "nhẫn khóa học",
-    "viDef": "chiếc nhẫn ghi tên trường và năm tốt nghiệp"
+    "viDef": "chiếc nhẫn ghi tên trường và năm tốt nghiệp",
+    "ex": "I still wear my class ring from graduation day.",
+    "exHit": "class ring",
+    "exVi": "Tôi vẫn đeo chiếc nhẫn kỷ niệm của trường từ ngày tốt nghiệp."
   }
 ]

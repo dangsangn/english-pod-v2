@@ -5,7 +5,10 @@
     "type": "",
     "def": "something is usual or expected",
     "vi": "chuyện thường tình",
-    "viDef": "điều vẫn thường thấy hoặc được trông đợi"
+    "viDef": "điều vẫn thường thấy hoặc được trông đợi",
+    "ex": "Nice to see you Well, on top the norm, you know, wife and kids and work, I've actually gotten into doing some trading.",
+    "exHit": "norm",
+    "exVi": "Rất vui được gặp bạn. À, ngoài những chuyện thường lệ như vợ con và công việc, thực ra tôi đã bắt đầu giao dịch đầu tư."
   },
   {
     "word": "Currency",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the money that a country uses",
     "vi": "đồng tiền",
-    "viDef": "loại tiền một nước dùng"
+    "viDef": "loại tiền một nước dùng",
+    "ex": "Currencies.",
+    "exHit": "Currencies",
+    "exVi": "Các loại tiền tệ."
   },
   {
     "word": "margin deposit",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "he sum of money required to reinstate",
     "vi": "tiền ký quỹ",
-    "viDef": "khoản tiền phải nộp để duy trì vị thế"
+    "viDef": "khoản tiền phải nộp để duy trì vị thế",
+    "ex": "I put in a margin deposit and then I can buy and sell up to 100 times that much!",
+    "exHit": "margin deposit",
+    "exVi": "Tôi đặt một khoản ký quỹ rồi có thể mua bán gấp tới 100 lần số đó!"
   },
   {
     "word": "drastically",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "taking effect rapidly",
     "vi": "mạnh và nhanh",
-    "viDef": "phát tác thật nhanh"
+    "viDef": "phát tác thật nhanh",
+    "ex": "I had bought some RMB earlier at a low asking price but last night it appreciated drastically so I made a split second decision and sold all my RMB at an amazing bid!",
+    "exHit": "drastically",
+    "exVi": "Trước đó tôi đã mua một ít nhân dân tệ với giá chào thấp, nhưng tối qua nó tăng giá mạnh nên tôi quyết định trong tích tắc và bán hết nhân dân tệ với mức giá mua vào tuyệt vời!"
   },
   {
     "word": "split second",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "very quickly;just a second",
     "vi": "trong tích tắc",
-    "viDef": "rất nhanh, chỉ trong một giây"
+    "viDef": "rất nhanh, chỉ trong một giây",
+    "ex": "I had bought some RMB earlier at a low asking price but last night it appreciated drastically so I made a split second decision and sold all my RMB at an amazing bid!",
+    "exHit": "split second",
+    "exVi": "Trước đó tôi đã mua một ít nhân dân tệ với giá chào thấp, nhưng tối qua nó tăng giá mạnh nên tôi quyết định trong tích tắc và bán hết nhân dân tệ với mức giá mua vào tuyệt vời!"
   },
   {
     "word": "bid",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "an offer to pay a particular amount of money",
     "vi": "giá đặt mua",
-    "viDef": "lời chào trả một mức tiền nhất định"
+    "viDef": "lời chào trả một mức tiền nhất định",
+    "ex": "I had bought some RMB earlier at a low asking price but last night it appreciated drastically so I made a split second decision and sold all my RMB at an amazing bid!",
+    "exHit": "bid",
+    "exVi": "Trước đó tôi đã mua một ít nhân dân tệ với giá chào thấp, nhưng tối qua nó tăng giá mạnh nên tôi quyết định trong tích tắc và bán hết nhân dân tệ với mức giá mua vào tuyệt vời!"
   },
   {
     "word": "depreciate",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "decrease in the value of a currency in response to market demands",
     "vi": "mất giá",
-    "viDef": "giá trị đồng tiền giảm đi theo cung cầu của thị trường"
+    "viDef": "giá trị đồng tiền giảm đi theo cung cầu của thị trường",
+    "ex": "If the dollar continues to depreciate, imported goods will cost more.",
+    "exHit": "depreciate",
+    "exVi": "Nếu đồng đô la tiếp tục mất giá, hàng nhập khẩu sẽ đắt hơn."
   },
   {
     "word": "spread",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the difference between the bid and the ask for a given currency pair",
     "vi": "chênh lệch giá",
-    "viDef": "khoảng cách giữa giá đặt mua và giá chào bán của một cặp tiền"
+    "viDef": "khoảng cách giữa giá đặt mua và giá chào bán của một cặp tiền",
+    "ex": "The spread on this currency pair is small, so trading costs are low.",
+    "exHit": "spread",
+    "exVi": "Chênh lệch mua bán của cặp tiền này nhỏ nên chi phí giao dịch thấp."
   },
   {
     "word": "OTC (over the counter) market",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a market that has no central exchange so exchanges are done interbank between two parties",
     "vi": "thị trường OTC",
-    "viDef": "thị trường không có sàn trung tâm, giao dịch diễn ra liên ngân hàng giữa hai bên"
+    "viDef": "thị trường không có sàn trung tâm, giao dịch diễn ra liên ngân hàng giữa hai bên",
+    "ex": "The OTC market has no central exchange, so banks trade directly with each other.",
+    "exHit": "OTC market",
+    "exVi": "Thị trường OTC không có sàn giao dịch trung tâm nên các ngân hàng giao dịch trực tiếp với nhau."
   },
   {
     "word": "speculative",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "buying and selling in the hope of making a profit, rather than for some business-related need",
     "vi": "mang tính đầu cơ",
-    "viDef": "mua bán để mong lời chứ không vì nhu cầu kinh doanh"
+    "viDef": "mua bán để mong lời chứ không vì nhu cầu kinh doanh",
+    "ex": "My brother's speculative trades made money last month but lost it this month.",
+    "exHit": "speculative",
+    "exVi": "Các giao dịch đầu cơ của anh tôi kiếm được tiền tháng trước nhưng tháng này lại mất."
   },
   {
     "word": "base currency",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "the currency in which the investor buys or sells",
     "vi": "đồng tiền yết giá",
-    "viDef": "đồng tiền mà nhà đầu tư dùng để mua hoặc bán"
+    "viDef": "đồng tiền mà nhà đầu tư dùng để mua hoặc bán",
+    "ex": "In this pair, the euro is the base currency that I am buying.",
+    "exHit": "base currency",
+    "exVi": "Trong cặp này, đồng euro là đồng tiền cơ sở mà tôi đang mua."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "perhaps it is time for us to do something",
     "vi": "có lẽ đến lúc chúng ta nên",
-    "viDef": "chắc đã tới lúc hai người phải làm gì"
+    "viDef": "chắc đã tới lúc hai người phải làm gì",
+    "ex": "Maybe it is time we talked about where we are headed.",
+    "exHit": "Maybe it is time we",
+    "exVi": "Có lẽ đã đến lúc chúng ta nói chuyện về hướng đi của mình."
   },
   {
     "word": "don't appreciate",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "don't like",
     "vi": "không thích chút nào",
-    "viDef": "chẳng ưa"
+    "viDef": "chẳng ưa",
+    "ex": "Look, if you don't love me, it's not a thing, alright, we've had our laughs, but I don't appreciate...",
+    "exHit": "don't appreciate",
+    "exVi": "Nghe này, nếu em không yêu anh thì cũng không sao, chúng ta đã có những lúc vui vẻ, nhưng anh không thích..."
   },
   {
     "word": "where this (relationship) is going",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "what stage this relationship is in",
     "vi": "quan hệ này đi tới đâu",
-    "viDef": "mối quan hệ đang ở giai đoạn nào"
+    "viDef": "mối quan hệ đang ở giai đoạn nào",
+    "ex": "I want to know where this relationship is going.",
+    "exHit": "where this relationship is going",
+    "exVi": "Em muốn biết mối quan hệ này sẽ đi đến đâu."
   },
   {
     "word": "we have had our (laughs)",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "we have experienced ( our happy days)",
     "vi": "ta cũng đã có những lúc vui",
-    "viDef": "hai người từng trải qua thời hạnh phúc"
+    "viDef": "hai người từng trải qua thời hạnh phúc",
+    "ex": "We have had our laughs, but it is time to be serious.",
+    "exHit": "We have had our laughs",
+    "exVi": "Chúng ta đã có những lúc vui vẻ, nhưng đã đến lúc nghiêm túc rồi."
   },
   {
     "word": "love",
@@ -37,7 +49,10 @@
     "type": "principle verb, present simple",
     "def": "have strong affection to someone",
     "vi": "yêu",
-    "viDef": "có tình cảm sâu đậm với ai"
+    "viDef": "có tình cảm sâu đậm với ai",
+    "ex": "Oh, I love you too!",
+    "exHit": "love",
+    "exVi": "Ồ, em cũng yêu anh!"
   },
   {
     "word": "awesome",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "amazing, great",
     "vi": "tuyệt vời",
-    "viDef": "hay, đáng nể"
+    "viDef": "hay, đáng nể",
+    "ex": "And I think you're awesome.",
+    "exHit": "awesome",
+    "exVi": "Và em nghĩ anh thật tuyệt vời."
   },
   {
     "word": "in love with",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "feel strong romantic affection for someone",
     "vi": "đang yêu",
-    "viDef": "có tình cảm lãng mạn mãnh liệt với ai"
+    "viDef": "có tình cảm lãng mạn mãnh liệt với ai",
+    "ex": "I'm in love with you and I need to know...",
+    "exHit": "in love with",
+    "exVi": "Anh yêu em và anh cần biết..."
   },
   {
     "word": "can we talk",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "phrase used if one must talk about serious things",
     "vi": "nói chuyện được không",
-    "viDef": "câu dùng khi cần bàn việc nghiêm túc"
+    "viDef": "câu dùng khi cần bàn việc nghiêm túc",
+    "ex": "Can we talk?",
+    "exHit": "Can we talk",
+    "exVi": "Chúng ta nói chuyện một chút được không?"
   },
   {
     "word": "dump (someone)",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "end a relationship with someone",
     "vi": "bỏ ai",
-    "viDef": "chấm dứt quan hệ với ai"
+    "viDef": "chấm dứt quan hệ với ai",
+    "ex": "She dumped him by text message right before the holidays.",
+    "exHit": "dumped",
+    "exVi": "Cô ấy đá anh ta bằng tin nhắn ngay trước kỳ nghỉ lễ."
   },
   {
     "word": "break (someone's) heart",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "hurt someone's feelings very badly; hurt someone emotionally",
     "vi": "làm ai tan nát cõi lòng",
-    "viDef": "gây tổn thương tình cảm rất nặng"
+    "viDef": "gây tổn thương tình cảm rất nặng",
+    "ex": "Please don't break my heart again like last time.",
+    "exHit": "break my heart",
+    "exVi": "Xin anh đừng làm tan nát trái tim em lần nữa như lần trước."
   },
   {
     "word": "a heart to heart",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "a honest, emotional talk",
     "vi": "buổi nói thật lòng",
-    "viDef": "cuộc trò chuyện chân thành, giàu cảm xúc"
+    "viDef": "cuộc trò chuyện chân thành, giàu cảm xúc",
+    "ex": "We had a heart to heart and finally told each other the truth.",
+    "exHit": "a heart to heart",
+    "exVi": "Chúng tôi đã có một cuộc nói chuyện thân tình và cuối cùng nói thật với nhau."
   },
   {
     "word": "ex",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "former boyfriend, girlfriend, husband or wife",
     "vi": "người cũ",
-    "viDef": "bạn trai, bạn gái, vợ hoặc chồng trước"
+    "viDef": "bạn trai, bạn gái, vợ hoặc chồng trước",
+    "ex": "I ran into my ex at the supermarket yesterday.",
+    "exHit": "ex",
+    "exVi": "Hôm qua tôi tình cờ gặp người yêu cũ ở siêu thị."
   },
   {
     "word": "partner",
@@ -101,6 +137,9 @@
     "type": "common noun, singular",
     "def": "a person who you are in a long-term relationship with",
     "vi": "người bạn đời",
-    "viDef": "người mình gắn bó lâu dài"
+    "viDef": "người mình gắn bó lâu dài",
+    "ex": "My partner and I have been together for six years.",
+    "exHit": "partner",
+    "exVi": "Tôi và người bạn đời đã bên nhau được sáu năm."
   }
 ]

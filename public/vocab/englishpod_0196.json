@@ -5,7 +5,10 @@
     "type": "",
     "def": "made especially for the needs of one person",
     "vi": "đặt làm riêng",
-    "viDef": "làm riêng theo nhu cầu của một người"
+    "viDef": "làm riêng theo nhu cầu của một người",
+    "ex": "I'm getting a custom-made suit for my sister's wedding.",
+    "exHit": "custom-made",
+    "exVi": "Mình đặt may một bộ vest theo số đo cho đám cưới của chị gái."
   },
   {
     "word": "measure",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to ascertain the dimensions, quantity",
     "vi": "đo",
-    "viDef": "xác định kích thước, số lượng"
+    "viDef": "xác định kích thước, số lượng",
+    "ex": "Now for your pants, let me just measure your waist and the inseam.",
+    "exHit": "measure",
+    "exVi": "Bây giờ với quần của anh, để tôi đo vòng eo và đường trong ống quần."
   },
   {
     "word": "make sure",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "be sure",
     "vi": "bảo đảm chắc",
-    "viDef": "cho chắc chắn"
+    "viDef": "cho chắc chắn",
+    "ex": "Can you make sure you leave a little extra space in the collar?",
+    "exHit": "make sure",
+    "exVi": "Bạn có thể nhớ chừa thêm một chút chỗ ở cổ áo được không?"
   },
   {
     "word": "tend",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "be more likely",
     "vi": "thường hay",
-    "viDef": "có xu hướng"
+    "viDef": "có xu hướng",
+    "ex": "I tend to gain a few pounds over the holidays.",
+    "exHit": "tend",
+    "exVi": "Tôi thường tăng vài cân vào dịp lễ."
   },
   {
     "word": "pattern design",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "an artistic or decorative design that repeats",
     "vi": "họa tiết lặp",
-    "viDef": "thiết kế trang trí có nhắc lại"
+    "viDef": "thiết kế trang trí có nhắc lại",
+    "ex": "Now you can pick your fabric and pattern design.",
+    "exHit": "pattern design",
+    "exVi": "Giờ bạn có thể chọn vải và mẫu hoa văn."
   },
   {
     "word": "Vest",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "A garment covering the upper body that has no sleeves",
     "vi": "áo gi-lê",
-    "viDef": "áo che phần trên người, không có tay"
+    "viDef": "áo che phần trên người, không có tay",
+    "ex": "He wore a gray vest under his jacket.",
+    "exHit": "vest",
+    "exVi": "Anh ấy mặc một chiếc áo gile xám bên trong áo khoác."
   },
   {
     "word": "Tuxedo",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A complete formal outfit, usually black that includes pants, jacket and bow tie.",
     "vi": "bộ tuxedo",
-    "viDef": "bộ đồ trang trọng, thường màu đen, gồm quần, áo vest và nơ cổ"
+    "viDef": "bộ đồ trang trọng, thường màu đen, gồm quần, áo vest và nơ cổ",
+    "ex": "He looked great in a black tuxedo at the party.",
+    "exHit": "tuxedo",
+    "exVi": "Anh ấy trông rất bảnh trong bộ tuxedo đen tại bữa tiệc."
   },
   {
     "word": "Bow Tie",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A short necktie fashioned into a bowknot close to the throat.",
     "vi": "nơ cổ",
-    "viDef": "cà vạt ngắn thắt thành hình nơ sát cổ"
+    "viDef": "cà vạt ngắn thắt thành hình nơ sát cổ",
+    "ex": "Dad can never tie his bow tie without help.",
+    "exHit": "bow tie",
+    "exVi": "Bố không bao giờ tự thắt được chiếc nơ cổ nếu không có ai giúp."
   },
   {
     "word": "Cufflinks",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A fastening for a shirt cuff, usually consisting of two buttons or buttonlike parts connected with a chain or shank that passes through two slits in the cuff.",
     "vi": "khuy măng sét",
-    "viDef": "khuy cài tay áo, thường gồm hai phần nối bằng chốt hoặc dây, xuyên qua hai khuyết trên tay áo"
+    "viDef": "khuy cài tay áo, thường gồm hai phần nối bằng chốt hoặc dây, xuyên qua hai khuyết trên tay áo",
+    "ex": "He bought silver cufflinks to wear with his new shirt.",
+    "exHit": "cufflinks",
+    "exVi": "Anh ấy mua khuy măng sét bạc để đeo với chiếc áo sơ mi mới."
   },
   {
     "word": "Cumberbund",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "A broad waist sash, usually pleated, which is often worn with single-breasted dinner jackets",
     "vi": "dải thắt bụng",
-    "viDef": "dải lụa rộng quấn ngang bụng, thường xếp nếp, mặc kèm áo vest ăn tối một hàng khuy"
+    "viDef": "dải lụa rộng quấn ngang bụng, thường xếp nếp, mặc kèm áo vest ăn tối một hàng khuy",
+    "ex": "The tailor made a black cummerbund to go with my tuxedo.",
+    "exHit": "cummerbund",
+    "exVi": "Thợ may làm một chiếc đai lưng bản rộng màu đen để hợp với bộ tuxedo của tôi."
   }
 ]

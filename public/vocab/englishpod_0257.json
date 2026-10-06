@@ -5,7 +5,10 @@
     "type": "",
     "def": "to officially begin something",
     "vi": "khai màn",
-    "viDef": "chính thức bắt đầu việc gì"
+    "viDef": "chính thức bắt đầu việc gì",
+    "ex": "The World Cup kicks off tonight with a big opening match.",
+    "exHit": "kicks off",
+    "exVi": "World Cup khai mạc tối nay với một trận mở màn lớn."
   },
   {
     "word": "stage",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a step in a process",
     "vi": "chặng, giai đoạn",
-    "viDef": "một bước trong cả quá trình"
+    "viDef": "một bước trong cả quá trình",
+    "ex": "They first start in a group stage with bigger groups, each group having 4 teams.",
+    "exHit": "stage",
+    "exVi": "Đầu tiên họ bắt đầu ở vòng bảng với các bảng lớn hơn, mỗi bảng có 4 đội."
   },
   {
     "word": "sissy",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "something only appropriate for girls or women",
     "vi": "đồ con gái",
-    "viDef": "thứ chỉ hợp với con gái hoặc phụ nữ"
+    "viDef": "thứ chỉ hợp với con gái hoặc phụ nữ",
+    "ex": "It seems like a sissy sport to me!",
+    "exHit": "sissy",
+    "exVi": "Với tôi thì đó có vẻ là môn thể thao ẻo lả!"
   },
   {
     "word": "match",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "game",
     "vi": "trận đấu",
-    "viDef": "ván đấu"
+    "viDef": "ván đấu",
+    "ex": "The first match is today!",
+    "exHit": "match",
+    "exVi": "Trận đấu đầu tiên diễn ra hôm nay!"
   },
   {
     "word": "host",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "one who provides services, etc as for a convention",
     "vi": "nước chủ nhà",
-    "viDef": "bên lo dịch vụ và địa điểm, chẳng hạn cho một kỳ đại hội"
+    "viDef": "bên lo dịch vụ và địa điểm, chẳng hạn cho một kỳ đại hội",
+    "ex": "I think that South Africa will probably dominate the first half since they are the host country, and all.",
+    "exHit": "host",
+    "exVi": "Tôi nghĩ Nam Phi có lẽ sẽ áp đảo trong hiệp đầu vì họ là nước chủ nhà mà."
   },
   {
     "word": "rival",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a person or team who above everyone else attempts to win against you",
     "vi": "đối thủ",
-    "viDef": "người hoặc đội hơn mọi bên khác trong việc cố thắng bạn"
+    "viDef": "người hoặc đội hơn mọi bên khác trong việc cố thắng bạn",
+    "ex": "Brazil is our biggest rival in this tournament.",
+    "exHit": "rival",
+    "exVi": "Brazil là đối thủ lớn nhất của chúng tôi trong giải đấu này."
   },
   {
     "word": "disinterest",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to not have interest in something",
     "vi": "sự không quan tâm",
-    "viDef": "việc chẳng có hứng thú với điều gì"
+    "viDef": "việc chẳng có hứng thú với điều gì",
+    "ex": "I feel total disinterest in sports like golf.",
+    "exHit": "disinterest",
+    "exVi": "Tôi hoàn toàn không hứng thú với những môn như gôn."
   },
   {
     "word": "competition",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a match between two teams or persons",
     "vi": "cuộc tranh tài",
-    "viDef": "trận đấu giữa hai đội hoặc hai người"
+    "viDef": "trận đấu giữa hai đội hoặc hai người",
+    "ex": "The World Cup is the biggest soccer competition in the world.",
+    "exHit": "competition",
+    "exVi": "World Cup là giải đấu bóng đá lớn nhất thế giới."
   },
   {
     "word": "oblivious",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to be unaware",
     "vi": "chẳng hay biết",
-    "viDef": "không nhận ra điều gì"
+    "viDef": "không nhận ra điều gì",
+    "ex": "He was oblivious to the noise from the stadium.",
+    "exHit": "oblivious",
+    "exVi": "Anh ấy hoàn toàn không để ý đến tiếng ồn từ sân vận động."
   },
   {
     "word": "qualify",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "to show an ability to progress in a competition",
     "vi": "đủ điều kiện vào tiếp",
-    "viDef": "cho thấy khả năng đi sâu hơn trong giải"
+    "viDef": "cho thấy khả năng đi sâu hơn trong giải",
+    "ex": "Do you think our team will qualify for the next round?",
+    "exHit": "qualify",
+    "exVi": "Bạn nghĩ đội của chúng ta có đủ điều kiện vào vòng tiếp theo không?"
   }
 ]

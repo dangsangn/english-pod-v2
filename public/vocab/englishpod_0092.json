@@ -5,7 +5,10 @@
     "type": "Interjection",
     "def": "hi, you (informal)",
     "vi": "ê, chào",
-    "viDef": "cách chào thân mật"
+    "viDef": "cách chào thân mật",
+    "ex": "Heya, Tracy.",
+    "exHit": "Heya",
+    "exVi": "Chào cậu, Tracy."
   },
   {
     "word": "swell",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "really good (old-fashioned)",
     "vi": "tuyệt cú mèo",
-    "viDef": "rất hay (cách nói xưa)"
+    "viDef": "rất hay (cách nói xưa)",
+    "ex": "I'm swell, Sandy!",
+    "exHit": "swell",
+    "exVi": "Mình khỏe lắm, Sandy!"
   },
   {
     "word": "sock hop",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "dances held usually in high school gym or cafeteria",
     "vi": "buổi nhảy trường",
-    "viDef": "buổi khiêu vũ thường tổ chức ở nhà thể thao hoặc căng tin trường"
+    "viDef": "buổi khiêu vũ thường tổ chức ở nhà thể thao hoặc căng tin trường",
+    "ex": "Hey listen, you wanna go to the sock hop with me this Friday?",
+    "exHit": "sock hop",
+    "exVi": "Này, cậu có muốn đi dự buổi khiêu vũ sock hop với mình vào thứ Sáu này không?"
   },
   {
     "word": "a blast",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "a very fun time",
     "vi": "một buổi cực vui",
-    "viDef": "khoảng thời gian rất vui"
+    "viDef": "khoảng thời gian rất vui",
+    "ex": "It'll be a blast!",
+    "exHit": "a blast",
+    "exVi": "Sẽ vui lắm đấy!"
   },
   {
     "word": "Sadie Hawkins dance",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "an informal dance usually in high school with girls invite boys",
     "vi": "buổi nhảy nữ mời nam",
-    "viDef": "buổi khiêu vũ ở trường mà con gái mời con trai"
+    "viDef": "buổi khiêu vũ ở trường mà con gái mời con trai",
+    "ex": "First of all it's the Sadie Hawkins dance.",
+    "exHit": "Sadie Hawkins dance",
+    "exVi": "Trước hết, đó là buổi khiêu vũ Sadie Hawkins."
   },
   {
     "word": "have one's eye on (someone)",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "focus your attention on something you want",
     "vi": "để ý ai",
-    "viDef": "chú mắt vào thứ mình muốn"
+    "viDef": "chú mắt vào thứ mình muốn",
+    "ex": "I've had my eye on that girl since last week.",
+    "exHit": "had my eye on",
+    "exVi": "Tôi để mắt tới cô gái đó từ tuần trước rồi."
   },
   {
     "word": "ease off",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "stop putting pressure on someone",
     "vi": "nới tay ra",
-    "viDef": "thôi gây áp lực cho ai"
+    "viDef": "thôi gây áp lực cho ai",
+    "ex": "Ease off my girl, man.",
+    "exHit": "Ease off",
+    "exVi": "Đừng làm phiền bạn gái tôi nữa, anh bạn."
   },
   {
     "word": "knuckle-sandwich",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a punch",
     "vi": "một quả đấm",
-    "viDef": "cú đánh bằng tay"
+    "viDef": "cú đánh bằng tay",
+    "ex": "Watch it, or I'll give you a knuckle-sandwich!",
+    "exHit": "knuckle-sandwich",
+    "exVi": "Coi chừng đấy, không tôi cho cậu ăn một đấm bây giờ!"
   },
   {
     "word": "cool it",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "relax, take it easy",
     "vi": "hạ nhiệt đi",
-    "viDef": "bình tĩnh, từ từ"
+    "viDef": "bình tĩnh, từ từ",
+    "ex": "Cool it, guys.",
+    "exHit": "Cool it",
+    "exVi": "Bình tĩnh nào, các cậu."
   },
   {
     "word": "pipsqueak",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "someone who is not important",
     "vi": "thằng cắc ké",
-    "viDef": "người chẳng quan trọng gì"
+    "viDef": "người chẳng quan trọng gì",
+    "ex": "Says me, pipsqueak!",
+    "exHit": "pipsqueak",
+    "exVi": "Tôi nói đấy, đồ nhóc con!"
   },
   {
     "word": "go ape",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "get really angry and explode",
     "vi": "nổi điên",
-    "viDef": "tức đến bùng nổ"
+    "viDef": "tức đến bùng nổ",
+    "ex": "My dad will go ape if I come home late.",
+    "exHit": "go ape",
+    "exVi": "Bố tôi sẽ nổi điên nếu tôi về nhà muộn."
   },
   {
     "word": "be on cloud nine",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "be really happy",
     "vi": "như trên chín tầng mây",
-    "viDef": "vui hết sức"
+    "viDef": "vui hết sức",
+    "ex": "She was on cloud nine after the dance.",
+    "exHit": "on cloud nine",
+    "exVi": "Cô ấy sung sướng như trên mây sau buổi khiêu vũ."
   },
   {
     "word": "cool cat",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "a very cool person",
     "vi": "tay chịu chơi",
-    "viDef": "người rất ngầu"
+    "viDef": "người rất ngầu",
+    "ex": "Your brother is a real cool cat, you know.",
+    "exHit": "cool cat",
+    "exVi": "Anh trai bạn đúng là một người rất ngầu đấy."
   },
   {
     "word": "flick",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "movie, film",
     "vi": "phim",
-    "viDef": "bộ phim"
+    "viDef": "bộ phim",
+    "ex": "Do you want to see a flick tonight?",
+    "exHit": "flick",
+    "exVi": "Tối nay bạn có muốn đi xem phim không?"
   },
   {
     "word": "party pooper",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "a person who is not fun",
     "vi": "kẻ làm mất vui",
-    "viDef": "người chẳng biết chơi"
+    "viDef": "người chẳng biết chơi",
+    "ex": "Don't be a party pooper, come dance with us!",
+    "exHit": "party pooper",
+    "exVi": "Đừng làm người phá đám, lại nhảy với bọn tớ đi!"
   },
   {
     "word": "no sweat",
@@ -125,6 +170,9 @@
     "type": "phrase",
     "def": "it's no problem",
     "vi": "dễ mà",
-    "viDef": "không vấn đề gì"
+    "viDef": "không vấn đề gì",
+    "ex": "Thanks for lending me the pencil, and no sweat if you forget it.",
+    "exHit": "no sweat",
+    "exVi": "Cảm ơn bạn cho tôi mượn bút chì, và không sao đâu nếu bạn quên mang nhé."
   }
 ]

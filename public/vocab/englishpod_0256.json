@@ -5,7 +5,10 @@
     "type": "",
     "def": "money and benefits given to someone for the work",
     "vi": "gói lương thưởng",
-    "viDef": "tiền và các quyền lợi trả cho người làm việc"
+    "viDef": "tiền và các quyền lợi trả cho người làm việc",
+    "ex": "Could I first ask about the remuneration package?",
+    "exHit": "remuneration package",
+    "exVi": "Trước tiên, tôi có thể hỏi về gói đãi ngộ không?"
   },
   {
     "word": "per annum",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "each year",
     "vi": "mỗi năm",
-    "viDef": "tính theo từng năm"
+    "viDef": "tính theo từng năm",
+    "ex": "As a junior sub editor we offer a starting salary of 150,000 HK dollars per annum.",
+    "exHit": "per annum",
+    "exVi": "Với vị trí biên tập viên cấp dưới, chúng tôi đề nghị mức lương khởi điểm là 150.000 đô la Hồng Kông mỗi năm."
   },
   {
     "word": "housing allowance",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "money that a company provides for rent of a house",
     "vi": "phụ cấp nhà ở",
-    "viDef": "khoản công ty chi để thuê nhà"
+    "viDef": "khoản công ty chi để thuê nhà",
+    "ex": "This doesn't include a generous housing allowance also.",
+    "exHit": "housing allowance",
+    "exVi": "Mức đó còn chưa tính khoản trợ cấp nhà ở rất hậu hĩnh nữa."
   },
   {
     "word": "flexible",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "able to change or to do different things",
     "vi": "linh động",
-    "viDef": "có thể đổi hoặc làm nhiều việc khác nhau"
+    "viDef": "có thể đổi hoặc làm nhiều việc khác nhau",
+    "ex": "Well Mr. Parsons, I am flexible when it comes to salary.",
+    "exHit": "flexible",
+    "exVi": "Thưa ông Parsons, về mức lương thì tôi khá linh hoạt."
   },
   {
     "word": "go through",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to study or look at (something) in a careful way",
     "vi": "xem lại từng phần",
-    "viDef": "nghiên cứu hoặc soi thứ gì thật cẩn thận"
+    "viDef": "nghiên cứu hoặc soi thứ gì thật cẩn thận",
+    "ex": "But we could go through all the details of that at a later date.",
+    "exHit": "go through",
+    "exVi": "Nhưng chúng ta có thể xem xét kỹ mọi chi tiết đó vào một dịp khác."
   },
   {
     "word": "Gross",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "Overall sum excluding tax and any deductions",
     "vi": "tổng gộp",
-    "viDef": "tổng số chưa trừ thuế và các khoản khấu"
+    "viDef": "tổng số chưa trừ thuế và các khoản khấu",
+    "ex": "My gross salary is higher, but taxes take a big part.",
+    "exHit": "gross",
+    "exVi": "Lương tổng của tôi cao hơn, nhưng thuế lấy đi một phần lớn."
   },
   {
     "word": "Net",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "Free from all charges or deductions",
     "vi": "thực nhận",
-    "viDef": "đã trừ hết mọi khoản phí và khấu"
+    "viDef": "đã trừ hết mọi khoản phí và khấu",
+    "ex": "What's your net income after taxes and deductions?",
+    "exHit": "net",
+    "exVi": "Thu nhập thực nhận của bạn sau thuế và các khoản khấu trừ là bao nhiêu?"
   },
   {
     "word": "Income Tax",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A tax on the amount of money you earn",
     "vi": "thuế thu nhập",
-    "viDef": "thuế tính trên số tiền mình kiếm được"
+    "viDef": "thuế tính trên số tiền mình kiếm được",
+    "ex": "I pay income tax every month, straight from my paycheck.",
+    "exHit": "income tax",
+    "exVi": "Tháng nào tôi cũng đóng thuế thu nhập, trừ thẳng vào lương."
   },
   {
     "word": "Stock Options",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A benefit offered by a company to purchase stock for a fixed price",
     "vi": "quyền mua cổ phiếu",
-    "viDef": "quyền lợi công ty cho phép mua cổ phiếu ở một giá định trước"
+    "viDef": "quyền lợi công ty cho phép mua cổ phiếu ở một giá định trước",
+    "ex": "The company offers stock options to every new employee.",
+    "exHit": "stock options",
+    "exVi": "Công ty cung cấp quyền chọn mua cổ phiếu cho mọi nhân viên mới."
   },
   {
     "word": "Bonus",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "An additional payment or reward given for good work or performance",
     "vi": "tiền thưởng",
-    "viDef": "khoản trả thêm để ghi nhận làm tốt hoặc kết quả tốt"
+    "viDef": "khoản trả thêm để ghi nhận làm tốt hoặc kết quả tốt",
+    "ex": "Well apart from full health insurance we do offer a company staff bonus scheme linked to readership numbers.",
+    "exHit": "bonus",
+    "exVi": "Ngoài bảo hiểm y tế đầy đủ, chúng tôi còn có chế độ thưởng nhân viên gắn với lượng độc giả."
   }
 ]

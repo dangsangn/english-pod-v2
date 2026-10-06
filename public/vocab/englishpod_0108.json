@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "all the small details",
     "vi": "chi tiết cặn kẽ",
-    "viDef": "mọi tình tiết nhỏ"
+    "viDef": "mọi tình tiết nhỏ",
+    "ex": "Now that we have been over the gory details of our disastrous first quarter, Ed!",
+    "exHit": "gory details",
+    "exVi": "Giờ chúng ta đã xem hết những chi tiết tồi tệ của quý đầu tiên thảm hại, Ed!"
   },
   {
     "word": "lay it on me",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "tell me the bad news",
     "vi": "nói thẳng đi",
-    "viDef": "kể tin xấu cho tôi nghe"
+    "viDef": "kể tin xấu cho tôi nghe",
+    "ex": "I can take it, so just lay it on me.",
+    "exHit": "lay it on me",
+    "exVi": "Tôi chịu được mà, cứ nói thẳng tin xấu đi."
   },
   {
     "word": "plunge",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "drop down suddenly and quickly",
     "vi": "lao dốc",
-    "viDef": "tụt xuống nhanh và bất ngờ"
+    "viDef": "tụt xuống nhanh và bất ngờ",
+    "ex": "Well sir, our sales have dropped, no plunged, fifty percent in the past month alone.",
+    "exHit": "plunged",
+    "exVi": "Thưa sếp, doanh số của chúng ta đã giảm, không, lao dốc năm mươi phần trăm chỉ trong tháng vừa rồi."
   },
   {
     "word": "disastrous",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "very bad; having bad results",
     "vi": "thảm hại",
-    "viDef": "rất tệ, dẫn tới kết quả xấu"
+    "viDef": "rất tệ, dẫn tới kết quả xấu",
+    "ex": "Now that we have been over the gory details of our disastrous first quarter, Ed!",
+    "exHit": "disastrous",
+    "exVi": "Giờ chúng ta đã xem hết những chi tiết tồi tệ của quý đầu tiên thảm hại, Ed!"
   },
   {
     "word": "in terms of",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "regarding, about",
     "vi": "về mặt",
-    "viDef": "xét về, liên quan tới"
+    "viDef": "xét về, liên quan tới",
+    "ex": "How are things looking for us in terms of sales this month?",
+    "exHit": "in terms of",
+    "exVi": "Tháng này tình hình doanh số của chúng ta thế nào?"
   },
   {
     "word": "(be) overstocked",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "having too many things to sell",
     "vi": "tồn hàng quá nhiều",
-    "viDef": "còn quá nhiều hàng để bán"
+    "viDef": "còn quá nhiều hàng để bán",
+    "ex": "We are currently overstocked and overstaffed and our profits are falling fast.",
+    "exHit": "overstocked",
+    "exVi": "Hiện giờ chúng ta tồn kho quá nhiều, thừa nhân viên, và lợi nhuận đang giảm nhanh."
   },
   {
     "word": "(be) overstaffed",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "have too many employees",
     "vi": "thừa nhân sự",
-    "viDef": "có quá nhiều nhân viên"
+    "viDef": "có quá nhiều nhân viên",
+    "ex": "We are currently overstocked and overstaffed and our profits are falling fast.",
+    "exHit": "overstaffed",
+    "exVi": "Hiện giờ chúng ta tồn kho quá nhiều, thừa nhân viên, và lợi nhuận đang giảm nhanh."
   },
   {
     "word": "inventory",
@@ -61,7 +82,10 @@
     "type": "common noun, non-variable",
     "def": "the amount of products you have to sell",
     "vi": "lượng hàng tồn",
-    "viDef": "số sản phẩm đang có để bán"
+    "viDef": "số sản phẩm đang có để bán",
+    "ex": "The market is in recession and we have no way of moving our inventory, or getting rid of our staff.",
+    "exHit": "inventory",
+    "exVi": "Thị trường đang suy thoái và chúng ta không có cách nào bán hết hàng tồn kho, hay cắt giảm nhân viên."
   },
   {
     "word": "get rid of",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "remove or take away something that is annoying",
     "vi": "dẹp bỏ",
-    "viDef": "bỏ đi thứ gây phiền"
+    "viDef": "bỏ đi thứ gây phiền",
+    "ex": "The market is in recession and we have no way of moving our inventory, or getting rid of our staff.",
+    "exHit": "getting rid of",
+    "exVi": "Thị trường đang suy thoái và chúng ta không có cách nào bán hết hàng tồn kho, hay cắt giảm nhân viên."
   },
   {
     "word": "redundancies",
@@ -77,7 +104,10 @@
     "type": "common noun, plural",
     "def": "layoffs; ending employment of staff for money reasons",
     "vi": "các đợt cắt giảm",
-    "viDef": "việc cho nhân viên thôi việc vì lý do tiền bạc"
+    "viDef": "việc cho nhân viên thôi việc vì lý do tiền bạc",
+    "ex": "If we consider redundancies, it would cost us a fortune because of the new regulations governing compensation packages.",
+    "exHit": "redundancies",
+    "exVi": "Nếu chúng ta cân nhắc việc sa thải, sẽ tốn cả một gia tài vì các quy định mới về gói bồi thường."
   },
   {
     "word": "shoulder the cost",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "be responsible for the cost",
     "vi": "gánh chi phí",
-    "viDef": "chịu trách nhiệm trả khoản tốn đó"
+    "viDef": "chịu trách nhiệm trả khoản tốn đó",
+    "ex": "Who will shoulder the cost of the new equipment?",
+    "exHit": "shoulder the cost",
+    "exVi": "Ai sẽ chịu chi phí cho thiết bị mới?"
   },
   {
     "word": "govern",
@@ -93,7 +126,10 @@
     "type": "verb",
     "def": "rule",
     "vi": "cai quản",
-    "viDef": "điều hành, trị"
+    "viDef": "điều hành, trị",
+    "ex": "If we consider redundancies, it would cost us a fortune because of the new regulations governing compensation packages.",
+    "exHit": "governing",
+    "exVi": "Nếu chúng ta cân nhắc việc sa thải, sẽ tốn cả một gia tài vì các quy định mới về gói bồi thường."
   },
   {
     "word": "for crying out loud",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "used to express anger or annoyance",
     "vi": "trời đất ơi",
-    "viDef": "câu thốt ra khi tức hoặc bực"
+    "viDef": "câu thốt ra khi tức hoặc bực",
+    "ex": "For crying out loud...",
+    "exHit": "For crying out loud",
+    "exVi": "Trời ơi là trời..."
   },
   {
     "word": "chapter elven",
@@ -109,7 +148,10 @@
     "type": "phrase",
     "def": "bankruptcy; owing more money than you can pay",
     "vi": "phá sản theo chương 11",
-    "viDef": "tình trạng nợ nhiều hơn khả năng trả"
+    "viDef": "tình trạng nợ nhiều hơn khả năng trả",
+    "ex": "The company filed for chapter eleven after losing its biggest client.",
+    "exHit": "chapter eleven",
+    "exVi": "Công ty nộp đơn xin phá sản sau khi mất khách hàng lớn nhất."
   },
   {
     "word": "quality control",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "the process of controlling the quality of production (quality control)",
     "vi": "kiểm soát chất lượng",
-    "viDef": "quy trình giám sát chất lượng sản xuất"
+    "viDef": "quy trình giám sát chất lượng sản xuất",
+    "ex": "Our quality control team checks every product before we ship it.",
+    "exHit": "quality control",
+    "exVi": "Đội kiểm soát chất lượng kiểm tra mọi sản phẩm trước khi chúng tôi giao hàng."
   },
   {
     "word": "broke",
@@ -125,7 +170,10 @@
     "type": "Adjective",
     "def": "having no money( informal)",
     "vi": "cháy túi",
-    "viDef": "không còn tiền (thân mật)"
+    "viDef": "không còn tiền (thân mật)",
+    "ex": "I can't go out tonight because I'm totally broke.",
+    "exHit": "broke",
+    "exVi": "Tối nay tôi không đi chơi được vì hoàn toàn cháy túi."
   },
   {
     "word": "hit rock bottom",
@@ -133,7 +181,10 @@
     "type": "phrase",
     "def": "The lowest possible level or absolute bottom",
     "vi": "xuống tận đáy",
-    "viDef": "mức thấp nhất có thể"
+    "viDef": "mức thấp nhất có thể",
+    "ex": "Our sales hit rock bottom after the new store opened nearby.",
+    "exHit": "hit rock bottom",
+    "exVi": "Doanh số của chúng ta chạm đáy sau khi cửa hàng mới mở gần đó."
   },
   {
     "word": "margin",
@@ -141,7 +192,10 @@
     "type": "common noun, singular",
     "def": "the minimum return below which an enterprise becomes unprofitable",
     "vi": "biên lợi nhuận",
-    "viDef": "mức lợi tối thiểu mà thấp hơn thì doanh nghiệp lỗ"
+    "viDef": "mức lợi tối thiểu mà thấp hơn thì doanh nghiệp lỗ",
+    "ex": "Our profit margin is too small to cover these costs.",
+    "exHit": "margin",
+    "exVi": "Biên lợi nhuận của chúng ta quá nhỏ để trang trải các chi phí này."
   },
   {
     "word": "revenue",
@@ -149,7 +203,10 @@
     "type": "common noun, singular",
     "def": "the entire amount of income before any deductions are made",
     "vi": "doanh thu",
-    "viDef": "toàn bộ tiền thu vào trước khi trừ bất cứ khoản nào"
+    "viDef": "toàn bộ tiền thu vào trước khi trừ bất cứ khoản nào",
+    "ex": "The company's revenue fell by half last quarter.",
+    "exHit": "revenue",
+    "exVi": "Doanh thu của công ty giảm một nửa trong quý trước."
   },
   {
     "word": "skyrocket",
@@ -157,6 +214,9 @@
     "type": "verb",
     "def": "cause to rise rapidly and suddenly",
     "vi": "tăng vọt",
-    "viDef": "làm dâng lên rất nhanh, đột ngột"
+    "viDef": "làm dâng lên rất nhanh, đột ngột",
+    "ex": "Prices will skyrocket if we cannot control our costs.",
+    "exHit": "skyrocket",
+    "exVi": "Giá sẽ tăng vọt nếu chúng ta không kiểm soát được chi phí."
   }
 ]

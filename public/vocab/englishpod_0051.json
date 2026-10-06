@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "a good deal, a cheap price",
     "vi": "món hời",
-    "viDef": "mua được giá tốt, giá rẻ"
+    "viDef": "mua được giá tốt, giá rẻ",
+    "ex": "It's a bargain at that price.",
+    "exHit": "bargain",
+    "exVi": "Với giá đó thì đúng là hời."
   },
   {
     "word": "shop around",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "look in many stores and try to find the best price",
     "vi": "đi khảo giá",
-    "viDef": "ghé nhiều cửa hàng để tìm giá tốt nhất"
+    "viDef": "ghé nhiều cửa hàng để tìm giá tốt nhất",
+    "ex": "I think I'll shop around.",
+    "exHit": "shop around",
+    "exVi": "Tôi nghĩ tôi sẽ đi xem thêm vài cửa hàng nữa."
   },
   {
     "word": "discount",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "a lowering of the price of something",
     "vi": "giảm giá",
-    "viDef": "việc hạ giá món hàng"
+    "viDef": "việc hạ giá món hàng",
+    "ex": "Okay, I can give you a special discount, just because you seem like a nice person.",
+    "exHit": "discount",
+    "exVi": "Được rồi, tôi có thể giảm giá đặc biệt cho bạn, chỉ vì bạn có vẻ là người tốt."
   },
   {
     "word": "exclusive",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "not common, unique",
     "vi": "độc quyền, hàng hiếm",
-    "viDef": "không phổ biến, có một"
+    "viDef": "không phổ biến, có một",
+    "ex": "This is an exclusive design by DaMarco!",
+    "exHit": "exclusive",
+    "exVi": "Đây là mẫu thiết kế độc quyền của DaMarco!"
   },
   {
     "word": "out of my price range",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "too expensive, can't afford it",
     "vi": "quá tầm giá của tôi",
-    "viDef": "đắt quá, không mua nổi"
+    "viDef": "đắt quá, không mua nổi",
+    "ex": "that's a bit out of my price range.",
+    "exHit": "out of my price range",
+    "exVi": "Cái đó hơi vượt quá tầm giá của tôi."
   },
   {
     "word": "offer",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "an opportunity to buy something at a low price",
     "vi": "ưu đãi",
-    "viDef": "dịp mua được giá thấp"
+    "viDef": "dịp mua được giá thấp",
+    "ex": "That's my last offer!",
+    "exHit": "offer",
+    "exVi": "Đó là giá cuối cùng của tôi!"
   },
   {
     "word": "pricey",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "expensive",
     "vi": "đắt đỏ",
-    "viDef": "giá cao"
+    "viDef": "giá cao",
+    "ex": "It's still a bit pricey....",
+    "exHit": "pricey",
+    "exVi": "Vẫn hơi đắt..."
   },
   {
     "word": "deal",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "agreement to buy something",
     "vi": "thỏa thuận mua",
-    "viDef": "sự đồng ý mua bán"
+    "viDef": "sự đồng ý mua bán",
+    "ex": "Can you give me a better deal?",
+    "exHit": "deal",
+    "exVi": "Bạn có thể cho tôi một giá tốt hơn không?"
   },
   {
     "word": "promotion",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a special discount or offer on goods and services",
     "vi": "khuyến mãi",
-    "viDef": "ưu đãi hoặc giảm giá đặc biệt cho hàng hóa, dịch vụ"
+    "viDef": "ưu đãi hoặc giảm giá đặc biệt cho hàng hóa, dịch vụ",
+    "ex": "The store has a special promotion on shoes this week.",
+    "exHit": "promotion",
+    "exVi": "Tuần này cửa hàng có chương trình khuyến mãi đặc biệt cho giày."
   },
   {
     "word": "cash",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "money in the form of coins and bills",
     "vi": "tiền mặt",
-    "viDef": "tiền xu và tiền giấy"
+    "viDef": "tiền xu và tiền giấy",
+    "ex": "Do you take cash, or only credit cards?",
+    "exHit": "cash",
+    "exVi": "Ở đây nhận tiền mặt hay chỉ nhận thẻ tín dụng?"
   },
   {
     "word": "credit card",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "card that is used to buy things and pay at a later time",
     "vi": "thẻ tín dụng",
-    "viDef": "thẻ mua hàng rồi trả tiền sau"
+    "viDef": "thẻ mua hàng rồi trả tiền sau",
+    "ex": "I'll pay by credit card, if that's okay.",
+    "exHit": "credit card",
+    "exVi": "Tôi sẽ trả bằng thẻ tín dụng, nếu được."
   },
   {
     "word": "negotiate",
@@ -93,7 +126,10 @@
     "type": "principle verb, present simple",
     "def": "to discuss and fight for a better price",
     "vi": "mặc cả",
-    "viDef": "thương lượng để có giá tốt hơn"
+    "viDef": "thương lượng để có giá tốt hơn",
+    "ex": "You should negotiate with the seller for a lower price.",
+    "exHit": "negotiate",
+    "exVi": "Bạn nên mặc cả với người bán để được giá thấp hơn."
   },
   {
     "word": "freebie",
@@ -101,6 +137,9 @@
     "type": "common noun, singular",
     "def": "a free item that is usually given to promote a product",
     "vi": "quà tặng kèm",
-    "viDef": "món cho không, thường để quảng bá sản phẩm"
+    "viDef": "món cho không, thường để quảng bá sản phẩm",
+    "ex": "They gave me a freebie when I bought two shirts.",
+    "exHit": "freebie",
+    "exVi": "Họ tặng tôi một món quà khuyến mãi khi tôi mua hai cái áo."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "store that bakes and sells bread and pastries",
     "vi": "tiệm bánh",
-    "viDef": "cửa hàng nướng và bán bánh mì cùng bánh ngọt"
+    "viDef": "cửa hàng nướng và bán bánh mì cùng bánh ngọt",
+    "ex": "Welcome to Al's Bakery.",
+    "exHit": "Bakery",
+    "exVi": "Chào mừng đến tiệm bánh của Al."
   },
   {
     "word": "loaf",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "any shaped or moulded mass of food",
     "vi": "ổ bánh",
-    "viDef": "khối thức ăn được tạo hình hoặc đổ khuôn"
+    "viDef": "khối thức ăn được tạo hình hoặc đổ khuôn",
+    "ex": "Would you like to have the loaf sliced?",
+    "exHit": "loaf",
+    "exVi": "Bạn có muốn cắt lát ổ bánh mì không?"
   },
   {
     "word": "slice",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "cut into thin slices",
     "vi": "cắt lát",
-    "viDef": "thái thành lát mỏng"
+    "viDef": "thái thành lát mỏng",
+    "ex": "Would you like to have the loaf sliced?",
+    "exHit": "sliced",
+    "exVi": "Bạn có muốn cắt lát ổ bánh mì không?"
   },
   {
     "word": "wheat",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the grain of of some grasses, used in making flour, pasta, etc",
     "vi": "lúa mì",
-    "viDef": "hạt của một số loài cỏ, dùng làm bột mì, mì ống..."
+    "viDef": "hạt của một số loài cỏ, dùng làm bột mì, mì ống...",
+    "ex": "Do you have any whole wheat bread?",
+    "exHit": "wheat",
+    "exVi": "Bạn có bánh mì nguyên cám không?"
   },
   {
     "word": "bread",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a kind of food made of flour",
     "vi": "bánh mì",
-    "viDef": "loại thức ăn làm từ bột"
+    "viDef": "loại thức ăn làm từ bột",
+    "ex": "May I suggest some rye bread?",
+    "exHit": "bread",
+    "exVi": "Tôi có thể gợi ý bánh mì lúa mạch đen không?"
   },
   {
     "word": "muffin",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a small cake",
     "vi": "bánh muffin",
-    "viDef": "một loại bánh nhỏ"
+    "viDef": "một loại bánh nhỏ",
+    "ex": "Let me get a dozen croissants, four blueberry muffins and a loaf of sourdough bread.",
+    "exHit": "muffins",
+    "exVi": "Cho tôi một tá bánh sừng bò, bốn cái bánh muffin việt quất và một ổ bánh mì men chua."
   },
   {
     "word": "blueberry",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the edible, usually bluish berry of various shrubs",
     "vi": "việt quất",
-    "viDef": "quả ăn được, thường màu xanh lam, của một số loài cây bụi"
+    "viDef": "quả ăn được, thường màu xanh lam, của một số loài cây bụi",
+    "ex": "Let me get a dozen croissants, four blueberry muffins and a loaf of sourdough bread.",
+    "exHit": "blueberry",
+    "exVi": "Cho tôi một tá bánh sừng bò, bốn cái bánh muffin việt quất và một ổ bánh mì men chua."
   },
   {
     "word": "rye",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a widely cultivated cereal grass",
     "vi": "lúa mạch đen",
-    "viDef": "một loại ngũ cốc được trồng rộng rãi"
+    "viDef": "một loại ngũ cốc được trồng rộng rãi",
+    "ex": "May I suggest some rye bread?",
+    "exHit": "rye",
+    "exVi": "Tôi có thể gợi ý bánh mì lúa mạch đen không?"
   },
   {
     "word": "total",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "complete amount",
     "vi": "tổng cộng",
-    "viDef": "toàn bộ số tiền"
+    "viDef": "toàn bộ số tiền",
+    "ex": "Your total is forty three dollars and twenty cents.",
+    "exHit": "total",
+    "exVi": "Tổng cộng của bạn là bốn mươi ba đô hai mươi xu."
   },
   {
     "word": "cheesecake",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a type of cake",
     "vi": "bánh phô mai",
-    "viDef": "một loại bánh ngọt"
+    "viDef": "một loại bánh ngọt",
+    "ex": "I'll just take a cheesecake.",
+    "exHit": "cheesecake",
+    "exVi": "Tôi chỉ lấy một cái bánh phô mai thôi."
   },
   {
     "word": "cake",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a baked dessert",
     "vi": "bánh ngọt",
-    "viDef": "món tráng miệng được nướng"
+    "viDef": "món tráng miệng được nướng",
+    "ex": "Do you have any cakes?",
+    "exHit": "cakes",
+    "exVi": "Bạn có bánh ngọt nào không?"
   },
   {
     "word": "sausage roll",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a roll of sausage meat in pastry",
     "vi": "bánh cuộn xúc xích",
-    "viDef": "cuộn thịt xúc xích bọc trong lớp bột"
+    "viDef": "cuộn thịt xúc xích bọc trong lớp bột",
+    "ex": "I'll have a sausage roll and a cup of coffee.",
+    "exHit": "sausage roll",
+    "exVi": "Cho tôi một cái bánh cuộn xúc xích và một tách cà phê."
   },
   {
     "word": "pavlova",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a meringue cake topped with whipped cream and fruit",
     "vi": "bánh pavlova",
-    "viDef": "bánh trứng đường phủ kem tươi và trái cây"
+    "viDef": "bánh trứng đường phủ kem tươi và trái cây",
+    "ex": "My aunt always makes pavlova for dessert at Christmas.",
+    "exHit": "pavlova",
+    "exVi": "Dì tôi luôn làm bánh pavlova tráng miệng vào dịp Giáng sinh."
   },
   {
     "word": "pie",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "a baked food having a filling of fruit, meat, pudding",
     "vi": "bánh nhân",
-    "viDef": "món nướng có nhân là trái cây, thịt hoặc kem"
+    "viDef": "món nướng có nhân là trái cây, thịt hoặc kem",
+    "ex": "Would you like a slice of apple pie?",
+    "exHit": "pie",
+    "exVi": "Bạn có muốn một miếng bánh táo không?"
   },
   {
     "word": "chop",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "to cut or sever with a quick, heavy blow or a series of blows",
     "vi": "chặt",
-    "viDef": "cắt hoặc chém bằng một nhát mạnh hoặc nhiều nhát liên tiếp"
+    "viDef": "cắt hoặc chém bằng một nhát mạnh hoặc nhiều nhát liên tiếp",
+    "ex": "First, chop the onions into small pieces.",
+    "exHit": "chop",
+    "exVi": "Đầu tiên, hãy thái hành thành những miếng nhỏ."
   },
   {
     "word": "bake",
@@ -125,6 +170,9 @@
     "type": "",
     "def": "to cook by dry heat in an oven or on heated metal or stones",
     "vi": "nướng lò",
-    "viDef": "làm chín bằng nhiệt khô trong lò hoặc trên kim loại, đá nóng"
+    "viDef": "làm chín bằng nhiệt khô trong lò hoặc trên kim loại, đá nóng",
+    "ex": "I like to bake fresh bread on Sunday mornings.",
+    "exHit": "bake",
+    "exVi": "Tôi thích nướng bánh mì tươi vào sáng Chủ nhật."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "believe a lie",
     "vi": "tin sập bẫy",
-    "viDef": "tin vào lời dối"
+    "viDef": "tin vào lời dối",
+    "ex": "He told a lie, and everyone fell for it.",
+    "exHit": "fell for it",
+    "exVi": "Anh ta nói dối và ai cũng mắc bẫy."
   },
   {
     "word": "tie up",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "to attach someone or something with a rope or string",
     "vi": "buộc lại, trói",
-    "viDef": "dùng dây buộc người hoặc vật"
+    "viDef": "dùng dây buộc người hoặc vật",
+    "ex": "All right, drag her over here, and help me tie her up.",
+    "exHit": "tie her up",
+    "exVi": "Được rồi, kéo cô ta lại đây và giúp tôi trói cô ta lại."
   },
   {
     "word": "drag",
@@ -21,7 +27,10 @@
     "type": "principle verb, present simple",
     "def": "move something usually heavy",
     "vi": "kéo, lôi",
-    "viDef": "di chuyển vật thường là nặng"
+    "viDef": "di chuyển vật thường là nặng",
+    "ex": "All right, drag her over here, and help me tie her up.",
+    "exHit": "drag",
+    "exVi": "Được rồi, kéo cô ta lại đây và giúp tôi trói cô ta lại."
   },
   {
     "word": "the cat's out of the bag",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "the truth is revealed,",
     "vi": "lộ hết rồi",
-    "viDef": "sự thật đã bị phơi ra"
+    "viDef": "sự thật đã bị phơi ra",
+    "ex": "The cat's out of the bag, you witch!",
+    "exHit": "The cat's out of the bag",
+    "exVi": "Bí mật bị lộ rồi, đồ phù thủy!"
   },
   {
     "word": "gullible",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "easily believing something that is not true, easily fooled",
     "vi": "dễ tin người",
-    "viDef": "dễ tin điều không thật, dễ bị gạt"
+    "viDef": "dễ tin điều không thật, dễ bị gạt",
+    "ex": "She is a lot more gullible than I thought!",
+    "exHit": "gullible",
+    "exVi": "Cô ấy cả tin hơn tôi tưởng nhiều!"
   },
   {
     "word": "frank",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "used to say that someone is speaking or writing in a very direct and honest way",
     "vi": "thẳng thắn",
-    "viDef": "nói hoặc viết rất trực tiếp và thật lòng"
+    "viDef": "nói hoặc viết rất trực tiếp và thật lòng",
+    "ex": "Let me be frank with you, I don't like the plan.",
+    "exHit": "frank",
+    "exVi": "Tôi nói thẳng với bạn nhé, tôi không thích kế hoạch này."
   },
   {
     "word": "compulsive liar",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "person that can't tell the truth, lies about anything",
     "vi": "kẻ nói dối như bệnh",
-    "viDef": "người không nói thật được, cái gì cũng bịa"
+    "viDef": "người không nói thật được, cái gì cũng bịa",
+    "ex": "Don't trust him, he's a compulsive liar.",
+    "exHit": "compulsive liar",
+    "exVi": "Đừng tin anh ta, anh ta nói dối như một thói quen."
   },
   {
     "word": "disoriented",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "state of not knowing where you are, confused",
     "vi": "mất phương hướng",
-    "viDef": "không biết mình đang ở đâu, lú lẫn"
+    "viDef": "không biết mình đang ở đâu, lú lẫn",
+    "ex": "After the long flight, I felt tired and disoriented.",
+    "exHit": "disoriented",
+    "exVi": "Sau chuyến bay dài, tôi thấy mệt và mất phương hướng."
   },
   {
     "word": "spill the beans",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "tell the truth when you don't really want to; tell someone everything",
     "vi": "nói hết ra",
-    "viDef": "buột miệng kể thật dù không muốn; kể hết mọi chuyện"
+    "viDef": "buột miệng kể thật dù không muốn; kể hết mọi chuyện",
+    "ex": "Don't spill the beans about the surprise party!",
+    "exHit": "spill the beans",
+    "exVi": "Đừng có lỡ miệng nói ra về bữa tiệc bất ngờ đấy!"
   },
   {
     "word": "wizard",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "the male form of a witch; man that practices magic",
     "vi": "pháp sư",
-    "viDef": "phù thủy nam; người làm phép thuật"
+    "viDef": "phù thủy nam; người làm phép thuật",
+    "ex": "The wizard in the story can turn people into frogs.",
+    "exHit": "wizard",
+    "exVi": "Phù thủy trong câu chuyện có thể biến người thành ếch."
   }
 ]

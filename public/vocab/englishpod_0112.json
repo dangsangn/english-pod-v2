@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "slowly forming a block in something",
     "vi": "bị tắc dần",
-    "viDef": "từ từ nghẽn lại bên trong"
+    "viDef": "từ từ nghẽn lại bên trong",
+    "ex": "It seems that your toilet is clogged, and that's why it won't flush.",
+    "exHit": "clogged",
+    "exVi": "Có vẻ bồn cầu của bạn bị tắc, nên nó không xả được."
   },
   {
     "word": "blockage",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "something that stops another thing from passing through",
     "vi": "chỗ nghẽn",
-    "viDef": "thứ chặn không cho vật khác đi qua"
+    "viDef": "thứ chặn không cho vật khác đi qua",
+    "ex": "I suspect that there's some sort of foreign object in the pipes that's causing a blockage.",
+    "exHit": "blockage",
+    "exVi": "Tôi nghi là có vật lạ nào đó trong đường ống gây ra tắc nghẽn."
   },
   {
     "word": "shut off",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "to cause a machine to stop operating",
     "vi": "tắt, ngắt",
-    "viDef": "làm cho máy ngừng chạy"
+    "viDef": "làm cho máy ngừng chạy",
+    "ex": "I would also suggest fixing this faucet that isn't shutting off properly.",
+    "exHit": "shutting off",
+    "exVi": "Tôi cũng đề nghị sửa cái vòi nước này vì nó không đóng chặt được."
   },
   {
     "word": "falling apart",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "slowly break",
     "vi": "rệu rã",
-    "viDef": "hỏng dần từng phần"
+    "viDef": "hỏng dần từng phần",
+    "ex": "This old house is falling apart!",
+    "exHit": "falling apart",
+    "exVi": "Ngôi nhà cũ này đang xuống cấp rồi!"
   },
   {
     "word": "leak",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "liquid or gas escaping from its containter through",
     "vi": "rò rỉ",
-    "viDef": "nước hoặc khí thoát ra khỏi vật chứa"
+    "viDef": "nước hoặc khí thoát ra khỏi vật chứa",
+    "ex": "See, here, there's water leaking everywhere!",
+    "exHit": "leaking",
+    "exVi": "Nhìn đây, nước đang rò rỉ khắp nơi!"
   },
   {
     "word": "plumber",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "plumber",
     "vi": "thợ sửa ống nước",
-    "viDef": "người làm nghề ống nước"
+    "viDef": "người làm nghề ống nước",
+    "ex": "Did you call for a plumber?",
+    "exHit": "plumber",
+    "exVi": "Bạn có gọi thợ sửa ống nước không?"
   },
   {
     "word": "flush",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "to cause water to clean a toilet",
     "vi": "xả nước",
-    "viDef": "cho nước dội rửa bồn cầu"
+    "viDef": "cho nước dội rửa bồn cầu",
+    "ex": "It seems that your toilet is clogged, and that's why it won't flush.",
+    "exHit": "flush",
+    "exVi": "Có vẻ bồn cầu của bạn bị tắc, nên nó không xả được."
   },
   {
     "word": "plunger",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a tool for unclogging toilets",
     "vi": "cây thông cầu",
-    "viDef": "dụng cụ hút thông bồn cầu"
+    "viDef": "dụng cụ hút thông bồn cầu",
+    "ex": "Let me just get my plunger.",
+    "exHit": "plunger",
+    "exVi": "Để tôi lấy cái thông cống của mình."
   },
   {
     "word": "suspect",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "have an idea about the reason for something",
     "vi": "đoán là",
-    "viDef": "có ý nghĩ về nguyên nhân của việc gì"
+    "viDef": "có ý nghĩ về nguyên nhân của việc gì",
+    "ex": "I suspect that there's some sort of foreign object in the pipes that's causing a blockage.",
+    "exHit": "suspect",
+    "exVi": "Tôi nghi là có vật lạ nào đó trong đường ống gây ra tắc nghẽn."
   },
   {
     "word": "foreign",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "something that doesn't belong",
     "vi": "vật lạ",
-    "viDef": "thứ không thuộc về chỗ đó"
+    "viDef": "thứ không thuộc về chỗ đó",
+    "ex": "I suspect that there's some sort of foreign object in the pipes that's causing a blockage.",
+    "exHit": "foreign",
+    "exVi": "Tôi nghi là có vật lạ nào đó trong đường ống gây ra tắc nghẽn."
   },
   {
     "word": "overflow",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "to flow over the edge of something",
     "vi": "trào ra",
-    "viDef": "chảy vượt qua miệng vật chứa"
+    "viDef": "chảy vượt qua miệng vật chứa",
+    "ex": "That's what's making your toilet overflow.",
+    "exHit": "overflow",
+    "exVi": "Đó là lý do khiến bồn cầu của bạn bị tràn."
   },
   {
     "word": "rusty",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "covered with a reddish brown color",
     "vi": "gỉ sét",
-    "viDef": "phủ lớp màu nâu đỏ"
+    "viDef": "phủ lớp màu nâu đỏ",
+    "ex": "Anyway, these water pipes are really rusty, so they also should be changed.",
+    "exHit": "rusty",
+    "exVi": "Dù sao thì mấy đường ống nước này gỉ sét nặng, nên cũng cần thay."
   },
   {
     "word": "drain",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "to remove liquid from something by letting it flow",
     "vi": "xả cạn",
-    "viDef": "cho chất lỏng chảy hết ra"
+    "viDef": "cho chất lỏng chảy hết ra",
+    "ex": "That could be causing water to not drain completely; that might lead to more problems in the future.",
+    "exHit": "drain",
+    "exVi": "Điều đó có thể khiến nước không thoát hết được; về sau có thể gây thêm vấn đề."
   },
   {
     "word": "faucet",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a device that controls the flow that comes out of",
     "vi": "vòi nước",
-    "viDef": "thiết bị điều chỉnh dòng nước chảy ra"
+    "viDef": "thiết bị điều chỉnh dòng nước chảy ra",
+    "ex": "I would also suggest fixing this faucet that isn't shutting off properly.",
+    "exHit": "faucet",
+    "exVi": "Tôi cũng đề nghị sửa cái vòi nước này vì nó không đóng chặt được."
   },
   {
     "word": "shutting off",
@@ -117,7 +159,10 @@
     "type": "verb",
     "def": "to cause a machine to stop operating",
     "vi": "việc ngắt máy",
-    "viDef": "làm cho máy ngừng hoạt động"
+    "viDef": "làm cho máy ngừng hoạt động",
+    "ex": "I would also suggest fixing this faucet that isn't shutting off properly.",
+    "exHit": "shutting off",
+    "exVi": "Tôi cũng đề nghị sửa cái vòi nước này vì nó không đóng chặt được."
   },
   {
     "word": "pump",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "a machine that moves liquid from one place to another",
     "vi": "máy bơm",
-    "viDef": "máy đẩy chất lỏng từ nơi này sang nơi khác"
+    "viDef": "máy đẩy chất lỏng từ nơi này sang nơi khác",
+    "ex": "We need a pump to get the water out of the basement.",
+    "exHit": "pump",
+    "exVi": "Chúng tôi cần một cái máy bơm để hút nước ra khỏi tầng hầm."
   },
   {
     "word": "burst",
@@ -133,7 +181,10 @@
     "type": "verb",
     "def": "break apart suddenly",
     "vi": "vỡ tung",
-    "viDef": "nứt bung ra đột ngột"
+    "viDef": "nứt bung ra đột ngột",
+    "ex": "The old pipe could burst at any moment.",
+    "exHit": "burst",
+    "exVi": "Đường ống cũ có thể vỡ bất cứ lúc nào."
   },
   {
     "word": "tap",
@@ -141,7 +192,10 @@
     "type": "common noun, singular",
     "def": "the part of the sink that water comes out of",
     "vi": "vòi bồn rửa",
-    "viDef": "chỗ nước chảy ra ở bồn"
+    "viDef": "chỗ nước chảy ra ở bồn",
+    "ex": "Turn off the tap while you brush your teeth.",
+    "exHit": "tap",
+    "exVi": "Hãy tắt vòi nước khi bạn đánh răng."
   },
   {
     "word": "appliance",
@@ -149,7 +203,10 @@
     "type": "common noun, singular",
     "def": "an electric machine with a special purpose",
     "vi": "đồ điện gia dụng",
-    "viDef": "máy điện dùng cho một việc riêng"
+    "viDef": "máy điện dùng cho một việc riêng",
+    "ex": "The washing machine is the most expensive appliance in my house.",
+    "exHit": "appliance",
+    "exVi": "Máy giặt là thiết bị gia dụng đắt nhất trong nhà tôi."
   },
   {
     "word": "flood",
@@ -157,6 +214,9 @@
     "type": "verb",
     "def": "water coming into a place where it shouldn't",
     "vi": "ngập nước",
-    "viDef": "nước tràn vào nơi không đáng có"
+    "viDef": "nước tràn vào nơi không đáng có",
+    "ex": "The broken pipe caused a flood in the kitchen.",
+    "exHit": "flood",
+    "exVi": "Đường ống vỡ đã gây ngập trong bếp."
   }
 ]

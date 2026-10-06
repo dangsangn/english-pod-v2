@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "a greeting phrase",
     "vi": "bạn thế nào",
-    "viDef": "câu chào hỏi"
+    "viDef": "câu chào hỏi",
+    "ex": "Hey, how are you, man!",
+    "exHit": "how are you",
+    "exVi": "Này, bạn khỏe không, anh bạn!"
   },
   {
     "word": "man",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "an informal way of calling a person",
     "vi": "này ông bạn",
-    "viDef": "cách gọi người khác thân mật"
+    "viDef": "cách gọi người khác thân mật",
+    "ex": "Hey, how are you, man!",
+    "exHit": "man",
+    "exVi": "Này, bạn khỏe không, anh bạn!"
   },
   {
     "word": "long time no see",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "a greeting phrase used after two friends have not seen each other for a long time",
     "vi": "lâu quá không gặp",
-    "viDef": "câu chào khi hai người bạn lâu ngày mới thấy nhau"
+    "viDef": "câu chào khi hai người bạn lâu ngày mới thấy nhau",
+    "ex": "Long time no see!",
+    "exHit": "Long time no see",
+    "exVi": "Lâu quá không gặp!"
   },
   {
     "word": "in ages",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "for a long time",
     "vi": "lâu lắc",
-    "viDef": "một thời gian rất dài"
+    "viDef": "một thời gian rất dài",
+    "ex": "Yeah, I haven't seen you in ages!",
+    "exHit": "in ages",
+    "exVi": "Ừ, lâu lắm rồi tôi không gặp bạn!"
   },
   {
     "word": "I am doing great",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "a phrase you use to respond to a greeting",
     "vi": "tôi ổn lắm",
-    "viDef": "câu đáp lại lời chào"
+    "viDef": "câu đáp lại lời chào",
+    "ex": "I am doing great, thanks for asking!",
+    "exHit": "I am doing great",
+    "exVi": "Tôi khỏe lắm, cảm ơn bạn đã hỏi!"
   },
   {
     "word": "run into",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "meeting someone accidentally",
     "vi": "tình cờ gặp",
-    "viDef": "gặp ai không hẹn trước"
+    "viDef": "gặp ai không hẹn trước",
+    "ex": "It's funny running into you like this.",
+    "exHit": "running into",
+    "exVi": "Tình cờ gặp bạn thế này vui thật."
   },
   {
     "word": "catch up on",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "learn about recent past events",
     "vi": "cập nhật chuyện cũ",
-    "viDef": "nghe lại những việc vừa qua"
+    "viDef": "nghe lại những việc vừa qua",
+    "ex": "Well, we were talking and catching up on what we've been doing, talking about work and family, when all of a sudden, Matt saw a mouse run under his chair and he completely lost it!",
+    "exHit": "catching up on",
+    "exVi": "À, bọn tôi nói chuyện và cập nhật chuyện của nhau, nói về công việc và gia đình, thì đột nhiên Matt thấy một con chuột chạy dưới ghế của anh ấy và anh ấy hoàn toàn mất bình tĩnh!"
   },
   {
     "word": "freak out",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "show a lot of emotion; be not able to control emotions",
     "vi": "phát hoảng",
-    "viDef": "bộc phát cảm xúc, không kìm được"
+    "viDef": "bộc phát cảm xúc, không kìm được",
+    "ex": "He started freaking out, and screaming...",
+    "exHit": "freaking out",
+    "exVi": "Anh ấy bắt đầu hoảng loạn và la hét..."
   },
   {
     "word": "shriek",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "screaming in a very high voice",
     "vi": "rú lên",
-    "viDef": "la bằng giọng rất cao"
+    "viDef": "la bằng giọng rất cao",
+    "ex": "Yeah, and the funniest thing was, that he jumped on to his chair and started shrieking like a girl.",
+    "exHit": "shrieking",
+    "exVi": "Ừ, và điều buồn cười nhất là anh ấy nhảy lên ghế và bắt đầu thét lên như con gái."
   },
   {
     "word": "stare",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "look at something for a long time with great attention",
     "vi": "nhìn chằm chằm",
-    "viDef": "nhìn lâu và rất tập trung"
+    "viDef": "nhìn lâu và rất tập trung",
+    "ex": "Everyone was staring and laughing...",
+    "exHit": "staring",
+    "exVi": "Mọi người đều nhìn chằm chằm và cười..."
   },
   {
     "word": "hilarious",
@@ -85,7 +115,10 @@
     "type": "Adjective",
     "def": "very amusing",
     "vi": "cười bò",
-    "viDef": "rất hài"
+    "viDef": "rất hài",
+    "ex": "Oh, and there's a Snoopy on it which is hilarious, hahah...",
+    "exHit": "hilarious",
+    "exVi": "Ồ, và trên đó có hình Snoopy trông buồn cười cực kỳ, ha ha..."
   },
   {
     "word": "lose it",
@@ -93,7 +126,10 @@
     "type": "verb",
     "def": "lose control of your emotions; show strong, negative emotions",
     "vi": "mất kiểm soát",
-    "viDef": "không giữ được cảm xúc, bùng ra dữ dội"
+    "viDef": "không giữ được cảm xúc, bùng ra dữ dội",
+    "ex": "Well, we were talking and catching up on what we've been doing, talking about work and family, when all of a sudden, Matt saw a mouse run under his chair and he completely lost it!",
+    "exHit": "lost it",
+    "exVi": "À, bọn tôi nói chuyện và cập nhật chuyện của nhau, nói về công việc và gia đình, thì đột nhiên Matt thấy một con chuột chạy dưới ghế của anh ấy và anh ấy hoàn toàn mất bình tĩnh!"
   },
   {
     "word": "go nuts",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "go crazy; lose control of yourself",
     "vi": "phát điên",
-    "viDef": "mất tự chủ"
+    "viDef": "mất tự chủ",
+    "ex": "The crowd went nuts when the singer walked on stage.",
+    "exHit": "went nuts",
+    "exVi": "Đám đông phát cuồng khi ca sĩ bước lên sân khấu."
   },
   {
     "word": "a riot",
@@ -109,7 +148,10 @@
     "type": "phrase",
     "def": "a very fun time; or a funny event",
     "vi": "vui nổ trời",
-    "viDef": "khoảng thời gian hoặc chuyện rất hài"
+    "viDef": "khoảng thời gian hoặc chuyện rất hài",
+    "ex": "Our trip to the zoo was a riot!",
+    "exHit": "a riot",
+    "exVi": "Chuyến đi sở thú của chúng tôi vui hết biết!"
   },
   {
     "word": "ridiculous",
@@ -117,7 +159,10 @@
     "type": "Adjective",
     "def": "very silly or unreasonable",
     "vi": "ngớ ngẩn",
-    "viDef": "rất vô lý hoặc dở người"
+    "viDef": "rất vô lý hoặc dở người",
+    "ex": "That excuse is ridiculous, and nobody believes it.",
+    "exHit": "ridiculous",
+    "exVi": "Cái cớ đó thật lố bịch, và không ai tin cả."
   },
   {
     "word": "bizarre",
@@ -125,7 +170,10 @@
     "type": "Adjective",
     "def": "very strange or unusual",
     "vi": "kỳ dị",
-    "viDef": "rất lạ, khác thường"
+    "viDef": "rất lạ, khác thường",
+    "ex": "He wore a bizarre costume to the office party.",
+    "exHit": "bizarre",
+    "exVi": "Anh ấy mặc một bộ trang phục kỳ quặc đến bữa tiệc ở công ty."
   },
   {
     "word": "anecdote",
@@ -133,6 +181,9 @@
     "type": "common noun, singular",
     "def": "a short, amusing story",
     "vi": "câu chuyện vui",
-    "viDef": "mẩu chuyện ngắn, thú vị"
+    "viDef": "mẩu chuyện ngắn, thú vị",
+    "ex": "He told us a funny anecdote about his first job.",
+    "exHit": "anecdote",
+    "exVi": "Anh ấy kể cho chúng tôi một giai thoại vui về công việc đầu tiên của mình."
   }
 ]

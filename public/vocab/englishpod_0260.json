@@ -5,7 +5,10 @@
     "type": "",
     "def": "a specified place to practice shooting",
     "vi": "trường bắn",
-    "viDef": "nơi được chỉ định để tập bắn"
+    "viDef": "nơi được chỉ định để tập bắn",
+    "ex": "Not much, just heading over to the shooting range.",
+    "exHit": "shooting range",
+    "exVi": "Không có gì nhiều, mình chỉ đang đến trường bắn thôi."
   },
   {
     "word": "target",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "object to be aimed at in shooting practice",
     "vi": "bia bắn",
-    "viDef": "vật để nhắm vào khi tập bắn"
+    "viDef": "vật để nhắm vào khi tập bắn",
+    "ex": "They have big targets at the range that we could use to practice and improve your aim.",
+    "exHit": "targets",
+    "exVi": "Ở trường bắn có những tấm bia lớn mà chúng ta có thể dùng để luyện tập và cải thiện khả năng ngắm bắn."
   },
   {
     "word": "revolver",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a small gun with a container for bullets",
     "vi": "súng ổ quay",
-    "viDef": "súng nhỏ có ổ chứa đạn"
+    "viDef": "súng nhỏ có ổ chứa đạn",
+    "ex": "I also have a revolver that's really fun too!",
+    "exHit": "revolver",
+    "exVi": "Tôi còn có một khẩu súng lục ổ quay cũng rất vui nữa!"
   },
   {
     "word": "inspect",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to look at (something) carefully",
     "vi": "kiểm tra",
-    "viDef": "xem xét thứ gì cẩn thận"
+    "viDef": "xem xét thứ gì cẩn thận",
+    "ex": "For example, never handle a weapon that you haven't inspected yourself.",
+    "exHit": "inspected",
+    "exVi": "Ví dụ, đừng bao giờ cầm một khẩu súng mà chính bạn chưa kiểm tra."
   },
   {
     "word": "rifle",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a shoulder firearm with spiral grooves cut in the inner surface of the gun barrel",
     "vi": "súng trường",
-    "viDef": "súng bắn tì vai, nòng có khía xoắn bên trong"
+    "viDef": "súng bắn tì vai, nòng có khía xoắn bên trong",
+    "ex": "He carried a rifle on his shoulder during the hunt.",
+    "exHit": "rifle",
+    "exVi": "Anh ấy đeo một khẩu súng trường trên vai trong chuyến săn."
   },
   {
     "word": "scope",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "instrument on a gun for viewing and aiming at the target",
     "vi": "ống ngắm",
-    "viDef": "thiết bị trên súng để quan sát và nhắm bia"
+    "viDef": "thiết bị trên súng để quan sát và nhắm bia",
+    "ex": "The scope helps you aim at a target far away.",
+    "exHit": "scope",
+    "exVi": "Ống ngắm giúp bạn nhắm vào mục tiêu ở xa."
   },
   {
     "word": "magazine",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a metal receptacle for a number of cartridges, inserted into certain types of automatic weapons",
     "vi": "băng đạn",
-    "viDef": "hộp kim loại chứa nhiều viên đạn, gắn vào một số loại súng tự động"
+    "viDef": "hộp kim loại chứa nhiều viên đạn, gắn vào một số loại súng tự động",
+    "ex": "He put a new magazine into the pistol.",
+    "exHit": "magazine",
+    "exVi": "Anh ấy lắp một hộp tiếp đạn mới vào khẩu súng ngắn."
   },
   {
     "word": "round",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "ammunition for a single shot",
     "vi": "một viên đạn",
-    "viDef": "lượng đạn cho một phát bắn"
+    "viDef": "lượng đạn cho một phát bắn",
+    "ex": "The soldier fired one round at the target.",
+    "exHit": "round",
+    "exVi": "Người lính đã bắn một viên đạn vào mục tiêu."
   },
   {
     "word": "barrel",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "the metal, cylindrical part of a firearm through which the bullet travels",
     "vi": "nòng súng",
-    "viDef": "phần kim loại hình ống của súng, nơi đạn đi qua"
+    "viDef": "phần kim loại hình ống của súng, nơi đạn đi qua",
+    "ex": "Never look down the barrel of a gun.",
+    "exHit": "barrel",
+    "exVi": "Đừng bao giờ nhìn vào nòng súng."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "reduce in value",
     "vi": "giảm giá trị",
-    "viDef": "làm cho mất giá"
+    "viDef": "làm cho mất giá",
+    "ex": "If we lower our prices, we run the risk of devaluing our product.",
+    "exHit": "devaluing",
+    "exVi": "Nếu giảm giá, chúng ta có nguy cơ làm mất giá trị sản phẩm của mình."
   },
   {
     "word": "discerning",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "Showing insight and understanding",
     "vi": "tinh tường",
-    "viDef": "tỏ ra có nhận thức và hiểu biết"
+    "viDef": "tỏ ra có nhận thức và hiểu biết",
+    "ex": "Highly discerning customers know that our coffee is far better than the coffee you buy at the other places.",
+    "exHit": "discerning",
+    "exVi": "Những khách hàng sành sỏi đều biết cà phê của chúng tôi ngon hơn hẳn cà phê ở những nơi khác."
   },
   {
     "word": "state-of-the-art",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the latest and most advanced in technology",
     "vi": "tối tân",
-    "viDef": "mới nhất và tiên tiến nhất về công nghệ"
+    "viDef": "mới nhất và tiên tiến nhất về công nghệ",
+    "ex": "The new lab is full of state-of-the-art equipment.",
+    "exHit": "state-of-the-art",
+    "exVi": "Phòng thí nghiệm mới có toàn thiết bị hiện đại nhất."
   },
   {
     "word": "awareness",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "showing realization and perception",
     "vi": "sự nhận biết",
-    "viDef": "tỏ ra hiểu và cảm nhận được"
+    "viDef": "tỏ ra hiểu và cảm nhận được",
+    "ex": "We've certainly achieved top of mind awareness when it comes to the best best tasting brews and it's important to distinguish ourselves from our competitors.",
+    "exHit": "awareness",
+    "exVi": "Chúng ta chắc chắn đã đạt được độ nhận biết hàng đầu về những loại cà phê ngon nhất, và điều quan trọng là phải tạo sự khác biệt với đối thủ."
   },
   {
     "word": "undermine",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to subvert or weaken insidiously or secretly",
     "vi": "làm xói mòn",
-    "viDef": "ngấm ngầm hoặc âm thầm phá hoặc làm yếu đi"
+    "viDef": "ngấm ngầm hoặc âm thầm phá hoặc làm yếu đi",
+    "ex": "That could definitely be a way we could expand our company, but would we be undermining the essence of the company that way?",
+    "exHit": "undermining",
+    "exVi": "Đó chắc chắn là một cách để mở rộng công ty, nhưng làm vậy liệu có làm suy yếu cốt lõi của công ty không?"
   },
   {
     "word": "Product Placement",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "also called \"embedded marketing\", where a company's products are placed in strategic places in film, television, or other forms of media",
     "vi": "quảng cáo lồng ghép",
-    "viDef": "còn gọi là \"embedded marketing\", đưa sản phẩm của công ty vào những chỗ đắt giá trong phim, truyền hình hoặc các phương tiện khác"
+    "viDef": "còn gọi là \"embedded marketing\", đưa sản phẩm của công ty vào những chỗ đắt giá trong phim, truyền hình hoặc các phương tiện khác",
+    "ex": "The hero drinks a certain soda in the movie, which is product placement.",
+    "exHit": "product placement",
+    "exVi": "Bộ phim cho thấy nhân vật chính uống một loại nước ngọt, đó là quảng cáo lồng ghép sản phẩm."
   },
   {
     "word": "Downturn",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a recession ; when things are not going very well",
     "vi": "giai đoạn đi xuống",
-    "viDef": "thời kỳ suy thoái, khi mọi việc không suôn sẻ"
+    "viDef": "thời kỳ suy thoái, khi mọi việc không suôn sẻ",
+    "ex": "During the downturn, many shops had to close.",
+    "exHit": "downturn",
+    "exVi": "Khi kinh tế đi xuống, nhiều cửa hàng phải đóng cửa."
   },
   {
     "word": "Value Proposition",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "an analysis of the total cost and benefits of a product that a company can deliver its customers",
     "vi": "tuyên bố giá trị",
-    "viDef": "phân tích toàn bộ chi phí và lợi ích của sản phẩm mà công ty có thể mang tới cho khách"
+    "viDef": "phân tích toàn bộ chi phí và lợi ích của sản phẩm mà công ty có thể mang tới cho khách",
+    "ex": "Our value proposition for customers is clear and easy to understand.",
+    "exHit": "value proposition",
+    "exVi": "Bản trình bày giá trị sản phẩm của chúng tôi cho khách hàng rất rõ ràng và thuyết phục."
   },
   {
     "word": "R&D",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Research and development",
     "vi": "nghiên cứu và phát triển",
-    "viDef": "Research and development"
+    "viDef": "Research and development",
+    "ex": "Our company spends a lot on R&D to make better products.",
+    "exHit": "R&D",
+    "exVi": "Công ty tăng chi phí nghiên cứu và phát triển để làm ra sản phẩm tốt hơn."
   },
   {
     "word": "Excel",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to be very good at doing something, to do something better than anyone else",
     "vi": "xuất sắc ở",
-    "viDef": "rất giỏi việc gì, làm việc đó hơn mọi người khác"
+    "viDef": "rất giỏi việc gì, làm việc đó hơn mọi người khác",
+    "ex": "She really excels at math, so she is the best in the class.",
+    "exHit": "excels",
+    "exVi": "Cô ấy rất giỏi môn toán, nên cô ấy đứng đầu lớp."
   },
   {
     "word": "Lifestyle Segmentation",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "when the population is divided up into different categories based upon hobbies, interests, spending habits, etc.",
     "vi": "phân khúc theo lối sống",
-    "viDef": "chia dân số thành các nhóm dựa trên thú vui, sở thích, thói chi tiêu..."
+    "viDef": "chia dân số thành các nhóm dựa trên thú vui, sở thích, thói chi tiêu...",
+    "ex": "Lifestyle segmentation helps us see which group of customers likes sports.",
+    "exHit": "Lifestyle segmentation",
+    "exVi": "Phân khúc theo lối sống giúp chúng ta biết nhóm khách hàng nào thích chơi thể thao."
   },
   {
     "word": "Word of Mouth",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "advertisement that is spread through positive reviews from consumers, instead of from print or TV commercials",
     "vi": "truyền miệng",
-    "viDef": "cách quảng bá lan ra nhờ lời khen của người dùng, không phải nhờ báo in hay quảng cáo tivi"
+    "viDef": "cách quảng bá lan ra nhờ lời khen của người dùng, không phải nhờ báo in hay quảng cáo tivi",
+    "ex": "This bakery became famous mostly by word of mouth, not by advertising.",
+    "exHit": "word of mouth",
+    "exVi": "Tiệm bánh này nổi tiếng chủ yếu nhờ truyền miệng chứ không nhờ quảng cáo."
   }
 ]

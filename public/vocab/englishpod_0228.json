@@ -5,7 +5,10 @@
     "type": "",
     "def": "something that is spread all over an area",
     "vi": "rải rác",
-    "viDef": "trải khắp một vùng"
+    "viDef": "trải khắp một vùng",
+    "ex": "The sun is hot and there are just a few clouds scattered here and there!",
+    "exHit": "scattered",
+    "exVi": "Trời nắng gắt và chỉ có vài đám mây rải rác đây đó thôi!"
   },
   {
     "word": "here and there",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "in or to various places",
     "vi": "đây đó",
-    "viDef": "ở hoặc tới nhiều nơi khác nhau"
+    "viDef": "ở hoặc tới nhiều nơi khác nhau",
+    "ex": "The sun is hot and there are just a few clouds scattered here and there!",
+    "exHit": "here and there",
+    "exVi": "Trời nắng gắt và chỉ có vài đám mây rải rác đây đó thôi!"
   },
   {
     "word": "spot",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a particular space or area",
     "vi": "chỗ, điểm",
-    "viDef": "một khoảng hoặc khu vực nhất định"
+    "viDef": "một khoảng hoặc khu vực nhất định",
+    "ex": "This looks like the perfect spot!",
+    "exHit": "spot",
+    "exVi": "Chỗ này trông thật hoàn hảo!"
   },
   {
     "word": "set up",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "prepare",
     "vi": "chuẩn bị, thiết lập",
-    "viDef": "sắp cho sẵn sàng"
+    "viDef": "sắp cho sẵn sàng",
+    "ex": "Can you help me set up my voicemail message?",
+    "exHit": "set up",
+    "exVi": "Bạn giúp tôi cài đặt tin nhắn thư thoại được không?"
   },
   {
     "word": "lay down",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "assume a reclining position",
     "vi": "nằm xuống",
-    "viDef": "ngả người ra"
+    "viDef": "ngả người ra",
+    "ex": "Here, Mary, help me lay down these beach towels.",
+    "exHit": "lay down",
+    "exVi": "Đây, Mary, giúp mẹ trải mấy chiếc khăn tắm này xuống nào."
   },
   {
     "word": "Frisbee",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a light, plastic disk for playing",
     "vi": "đĩa bay nhựa",
-    "viDef": "đĩa nhựa nhẹ dùng để chơi ném"
+    "viDef": "đĩa nhựa nhẹ dùng để chơi ném",
+    "ex": "Ok kids, here's a beach ball and a Frisbee, a pail and a shovel.",
+    "exHit": "Frisbee",
+    "exVi": "Nào các con, đây là quả bóng bãi biển và đĩa ném Frisbee, một cái xô và một cái xẻng."
   },
   {
     "word": "shovel",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a hand tool for lifting loose material",
     "vi": "cái xẻng",
-    "viDef": "dụng cụ cầm tay để xúc vật liệu rời"
+    "viDef": "dụng cụ cầm tay để xúc vật liệu rời",
+    "ex": "Ok kids, here's a beach ball and a Frisbee, a pail and a shovel.",
+    "exHit": "shovel",
+    "exVi": "Nào các con, đây là quả bóng bãi biển và đĩa ném Frisbee, một cái xô và một cái xẻng."
   },
   {
     "word": "sandcastle",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a small model of a castle that is made of sand",
     "vi": "lâu đài cát",
-    "viDef": "mô hình lâu đài nhỏ đắp bằng cát"
+    "viDef": "mô hình lâu đài nhỏ đắp bằng cát",
+    "ex": "I want to see an impressive sandcastle by the time we leave.",
+    "exHit": "sandcastle",
+    "exVi": "Mẹ muốn thấy một lâu đài cát thật ấn tượng trước khi chúng ta ra về."
   },
   {
     "word": "stray",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "go in a direction that is away from a group",
     "vi": "đi lạc",
-    "viDef": "đi theo hướng tách khỏi nhóm"
+    "viDef": "đi theo hướng tách khỏi nhóm",
+    "ex": "Don't stray too far.",
+    "exHit": "stray",
+    "exVi": "Đừng đi lạc xa quá nhé."
   },
   {
     "word": "shallow",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "having little depth",
     "vi": "cạn",
-    "viDef": "độ sâu ít"
+    "viDef": "độ sâu ít",
+    "ex": "And stay in the shallow area.",
+    "exHit": "shallow",
+    "exVi": "Và hãy ở trong vùng nước nông."
   },
   {
     "word": "floaty",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "life saving appliance in the ocean",
     "vi": "phao nổi",
-    "viDef": "vật cứu sinh dùng khi ở biển"
+    "viDef": "vật cứu sinh dùng khi ở biển",
+    "ex": "It's too deep out there and we didn't bring your floaties.",
+    "exHit": "floaties",
+    "exVi": "Ngoài kia sâu quá và chúng ta không mang phao của con theo."
   },
   {
     "word": "sandbar",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a raised area of sand with a top",
     "vi": "doi cát",
-    "viDef": "gò cát nhô cao có mặt bằng phía trên"
+    "viDef": "gò cát nhô cao có mặt bằng phía trên",
+    "ex": "I don't want to see you go any farther than that sandbar!",
+    "exHit": "sandbar",
+    "exVi": "Mẹ không muốn thấy con đi xa hơn bãi cát ngầm đó!"
   },
   {
     "word": "sun glasses",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "glasses which protect the eyes from the sun",
     "vi": "kính râm",
-    "viDef": "kính che mắt khỏi ánh nắng"
+    "viDef": "kính che mắt khỏi ánh nắng",
+    "ex": "The sun was so bright that I had to put on my sun glasses.",
+    "exHit": "sun glasses",
+    "exVi": "Nắng chói đến mức tôi phải đeo kính râm."
   },
   {
     "word": "sun tan",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "a darkening of the skin from long exposure to the sun",
     "vi": "da rám nắng",
-    "viDef": "việc da sạm đi do phơi nắng lâu"
+    "viDef": "việc da sạm đi do phơi nắng lâu",
+    "ex": "After a week at the beach, he had a deep sun tan.",
+    "exHit": "sun tan",
+    "exVi": "Sau một tuần ở bãi biển, anh ấy có làn da rám nắng đậm."
   },
   {
     "word": "beach bum",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "a person who spends everyday at the beach",
     "vi": "dân bám biển",
-    "viDef": "người ngày nào cũng ra bãi biển"
+    "viDef": "người ngày nào cũng ra bãi biển",
+    "ex": "He quit his job and became a beach bum who surfs all day.",
+    "exHit": "beach bum",
+    "exVi": "Anh ấy bỏ việc và thành kẻ lang thang bãi biển lướt sóng cả ngày."
   },
   {
     "word": "sunburn",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "a skin irration caused by overexposure to the sun",
     "vi": "cháy nắng",
-    "viDef": "da bị kích ứng do phơi nắng quá nhiều"
+    "viDef": "da bị kích ứng do phơi nắng quá nhiều",
+    "ex": "I forgot my sunscreen and got a bad sunburn on my back.",
+    "exHit": "sunburn",
+    "exVi": "Tôi quên kem chống nắng và bị cháy nắng nặng ở lưng."
   },
   {
     "word": "star fish",
@@ -133,6 +181,9 @@
     "type": "",
     "def": "star shaped fish found in the ocean",
     "vi": "sao biển",
-    "viDef": "loài cá hình ngôi sao sống ở biển"
+    "viDef": "loài cá hình ngôi sao sống ở biển",
+    "ex": "The children found a red star fish on the rocks near the water.",
+    "exHit": "star fish",
+    "exVi": "Bọn trẻ tìm thấy một con sao biển đỏ trên đá gần mép nước."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "hold on",
     "vi": "chờ một giây",
-    "viDef": "đợi chút"
+    "viDef": "đợi chút",
+    "ex": "Can we hang on a sec?",
+    "exHit": "hang on a sec",
+    "exVi": "Chờ một chút được không?"
   },
   {
     "word": "wait ages",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "wait for a very long time",
     "vi": "chờ dài cổ",
-    "viDef": "đợi rất lâu"
+    "viDef": "đợi rất lâu",
+    "ex": "It's raining cats and dogs outside and I had to wait ages for a taxi.",
+    "exHit": "wait ages",
+    "exVi": "Ngoài trời mưa như trút nước và tôi phải chờ taxi rất lâu."
   },
   {
     "word": "hold up",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "stuck",
     "vi": "bị kẹt lại",
-    "viDef": "mắc lại, chưa đi được"
+    "viDef": "mắc lại, chưa đi được",
+    "ex": "Sorry, I got held up at work and couldn't call you.",
+    "exHit": "held up",
+    "exVi": "Xin lỗi, tôi bị kẹt ở chỗ làm nên không gọi cho bạn được."
   },
   {
     "word": "I am terribly sorry",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "Very sorry",
     "vi": "tôi vô cùng xin lỗi",
-    "viDef": "rất lấy làm tiếc"
+    "viDef": "rất lấy làm tiếc",
+    "ex": "I am terribly sorry for keeping you waiting so long.",
+    "exHit": "I am terribly sorry",
+    "exVi": "Tôi vô cùng xin lỗi vì để bạn chờ lâu như vậy."
   },
   {
     "word": "please excuse me",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "pardon",
     "vi": "xin thứ lỗi",
-    "viDef": "mong bỏ qua cho"
+    "viDef": "mong bỏ qua cho",
+    "ex": "Please excuse me,I was held up in traffic.",
+    "exHit": "Please excuse me",
+    "exVi": "Xin thứ lỗi, tôi bị kẹt xe."
   },
   {
     "word": "late",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "occurring, coming, or being after the usual or proper time",
     "vi": "muộn",
-    "viDef": "xảy ra hoặc đến sau giờ thường lệ hay đúng lẽ"
+    "viDef": "xảy ra hoặc đến sau giờ thường lệ hay đúng lẽ",
+    "ex": "Hi everyone, I'm so sorry I'm late.",
+    "exHit": "late",
+    "exVi": "Chào mọi người, tôi xin lỗi vì đến muộn."
   },
   {
     "word": "absent",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "not in a certain place at a given time",
     "vi": "vắng mặt",
-    "viDef": "không có mặt ở một nơi vào một lúc nhất định"
+    "viDef": "không có mặt ở một nơi vào một lúc nhất định",
+    "ex": "Three students were absent from class this morning.",
+    "exHit": "absent",
+    "exVi": "Sáng nay có ba học sinh vắng mặt trong lớp."
   },
   {
     "word": "excuse",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to offer an apology for; seek to remove the blame of",
     "vi": "xin lỗi, biện bạch",
-    "viDef": "đưa ra lời xin lỗi, tìm cách gỡ trách nhiệm"
+    "viDef": "đưa ra lời xin lỗi, tìm cách gỡ trách nhiệm",
+    "ex": "Please excuse me,I was held up in traffic.",
+    "exHit": "excuse",
+    "exVi": "Xin thứ lỗi, tôi bị kẹt xe."
   },
   {
     "word": "slack",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "negligent; careless",
     "vi": "lơ là",
-    "viDef": "cẩu thả, thiếu chú tâm"
+    "viDef": "cẩu thả, thiếu chú tâm",
+    "ex": "Don't get slack with your work just because it's Friday.",
+    "exHit": "slack",
+    "exVi": "Đừng làm việc cẩu thả chỉ vì hôm nay là thứ Sáu."
   }
 ]

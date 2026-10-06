@@ -5,7 +5,10 @@
     "type": "",
     "def": "a film that appeals to women",
     "vi": "phim cho phái nữ",
-    "viDef": "bộ phim hợp thị hiếu phụ nữ"
+    "viDef": "bộ phim hợp thị hiếu phụ nữ",
+    "ex": "Next time I'm picking the film, because I don't want to end up seeing a chick flick.",
+    "exHit": "chick flick",
+    "exVi": "Lần sau tôi sẽ chọn phim, vì tôi không muốn rốt cuộc lại xem phim tình cảm sướt mướt."
   },
   {
     "word": "sarcastic",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the use of words to show irritation",
     "vi": "châm chọc",
-    "viDef": "dùng lời để tỏ ý bực"
+    "viDef": "dùng lời để tỏ ý bực",
+    "ex": "You see, that's what I'm talking about, I can't stand your sarcastic jokes anymore",
+    "exHit": "sarcastic",
+    "exVi": "Thấy chưa, đó là điều tôi nói đấy, tôi không chịu nổi những câu đùa mỉa mai của bạn nữa."
   },
   {
     "word": "in touch with",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to be in close contact with",
     "vi": "gần gũi với",
-    "viDef": "giữ liên hệ sát sao"
+    "viDef": "giữ liên hệ sát sao",
+    "ex": "Next time, go with your gay friend who is more in touch with his feelings.",
+    "exHit": "in touch with",
+    "exVi": "Lần sau hãy đi với người bạn đồng tính của bạn, anh ấy hiểu rõ cảm xúc của mình hơn."
   },
   {
     "word": "one-night-stand",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a random and temporary romantic encounter",
     "vi": "qua đêm một lần",
-    "viDef": "cuộc gần gũi tình cờ, chỉ một lần"
+    "viDef": "cuộc gần gũi tình cờ, chỉ một lần",
+    "ex": "He regretted a one-night-stand with a coworker because it made work awkward.",
+    "exHit": "one-night-stand",
+    "exVi": "Anh ấy hối hận vì chuyện tình một đêm với đồng nghiệp vì nó khiến công việc trở nên gượng gạo."
   },
   {
     "word": "criticize",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to express disapproval",
     "vi": "chỉ trích",
-    "viDef": "tỏ ý không tán thành"
+    "viDef": "tỏ ý không tán thành",
+    "ex": "Don't criticize Mario or else I'll start on those fat, drunk friends of yours; they're no saints.",
+    "exHit": "criticize",
+    "exVi": "Đừng chỉ trích Mario, nếu không tôi sẽ bắt đầu nói về mấy người bạn béo ú, say xỉn của bạn; họ cũng chẳng phải thánh đâu."
   },
   {
     "word": "unbearable",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "too bad to be accepted or endured",
     "vi": "không chịu nổi",
-    "viDef": "tệ tới mức không chấp nhận hay chịu đựng được"
+    "viDef": "tệ tới mức không chấp nhận hay chịu đựng được",
+    "ex": "You're unbearable; you can walk home, I'm leaving.",
+    "exHit": "unbearable",
+    "exVi": "Bạn thật không thể chịu nổi; bạn cứ đi bộ về nhà đi, tôi đi đây."
   },
   {
     "word": "intolerable",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "too bad to be accepted or endured",
     "vi": "quá sức chịu đựng",
-    "viDef": "tệ đến mức không thể nhận hoặc kham được"
+    "viDef": "tệ đến mức không thể nhận hoặc kham được",
+    "ex": "The noise from the building site next door is intolerable after midnight.",
+    "exHit": "intolerable",
+    "exVi": "Tiếng ồn từ công trình bên cạnh sau nửa đêm thật không thể chịu nổi."
   },
   {
     "word": "chauvinist",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "Prejudiced belief in the superiority of one's own gender, group, or kind",
     "vi": "kẻ tự tôn phái mình",
-    "viDef": "người định kiến rằng phái, nhóm hoặc loại của mình hơn hẳn"
+    "viDef": "người định kiến rằng phái, nhóm hoặc loại của mình hơn hẳn",
+    "ex": "He is such a chauvinist that he thinks women can't be good bosses.",
+    "exHit": "chauvinist",
+    "exVi": "Anh ta là kẻ trọng nam khinh nữ đến mức nghĩ phụ nữ không thể làm sếp giỏi."
   },
   {
     "word": "make fun of",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "To mock; ridicule.",
     "vi": "lấy ra làm trò cười",
-    "viDef": "nhại, chê cười"
+    "viDef": "nhại, chê cười",
+    "ex": "Please don't make fun of my accent; I'm still learning English.",
+    "exHit": "make fun of",
+    "exVi": "Làm ơn đừng chế giễu giọng của tôi; tôi vẫn đang học tiếng Anh."
   },
   {
     "word": "brag",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to speak arrogantly and boastfully",
     "vi": "khoe mẽ",
-    "viDef": "nói năng tự cao, khoác lác"
+    "viDef": "nói năng tự cao, khoác lác",
+    "ex": "He likes to brag about his new car to everyone at the office.",
+    "exHit": "brag",
+    "exVi": "Anh ta thích khoe khoang chiếc xe mới với mọi người ở văn phòng."
   },
   {
     "word": "discuss",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "to consider (something) by talking it over",
     "vi": "bàn bạc",
-    "viDef": "cùng nói ra để xem xét việc gì"
+    "viDef": "cùng nói ra để xem xét việc gì",
+    "ex": "Let's discuss the problem over lunch and find a solution together.",
+    "exHit": "discuss",
+    "exVi": "Chúng ta hãy bàn về vấn đề này trong bữa trưa và cùng tìm ra giải pháp."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "fall asleep",
     "vi": "đi vào giấc",
-    "viDef": "ngủ được"
+    "viDef": "ngủ được",
+    "ex": "I always go to sleep around eleven, but last night I stayed up late.",
+    "exHit": "go to sleep",
+    "exVi": "Tôi luôn đi ngủ khoảng mười một giờ, nhưng tối qua tôi thức khuya."
   },
   {
     "word": "sedative",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a drug that calms or relaxes someone",
     "vi": "thuốc an thần",
-    "viDef": "thuốc làm cho dịu hoặc thư giãn"
+    "viDef": "thuốc làm cho dịu hoặc thư giãn",
+    "ex": "Just take some sedatives!",
+    "exHit": "sedatives",
+    "exVi": "Cứ uống ít thuốc an thần đi!"
   },
   {
     "word": "nightmare",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a dream that cause horror",
     "vi": "cơn ác mộng",
-    "viDef": "giấc mơ gây kinh hoàng"
+    "viDef": "giấc mơ gây kinh hoàng",
+    "ex": "And then when I finally get to sleep, I have these really disturbing nightmares, so I usually wake up in a panic and more tired than before I went to sleep.",
+    "exHit": "nightmares",
+    "exVi": "Và rồi khi cuối cùng ngủ được, tôi gặp những cơn ác mộng rất đáng sợ, nên thường tỉnh dậy trong hoảng loạn và mệt hơn trước khi đi ngủ."
   },
   {
     "word": "sleeping pattern",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the regular time of sleeping",
     "vi": "nếp ngủ",
-    "viDef": "giờ ngủ đều đặn"
+    "viDef": "giờ ngủ đều đặn",
+    "ex": "It's the stuff pilots use to regulate their sleeping patterns.",
+    "exHit": "sleeping patterns",
+    "exVi": "Đó là thứ phi công dùng để điều chỉnh nhịp ngủ của họ."
   },
   {
     "word": "do the trick",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "accomplish the desired task",
     "vi": "thế là xong việc",
-    "viDef": "đạt được điều mình muốn"
+    "viDef": "đạt được điều mình muốn",
+    "ex": "Sounds like he only has transient insomnia since it's a recent thing so taking melatonin do the trick.",
+    "exHit": "do the trick",
+    "exVi": "Có vẻ anh ấy chỉ bị mất ngủ thoáng qua vì mới xảy ra gần đây, nên uống melatonin là có tác dụng."
   },
   {
     "word": "sleeping disorder",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "people who have a medical disorder of the sleep",
     "vi": "rối loạn giấc ngủ",
-    "viDef": "người mắc bệnh về giấc ngủ"
+    "viDef": "người mắc bệnh về giấc ngủ",
+    "ex": "It works on all kinds of sleeping disorders.",
+    "exHit": "sleeping disorders",
+    "exVi": "Nó có tác dụng với mọi loại rối loạn giấc ngủ."
   },
   {
     "word": "get to sleep",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "fall asleep",
     "vi": "ngủ được",
-    "viDef": "chìm vào giấc"
+    "viDef": "chìm vào giấc",
+    "ex": "I usually lie in bed for hours trying to get to sleep.",
+    "exHit": "get to sleep",
+    "exVi": "Tôi thường nằm trên giường hàng giờ để cố ngủ."
   },
   {
     "word": "sleeping pills",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "medication used to help you fall asleep",
     "vi": "thuốc ngủ",
-    "viDef": "thuốc dùng để dễ vào giấc"
+    "viDef": "thuốc dùng để dễ vào giấc",
+    "ex": "The doctor said I should not take sleeping pills every night.",
+    "exHit": "sleeping pills",
+    "exVi": "Bác sĩ nói tôi không nên uống thuốc ngủ mỗi đêm."
   },
   {
     "word": "night terrors",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "severe nightmares",
     "vi": "hoảng sợ ban đêm",
-    "viDef": "những cơn ác mộng dữ dội"
+    "viDef": "những cơn ác mộng dữ dội",
+    "ex": "My son has night terrors and screams in his sleep sometimes.",
+    "exHit": "night terrors",
+    "exVi": "Con trai tôi bị chứng kinh hoàng đêm và thỉnh thoảng hét lên trong lúc ngủ."
   },
   {
     "word": "sleep apnea",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a sleep disorder where the breathing is irregular",
     "vi": "ngưng thở khi ngủ",
-    "viDef": "chứng rối loạn khiến hơi thở lúc ngủ không đều"
+    "viDef": "chứng rối loạn khiến hơi thở lúc ngủ không đều",
+    "ex": "My dad has sleep apnea, so he wears a mask at night.",
+    "exHit": "sleep apnea",
+    "exVi": "Bố tôi bị ngưng thở khi ngủ nên ông đeo mặt nạ thở vào ban đêm."
   },
   {
     "word": "REM cycle",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "the sleeping cycle",
     "vi": "chu kỳ REM",
-    "viDef": "chu kỳ của giấc ngủ"
+    "viDef": "chu kỳ của giấc ngủ",
+    "ex": "If you wake up in the middle of your REM cycle, you feel very tired.",
+    "exHit": "REM cycle",
+    "exVi": "Nếu bạn thức dậy giữa chu kỳ REM, bạn sẽ thấy rất mệt."
   },
   {
     "word": "sleep deprivation",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "to go without sleep for a long period of time",
     "vi": "thiếu ngủ",
-    "viDef": "việc phải sống không ngủ trong thời gian dài"
+    "viDef": "việc phải sống không ngủ trong thời gian dài",
+    "ex": "Sleep deprivation made it hard for me to focus at work all week.",
+    "exHit": "Sleep deprivation",
+    "exVi": "Thiếu ngủ khiến tôi khó tập trung làm việc cả tuần."
   }
 ]

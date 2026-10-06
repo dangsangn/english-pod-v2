@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "group of photos, documents, articles, and information about a company given to reporters, newspapers, magazines, etc.",
     "vi": "bộ tài liệu báo chí",
-    "viDef": "tập ảnh, văn bản, bài viết và thông tin về công ty phát cho báo chí"
+    "viDef": "tập ảnh, văn bản, bài viết và thông tin về công ty phát cho báo chí",
+    "ex": "So, Casey, how are things going with the photos for the press kit?",
+    "exHit": "press kit",
+    "exVi": "Này Casey, việc chụp ảnh cho bộ hồ sơ báo chí đến đâu rồi?"
   },
   {
     "word": "I've been meaning to",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "intend, plan to do something",
     "vi": "tôi vẫn định...",
-    "viDef": "có ý, dự tính làm việc gì"
+    "viDef": "có ý, dự tính làm việc gì",
+    "ex": "Yeah, I've been meaning to talk to you about that.",
+    "exHit": "I've been meaning to",
+    "exVi": "Ừ, tôi vẫn định nói chuyện với bạn về việc đó."
   },
   {
     "word": "extension",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "make a deadline longer, extra time to do something",
     "vi": "gia hạn",
-    "viDef": "nới hạn chót, thêm thời gian để làm"
+    "viDef": "nới hạn chót, thêm thời gian để làm",
+    "ex": "I might need to ask for an extension on that deadline.",
+    "exHit": "extension",
+    "exVi": "Có thể tôi sẽ phải xin gia hạn thời hạn đó."
   },
   {
     "word": "deadline",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "the date when something must be finished",
     "vi": "hạn chót",
-    "viDef": "ngày phải hoàn thành"
+    "viDef": "ngày phải hoàn thành",
+    "ex": "I might need to ask for an extension on that deadline.",
+    "exHit": "deadline",
+    "exVi": "Có thể tôi sẽ phải xin gia hạn thời hạn đó."
   },
   {
     "word": "finalize",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "finish, decide on all the details",
     "vi": "chốt lại",
-    "viDef": "làm xong, quyết hết các chi tiết"
+    "viDef": "làm xong, quyết hết các chi tiết",
+    "ex": "You've had over a month to get this finalized!",
+    "exHit": "finalized",
+    "exVi": "Bạn đã có hơn một tháng để hoàn tất việc này rồi!"
   },
   {
     "word": "delay",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "late",
     "vi": "trễ, chậm",
-    "viDef": "muộn"
+    "viDef": "muộn",
+    "ex": "I know, and I apologize for the delay.",
+    "exHit": "delay",
+    "exVi": "Tôi biết, và tôi xin lỗi vì sự chậm trễ."
   },
   {
     "word": "run into",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "meet or encounter",
     "vi": "gặp phải",
-    "viDef": "tình cờ gặp hoặc vướng phải"
+    "viDef": "tình cờ gặp hoặc vướng phải",
+    "ex": "I ran into some problems while I was finishing the photos.",
+    "exHit": "ran into",
+    "exVi": "Tôi gặp một vài vấn đề khi đang hoàn thành mấy tấm ảnh."
   },
   {
     "word": "beyond someone's control",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "not able to control something",
     "vi": "ngoài tầm kiểm soát",
-    "viDef": "không kiểm soát được"
+    "viDef": "không kiểm soát được",
+    "ex": "The delay was beyond my control, so I'm really sorry.",
+    "exHit": "beyond my control",
+    "exVi": "Sự chậm trễ này nằm ngoài khả năng kiểm soát của tôi, nên tôi thật sự xin lỗi."
   },
   {
     "word": "put (something) off",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "plan to do something later",
     "vi": "hoãn lại",
-    "viDef": "định để sau mới làm"
+    "viDef": "định để sau mới làm",
+    "ex": "I'm not going to put this off any longer, Casey!",
+    "exHit": "put this off",
+    "exVi": "Tôi sẽ không trì hoãn chuyện này thêm nữa đâu, Casey!"
   },
   {
     "word": "due",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "the date when something must be finished or happen",
     "vi": "đến hạn",
-    "viDef": "ngày phải xong hoặc phải diễn ra"
+    "viDef": "ngày phải xong hoặc phải diễn ra",
+    "ex": "The report is due on Friday, so I have to hurry.",
+    "exHit": "due",
+    "exVi": "Báo cáo phải nộp vào thứ Sáu, nên tôi phải nhanh lên."
   },
   {
     "word": "procrastinate",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "not do something now that should be done; do something later procrastinate",
     "vi": "chần chừ",
-    "viDef": "việc đáng làm ngay thì không làm mà để lại sau"
+    "viDef": "việc đáng làm ngay thì không làm mà để lại sau",
+    "ex": "I always procrastinate when I have a big project.",
+    "exHit": "procrastinate",
+    "exVi": "Tôi luôn trì hoãn mỗi khi có một dự án lớn."
   },
   {
     "word": "behind",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "late with a project or things you have to do",
     "vi": "trễ tiến độ",
-    "viDef": "chậm so với công việc phải làm"
+    "viDef": "chậm so với công việc phải làm",
+    "ex": "I'm behind on my work, so I'll stay late today.",
+    "exHit": "behind",
+    "exVi": "Tôi đang chậm tiến độ công việc, nên hôm nay tôi sẽ ở lại muộn."
   },
   {
     "word": "hold up",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "delay or slow something",
     "vi": "làm chậm lại",
-    "viDef": "gây trì hoãn hoặc làm chậm việc gì"
+    "viDef": "gây trì hoãn hoặc làm chậm việc gì",
+    "ex": "A problem with the printer is holding up the whole project.",
+    "exHit": "holding up",
+    "exVi": "Một sự cố ở máy in đang làm chậm cả dự án."
   },
   {
     "word": "tight deadline",
@@ -109,6 +148,9 @@
     "type": "phrase",
     "def": "a deadline that is really difficult to meet",
     "vi": "hạn gấp",
-    "viDef": "hạn chót rất khó kịp"
+    "viDef": "hạn chót rất khó kịp",
+    "ex": "We have a tight deadline, so everybody must work fast.",
+    "exHit": "tight deadline",
+    "exVi": "Chúng ta có thời hạn rất gấp, nên mọi người phải làm việc nhanh."
   }
 ]

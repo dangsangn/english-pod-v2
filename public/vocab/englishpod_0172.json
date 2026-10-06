@@ -5,7 +5,10 @@
     "type": "",
     "def": "way to clean clothes without water using chemicals",
     "vi": "giặt khô",
-    "viDef": "cách làm sạch quần áo bằng hóa chất, không dùng nước"
+    "viDef": "cách làm sạch quần áo bằng hóa chất, không dùng nước",
+    "ex": "I need this dress and this suit dry cleaned ASAP!",
+    "exHit": "dry cleaned",
+    "exVi": "Tôi cần giặt khô gấp cái váy và bộ vest này!"
   },
   {
     "word": "spill",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to allow something to fall from the container",
     "vi": "làm đổ",
-    "viDef": "để thứ gì rơi ra khỏi vật đựng"
+    "viDef": "để thứ gì rơi ra khỏi vật đựng",
+    "ex": "I accidentally spilled beer all over my wife's dress and we have a wedding to attend tomorrow!",
+    "exHit": "spilled",
+    "exVi": "Tôi lỡ làm đổ bia lên váy của vợ, mà ngày mai chúng tôi phải đi dự đám cưới!"
   },
   {
     "word": "stained",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "marked or dyed or discolored with foreign matter",
     "vi": "bị vết bẩn",
-    "viDef": "bị đánh dấu, loang màu do chất lạ"
+    "viDef": "bị đánh dấu, loang màu do chất lạ",
+    "ex": "Ok, I can have it ready tomorrow afternoon, but this suit is also very stained.",
+    "exHit": "stained",
+    "exVi": "Được, chiều mai tôi có thể làm xong, nhưng bộ vest này cũng dính nhiều vết bẩn lắm."
   },
   {
     "word": "starch",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "stiffen (clothes, etc) with starch",
     "vi": "hồ cứng",
-    "viDef": "làm cứng quần áo bằng hồ"
+    "viDef": "làm cứng quần áo bằng hồ",
+    "ex": "Can you also iron and starch this shirt?",
+    "exHit": "starch",
+    "exVi": "Anh có thể ủi và hồ cứng giúp tôi chiếc áo sơ mi này luôn không?"
   },
   {
     "word": "iron",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to smooth clothes with a heated iron",
     "vi": "ủi",
-    "viDef": "là cho phẳng bằng bàn ủi nóng"
+    "viDef": "là cho phẳng bằng bàn ủi nóng",
+    "ex": "Can you also iron and starch this shirt?",
+    "exHit": "iron",
+    "exVi": "Anh có thể ủi và hồ cứng giúp tôi chiếc áo sơ mi này luôn không?"
   },
   {
     "word": "delicate",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "easily damaged",
     "vi": "dễ hư",
-    "viDef": "dễ bị hỏng"
+    "viDef": "dễ bị hỏng",
+    "ex": "Please be careful, this blouse is very delicate.",
+    "exHit": "delicate",
+    "exVi": "Xin hãy cẩn thận, chiếc áo này rất dễ hư."
   },
   {
     "word": "fabric",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "cloth",
     "vi": "vải",
-    "viDef": "chất liệu vải"
+    "viDef": "chất liệu vải",
+    "ex": "This fabric feels soft, but it wrinkles easily.",
+    "exHit": "fabric",
+    "exVi": "Loại vải này mềm nhưng dễ nhăn."
   },
   {
     "word": "neighborhood",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the surrounding area",
     "vi": "khu quanh đây",
-    "viDef": "vùng lân cận"
+    "viDef": "vùng lân cận",
+    "ex": "There's a good dry cleaner in my neighborhood.",
+    "exHit": "neighborhood",
+    "exVi": "Khu tôi ở có một tiệm giặt khô tốt."
   },
   {
     "word": "to press",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to iron",
     "vi": "ép ủi",
-    "viDef": "là phẳng"
+    "viDef": "là phẳng",
+    "ex": "Could you press this shirt before tomorrow morning?",
+    "exHit": "press",
+    "exVi": "Bạn có thể ủi chiếc áo này trước sáng mai không?"
   },
   {
     "word": "hanger",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a shoulder-shaped frame with a hook at the top for draping and hanging a piece of clothing when not in use",
     "vi": "móc áo",
-    "viDef": "khung hình vai có móc trên đỉnh để treo quần áo khi không dùng"
+    "viDef": "khung hình vai có móc trên đỉnh để treo quần áo khi không dùng",
+    "ex": "Please put the jacket on a hanger so it doesn't wrinkle.",
+    "exHit": "hanger",
+    "exVi": "Hãy treo áo khoác lên móc để nó không bị nhăn."
   }
 ]

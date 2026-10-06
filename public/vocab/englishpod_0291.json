@@ -5,7 +5,10 @@
     "type": "",
     "def": "a very strong desire for something",
     "vi": "cơn thèm",
-    "viDef": "ham muốn rất mạnh với thứ gì"
+    "viDef": "ham muốn rất mạnh với thứ gì",
+    "ex": "Yeah, I've been craving Chinese for such a long time.",
+    "exHit": "craving",
+    "exVi": "Ừ, tôi thèm đồ ăn Trung Quốc lâu lắm rồi."
   },
   {
     "word": "tempting",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "attractive",
     "vi": "hấp dẫn quá",
-    "viDef": "gây thu hút"
+    "viDef": "gây thu hút",
+    "ex": "It's so tempting to order everything on the menu, it all looks so appetizing!",
+    "exHit": "tempting",
+    "exVi": "Muốn gọi hết cả thực đơn quá, món nào trông cũng hấp dẫn!"
   },
   {
     "word": "remedy",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a medicine or treatment",
     "vi": "cách chữa",
-    "viDef": "thuốc hoặc phương pháp trị"
+    "viDef": "thuốc hoặc phương pháp trị",
+    "ex": "There's no better remedy than some nice, greasy, calorie-laden Chinese food.",
+    "exHit": "remedy",
+    "exVi": "Chẳng có phương thuốc nào tốt hơn một bữa ăn Trung Quốc ngon lành, béo ngậy, nhiều calo."
   },
   {
     "word": "take-out",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "food that is sold by a store to be eaten elsewhere",
     "vi": "đồ mang về",
-    "viDef": "thức ăn cửa hàng bán để ăn ở nơi khác"
+    "viDef": "thức ăn cửa hàng bán để ăn ở nơi khác",
+    "ex": "Let's get take-out because I'm too tired to cook.",
+    "exHit": "take-out",
+    "exVi": "Mình mua đồ ăn mang về nhé vì tôi mệt quá không nấu nổi."
   },
   {
     "word": "appetizing",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "delicious",
     "vi": "trông ngon miệng",
-    "viDef": "ngon"
+    "viDef": "ngon",
+    "ex": "It's so tempting to order everything on the menu, it all looks so appetizing!",
+    "exHit": "appetizing",
+    "exVi": "Muốn gọi hết cả thực đơn quá, món nào trông cũng hấp dẫn!"
   },
   {
     "word": "adaptation",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "something that is changed/alerted to suit a new form",
     "vi": "bản biến tấu",
-    "viDef": "thứ được đổi đi để hợp với hình thức mới"
+    "viDef": "thứ được đổi đi để hợp với hình thức mới",
+    "ex": "The movie is an adaptation of a famous novel.",
+    "exHit": "adaptation",
+    "exVi": "Bộ phim này là bản chuyển thể từ một cuốn tiểu thuyết nổi tiếng."
   },
   {
     "word": "guilty pleasure",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "an indulgence,; something that you eat, drink, or do that you shouldn't, but makes you happy",
     "vi": "thú vui thấy tội tội",
-    "viDef": "món buông thả; thứ mình ăn, uống hoặc làm dù lẽ ra không nên, nhưng lại thấy vui"
+    "viDef": "món buông thả; thứ mình ăn, uống hoặc làm dù lẽ ra không nên, nhưng lại thấy vui",
+    "ex": "Chocolate cake at midnight is my guilty pleasure.",
+    "exHit": "guilty pleasure",
+    "exVi": "Bánh sô cô la lúc nửa đêm là thú vui tội lỗi của tôi."
   },
   {
     "word": "hits the spot",
@@ -61,6 +82,9 @@
     "type": "",
     "def": "just right; just what you were looking for (often refers to food or a drink)",
     "vi": "đúng ý ghê",
-    "viDef": "vừa khéo, đúng thứ mình đang muốn, thường nói về đồ ăn thức uống"
+    "viDef": "vừa khéo, đúng thứ mình đang muốn, thường nói về đồ ăn thức uống",
+    "ex": "This hot soup really hits the spot on a cold day.",
+    "exHit": "hits the spot",
+    "exVi": "Món súp nóng này đúng là hợp ý vào một ngày lạnh."
   }
 ]

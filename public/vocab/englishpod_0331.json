@@ -5,7 +5,10 @@
     "type": "",
     "def": "flowing or falling, as from one container to another, or into, over, or on something",
     "vi": "mưa như trút",
-    "viDef": "chảy hoặc rơi ào ào, như từ vật này sang vật khác hoặc lên thứ gì"
+    "viDef": "chảy hoặc rơi ào ào, như từ vật này sang vật khác hoặc lên thứ gì",
+    "ex": "It's pouring out there!",
+    "exHit": "pouring",
+    "exVi": "Ngoài kia mưa như trút!"
   },
   {
     "word": "romantic",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "relating to a feeling of love between a couple",
     "vi": "lãng mạn",
-    "viDef": "liên quan tới tình cảm yêu đương giữa hai người"
+    "viDef": "liên quan tới tình cảm yêu đương giữa hai người",
+    "ex": "That sounds so romantic!",
+    "exHit": "romantic",
+    "exVi": "Nghe lãng mạn quá!"
   },
   {
     "word": "postpone",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "decide to do something at a later time",
     "vi": "hoãn lại",
-    "viDef": "quyết định làm vào lúc khác muộn hơn"
+    "viDef": "quyết định làm vào lúc khác muộn hơn",
+    "ex": "Why don't we postpone it to tomorrow afternoon at the same time?",
+    "exHit": "postpone",
+    "exVi": "Sao chúng ta không hoãn sang chiều mai vào cùng giờ nhỉ?"
   },
   {
     "word": "definitely",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "certainly",
     "vi": "chắc chắn rồi",
-    "viDef": "nhất định"
+    "viDef": "nhất định",
+    "ex": "Definitely.",
+    "exHit": "Definitely",
+    "exVi": "Chắc chắn rồi."
   },
   {
     "word": "in my opinion",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "way to express your opinion",
     "vi": "theo tôi thì",
-    "viDef": "cách nói để nêu ý kiến của mình"
+    "viDef": "cách nói để nêu ý kiến của mình",
+    "ex": "In my opinion it's actually becoming more expensive than back home.",
+    "exHit": "In my opinion",
+    "exVi": "Theo tôi thì thực ra ở đây đang đắt hơn cả ở quê tôi."
   },
   {
     "word": "raincheck",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "an offered or requested postponement of an invitation until a more convenient",
     "vi": "hẹn dịp khác",
-    "viDef": "lời đề nghị hoặc yêu cầu dời một lời mời sang lúc thuận tiện hơn"
+    "viDef": "lời đề nghị hoặc yêu cầu dời một lời mời sang lúc thuận tiện hơn",
+    "ex": "Can I take a raincheck since I'm too tired tonight?",
+    "exHit": "raincheck",
+    "exVi": "Tôi hẹn lại dịp khác được không, vì tối nay tôi mệt quá?"
   },
   {
     "word": "cute",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "pleasingly pretty",
     "vi": "dễ thương",
-    "viDef": "xinh xắn dễ mến"
+    "viDef": "xinh xắn dễ mến",
+    "ex": "Your umbrella is so cute!",
+    "exHit": "cute",
+    "exVi": "Chiếc ô của bạn dễ thương quá!"
   },
   {
     "word": "drizzle",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to rain gently and steadily in fine drops",
     "vi": "mưa lất phất",
-    "viDef": "mưa nhẹ và đều thành những hạt nhỏ"
+    "viDef": "mưa nhẹ và đều thành những hạt nhỏ",
+    "ex": "It's just a light drizzle, so let's go out.",
+    "exHit": "drizzle",
+    "exVi": "Chỉ là mưa phùn nhẹ thôi nên chúng ta đi chơi đi."
   },
   {
     "word": "cancel",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "to decide or announce that a planned event will not take place",
     "vi": "hủy",
-    "viDef": "quyết định hoặc thông báo rằng một sự kiện đã định sẽ không diễn ra"
+    "viDef": "quyết định hoặc thông báo rằng một sự kiện đã định sẽ không diễn ra",
+    "ex": "Let's cancel the picnic because it's going to rain.",
+    "exHit": "cancel",
+    "exVi": "Hủy buổi dã ngoại đi vì trời sắp mưa."
   }
 ]

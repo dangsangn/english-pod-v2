@@ -5,7 +5,10 @@
     "type": "",
     "def": "sad because you are away from home",
     "vi": "nhớ nhà",
-    "viDef": "buồn vì đang ở xa quê"
+    "viDef": "buồn vì đang ở xa quê",
+    "ex": "I guess I'm feeling a little homesick.",
+    "exHit": "homesick",
+    "exVi": "Tôi nghĩ mình hơi nhớ nhà."
   },
   {
     "word": "afford",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "bear the cost of",
     "vi": "gánh nổi chi phí",
-    "viDef": "lo được khoản tiền đó"
+    "viDef": "lo được khoản tiền đó",
+    "ex": "It's just that the holidays are coming up and I won't be able to home because I can't afford the airfare.",
+    "exHit": "afford",
+    "exVi": "Chỉ là kỳ nghỉ sắp đến mà tôi sẽ không về nhà được vì không đủ tiền mua vé máy bay."
   },
   {
     "word": "longing for",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "showing a strong desire for something",
     "vi": "khao khát",
-    "viDef": "tỏ ra rất mong muốn điều gì"
+    "viDef": "tỏ ra rất mong muốn điều gì",
+    "ex": "I'm just longing for some of the comforts of home, like my mom's cooking and being around my family.",
+    "exHit": "longing for",
+    "exVi": "Tôi chỉ khao khát chút tiện nghi của gia đình, như món ăn của mẹ và được ở bên gia đình."
   },
   {
     "word": "nostalgic",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "homesick",
     "vi": "bồi hồi nhớ quê",
-    "viDef": "nhớ nhà, nhớ chốn cũ"
+    "viDef": "nhớ nhà, nhớ chốn cũ",
+    "ex": "When I first got here, I'd get depressed and nostalgic for anything that reminded me of home.",
+    "exHit": "nostalgic",
+    "exVi": "Lúc mới đến đây, tôi hay buồn và hoài niệm bất cứ thứ gì gợi nhớ đến nhà."
   },
   {
     "word": "bummed out",
@@ -37,6 +49,9 @@
     "type": "",
     "def": "disappointed",
     "vi": "xuống tinh thần",
-    "viDef": "thất vọng"
+    "viDef": "thất vọng",
+    "ex": "I see what you mean, but I 'm still bummed out.",
+    "exHit": "bummed out",
+    "exVi": "Tôi hiểu ý bạn, nhưng tôi vẫn thấy buồn."
   }
 ]

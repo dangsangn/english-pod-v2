@@ -5,7 +5,10 @@
     "type": "",
     "def": "long trip by car",
     "vi": "chuyến đi đường dài",
-    "viDef": "chuyến đi xa bằng xe hơi"
+    "viDef": "chuyến đi xa bằng xe hơi",
+    "ex": "I am taking a long road trip and I want to make sure my car is in good mechanical condition.",
+    "exHit": "road trip",
+    "exVi": "Tôi sắp đi một chuyến đường dài bằng ô tô và muốn chắc chắn xe mình ở tình trạng máy móc tốt."
   },
   {
     "word": "piston",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a part of an engine that moves up and down inside",
     "vi": "pít-tông",
-    "viDef": "bộ phận trong động cơ chạy lên xuống bên trong"
+    "viDef": "bộ phận trong động cơ chạy lên xuống bên trong",
+    "ex": "If you don't do this, it can cause your engine to wear faster and that means you would probably have to change the pistons and intake valves.",
+    "exHit": "pistons",
+    "exVi": "Nếu bạn không làm vậy, động cơ có thể mòn nhanh hơn, nghĩa là có lẽ bạn sẽ phải thay piston và van nạp."
   },
   {
     "word": "spark plug",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a device in the engine which produces electric spa",
     "vi": "bugi",
-    "viDef": "thiết bị trong động cơ tạo tia lửa điện"
+    "viDef": "thiết bị trong động cơ tạo tia lửa điện",
+    "ex": "We also check your spark plugs, fuel filter, and other oil levels such as hydraulic fluid.",
+    "exHit": "spark plugs",
+    "exVi": "Chúng tôi cũng kiểm tra bugi, bộ lọc nhiên liệu và các loại dầu khác như dầu thủy lực."
   },
   {
     "word": "break down",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "stop working",
     "vi": "hỏng máy",
-    "viDef": "ngừng chạy"
+    "viDef": "ngừng chạy",
+    "ex": "I hope the car doesn't break down in the middle of the trip.",
+    "exHit": "break down",
+    "exVi": "Tôi hy vọng xe không bị hỏng giữa chuyến đi."
   },
   {
     "word": "engine",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the device which helps cars getting running",
     "vi": "động cơ",
-    "viDef": "bộ phận giúp xe chạy được"
+    "viDef": "bộ phận giúp xe chạy được",
+    "ex": "If you don't do this, it can cause your engine to wear faster and that means you would probably have to change the pistons and intake valves.",
+    "exHit": "engine",
+    "exVi": "Nếu bạn không làm vậy, động cơ có thể mòn nhanh hơn, nghĩa là có lẽ bạn sẽ phải thay piston và van nạp."
   },
   {
     "word": "clutch",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "pedal that you press before you change gear",
     "vi": "chân côn",
-    "viDef": "bàn đạp phải nhấn trước khi sang số"
+    "viDef": "bàn đạp phải nhấn trước khi sang số",
+    "ex": "We also check the clutch and brakes to determine when you will need new ones.",
+    "exHit": "clutch",
+    "exVi": "Chúng tôi cũng kiểm tra bộ ly hợp và phanh để xác định khi nào bạn cần thay mới."
   },
   {
     "word": "brake",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a device that slows down or stops something",
     "vi": "phanh",
-    "viDef": "bộ phận làm chậm hoặc dừng xe"
+    "viDef": "bộ phận làm chậm hoặc dừng xe",
+    "ex": "We also check the clutch and brakes to determine when you will need new ones.",
+    "exHit": "brakes",
+    "exVi": "Chúng tôi cũng kiểm tra bộ ly hợp và phanh để xác định khi nào bạn cần thay mới."
   },
   {
     "word": "regular",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "ordinary",
     "vi": "loại thường",
-    "viDef": "bình thường"
+    "viDef": "bình thường",
+    "ex": "Trust me, regular tune ups will keep your car running smoothly and avoid break downs.",
+    "exHit": "regular",
+    "exVi": "Tin tôi đi, bảo dưỡng định kỳ sẽ giúp xe chạy êm và tránh bị hỏng giữa đường."
   },
   {
     "word": "smoothly",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "without problems or difficulties",
     "vi": "êm ru",
-    "viDef": "không gặp trở ngại hoặc khó khăn"
+    "viDef": "không gặp trở ngại hoặc khó khăn",
+    "ex": "Trust me, regular tune ups will keep your car running smoothly and avoid break downs.",
+    "exHit": "smoothly",
+    "exVi": "Tin tôi đi, bảo dưỡng định kỳ sẽ giúp xe chạy êm và tránh bị hỏng giữa đường."
   },
   {
     "word": "brake pads",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "part of the disk brake, brake pads are squeezed together to help the car brake",
     "vi": "má phanh",
-    "viDef": "phần của phanh đĩa, hai má ép vào nhau để xe dừng"
+    "viDef": "phần của phanh đĩa, hai má ép vào nhau để xe dừng",
+    "ex": "The mechanic said I need to replace my brake pads soon.",
+    "exHit": "brake pads",
+    "exVi": "Thợ máy nói tôi sớm phải thay má phanh."
   },
   {
     "word": "antifreeze",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a chemical compound used in internal combustion engines, helps to regulate the temperature of the engine",
     "vi": "nước làm mát chống đông",
-    "viDef": "hợp chất hóa học dùng trong động cơ đốt trong, giúp điều hòa nhiệt độ máy"
+    "viDef": "hợp chất hóa học dùng trong động cơ đốt trong, giúp điều hòa nhiệt độ máy",
+    "ex": "Put some antifreeze in the engine before winter comes.",
+    "exHit": "antifreeze",
+    "exVi": "Hãy đổ chút chất chống đông vào động cơ trước khi mùa đông đến."
   },
   {
     "word": "ABS; anti-lock braking system",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "prevents the wheels of the car from locking up while braking",
     "vi": "hệ thống chống bó phanh ABS",
-    "viDef": "ngăn không cho bánh xe bị khóa cứng khi phanh"
+    "viDef": "ngăn không cho bánh xe bị khóa cứng khi phanh",
+    "ex": "My new car has ABS, so the wheels don't lock when I brake.",
+    "exHit": "ABS",
+    "exVi": "Xe mới của tôi có ABS nên bánh xe không bị khóa cứng khi tôi phanh."
   },
   {
     "word": "mileage",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "the number of miles traveled over a period of time",
     "vi": "số dặm đã đi",
-    "viDef": "số dặm chạy được trong một khoảng thời gian"
+    "viDef": "số dặm chạy được trong một khoảng thời gian",
+    "ex": "This car has very low mileage, so it is almost new.",
+    "exHit": "mileage",
+    "exVi": "Chiếc xe này đã chạy rất ít km nên gần như còn mới."
   }
 ]

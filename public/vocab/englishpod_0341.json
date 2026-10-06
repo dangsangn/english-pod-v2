@@ -5,7 +5,10 @@
     "type": "",
     "def": "bake",
     "vi": "nướng bánh",
-    "viDef": "làm chín trong lò"
+    "viDef": "làm chín trong lò",
+    "ex": "So how long do we bake it for?",
+    "exHit": "bake",
+    "exVi": "Vậy chúng ta nướng bánh trong bao lâu?"
   },
   {
     "word": "apron",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "apron",
     "vi": "tạp dề",
-    "viDef": "miếng vải choàng trước người khi nấu nướng"
+    "viDef": "miếng vải choàng trước người khi nấu nướng",
+    "ex": "Almost, let me just put my apron on.",
+    "exHit": "apron",
+    "exVi": "Gần xong rồi, để tôi đeo tạp dề đã."
   },
   {
     "word": "preheat",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "preheat",
     "vi": "làm nóng lò trước",
-    "viDef": "bật lò cho nóng sẵn trước khi nướng"
+    "viDef": "bật lò cho nóng sẵn trước khi nướng",
+    "ex": "Ok, so the first thing we are going to do is preheat the oven, that way we have it at the desired temperature once we finish preparing everything.",
+    "exHit": "preheat",
+    "exVi": "Được rồi, việc đầu tiên là làm nóng lò trước, như vậy khi chuẩn bị xong mọi thứ thì lò đã đạt nhiệt độ mong muốn."
   },
   {
     "word": "desired",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "desired",
     "vi": "như mong muốn",
-    "viDef": "đúng mức mình muốn"
+    "viDef": "đúng mức mình muốn",
+    "ex": "Ok, so the first thing we are going to do is preheat the oven, that way we have it at the desired temperature once we finish preparing everything.",
+    "exHit": "desired",
+    "exVi": "Được rồi, việc đầu tiên là làm nóng lò trước, như vậy khi chuẩn bị xong mọi thứ thì lò đã đạt nhiệt độ mong muốn."
   },
   {
     "word": "consistency",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "consistency",
     "vi": "độ sánh đặc",
-    "viDef": "độ đặc lỏng của hỗn hợp"
+    "viDef": "độ đặc lỏng của hỗn hợp",
+    "ex": "Take some butter and sugar and mix it lightly until you have a nice consistency.",
+    "exHit": "consistency",
+    "exVi": "Lấy một ít bơ và đường rồi trộn nhẹ tay cho đến khi hỗn hợp có độ sệt vừa ý."
   },
   {
     "word": "sift",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "sift",
     "vi": "rây bột",
-    "viDef": "lọc bột qua rây cho mịn"
+    "viDef": "lọc bột qua rây cho mịn",
+    "ex": "I'm gonna sift the flour and baking powder separately and then we can mix it with milk and the rest of the ingredients.",
+    "exHit": "sift",
+    "exVi": "Tôi sẽ rây bột mì và bột nở riêng, rồi sau đó mình trộn với sữa và các nguyên liệu còn lại."
   },
   {
     "word": "grease",
@@ -53,6 +71,9 @@
     "type": "",
     "def": "grease",
     "vi": "bôi trơn khuôn",
-    "viDef": "quét dầu hoặc bơ lên khuôn"
+    "viDef": "quét dầu hoặc bơ lên khuôn",
+    "ex": "Yeah, but grease and flour it first so the cake won't stick to it when it bakes.",
+    "exHit": "grease",
+    "exVi": "Ừ, nhưng hãy phết bơ và rắc bột lên khuôn trước để bánh không dính khi nướng."
   }
 ]

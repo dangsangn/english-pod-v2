@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "what is happening",
     "vi": "gì đó",
-    "viDef": "chuyện gì đang xảy ra"
+    "viDef": "chuyện gì đang xảy ra",
+    "ex": "What's up?",
+    "exHit": "What's up",
+    "exVi": "Có chuyện gì vậy?"
   },
   {
     "word": "killer",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "Something that is extremely difficult to deal with or withstand",
     "vi": "khó nhằn kinh khủng",
-    "viDef": "thứ cực khó xử lý hoặc chịu đựng"
+    "viDef": "thứ cực khó xử lý hoặc chịu đựng",
+    "ex": "It's killer!",
+    "exHit": "killer",
+    "exVi": "Quá đỉnh!"
   },
   {
     "word": "theory",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "a set of statements or principles devised to explain a group of facts or phenomena",
     "vi": "lý thuyết",
-    "viDef": "hệ luận điểm hoặc nguyên lý dựng lên để giải thích một nhóm hiện tượng"
+    "viDef": "hệ luận điểm hoặc nguyên lý dựng lên để giải thích một nhóm hiện tượng",
+    "ex": "Anyway, it's just a theory.",
+    "exHit": "theory",
+    "exVi": "Dù sao thì nó cũng chỉ là một giả thuyết thôi."
   },
   {
     "word": "Big Bang",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the theory that a cosmic explosion caused the origin of the universe",
     "vi": "thuyết Big Bang",
-    "viDef": "giả thuyết vũ trụ sinh ra từ một vụ nổ lớn"
+    "viDef": "giả thuyết vũ trụ sinh ra từ một vụ nổ lớn",
+    "ex": "Take the theory of the Big Bang.",
+    "exHit": "Big Bang",
+    "exVi": "Hãy lấy thuyết Vụ Nổ Lớn làm ví dụ."
   },
   {
     "word": "matter",
@@ -37,7 +49,10 @@
     "type": "common noun, non-variable",
     "def": "the substance of which something, is made; material",
     "vi": "vật chất",
-    "viDef": "chất tạo nên mọi thứ"
+    "viDef": "chất tạo nên mọi thứ",
+    "ex": "Look, all that's required for the creation of matter an imbalance of particles and anti-particles.",
+    "exHit": "matter",
+    "exVi": "Nghe này, tất cả những gì cần để tạo ra vật chất là sự mất cân bằng giữa hạt và phản hạt."
   },
   {
     "word": "imbalance",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "the situation where there is an unequal amount of different things",
     "vi": "sự mất cân bằng",
-    "viDef": "khi lượng các thứ không bằng nhau"
+    "viDef": "khi lượng các thứ không bằng nhau",
+    "ex": "Look, all that's required for the creation of matter an imbalance of particles and anti-particles.",
+    "exHit": "imbalance",
+    "exVi": "Nghe này, tất cả những gì cần để tạo ra vật chất là sự mất cân bằng giữa hạt và phản hạt."
   },
   {
     "word": "particle",
@@ -53,7 +71,10 @@
     "type": "common noun, plural",
     "def": "any one tiny part of matter",
     "vi": "hạt",
-    "viDef": "phần cực nhỏ của vật chất"
+    "viDef": "phần cực nhỏ của vật chất",
+    "ex": "Look, all that's required for the creation of matter an imbalance of particles and anti-particles.",
+    "exHit": "particles",
+    "exVi": "Nghe này, tất cả những gì cần để tạo ra vật chất là sự mất cân bằng giữa hạt và phản hạt."
   },
   {
     "word": "anti-particle",
@@ -61,7 +82,10 @@
     "type": "common noun, plural",
     "def": "a particle that has the same mass as another particle but has opposite values for its other properties",
     "vi": "phản hạt",
-    "viDef": "hạt có khối lượng như hạt kia nhưng các tính chất khác thì trái dấu"
+    "viDef": "hạt có khối lượng như hạt kia nhưng các tính chất khác thì trái dấu",
+    "ex": "An anti-particle has the opposite charge of its particle.",
+    "exHit": "anti-particle",
+    "exVi": "Một phản hạt có điện tích trái ngược với hạt của nó."
   },
   {
     "word": "notion",
@@ -69,7 +93,10 @@
     "type": "common noun, plural",
     "def": "ideas or concepts",
     "vi": "ý niệm",
-    "viDef": "ý tưởng, khái niệm"
+    "viDef": "ý tưởng, khái niệm",
+    "ex": "He's the guy who in the early twentieth century was the first scientist to measure the drift of matter in the universe, thus advancing notions of an expanding universe.",
+    "exHit": "notions",
+    "exVi": "Ông ấy là người đầu tiên vào đầu thế kỷ hai mươi đo được sự dịch chuyển của vật chất trong vũ trụ, từ đó đưa ra những quan niệm về một vũ trụ đang giãn nở."
   },
   {
     "word": "rigor",
@@ -77,7 +104,10 @@
     "type": "common noun, non-variable",
     "def": "the state of something being very exact",
     "vi": "sự chặt chẽ",
-    "viDef": "trạng thái rất chính xác"
+    "viDef": "trạng thái rất chính xác",
+    "ex": "Where's the scientific rigor in that?",
+    "exHit": "rigor",
+    "exVi": "Sự chặt chẽ khoa học nằm ở đâu trong chuyện đó?"
   },
   {
     "word": "equivocate",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "use vague language so as to deceive someone",
     "vi": "nói mơ hồ lấp liếm",
-    "viDef": "dùng lời lấp lửng để gạt người khác"
+    "viDef": "dùng lời lấp lửng để gạt người khác",
+    "ex": "Dude, don't equivocate.",
+    "exHit": "equivocate",
+    "exVi": "Này anh bạn, đừng nói nước đôi nữa."
   },
   {
     "word": "withstand",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "surviving a difficult experience or trouble",
     "vi": "chống chịu",
-    "viDef": "trụ được qua khó khăn"
+    "viDef": "trụ được qua khó khăn",
+    "ex": "A theory only becomes a theory after withstanding rigorous testing.",
+    "exHit": "withstanding",
+    "exVi": "Một giả thuyết chỉ trở thành lý thuyết sau khi chịu được những cuộc kiểm nghiệm nghiêm ngặt."
   },
   {
     "word": "astronomy",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "The scientific study of matter in outer space, especially the positions, dimensions, distribution, motion, composition, energy, and evolution of celestial bodies and phenomena",
     "vi": "thiên văn học",
-    "viDef": "ngành nghiên cứu vật chất ngoài không gian: vị trí, kích thước, phân bố, chuyển động, thành phần và tiến hóa của thiên thể"
+    "viDef": "ngành nghiên cứu vật chất ngoài không gian: vị trí, kích thước, phân bố, chuyển động, thành phần và tiến hóa của thiên thể",
+    "ex": "My professor teaches astronomy at the university.",
+    "exHit": "astronomy",
+    "exVi": "Giáo sư của tôi dạy thiên văn học ở trường đại học."
   },
   {
     "word": "black hole",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a region of space resulting from the collapse of a star with extremely high gravitational field",
     "vi": "lỗ đen",
-    "viDef": "vùng không gian hình thành khi một ngôi sao sụp đổ, có lực hấp dẫn cực mạnh"
+    "viDef": "vùng không gian hình thành khi một ngôi sao sụp đổ, có lực hấp dẫn cực mạnh",
+    "ex": "Nothing can escape from a black hole, not even light.",
+    "exHit": "black hole",
+    "exVi": "Không gì có thể thoát khỏi một hố đen, kể cả ánh sáng."
   },
   {
     "word": "white dwarf",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "a small, faint, very dense star",
     "vi": "sao lùn trắng",
-    "viDef": "ngôi sao nhỏ, mờ, đặc cực cao"
+    "viDef": "ngôi sao nhỏ, mờ, đặc cực cao",
+    "ex": "A white dwarf is a very small, dense star.",
+    "exHit": "white dwarf",
+    "exVi": "Sao lùn trắng là một ngôi sao rất nhỏ và đặc."
   },
   {
     "word": "entropy",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "The tendency for all matter and energy in the universe to evolve toward a state of inert uniformity",
     "vi": "entropy",
-    "viDef": "xu thế mọi vật chất và năng lượng trong vũ trụ tiến dần về trạng thái đồng đều, trơ"
+    "viDef": "xu thế mọi vật chất và năng lượng trong vũ trụ tiến dần về trạng thái đồng đều, trơ",
+    "ex": "Entropy tells us why a hot cup of coffee cools down.",
+    "exHit": "Entropy",
+    "exVi": "Entropy giải thích vì sao một tách cà phê nóng nguội đi."
   },
   {
     "word": "singularity",
@@ -133,7 +181,10 @@
     "type": "common noun, singular",
     "def": "A point of infinite density and infinitesimal volume, at which space and time become infinitely distorted according to the theory of General Relativity",
     "vi": "điểm kỳ dị",
-    "viDef": "điểm có mật độ vô hạn và thể tích vô cùng nhỏ, nơi không gian và thời gian bị bóp méo tận cùng theo thuyết tương đối rộng"
+    "viDef": "điểm có mật độ vô hạn và thể tích vô cùng nhỏ, nơi không gian và thời gian bị bóp méo tận cùng theo thuyết tương đối rộng",
+    "ex": "The singularity inside a black hole breaks all our physics.",
+    "exHit": "singularity",
+    "exVi": "Điểm kỳ dị bên trong hố đen phá vỡ mọi định luật vật lý của chúng ta."
   },
   {
     "word": "paradox",
@@ -141,6 +192,9 @@
     "type": "common noun, singular",
     "def": "A seemingly contradictory statement that may nonetheless be true",
     "vi": "nghịch lý",
-    "viDef": "điều nghe như tự mâu thuẫn nhưng vẫn có thể đúng"
+    "viDef": "điều nghe như tự mâu thuẫn nhưng vẫn có thể đúng",
+    "ex": "It's a paradox, the more I study, the less I know.",
+    "exHit": "paradox",
+    "exVi": "Đó là một nghịch lý, càng học tôi càng thấy mình biết ít."
   }
 ]

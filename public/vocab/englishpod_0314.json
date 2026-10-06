@@ -5,7 +5,10 @@
     "type": "",
     "def": "a person who operates a telephone switchboard",
     "vi": "nhân viên tổng đài",
-    "viDef": "người vận hành bảng nối điện thoại"
+    "viDef": "người vận hành bảng nối điện thoại",
+    "ex": "This is the operator, how may I help you?",
+    "exHit": "operator",
+    "exVi": "Đây là tổng đài viên, tôi có thể giúp gì cho bạn?"
   },
   {
     "word": "charge",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "amount of money to be paid",
     "vi": "khoản tính tiền",
-    "viDef": "số tiền phải trả"
+    "viDef": "số tiền phải trả",
+    "ex": "Would you like to accept the charges?",
+    "exHit": "charges",
+    "exVi": "Bạn có đồng ý trả cước phí cuộc gọi này không?"
   },
   {
     "word": "credit",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the positive balance in a person's mobile phone account",
     "vi": "tiền còn trong tài khoản",
-    "viDef": "số dư dương trong tài khoản điện thoại di động"
+    "viDef": "số dư dương trong tài khoản điện thoại di động",
+    "ex": "I ran out of credit and I also didn't have twenty five cents N for the payphone.",
+    "exHit": "credit",
+    "exVi": "Tôi hết tiền trong tài khoản điện thoại, mà cũng không có đủ hai mươi lăm xu để dùng điện thoại công cộng."
   },
   {
     "word": "payphone",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a public telephone operated by coins or a phonecard",
     "vi": "điện thoại công cộng",
-    "viDef": "điện thoại dùng chung, chạy bằng xu hoặc thẻ"
+    "viDef": "điện thoại dùng chung, chạy bằng xu hoặc thẻ",
+    "ex": "I ran out of credit and I also didn't have twenty five cents N for the payphone.",
+    "exHit": "payphone",
+    "exVi": "Tôi hết tiền trong tài khoản điện thoại, mà cũng không có đủ hai mươi lăm xu để dùng điện thoại công cộng."
   },
   {
     "word": "collect call",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a telephone call that the receiving party is asked to pay for",
     "vi": "cuộc gọi người nhận trả tiền",
-    "viDef": "cuộc gọi mà bên nhận được đề nghị trả cước"
+    "viDef": "cuộc gọi mà bên nhận được đề nghị trả cước",
+    "ex": "Yes, I would like to make a collect call.",
+    "exHit": "collect call",
+    "exVi": "Vâng, tôi muốn gọi một cuộc gọi người nhận trả tiền."
   },
   {
     "word": "network",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "telephones interconnected by telecommunication equipment or cables",
     "vi": "mạng điện thoại",
-    "viDef": "các máy điện thoại nối với nhau qua thiết bị viễn thông hoặc dây cáp"
+    "viDef": "các máy điện thoại nối với nhau qua thiết bị viễn thông hoặc dây cáp",
+    "ex": "The phone network was down all morning in our town.",
+    "exHit": "network",
+    "exVi": "Mạng điện thoại ở thị trấn chúng tôi bị hỏng suốt cả buổi sáng."
   },
   {
     "word": "landline",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a home telephone",
     "vi": "máy bàn",
-    "viDef": "điện thoại cố định ở nhà"
+    "viDef": "điện thoại cố định ở nhà",
+    "ex": "We still keep a landline at home for emergencies.",
+    "exHit": "landline",
+    "exVi": "Nhà chúng tôi vẫn giữ một điện thoại bàn để dùng khi khẩn cấp."
   },
   {
     "word": "connect",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to establish communication between",
     "vi": "nối máy",
-    "viDef": "thiết lập liên lạc giữa hai bên"
+    "viDef": "thiết lập liên lạc giữa hai bên",
+    "ex": "Please wait a moment while I connect your call.",
+    "exHit": "connect",
+    "exVi": "Xin vui lòng chờ một chút trong khi tôi kết nối cuộc gọi của bạn."
   },
   {
     "word": "reception",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "the quality attained in receiving radio or television broadcasts",
     "vi": "sóng, chất lượng thu",
-    "viDef": "mức thu được của sóng phát thanh hoặc truyền hình"
+    "viDef": "mức thu được của sóng phát thanh hoặc truyền hình",
+    "ex": "The reception is terrible here, so I can't hear you.",
+    "exHit": "reception",
+    "exVi": "Ở đây sóng yếu quá, nên tôi không nghe thấy bạn."
   }
 ]

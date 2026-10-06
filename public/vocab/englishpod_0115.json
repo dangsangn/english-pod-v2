@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "become out of control",
     "vi": "hơi quá đà",
-    "viDef": "thành ra mất kiểm soát"
+    "viDef": "thành ra mất kiểm soát",
+    "ex": "I went out last night with Trevor and things got a little out of hand.",
+    "exHit": "got a little out of hand",
+    "exVi": "Tối qua tôi đi chơi với Trevor và mọi chuyện hơi mất kiểm soát."
   },
   {
     "word": "hit",
@@ -13,7 +16,10 @@
     "type": "principle verb, past simple",
     "def": "to go to (a place)",
     "vi": "ghé, tới",
-    "viDef": "đi đến một nơi"
+    "viDef": "đi đến một nơi",
+    "ex": "We hit a couple of local bars, and met up with some friends.",
+    "exHit": "hit",
+    "exVi": "Bọn tôi ghé vài quán bar địa phương và gặp mấy người bạn."
   },
   {
     "word": "turned out",
@@ -21,7 +27,10 @@
     "type": "principle verb, past simple",
     "def": "to happen a certain way",
     "vi": "hóa ra là",
-    "viDef": "kết cục lại diễn ra như vậy"
+    "viDef": "kết cục lại diễn ra như vậy",
+    "ex": "Everything was cool until Mike came along, and it turned out that it was his birthday yesterday!",
+    "exHit": "turned out",
+    "exVi": "Mọi thứ đều ổn cho đến khi Mike đến, và hóa ra hôm qua là sinh nhật anh ấy!"
   },
   {
     "word": "tell me about it",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "I agree; I understand",
     "vi": "nói làm gì nữa",
-    "viDef": "tôi hiểu, tôi cũng thấy vậy"
+    "viDef": "tôi hiểu, tôi cũng thấy vậy",
+    "ex": "Yeah tell me about it.",
+    "exHit": "tell me about it",
+    "exVi": "Ừ, ai nói không phải chứ."
   },
   {
     "word": "naseous",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "feel like you are going to vomit",
     "vi": "nôn nao",
-    "viDef": "cảm giác buồn nôn"
+    "viDef": "cảm giác buồn nôn",
+    "ex": "The smell of the soup made me feel nauseous.",
+    "exHit": "nauseous",
+    "exVi": "Mùi món súp khiến tôi thấy buồn nôn."
   },
   {
     "word": "threw up",
@@ -45,7 +60,10 @@
     "type": "principle verb, past simple",
     "def": "vomit",
     "vi": "đã nôn",
-    "viDef": "trút hết ra"
+    "viDef": "trút hết ra",
+    "ex": "I threw up like five times.",
+    "exHit": "threw up",
+    "exVi": "Tôi nôn khoảng năm lần."
   },
   {
     "word": "dehydrated",
@@ -53,7 +71,10 @@
     "type": "principle verb, past simple",
     "def": "lacking water",
     "vi": "mất nước",
-    "viDef": "thiếu nước trong người"
+    "viDef": "thiếu nước trong người",
+    "ex": "I was so dehydrated that I drank like a gallon of water, and my head has been pounding all day.",
+    "exHit": "dehydrated",
+    "exVi": "Tôi bị mất nước nặng đến mức uống cả một ga-lông nước, và đầu tôi đập thình thịch cả ngày."
   },
   {
     "word": "pounding",
@@ -61,7 +82,10 @@
     "type": "principle verb, past perfect progressive",
     "def": "to beat loudly and quickly",
     "vi": "nhức bưng bưng",
-    "viDef": "đập mạnh và dồn dập"
+    "viDef": "đập mạnh và dồn dập",
+    "ex": "I was so dehydrated that I drank like a gallon of water, and my head has been pounding all day.",
+    "exHit": "pounding",
+    "exVi": "Tôi bị mất nước nặng đến mức uống cả một ga-lông nước, và đầu tôi đập thình thịch cả ngày."
   },
   {
     "word": "wasted",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "very drunk (slang)",
     "vi": "say quắc cần câu",
-    "viDef": "rất say (tiếng lóng)"
+    "viDef": "rất say (tiếng lóng)",
+    "ex": "He was so wasted that he could not walk home.",
+    "exHit": "wasted",
+    "exVi": "Anh ta say bí tỉ đến mức không thể đi bộ về nhà."
   },
   {
     "word": "barf",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "to vomit",
     "vi": "nôn ọe",
-    "viDef": "trút ra ngoài"
+    "viDef": "trút ra ngoài",
+    "ex": "I think I'm going to barf if the car doesn't stop.",
+    "exHit": "barf",
+    "exVi": "Tớ nghĩ mình sắp ói nếu xe không dừng lại."
   },
   {
     "word": "pain killers",
@@ -85,7 +115,10 @@
     "type": "common noun, plural",
     "def": "medicine you take to cure a headache",
     "vi": "thuốc giảm đau",
-    "viDef": "thuốc uống để hết nhức đầu"
+    "viDef": "thuốc uống để hết nhức đầu",
+    "ex": "I took two pain killers for my terrible headache.",
+    "exHit": "pain killers",
+    "exVi": "Tôi uống hai viên thuốc giảm đau cho cơn đau đầu khủng khiếp."
   },
   {
     "word": "I feel like death",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "I feel very bad",
     "vi": "tôi thấy như chết đi",
-    "viDef": "trong người rất tệ"
+    "viDef": "trong người rất tệ",
+    "ex": "I drank too much last night and I feel like death.",
+    "exHit": "I feel like death",
+    "exVi": "Tối qua tôi uống quá nhiều và giờ thấy mình như sắp chết."
   },
   {
     "word": "hair of the dog",
@@ -101,6 +137,9 @@
     "type": "phrase",
     "def": "drink alcohol when you have a hangover to cure it",
     "vi": "uống giải rượu",
-    "viDef": "uống thêm chút rượu để giã cơn say"
+    "viDef": "uống thêm chút rượu để giã cơn say",
+    "ex": "He had a beer as a hair of the dog this morning.",
+    "exHit": "hair of the dog",
+    "exVi": "Sáng nay anh ấy uống một lon bia để giải rượu theo kiểu lấy độc trị độc."
   }
 ]

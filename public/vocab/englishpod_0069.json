@@ -5,7 +5,10 @@
     "type": "",
     "def": "cook in the oven",
     "vi": "nướng lò",
-    "viDef": "làm chín trong lò"
+    "viDef": "làm chín trong lò",
+    "ex": "Well, I felt like baking, so I made some muffins.",
+    "exHit": "baking",
+    "exVi": "À, tôi muốn nướng bánh nên đã làm một ít bánh muffin."
   },
   {
     "word": "muffin",
@@ -13,7 +16,10 @@
     "type": "common noun, plural",
     "def": "a small break or cake people usually eat for breakfast",
     "vi": "bánh muffin",
-    "viDef": "bánh nhỏ thường ăn vào bữa sáng"
+    "viDef": "bánh nhỏ thường ăn vào bữa sáng",
+    "ex": "Well, I felt like baking, so I made some muffins.",
+    "exHit": "muffins",
+    "exVi": "À, tôi muốn nướng bánh nên đã làm một ít bánh muffin."
   },
   {
     "word": "sunny-side up",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "with egg fried on only one side",
     "vi": "ốp la một mặt",
-    "viDef": "trứng chiên chỉ một mặt"
+    "viDef": "trứng chiên chỉ một mặt",
+    "ex": "I asked for sunny side up!",
+    "exHit": "sunny side up",
+    "exVi": "Tôi đã gọi trứng ốp la một mặt mà!"
   },
   {
     "word": "eggs and soldiers",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "soft-boiled eggs with strips of buttered toast on it which people usually eat for breakfast",
     "vi": "trứng luộc lòng đào với bánh mì que",
-    "viDef": "trứng luộc mềm ăn kèm bánh mì nướng phết bơ cắt que, thường cho bữa sáng"
+    "viDef": "trứng luộc mềm ăn kèm bánh mì nướng phết bơ cắt que, thường cho bữa sáng",
+    "ex": "Ever since I was small, I've had eggs and soldiers.",
+    "exHit": "eggs and soldiers",
+    "exVi": "Từ nhỏ tôi đã luôn ăn trứng luộc chấm bánh mì nướng cắt dải."
   },
   {
     "word": "scrambled eggs",
@@ -37,7 +49,10 @@
     "type": "common noun, non-variable",
     "def": "a way of cooking eggs by mixing them in a pan",
     "vi": "trứng bác",
-    "viDef": "trứng đánh tan rồi đảo trong chảo"
+    "viDef": "trứng đánh tan rồi đảo trong chảo",
+    "ex": "You know, my dad had scrambled eggs eggs every morning for twenty years.",
+    "exHit": "scrambled eggs",
+    "exVi": "Bạn biết không, bố tôi ăn trứng bác mỗi sáng suốt hai mươi năm."
   },
   {
     "word": "soft boiled egg",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "eggs cooked in the shell so the yellow part is still soft and wet",
     "vi": "trứng luộc lòng đào",
-    "viDef": "trứng luộc cả vỏ, lòng đỏ còn mềm ướt"
+    "viDef": "trứng luộc cả vỏ, lòng đỏ còn mềm ướt",
+    "ex": "When I ask for soft boiled eggs, and they overcook them, so they come out hard boiled!",
+    "exHit": "soft boiled eggs",
+    "exVi": "Khi tôi gọi trứng luộc lòng đào, họ lại luộc quá chín, nên cuối cùng trứng chín cứng!"
   },
   {
     "word": "hard boiled egg",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "egg cooked in the shell until the inside becomes solid",
     "vi": "trứng luộc chín kỹ",
-    "viDef": "trứng luộc cả vỏ đến khi bên trong đặc lại"
+    "viDef": "trứng luộc cả vỏ đến khi bên trong đặc lại",
+    "ex": "How can you dip your toast into a hard boiled egg?",
+    "exHit": "hard boiled egg",
+    "exVi": "Làm sao bạn có thể chấm bánh mì nướng vào một quả trứng luộc chín kỹ?"
   },
   {
     "word": "picky",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "too careful at selecting things and usually hard to please",
     "vi": "kén chọn",
-    "viDef": "quá kỹ tính khi chọn, khó làm cho hài lòng"
+    "viDef": "quá kỹ tính khi chọn, khó làm cho hài lòng",
+    "ex": "You're so picky sometimes.",
+    "exHit": "picky",
+    "exVi": "Đôi khi bạn khó tính quá."
   },
   {
     "word": "egg",
@@ -69,7 +93,10 @@
     "type": "common noun, plural",
     "def": "the egg of a bird (especially a chicken or a duck) people usually eat as food",
     "vi": "quả trứng",
-    "viDef": "trứng của loài chim, nhất là gà hoặc vịt, dùng làm thức ăn"
+    "viDef": "trứng của loài chim, nhất là gà hoặc vịt, dùng làm thức ăn",
+    "ex": "How can you dip your toast into a hard boiled egg?",
+    "exHit": "egg",
+    "exVi": "Làm sao bạn có thể chấm bánh mì nướng vào một quả trứng luộc chín kỹ?"
   },
   {
     "word": "hen",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "female chicken",
     "vi": "gà mái",
-    "viDef": "con gà cái"
+    "viDef": "con gà cái",
+    "ex": "The hen laid three eggs in the barn this morning.",
+    "exHit": "hen",
+    "exVi": "Con gà mái đã đẻ ba quả trứng trong chuồng sáng nay."
   },
   {
     "word": "over-easy",
@@ -85,7 +115,10 @@
     "type": "Adjective",
     "def": "an egg friend on both sides; cooked so the yolk is still soft",
     "vi": "ốp la hai mặt lòng đào",
-    "viDef": "trứng chiên trở cả hai mặt nhưng lòng đỏ vẫn mềm"
+    "viDef": "trứng chiên trở cả hai mặt nhưng lòng đỏ vẫn mềm",
+    "ex": "I'd like my eggs over-easy with some toast, please.",
+    "exHit": "over-easy",
+    "exVi": "Làm ơn cho tôi trứng ốp la lật hai mặt, lòng đào, kèm bánh mì nướng."
   },
   {
     "word": "omelette",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "eggs mixed, then cooked, and then folded in half;",
     "vi": "trứng ốp lết",
-    "viDef": "trứng đánh tan, chiên rồi gấp đôi lại"
+    "viDef": "trứng đánh tan, chiên rồi gấp đôi lại",
+    "ex": "I made a cheese omelette for breakfast this morning.",
+    "exHit": "omelette",
+    "exVi": "Sáng nay tôi làm món trứng ốp-lết phô mai cho bữa sáng."
   },
   {
     "word": "yolk",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "the yellow part of the egg",
     "vi": "lòng đỏ",
-    "viDef": "phần vàng của quả trứng"
+    "viDef": "phần vàng của quả trứng",
+    "ex": "I like to dip my toast in the runny yolk.",
+    "exHit": "yolk",
+    "exVi": "Tôi thích chấm bánh mì nướng vào lòng đỏ trứng còn lỏng."
   },
   {
     "word": "egg white",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "the white part of the egg",
     "vi": "lòng trắng",
-    "viDef": "phần trắng của quả trứng"
+    "viDef": "phần trắng của quả trứng",
+    "ex": "She only uses the egg white when she makes this cake.",
+    "exHit": "egg white",
+    "exVi": "Cô ấy chỉ dùng lòng trắng trứng khi làm chiếc bánh này."
   },
   {
     "word": "frying pan",
@@ -117,6 +159,9 @@
     "type": "common noun, singular",
     "def": "a large, flat pot used for cooking eggs and other things",
     "vi": "chảo chiên",
-    "viDef": "chảo to, đáy phẳng để chiên trứng và món khác"
+    "viDef": "chảo to, đáy phẳng để chiên trứng và món khác",
+    "ex": "Heat some oil in the frying pan before you add the eggs.",
+    "exHit": "frying pan",
+    "exVi": "Hãy làm nóng một ít dầu trong chảo trước khi cho trứng vào."
   }
 ]

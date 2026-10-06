@@ -5,7 +5,10 @@
     "type": "",
     "def": "mixed vegetables served cold",
     "vi": "xà lách trộn",
-    "viDef": "rau củ trộn dọn nguội"
+    "viDef": "rau củ trộn dọn nguội",
+    "ex": "Ok, maybe we can order a soup and a salad from the restaurant down the street.",
+    "exHit": "salad",
+    "exVi": "Ừ, có lẽ mình có thể gọi một món súp và một phần salad từ nhà hàng cuối phố."
   },
   {
     "word": "french fries",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "deep fired strips of potato",
     "vi": "khoai tây chiên",
-    "viDef": "các thanh khoai tây chiên ngập dầu"
+    "viDef": "các thanh khoai tây chiên ngập dầu",
+    "ex": "We shared a big bag of french fries on the way home.",
+    "exHit": "french fries",
+    "exVi": "Chúng tôi chia nhau một túi khoai tây chiên lớn trên đường về nhà."
   },
   {
     "word": "hamburger",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a type of sandwich with a beef patty",
     "vi": "bánh hamburger",
-    "viDef": "loại bánh kẹp có miếng thịt bò"
+    "viDef": "loại bánh kẹp có miếng thịt bò",
+    "ex": "I was thinking of getting a hamburger, fries and a chocolate sundae.",
+    "exHit": "hamburger",
+    "exVi": "Mình đang nghĩ đến việc gọi một cái bánh hamburger, khoai tây chiên và một ly kem sundae sô cô la."
   },
   {
     "word": "junk food",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "food that is not healthy",
     "vi": "đồ ăn vặt kém lành",
-    "viDef": "thức ăn không tốt cho sức khỏe"
+    "viDef": "thức ăn không tốt cho sức khỏe",
+    "ex": "You eat too much junk food.",
+    "exHit": "junk food",
+    "exVi": "Bạn ăn quá nhiều đồ ăn vặt không tốt cho sức khỏe."
   },
   {
     "word": "clog",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to block or get in the way of something",
     "vi": "làm tắc",
-    "viDef": "chặn hoặc cản đường thứ gì"
+    "viDef": "chặn hoặc cản đường thứ gì",
+    "ex": "That sort of stuff clogs up your arteries and is very high in cholesterol.",
+    "exHit": "clogs",
+    "exVi": "Mấy thứ đó làm tắc nghẽn động mạch của bạn và chứa rất nhiều cholesterol."
   },
   {
     "word": "cholesterol",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a fatty substance found in animal tissue",
     "vi": "cholesterol",
-    "viDef": "chất béo có trong mô động vật"
+    "viDef": "chất béo có trong mô động vật",
+    "ex": "That sort of stuff clogs up your arteries and is very high in cholesterol.",
+    "exHit": "cholesterol",
+    "exVi": "Mấy thứ đó làm tắc nghẽn động mạch của bạn và chứa rất nhiều cholesterol."
   },
   {
     "word": "how about",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "what do you think",
     "vi": "còn... thì sao",
-    "viDef": "anh/chị thấy thế nào"
+    "viDef": "anh/chị thấy thế nào",
+    "ex": "And how about the working hours?",
+    "exHit": "how about",
+    "exVi": "Còn về giờ làm việc thì sao?"
   },
   {
     "word": "pizza",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "bread with tomato sauce and cheese on top",
     "vi": "bánh pizza",
-    "viDef": "bánh mì phủ sốt cà chua và phô mai"
+    "viDef": "bánh mì phủ sốt cà chua và phô mai",
+    "ex": "How about pizza or maybe some fried chicken!",
+    "exHit": "pizza",
+    "exVi": "Hay là pizza, hoặc có thể là một ít gà rán nhé!"
   },
   {
     "word": "fried chicken",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "chicken pieces cooked in hot oil",
     "vi": "gà rán",
-    "viDef": "các miếng gà chiên trong dầu nóng"
+    "viDef": "các miếng gà chiên trong dầu nóng",
+    "ex": "How about pizza or maybe some fried chicken!",
+    "exHit": "fried chicken",
+    "exVi": "Hay là pizza, hoặc có thể là một ít gà rán nhé!"
   },
   {
     "word": "hot dog",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a food with bread and a sausage in the middle",
     "vi": "bánh mì kẹp xúc xích",
-    "viDef": "món có bánh mì và cây xúc xích ở giữa"
+    "viDef": "món có bánh mì và cây xúc xích ở giữa",
+    "ex": "Better yet, let's order some hot dogs!",
+    "exHit": "hot dogs",
+    "exVi": "Tốt hơn nữa là mình gọi mấy cái xúc xích kẹp bánh mì đi!"
   },
   {
     "word": "lost cause",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a useless or hopeless situation",
     "vi": "trường hợp hết thuốc chữa",
-    "viDef": "tình huống vô ích hoặc vô vọng"
+    "viDef": "tình huống vô ích hoặc vô vọng",
+    "ex": "You are a lost cause.",
+    "exHit": "lost cause",
+    "exVi": "Bạn hết thuốc chữa rồi."
   },
   {
     "word": "tofu",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "A protein-rich food coagulated from an extract of soybeans and used in salads and various cooked foods.",
     "vi": "đậu phụ",
-    "viDef": "thực phẩm giàu đạm kết tủa từ dịch đậu nành, dùng trong món trộn và nhiều món nấu"
+    "viDef": "thực phẩm giàu đạm kết tủa từ dịch đậu nành, dùng trong món trộn và nhiều món nấu",
+    "ex": "I don't eat meat, so I ordered the tofu with vegetables.",
+    "exHit": "tofu",
+    "exVi": "Tôi không ăn thịt nên tôi gọi món đậu phụ với rau."
   },
   {
     "word": "MSG",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a flavor enhancer used in food",
     "vi": "bột ngọt",
-    "viDef": "chất tăng vị dùng trong thức ăn"
+    "viDef": "chất tăng vị dùng trong thức ăn",
+    "ex": "Does this soup have MSG in it?",
+    "exHit": "MSG",
+    "exVi": "Món súp này có bột ngọt không?"
   },
   {
     "word": "greasy",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "Having a lot of grease or oil",
     "vi": "nhiều dầu mỡ",
-    "viDef": "chứa nhiều mỡ hoặc dầu"
+    "viDef": "chứa nhiều mỡ hoặc dầu",
+    "ex": "I can't finish this burger, it's too greasy.",
+    "exHit": "greasy",
+    "exVi": "Tôi không ăn hết cái bánh burger này được, nó béo ngậy quá."
   },
   {
     "word": "Take out",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "Taking food away or having it delivered,",
     "vi": "mang đi",
-    "viDef": "lấy đồ ăn đem về hoặc gọi giao tận nơi"
+    "viDef": "lấy đồ ăn đem về hoặc gọi giao tận nơi",
+    "ex": "Let's get take out tonight and watch a movie at home.",
+    "exHit": "take out",
+    "exVi": "Tối nay mình mua đồ ăn mang đi rồi xem phim ở nhà nhé."
   },
   {
     "word": "doggy bag",
@@ -125,6 +170,9 @@
     "type": "",
     "def": "a bag or box used to take left over food home from a restaurant",
     "vi": "túi đựng đồ ăn thừa",
-    "viDef": "túi hoặc hộp dùng mang phần ăn còn lại ở nhà hàng về nhà"
+    "viDef": "túi hoặc hộp dùng mang phần ăn còn lại ở nhà hàng về nhà",
+    "ex": "Could I get a doggy bag for the rest of my pasta?",
+    "exHit": "doggy bag",
+    "exVi": "Cho tôi xin một cái túi để mang phần mì còn lại về được không?"
   }
 ]

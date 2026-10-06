@@ -5,7 +5,10 @@
     "type": "principle verb, infinitive",
     "def": "to help (something) grow or develop",
     "vi": "nuôi dưỡng",
-    "viDef": "giúp điều gì lớn lên, phát triển"
+    "viDef": "giúp điều gì lớn lên, phát triển",
+    "ex": "Throughout America's adventure in free government, such basic purposes have been to keep the peace; to foster progress in human achievement, and to enhance liberty, dignity and integrity among peoples and among nations.",
+    "exHit": "foster",
+    "exVi": "Trong suốt cuộc phiêu lưu của nước Mỹ với nền chính quyền tự do, những mục tiêu cơ bản là giữ gìn hòa bình, thúc đẩy tiến bộ của con người, và nâng cao tự do, phẩm giá cùng sự liêm chính giữa các dân tộc và các quốc gia."
   },
   {
     "word": "yearn",
@@ -13,7 +16,10 @@
     "type": "principle verb, present simple",
     "def": "to feel a strong desire or wish for something",
     "vi": "khát khao",
-    "viDef": "mong mỏi điều gì mãnh liệt"
+    "viDef": "mong mỏi điều gì mãnh liệt",
+    "ex": "We pray that peoples of all faiths, all races, all nations, may have their great human needs satisfied; that those now denied opportunity shall come to enjoy it to the full; that all who yearn for freedom may experience its spiritual blessings; that those who have freedom will understand, also, its heavy responsibilities; that all who are insensitive to the needs of others will learn charity; that the scourges of poverty, disease and ignorance will be made to disappear from the earth, and that, in the goodness of time, all peoples will come to live together in a peace guaranteed by the binding force of mutual respect and love.",
+    "exHit": "yearn",
+    "exVi": "Chúng ta cầu nguyện cho mọi dân tộc, mọi tín ngưỡng, mọi chủng tộc và mọi quốc gia được đáp ứng những nhu cầu thiết yếu của con người; cho những ai bị từ chối cơ hội được hưởng trọn vẹn cơ hội ấy; cho tất cả những ai khao khát tự do được cảm nhận phúc lành tinh thần của nó; cho những ai đã có tự do hiểu rõ trách nhiệm nặng nề của nó; cho những ai thờ ơ với nhu cầu của người khác học được lòng nhân ái; cho những tai họa của nghèo đói, bệnh tật và dốt nát biến mất khỏi trái đất, và cho mọi dân tộc, đến đúng thời điểm, sống cùng nhau trong một nền hòa bình được bảo đảm bằng sức mạnh gắn kết của sự tôn trọng và tình yêu thương lẫn nhau."
   },
   {
     "word": "pre-eminence",
@@ -21,7 +27,10 @@
     "type": "common noun, non-variable",
     "def": "more important, skillful, or successful than other",
     "vi": "vị thế trổi vượt",
-    "viDef": "quan trọng, tài giỏi hoặc thành công hơn những người khác"
+    "viDef": "quan trọng, tài giỏi hoặc thành công hơn những người khác",
+    "ex": "Her pre-eminence in the field made her the first choice for the job.",
+    "exHit": "pre-eminence",
+    "exVi": "Vị thế vượt trội của cô ấy trong lĩnh vực này khiến cô là lựa chọn hàng đầu cho công việc."
   },
   {
     "word": "scourge",
@@ -29,7 +38,10 @@
     "type": "common noun, plural",
     "def": "someone or something that causes a great amount of trouble",
     "vi": "tai họa",
-    "viDef": "người hoặc thứ gây ra vô số khốn khó"
+    "viDef": "người hoặc thứ gây ra vô số khốn khó",
+    "ex": "We pray that peoples of all faiths, all races, all nations, may have their great human needs satisfied; that those now denied opportunity shall come to enjoy it to the full; that all who yearn for freedom may experience its spiritual blessings; that those who have freedom will understand, also, its heavy responsibilities; that all who are insensitive to the needs of others will learn charity; that the scourges of poverty, disease and ignorance will be made to disappear from the earth, and that, in the goodness of time, all peoples will come to live together in a peace guaranteed by the binding force of mutual respect and love.",
+    "exHit": "scourges",
+    "exVi": "Chúng ta cầu nguyện cho mọi dân tộc, mọi tín ngưỡng, mọi chủng tộc và mọi quốc gia được đáp ứng những nhu cầu thiết yếu của con người; cho những ai bị từ chối cơ hội được hưởng trọn vẹn cơ hội ấy; cho tất cả những ai khao khát tự do được cảm nhận phúc lành tinh thần của nó; cho những ai đã có tự do hiểu rõ trách nhiệm nặng nề của nó; cho những ai thờ ơ với nhu cầu của người khác học được lòng nhân ái; cho những tai họa của nghèo đói, bệnh tật và dốt nát biến mất khỏi trái đất, và cho mọi dân tộc, đến đúng thời điểm, sống cùng nhau trong một nền hòa bình được bảo đảm bằng sức mạnh gắn kết của sự tôn trọng và tình yêu thương lẫn nhau."
   },
   {
     "word": "we now stand",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "to be in a particular place or position",
     "vi": "nay ta đang đứng",
-    "viDef": "ở một vị trí hoặc chỗ nhất định"
+    "viDef": "ở một vị trí hoặc chỗ nhất định",
+    "ex": "We now stand ten years past the midpoint of a century that has witnessed four major wars among great nations.",
+    "exHit": "We now stand",
+    "exVi": "Hiện nay chúng ta đang ở thời điểm mười năm sau giữa thế kỷ, một thế kỷ đã chứng kiến bốn cuộc chiến lớn giữa các cường quốc."
   },
   {
     "word": "stricken",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "badly affected by disease, pain, grief, etc",
     "vi": "bị giáng đòn nặng",
-    "viDef": "chịu ảnh hưởng nặng vì bệnh, đau hay mất mát"
+    "viDef": "chịu ảnh hưởng nặng vì bệnh, đau hay mất mát",
+    "ex": "The whole village was stricken with grief after the flood.",
+    "exHit": "stricken",
+    "exVi": "Cả ngôi làng chìm trong đau buồn sau trận lụt."
   },
   {
     "word": "Democrat",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "US politics a member or supporter of the Democratic Party, the more liberal of the two main political parties in the US",
     "vi": "đảng viên Dân chủ",
-    "viDef": "thành viên hoặc người ủng hộ Đảng Dân chủ, bên cấp tiến hơn trong hai đảng lớn ở Mỹ"
+    "viDef": "thành viên hoặc người ủng hộ Đảng Dân chủ, bên cấp tiến hơn trong hai đảng lớn ở Mỹ",
+    "ex": "My aunt is a Democrat, but my uncle always votes Republican.",
+    "exHit": "Democrat",
+    "exVi": "Dì tôi là người của Đảng Dân chủ, nhưng chú tôi luôn bỏ phiếu cho Cộng hòa."
   },
   {
     "word": "Republican",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "belonging to the Republican Party, the more conservative of the two main political parties in the US",
     "vi": "thuộc Đảng Cộng hòa",
-    "viDef": "thuộc Đảng Cộng hòa, bên bảo thủ hơn trong hai đảng lớn ở Mỹ"
+    "viDef": "thuộc Đảng Cộng hòa, bên bảo thủ hơn trong hai đảng lớn ở Mỹ",
+    "ex": "My uncle is a Republican and he watches the news every night.",
+    "exHit": "Republican",
+    "exVi": "Chú tôi là người Đảng Cộng hòa và tối nào cũng xem tin tức."
   },
   {
     "word": "first lady",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "(in the US) the wife of the president elect",
     "vi": "đệ nhất phu nhân",
-    "viDef": "ở Mỹ là vợ của tổng thống đắc cử"
+    "viDef": "ở Mỹ là vợ của tổng thống đắc cử",
+    "ex": "The first lady waved to the crowd as she walked in.",
+    "exHit": "first lady",
+    "exVi": "Đệ nhất phu nhân vẫy tay chào đám đông khi bước vào."
   },
   {
     "word": "campaign",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "An operation or series of operations energetically pursued to accomplish a purpose",
     "vi": "chiến dịch",
-    "viDef": "chuỗi hoạt động dốc sức làm để đạt một mục đích"
+    "viDef": "chuỗi hoạt động dốc sức làm để đạt một mục đích",
+    "ex": "The campaign lasted six months, and everyone was tired at the end.",
+    "exHit": "campaign",
+    "exVi": "Chiến dịch kéo dài sáu tháng và cuối cùng ai cũng mệt."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "emergency procedure for reviving heart and lung function",
     "vi": "hồi sức tim phổi",
-    "viDef": "thủ thuật cấp cứu để tim và phổi hoạt động lại"
+    "viDef": "thủ thuật cấp cứu để tim và phổi hoạt động lại",
+    "ex": "Cardiopulmonary resuscitation!",
+    "exHit": "Cardiopulmonary resuscitation",
+    "exVi": "Hồi sức tim phổi!"
   },
   {
     "word": "stand for",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "represent",
     "vi": "viết tắt cho",
-    "viDef": "đại diện cho"
+    "viDef": "đại diện cho",
+    "ex": "First of all, does anyone know what CPR stands for?",
+    "exHit": "stands for",
+    "exVi": "Trước hết, có ai biết CPR là viết tắt của gì không?"
   },
   {
     "word": "in the case of",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "in the matter of someone or something",
     "vi": "trong trường hợp",
-    "viDef": "khi nói về người hoặc việc nào"
+    "viDef": "khi nói về người hoặc việc nào",
+    "ex": "We apply CPR in the case of cardiac arrest or pulmonary arrest.",
+    "exHit": "in the case of",
+    "exVi": "Chúng ta thực hiện CPR trong trường hợp ngừng tim hoặc ngừng thở."
   },
   {
     "word": "cardiac arrest",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "failure of the pumping action of the heart",
     "vi": "ngừng tim",
-    "viDef": "tim mất khả năng bơm máu"
+    "viDef": "tim mất khả năng bơm máu",
+    "ex": "We apply CPR in the case of cardiac arrest or pulmonary arrest.",
+    "exHit": "cardiac arrest",
+    "exVi": "Chúng ta thực hiện CPR trong trường hợp ngừng tim hoặc ngừng thở."
   },
   {
     "word": "pulmonary arrest",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the cessation of breathing",
     "vi": "ngừng thở",
-    "viDef": "việc hô hấp dừng lại"
+    "viDef": "việc hô hấp dừng lại",
+    "ex": "We apply CPR in the case of cardiac arrest or pulmonary arrest.",
+    "exHit": "pulmonary arrest",
+    "exVi": "Chúng ta thực hiện CPR trong trường hợp ngừng tim hoặc ngừng thở."
   },
   {
     "word": "procedure",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a manner of proceeding",
     "vi": "quy trình thao tác",
-    "viDef": "cách tiến hành theo trình tự"
+    "viDef": "cách tiến hành theo trình tự",
+    "ex": "That's when we have to apply this procedure.",
+    "exHit": "procedure",
+    "exVi": "Đó là lúc chúng ta phải áp dụng quy trình này."
   },
   {
     "word": "volunteer",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a person who performs voluntarily",
     "vi": "người tình nguyện",
-    "viDef": "người tự nguyện làm việc gì"
+    "viDef": "người tự nguyện làm việc gì",
+    "ex": "I need a volunteer.",
+    "exHit": "volunteer",
+    "exVi": "Cô cần một người xung phong."
   },
   {
     "word": "lay flat",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "lie down with all parts of the body touching floor",
     "vi": "nằm ngửa thẳng",
-    "viDef": "nằm xuống cho cả người áp sàn"
+    "viDef": "nằm xuống cho cả người áp sàn",
+    "ex": "Alright, come here and lay flat on your back.",
+    "exHit": "lay flat",
+    "exVi": "Nào, lại đây và nằm thẳng trên lưng."
   },
   {
     "word": "on your back",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "face-up lying on the floor",
     "vi": "nằm ngửa",
-    "viDef": "nằm mặt hướng lên sàn"
+    "viDef": "nằm mặt hướng lên sàn",
+    "ex": "Alright, come here and lay flat on your back.",
+    "exHit": "on your back",
+    "exVi": "Nào, lại đây và nằm thẳng trên lưng."
   },
   {
     "word": "suppose",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "assume to be true",
     "vi": "giả sử",
-    "viDef": "coi như điều đó là thật"
+    "viDef": "coi như điều đó là thật",
+    "ex": "Let's suppose this young woman has stopped breathing.",
+    "exHit": "suppose",
+    "exVi": "Giả sử cô gái trẻ này đã ngừng thở."
   },
   {
     "word": "French kiss",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a kiss in which the tongue enters the partner's mouth",
     "vi": "nụ hôn kiểu Pháp",
-    "viDef": "nụ hôn có đưa lưỡi vào miệng đối phương"
+    "viDef": "nụ hôn có đưa lưỡi vào miệng đối phương",
+    "ex": "But no French kissing!",
+    "exHit": "French kissing",
+    "exVi": "Nhưng không được hôn kiểu Pháp!"
   },
   {
     "word": "go for second base",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "touch the breast",
     "vi": "tiến tới chạm ngực",
-    "viDef": "sờ vào ngực"
+    "viDef": "sờ vào ngực",
+    "ex": "You can't just kiss me then go for second base!",
+    "exHit": "go for second base",
+    "exVi": "Anh không thể vừa hôn em xong đã tiến sang bước tiếp theo được!"
   },
   {
     "word": "get going",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "let something work again",
     "vi": "cho hoạt động lại",
-    "viDef": "làm cho thứ gì chạy lại"
+    "viDef": "làm cho thứ gì chạy lại",
+    "ex": "Once this is done, we must try to get the heart going again.",
+    "exHit": "get the heart going",
+    "exVi": "Khi xong việc này, chúng ta phải cố làm cho tim đập trở lại."
   },
   {
     "word": "heimlich maneuver",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "a series of abdominal thrusts used to expel an object a person is choking on",
     "vi": "thủ thuật Heimlich",
-    "viDef": "chuỗi cú ép bụng để tống dị vật ra khi người bị sặc"
+    "viDef": "chuỗi cú ép bụng để tống dị vật ra khi người bị sặc",
+    "ex": "He saved the choking child with the Heimlich maneuver.",
+    "exHit": "Heimlich maneuver",
+    "exVi": "Anh ấy cứu đứa bé bị nghẹn bằng thủ thuật Heimlich."
   },
   {
     "word": "concussion",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "a brain injury that is caused by a sudden blow to the head or to the body",
     "vi": "chấn động não",
-    "viDef": "thương tổn não do bị đánh mạnh vào đầu hoặc vào người"
+    "viDef": "thương tổn não do bị đánh mạnh vào đầu hoặc vào người",
+    "ex": "She had a concussion after hitting her head on the pavement.",
+    "exHit": "concussion",
+    "exVi": "Cô ấy bị chấn động não sau khi đập đầu xuống vỉa hè."
   },
   {
     "word": "stroke",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "the rapidly developing loss of brain function(s) due to disturbance in the blood supply to the brain.",
     "vi": "đột quỵ",
-    "viDef": "việc não mất chức năng nhanh chóng do máu tới não bị gián đoạn"
+    "viDef": "việc não mất chức năng nhanh chóng do máu tới não bị gián đoạn",
+    "ex": "My grandfather had a stroke and can't speak clearly now.",
+    "exHit": "stroke",
+    "exVi": "Ông mình bị đột quỵ và giờ không nói rõ được."
   },
   {
     "word": "hemorrhage",
@@ -133,7 +181,10 @@
     "type": "",
     "def": "a discharge or escape of blood",
     "vi": "xuất huyết",
-    "viDef": "máu chảy hoặc thoát ra ngoài"
+    "viDef": "máu chảy hoặc thoát ra ngoài",
+    "ex": "The doctor stopped the hemorrhage before he lost too much blood.",
+    "exHit": "hemorrhage",
+    "exVi": "Bác sĩ cầm máu trước khi anh ấy mất quá nhiều máu."
   },
   {
     "word": "go into shock",
@@ -141,6 +192,9 @@
     "type": "",
     "def": "A marked loss of blood pressure, diminished blood circulation, and inadequate blood flow to the tissues.",
     "vi": "rơi vào sốc",
-    "viDef": "huyết áp tụt mạnh, tuần hoàn giảm và máu tới các mô không đủ"
+    "viDef": "huyết áp tụt mạnh, tuần hoàn giảm và máu tới các mô không đủ",
+    "ex": "After the accident, he went into shock and couldn't speak.",
+    "exHit": "went into shock",
+    "exVi": "Sau vụ tai nạn, anh ấy bị sốc và không nói được."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "a small natural indentation in the flesh",
     "vi": "má lúm",
-    "viDef": "chỗ hõm nhỏ tự nhiên trên da thịt"
+    "viDef": "chỗ hõm nhỏ tự nhiên trên da thịt",
+    "ex": "He has a roman nose, bushy eyebrows and dimples!",
+    "exHit": "dimples",
+    "exVi": "Anh ấy có sống mũi cao, lông mày rậm và má lúm đồng tiền!"
   },
   {
     "word": "mole",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a small, dark brown spot on a person's skin",
     "vi": "nốt ruồi",
-    "viDef": "chấm nhỏ màu nâu sẫm trên da người"
+    "viDef": "chấm nhỏ màu nâu sẫm trên da người",
+    "ex": "That mole is so huge!",
+    "exHit": "mole",
+    "exVi": "Nốt ruồi đó to quá!"
   },
   {
     "word": "freckle",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a small, brownish spot on someone's skin",
     "vi": "nốt tàn nhang",
-    "viDef": "chấm nhỏ màu nâu trên da"
+    "viDef": "chấm nhỏ màu nâu trên da",
+    "ex": "He has quite a few freckles and an oval face.",
+    "exHit": "freckles",
+    "exVi": "Anh ấy có khá nhiều tàn nhang và khuôn mặt trái xoan."
   },
   {
     "word": "oval",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "having the shape of an egg",
     "vi": "bầu, hình trứng",
-    "viDef": "có dáng như quả trứng"
+    "viDef": "có dáng như quả trứng",
+    "ex": "He has quite a few freckles and an oval face.",
+    "exHit": "oval",
+    "exVi": "Anh ấy có khá nhiều tàn nhang và khuôn mặt trái xoan."
   },
   {
     "word": "cheeks",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the fleshy side of the face",
     "vi": "gò má",
-    "viDef": "phần thịt hai bên mặt"
+    "viDef": "phần thịt hai bên mặt",
+    "ex": "When she laughs, her cheeks turn bright red.",
+    "exHit": "cheeks",
+    "exVi": "Cô bé cười tươi đến mức hai má đỏ ửng lên."
   },
   {
     "word": "nostrils",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the holes in the nose that allow the pass of air",
     "vi": "lỗ mũi",
-    "viDef": "hai lỗ trên mũi cho khí đi qua"
+    "viDef": "hai lỗ trên mũi cho khí đi qua",
+    "ex": "My nostrils are always blocked when I have a cold.",
+    "exHit": "nostrils",
+    "exVi": "Khi bị cảm, lỗ mũi của tôi lúc nào cũng nghẹt."
   },
   {
     "word": "forehead",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a part of the face above the eyes",
     "vi": "vầng trán",
-    "viDef": "phần mặt phía trên mắt"
+    "viDef": "phần mặt phía trên mắt",
+    "ex": "He wiped the sweat off his forehead and sat down.",
+    "exHit": "forehead",
+    "exVi": "Anh ấy lau mồ hôi trên trán rồi ngồi xuống nghỉ."
   },
   {
     "word": "eyelash",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the hair on the eyelid that protects the eye",
     "vi": "lông mi",
-    "viDef": "lông trên mí giúp che mắt"
+    "viDef": "lông trên mí giúp che mắt",
+    "ex": "She has such long eyelashes that they look fake.",
+    "exHit": "eyelashes",
+    "exVi": "Cô ấy có hàng mi dài đến nỗi trông như đeo mi giả."
   },
   {
     "word": "chin",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "the lower portion of the face including the jaw",
     "vi": "cằm",
-    "viDef": "phần dưới của mặt, gồm cả xương hàm"
+    "viDef": "phần dưới của mặt, gồm cả xương hàm",
+    "ex": "She has a pointy nose, sunken eyes and a mole on her chin!",
+    "exHit": "chin",
+    "exVi": "Cô ấy có chiếc mũi nhọn, đôi mắt sâu và một nốt ruồi trên cằm!"
   }
 ]

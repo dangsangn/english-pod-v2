@@ -5,7 +5,10 @@
     "type": "",
     "def": "cause someone to feel admiration",
     "vi": "gây ấn tượng",
-    "viDef": "khiến ai thấy nể phục"
+    "viDef": "khiến ai thấy nể phục",
+    "ex": "Now, Miss Childs passed on your resume to me and I've had the chance to look it over and I must say I'm quite impressed.",
+    "exHit": "impressed",
+    "exVi": "Giờ, cô Childs đã chuyển hồ sơ của bạn cho tôi và tôi đã có dịp xem qua, và phải nói là tôi khá ấn tượng."
   },
   {
     "word": "a brief overview",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a general description",
     "vi": "đôi nét khái quát",
-    "viDef": "phần trình bày chung, ngắn gọn"
+    "viDef": "phần trình bày chung, ngắn gọn",
+    "ex": "Well yes, I do have a number of questions, but perhaps first you could give me a brief overview I'd like to get a little bit of an idea of your background.",
+    "exHit": "a brief overview",
+    "exVi": "Vâng, tôi có một số câu hỏi, nhưng có lẽ trước tiên bạn có thể tóm tắt ngắn gọn để tôi hình dung phần nào về nền tảng của bạn."
   },
   {
     "word": "settle down",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to calm down",
     "vi": "bình tĩnh lại",
-    "viDef": "trở nên điềm tĩnh"
+    "viDef": "trở nên điềm tĩnh",
+    "ex": "But now I'm really looking to settle down.",
+    "exHit": "settle down",
+    "exVi": "Nhưng giờ tôi thật sự muốn ổn định cuộc sống."
   },
   {
     "word": "pass on",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "hand in",
     "vi": "chuyển tới",
-    "viDef": "đưa lại, trao lên"
+    "viDef": "đưa lại, trao lên",
+    "ex": "Now, Miss Childs passed on your resume to me and I've had the chance to look it over and I must say I'm quite impressed.",
+    "exHit": "passed on",
+    "exVi": "Giờ, cô Childs đã chuyển hồ sơ của bạn cho tôi và tôi đã có dịp xem qua, và phải nói là tôi khá ấn tượng."
   },
   {
     "word": "feel free",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "feel relaxed",
     "vi": "cứ thoải mái",
-    "viDef": "thấy tự nhiên, không phải ngại"
+    "viDef": "thấy tự nhiên, không phải ngại",
+    "ex": "If there's any questions please feel free to ask me.",
+    "exHit": "feel free",
+    "exVi": "Nếu có câu hỏi nào, xin cứ thoải mái hỏi tôi."
   },
   {
     "word": "concise",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to be short and clear",
     "vi": "ngắn gọn",
-    "viDef": "ngắn mà rõ"
+    "viDef": "ngắn mà rõ",
+    "ex": "Please keep your answer concise and clear, so the interviewer understands you.",
+    "exHit": "concise",
+    "exVi": "Hãy trả lời ngắn gọn và rõ ràng để người phỏng vấn hiểu bạn."
   },
   {
     "word": "world traveller",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a person who has traveled to many different countries",
     "vi": "người đi khắp thế giới",
-    "viDef": "người từng tới nhiều nước khác nhau"
+    "viDef": "người từng tới nhiều nước khác nhau",
+    "ex": "As a world traveller, she has been to more than forty countries.",
+    "exHit": "world traveller",
+    "exVi": "Là một người đi du lịch khắp thế giới, cô ấy đã đến hơn bốn mươi quốc gia."
   },
   {
     "word": "cover page",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a page briefly describing the interviewee",
     "vi": "trang bìa",
-    "viDef": "trang giới thiệu ngắn về người ứng tuyển"
+    "viDef": "trang giới thiệu ngắn về người ứng tuyển",
+    "ex": "I put a short cover page at the front of my resume.",
+    "exHit": "cover page",
+    "exVi": "Tôi thêm một trang bìa ngắn ở đầu hồ sơ xin việc của mình."
   },
   {
     "word": "qualities",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "certain positive characteristics a person has",
     "vi": "các phẩm chất",
-    "viDef": "những nét tích cực mà một người có"
+    "viDef": "những nét tích cực mà một người có",
+    "ex": "What qualities do you think make a good team leader?",
+    "exHit": "qualities",
+    "exVi": "Bạn nghĩ những phẩm chất nào làm nên một trưởng nhóm giỏi?"
   },
   {
     "word": "expatriate",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a person who leaves their home country to work in another country",
     "vi": "người ra nước ngoài làm việc",
-    "viDef": "người rời quê hương để đi làm ở nước khác"
+    "viDef": "người rời quê hương để đi làm ở nước khác",
+    "ex": "My aunt is an expatriate who works in Singapore.",
+    "exHit": "expatriate",
+    "exVi": "Dì tôi là người sống xa xứ và làm việc ở Singapore."
   }
 ]

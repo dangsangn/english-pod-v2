@@ -5,7 +5,10 @@
     "type": "",
     "def": "having the right qualities",
     "vi": "phù hợp",
-    "viDef": "có đúng những tính chất cần có"
+    "viDef": "có đúng những tính chất cần có",
+    "ex": "One of our other vendors is going out of business and I've been searching for a suitable replacement.",
+    "exHit": "suitable",
+    "exVi": "Một nhà cung cấp khác của chúng tôi sắp ngừng kinh doanh và tôi đang tìm một người thay thế phù hợp."
   },
   {
     "word": "assured",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to be sure, certain",
     "vi": "chắc chắn",
-    "viDef": "đã yên tâm, xác tín"
+    "viDef": "đã yên tâm, xác tín",
+    "ex": "Well, rest assured that you can count on us to be here for the long run sit down.",
+    "exHit": "assured",
+    "exVi": "Anh cứ yên tâm, anh có thể tin cậy chúng tôi sẽ gắn bó lâu dài, xin mời ngồi."
   },
   {
     "word": "long run",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "phrase used to express a long period of time.",
     "vi": "về lâu dài",
-    "viDef": "câu dùng để nói về một khoảng thời gian dài"
+    "viDef": "câu dùng để nói về một khoảng thời gian dài",
+    "ex": "Well, rest assured that you can count on us to be here for the long run sit down.",
+    "exHit": "long run",
+    "exVi": "Anh cứ yên tâm, anh có thể tin cậy chúng tôi sẽ gắn bó lâu dài, xin mời ngồi."
   },
   {
     "word": "contract",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a formal written agreement between two or more people",
     "vi": "hợp đồng",
-    "viDef": "thỏa thuận lập thành văn bản giữa hai hay nhiều người"
+    "viDef": "thỏa thuận lập thành văn bản giữa hai hay nhiều người",
+    "ex": "Let's get started by drafting a new contract.",
+    "exHit": "contract",
+    "exVi": "Chúng ta bắt đầu bằng việc soạn một hợp đồng mới nhé."
   },
   {
     "word": "negotiate",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to reach an agreement on money, terms, etc",
     "vi": "thương lượng",
-    "viDef": "đạt được thỏa thuận về tiền, điều khoản..."
+    "viDef": "đạt được thỏa thuận về tiền, điều khoản...",
+    "ex": "We were hoping that by making your company our sole supplier for cameras we could negotiate a better deal.",
+    "exHit": "negotiate",
+    "exVi": "Chúng tôi hy vọng rằng nếu chọn công ty anh làm nhà cung cấp camera duy nhất, chúng tôi có thể thương lượng được giá tốt hơn."
   },
   {
     "word": "sole",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "unique. One and only",
     "vi": "duy nhất",
-    "viDef": "độc nhất, chỉ một"
+    "viDef": "độc nhất, chỉ một",
+    "ex": "We were hoping that by making your company our sole supplier for cameras we could negotiate a better deal.",
+    "exHit": "sole",
+    "exVi": "Chúng tôi hy vọng rằng nếu chọn công ty anh làm nhà cung cấp camera duy nhất, chúng tôi có thể thương lượng được giá tốt hơn."
   },
   {
     "word": "supplier",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "person or company who sells you goods",
     "vi": "nhà cung cấp",
-    "viDef": "người hoặc công ty bán hàng cho bạn"
+    "viDef": "người hoặc công ty bán hàng cho bạn",
+    "ex": "We were hoping that by making your company our sole supplier for cameras we could negotiate a better deal.",
+    "exHit": "supplier",
+    "exVi": "Chúng tôi hy vọng rằng nếu chọn công ty anh làm nhà cung cấp camera duy nhất, chúng tôi có thể thương lượng được giá tốt hơn."
   },
   {
     "word": "the long run",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a long period of time",
     "vi": "đường dài",
-    "viDef": "một khoảng thời gian dài"
+    "viDef": "một khoảng thời gian dài",
+    "ex": "Well, rest assured that you can count on us to be here for the long run sit down.",
+    "exHit": "the long run",
+    "exVi": "Anh cứ yên tâm, anh có thể tin cậy chúng tôi sẽ gắn bó lâu dài, xin mời ngồi."
   },
   {
     "word": "lead time",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "time needed to ship or manufacture goods",
     "vi": "thời gian chờ hàng",
-    "viDef": "thời gian cần để giao hoặc sản xuất hàng"
+    "viDef": "thời gian cần để giao hoặc sản xuất hàng",
+    "ex": "The lead time for this model is about three weeks.",
+    "exHit": "lead time",
+    "exVi": "Thời gian chờ giao hàng của mẫu này khoảng ba tuần."
   },
   {
     "word": "payment terms",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "terms or conditions for payment",
     "vi": "điều khoản thanh toán",
-    "viDef": "các điều kiện về việc trả tiền"
+    "viDef": "các điều kiện về việc trả tiền",
+    "ex": "Before we sign, we need to agree on the payment terms.",
+    "exHit": "payment terms",
+    "exVi": "Trước khi ký, chúng ta cần thống nhất điều khoản thanh toán."
   },
   {
     "word": "backorder",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "order which cannot be taken or filled now",
     "vi": "đơn chờ hàng",
-    "viDef": "đơn hiện chưa nhận hoặc chưa đáp ứng được"
+    "viDef": "đơn hiện chưa nhận hoặc chưa đáp ứng được",
+    "ex": "That item is sold out, so I had to place a backorder.",
+    "exHit": "backorder",
+    "exVi": "Mặt hàng đó hết rồi nên tôi phải đặt hàng chờ giao sau."
   },
   {
     "word": "wholesale",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "sale of goods and services to retailers",
     "vi": "bán buôn",
-    "viDef": "việc bán hàng và dịch vụ cho các nhà bán lẻ"
+    "viDef": "việc bán hàng và dịch vụ cho các nhà bán lẻ",
+    "ex": "The wholesale price is much cheaper than the retail price.",
+    "exHit": "wholesale",
+    "exVi": "Mua sỉ thì giá rẻ hơn nhiều so với giá bán lẻ."
   },
   {
     "word": "buyer",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "Professional purchaser specializing in a specific group of materials, goods, or services",
     "vi": "chuyên viên mua hàng",
-    "viDef": "người mua hàng chuyên trách một nhóm vật liệu, hàng hóa hoặc dịch vụ nhất định"
+    "viDef": "người mua hàng chuyên trách một nhóm vật liệu, hàng hóa hoặc dịch vụ nhất định",
+    "ex": "The buyer for our company is responsible for finding the best suppliers.",
+    "exHit": "buyer",
+    "exVi": "Người mua hàng của công ty chịu trách nhiệm tìm nhà cung cấp tốt nhất."
   }
 ]

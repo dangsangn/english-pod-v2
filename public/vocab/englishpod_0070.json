@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "extremely embarassing",
     "vi": "nhục hết chỗ nói",
-    "viDef": "cực kỳ mắc cỡ"
+    "viDef": "cực kỳ mắc cỡ",
+    "ex": "This is mortifying; I just want to get this over with.",
+    "exHit": "mortifying",
+    "exVi": "Thật xấu hổ quá; tôi chỉ muốn xong chuyện này cho nhanh."
   },
   {
     "word": "boy shorts",
@@ -13,7 +16,10 @@
     "type": "common noun, plural",
     "def": "women's underwear that looks like little, tight shorts",
     "vi": "quần lót đùi",
-    "viDef": "đồ lót nữ trông như quần đùi nhỏ, bó"
+    "viDef": "đồ lót nữ trông như quần đùi nhỏ, bó",
+    "ex": "Well, do you want a thong, some bikini briefs, maybe this nice pair of lacy boy shorts?",
+    "exHit": "boy shorts",
+    "exVi": "Vậy bạn muốn một chiếc quần lót dây, vài chiếc quần lót bikini, hay chiếc quần lót boy short ren xinh xắn này?"
   },
   {
     "word": "bikini briefs",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "women's underwear worn on the lower part of the body",
     "vi": "quần lót bikini",
-    "viDef": "đồ lót nữ mặc ở phần dưới cơ thể"
+    "viDef": "đồ lót nữ mặc ở phần dưới cơ thể",
+    "ex": "Well, do you want a thong, some bikini briefs, maybe this nice pair of lacy boy shorts?",
+    "exHit": "bikini briefs",
+    "exVi": "Vậy bạn muốn một chiếc quần lót dây, vài chiếc quần lót bikini, hay chiếc quần lót boy short ren xinh xắn này?"
   },
   {
     "word": "undies",
@@ -29,7 +38,10 @@
     "type": "common noun, plural",
     "def": "informal way of saying underwear",
     "vi": "đồ lót",
-    "viDef": "cách gọi thân mật của quần áo lót"
+    "viDef": "cách gọi thân mật của quần áo lót",
+    "ex": "Look, here's a nice satin push-up bra, and you can choose a few different styles of undies to go with it.",
+    "exHit": "undies",
+    "exVi": "Nhìn này, đây là một chiếc áo ngực nâng ngực bằng satin rất đẹp, và bạn có thể chọn vài kiểu quần lót khác nhau để đi cùng."
   },
   {
     "word": "push-up bra",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "a bra that raises the breasts so as to offer additional size through padding",
     "vi": "áo ngực đệm nâng",
-    "viDef": "áo ngực có đệm để nâng và trông đầy hơn"
+    "viDef": "áo ngực có đệm để nâng và trông đầy hơn",
+    "ex": "She tried on a push-up bra at the department store.",
+    "exHit": "push-up bra",
+    "exVi": "Cô ấy thử một chiếc áo ngực nâng ngực ở cửa hàng bách hóa."
   },
   {
     "word": "nighties",
@@ -45,7 +60,10 @@
     "type": "common noun, plural",
     "def": "a night dress, night gown",
     "vi": "váy ngủ",
-    "viDef": "áo đầm mặc khi ngủ"
+    "viDef": "áo đầm mặc khi ngủ",
+    "ex": "We've got these lovely, silky nighties.",
+    "exHit": "nighties",
+    "exVi": "Chúng tôi có những chiếc váy ngủ lụa rất đáng yêu này."
   },
   {
     "word": "get out of here",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "leave this place",
     "vi": "ra khỏi đây đi",
-    "viDef": "rời khỏi chỗ này"
+    "viDef": "rời khỏi chỗ này",
+    "ex": "Okay, just find something and get out of here.",
+    "exHit": "get out of here",
+    "exVi": "Được rồi, cứ chọn đại một món rồi rời khỏi đây thôi."
   },
   {
     "word": "sleepwear",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "clothes you use for sleeping",
     "vi": "đồ ngủ",
-    "viDef": "quần áo mặc khi đi ngủ"
+    "viDef": "quần áo mặc khi đi ngủ",
+    "ex": "Have you thought about getting her some sleepwear?",
+    "exHit": "sleepwear",
+    "exVi": "Bạn đã nghĩ đến việc mua cho cô ấy bộ đồ ngủ chưa?"
   },
   {
     "word": "lingerie",
@@ -69,7 +93,10 @@
     "type": "common noun, non-variable",
     "def": "women's underwear",
     "vi": "nội y nữ",
-    "viDef": "đồ lót của phụ nữ"
+    "viDef": "đồ lót của phụ nữ",
+    "ex": "This sucks; I hate buying lingerie.",
+    "exHit": "lingerie",
+    "exVi": "Chán thật; tôi ghét mua đồ lót nữ."
   },
   {
     "word": "panties",
@@ -77,7 +104,10 @@
     "type": "common noun, plural",
     "def": "women's underwear",
     "vi": "quần lót nữ",
-    "viDef": "đồ lót của phụ nữ"
+    "viDef": "đồ lót của phụ nữ",
+    "ex": "Well, you can't give her granny panties.",
+    "exHit": "panties",
+    "exVi": "Chà, bạn không thể tặng cô ấy chiếc quần lót kiểu bà già được."
   },
   {
     "word": "bra",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "clothes a women wears to support her breasts",
     "vi": "áo ngực",
-    "viDef": "áo phụ nữ mặc để đỡ ngực"
+    "viDef": "áo phụ nữ mặc để đỡ ngực",
+    "ex": "Or, how about a nice panty-and and-bra set.",
+    "exHit": "bra",
+    "exVi": "Hoặc là, một bộ quần lót và áo ngực đẹp thì sao?"
   },
   {
     "word": "going commando",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "term used to describe when a person is not wearing any underwear",
     "vi": "không mặc đồ lót",
-    "viDef": "cách nói khi ai đó chẳng mặc gì bên trong"
+    "viDef": "cách nói khi ai đó chẳng mặc gì bên trong",
+    "ex": "He forgot his underwear and ended up going commando all day.",
+    "exHit": "going commando",
+    "exVi": "Anh ấy quên mặc đồ lót nên cả ngày không mặc gì bên trong."
   },
   {
     "word": "briefs",
@@ -101,7 +137,10 @@
     "type": "common noun, plural",
     "def": "normal or traditional underwear for men, similar to the shape and size of panties",
     "vi": "quần lót nam ôm",
-    "viDef": "đồ lót nam kiểu thường, dáng và cỡ như quần lót nữ"
+    "viDef": "đồ lót nam kiểu thường, dáng và cỡ như quần lót nữ",
+    "ex": "Well, do you want a thong, some bikini briefs, maybe this nice pair of lacy boy shorts?",
+    "exHit": "briefs",
+    "exVi": "Vậy bạn muốn một chiếc quần lót dây, vài chiếc quần lót bikini, hay chiếc quần lót boy short ren xinh xắn này?"
   },
   {
     "word": "boxer shorts",
@@ -109,7 +148,10 @@
     "type": "common noun, plural",
     "def": "type of underwear that men use which are similar to shorts",
     "vi": "quần lót đùi nam",
-    "viDef": "đồ lót nam giống chiếc quần đùi"
+    "viDef": "đồ lót nam giống chiếc quần đùi",
+    "ex": "I bought him a pair of boxer shorts for his birthday.",
+    "exHit": "boxer shorts",
+    "exVi": "Tôi đã mua cho anh ấy một chiếc quần lót ống rộng nhân dịp sinh nhật."
   },
   {
     "word": "corset",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "a garment worn under the clothing used to mold and shape the torso into a desired shape for aesthetic or medical purposes",
     "vi": "áo nịt định hình",
-    "viDef": "áo mặc bên trong để bó và tạo dáng phần thân, vì thẩm mỹ hoặc y tế"
+    "viDef": "áo mặc bên trong để bó và tạo dáng phần thân, vì thẩm mỹ hoặc y tế",
+    "ex": "She wore a tight corset under her wedding dress.",
+    "exHit": "corset",
+    "exVi": "Cô ấy mặc một chiếc áo nịt bó sát bên dưới váy cưới."
   },
   {
     "word": "knickers",
@@ -125,6 +170,9 @@
     "type": "common noun, plural",
     "def": "BrE. same as panties",
     "vi": "quần lót nữ",
-    "viDef": "tiếng Anh-Anh, giống panties"
+    "viDef": "tiếng Anh-Anh, giống panties",
+    "ex": "She packed three pairs of knickers for the weekend trip.",
+    "exHit": "knickers",
+    "exVi": "Cô ấy mang theo ba chiếc quần lót cho chuyến đi cuối tuần."
   }
 ]

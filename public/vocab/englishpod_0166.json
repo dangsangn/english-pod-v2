@@ -5,7 +5,10 @@
     "type": "",
     "def": "too proud of good looks",
     "vi": "tự mê nhan sắc",
-    "viDef": "quá tự đắc về vẻ ngoài"
+    "viDef": "quá tự đắc về vẻ ngoài",
+    "ex": "Stop being so vain.",
+    "exHit": "vain",
+    "exVi": "Đừng có tự cao về vẻ ngoài của mình nữa."
   },
   {
     "word": "wrinkle",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a fold, ridge or crease in the skin",
     "vi": "nếp nhăn",
-    "viDef": "chỗ gấp hoặc hằn trên da"
+    "viDef": "chỗ gấp hoặc hằn trên da",
+    "ex": "I don't see any wrinkles or sagging skin!",
+    "exHit": "wrinkles",
+    "exVi": "Tôi có thấy nếp nhăn hay da chảy xệ gì đâu!"
   },
   {
     "word": "Botox",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a medical protein injected into facial muscles to",
     "vi": "Botox",
-    "viDef": "loại protein y tế tiêm vào cơ mặt để làm căng da"
+    "viDef": "loại protein y tế tiêm vào cơ mặt để làm căng da",
+    "ex": "Besides, I think that people who get Botox, have facelifts, or tummy tucks look weird.",
+    "exHit": "Botox",
+    "exVi": "Với lại, tôi thấy những người tiêm Botox, nâng cơ mặt hay hút mỡ bụng trông kỳ lắm."
   },
   {
     "word": "cosmetic surgery",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "plastic surgery",
     "vi": "phẫu thuật thẩm mỹ",
-    "viDef": "mổ tạo hình làm đẹp"
+    "viDef": "mổ tạo hình làm đẹp",
+    "ex": "I honestly don't think you need cosmetic surgery, you look amazing.",
+    "exHit": "cosmetic surgery",
+    "exVi": "Thật lòng tôi không nghĩ bạn cần phẫu thuật thẩm mỹ, trông bạn tuyệt lắm."
   },
   {
     "word": "breast implant",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a plastic surgery on breasts to make them bigger",
     "vi": "nâng ngực",
-    "viDef": "phẫu thuật làm ngực to hơn"
+    "viDef": "phẫu thuật làm ngực to hơn",
+    "ex": "She got a breast implant after thinking about it for years.",
+    "exHit": "breast implant",
+    "exVi": "Cô ấy đã nâng ngực bằng túi độn sau nhiều năm cân nhắc."
   },
   {
     "word": "injection",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the act of forcing a fluid into the body by means of a needle",
     "vi": "mũi tiêm",
-    "viDef": "việc dùng kim đưa dịch vào cơ thể"
+    "viDef": "việc dùng kim đưa dịch vào cơ thể",
+    "ex": "The nurse gave me an injection in my arm.",
+    "exHit": "injection",
+    "exVi": "Y tá đã tiêm cho tôi một mũi vào cánh tay."
   },
   {
     "word": "skin graft",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "skin removed from a healthy area of the body and placed on an area with damaged skin in order to heal it",
     "vi": "ghép da",
-    "viDef": "lấy da ở vùng lành đắp lên chỗ da bị tổn thương cho lành lại"
+    "viDef": "lấy da ở vùng lành đắp lên chỗ da bị tổn thương cho lành lại",
+    "ex": "The burn victim needed a skin graft on his leg.",
+    "exHit": "skin graft",
+    "exVi": "Nạn nhân bị bỏng cần ghép da ở chân."
   },
   {
     "word": "cosmetic laser surgery",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "cosmetic surgery performed with the use of lasers",
     "vi": "thẩm mỹ bằng laser",
-    "viDef": "phẫu thuật làm đẹp có dùng tia laser"
+    "viDef": "phẫu thuật làm đẹp có dùng tia laser",
+    "ex": "She had cosmetic laser surgery to remove the scars on her face.",
+    "exHit": "cosmetic laser surgery",
+    "exVi": "Cô ấy phẫu thuật thẩm mỹ bằng laser để xóa sẹo trên mặt."
   },
   {
     "word": "stretch mark",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "skin with off-colour scars caused by rapid stretching of the skin",
     "vi": "vết rạn da",
-    "viDef": "các vệt sẫm màu do da bị căng ra quá nhanh"
+    "viDef": "các vệt sẫm màu do da bị căng ra quá nhanh",
+    "ex": "Many women get a stretch mark on their stomach after having a baby.",
+    "exHit": "stretch mark",
+    "exVi": "Nhiều phụ nữ bị rạn da ở bụng sau khi sinh con."
   },
   {
     "word": "chemical peel",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a chemical solution used on the face that causes dead skin to fall off in order to improve the texture of the skin",
     "vi": "lột da bằng hóa chất",
-    "viDef": "dung dịch bôi lên mặt làm bong lớp da chết để da mịn hơn"
+    "viDef": "dung dịch bôi lên mặt làm bong lớp da chết để da mịn hơn",
+    "ex": "She booked a chemical peel to make her skin look smoother.",
+    "exHit": "chemical peel",
+    "exVi": "Cô ấy đặt lịch lột da hóa học để da trông mịn hơn."
   }
 ]

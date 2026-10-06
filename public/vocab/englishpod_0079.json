@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "get through by force",
     "vi": "chọc phá xuyên qua",
-    "viDef": "dùng sức vượt qua"
+    "viDef": "dùng sức vượt qua",
+    "ex": "They are breaking through!",
+    "exHit": "breaking through",
+    "exVi": "Chúng đang đột phá vào!"
   },
   {
     "word": "blaster",
@@ -13,7 +16,10 @@
     "type": "common noun, plural",
     "def": "the parts of a spaceship that are used for emitting bombs",
     "vi": "súng bắn của phi thuyền",
-    "viDef": "bộ phận trên tàu không gian dùng để phóng bom"
+    "viDef": "bộ phận trên tàu không gian dùng để phóng bom",
+    "ex": "Set your blasters to full power!",
+    "exHit": "blasters",
+    "exVi": "Chỉnh súng blaster của các bạn sang công suất tối đa!"
   },
   {
     "word": "settle",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "finish, end",
     "vi": "giải quyết cho xong",
-    "viDef": "kết thúc, dứt điểm"
+    "viDef": "kết thúc, dứt điểm",
+    "ex": "It's time you and I settled this once and for all!",
+    "exHit": "settled",
+    "exVi": "Đã đến lúc ta và ngươi giải quyết chuyện này một lần cho xong!"
   },
   {
     "word": "once and for all",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "forever",
     "vi": "một lần cho xong",
-    "viDef": "dứt khoát, mãi mãi"
+    "viDef": "dứt khoát, mãi mãi",
+    "ex": "It's time you and I settled this once and for all!",
+    "exHit": "once and for all",
+    "exVi": "Đã đến lúc ta và ngươi giải quyết chuyện này một lần cho xong!"
   },
   {
     "word": "unwise",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "not wise, silly",
     "vi": "không sáng suốt",
-    "viDef": "thiếu khôn ngoan, hớ hênh"
+    "viDef": "thiếu khôn ngoan, hớ hênh",
+    "ex": "You are unwise to think you can defeat me.",
+    "exHit": "unwise",
+    "exVi": "Ngươi thật dại dột khi nghĩ có thể đánh bại ta."
   },
   {
     "word": "manage",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "be able to do",
     "vi": "xoay xở làm được",
-    "viDef": "có thể làm nổi"
+    "viDef": "có thể làm nổi",
+    "ex": "They somehow managed to escape our tractor beam!",
+    "exHit": "managed",
+    "exVi": "Bằng cách nào đó chúng đã thoát khỏi tia kéo của chúng ta!"
   },
   {
     "word": "tractor beam",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "a device used for attracting one project to another from a distance",
     "vi": "chùm tia hút",
-    "viDef": "thiết bị hút vật thể này về phía vật thể khác từ xa"
+    "viDef": "thiết bị hút vật thể này về phía vật thể khác từ xa",
+    "ex": "They somehow managed to escape our tractor beam!",
+    "exHit": "tractor beam",
+    "exVi": "Bằng cách nào đó chúng đã thoát khỏi tia kéo của chúng ta!"
   },
   {
     "word": "speed of light",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "the rate at which light travels. 299 792 458 meters per second",
     "vi": "tốc độ ánh sáng",
-    "viDef": "vận tốc ánh sáng, 299 792 458 mét mỗi giây"
+    "viDef": "vận tốc ánh sáng, 299 792 458 mét mỗi giây",
+    "ex": "They are accelerating towards the speed of light We lost them, sir...",
+    "exHit": "speed of light",
+    "exVi": "Chúng đang tăng tốc đến tốc độ ánh sáng. Chúng ta mất dấu chúng rồi, thưa ngài..."
   },
   {
     "word": "android",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a robot that looks like a person",
     "vi": "người máy",
-    "viDef": "rô-bốt trông giống người"
+    "viDef": "rô-bốt trông giống người",
+    "ex": "The android in this movie looks exactly like a real person.",
+    "exHit": "android",
+    "exVi": "Người máy trong bộ phim này trông giống hệt người thật."
   },
   {
     "word": "galaxy",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "any one of the very large groups of stars that make up the universe",
     "vi": "thiên hà",
-    "viDef": "một trong những cụm sao rất lớn tạo nên vũ trụ"
+    "viDef": "một trong những cụm sao rất lớn tạo nên vũ trụ",
+    "ex": "Our galaxy has billions of stars in it.",
+    "exHit": "galaxy",
+    "exVi": "Thiên hà của chúng ta có hàng tỷ ngôi sao."
   },
   {
     "word": "constellation",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a group of celestial bodies (usually stars) that appear to form a pattern in the sky or appear visibly related to each other.",
     "vi": "chòm sao",
-    "viDef": "nhóm thiên thể, thường là sao, trông như tạo thành một hình trên trời"
+    "viDef": "nhóm thiên thể, thường là sao, trông như tạo thành một hình trên trời",
+    "ex": "Orion is my favorite constellation to look for at night.",
+    "exHit": "constellation",
+    "exVi": "Orion là chòm sao yêu thích của tôi để tìm trên bầu trời đêm."
   },
   {
     "word": "parsec",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "is a unit of length, equal to just under 31 trillion kilometres or about 3.26 light-years",
     "vi": "parsec",
-    "viDef": "đơn vị đo chiều dài, gần 31 nghìn tỉ ki-lô-mét, khoảng 3,26 năm ánh sáng"
+    "viDef": "đơn vị đo chiều dài, gần 31 nghìn tỉ ki-lô-mét, khoảng 3,26 năm ánh sáng",
+    "ex": "A parsec is a unit used to measure distance in space.",
+    "exHit": "parsec",
+    "exVi": "Parsec là đơn vị dùng để đo khoảng cách trong không gian."
   },
   {
     "word": "light-year",
@@ -101,6 +137,9 @@
     "type": "common noun, singular",
     "def": "the distance traveled in one year traveling at the speed of light",
     "vi": "năm ánh sáng",
-    "viDef": "khoảng cách đi được trong một năm với tốc độ ánh sáng"
+    "viDef": "khoảng cách đi được trong một năm với tốc độ ánh sáng",
+    "ex": "That star is four light-years away from the Earth.",
+    "exHit": "light-years",
+    "exVi": "Ngôi sao đó cách Trái Đất bốn năm ánh sáng."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "have an inclination or desire for",
     "vi": "thấy thèm",
-    "viDef": "có ý muốn hoặc thích thứ gì"
+    "viDef": "có ý muốn hoặc thích thứ gì",
+    "ex": "What do you feel like having?",
+    "exHit": "feel like",
+    "exVi": "Bạn muốn ăn gì?"
   },
   {
     "word": "steak",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "piece of cow meat",
     "vi": "bít tết",
-    "viDef": "miếng thịt bò"
+    "viDef": "miếng thịt bò",
+    "ex": "I really feel like having a big juicy steak!",
+    "exHit": "steak",
+    "exVi": "Mình thật sự thèm một miếng bít tết to, mọng nước!"
   },
   {
     "word": "vegetarian",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a person who does not eat meat or fish",
     "vi": "người ăn chay",
-    "viDef": "người không ăn thịt hay cá"
+    "viDef": "người không ăn thịt hay cá",
+    "ex": "I didn't know you were a vegetarian!",
+    "exHit": "vegetarian",
+    "exVi": "Mình không biết bạn ăn chay đấy!"
   },
   {
     "word": "vegan",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a person who does not eat or use animal products",
     "vi": "người ăn thuần chay",
-    "viDef": "người không ăn cũng không dùng sản phẩm từ động vật"
+    "viDef": "người không ăn cũng không dùng sản phẩm từ động vật",
+    "ex": "I'm not, I am a vegan.",
+    "exHit": "vegan",
+    "exVi": "Không, mình ăn chay trường."
   },
   {
     "word": "leather",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "made with animal skin that is chemically treated",
     "vi": "da thuộc",
-    "viDef": "làm từ da động vật đã xử lý hóa chất"
+    "viDef": "làm từ da động vật đã xử lý hóa chất",
+    "ex": "I don't wear leather, eat eggs, drink milk or anything that comes from an animal.",
+    "exHit": "leather",
+    "exVi": "Tôi không mặc đồ da, không ăn trứng, không uống sữa hay bất cứ thứ gì đến từ động vật."
   },
   {
     "word": "come from",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "originates from",
     "vi": "đến từ",
-    "viDef": "có nguồn gốc từ"
+    "viDef": "có nguồn gốc từ",
+    "ex": "I don't wear leather, eat eggs, drink milk or anything that comes from an animal.",
+    "exHit": "comes from",
+    "exVi": "Tôi không mặc đồ da, không ăn trứng, không uống sữa hay bất cứ thứ gì đến từ động vật."
   },
   {
     "word": "more and more",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "continuing to become larger in number",
     "vi": "càng lúc càng nhiều",
-    "viDef": "số lượng cứ tăng dần"
+    "viDef": "số lượng cứ tăng dần",
+    "ex": "It's a bit difficult to find vegetarian friendly restaurants sometimes, but since more and more people are vegetarians or vegans nowadays, it's getting a bit less difficult.",
+    "exHit": "more and more",
+    "exVi": "Đôi khi hơi khó tìm nhà hàng thân thiện với người ăn chay, nhưng vì ngày nay ngày càng nhiều người ăn chay hoặc ăn chay trường nên cũng đỡ khó hơn rồi."
   },
   {
     "word": "vegetable",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "kind of food that is not meat",
     "vi": "rau củ",
-    "viDef": "loại thức ăn không phải thịt"
+    "viDef": "loại thức ăn không phải thịt",
+    "ex": "Eat more vegetables if you want to stay healthy.",
+    "exHit": "vegetables",
+    "exVi": "Hãy ăn nhiều rau hơn nếu bạn muốn giữ sức khỏe."
   },
   {
     "word": "meat",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "kind of food that is not a vegetable",
     "vi": "thịt",
-    "viDef": "loại thức ăn không phải rau"
+    "viDef": "loại thức ăn không phải rau",
+    "ex": "I don't eat meat, but that's fine, I am sure wherever we are going they will have other options right?",
+    "exHit": "meat",
+    "exVi": "Tôi không ăn thịt, nhưng không sao, chắc chỗ nào họ cũng có món khác, đúng không?"
   },
   {
     "word": "milk",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "substance coming from a cow",
     "vi": "sữa",
-    "viDef": "chất lấy từ con bò"
+    "viDef": "chất lấy từ con bò",
+    "ex": "I don't wear leather, eat eggs, drink milk or anything that comes from an animal.",
+    "exHit": "milk",
+    "exVi": "Tôi không mặc đồ da, không ăn trứng, không uống sữa hay bất cứ thứ gì đến từ động vật."
   },
   {
     "word": "hippie",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "a person whose behavior, dress, etc, implied a rejection of conventional values",
     "vi": "dân hippie",
-    "viDef": "người mà cách sống, cách ăn mặc... hàm ý phủ nhận các giá trị quy ước"
+    "viDef": "người mà cách sống, cách ăn mặc... hàm ý phủ nhận các giá trị quy ước",
+    "ex": "My uncle was a hippie who traveled around in a van.",
+    "exHit": "hippie",
+    "exVi": "Chú tôi từng là một hippie đi khắp nơi bằng xe tải nhỏ."
   }
 ]

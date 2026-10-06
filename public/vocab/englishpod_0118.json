@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "solid waste discharged from body (informal)",
     "vi": "cục ị",
-    "viDef": "chất thải rắn của cơ thể (thân mật)"
+    "viDef": "chất thải rắn của cơ thể (thân mật)",
+    "ex": "The baby made doo-doo in his diaper again.",
+    "exHit": "doo-doo",
+    "exVi": "Em bé lại ị vào tã rồi."
   },
   {
     "word": "up",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "awake",
     "vi": "thức",
-    "viDef": "đã tỉnh giấc"
+    "viDef": "đã tỉnh giấc",
+    "ex": "Is the baby up from her afternoon nap yet?",
+    "exHit": "up",
+    "exVi": "Em bé đã thức dậy sau giấc ngủ trưa chưa?"
   },
   {
     "word": "your turn",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "an opportunity or responsibility to do something",
     "vi": "tới lượt anh/chị",
-    "viDef": "dịp hoặc phần việc của mình"
+    "viDef": "dịp hoặc phần việc của mình",
+    "ex": "It's your turn!",
+    "exHit": "your turn",
+    "exVi": "Đến lượt con rồi!"
   },
   {
     "word": "widdle",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "little (baby talk)",
     "vi": "bé bé",
-    "viDef": "nhỏ (lời nựng trẻ)"
+    "viDef": "nhỏ (lời nựng trẻ)",
+    "ex": "Why are you crying widdle baby?",
+    "exHit": "widdle",
+    "exVi": "Sao con lại khóc thế, em bé bé xíu của ba?"
   },
   {
     "word": "icky",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "gross, disgusting (baby talk)",
     "vi": "ghê ghê",
-    "viDef": "gớm, khó chịu (lời nựng trẻ)"
+    "viDef": "gớm, khó chịu (lời nựng trẻ)",
+    "ex": "Lets get this icky diaper off you.",
+    "exHit": "icky",
+    "exVi": "Để ba cởi cái tã bẩn này ra cho con nào."
   },
   {
     "word": "diaper",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a piece of cloth used as underwear that holds body waste",
     "vi": "tã",
-    "viDef": "miếng lót thay đồ trong để hứng chất thải"
+    "viDef": "miếng lót thay đồ trong để hứng chất thải",
+    "ex": "Lets get this icky diaper off you.",
+    "exHit": "diaper",
+    "exVi": "Để ba cởi cái tã bẩn này ra cho con nào."
   },
   {
     "word": "jammies",
@@ -53,7 +71,10 @@
     "type": "common noun, plural",
     "def": "pajamas (informal)",
     "vi": "bộ đồ ngủ",
-    "viDef": "pyjama (thân mật)"
+    "viDef": "pyjama (thân mật)",
+    "ex": "Mickey Mouse jammies!",
+    "exHit": "jammies",
+    "exVi": "Bộ đồ ngủ hình chuột Mickey!"
   },
   {
     "word": "tinkle",
@@ -61,7 +82,10 @@
     "type": "principle verb, present simple",
     "def": "to urinate (informal)",
     "vi": "tè",
-    "viDef": "đi tiểu (thân mật)"
+    "viDef": "đi tiểu (thân mật)",
+    "ex": "Did the widdle baby just tinkle all over daddy?",
+    "exHit": "tinkle",
+    "exVi": "Có phải bé con vừa tè lên người ba không?"
   },
   {
     "word": "wee wee",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "urine (informal)",
     "vi": "nước tè",
-    "viDef": "nước tiểu (thân mật)"
+    "viDef": "nước tiểu (thân mật)",
+    "ex": "You just made a wee wee all over daddy!",
+    "exHit": "wee wee",
+    "exVi": "Con vừa tè lên người ba rồi nhé!"
   },
   {
     "word": "hold still",
@@ -77,7 +104,10 @@
     "type": "principle verb, imperative",
     "def": "don't move",
     "vi": "nằm yên nào",
-    "viDef": "đừng cử động"
+    "viDef": "đừng cử động",
+    "ex": "Hold still while I change this yucky diaper.",
+    "exHit": "Hold still",
+    "exVi": "Nằm yên nào trong khi ba thay cái tã bẩn này."
   },
   {
     "word": "yucky",
@@ -85,7 +115,10 @@
     "type": "Adjective",
     "def": "gross, disgusting (informal)",
     "vi": "ghê quá",
-    "viDef": "gớm, đáng ghét (thân mật)"
+    "viDef": "gớm, đáng ghét (thân mật)",
+    "ex": "Hold still while I change this yucky diaper.",
+    "exHit": "yucky",
+    "exVi": "Nằm yên nào trong khi ba thay cái tã bẩn này."
   },
   {
     "word": "nana",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "grandma (informal)",
     "vi": "bà",
-    "viDef": "bà nội hoặc bà ngoại (thân mật)"
+    "viDef": "bà nội hoặc bà ngoại (thân mật)",
+    "ex": "Ok, say bye to nana!",
+    "exHit": "nana",
+    "exVi": "Nào, chào tạm biệt bà đi!"
   },
   {
     "word": "I could just eat (something) up",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "to enjoy something greatly (informal)",
     "vi": "thương muốn ăn luôn",
-    "viDef": "thích thứ gì đến mê mẩn (thân mật)"
+    "viDef": "thích thứ gì đến mê mẩn (thân mật)",
+    "ex": "When she smiles, I could just eat her up.",
+    "exHit": "I could just eat her up",
+    "exVi": "Mỗi khi con bé cười, tôi chỉ muốn ăn tươi nuốt sống nó."
   },
   {
     "word": "beddy-bye",
@@ -109,7 +148,10 @@
     "type": "principle verb, infinitive",
     "def": "go to sleep (informal)",
     "vi": "đi ngủ nhé",
-    "viDef": "lên giường ngủ (thân mật)"
+    "viDef": "lên giường ngủ (thân mật)",
+    "ex": "It's time for beddy-bye, sweetie, so brush your teeth.",
+    "exHit": "beddy-bye",
+    "exVi": "Đến giờ đi ngủ rồi con yêu, đi đánh răng đi."
   },
   {
     "word": "oopsie-daisy",
@@ -117,7 +159,10 @@
     "type": "Interjection",
     "def": "oops; (an informal interjection when a mistake is",
     "vi": "ui da",
-    "viDef": "câu thốt ra khi có sơ suất (thân mật)"
+    "viDef": "câu thốt ra khi có sơ suất (thân mật)",
+    "ex": "Oopsie-daisy, you dropped your toy, honey.",
+    "exHit": "Oopsie-daisy",
+    "exVi": "Ối, con làm rơi đồ chơi rồi, cưng ơi."
   },
   {
     "word": "din-din",
@@ -125,7 +170,10 @@
     "type": "common noun, non-variable",
     "def": "dinner (informal; childish)",
     "vi": "bữa cơm chiều",
-    "viDef": "bữa tối (lời nói với trẻ)"
+    "viDef": "bữa tối (lời nói với trẻ)",
+    "ex": "Come on, it's time for din-din, sweetheart.",
+    "exHit": "din-din",
+    "exVi": "Nào, đến giờ ăn tối rồi, con yêu."
   },
   {
     "word": "binkie",
@@ -133,7 +181,10 @@
     "type": "common noun, singular",
     "def": "soother; pacifier; a thing you put in a baby's mouth for it to suck (childish)",
     "vi": "núm vú giả",
-    "viDef": "vật cho em bé ngậm để dỗ (lời nói với trẻ)"
+    "viDef": "vật cho em bé ngậm để dỗ (lời nói với trẻ)",
+    "ex": "Where did the baby's binkie go?",
+    "exHit": "binkie",
+    "exVi": "Núm vú giả của em bé đâu rồi?"
   },
   {
     "word": "booboo",
@@ -141,7 +192,10 @@
     "type": "common noun, singular",
     "def": "a small injury; something that hurts (informal, childish)",
     "vi": "chỗ đau đau",
-    "viDef": "vết thương nhỏ (thân mật, lời nói với trẻ)"
+    "viDef": "vết thương nhỏ (thân mật, lời nói với trẻ)",
+    "ex": "Mommy will kiss your booboo and make it better.",
+    "exHit": "booboo",
+    "exVi": "Mẹ sẽ hôn chỗ đau của con cho đỡ nhé."
   },
   {
     "word": "potty",
@@ -149,7 +203,10 @@
     "type": "common noun, singular",
     "def": "toilet (informal; childish)",
     "vi": "bô",
-    "viDef": "nhà vệ sinh (lời nói với trẻ)"
+    "viDef": "nhà vệ sinh (lời nói với trẻ)",
+    "ex": "Do you need to go to the potty, sweetie?",
+    "exHit": "potty",
+    "exVi": "Con có cần đi bô không, con yêu?"
   },
   {
     "word": "baba",
@@ -157,6 +214,9 @@
     "type": "common noun, singular",
     "def": "bottle (informal; childish)",
     "vi": "bình sữa",
-    "viDef": "bình bú (lời nói với trẻ)"
+    "viDef": "bình bú (lời nói với trẻ)",
+    "ex": "The baby is crying because he wants his baba.",
+    "exHit": "baba",
+    "exVi": "Em bé khóc vì muốn bình sữa của mình."
   }
 ]

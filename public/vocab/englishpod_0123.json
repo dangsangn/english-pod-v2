@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "recognition (informal)",
     "vi": "ngả mũ bái phục",
-    "viDef": "sự ghi nhận, khen ngợi (thân mật)"
+    "viDef": "sự ghi nhận, khen ngợi (thân mật)",
+    "ex": "You are gonna be getting mad props from the gang, man.",
+    "exHit": "mad props",
+    "exVi": "Cậu sẽ được cả nhóm nể phục lắm đấy, anh bạn."
   },
   {
     "word": "tripping",
@@ -13,7 +16,10 @@
     "type": "principle verb, present progressive",
     "def": "being agitated, upset",
     "vi": "quá khích",
-    "viDef": "đang kích động, nổi nóng"
+    "viDef": "đang kích động, nổi nóng",
+    "ex": "That girl started trippin' cuz I went to the movies with Veronica the other day.",
+    "exHit": "trippin'",
+    "exVi": "Cô nàng đó nổi khùng lên chỉ vì hôm nọ tớ đi xem phim với Veronica."
   },
   {
     "word": "bounce",
@@ -21,7 +27,10 @@
     "type": "principle verb, present simple",
     "def": "informal of saying let's go",
     "vi": "đi thôi",
-    "viDef": "cách nói thân mật của \"let's go\""
+    "viDef": "cách nói thân mật của \"let's go\"",
+    "ex": "Come on, let's bounce.",
+    "exHit": "bounce",
+    "exVi": "Thôi nào, mình chuồn thôi."
   },
   {
     "word": "go postal",
@@ -29,7 +38,10 @@
     "type": "principle verb, Going to Future",
     "def": "to act violently or aggressively",
     "vi": "nổi cơn hung",
-    "viDef": "hành xử bạo lực, hung hăng"
+    "viDef": "hành xử bạo lực, hung hăng",
+    "ex": "My dad is gonna go postal when he finds out about this.",
+    "exHit": "go postal",
+    "exVi": "Bố tớ sẽ nổi trận lôi đình khi biết chuyện này."
   },
   {
     "word": "I was like",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "an informal way to introduce a piece of dialogue",
     "vi": "tôi kiểu như",
-    "viDef": "cách dẫn lời thoại kiểu thân mật"
+    "viDef": "cách dẫn lời thoại kiểu thân mật",
+    "ex": "I was like \"look, you knew how I was before you got with me\".",
+    "exHit": "I was like",
+    "exVi": "Tớ nói kiểu như \"Nhìn này, cậu biết tớ thế nào từ trước khi quen tớ rồi mà\"."
   },
   {
     "word": "What's up",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "What's up (informal)",
     "vi": "sao rồi",
-    "viDef": "câu hỏi thăm thân mật"
+    "viDef": "câu hỏi thăm thân mật",
+    "ex": "What's up man, how have you been?",
+    "exHit": "What's up",
+    "exVi": "Này anh bạn, dạo này thế nào?"
   },
   {
     "word": "All that and a bag a chips",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "Slang way of saying; I'm the best and more",
     "vi": "nhất rồi còn hơn thế",
-    "viDef": "tiếng lóng khoe mình hơn cả nhất"
+    "viDef": "tiếng lóng khoe mình hơn cả nhất",
+    "ex": "He thinks he is all that and a bag a chips since he won.",
+    "exHit": "all that and a bag a chips",
+    "exVi": "Anh ta nghĩ mình là nhất kể từ khi thắng giải."
   },
   {
     "word": "Bling-Bling",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "wearing gold or precious stones",
     "vi": "vàng bạc lấp lánh",
-    "viDef": "đeo vàng hoặc đá quý"
+    "viDef": "đeo vàng hoặc đá quý",
+    "ex": "Look at his bling-bling, he must be wearing a lot of gold.",
+    "exHit": "bling-bling",
+    "exVi": "Nhìn đồ vàng bạc lấp lánh của anh ta kìa, chắc anh ta đeo rất nhiều vàng."
   },
   {
     "word": "The Bomb",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "Something is cool, it's great",
     "vi": "số một",
-    "viDef": "thứ gì rất ngầu, tuyệt"
+    "viDef": "thứ gì rất ngầu, tuyệt",
+    "ex": "That new song is the bomb, you have to hear it.",
+    "exHit": "the bomb",
+    "exVi": "Bài hát mới đó đỉnh lắm, bạn phải nghe thử."
   },
   {
     "word": "My Bad",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "Expression used to say my mistake or I'm sorry",
     "vi": "lỗi tôi",
-    "viDef": "câu nói khi nhận sai hoặc xin lỗi"
+    "viDef": "câu nói khi nhận sai hoặc xin lỗi",
+    "ex": "Oh, my bad, I forgot to call you back yesterday.",
+    "exHit": "my bad",
+    "exVi": "Ôi, lỗi của tôi, hôm qua tôi quên gọi lại cho bạn."
   },
   {
     "word": "I'm down with that",
@@ -85,6 +115,9 @@
     "type": "phrase",
     "def": "That sounds good to me, I agree",
     "vi": "tôi ok đó",
-    "viDef": "nghe hay đấy, tôi đồng ý"
+    "viDef": "nghe hay đấy, tôi đồng ý",
+    "ex": "If we all go out for pizza tonight, I'm down with that.",
+    "exHit": "I'm down with that",
+    "exVi": "Nếu tối nay cả nhóm đi ăn pizza thì tôi đồng ý."
   }
 ]

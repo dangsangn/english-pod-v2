@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "relaxed and happy that something difficult has been stopped",
     "vi": "nhẹ cả người",
-    "viDef": "thấy thoải mái vì chuyện khó khăn đã qua"
+    "viDef": "thấy thoải mái vì chuyện khó khăn đã qua",
+    "ex": "I'm so relieved that your ankle wasn't broken!",
+    "exHit": "relieved",
+    "exVi": "Mình rất nhẹ nhõm vì mắt cá chân của bạn không bị gãy!"
   },
   {
     "word": "make it up",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "do something good as a balance to a bad or hurtful action",
     "vi": "bù đắp",
-    "viDef": "làm điều tốt để đền cho lỗi đã gây ra"
+    "viDef": "làm điều tốt để đền cho lỗi đã gây ra",
+    "ex": "I wanna make it up to you.",
+    "exHit": "make it up",
+    "exVi": "Mình muốn đền bù cho bạn."
   },
   {
     "word": "my treat",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "I will pay",
     "vi": "tôi mời",
-    "viDef": "để tôi trả tiền"
+    "viDef": "để tôi trả tiền",
+    "ex": "My treat.",
+    "exHit": "My treat",
+    "exVi": "Để mình mời."
   },
   {
     "word": "pick up",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "go somewhere in order to get someone or something",
     "vi": "đi đón, đi lấy",
-    "viDef": "đến chỗ nào để đón người hoặc lấy đồ"
+    "viDef": "đến chỗ nào để đón người hoặc lấy đồ",
+    "ex": "Pick me up at eight?",
+    "exHit": "Pick me up",
+    "exVi": "Tám giờ qua đón mình nhé?"
   },
   {
     "word": "ordinary",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "normal",
     "vi": "bình thường",
-    "viDef": "thường, không có gì đặc biệt"
+    "viDef": "thường, không có gì đặc biệt",
+    "ex": "I woke up today thinking this would be just like any other ordinary day, but I was wrong.",
+    "exHit": "ordinary",
+    "exVi": "Hôm nay tôi thức dậy và nghĩ đây sẽ chỉ là một ngày bình thường như bao ngày khác, nhưng tôi đã sai."
   },
   {
     "word": "twist of fate",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "unplanned events that has a big impact on the future",
     "vi": "bước ngoặt số phận",
-    "viDef": "chuyện bất ngờ làm thay đổi cả về sau"
+    "viDef": "chuyện bất ngờ làm thay đổi cả về sau",
+    "ex": "A twist of fate brought us together.",
+    "exHit": "twist of fate",
+    "exVi": "Một bước ngoặt của số phận đã đưa chúng ta đến với nhau."
   },
   {
     "word": "crash",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "hit something causing serious damage",
     "vi": "đâm, va chạm",
-    "viDef": "húc vào vật gì gây hư hỏng nặng"
+    "viDef": "húc vào vật gì gây hư hỏng nặng",
+    "ex": "He crashed his car into a tree during the heavy rain.",
+    "exHit": "crashed",
+    "exVi": "Anh ấy lái xe đâm vào một cái cây trong cơn mưa lớn."
   },
   {
     "word": "fall in love",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "start being in love",
     "vi": "phải lòng",
-    "viDef": "bắt đầu yêu"
+    "viDef": "bắt đầu yêu",
+    "ex": "They fell in love after only a few weeks together.",
+    "exHit": "fell in love",
+    "exVi": "Họ đã yêu nhau chỉ sau vài tuần bên nhau."
   },
   {
     "word": "go on a date",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "go to an event or activity with a boyfriend or girlfriend",
     "vi": "đi hẹn hò",
-    "viDef": "đi chơi cùng người yêu"
+    "viDef": "đi chơi cùng người yêu",
+    "ex": "Would you like to go on a date with me this Friday?",
+    "exHit": "go on a date",
+    "exVi": "Bạn có muốn đi hẹn hò với mình vào thứ Sáu này không?"
   },
   {
     "word": "ask you out",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "invite or ask someone to go on a date (informal)",
     "vi": "mời đi hẹn hò",
-    "viDef": "ngỏ lời rủ ai đi chơi (thân mật)"
+    "viDef": "ngỏ lời rủ ai đi chơi (thân mật)",
+    "ex": "I was too shy to ask you out last week.",
+    "exHit": "ask you out",
+    "exVi": "Tuần trước mình ngại quá nên không dám mời bạn đi chơi."
   },
   {
     "word": "take you out",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "invite someone to go and do something",
     "vi": "dẫn đi chơi",
-    "viDef": "mời ai đi đâu làm gì cùng"
+    "viDef": "mời ai đi đâu làm gì cùng",
+    "ex": "Let me take you out to dinner tonight.",
+    "exHit": "take you out",
+    "exVi": "Để anh đưa em đi ăn tối tối nay."
   },
   {
     "word": "turn down",
@@ -93,7 +126,10 @@
     "type": "verb",
     "def": "decline an invitation",
     "vi": "từ chối",
-    "viDef": "không nhận lời mời"
+    "viDef": "không nhận lời mời",
+    "ex": "She had to turn down his invitation because she was busy.",
+    "exHit": "turn down",
+    "exVi": "Cô ấy phải từ chối lời mời của anh ta vì cô ấy bận."
   },
   {
     "word": "look forward to",
@@ -101,7 +137,10 @@
     "type": "verb",
     "def": "an expression to show excitement about something",
     "vi": "mong lắm",
-    "viDef": "cách nói thể hiện sự háo hức"
+    "viDef": "cách nói thể hiện sự háo hức",
+    "ex": "I'm really looking forward to dinner with you on Saturday.",
+    "exHit": "looking forward to",
+    "exVi": "Mình rất mong được ăn tối cùng bạn vào thứ Bảy."
   },
   {
     "word": "see someone",
@@ -109,7 +148,10 @@
     "type": "verb",
     "def": "be in a relationship with someone",
     "vi": "đang qua lại với ai",
-    "viDef": "đang trong quan hệ tình cảm với ai"
+    "viDef": "đang trong quan hệ tình cảm với ai",
+    "ex": "I heard that Mark is seeing someone from his office.",
+    "exHit": "seeing someone",
+    "exVi": "Mình nghe nói Mark đang hẹn hò với một người ở văn phòng anh ấy."
   },
   {
     "word": "flirt",
@@ -117,6 +159,9 @@
     "type": "verb",
     "def": "behave in a way that expresses a sexual attraction for someone",
     "vi": "tán tỉnh",
-    "viDef": "cư xử tỏ ý thích ai đó"
+    "viDef": "cư xử tỏ ý thích ai đó",
+    "ex": "He likes to flirt with every girl he meets at parties.",
+    "exHit": "flirt",
+    "exVi": "Anh ta thích tán tỉnh mọi cô gái mà anh ta gặp ở các bữa tiệc."
   }
 ]

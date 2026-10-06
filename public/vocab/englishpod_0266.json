@@ -5,7 +5,10 @@
     "type": "",
     "def": "scared",
     "vi": "e là",
-    "viDef": "sợ"
+    "viDef": "sợ",
+    "ex": "I'm afraid we're in for a rough weekend, Mark.",
+    "exHit": "afraid",
+    "exVi": "Tôi e là cuối tuần này sẽ khá vất vả đấy, Mark."
   },
   {
     "word": "drizzle",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a light fall of rain",
     "vi": "mưa phùn",
-    "viDef": "cơn mưa nhẹ"
+    "viDef": "cơn mưa nhẹ",
+    "ex": "It will be drizzling all day today, and there's a 60 percent chance of thunderstorms this evening.",
+    "exHit": "drizzling",
+    "exVi": "Hôm nay sẽ mưa phùn cả ngày, và tối nay có 60 phần trăm khả năng có giông."
   },
   {
     "word": "thunderstorm",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "fall of rain accompanied by lightning and thunder",
     "vi": "mưa dông",
-    "viDef": "mưa kèm sấm và sét"
+    "viDef": "mưa kèm sấm và sét",
+    "ex": "There is a severe thunderstorm warning for some parts of the Southeast.",
+    "exHit": "thunderstorm",
+    "exVi": "Có cảnh báo giông bão mạnh ở một số vùng phía Đông Nam."
   },
   {
     "word": "chance",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "probability",
     "vi": "khả năng",
-    "viDef": "xác suất"
+    "viDef": "xác suất",
+    "ex": "It will be drizzling all day today, and there's a 60 percent chance of thunderstorms this evening.",
+    "exHit": "chance",
+    "exVi": "Hôm nay sẽ mưa phùn cả ngày, và tối nay có 60 phần trăm khả năng có giông."
   },
   {
     "word": "hail",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "rain that is frozen into chunks of ice",
     "vi": "mưa đá",
-    "viDef": "mưa đóng thành cục băng"
+    "viDef": "mưa đóng thành cục băng",
+    "ex": "Folks in those areas might see some hail and flooding, especially in areas that have been experiencing record high rainfalls.",
+    "exHit": "hail",
+    "exVi": "Người dân ở những khu vực đó có thể gặp mưa đá và lũ lụt, nhất là ở nơi lượng mưa liên tục đạt mức kỷ lục."
   },
   {
     "word": "tornado",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a violent, rotating column of air",
     "vi": "lốc xoáy",
-    "viDef": "cột khí xoay dữ dội"
+    "viDef": "cột khí xoay dữ dội",
+    "ex": "The tornado tore the roofs off several houses in the village.",
+    "exHit": "tornado",
+    "exVi": "Cơn lốc xoáy cuốn bay mái nhà của nhiều ngôi nhà trong làng."
   },
   {
     "word": "hurricane",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a powerful, spiraling storm that brings heavy winds and rain",
     "vi": "bão lớn",
-    "viDef": "cơn bão xoáy mạnh mang theo gió lớn và mưa"
+    "viDef": "cơn bão xoáy mạnh mang theo gió lớn và mưa",
+    "ex": "Everyone moved to safety before the hurricane hit the coast.",
+    "exHit": "hurricane",
+    "exVi": "Mọi người đã dọn đến nơi an toàn trước khi cơn bão lớn đổ bộ."
   },
   {
     "word": "blizzard",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a severe storm condition characterized by low temperatures, strong winds, and heavy snow.",
     "vi": "bão tuyết",
-    "viDef": "tình trạng bão dữ với nhiệt độ thấp, gió mạnh và tuyết dày"
+    "viDef": "tình trạng bão dữ với nhiệt độ thấp, gió mạnh và tuyết dày",
+    "ex": "The blizzard was so heavy that we could not leave the house.",
+    "exHit": "blizzard",
+    "exVi": "Trận bão tuyết lớn đến nỗi chúng tôi không thể ra khỏi nhà."
   },
   {
     "word": "blackout",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Loss of lighting or communication. Power outage",
     "vi": "mất điện",
-    "viDef": "việc mất đèn hoặc mất liên lạc; sự cố điện"
+    "viDef": "việc mất đèn hoặc mất liên lạc; sự cố điện",
+    "ex": "After the storm, the whole neighborhood had a blackout all night.",
+    "exHit": "blackout",
+    "exVi": "Sau trận bão, cả khu phố bị mất điện suốt đêm."
   },
   {
     "word": "heatwave",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a prolonged period of excessively hot weather, which may be accompanied by high humidity",
     "vi": "đợt nắng nóng",
-    "viDef": "giai đoạn dài nóng quá mức, có thể kèm độ ẩm cao"
+    "viDef": "giai đoạn dài nóng quá mức, có thể kèm độ ẩm cao",
+    "ex": "The heatwave made everyone want to stay inside with the air conditioner on.",
+    "exHit": "heatwave",
+    "exVi": "Đợt nắng nóng kéo dài khiến ai cũng muốn ở trong nhà bật máy lạnh."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "what is the matter",
     "vi": "có chuyện gì thế",
-    "viDef": "chuyện gì đang xảy ra"
+    "viDef": "chuyện gì đang xảy ra",
+    "ex": "Oh, hi Angela, what's up?",
+    "exHit": "what's up",
+    "exVi": "Ồ, chào Angela, có chuyện gì thế?"
   },
   {
     "word": "reschedule",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "schedule something for a different time",
     "vi": "hẹn lại",
-    "viDef": "xếp lại sang giờ khác"
+    "viDef": "xếp lại sang giờ khác",
+    "ex": "I wonder, is it possible to reschedule our appointment in the afternoon?",
+    "exHit": "reschedule",
+    "exVi": "Không biết có thể dời lại cuộc hẹn của chúng ta vào buổi chiều được không?"
   },
   {
     "word": "inconvenience",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "cause problem or trouble",
     "vi": "gây bất tiện",
-    "viDef": "làm ai phải phiền, phải khó"
+    "viDef": "làm ai phải phiền, phải khó",
+    "ex": "I'm really sorry, I hope it doesn't inconvenience you too much, it's just this thing came up, and...",
+    "exHit": "inconvenience",
+    "exVi": "Tôi thật sự xin lỗi, hy vọng việc này không làm phiền bạn quá nhiều, chỉ là có chuyện đột xuất xảy ra, và..."
   },
   {
     "word": "come up",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "occur in an unexpected way",
     "vi": "phát sinh",
-    "viDef": "xảy ra bất ngờ"
+    "viDef": "xảy ra bất ngờ",
+    "ex": "I can't join you because something urgent came up at work.",
+    "exHit": "came up",
+    "exVi": "Mình không đi cùng bạn được vì ở chỗ làm có việc gấp đột xuất."
   },
   {
     "word": "make it",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "come",
     "vi": "đến được",
-    "viDef": "có mặt, tới được"
+    "viDef": "có mặt, tới được",
+    "ex": "Angela, you know what, I can't make it to our meeting, either.",
+    "exHit": "make it",
+    "exVi": "Angela, bạn biết không, mình cũng không thể đến buổi họp của chúng ta."
   },
   {
     "word": "postpone",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "decide to do something at a later time",
     "vi": "hoãn lại",
-    "viDef": "quyết định làm vào lúc khác muộn hơn"
+    "viDef": "quyết định làm vào lúc khác muộn hơn",
+    "ex": "Why don't we postpone it to tomorrow afternoon at the same time?",
+    "exHit": "postpone",
+    "exVi": "Sao chúng ta không hoãn sang chiều mai vào cùng giờ nhỉ?"
   },
   {
     "word": "no wonder",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "not surprisingly",
     "vi": "chẳng lạ gì",
-    "viDef": "thế thì không có gì đáng ngạc nhiên"
+    "viDef": "thế thì không có gì đáng ngạc nhiên",
+    "ex": "No wonder you didn't get my texts!",
+    "exHit": "No wonder",
+    "exVi": "Thảo nào bạn không nhận được tin nhắn của tôi!"
   },
   {
     "word": "scheduling conflict",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "two or more appointments scheduled at the same time",
     "vi": "trùng lịch",
-    "viDef": "hai cuộc hẹn trở lên đặt cùng giờ"
+    "viDef": "hai cuộc hẹn trở lên đặt cùng giờ",
+    "ex": "I have a scheduling conflict, so I can't attend the Monday meeting.",
+    "exHit": "scheduling conflict",
+    "exVi": "Mình bị trùng lịch nên không thể dự cuộc họp thứ Hai."
   },
   {
     "word": "call off",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "cancel",
     "vi": "hủy",
-    "viDef": "bỏ, không làm nữa"
+    "viDef": "bỏ, không làm nữa",
+    "ex": "They decided to call off the meeting because of the storm.",
+    "exHit": "call off",
+    "exVi": "Họ quyết định hủy cuộc họp vì cơn bão."
   },
   {
     "word": "double-book",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "have two appointments or meetings at the same time",
     "vi": "đặt trùng hai hẹn",
-    "viDef": "cùng lúc có hai cuộc hẹn"
+    "viDef": "cùng lúc có hai cuộc hẹn",
+    "ex": "I'm sorry, I didn't mean to double-book you with another client.",
+    "exHit": "double-book",
+    "exVi": "Tôi xin lỗi, tôi không cố ý xếp bạn trùng giờ với một khách hàng khác."
   },
   {
     "word": "push back",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "move a meeting or appointment to a later time",
     "vi": "đẩy lùi lại",
-    "viDef": "chuyển cuộc hẹn sang giờ muộn hơn"
+    "viDef": "chuyển cuộc hẹn sang giờ muộn hơn",
+    "ex": "Can we push back our meeting to Thursday afternoon?",
+    "exHit": "push back",
+    "exVi": "Chúng ta có thể dời cuộc họp sang chiều thứ Năm được không?"
   },
   {
     "word": "rain check",
@@ -93,6 +126,9 @@
     "type": "phrase",
     "def": "a promise or offer to do something in the future that is not possible to do now",
     "vi": "hẹn dịp khác",
-    "viDef": "hứa để lần sau vì bây giờ chưa được"
+    "viDef": "hứa để lần sau vì bây giờ chưa được",
+    "ex": "I can't come tonight, but can I take a rain check?",
+    "exHit": "rain check",
+    "exVi": "Tối nay mình không đến được, mình hẹn lần sau được không?"
   }
 ]

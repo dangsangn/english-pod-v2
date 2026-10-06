@@ -5,7 +5,10 @@
     "type": "",
     "def": "hold, reach",
     "vi": "nắm chắc",
-    "viDef": "giữ, cầm lấy"
+    "viDef": "giữ, cầm lấy",
+    "ex": "Now before you even think of starting the car, make sure your seat is at a comfortable position and you can grip the steering wheel firmly.",
+    "exHit": "grip",
+    "exVi": "Trước khi nghĩ đến chuyện nổ máy, hãy chỉnh ghế cho thoải mái và nắm chắc vô lăng."
   },
   {
     "word": "clutch",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the pedal that you press before you change gear",
     "vi": "bàn đạp ly hợp",
-    "viDef": "chân côn phải nhấn trước khi sang số"
+    "viDef": "chân côn phải nhấn trước khi sang số",
+    "ex": "Now gently step on the clutch and shift to 1st gear.",
+    "exHit": "clutch",
+    "exVi": "Giờ hãy nhẹ nhàng đạp côn rồi gài số 1."
   },
   {
     "word": "sidewalk",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the part of the road where people walk",
     "vi": "lề đường",
-    "viDef": "phần đường dành cho người đi bộ"
+    "viDef": "phần đường dành cho người đi bộ",
+    "ex": "Get off the sidewalk!",
+    "exHit": "sidewalk",
+    "exVi": "Xuống khỏi vỉa hè ngay!"
   },
   {
     "word": "steering wheel",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the wheel which the driver holds in a car",
     "vi": "vô lăng",
-    "viDef": "vòng lái người cầm khi điều khiển xe"
+    "viDef": "vòng lái người cầm khi điều khiển xe",
+    "ex": "Now before you even think of starting the car, make sure your seat is at a comfortable position and you can grip the steering wheel firmly.",
+    "exHit": "steering wheel",
+    "exVi": "Trước khi nghĩ đến chuyện nổ máy, hãy chỉnh ghế cho thoải mái và nắm chắc vô lăng."
   },
   {
     "word": "pull over",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to move a car to the side of the road and stop",
     "vi": "tạt vào lề",
-    "viDef": "đưa xe sang mé đường rồi dừng"
+    "viDef": "đưa xe sang mé đường rồi dừng",
+    "ex": "Pull over!",
+    "exHit": "Pull over",
+    "exVi": "Tấp vào lề!"
   },
   {
     "word": "seatbelt",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a belt in a car fastened around the midsection to keep the person safely secured against the seat",
     "vi": "dây an toàn",
-    "viDef": "dây trong xe thắt qua bụng để giữ người ngồi chắc vào ghế"
+    "viDef": "dây trong xe thắt qua bụng để giữ người ngồi chắc vào ghế",
+    "ex": "Please fasten your seatbelt before I start the car.",
+    "exHit": "seatbelt",
+    "exVi": "Hãy thắt dây an toàn trước khi tôi nổ máy."
   },
   {
     "word": "speed limit",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the maximum speed allowed on the road",
     "vi": "giới hạn tốc độ",
-    "viDef": "mức nhanh nhất được phép trên đường"
+    "viDef": "mức nhanh nhất được phép trên đường",
+    "ex": "The speed limit on this road is only fifty kilometers an hour.",
+    "exHit": "speed limit",
+    "exVi": "Giới hạn tốc độ trên con đường này chỉ có năm mươi cây số một giờ."
   },
   {
     "word": "intersection",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a place where two or more major roads meet",
     "vi": "giao lộ",
-    "viDef": "nơi hai hay nhiều đường lớn gặp nhau"
+    "viDef": "nơi hai hay nhiều đường lớn gặp nhau",
+    "ex": "Slow down, there's a busy intersection just ahead.",
+    "exHit": "intersection",
+    "exVi": "Đi chậm lại, phía trước có một giao lộ rất đông."
   },
   {
     "word": "traffic light",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a set of electrically operated signal lights used to direct or control traffic at intersections",
     "vi": "đèn giao thông",
-    "viDef": "bộ đèn hiệu điện dùng điều tiết xe cộ ở giao lộ"
+    "viDef": "bộ đèn hiệu điện dùng điều tiết xe cộ ở giao lộ",
+    "ex": "You have to stop when the traffic light turns red.",
+    "exHit": "traffic light",
+    "exVi": "Bạn phải dừng lại khi đèn giao thông chuyển sang đỏ."
   },
   {
     "word": "yield sign",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a road sign in the shape of an upside-down triangle, meaning to slow down and prepare to stop if necessary",
     "vi": "biển nhường đường",
-    "viDef": "biển hình tam giác ngược, ý là giảm tốc và sẵn sàng dừng nếu cần"
+    "viDef": "biển hình tam giác ngược, ý là giảm tốc và sẵn sàng dừng nếu cần",
+    "ex": "When you see a yield sign, slow down and let other cars go first.",
+    "exHit": "yield sign",
+    "exVi": "Khi thấy biển nhường đường, hãy giảm tốc và để xe khác đi trước."
   }
 ]

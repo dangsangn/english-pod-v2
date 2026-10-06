@@ -5,7 +5,10 @@
     "type": "",
     "def": "a huge balloon risen up by hot air",
     "vi": "khinh khí cầu",
-    "viDef": "quả bóng lớn bay lên nhờ khí nóng"
+    "viDef": "quả bóng lớn bay lên nhờ khí nóng",
+    "ex": "This is our most popular choice, our river guides will take you on a whitewater rafting trip followed by a ride in a hot air balloon!",
+    "exHit": "hot air balloon",
+    "exVi": "Đây là lựa chọn phổ biến nhất của chúng tôi, hướng dẫn viên sẽ đưa bạn đi bè vượt thác, sau đó là chuyến bay bằng khinh khí cầu!"
   },
   {
     "word": "in the field",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "in an area of work, study",
     "vi": "trong ngành",
-    "viDef": "trong một lĩnh vực làm việc hoặc học tập"
+    "viDef": "trong một lĩnh vực làm việc hoặc học tập",
+    "ex": "She has worked in the field of medicine for over ten years.",
+    "exHit": "in the field",
+    "exVi": "Cô ấy đã làm việc trong lĩnh vực y học hơn mười năm."
   },
   {
     "word": "jagged",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "having a sharp surface",
     "vi": "lởm chởm",
-    "viDef": "có bề mặt gồ nhọn"
+    "viDef": "có bề mặt gồ nhọn",
+    "ex": "I don't really think I'm ready to throw myself down a river full of jagged rocks in a rubber boat or go up in the air in a wicker basket held up by an oversize balloon.",
+    "exHit": "jagged",
+    "exVi": "Tôi thật sự không nghĩ mình sẵn sàng lao xuống một dòng sông đầy đá lởm chởm trên chiếc thuyền cao su hay bay lên trời trong cái giỏ liễu gai dưới một quả khinh khí cầu quá khổ."
   },
   {
     "word": "oversize",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "larger than what is listed",
     "vi": "quá khổ",
-    "viDef": "lớn hơn mức đã ghi"
+    "viDef": "lớn hơn mức đã ghi",
+    "ex": "I don't really think I'm ready to throw myself down a river full of jagged rocks in a rubber boat or go up in the air in a wicker basket held up by an oversize balloon.",
+    "exHit": "oversize",
+    "exVi": "Tôi thật sự không nghĩ mình sẵn sàng lao xuống một dòng sông đầy đá lởm chởm trên chiếc thuyền cao su hay bay lên trời trong cái giỏ liễu gai dưới một quả khinh khí cầu quá khổ."
   },
   {
     "word": "in that case",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "if something said earlier is true",
     "vi": "nếu vậy thì",
-    "viDef": "nếu điều nói trước đó là đúng"
+    "viDef": "nếu điều nói trước đó là đúng",
+    "ex": "In that case, eight o'clock is fine.",
+    "exHit": "In that case",
+    "exVi": "Vậy thì tám giờ cũng được."
   },
   {
     "word": "hang gliding",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "gliding in a hang glider",
     "vi": "bay diều treo",
-    "viDef": "việc lượn bằng cánh diều treo người"
+    "viDef": "việc lượn bằng cánh diều treo người",
+    "ex": "Well, in that case, we can take you hang gliding with one of our experienced instructors.",
+    "exHit": "hang gliding",
+    "exVi": "Vậy thì, chúng tôi có thể đưa bạn đi lướt dù lượn với một trong những huấn luyện viên giàu kinh nghiệm của chúng tôi."
   },
   {
     "word": "the closest thing you can get to",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the easiest way,the most likely thing",
     "vi": "gần nhất với",
-    "viDef": "cách dễ nhất, thứ sát nhất với điều đó"
+    "viDef": "cách dễ nhất, thứ sát nhất với điều đó",
+    "ex": "Skydiving is the closest thing you can get to flying like a bird.",
+    "exHit": "the closest thing you can get to",
+    "exVi": "Nhảy dù là thứ gần nhất bạn có thể làm để được bay như một chú chim."
   },
   {
     "word": "mountain biking",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "ride a bicycle designed for riding in mountainous",
     "vi": "đạp xe địa hình",
-    "viDef": "đạp loại xe thiết kế để đi vùng đồi núi"
+    "viDef": "đạp loại xe thiết kế để đi vùng đồi núi",
+    "ex": "We have everything from mountain biking, to rock climbing to street luge.",
+    "exHit": "mountain biking",
+    "exVi": "Chúng tôi có đủ thứ, từ đạp xe leo núi, leo vách đá đến trượt luge đường phố."
   },
   {
     "word": "rock climbing",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the sport of scaling rock masses on mountain sides",
     "vi": "leo núi đá",
-    "viDef": "môn trèo lên các khối đá trên vách núi"
+    "viDef": "môn trèo lên các khối đá trên vách núi",
+    "ex": "We have everything from mountain biking, to rock climbing to street luge.",
+    "exHit": "rock climbing",
+    "exVi": "Chúng tôi có đủ thứ, từ đạp xe leo núi, leo vách đá đến trượt luge đường phố."
   },
   {
     "word": "street luge",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "the sport of descending a steep road",
     "vi": "trượt ván nằm đường nhựa",
-    "viDef": "môn lao xuống một con đường dốc"
+    "viDef": "môn lao xuống một con đường dốc",
+    "ex": "We have everything from mountain biking, to rock climbing to street luge.",
+    "exHit": "street luge",
+    "exVi": "Chúng tôi có đủ thứ, từ đạp xe leo núi, leo vách đá đến trượt luge đường phố."
   },
   {
     "word": "whitewater rafting",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "The sport of rafting down fast-flowing rivers",
     "vi": "vượt thác bằng bè",
-    "viDef": "môn đi bè xuống dòng sông chảy mạnh"
+    "viDef": "môn đi bè xuống dòng sông chảy mạnh",
+    "ex": "This is our most popular choice, our river guides will take you on a whitewater rafting trip followed by a ride in a hot air balloon!",
+    "exHit": "whitewater rafting",
+    "exVi": "Đây là lựa chọn phổ biến nhất của chúng tôi, hướng dẫn viên sẽ đưa bạn đi bè vượt thác, sau đó là chuyến bay bằng khinh khí cầu!"
   },
   {
     "word": "sky diving",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "to jump out an airplane and parachute to the ground",
     "vi": "nhảy dù",
-    "viDef": "nhảy ra khỏi máy bay rồi bung dù xuống đất"
+    "viDef": "nhảy ra khỏi máy bay rồi bung dù xuống đất",
+    "ex": "I'm too scared to try sky diving, even with a good instructor.",
+    "exHit": "sky diving",
+    "exVi": "Tôi sợ quá nên không dám thử nhảy dù, dù có huấn luyện viên giỏi."
   },
   {
     "word": "surfing",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "to ride a wave on a long wooden board",
     "vi": "lướt sóng",
-    "viDef": "cưỡi trên ngọn sóng bằng một tấm ván dài"
+    "viDef": "cưỡi trên ngọn sóng bằng một tấm ván dài",
+    "ex": "We went surfing at sunrise and caught some really big waves.",
+    "exHit": "surfing",
+    "exVi": "Chúng tôi đi lướt sóng lúc bình minh và đón được vài con sóng thật lớn."
   },
   {
     "word": "life insurance",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "insurance to protect your family from your untimely death",
     "vi": "bảo hiểm nhân thọ",
-    "viDef": "bảo hiểm để lo cho gia đình nếu mình mất sớm"
+    "viDef": "bảo hiểm để lo cho gia đình nếu mình mất sớm",
+    "ex": "Before he went sky diving, he bought life insurance for his family.",
+    "exHit": "life insurance",
+    "exVi": "Trước khi đi nhảy dù, anh ấy mua bảo hiểm nhân thọ cho gia đình."
   },
   {
     "word": "base jumping",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "jumping off a cliff and parachuting to the ground",
     "vi": "nhảy dù từ vách",
-    "viDef": "nhảy khỏi mỏm đá rồi bung dù xuống đất"
+    "viDef": "nhảy khỏi mỏm đá rồi bung dù xuống đất",
+    "ex": "Base jumping off a tall cliff looks scary, but he loves it.",
+    "exHit": "Base jumping",
+    "exVi": "Nhảy dù từ vách đá cao trông đáng sợ nhưng anh ấy rất thích."
   },
   {
     "word": "bungie jumping",
@@ -125,6 +170,9 @@
     "type": "",
     "def": "to jump off a ledge while attached to a rope",
     "vi": "nhảy bungee",
-    "viDef": "nhảy từ bờ cao khi có dây buộc vào người"
+    "viDef": "nhảy từ bờ cao khi có dây buộc vào người",
+    "ex": "She tried bungie jumping from a bridge and screamed the whole way down.",
+    "exHit": "bungie jumping",
+    "exVi": "Cô ấy thử nhảy bungee từ trên cầu và hét suốt đường rơi xuống."
   }
 ]

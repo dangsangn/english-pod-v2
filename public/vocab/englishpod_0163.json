@@ -5,7 +5,10 @@
     "type": "",
     "def": "spend money on something in order to get back more",
     "vi": "đầu tư",
-    "viDef": "bỏ tiền vào để mong thu về nhiều hơn"
+    "viDef": "bỏ tiền vào để mong thu về nhiều hơn",
+    "ex": "Some people invest their savings in property instead of keeping it in the bank.",
+    "exHit": "invest",
+    "exVi": "Một số người đầu tư tiền tiết kiệm vào bất động sản thay vì gửi ngân hàng."
   },
   {
     "word": "Social Security",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a US government program to protect certain groups",
     "vi": "An sinh Xã hội",
-    "viDef": "chương trình của chính phủ Mỹ bảo vệ một số nhóm dân"
+    "viDef": "chương trình của chính phủ Mỹ bảo vệ một số nhóm dân",
+    "ex": "My grandfather gets a monthly check from Social Security.",
+    "exHit": "Social Security",
+    "exVi": "Ông tôi nhận một khoản tiền hằng tháng từ chương trình An sinh Xã hội."
   },
   {
     "word": "pension",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "money paid at regular intervals from the government or a previous employer to a person following retirement or to their surviving dependents",
     "vi": "lương hưu",
-    "viDef": "tiền nhà nước hoặc chủ cũ trả định kỳ cho người đã nghỉ việc hoặc người thân còn sống của họ"
+    "viDef": "tiền nhà nước hoặc chủ cũ trả định kỳ cho người đã nghỉ việc hoặc người thân còn sống của họ",
+    "ex": "My father gets a pension every month since he retired.",
+    "exHit": "pension",
+    "exVi": "Bố tôi nhận lương hưu mỗi tháng kể từ khi nghỉ việc."
   },
   {
     "word": "disability income insurance",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "financial assistance to people who acquire a disability so that they can maintain a certain income level",
     "vi": "bảo hiểm thu nhập khi mất sức",
-    "viDef": "khoản hỗ trợ tiền cho người bị khuyết tật để giữ được mức thu nhập nhất định"
+    "viDef": "khoản hỗ trợ tiền cho người bị khuyết tật để giữ được mức thu nhập nhất định",
+    "ex": "He got disability income insurance in case he couldn't work after an accident.",
+    "exHit": "disability income insurance",
+    "exVi": "Anh ấy mua bảo hiểm thu nhập khi khuyết tật phòng khi không thể đi làm sau tai nạn."
   },
   {
     "word": "survivor benefits",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "financial assistance for the families of workers who die",
     "vi": "trợ cấp tuất",
-    "viDef": "khoản hỗ trợ tiền cho gia đình người lao động đã mất"
+    "viDef": "khoản hỗ trợ tiền cho gia đình người lao động đã mất",
+    "ex": "Her family received survivor benefits after her father passed away.",
+    "exHit": "survivor benefits",
+    "exVi": "Gia đình cô ấy nhận được trợ cấp cho người thân sau khi bố cô qua đời."
   },
   {
     "word": "unemployment benefits/ compensation",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "payments made to an unemployed worker by the goverment or employer during all or part of the period of unemployment",
     "vi": "trợ cấp thất nghiệp",
-    "viDef": "tiền nhà nước hoặc chủ trả cho người mất việc trong suốt hoặc một phần thời gian không có việc"
+    "viDef": "tiền nhà nước hoặc chủ trả cho người mất việc trong suốt hoặc một phần thời gian không có việc",
+    "ex": "After losing his job, he lived on unemployment benefits for three months.",
+    "exHit": "unemployment benefits",
+    "exVi": "Sau khi mất việc, anh ấy sống nhờ trợ cấp thất nghiệp trong ba tháng."
   },
   {
     "word": "defined benefit plan",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a pension plan that pays a defined pension/benefit, but the amount invested may vary",
     "vi": "gói hưu mức chi cố định",
-    "viDef": "chương trình hưu trả mức xác định, còn số tiền đầu tư có thể thay đổi"
+    "viDef": "chương trình hưu trả mức xác định, còn số tiền đầu tư có thể thay đổi",
+    "ex": "With a defined benefit plan, you know exactly how much you'll get.",
+    "exHit": "defined benefit plan",
+    "exVi": "Với chế độ lương hưu phúc lợi xác định, bạn biết chính xác mình sẽ nhận được bao nhiêu."
   },
   {
     "word": "defined contribution plan",
@@ -61,6 +82,9 @@
     "type": "",
     "def": "a pension plan that has a defined amount to invest, but whose pension/benefit depends on the success of those investments",
     "vi": "gói hưu mức góp cố định",
-    "viDef": "chương trình hưu góp một khoản xác định, mức nhận lại tùy kết quả đầu tư"
+    "viDef": "chương trình hưu góp một khoản xác định, mức nhận lại tùy kết quả đầu tư",
+    "ex": "My company offers a defined contribution plan, so my pension depends on my investments.",
+    "exHit": "defined contribution plan",
+    "exVi": "Công ty tôi có chế độ đóng góp xác định, nên lương hưu của tôi phụ thuộc vào các khoản đầu tư."
   }
 ]

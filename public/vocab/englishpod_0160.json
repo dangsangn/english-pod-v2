@@ -5,7 +5,10 @@
     "type": "",
     "def": "meet or encounter",
     "vi": "gặp phải",
-    "viDef": "tình cờ gặp hoặc vướng phải"
+    "viDef": "tình cờ gặp hoặc vướng phải",
+    "ex": "I ran into some problems while I was finishing the photos.",
+    "exHit": "ran into",
+    "exVi": "Tôi gặp một vài vấn đề khi đang hoàn thành mấy tấm ảnh."
   },
   {
     "word": "a bit of",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "kind of",
     "vi": "một chút",
-    "viDef": "hơi hơi"
+    "viDef": "hơi hơi",
+    "ex": "I'm in a bit of a hurry this morning.",
+    "exHit": "a bit of",
+    "exVi": "Sáng nay tôi hơi vội một chút."
   },
   {
     "word": "jam",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a problem or difficult situation",
     "vi": "thế khó",
-    "viDef": "rắc rối, tình huống nan giải"
+    "viDef": "rắc rối, tình huống nan giải",
+    "ex": "He's in a jam because he missed the deadline.",
+    "exHit": "jam",
+    "exVi": "Anh ấy gặp rắc rối vì lỡ hạn chót."
   },
   {
     "word": "look into",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "investigate",
     "vi": "tìm hiểu",
-    "viDef": "xem xét, điều tra"
+    "viDef": "xem xét, điều tra",
+    "ex": "This really got me thinking, and I wondered if we shouldn't look into a couple of different HMO's.",
+    "exHit": "look into",
+    "exVi": "Chuyện này khiến tôi suy nghĩ, và tôi tự hỏi liệu chúng ta có nên xem xét vài chương trình bảo hiểm HMO khác nhau không."
   },
   {
     "word": "health maintenance organization",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "Health Maintenance Organization",
     "vi": "tổ chức bảo hiểm y tế HMO",
-    "viDef": "Health Maintenance Organization"
+    "viDef": "Health Maintenance Organization",
+    "ex": "Many companies in the US offer a health maintenance organization plan to their workers.",
+    "exHit": "health maintenance organization",
+    "exVi": "Nhiều công ty ở Mỹ cung cấp cho nhân viên chương trình bảo hiểm của tổ chức duy trì sức khỏe."
   },
   {
     "word": "deductible",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a clause in an insurance policy that relieves the",
     "vi": "mức tự chi trả",
-    "viDef": "điều khoản buộc người mua bảo hiểm tự trả phần đầu"
+    "viDef": "điều khoản buộc người mua bảo hiểm tự trả phần đầu",
+    "ex": "The deductibles are low, too.",
+    "exHit": "deductibles",
+    "exVi": "Mức khấu trừ cũng thấp nữa."
   },
   {
     "word": "coverage",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the extent of the protection provided by insurance",
     "vi": "phạm vi chi trả",
-    "viDef": "mức che chắn mà bảo hiểm đảm nhận"
+    "viDef": "mức che chắn mà bảo hiểm đảm nhận",
+    "ex": "I searched on the web and found a couple of HMO's with low co pays and good coverage.",
+    "exHit": "coverage",
+    "exVi": "Tôi tìm trên mạng và thấy vài chương trình HMO có phí đồng chi trả thấp và phạm vi bảo hiểm tốt."
   },
   {
     "word": "when it comes to",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "in terms of, about",
     "vi": "nói về chuyện",
-    "viDef": "xét đến việc, liên quan tới"
+    "viDef": "xét đến việc, liên quan tới",
+    "ex": "Those insurance companies are real pirates when it comes to money.",
+    "exHit": "when it comes to",
+    "exVi": "Mấy công ty bảo hiểm đó đúng là cướp biển khi nói đến tiền bạc."
   },
   {
     "word": "co-pay",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a payment made everytime a medical service is need",
     "vi": "khoản cùng chi trả",
-    "viDef": "tiền phải trả mỗi lần dùng dịch vụ y tế"
+    "viDef": "tiền phải trả mỗi lần dùng dịch vụ y tế",
+    "ex": "I searched on the web and found a couple of HMO's with low co pays and good coverage.",
+    "exHit": "co pays",
+    "exVi": "Tôi tìm trên mạng và thấy vài chương trình HMO có phí đồng chi trả thấp và phạm vi bảo hiểm tốt."
   },
   {
     "word": "prescription",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "the medicine or remedy ordered by a physician for a patient",
     "vi": "thuốc theo đơn",
-    "viDef": "thuốc hoặc cách trị mà bác sĩ chỉ định cho bệnh nhân"
+    "viDef": "thuốc hoặc cách trị mà bác sĩ chỉ định cho bệnh nhân",
+    "ex": "The doctor gave me a prescription for antibiotics and told me to take them twice a day.",
+    "exHit": "prescription",
+    "exVi": "Bác sĩ kê cho tôi đơn thuốc kháng sinh và dặn uống hai lần mỗi ngày."
   },
   {
     "word": "exclusion",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "certain services that an insurance company will not cover in the plan",
     "vi": "mục loại trừ",
-    "viDef": "những dịch vụ mà công ty bảo hiểm không chi trả"
+    "viDef": "những dịch vụ mà công ty bảo hiểm không chi trả",
+    "ex": "The insurance company told me that dental work is an exclusion in my plan.",
+    "exHit": "exclusion",
+    "exVi": "Công ty bảo hiểm nói rằng việc chữa răng nằm trong khoản loại trừ của gói bảo hiểm của tôi."
   },
   {
     "word": "healthcare",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "the prevention and treatment of illness and the preservation of well-being through the services offered by the health professions",
     "vi": "chăm sóc sức khỏe",
-    "viDef": "việc phòng và trị bệnh, giữ sức khỏe nhờ các dịch vụ của ngành y"
+    "viDef": "việc phòng và trị bệnh, giữ sức khỏe nhờ các dịch vụ của ngành y",
+    "ex": "I wish our company or country provided us with healthcare.",
+    "exHit": "healthcare",
+    "exVi": "Tôi ước công ty hoặc đất nước chúng tôi cung cấp dịch vụ chăm sóc sức khỏe cho mọi người."
   },
   {
     "word": "premium",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "the amount paid for an insurance policy, often in installments",
     "vi": "phí bảo hiểm",
-    "viDef": "khoản đóng cho hợp đồng bảo hiểm, thường trả từng kỳ"
+    "viDef": "khoản đóng cho hợp đồng bảo hiểm, thường trả từng kỳ",
+    "ex": "I pay a monthly premium of about two hundred dollars for my health insurance.",
+    "exHit": "premium",
+    "exVi": "Tôi trả phí bảo hiểm sức khỏe hằng tháng khoảng hai trăm đô la."
   },
   {
     "word": "coinsurance",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "After the deductible is exceeded, it is when the insured must also pay a percentage of the total cost of services while the insurance company pays the rest. It can be used instead of or in addition to copays.",
     "vi": "phần đồng chi trả",
-    "viDef": "sau khi vượt mức tự trả, người được bảo hiểm còn góp một tỉ lệ trong tổng chi phí, phần còn lại do công ty trả"
+    "viDef": "sau khi vượt mức tự trả, người được bảo hiểm còn góp một tỉ lệ trong tổng chi phí, phần còn lại do công ty trả",
+    "ex": "With coinsurance, I pay twenty percent of the hospital bill and the insurance pays the rest.",
+    "exHit": "coinsurance",
+    "exVi": "Với bảo hiểm đồng chi trả, tôi trả hai mươi phần trăm hóa đơn bệnh viện và bảo hiểm trả phần còn lại."
   }
 ]

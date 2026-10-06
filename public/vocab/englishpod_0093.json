@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "meet for a game or battle",
     "vi": "đối đầu",
-    "viDef": "gặp nhau trong trận đấu hoặc cuộc chiến"
+    "viDef": "gặp nhau trong trận đấu hoặc cuộc chiến",
+    "ex": "We've got a very exciting encounter ahead of us today as two powerhouse teams, Brazil and China, face off against each other and try to qualify for the next round.",
+    "exHit": "encounter",
+    "exVi": "Hôm nay chúng ta có một trận đối đầu rất hấp dẫn khi hai đội mạnh Brazil và Trung Quốc chạm trán nhau để giành quyền vào vòng tiếp theo."
   },
   {
     "word": "ahead of (someone)",
@@ -13,7 +16,10 @@
     "type": "Preposition",
     "def": "in the future",
     "vi": "đang chờ phía trước",
-    "viDef": "ở thời gian tới"
+    "viDef": "ở thời gian tới",
+    "ex": "We've got a very exciting encounter ahead of us today as two powerhouse teams, Brazil and China, face off against each other and try to qualify for the next round.",
+    "exHit": "ahead of",
+    "exVi": "Hôm nay chúng ta có một trận đối đầu rất hấp dẫn khi hai đội mạnh Brazil và Trung Quốc chạm trán nhau để giành quyền vào vòng tiếp theo."
   },
   {
     "word": "powerhouse",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "a highly energetic, strong team",
     "vi": "đội mạnh",
-    "viDef": "tập thể sung sức, hùng hậu"
+    "viDef": "tập thể sung sức, hùng hậu",
+    "ex": "We've got a very exciting encounter ahead of us today as two powerhouse teams, Brazil and China, face off against each other and try to qualify for the next round.",
+    "exHit": "powerhouse",
+    "exVi": "Hôm nay chúng ta có một trận đối đầu rất hấp dẫn khi hai đội mạnh Brazil và Trung Quốc chạm trán nhau để giành quyền vào vòng tiếp theo."
   },
   {
     "word": "qualify",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "to reach the later stages of a selection process or contest by competing successfully in earlier rounds",
     "vi": "giành suất vào vòng sau",
-    "viDef": "thắng ở vòng trước để vào vòng kế tiếp"
+    "viDef": "thắng ở vòng trước để vào vòng kế tiếp",
+    "ex": "We've got a very exciting encounter ahead of us today as two powerhouse teams, Brazil and China, face off against each other and try to qualify for the next round.",
+    "exHit": "qualify",
+    "exVi": "Hôm nay chúng ta có một trận đối đầu rất hấp dẫn khi hai đội mạnh Brazil và Trung Quốc chạm trán nhau để giành quyền vào vòng tiếp theo."
   },
   {
     "word": "in top shape",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "in their best condition",
     "vi": "sung sức nhất",
-    "viDef": "đang ở phong độ tốt nhất"
+    "viDef": "đang ở phong độ tốt nhất",
+    "ex": "Without a doubt, both teams are in top shape and this will prove to be a competitive match.",
+    "exHit": "in top shape",
+    "exVi": "Chắc chắn cả hai đội đều đang ở phong độ tốt nhất và đây sẽ là một trận đấu cạnh tranh."
   },
   {
     "word": "serve",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "hits the ball to start a set of the game",
     "vi": "phát bóng",
-    "viDef": "đánh bóng để bắt đầu một ván"
+    "viDef": "đánh bóng để bắt đầu một ván",
+    "ex": "What a superb jump serve by Li, oh, and we have a let serve.",
+    "exHit": "serve",
+    "exVi": "Thật là một cú giao bóng nhảy tuyệt vời của Li, ồ, và chúng ta có một cú giao bóng chạm lưới."
   },
   {
     "word": "bump",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "to pass (a volleyball) by redirecting it with the forearms",
     "vi": "đỡ bóng bằng tay",
-    "viDef": "chuyền bóng chuyền bằng cẳng tay"
+    "viDef": "chuyền bóng chuyền bằng cẳng tay",
+    "ex": "Chen bumps it to the setter, and...",
+    "exHit": "bumps",
+    "exVi": "Chen chuyền bóng cho người chuyền hai, và..."
   },
   {
     "word": "set",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "the action of putting ball in the air so as to be driven to opponents' court",
     "vi": "nâng bóng",
-    "viDef": "đẩy bóng lên cao để đồng đội đập sang sân đối phương"
+    "viDef": "đẩy bóng lên cao để đồng đội đập sang sân đối phương",
+    "ex": "a very nice set by Chen!",
+    "exHit": "set",
+    "exVi": "Một cú chuyền hai rất đẹp của Chen!"
   },
   {
     "word": "spike",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "strongly hit the ball to opponents' court using the palm of the hand",
     "vi": "đập bóng",
-    "viDef": "dùng lòng bàn tay đánh mạnh bóng sang sân đối phương"
+    "viDef": "dùng lòng bàn tay đánh mạnh bóng sang sân đối phương",
+    "ex": "Xu spikes it!",
+    "exHit": "spikes",
+    "exVi": "Xu đập bóng!"
   },
   {
     "word": "anticipate",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "to foresee and act in advance of",
     "vi": "đoán trước",
-    "viDef": "thấy trước và ra tay sớm"
+    "viDef": "thấy trước và ra tay sớm",
+    "ex": "The Brazilian blockers anticipated the play and tried to block him but he managed to get the ball in!",
+    "exHit": "anticipated",
+    "exVi": "Các hậu vệ chắn bóng của Brazil đã đoán trước đường bóng và cố chắn anh ta nhưng anh ta vẫn đưa được bóng qua!"
   },
   {
     "word": "jump serve",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a serve with the ball firstly thrown overhead and then the player jumping to hit it",
     "vi": "phát bóng bật nhảy",
-    "viDef": "tung bóng lên cao rồi bật người đánh"
+    "viDef": "tung bóng lên cao rồi bật người đánh",
+    "ex": "What a superb jump serve by Li, oh, and we have a let serve.",
+    "exHit": "jump serve",
+    "exVi": "Thật là một cú giao bóng nhảy tuyệt vời của Li, ồ, và chúng ta có một cú giao bóng chạm lưới."
   },
   {
     "word": "let serve",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "the ball touches the net in a serve but still crosses into the opponents' court",
     "vi": "bóng phát chạm lưới vẫn qua",
-    "viDef": "quả phát vướng lưới nhưng vẫn sang được sân đối phương"
+    "viDef": "quả phát vướng lưới nhưng vẫn sang được sân đối phương",
+    "ex": "What a superb jump serve by Li, oh, and we have a let serve.",
+    "exHit": "let serve",
+    "exVi": "Thật là một cú giao bóng nhảy tuyệt vời của Li, ồ, và chúng ta có một cú giao bóng chạm lưới."
   },
   {
     "word": "time out",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a pause during a game",
     "vi": "hội ý",
-    "viDef": "khoảng dừng giữa trận"
+    "viDef": "khoảng dừng giữa trận",
+    "ex": "Brazil calls for a time out and we'll be right back, after a short commercial break.",
+    "exHit": "time out",
+    "exVi": "Brazil xin hội ý và chúng ta sẽ quay lại ngay sau một đoạn quảng cáo ngắn."
   },
   {
     "word": "side out",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "when the team that served the ball loses the rally, causing the other team to serve the next point.",
     "vi": "đổi quyền phát bóng",
-    "viDef": "khi bên phát bóng thua đợt cầu, bên kia được phát"
+    "viDef": "khi bên phát bóng thua đợt cầu, bên kia được phát",
+    "ex": "It was a side out, so the other team served next.",
+    "exHit": "side out",
+    "exVi": "Đó là đổi giao bóng, nên đội kia giao bóng tiếp theo."
   },
   {
     "word": "whiff",
@@ -117,7 +159,10 @@
     "type": "phrase",
     "def": "a mishit — when a player attempts to hit (or spike) the ball with the open hand and nearly misses the ball",
     "vi": "cú đánh trượt",
-    "viDef": "khi cầu thủ vung tay đập mà gần như không trúng bóng"
+    "viDef": "khi cầu thủ vung tay đập mà gần như không trúng bóng",
+    "ex": "He tried to spike the ball but it was a whiff.",
+    "exHit": "whiff",
+    "exVi": "Anh ấy cố đập bóng nhưng lại đập hụt."
   },
   {
     "word": "dig",
@@ -125,7 +170,10 @@
     "type": "phrase",
     "def": "the ability to prevent the ball from touching one's court after a spike or attack, particularly a ball that is nearly touching the ground",
     "vi": "cứu bóng sát sàn",
-    "viDef": "khả năng đỡ không cho bóng chạm sân sau cú đập, nhất là bóng gần mặt đất"
+    "viDef": "khả năng đỡ không cho bóng chạm sân sau cú đập, nhất là bóng gần mặt đất",
+    "ex": "That was an amazing dig to save the point!",
+    "exHit": "dig",
+    "exVi": "Đó là một pha cứu bóng tuyệt vời để giữ điểm!"
   },
   {
     "word": "coin toss",
@@ -133,7 +181,10 @@
     "type": "common noun, singular",
     "def": "is the practice of throwing a coin in the air to resolve a dispute between two parties",
     "vi": "tung đồng xu",
-    "viDef": "cách tung xu để phân định giữa hai bên"
+    "viDef": "cách tung xu để phân định giữa hai bên",
+    "ex": "The referee started the match with a coin toss.",
+    "exHit": "coin toss",
+    "exVi": "Trọng tài bắt đầu trận đấu bằng việc tung đồng xu."
   },
   {
     "word": "draw",
@@ -141,6 +192,9 @@
     "type": "common noun, singular",
     "def": "a contest or game ending in a tie",
     "vi": "trận hòa",
-    "viDef": "cuộc đấu kết thúc với tỉ số bằng nhau"
+    "viDef": "cuộc đấu kết thúc với tỉ số bằng nhau",
+    "ex": "The game ended in a draw, one to one.",
+    "exHit": "draw",
+    "exVi": "Trận đấu kết thúc với tỉ số hòa một một."
   }
 ]

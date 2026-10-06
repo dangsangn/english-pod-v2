@@ -5,7 +5,10 @@
     "type": "",
     "def": "learn something by the ear (usually in surprise)",
     "vi": "nghe được",
-    "viDef": "biết điều gì qua tai, thường là bất ngờ"
+    "viDef": "biết điều gì qua tai, thường là bất ngờ",
+    "ex": "Well, you didn't hear this from me but the rumor is……….",
+    "exHit": "hear",
+    "exVi": "À, bạn đừng nói là nghe từ tôi nhé, nhưng nghe đồn rằng........."
   },
   {
     "word": "gossip",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "rumor or talk of a personal, sensational nature",
     "vi": "chuyện đồn đại",
-    "viDef": "tin đồn hoặc lời bàn về đời tư, mang tính giật gân"
+    "viDef": "tin đồn hoặc lời bàn về đời tư, mang tính giật gân",
+    "ex": "No… go on, tell me, what's the latest office gossip?",
+    "exHit": "gossip",
+    "exVi": "Không... nói tiếp đi, chuyện phiếm mới nhất ở văn phòng là gì thế?"
   },
   {
     "word": "whisper",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "soft speech produced without full voice",
     "vi": "thì thầm",
-    "viDef": "nói nhẹ, không dùng hết giọng"
+    "viDef": "nói nhẹ, không dùng hết giọng",
+    "ex": "Hey guys, what are you two whispering about?",
+    "exHit": "whispering",
+    "exVi": "Này các bạn, hai người đang thì thầm chuyện gì thế?"
   },
   {
     "word": "rumor",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a mixture of truth and untruth passed around",
     "vi": "tin đồn",
-    "viDef": "chuyện lẫn cả thật cả giả được truyền quanh"
+    "viDef": "chuyện lẫn cả thật cả giả được truyền quanh",
+    "ex": "Well, you didn't hear this from me but the rumor is……….",
+    "exHit": "rumor",
+    "exVi": "À, bạn đừng nói là nghe từ tôi nhé, nhưng tin đồn là........."
   },
   {
     "word": "promotion",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "act of raising in rank or position",
     "vi": "sự thăng cấp",
-    "viDef": "việc được nâng bậc hoặc chức"
+    "viDef": "việc được nâng bậc hoặc chức",
+    "ex": "is getting a promotion!",
+    "exHit": "promotion",
+    "exVi": "sắp được thăng chức đấy!"
   },
   {
     "word": "talk",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "someone who cannot keep a secret",
     "vi": "người miệng rộng",
-    "viDef": "người không giữ được điều bí mật"
+    "viDef": "người không giữ được điều bí mật",
+    "ex": "Mark loves to talk, so don't tell him any secrets.",
+    "exHit": "talk",
+    "exVi": "Mark thích nói chuyện lắm, nên đừng kể bí mật cho anh ta."
   },
   {
     "word": "trust",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "someone who cannot be trusted",
     "vi": "kẻ không đáng tin",
-    "viDef": "người không thể tin được"
+    "viDef": "người không thể tin được",
+    "ex": "But… she's a terrible worker… and you can't trust her… she's so two-faced – you can't believe anything she says!",
+    "exHit": "trust",
+    "exVi": "Nhưng... cô ta làm việc tệ lắm... mà bạn không thể tin cô ta được... cô ta hai mặt lắm, bạn không thể tin bất cứ điều gì cô ta nói!"
   },
   {
     "word": "praise",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to speak very well about someone",
     "vi": "khen ngợi",
-    "viDef": "nói tốt về ai"
+    "viDef": "nói tốt về ai",
+    "ex": "My boss always praises people who work hard.",
+    "exHit": "praises",
+    "exVi": "Sếp tôi luôn khen ngợi những người làm việc chăm chỉ."
   },
   {
     "word": "bad mouth",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to speak poorly about someone",
     "vi": "nói xấu",
-    "viDef": "nói tệ về ai"
+    "viDef": "nói tệ về ai",
+    "ex": "It's not nice to bad mouth your coworkers behind their backs.",
+    "exHit": "bad mouth",
+    "exVi": "Nói xấu đồng nghiệp sau lưng họ là không hay."
   },
   {
     "word": "Lie",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "someone who does not tell the truth",
     "vi": "kẻ dối trá",
-    "viDef": "người không nói thật"
+    "viDef": "người không nói thật",
+    "ex": "He told a lie, and everyone found out.",
+    "exHit": "lie",
+    "exVi": "Anh ta nói dối và ai cũng biết."
   }
 ]

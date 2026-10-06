@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "an event where you eat at a friend's house",
     "vi": "bữa tiệc tối",
-    "viDef": "dịp ăn uống ở nhà một người bạn"
+    "viDef": "dịp ăn uống ở nhà một người bạn",
+    "ex": "We are going to a dinner party not the beach!",
+    "exHit": "dinner party",
+    "exVi": "Chúng ta đi dự tiệc tối chứ không phải đi biển!"
   },
   {
     "word": "hemline",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "the line formed by the lower edge of clothing",
     "vi": "viền gấu áo",
-    "viDef": "đường tạo bởi mép dưới của bộ đồ"
+    "viDef": "đường tạo bởi mép dưới của bộ đồ",
+    "ex": "I like the cut and hemline of these shorts so I think I'll wear these as well.",
+    "exHit": "hemline",
+    "exVi": "Tôi thích kiểu dáng và đường gấu của mấy cái quần short này nên tôi nghĩ sẽ mặc cả cái này nữa."
   },
   {
     "word": "fashion sense",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "an idea for what clothing looks good",
     "vi": "gu thời trang",
-    "viDef": "cảm nhận về việc đồ nào trông đẹp"
+    "viDef": "cảm nhận về việc đồ nào trông đẹp",
+    "ex": "You have such great fashion sense.",
+    "exHit": "fashion sense",
+    "exVi": "Bạn có gu thời trang thật tuyệt."
   },
   {
     "word": "checkered",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "a pattern with alternating squares",
     "vi": "kẻ ô vuông",
-    "viDef": "họa tiết các ô vuông xen kẽ"
+    "viDef": "họa tiết các ô vuông xen kẽ",
+    "ex": "The striped short sleeved shirt with this checkered sweater and my lucky sandals.",
+    "exHit": "checkered",
+    "exVi": "Áo sơ mi cộc tay kẻ sọc này với áo len ca-rô và đôi dép xăng-đan may mắn của tôi."
   },
   {
     "word": "striped",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "having stripes or bands of color",
     "vi": "kẻ sọc",
-    "viDef": "có các vạch hoặc dải màu"
+    "viDef": "có các vạch hoặc dải màu",
+    "ex": "The striped short sleeved shirt with this checkered sweater and my lucky sandals.",
+    "exHit": "striped",
+    "exVi": "Áo sơ mi cộc tay kẻ sọc này với áo len ca-rô và đôi dép xăng-đan may mắn của tôi."
   },
   {
     "word": "sandal",
@@ -45,7 +60,10 @@
     "type": "common noun, plural",
     "def": "a type of footwear with open toes",
     "vi": "xăng-đan",
-    "viDef": "loại giày hở ngón"
+    "viDef": "loại giày hở ngón",
+    "ex": "The striped short sleeved shirt with this checkered sweater and my lucky sandals.",
+    "exHit": "sandals",
+    "exVi": "Áo sơ mi cộc tay kẻ sọc này với áo len ca-rô và đôi dép xăng-đan may mắn của tôi."
   },
   {
     "word": "cut",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "the shape and style of a piece of clothing",
     "vi": "kiểu cắt",
-    "viDef": "dáng và lối may của bộ đồ"
+    "viDef": "dáng và lối may của bộ đồ",
+    "ex": "I like the cut and hemline of these shorts so I think I'll wear these as well.",
+    "exHit": "cut",
+    "exVi": "Tôi thích kiểu dáng và đường gấu của mấy cái quần short này nên tôi nghĩ sẽ mặc cả cái này nữa."
   },
   {
     "word": "corduroy",
@@ -61,7 +82,10 @@
     "type": "common noun, non-variable",
     "def": "a ribbed cotton clothing material",
     "vi": "vải nhung tăm",
-    "viDef": "loại vải cotton có gân sọc"
+    "viDef": "loại vải cotton có gân sọc",
+    "ex": "Wear the shirt with the silk tie I bought you and these corduroy pants.",
+    "exHit": "corduroy",
+    "exVi": "Hãy mặc áo sơ mi với chiếc cà vạt lụa em mua cho anh và cái quần nhung kẻ này."
   },
   {
     "word": "sneakers",
@@ -69,7 +93,10 @@
     "type": "common noun, non-variable",
     "def": "casual tennis shoes",
     "vi": "giày thể thao",
-    "viDef": "giày vải kiểu thường ngày"
+    "viDef": "giày vải kiểu thường ngày",
+    "ex": "I always wear my white sneakers when I go shopping at the mall.",
+    "exHit": "sneakers",
+    "exVi": "Tôi luôn đi đôi giày thể thao trắng khi đi mua sắm ở trung tâm thương mại."
   },
   {
     "word": "polka dot",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a fabric pattern with many circles",
     "vi": "họa tiết bi tròn",
-    "viDef": "kiểu vải in nhiều hình tròn"
+    "viDef": "kiểu vải in nhiều hình tròn",
+    "ex": "She looked lovely in a blue dress covered in white polka dot patterns.",
+    "exHit": "polka dot",
+    "exVi": "Cô ấy trông thật xinh trong chiếc váy xanh có họa tiết chấm bi trắng."
   },
   {
     "word": "denim",
@@ -85,7 +115,10 @@
     "type": "common noun, non-variable",
     "def": "a type of fabric used to make jeans",
     "vi": "vải bò",
-    "viDef": "loại vải dùng may quần jean"
+    "viDef": "loại vải dùng may quần jean",
+    "ex": "I like thick denim jeans because they last for years.",
+    "exHit": "denim",
+    "exVi": "Tôi thích quần jean bằng vải denim dày vì nó bền nhiều năm."
   },
   {
     "word": "out of fashion",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "used to describe something that is no longer popular",
     "vi": "hết mốt",
-    "viDef": "nói về thứ không còn được ưa nữa"
+    "viDef": "nói về thứ không còn được ưa nữa",
+    "ex": "That jacket is out of fashion, so don't wear it to the party.",
+    "exHit": "out of fashion",
+    "exVi": "Chiếc áo khoác đó lỗi mốt rồi, đừng mặc đến bữa tiệc."
   },
   {
     "word": "tailor",
@@ -101,6 +137,9 @@
     "type": "common noun, singular",
     "def": "a person who makes clothes, adjusts the fit",
     "vi": "thợ may",
-    "viDef": "người may đồ và sửa cho vừa người"
+    "viDef": "người may đồ và sửa cho vừa người",
+    "ex": "The jacket is too big, so I asked a tailor to fix the fit.",
+    "exHit": "tailor",
+    "exVi": "Chiếc áo vest hơi rộng nên tôi nhờ thợ may chỉnh lại cho vừa."
   }
 ]

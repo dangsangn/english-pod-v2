@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "move faster",
     "vi": "nhanh lên",
-    "viDef": "đi nhanh hơn"
+    "viDef": "đi nhanh hơn",
+    "ex": "Hurry up, get in!",
+    "exHit": "Hurry up",
+    "exVi": "Nhanh lên, lên xe đi!"
   },
   {
     "word": "make a left",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "turn left",
     "vi": "rẽ trái",
-    "viDef": "quẹo trái"
+    "viDef": "quẹo trái",
+    "ex": "OK, make a left here...",
+    "exHit": "make a left",
+    "exVi": "Được rồi, rẽ trái ở đây..."
   },
   {
     "word": "step on it",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "drive a lot faster",
     "vi": "đạp ga lên",
-    "viDef": "lái nhanh hơn nhiều"
+    "viDef": "lái nhanh hơn nhiều",
+    "ex": "step on it!",
+    "exHit": "step on it",
+    "exVi": "Đạp ga nhanh lên!"
   },
   {
     "word": "nuts",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "crazy",
     "vi": "khùng",
-    "viDef": "điên rồ"
+    "viDef": "điên rồ",
+    "ex": "Are you nuts?",
+    "exHit": "nuts",
+    "exVi": "Bạn điên à?"
   },
   {
     "word": "speed up",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "go faster",
     "vi": "tăng tốc",
-    "viDef": "đi nhanh hơn"
+    "viDef": "đi nhanh hơn",
+    "ex": "Come on speed up!",
+    "exHit": "speed up",
+    "exVi": "Thôi nào, tăng tốc lên!"
   },
   {
     "word": "have a fit",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "get very angry",
     "vi": "nổi đóa",
-    "viDef": "nổi giận đùng đùng"
+    "viDef": "nổi giận đùng đùng",
+    "ex": "Having a fit is not going to help!",
+    "exHit": "Having a fit",
+    "exVi": "Nổi cơn thịnh nộ cũng chẳng giúp được gì đâu!"
   },
   {
     "word": "cut through",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "quickly go past or though something that blocks you",
     "vi": "cắt ngang qua",
-    "viDef": "đi tắt qua chỗ đang bị chắn"
+    "viDef": "đi tắt qua chỗ đang bị chắn",
+    "ex": "just go down here and we'll cut through Ashburn Heights.",
+    "exHit": "cut through",
+    "exVi": "Cứ đi xuống đây rồi mình cắt ngang qua Ashburn Heights."
   },
   {
     "word": "packed",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "full, having lots of cars",
     "vi": "chật cứng xe",
-    "viDef": "đầy, rất nhiều xe"
+    "viDef": "đầy, rất nhiều xe",
+    "ex": "The freeway will be packed at this hour....",
+    "exHit": "packed",
+    "exVi": "Giờ này đường cao tốc sẽ đông nghẹt xe...."
   },
   {
     "word": "road rage",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "be very angry at other drivers while driving",
     "vi": "cơn giận khi lái xe",
-    "viDef": "nổi nóng với tài xế khác lúc đang lái"
+    "viDef": "nổi nóng với tài xế khác lúc đang lái",
+    "ex": "Road rage can cause serious accidents, so try to stay calm.",
+    "exHit": "Road rage",
+    "exVi": "Cơn giận dữ khi lái xe có thể gây ra tai nạn nghiêm trọng, nên hãy cố giữ bình tĩnh."
   },
   {
     "word": "back street",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "small street that is away from the main streets",
     "vi": "đường hẻm",
-    "viDef": "đường nhỏ nằm xa các trục đường chính"
+    "viDef": "đường nhỏ nằm xa các trục đường chính",
+    "ex": "Let's take a back street to avoid the heavy traffic downtown.",
+    "exHit": "back street",
+    "exVi": "Mình đi đường nhỏ để tránh kẹt xe nặng ở trung tâm nhé."
   },
   {
     "word": "u-turn",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "a 180 degree turn in the car",
     "vi": "quay đầu xe",
-    "viDef": "cú quay 180 độ bằng ô tô"
+    "viDef": "cú quay 180 độ bằng ô tô",
+    "ex": "You can't make a u-turn here, so go to the next light.",
+    "exHit": "u-turn",
+    "exVi": "Ở đây không được quay đầu xe, nên hãy đi đến đèn giao thông kế tiếp."
   },
   {
     "word": "to back up",
@@ -93,7 +126,10 @@
     "type": "principle verb, infinitive",
     "def": "to move backwards, the opposite of go forwards",
     "vi": "lùi xe",
-    "viDef": "đi lùi, ngược với tiến"
+    "viDef": "đi lùi, ngược với tiến",
+    "ex": "Can you back up a little so I can get out?",
+    "exHit": "back up",
+    "exVi": "Bạn lùi xe lại một chút để tôi ra được không?"
   },
   {
     "word": "to pass",
@@ -101,7 +137,10 @@
     "type": "principle verb, infinitive",
     "def": "to drive past another car on the road to pass a car on the road",
     "vi": "vượt xe",
-    "viDef": "lái vượt qua xe khác trên đường"
+    "viDef": "lái vượt qua xe khác trên đường",
+    "ex": "It's dangerous to pass a truck on a narrow road.",
+    "exHit": "pass",
+    "exVi": "Vượt xe tải trên con đường hẹp rất nguy hiểm."
   },
   {
     "word": "to park",
@@ -109,6 +148,9 @@
     "type": "principle verb, infinitive",
     "def": "to stop the car and turn off the engine",
     "vi": "đỗ xe",
-    "viDef": "dừng xe và tắt máy"
+    "viDef": "dừng xe và tắt máy",
+    "ex": "Where can we park near the stadium on a game day?",
+    "exHit": "park",
+    "exVi": "Vào ngày có trận đấu, mình có thể đậu xe ở gần sân vận động ở đâu?"
   }
 ]

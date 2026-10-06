@@ -5,7 +5,10 @@
     "type": "",
     "def": "get food that can be eaten quickly",
     "vi": "ăn tạm miếng gì",
-    "viDef": "lấy đồ ăn nhanh cho qua bữa"
+    "viDef": "lấy đồ ăn nhanh cho qua bữa",
+    "ex": "I'm hungry, let's grab a bite to eat.",
+    "exHit": "grab a bite",
+    "exVi": "Mình đói rồi, đi ăn nhanh chút gì đi."
   },
   {
     "word": "all you ever do",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "something frequently done",
     "vi": "suốt ngày chỉ thấy anh",
-    "viDef": "việc gì làm rất thường xuyên"
+    "viDef": "việc gì làm rất thường xuyên",
+    "ex": "All you ever do is have unhealthy fast food Pizza, fries, burgers and hot dogs!",
+    "exHit": "All you ever do",
+    "exVi": "Cậu chỉ toàn ăn đồ ăn nhanh không lành mạnh như pizza, khoai chiên, bánh mì kẹp thịt và xúc xích!"
   },
   {
     "word": "cut down",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "reduce the amount taken or used",
     "vi": "giảm bớt",
-    "viDef": "dùng hoặc ăn ít đi"
+    "viDef": "dùng hoặc ăn ít đi",
+    "ex": "You should also cut down on your sugar intake as well.",
+    "exHit": "cut down",
+    "exVi": "Bạn cũng nên giảm lượng đường nạp vào."
   },
   {
     "word": "how about",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "what do you think",
     "vi": "còn... thì sao",
-    "viDef": "anh/chị thấy thế nào"
+    "viDef": "anh/chị thấy thế nào",
+    "ex": "And how about the working hours?",
+    "exHit": "how about",
+    "exVi": "Còn về giờ làm việc thì sao?"
   },
   {
     "word": "stick to",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "continue doing (something)",
     "vi": "giữ theo",
-    "viDef": "tiếp tục làm việc gì"
+    "viDef": "tiếp tục làm việc gì",
+    "ex": "It's a start, but I'll be happy when I see you stick to your promise!",
+    "exHit": "stick to",
+    "exVi": "Đó là một khởi đầu, nhưng anh sẽ vui khi thấy em giữ đúng lời hứa!"
   },
   {
     "word": "Calorie",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a unit of energy",
     "vi": "ca-lo",
-    "viDef": "đơn vị đo năng lượng"
+    "viDef": "đơn vị đo năng lượng",
+    "ex": "Each slice of pizza has about three hundred calories.",
+    "exHit": "calories",
+    "exVi": "Mỗi miếng pizza có khoảng ba trăm calo."
   },
   {
     "word": "Saturated Fat",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A fat that consists of triglycerides containing only saturated fatty acid radicals.",
     "vi": "chất béo bão hòa",
-    "viDef": "loại chất béo gồm các triglyceride chỉ chứa gốc axit béo bão hòa"
+    "viDef": "loại chất béo gồm các triglyceride chỉ chứa gốc axit béo bão hòa",
+    "ex": "Fried chicken has a lot of saturated fat.",
+    "exHit": "saturated fat",
+    "exVi": "Gà rán có rất nhiều chất béo bão hòa."
   },
   {
     "word": "Fiber",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "An indigestible portion of plant foods having two main components",
     "vi": "chất xơ",
-    "viDef": "phần trong thực phẩm thực vật cơ thể không tiêu hóa được, gồm hai thành phần chính"
+    "viDef": "phần trong thực phẩm thực vật cơ thể không tiêu hóa được, gồm hai thành phần chính",
+    "ex": "You should eat more fiber, like apples and beans.",
+    "exHit": "fiber",
+    "exVi": "Bạn nên ăn nhiều chất xơ hơn, như táo và đậu."
   },
   {
     "word": "Serving",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A specific amount or portion of food or liquids",
     "vi": "một phần ăn",
-    "viDef": "lượng hoặc suất thức ăn, đồ uống nhất định"
+    "viDef": "lượng hoặc suất thức ăn, đồ uống nhất định",
+    "ex": "One serving of fries is more than enough for me.",
+    "exHit": "serving",
+    "exVi": "Một khẩu phần khoai tây chiên là quá đủ với mình."
   },
   {
     "word": "Obese",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "condition of having excess body fat,to the extent that it may have an adverse effect on health, leading to reduced life",
     "vi": "béo phì",
-    "viDef": "tình trạng thừa mỡ đến mức có thể gây hại cho sức khỏe và làm giảm tuổi thọ"
+    "viDef": "tình trạng thừa mỡ đến mức có thể gây hại cho sức khỏe và làm giảm tuổi thọ",
+    "ex": "Eating junk food every day can make you obese.",
+    "exHit": "obese",
+    "exVi": "Ăn đồ ăn vặt mỗi ngày có thể khiến bạn béo phì."
   }
 ]

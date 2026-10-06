@@ -5,7 +5,10 @@
     "type": "",
     "def": "a quality or feature that makes someone or somethi",
     "vi": "điểm mạnh",
-    "viDef": "phẩm chất hoặc đặc tính làm cho ai hoặc thứ gì nổi trội"
+    "viDef": "phẩm chất hoặc đặc tính làm cho ai hoặc thứ gì nổi trội",
+    "ex": "It has been three years since I visited Beijing, and it's clear to me that operations here are obviously going from strength to strength.",
+    "exHit": "strength",
+    "exVi": "Đã ba năm kể từ lần tôi đến Bắc Kinh, và rõ ràng hoạt động ở đây đang ngày càng thành công."
   },
   {
     "word": "first of all",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "phrase used to introduce a series of ideas, starting with the first one",
     "vi": "trước hết",
-    "viDef": "câu dùng để mở đầu chuỗi ý, bắt đầu từ ý thứ nhất"
+    "viDef": "câu dùng để mở đầu chuỗi ý, bắt đầu từ ý thứ nhất",
+    "ex": "First of all, I'd like to briefly touch on the background of the new x420 line; how the whole concept has come about and how the new product fits into our existing brand line.",
+    "exHit": "First of all",
+    "exVi": "Trước hết, tôi muốn nói sơ qua về bối cảnh của dòng x420 mới: ý tưởng ra đời thế nào và sản phẩm mới phù hợp với dòng thương hiệu hiện có ra sao."
   },
   {
     "word": "go on",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "continue, go forward",
     "vi": "tiếp tục",
-    "viDef": "nói tiếp, đi tới"
+    "viDef": "nói tiếp, đi tới",
+    "ex": "We will then go on to discuss our key rivals in this sector.",
+    "exHit": "go on",
+    "exVi": "Sau đó chúng ta sẽ tiếp tục bàn về các đối thủ chính trong lĩnh vực này."
   },
   {
     "word": "Finally",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "at last",
     "vi": "cuối cùng",
-    "viDef": "sau hết"
+    "viDef": "sau hết",
+    "ex": "Finally I'm happy to open up the discussion for any questions or points you might have for me.",
+    "exHit": "Finally",
+    "exVi": "Cuối cùng, tôi rất sẵn lòng mở phần thảo luận cho mọi câu hỏi hoặc ý kiến của quý vị."
   },
   {
     "word": "launch",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to begin",
     "vi": "khởi động, ra mắt",
-    "viDef": "bắt đầu"
+    "viDef": "bắt đầu",
+    "ex": "We have bounced back from the recession and now we are set to launch our new line of laptop and desktop computers.",
+    "exHit": "launch",
+    "exVi": "Chúng ta đã vượt qua suy thoái và giờ sắp tung ra dòng máy tính xách tay và máy tính để bàn mới."
   },
   {
     "word": "overview",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a general explanation",
     "vi": "phần tổng quan",
-    "viDef": "lời trình bày chung"
+    "viDef": "lời trình bày chung",
+    "ex": "I'm really pleased to welcome Michael Ford, the Global Marketing Manager for Alpha computers,who has flown in from California to give all of you an overview of the marketing campaign and to answer any questions you may have.",
+    "exHit": "overview",
+    "exVi": "Tôi rất vui được chào đón Michael Ford, Giám đốc Marketing toàn cầu của Alpha Computers, người đã bay từ California đến để trình bày tổng quan về chiến dịch tiếp thị và trả lời mọi câu hỏi của quý vị."
   },
   {
     "word": "strength to strength",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "more and more successful",
     "vi": "càng lúc càng mạnh",
-    "viDef": "ngày một thành công hơn"
+    "viDef": "ngày một thành công hơn",
+    "ex": "It has been three years since I visited Beijing, and it's clear to me that operations here are obviously going from strength to strength.",
+    "exHit": "strength to strength",
+    "exVi": "Đã ba năm kể từ lần tôi đến Bắc Kinh, và rõ ràng hoạt động ở đây đang ngày càng thành công."
   },
   {
     "word": "Powerpoint Presentation",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A presentation using a computer program called powerpoint",
     "vi": "bài trình chiếu PowerPoint",
-    "viDef": "bài thuyết trình dùng chương trình máy tính tên PowerPoint"
+    "viDef": "bài thuyết trình dùng chương trình máy tính tên PowerPoint",
+    "ex": "She prepared a Powerpoint presentation with lots of beautiful pictures.",
+    "exHit": "Powerpoint presentation",
+    "exVi": "Cô ấy chuẩn bị một bài thuyết trình PowerPoint với rất nhiều hình ảnh đẹp."
   },
   {
     "word": "Projector",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a machine used to project a large digital image onto a plain white surface",
     "vi": "máy chiếu",
-    "viDef": "máy dùng để phóng hình số lớn lên một mặt phẳng màu trắng"
+    "viDef": "máy dùng để phóng hình số lớn lên một mặt phẳng màu trắng",
+    "ex": "Please turn on the projector so everyone in the room can see.",
+    "exHit": "projector",
+    "exVi": "Hãy bật máy chiếu lên để mọi người trong phòng đều nhìn thấy."
   },
   {
     "word": "Podium",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a small usually wooden table used to hold a microphone for use of a speaker",
     "vi": "bục nói",
-    "viDef": "chiếc bàn nhỏ, thường bằng gỗ, để đặt micro cho người phát biểu"
+    "viDef": "chiếc bàn nhỏ, thường bằng gỗ, để đặt micro cho người phát biểu",
+    "ex": "The speaker stepped up to the podium and put down his notes.",
+    "exHit": "podium",
+    "exVi": "Diễn giả bước lên bục và đặt các ghi chú của mình xuống."
   },
   {
     "word": "Speech",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a public discourse",
     "vi": "bài phát biểu",
-    "viDef": "lời nói trước công chúng"
+    "viDef": "lời nói trước công chúng",
+    "ex": "His speech was short but very inspiring.",
+    "exHit": "speech",
+    "exVi": "Bài phát biểu của anh ấy ngắn gọn nhưng rất truyền cảm hứng."
   },
   {
     "word": "Graph",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "A graphic image that represents variations and numbers",
     "vi": "đồ thị",
-    "viDef": "hình vẽ thể hiện các biến động và con số"
+    "viDef": "hình vẽ thể hiện các biến động và con số",
+    "ex": "This graph shows that sales rose steadily month by month.",
+    "exHit": "graph",
+    "exVi": "Biểu đồ này cho thấy doanh số tăng đều qua từng tháng."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "to be thoroughly wet",
     "vi": "ướt sũng",
-    "viDef": "bị ướt hoàn toàn"
+    "viDef": "bị ướt hoàn toàn",
+    "ex": "Oh dear Miss, you are soaked!",
+    "exHit": "soaked",
+    "exVi": "Ôi trời cô ơi, cô ướt sũng rồi!"
   },
   {
     "word": "rush",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "in a hurry",
     "vi": "vội",
-    "viDef": "đang gấp"
+    "viDef": "đang gấp",
+    "ex": "I need to rush as I'm on my lunch break.",
+    "exHit": "rush",
+    "exVi": "Tôi cần phải vội vì đang trong giờ nghỉ trưa."
   },
   {
     "word": "personally",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "as regards oneself",
     "vi": "về phần tôi",
-    "viDef": "xét riêng bản thân mình"
+    "viDef": "xét riêng bản thân mình",
+    "ex": "Personally, I think the beef salad is the tastiest choice.",
+    "exHit": "Personally",
+    "exVi": "Cá nhân tôi thì nghĩ món salad bò là lựa chọn ngon nhất."
   },
   {
     "word": "suggestion",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "idea about what someone should do",
     "vi": "lời gợi ý",
-    "viDef": "ý kiến về việc ai đó nên làm gì"
+    "viDef": "ý kiến về việc ai đó nên làm gì",
+    "ex": "Well, thanks for the suggestions.",
+    "exHit": "suggestions",
+    "exVi": "À, cảm ơn vì những gợi ý của bạn."
   },
   {
     "word": "mention",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "talk about something briefly",
     "vi": "nhắc tới",
-    "viDef": "nói qua về điều gì"
+    "viDef": "nói qua về điều gì",
+    "ex": "Oh, don't mention it.",
+    "exHit": "mention",
+    "exVi": "Ồ, đừng bận tâm, không có gì đâu."
   },
   {
     "word": "drench",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to wet thoroughly",
     "vi": "làm ướt đẫm",
-    "viDef": "làm ướt hoàn toàn"
+    "viDef": "làm ướt hoàn toàn",
+    "ex": "The sudden rain will drench us before we reach the bus stop.",
+    "exHit": "drench",
+    "exVi": "Cơn mưa bất chợt sẽ làm chúng ta ướt sũng trước khi đến trạm xe buýt."
   },
   {
     "word": "scrumptios",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "very pleasing",
     "vi": "ngon tuyệt",
-    "viDef": "rất dễ chịu, hết sức thích"
+    "viDef": "rất dễ chịu, hết sức thích",
+    "ex": "That scrumptios cake was the best part of my lunch.",
+    "exHit": "scrumptios",
+    "exVi": "Chiếc bánh ngon tuyệt đó là phần tuyệt nhất trong bữa trưa của tôi."
   },
   {
     "word": "haste",
@@ -61,6 +82,9 @@
     "type": "",
     "def": "urgent need of quick action",
     "vi": "sự vội vã",
-    "viDef": "nhu cầu cấp bách phải hành động nhanh"
+    "viDef": "nhu cầu cấp bách phải hành động nhanh",
+    "ex": "In my haste, I forgot my umbrella at the cafe.",
+    "exHit": "haste",
+    "exVi": "Vì quá vội, tôi đã để quên chiếc ô ở quán cà phê."
   }
 ]

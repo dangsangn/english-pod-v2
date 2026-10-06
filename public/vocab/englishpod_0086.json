@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "please come in",
     "vi": "vào đi",
-    "viDef": "mời vào"
+    "viDef": "mời vào",
+    "ex": "Sure, come on in!",
+    "exHit": "come on in",
+    "exVi": "Chắc chắn rồi, vào đi!"
   },
   {
     "word": "tenant",
@@ -13,7 +16,10 @@
     "type": "common noun, plural",
     "def": "the person that rents a house",
     "vi": "người thuê nhà",
-    "viDef": "người trả tiền thuê chỗ ở"
+    "viDef": "người trả tiền thuê chỗ ở",
+    "ex": "The previous tenants left a huge mess here, so the landlord has redone everything.",
+    "exHit": "tenants",
+    "exVi": "Những người thuê nhà trước đã để lại một đống bừa bộn ở đây, nên chủ nhà đã sửa lại toàn bộ."
   },
   {
     "word": "mess",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "disorder, unorganized",
     "vi": "bừa bộn",
-    "viDef": "lộn xộn, không ngăn nắp"
+    "viDef": "lộn xộn, không ngăn nắp",
+    "ex": "The previous tenants left a huge mess here, so the landlord has redone everything.",
+    "exHit": "mess",
+    "exVi": "Những người thuê nhà trước đã để lại một đống bừa bộn ở đây, nên chủ nhà đã sửa lại toàn bộ."
   },
   {
     "word": "landlord",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "the owner of the apartment",
     "vi": "chủ nhà",
-    "viDef": "người sở hữu căn hộ"
+    "viDef": "người sở hữu căn hộ",
+    "ex": "Oh, the landlord has also installed new kitchen appliances.",
+    "exHit": "landlord",
+    "exVi": "Ồ, chủ nhà còn lắp thêm đồ gia dụng mới cho nhà bếp nữa."
   },
   {
     "word": "airy",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "spacious so that air moves freely",
     "vi": "thoáng khí",
-    "viDef": "rộng nên khí lưu thông tự do"
+    "viDef": "rộng nên khí lưu thông tự do",
+    "ex": "It's so bright and airy!",
+    "exHit": "airy",
+    "exVi": "Nơi này sáng sủa và thoáng đãng quá!"
   },
   {
     "word": "square footage",
@@ -45,7 +60,10 @@
     "type": "common noun, non-variable",
     "def": "showing how big one space is measured in feet",
     "vi": "diện tích tính theo foot vuông",
-    "viDef": "con số cho biết chỗ đó rộng bao nhiêu"
+    "viDef": "con số cho biết chỗ đó rộng bao nhiêu",
+    "ex": "What's the square footage of this place?",
+    "exHit": "square footage",
+    "exVi": "Căn hộ này rộng bao nhiêu feet vuông vậy?"
   },
   {
     "word": "appliance",
@@ -53,7 +71,10 @@
     "type": "common noun, plural",
     "def": "electric equiptment found in a house",
     "vi": "thiết bị gia dụng",
-    "viDef": "đồ điện dùng trong nhà"
+    "viDef": "đồ điện dùng trong nhà",
+    "ex": "Oh, the landlord has also installed new kitchen appliances.",
+    "exHit": "appliances",
+    "exVi": "Ồ, chủ nhà còn lắp thêm đồ gia dụng mới cho nhà bếp nữa."
   },
   {
     "word": "professional-grade",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "good enough to satisfy professional use",
     "vi": "chuẩn nhà nghề",
-    "viDef": "đủ tốt để dùng cho công việc chuyên môn"
+    "viDef": "đủ tốt để dùng cho công việc chuyên môn",
+    "ex": "They bought a professional-grade mixer for their new bakery.",
+    "exHit": "professional-grade",
+    "exVi": "Họ mua một chiếc máy trộn loại chuyên nghiệp cho tiệm bánh mới."
   },
   {
     "word": "gas range",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a stove that uses gas to cook",
     "vi": "bếp gas",
-    "viDef": "bếp dùng gas để nấu"
+    "viDef": "bếp dùng gas để nấu",
+    "ex": "There's a new dishwasher, and a professional-grade gas range.",
+    "exHit": "gas range",
+    "exVi": "Có một máy rửa bát mới và một bếp ga loại chuyên nghiệp."
   },
   {
     "word": "spacious",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "large; having lots of space",
     "vi": "rộng rãi",
-    "viDef": "to, nhiều không gian"
+    "viDef": "to, nhiều không gian",
+    "ex": "The living room and dinning room are quite spacious as you can see, and down this hall, here's the master bedroom.",
+    "exHit": "spacious",
+    "exVi": "Phòng khách và phòng ăn khá rộng rãi như bạn thấy, và đi dọc hành lang này là phòng ngủ chính."
   },
   {
     "word": "walk-in closet",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a room contained in a bedroom for storing clothes",
     "vi": "phòng để quần áo",
-    "viDef": "buồng nhỏ trong phòng ngủ để chứa áo quần"
+    "viDef": "buồng nhỏ trong phòng ngủ để chứa áo quần",
+    "ex": "The bedroom has a big walk-in closet.",
+    "exHit": "walk-in closet",
+    "exVi": "Phòng ngủ có một tủ quần áo âm tường rất lớn."
   },
   {
     "word": "en suit bathroom",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a bathroom within the main bedroom",
     "vi": "nhà tắm trong phòng ngủ",
-    "viDef": "phòng tắm nằm ngay trong phòng ngủ chính"
+    "viDef": "phòng tắm nằm ngay trong phòng ngủ chính",
+    "ex": "It has a huge walk-in closet and an en suit bathroom.",
+    "exHit": "en suit bathroom",
+    "exVi": "Phòng có một tủ quần áo âm tường rất lớn và một phòng tắm riêng."
   },
   {
     "word": "attic",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a room or space that is just below the roof of a building and that is often used to store things",
     "vi": "gác mái",
-    "viDef": "khoảng ngay dưới mái nhà, thường dùng để chứa đồ"
+    "viDef": "khoảng ngay dưới mái nhà, thường dùng để chứa đồ",
+    "ex": "We store old boxes in the attic.",
+    "exHit": "attic",
+    "exVi": "Chúng tôi cất những chiếc hộp cũ trên gác mái."
   },
   {
     "word": "basement",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "the part of a building that is entirely or partly below the ground",
     "vi": "tầng hầm",
-    "viDef": "phần tòa nhà nằm hẳn hoặc một phần dưới mặt đất"
+    "viDef": "phần tòa nhà nằm hẳn hoặc một phần dưới mặt đất",
+    "ex": "The washing machine is down in the basement.",
+    "exHit": "basement",
+    "exVi": "Máy giặt ở dưới tầng hầm."
   },
   {
     "word": "lawn",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "an area of ground (such as the ground around a house or in a garden or park) that is covered with short grass",
     "vi": "bãi cỏ",
-    "viDef": "khoảng đất quanh nhà hoặc trong vườn phủ cỏ ngắn"
+    "viDef": "khoảng đất quanh nhà hoặc trong vườn phủ cỏ ngắn",
+    "ex": "He mows the lawn every Saturday morning.",
+    "exHit": "lawn",
+    "exVi": "Anh ấy cắt cỏ trên bãi cỏ mỗi sáng thứ Bảy."
   },
   {
     "word": "real estate",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "the business of selling land and buildings",
     "vi": "bất động sản",
-    "viDef": "nghề mua bán đất và nhà"
+    "viDef": "nghề mua bán đất và nhà",
+    "ex": "My sister works in real estate downtown.",
+    "exHit": "real estate",
+    "exVi": "Chị tôi làm nghề bất động sản ở trung tâm thành phố."
   },
   {
     "word": "lease",
@@ -133,6 +181,9 @@
     "type": "verb",
     "def": "to allow someone to use (something) for a period of time in return for payment",
     "vi": "cho thuê",
-    "viDef": "cho ai dùng thứ gì một thời gian và nhận tiền"
+    "viDef": "cho ai dùng thứ gì một thời gian và nhận tiền",
+    "ex": "We decided to lease the apartment for one year.",
+    "exHit": "lease",
+    "exVi": "Chúng tôi quyết định thuê căn hộ này trong một năm."
   }
 ]

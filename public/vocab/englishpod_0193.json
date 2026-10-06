@@ -5,7 +5,10 @@
     "type": "",
     "def": "something you really want to do",
     "vi": "giấc mơ, điều mơ ước",
-    "viDef": "điều mình rất muốn làm"
+    "viDef": "điều mình rất muốn làm",
+    "ex": "You have saved up your money for years and are now ready to build your dream home.",
+    "exHit": "dream",
+    "exVi": "Bạn đã tiết kiệm tiền nhiều năm và giờ sẵn sàng xây ngôi nhà mơ ước của mình."
   },
   {
     "word": "home",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "place where a person lives",
     "vi": "nhà",
-    "viDef": "nơi một người sống"
+    "viDef": "nơi một người sống",
+    "ex": "You have saved up your money for years and are now ready to build your dream home.",
+    "exHit": "home",
+    "exVi": "Bạn đã tiết kiệm tiền nhiều năm và giờ sẵn sàng xây ngôi nhà mơ ước của mình."
   },
   {
     "word": "suburban",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "located or residing in a suburb",
     "vi": "ở ngoại ô",
-    "viDef": "nằm hoặc sống ở vùng ven thành phố"
+    "viDef": "nằm hoặc sống ở vùng ven thành phố",
+    "ex": "A suburban bungalow straight out of the sixties!",
+    "exHit": "suburban",
+    "exVi": "Một căn nhà một tầng ở ngoại ô đúng kiểu thập niên sáu mươi!"
   },
   {
     "word": "bungalow",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a house which is built on one level",
     "vi": "nhà một tầng",
-    "viDef": "căn nhà xây trên một mặt sàn"
+    "viDef": "căn nhà xây trên một mặt sàn",
+    "ex": "A suburban bungalow straight out of the sixties!",
+    "exHit": "bungalow",
+    "exVi": "Một căn nhà một tầng ở ngoại ô đúng kiểu thập niên sáu mươi!"
   },
   {
     "word": "the sixties",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the years from 1960 to1969",
     "vi": "thập niên 60",
-    "viDef": "những năm từ 1960 đến 1969"
+    "viDef": "những năm từ 1960 đến 1969",
+    "ex": "A suburban bungalow straight out of the sixties!",
+    "exHit": "the sixties",
+    "exVi": "Một căn nhà một tầng ở ngoại ô đúng kiểu thập niên sáu mươi!"
   },
   {
     "word": "minimal",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the smallest possible amount or size",
     "vi": "tối giản",
-    "viDef": "lượng hoặc cỡ nhỏ nhất có thể"
+    "viDef": "lượng hoặc cỡ nhỏ nhất có thể",
+    "ex": "A perfect lawn with minimal landscaping.",
+    "exHit": "minimal",
+    "exVi": "Một bãi cỏ hoàn hảo với cảnh quan tối giản."
   },
   {
     "word": "landscping",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a view across an area of land",
     "vi": "cảnh quan",
-    "viDef": "tầm nhìn ra một vùng đất"
+    "viDef": "tầm nhìn ra một vùng đất",
+    "ex": "They hired a company to do the landscaping around our house.",
+    "exHit": "landscaping",
+    "exVi": "Họ thuê một công ty làm cảnh quan quanh nhà chúng tôi."
   },
   {
     "word": "patio",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "an area of the garden with a hard surface",
     "vi": "sân hiên",
-    "viDef": "khoảng sân có mặt cứng trong vườn"
+    "viDef": "khoảng sân có mặt cứng trong vườn",
+    "ex": "A brick patio in the backyard with an old-fashioned grill, quaint lawn furniture, and a swimming pool.",
+    "exHit": "patio",
+    "exVi": "Một sân hiên lát gạch ở sân sau với vỉ nướng kiểu cũ, bàn ghế sân vườn cổ xinh xắn và một bể bơi."
   },
   {
     "word": "quaint",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "unusual or old-fashioned in an attractive",
     "vi": "xinh xinh kiểu cổ",
-    "viDef": "lạ hoặc cổ xưa theo cách dễ mến"
+    "viDef": "lạ hoặc cổ xưa theo cách dễ mến",
+    "ex": "A brick patio in the backyard with an old-fashioned grill, quaint lawn furniture, and a swimming pool.",
+    "exHit": "quaint",
+    "exVi": "Một sân hiên lát gạch ở sân sau với vỉ nướng kiểu cũ, bàn ghế sân vườn cổ xinh xắn và một bể bơi."
   },
   {
     "word": "carport",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a place where you park your car",
     "vi": "mái che đậu xe",
-    "viDef": "chỗ để đậu xe hơi"
+    "viDef": "chỗ để đậu xe hơi",
+    "ex": "A two-car carport, pastel siding and a gable roof.",
+    "exHit": "carport",
+    "exVi": "Một nhà để xe hai chỗ, ốp tường màu pastel và mái đầu hồi."
   },
   {
     "word": "pastel",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a kind of dry colour in sticks",
     "vi": "màu phấn",
-    "viDef": "loại màu khô dạng thanh"
+    "viDef": "loại màu khô dạng thanh",
+    "ex": "A two-car carport, pastel siding and a gable roof.",
+    "exHit": "pastel",
+    "exVi": "Một nhà để xe hai chỗ, ốp tường màu pastel và mái đầu hồi."
   },
   {
     "word": "siding",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "material attached to the outside of a building",
     "vi": "vật liệu ốp ngoài",
-    "viDef": "lớp gắn bên ngoài tòa nhà"
+    "viDef": "lớp gắn bên ngoài tòa nhà",
+    "ex": "A two-car carport, pastel siding and a gable roof.",
+    "exHit": "siding",
+    "exVi": "Một nhà để xe hai chỗ, ốp tường màu pastel và mái đầu hồi."
   },
   {
     "word": "gable",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "the triangular upper part of a wall",
     "vi": "đầu hồi",
-    "viDef": "phần tường hình tam giác trên cùng"
+    "viDef": "phần tường hình tam giác trên cùng",
+    "ex": "A two-car carport, pastel siding and a gable roof.",
+    "exHit": "gable",
+    "exVi": "Một nhà để xe hai chỗ, ốp tường màu pastel và mái đầu hồi."
   },
   {
     "word": "roof",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "the top of a building",
     "vi": "mái nhà",
-    "viDef": "phần trên cùng của một tòa nhà"
+    "viDef": "phần trên cùng của một tòa nhà",
+    "ex": "We would have solar panels on the roof -",
+    "exHit": "roof",
+    "exVi": "Chúng ta sẽ có các tấm pin mặt trời trên mái nhà -"
   },
   {
     "word": "shutter",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "covers unfold in front of a window",
     "vi": "cửa chớp",
-    "viDef": "tấm che mở ra trước cửa sổ"
+    "viDef": "tấm che mở ra trước cửa sổ",
+    "ex": "Completed with white shutters and a white picket fence!",
+    "exHit": "shutters",
+    "exVi": "Hoàn thiện với cửa chớp trắng và hàng rào cọc trắng!"
   },
   {
     "word": "mantle",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "the shelf above a fireplace",
     "vi": "bệ lò sưởi",
-    "viDef": "kệ phía trên lò sưởi"
+    "viDef": "kệ phía trên lò sưởi",
+    "ex": "In the living room we would have moss-green rugs and a fireplace with a stone mantle and wood paneling on the walls.",
+    "exHit": "mantle",
+    "exVi": "Trong phòng khách, chúng ta sẽ có thảm màu xanh rêu và lò sưởi với bệ lò bằng đá và tường ốp ván gỗ."
   },
   {
     "word": "paneling",
@@ -133,7 +181,10 @@
     "type": "",
     "def": "sheets of wood fit into a frame to form a wall",
     "vi": "ốp gỗ tường",
-    "viDef": "các tấm gỗ ghép vào khung tạo thành mặt tường"
+    "viDef": "các tấm gỗ ghép vào khung tạo thành mặt tường",
+    "ex": "In the living room we would have moss-green rugs and a fireplace with a stone mantle and wood paneling on the walls.",
+    "exHit": "paneling",
+    "exVi": "Trong phòng khách, chúng ta sẽ có thảm màu xanh rêu và lò sưởi với bệ lò bằng đá và tường ốp ván gỗ."
   },
   {
     "word": "turquoise",
@@ -141,7 +192,10 @@
     "type": "",
     "def": "a bluish-green, precious stone",
     "vi": "ngọc lam",
-    "viDef": "loại đá quý màu xanh lục lam"
+    "viDef": "loại đá quý màu xanh lục lam",
+    "ex": "In the kitchen, the cupboards would be a pale yellow and we would have a turquoise metal oven and vinyl flooring -",
+    "exHit": "turquoise",
+    "exVi": "Trong bếp, tủ bếp sẽ có màu vàng nhạt và chúng ta sẽ có một cái lò bằng kim loại màu ngọc lam cùng sàn nhựa vinyl -"
   },
   {
     "word": "vinyl",
@@ -149,7 +203,10 @@
     "type": "",
     "def": "firm plastic which can be bend",
     "vi": "nhựa vinyl",
-    "viDef": "nhựa cứng nhưng uốn được"
+    "viDef": "nhựa cứng nhưng uốn được",
+    "ex": "In the kitchen, the cupboards would be a pale yellow and we would have a turquoise metal oven and vinyl flooring -",
+    "exHit": "vinyl",
+    "exVi": "Trong bếp, tủ bếp sẽ có màu vàng nhạt và chúng ta sẽ có một cái lò bằng kim loại màu ngọc lam cùng sàn nhựa vinyl -"
   },
   {
     "word": "sweetums",
@@ -157,7 +214,10 @@
     "type": "",
     "def": "used as a term of endearment",
     "vi": "cục vàng của em",
-    "viDef": "từ gọi thân mật đầy trìu mến"
+    "viDef": "từ gọi thân mật đầy trìu mến",
+    "ex": "But sweetums, there is always a lot of wasted space in those kinds of homes.",
+    "exHit": "sweetums",
+    "exVi": "Nhưng cục cưng à, những ngôi nhà kiểu đó luôn lãng phí rất nhiều không gian."
   },
   {
     "word": "fad",
@@ -165,7 +225,10 @@
     "type": "",
     "def": "fashion",
     "vi": "mốt thời thượng",
-    "viDef": "trào lưu thời trang"
+    "viDef": "trào lưu thời trang",
+    "ex": "Besides, it's just a fad.",
+    "exHit": "fad",
+    "exVi": "Hơn nữa, đó chỉ là mốt nhất thời thôi."
   },
   {
     "word": "homey",
@@ -173,7 +236,10 @@
     "type": "",
     "def": "having a feeling of home;comfortable",
     "vi": "ấm cúng như nhà",
-    "viDef": "có cảm giác nhà mình, dễ chịu"
+    "viDef": "có cảm giác nhà mình, dễ chịu",
+    "ex": "It doesn't have the homey feeling the old homes do.",
+    "exHit": "homey",
+    "exVi": "Nó không có cảm giác ấm cúng như những ngôi nhà cũ."
   },
   {
     "word": "sweentie-pie",
@@ -181,7 +247,10 @@
     "type": "",
     "def": "used as a term of endearment",
     "vi": "bánh ngọt của em",
-    "viDef": "từ gọi thân mật đầy trìu mến"
+    "viDef": "từ gọi thân mật đầy trìu mến",
+    "ex": "Thanks for helping with the house plans, sweetie-pie.",
+    "exHit": "sweetie-pie",
+    "exVi": "Cảm ơn em đã giúp vẽ bản thiết kế ngôi nhà, cục cưng."
   },
   {
     "word": "eco-friendly",
@@ -189,7 +258,10 @@
     "type": "",
     "def": "not harmful to the environment",
     "vi": "thân thiện môi trường",
-    "viDef": "không gây hại cho môi trường"
+    "viDef": "không gây hại cho môi trường",
+    "ex": "I want an eco-friendly house with solar panels on the roof.",
+    "exHit": "eco-friendly",
+    "exVi": "Mình muốn một ngôi nhà thân thiện với môi trường có pin mặt trời trên mái."
   },
   {
     "word": "in-floor",
@@ -197,7 +269,10 @@
     "type": "",
     "def": "installed in the floor",
     "vi": "lắp dưới sàn",
-    "viDef": "đặt ngầm trong sàn"
+    "viDef": "đặt ngầm trong sàn",
+    "ex": "We chose an in-floor heating system for the bathroom.",
+    "exHit": "in-floor",
+    "exVi": "Chúng tôi chọn hệ thống sưởi âm sàn cho phòng tắm."
   },
   {
     "word": "heating",
@@ -205,7 +280,10 @@
     "type": "",
     "def": "a system for keeping rooms warm",
     "vi": "hệ sưởi",
-    "viDef": "hệ thống giữ ấm cho các phòng"
+    "viDef": "hệ thống giữ ấm cho các phòng",
+    "ex": "It is relaxing and the house would be eco-friendly with an in-floor heating system and designed to retain the heat of the sun in the winter and keep the house cool in the summer.",
+    "exHit": "heating",
+    "exVi": "Nó rất thư giãn và ngôi nhà sẽ thân thiện với môi trường với hệ thống sưởi âm sàn, được thiết kế để giữ nhiệt mặt trời vào mùa đông và giữ nhà mát vào mùa hè."
   },
   {
     "word": "retain",
@@ -213,7 +291,10 @@
     "type": "",
     "def": "to keep or keep possession",
     "vi": "giữ lại",
-    "viDef": "giữ hoặc giữ được quyền sở hữu"
+    "viDef": "giữ hoặc giữ được quyền sở hữu",
+    "ex": "It is relaxing and the house would be eco-friendly with an in-floor heating system and designed to retain the heat of the sun in the winter and keep the house cool in the summer.",
+    "exHit": "retain",
+    "exVi": "Nó rất thư giãn và ngôi nhà sẽ thân thiện với môi trường với hệ thống sưởi âm sàn, được thiết kế để giữ nhiệt mặt trời vào mùa đông và giữ nhà mát vào mùa hè."
   },
   {
     "word": "solar",
@@ -221,7 +302,10 @@
     "type": "",
     "def": "relating to the sun, using its lingt",
     "vi": "dùng năng lượng mặt trời",
-    "viDef": "liên quan tới mặt trời, dùng ánh sáng của nó"
+    "viDef": "liên quan tới mặt trời, dùng ánh sáng của nó",
+    "ex": "We would have solar panels on the roof -",
+    "exHit": "solar",
+    "exVi": "Chúng ta sẽ có các tấm pin mặt trời trên mái nhà -"
   },
   {
     "word": "panel",
@@ -229,7 +313,10 @@
     "type": "",
     "def": "a flat section of a wall, door",
     "vi": "tấm panel",
-    "viDef": "mảng phẳng của tường hoặc cửa"
+    "viDef": "mảng phẳng của tường hoặc cửa",
+    "ex": "We would have solar panels on the roof -",
+    "exHit": "panels",
+    "exVi": "Chúng ta sẽ có các tấm pin mặt trời trên mái nhà -"
   },
   {
     "word": "vintage",
@@ -237,7 +324,10 @@
     "type": "",
     "def": "representative of the best and most typical",
     "vi": "cổ điển chọn lọc",
-    "viDef": "tiêu biểu cho những gì hay và đặc trưng nhất"
+    "viDef": "tiêu biểu cho những gì hay và đặc trưng nhất",
+    "ex": "What about your vintage furniture, dearest?",
+    "exHit": "vintage",
+    "exVi": "Còn đồ nội thất cổ của em thì sao, em yêu?"
   },
   {
     "word": "dearest",
@@ -245,7 +335,10 @@
     "type": "",
     "def": "used as terms of endearment",
     "vi": "người thương nhất",
-    "viDef": "từ gọi thân mật đầy trìu mến"
+    "viDef": "từ gọi thân mật đầy trìu mến",
+    "ex": "What about your vintage furniture, dearest?",
+    "exHit": "dearest",
+    "exVi": "Còn đồ nội thất cổ của em thì sao, em yêu?"
   },
   {
     "word": "pesticide",
@@ -253,7 +346,10 @@
     "type": "",
     "def": "a chemical substance used to kill insects",
     "vi": "thuốc trừ sâu",
-    "viDef": "hóa chất dùng diệt côn trùng"
+    "viDef": "hóa chất dùng diệt côn trùng",
+    "ex": "And instead of a lawn, which is also a lot of wasted space and would require environmentally harmful pesticides, we would have a fish pond in the backyard and a garden that would cover the whole yard so we could grow our own food!",
+    "exHit": "pesticides",
+    "exVi": "Và thay vì bãi cỏ, vốn cũng lãng phí nhiều không gian và cần dùng thuốc trừ sâu gây hại cho môi trường, chúng ta sẽ có một cái ao cá ở sân sau và một khu vườn phủ kín cả sân để tự trồng thức ăn!"
   },
   {
     "word": "fish",
@@ -261,7 +357,10 @@
     "type": "",
     "def": "a creature living in water",
     "vi": "con cá",
-    "viDef": "sinh vật sống trong nước"
+    "viDef": "sinh vật sống trong nước",
+    "ex": "And instead of a lawn, which is also a lot of wasted space and would require environmentally harmful pesticides, we would have a fish pond in the backyard and a garden that would cover the whole yard so we could grow our own food!",
+    "exHit": "fish",
+    "exVi": "Và thay vì bãi cỏ, vốn cũng lãng phí nhiều không gian và cần dùng thuốc trừ sâu gây hại cho môi trường, chúng ta sẽ có một cái ao cá ở sân sau và một khu vườn phủ kín cả sân để tự trồng thức ăn!"
   },
   {
     "word": "pond",
@@ -269,7 +368,10 @@
     "type": "",
     "def": "a small body of water",
     "vi": "cái ao",
-    "viDef": "vùng nước nhỏ"
+    "viDef": "vùng nước nhỏ",
+    "ex": "And instead of a lawn, which is also a lot of wasted space and would require environmentally harmful pesticides, we would have a fish pond in the backyard and a garden that would cover the whole yard so we could grow our own food!",
+    "exHit": "pond",
+    "exVi": "Và thay vì bãi cỏ, vốn cũng lãng phí nhiều không gian và cần dùng thuốc trừ sâu gây hại cho môi trường, chúng ta sẽ có một cái ao cá ở sân sau và một khu vườn phủ kín cả sân để tự trồng thức ăn!"
   },
   {
     "word": "buttervup",
@@ -277,7 +379,10 @@
     "type": "",
     "def": "a plant with small yellow flowers",
     "vi": "hoa mao lương",
-    "viDef": "loài cây có hoa nhỏ màu vàng"
+    "viDef": "loài cây có hoa nhỏ màu vàng",
+    "ex": "A yellow buttercup was growing next to the garden gate.",
+    "exHit": "buttercup",
+    "exVi": "Một bông hoa mao lương vàng mọc cạnh cổng vườn."
   },
   {
     "word": "technological",
@@ -285,7 +390,10 @@
     "type": "",
     "def": "based in scientific and industrial progress",
     "vi": "về công nghệ",
-    "viDef": "dựa trên tiến bộ khoa học và công nghiệp"
+    "viDef": "dựa trên tiến bộ khoa học và công nghiệp",
+    "ex": "And I thought you, Mr. Scientist, were all up on saving the planet with your technological advancements!",
+    "exHit": "technological",
+    "exVi": "Và tôi tưởng anh, ngài Nhà Khoa Học, rất ủng hộ việc cứu hành tinh bằng những tiến bộ công nghệ của mình chứ!"
   },
   {
     "word": "advancements",
@@ -293,7 +401,10 @@
     "type": "",
     "def": "improvement or development",
     "vi": "những tiến bộ",
-    "viDef": "sự cải thiện hoặc phát triển"
+    "viDef": "sự cải thiện hoặc phát triển",
+    "ex": "And I thought you, Mr. Scientist, were all up on saving the planet with your technological advancements!",
+    "exHit": "advancements",
+    "exVi": "Và tôi tưởng anh, ngài Nhà Khoa Học, rất ủng hộ việc cứu hành tinh bằng những tiến bộ công nghệ của mình chứ!"
   },
   {
     "word": "picket fence",
@@ -301,7 +412,10 @@
     "type": "",
     "def": "a fence consisting of pickets",
     "vi": "hàng rào gỗ",
-    "viDef": "rào làm từ các thanh cọc"
+    "viDef": "rào làm từ các thanh cọc",
+    "ex": "Completed with white shutters and a white picket fence!",
+    "exHit": "picket fence",
+    "exVi": "Hoàn thiện với cửa chớp trắng và hàng rào cọc trắng!"
   },
   {
     "word": "open concept",
@@ -309,7 +423,10 @@
     "type": "",
     "def": "a form or style of room",
     "vi": "không gian mở",
-    "viDef": "kiểu bố trí phòng thông nhau"
+    "viDef": "kiểu bố trí phòng thông nhau",
+    "ex": "An open concept house, all glass, wood, metal, and concrete.",
+    "exHit": "open concept",
+    "exVi": "Một ngôi nhà không gian mở, toàn kính, gỗ, kim loại và bê tông."
   },
   {
     "word": "all up on",
@@ -317,7 +434,10 @@
     "type": "",
     "def": "have all knowledge or information of something",
     "vi": "nắm hết trong tay",
-    "viDef": "biết mọi thông tin về việc gì"
+    "viDef": "biết mọi thông tin về việc gì",
+    "ex": "And I thought you, Mr. Scientist, were all up on saving the planet with your technological advancements!",
+    "exHit": "all up on",
+    "exVi": "Và tôi tưởng anh, ngài Nhà Khoa Học, rất ủng hộ việc cứu hành tinh bằng những tiến bộ công nghệ của mình chứ!"
   },
   {
     "word": "renovation",
@@ -325,7 +445,10 @@
     "type": "",
     "def": "to restore to good condition; make new or as if new again",
     "vi": "việc cải tạo",
-    "viDef": "sửa lại cho tốt, làm mới hoặc như mới"
+    "viDef": "sửa lại cho tốt, làm mới hoặc như mới",
+    "ex": "We're planning a renovation of our old kitchen next month.",
+    "exHit": "renovation",
+    "exVi": "Chúng tôi dự định cải tạo lại căn bếp cũ vào tháng tới."
   },
   {
     "word": "blueprint",
@@ -333,7 +456,10 @@
     "type": "",
     "def": "a print of architectural or technical drawings, drawn with white lines on a blue background; the layout or floorplan of a building",
     "vi": "bản vẽ thiết kế",
-    "viDef": "bản in hình kỹ thuật, nét trắng trên nền xanh; sơ đồ mặt bằng của một tòa nhà"
+    "viDef": "bản in hình kỹ thuật, nét trắng trên nền xanh; sơ đồ mặt bằng của một tòa nhà",
+    "ex": "The architect showed us the blueprint of our new house.",
+    "exHit": "blueprint",
+    "exVi": "Kiến trúc sư cho chúng tôi xem bản vẽ thiết kế của ngôi nhà mới."
   },
   {
     "word": "general contractor",
@@ -341,7 +467,10 @@
     "type": "",
     "def": "a person who contracts for and assumes responsibility for completing a construction project and hires, supervises, and pays all subcontractors",
     "vi": "nhà thầu chính",
-    "viDef": "người nhận và chịu trách nhiệm hoàn thành cả công trình, thuê, giám sát và trả tiền cho các nhà thầu phụ"
+    "viDef": "người nhận và chịu trách nhiệm hoàn thành cả công trình, thuê, giám sát và trả tiền cho các nhà thầu phụ",
+    "ex": "We hired a general contractor to manage the whole building project.",
+    "exHit": "general contractor",
+    "exVi": "Chúng tôi thuê một nhà thầu chính để quản lý toàn bộ dự án xây dựng."
   },
   {
     "word": "interior designer",
@@ -349,7 +478,10 @@
     "type": "",
     "def": "a person who specializes in designing architectural interiors and their furnishings",
     "vi": "nhà thiết kế nội thất",
-    "viDef": "người chuyên thiết kế không gian bên trong và đồ đạc"
+    "viDef": "người chuyên thiết kế không gian bên trong và đồ đạc",
+    "ex": "Our interior designer picked the colors for the living room.",
+    "exHit": "interior designer",
+    "exVi": "Nhà thiết kế nội thất của chúng tôi đã chọn màu cho phòng khách."
   },
   {
     "word": "landscape",
@@ -357,6 +489,9 @@
     "type": "",
     "def": "to adorn or improve (a section of ground) by contouring and by planting flowers, shrubs, or trees",
     "vi": "làm cảnh quan",
-    "viDef": "tôn tạo một khoảng đất bằng cách tạo hình và trồng hoa, cây bụi hoặc cây lớn"
+    "viDef": "tôn tạo một khoảng đất bằng cách tạo hình và trồng hoa, cây bụi hoặc cây lớn",
+    "ex": "A perfect lawn with minimal landscaping.",
+    "exHit": "landscaping",
+    "exVi": "Một bãi cỏ hoàn hảo với cảnh quan tối giản."
   }
 ]

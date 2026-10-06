@@ -5,7 +5,10 @@
     "type": "",
     "def": "an arrangement to secure accommodations at a restaurant or hotel",
     "vi": "việc đặt chỗ",
-    "viDef": "sự sắp xếp để giữ chỗ ở nhà hàng hoặc khách sạn"
+    "viDef": "sự sắp xếp để giữ chỗ ở nhà hàng hoặc khách sạn",
+    "ex": "Good afternoon Sir, may I please see your passport and reservation?",
+    "exHit": "reservation",
+    "exVi": "Chào buổi chiều, thưa ông, cho tôi xem hộ chiếu và giấy đặt chỗ của ông được không?"
   },
   {
     "word": "cancel",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to decide that something will not happen",
     "vi": "hủy",
-    "viDef": "quyết định rằng việc gì sẽ không diễn ra"
+    "viDef": "quyết định rằng việc gì sẽ không diễn ra",
+    "ex": "I'm sorry sir, this flight has been cancelled due to some mechanical problems.",
+    "exHit": "cancelled",
+    "exVi": "Tôi xin lỗi ông, chuyến bay này đã bị hủy do một số sự cố kỹ thuật."
   },
   {
     "word": "inconvenience",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "he quality or state of being inconvenient.",
     "vi": "sự bất tiện",
-    "viDef": "tình trạng gây phiền phức"
+    "viDef": "tình trạng gây phiền phức",
+    "ex": "We apologize for any inconveniences that may be caused by this.",
+    "exHit": "inconveniences",
+    "exVi": "Chúng tôi xin lỗi vì mọi bất tiện có thể xảy ra do việc này."
   },
   {
     "word": "urgent",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "important",
     "vi": "gấp",
-    "viDef": "quan trọng"
+    "viDef": "quan trọng",
+    "ex": "I got an urgent email from Tom!",
+    "exHit": "urgent",
+    "exVi": "Tôi nhận được một email khẩn từ Tom!"
   },
   {
     "word": "scheduled",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "planned at a specific time",
     "vi": "đã lên lịch",
-    "viDef": "được sắp xếp vào một giờ cụ thể"
+    "viDef": "được sắp xếp vào một giờ cụ thể",
+    "ex": "Actually, I've got something scheduled on Monday.",
+    "exHit": "scheduled",
+    "exVi": "Thật ra tôi có việc đã lên lịch vào thứ Hai rồi."
   },
   {
     "word": "route",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a customary or regular line of passage or travel",
     "vi": "tuyến đường",
-    "viDef": "lộ trình đi lại quen thuộc hoặc thường lệ"
+    "viDef": "lộ trình đi lại quen thuộc hoặc thường lệ",
+    "ex": "Which route should we take to get to the airport?",
+    "exHit": "route",
+    "exVi": "Chúng ta nên đi tuyến đường nào để ra sân bay?"
   },
   {
     "word": "diversion",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the act of diverting or turning aside, as from a course or purpose",
     "vi": "việc đổi hướng",
-    "viDef": "hành động chuyển hướng khỏi lộ trình hoặc mục đích ban đầu"
+    "viDef": "hành động chuyển hướng khỏi lộ trình hoặc mục đích ban đầu",
+    "ex": "Because of the storm, the plane made a diversion to Osaka.",
+    "exHit": "diversion",
+    "exVi": "Vì cơn bão, máy bay đã đổi hướng bay sang Osaka."
   },
   {
     "word": "delay",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to put off to a later time",
     "vi": "hoãn lại",
-    "viDef": "dời sang lúc muộn hơn"
+    "viDef": "dời sang lúc muộn hơn",
+    "ex": "They had to delay the flight because of heavy fog.",
+    "exHit": "delay",
+    "exVi": "Họ phải hoãn chuyến bay vì sương mù dày đặc."
   },
   {
     "word": "depart",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to go away, leave",
     "vi": "khởi hành",
-    "viDef": "đi khỏi, rời đi"
+    "viDef": "đi khỏi, rời đi",
+    "ex": "Our flight is scheduled to depart at six o'clock.",
+    "exHit": "depart",
+    "exVi": "Chuyến bay của chúng tôi dự kiến khởi hành lúc sáu giờ."
   },
   {
     "word": "refund",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "To give back, especially money; return or repay:",
     "vi": "hoàn lại",
-    "viDef": "trả lại, nhất là trả lại tiền"
+    "viDef": "trả lại, nhất là trả lại tiền",
+    "ex": "Can I get a refund for my cancelled ticket?",
+    "exHit": "refund",
+    "exVi": "Tôi có thể được hoàn tiền cho vé đã bị hủy không?"
   }
 ]

@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "an average size, not too big or small",
     "vi": "cỡ vừa",
-    "viDef": "kích thước trung bình, không to không nhỏ"
+    "viDef": "kích thước trung bình, không to không nhỏ",
+    "ex": "Um yes… I'd like a medium pizza with pepperoni, olives, and extra cheese.",
+    "exHit": "medium",
+    "exVi": "Ừm, vâng... tôi muốn một chiếc pizza cỡ vừa với xúc xích pepperoni, ô liu và thêm phô mai."
   },
   {
     "word": "total",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "complete amount you must pay",
     "vi": "tổng tiền",
-    "viDef": "toàn bộ số phải trả"
+    "viDef": "toàn bộ số phải trả",
+    "ex": "Your total is $21.",
+    "exHit": "total",
+    "exVi": "Tổng cộng của bạn là 21 đô."
   },
   {
     "word": "instead",
@@ -21,7 +27,10 @@
     "type": "General Adverb",
     "def": "in replacement of",
     "vi": "thay vào đó",
-    "viDef": "dùng thay cho cái kia"
+    "viDef": "dùng thay cho cái kia",
+    "ex": "Would you like a large pizza instead?",
+    "exHit": "instead",
+    "exVi": "Bạn có muốn dùng pizza cỡ lớn thay thế không?"
   },
   {
     "word": "sounds good",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "seems or appears to be okay, I agree",
     "vi": "nghe được đấy",
-    "viDef": "thấy ổn, tôi đồng ý"
+    "viDef": "thấy ổn, tôi đồng ý",
+    "ex": "Sure, that sounds good.",
+    "exHit": "sounds good",
+    "exVi": "Được chứ, nghe hay đấy."
   },
   {
     "word": "pepperoni",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "a spicy sausage usually on pizza",
     "vi": "xúc xích pepperoni",
-    "viDef": "loại xúc xích cay thường rắc trên pizza"
+    "viDef": "loại xúc xích cay thường rắc trên pizza",
+    "ex": "Um yes… I'd like a medium pizza with pepperoni, olives, and extra cheese.",
+    "exHit": "pepperoni",
+    "exVi": "Ừm, vâng... tôi muốn một chiếc pizza cỡ vừa với xúc xích pepperoni, ô liu và thêm phô mai."
   },
   {
     "word": "olive",
@@ -45,7 +60,10 @@
     "type": "common noun, plural",
     "def": "a small, egg-shaped black or green fruit that is used as food or for making oil",
     "vi": "quả ô-liu",
-    "viDef": "quả nhỏ hình trứng, màu đen hoặc xanh, dùng làm thức ăn hoặc ép dầu"
+    "viDef": "quả nhỏ hình trứng, màu đen hoặc xanh, dùng làm thức ăn hoặc ép dầu",
+    "ex": "Um yes… I'd like a medium pizza with pepperoni, olives, and extra cheese.",
+    "exHit": "olives",
+    "exVi": "Ừm, vâng... tôi muốn một chiếc pizza cỡ vừa với xúc xích pepperoni, ô liu và thêm phô mai."
   },
   {
     "word": "crust",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "the border of a pizza, or bread",
     "vi": "viền bánh, vỏ bánh",
-    "viDef": "phần rìa của pizza hoặc bánh mì"
+    "viDef": "phần rìa của pizza hoặc bánh mì",
+    "ex": "Oh, and make it thin crust.",
+    "exHit": "crust",
+    "exVi": "Ồ, và cho tôi đế mỏng nhé."
   },
   {
     "word": "two-for-one",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "pay for one and get another one free",
     "vi": "mua một tặng một",
-    "viDef": "trả tiền một cái được thêm một cái"
+    "viDef": "trả tiền một cái được thêm một cái",
+    "ex": "There's a two-for-one deal on large pizzas today.",
+    "exHit": "two-for-one",
+    "exVi": "Hôm nay có khuyến mãi mua một tặng một cho pizza cỡ lớn."
   },
   {
     "word": "total",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "sum of everything",
     "vi": "tổng cộng",
-    "viDef": "cộng hết lại"
+    "viDef": "cộng hết lại",
+    "ex": "Your total is $21.",
+    "exHit": "total",
+    "exVi": "Tổng cộng của bạn là 21 đô."
   },
   {
     "word": "fast food",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "food that is quickly made and convenient if you are in a hurry",
     "vi": "đồ ăn nhanh",
-    "viDef": "món làm nhanh, tiện khi đang gấp"
+    "viDef": "món làm nhanh, tiện khi đang gấp",
+    "ex": "I eat fast food when I'm in a hurry.",
+    "exHit": "fast food",
+    "exVi": "Tôi ăn đồ ăn nhanh khi đang vội."
   },
   {
     "word": "delivery",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "transported or taken to your house",
     "vi": "giao hàng",
-    "viDef": "chở hoặc đem tới nhà"
+    "viDef": "chở hoặc đem tới nhà",
+    "ex": "Do you offer delivery to my house?",
+    "exHit": "delivery",
+    "exVi": "Bên bạn có giao hàng tận nhà tôi không?"
   },
   {
     "word": "dough",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a mix of flour and water that is used to make the base of a pizza",
     "vi": "bột nhào",
-    "viDef": "hỗn hợp bột và nước để làm đế pizza"
+    "viDef": "hỗn hợp bột và nước để làm đế pizza",
+    "ex": "The pizza dough needs to rest for an hour.",
+    "exHit": "dough",
+    "exVi": "Bột làm pizza cần được ủ một tiếng."
   },
   {
     "word": "take-out",
@@ -101,6 +137,9 @@
     "type": "Adjective",
     "def": "food you take away from the restaurant to eat (AmE)",
     "vi": "đồ mang về",
-    "viDef": "món mua ở nhà hàng rồi đem đi (Anh-Mỹ)"
+    "viDef": "món mua ở nhà hàng rồi đem đi (Anh-Mỹ)",
+    "ex": "I'd like to order take-out for dinner tonight.",
+    "exHit": "take-out",
+    "exVi": "Tôi muốn gọi đồ mang đi cho bữa tối nay."
   }
 ]

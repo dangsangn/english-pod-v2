@@ -5,7 +5,10 @@
     "type": "",
     "def": "a small round piece of money usually made from met",
     "vi": "đồng xu",
-    "viDef": "miếng tiền tròn nhỏ, thường bằng kim loại"
+    "viDef": "miếng tiền tròn nhỏ, thường bằng kim loại",
+    "ex": "Help me organize these coins.",
+    "exHit": "coins",
+    "exVi": "Giúp tôi sắp xếp những đồng xu này nhé."
   },
   {
     "word": "piggy bank",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a small container used to store coins",
     "vi": "heo đất",
-    "viDef": "hộp nhỏ dùng để đựng tiền xu"
+    "viDef": "hộp nhỏ dùng để đựng tiền xu",
+    "ex": "Break the piggy bank?",
+    "exHit": "piggy bank",
+    "exVi": "Đập con heo đất nhé?"
   },
   {
     "word": "bill",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "form of money that is made from paper",
     "vi": "tờ tiền giấy",
-    "viDef": "dạng tiền làm bằng giấy"
+    "viDef": "dạng tiền làm bằng giấy",
+    "ex": "Yeah, I'm gonna go to the bank and change it for bills, but first I have to separate them into little piles.",
+    "exHit": "bills",
+    "exVi": "Ừ, tôi sẽ ra ngân hàng đổi sang tiền giấy, nhưng trước tiên phải chia chúng thành từng chồng nhỏ."
   },
   {
     "word": "quarter",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a coin worth one fourth of a dollar",
     "vi": "đồng 25 xu",
-    "viDef": "đồng tiền trị giá một phần tư đô-la"
+    "viDef": "đồng tiền trị giá một phần tư đô-la",
+    "ex": "Ok, I'll find all the quarters and dimes while you sort the nickels and pennies.",
+    "exHit": "quarters",
+    "exVi": "Được, tôi sẽ tìm hết các đồng 25 xu và 10 xu, còn bạn phân loại các đồng 5 xu và 1 xu."
   },
   {
     "word": "dime",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a coin worth one tenth of a dollar",
     "vi": "đồng 10 xu",
-    "viDef": "đồng tiền trị giá một phần mười đô-la"
+    "viDef": "đồng tiền trị giá một phần mười đô-la",
+    "ex": "Ok, I'll find all the quarters and dimes while you sort the nickels and pennies.",
+    "exHit": "dimes",
+    "exVi": "Được, tôi sẽ tìm hết các đồng 25 xu và 10 xu, còn bạn phân loại các đồng 5 xu và 1 xu."
   },
   {
     "word": "nickel",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a coin worth one twentieth of a dollar",
     "vi": "đồng 5 xu",
-    "viDef": "đồng tiền trị giá một phần hai mươi đô-la"
+    "viDef": "đồng tiền trị giá một phần hai mươi đô-la",
+    "ex": "Ok, I'll find all the quarters and dimes while you sort the nickels and pennies.",
+    "exHit": "nickels",
+    "exVi": "Được, tôi sẽ tìm hết các đồng 25 xu và 10 xu, còn bạn phân loại các đồng 5 xu và 1 xu."
   },
   {
     "word": "penny",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a coin that is worth one cent or one one hundredth",
     "vi": "đồng 1 xu",
-    "viDef": "đồng tiền trị giá một cent, tức một phần trăm đô-la"
+    "viDef": "đồng tiền trị giá một cent, tức một phần trăm đô-la",
+    "ex": "I have a couple of different pence, but in all it won't add up to one pound.",
+    "exHit": "pence",
+    "exVi": "Tôi có vài đồng pence khác nhau, nhưng cộng lại không đủ một bảng."
   },
   {
     "word": "Mint",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "To make or fabricate coins",
     "vi": "đúc tiền",
-    "viDef": "làm hoặc chế tạo ra tiền xu"
+    "viDef": "làm hoặc chế tạo ra tiền xu",
+    "ex": "The government will mint new coins next year.",
+    "exHit": "mint",
+    "exVi": "Năm sau chính phủ sẽ đúc những đồng xu mới."
   },
   {
     "word": "Treasury",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A place in which private or public funds are kept",
     "vi": "kho bạc",
-    "viDef": "nơi giữ tiền của tư nhân hoặc của công"
+    "viDef": "nơi giữ tiền của tư nhân hoặc của công",
+    "ex": "The government keeps public funds in the Treasury.",
+    "exHit": "Treasury",
+    "exVi": "Chính phủ giữ công quỹ trong Kho bạc."
   },
   {
     "word": "Safe",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A large metallic vault used to store money safely",
     "vi": "két sắt",
-    "viDef": "hầm hoặc tủ kim loại lớn dùng để cất tiền cho an toàn"
+    "viDef": "hầm hoặc tủ kim loại lớn dùng để cất tiền cho an toàn",
+    "ex": "I keep my cash in a safe at home.",
+    "exHit": "safe",
+    "exVi": "Tôi cất tiền mặt trong két sắt ở nhà."
   },
   {
     "word": "Bling",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "Slang term used for money, gold and jewelery",
     "vi": "của nả lấp lánh",
-    "viDef": "tiếng lóng chỉ tiền bạc, vàng và trang sức"
+    "viDef": "tiếng lóng chỉ tiền bạc, vàng và trang sức",
+    "ex": "He wears so much bling, gold chains and diamond rings.",
+    "exHit": "bling",
+    "exVi": "Anh ta đeo rất nhiều đồ lấp lánh, dây chuyền vàng và nhẫn kim cương."
   },
   {
     "word": "Money Press",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "Machine that prints and produces bills",
     "vi": "máy in tiền",
-    "viDef": "máy in và làm ra tiền giấy"
+    "viDef": "máy in và làm ra tiền giấy",
+    "ex": "The money press prints thousands of bills every hour.",
+    "exHit": "money press",
+    "exVi": "Máy in tiền in ra hàng nghìn tờ tiền mỗi giờ."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "having a lot of wrinkles",
     "vi": "nhăn nheo",
-    "viDef": "có nhiều nếp nhăn"
+    "viDef": "có nhiều nếp nhăn",
+    "ex": "I can't wait to grow old and wrinkly with you.",
+    "exHit": "wrinkly",
+    "exVi": "Em không thể đợi đến lúc cùng anh già đi và da nhăn nheo."
   },
   {
     "word": "propose",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "ask someone to marry you",
     "vi": "cầu hôn",
-    "viDef": "ngỏ lời xin cưới"
+    "viDef": "ngỏ lời xin cưới",
+    "ex": "Oh don't worry sweetie, I didn't know when you were going to propose.",
+    "exHit": "propose",
+    "exVi": "Ôi đừng lo em yêu, anh không biết khi nào em sẽ cầu hôn đâu."
   },
   {
     "word": "rough",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "simple or that needs further changes, etc.",
     "vi": "sơ bộ",
-    "viDef": "còn đơn giản, cần sửa thêm"
+    "viDef": "còn đơn giản, cần sửa thêm",
+    "ex": "This is only a rough list, so we can change it later.",
+    "exHit": "rough",
+    "exVi": "Đây chỉ là danh sách sơ bộ, nên sau này chúng ta có thể thay đổi."
   },
   {
     "word": "venue",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the place where an event takes place",
     "vi": "địa điểm tổ chức",
-    "viDef": "nơi diễn ra một sự kiện"
+    "viDef": "nơi diễn ra một sự kiện",
+    "ex": "So roughly four hundred people, which means that the hall at Northwood Heights will be our reception venue.",
+    "exHit": "venue",
+    "exVi": "Vậy khoảng bốn trăm người, nghĩa là sảnh ở Northwood Heights sẽ là địa điểm tổ chức tiệc cưới của chúng ta."
   },
   {
     "word": "officiate",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to perform the official duties of a ceremony",
     "vi": "chủ trì buổi lễ",
-    "viDef": "thực hiện phần nghi thức chính thức"
+    "viDef": "thực hiện phần nghi thức chính thức",
+    "ex": "My uncle is a pastor, so he will officiate at our wedding.",
+    "exHit": "officiate",
+    "exVi": "Chú tôi là mục sư, nên chú sẽ chủ trì lễ cưới của chúng tôi."
   },
   {
     "word": "no-brainer",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "Something so simple as to require no thought",
     "vi": "khỏi phải nghĩ",
-    "viDef": "chuyện đơn giản đến mức không cần suy tính"
+    "viDef": "chuyện đơn giản đến mức không cần suy tính",
+    "ex": "Choosing the beach for our wedding was a no-brainer for both of us.",
+    "exHit": "no-brainer",
+    "exVi": "Chọn bãi biển cho đám cưới là chuyện quá dễ quyết định với cả hai chúng tôi."
   },
   {
     "word": "caterer",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "someone who provides food and service",
     "vi": "bên lo tiệc",
-    "viDef": "người cung cấp đồ ăn và phục vụ"
+    "viDef": "người cung cấp đồ ăn và phục vụ",
+    "ex": "And then of course the ladies at the church would love to be our caterers for the banquet and we'll get the Youth Group to serve us.",
+    "exHit": "caterers",
+    "exVi": "Và tất nhiên các bà ở nhà thờ sẽ rất vui được làm người phục vụ tiệc cho bữa tiệc, còn Nhóm Thanh niên sẽ phục vụ chúng ta."
   },
   {
     "word": "decor",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the way something is decorated",
     "vi": "cách trang trí",
-    "viDef": "lối bài trí của một chỗ"
+    "viDef": "lối bài trí của một chỗ",
+    "ex": "Your sister's husband could get us a discount with that company that does the decor at weddings.",
+    "exHit": "decor",
+    "exVi": "Chồng của chị em có thể giúp mình được giảm giá ở công ty chuyên lo phần trang trí đám cưới."
   },
   {
     "word": "decor",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the way something is decorated",
     "vi": "cách trang trí",
-    "viDef": "lối bài trí của một chỗ"
+    "viDef": "lối bài trí của một chỗ",
+    "ex": "Your sister's husband could get us a discount with that company that does the decor at weddings.",
+    "exHit": "decor",
+    "exVi": "Chồng của chị em có thể giúp mình được giảm giá ở công ty chuyên lo phần trang trí đám cưới."
   },
   {
     "word": "florist",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "someone who grows and deals in flowers",
     "vi": "người bán hoa",
-    "viDef": "người trồng và kinh doanh hoa"
+    "viDef": "người trồng và kinh doanh hoa",
+    "ex": "Oh, your uncle could be our florist and his wife could make our wedding cake!",
+    "exHit": "florist",
+    "exVi": "Ồ, chú của anh có thể làm người bán hoa cho chúng ta và vợ chú ấy có thể làm bánh cưới!"
   },
   {
     "word": "favor",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "souvenir with a small gift in given to a guest at",
     "vi": "quà nhỏ tặng khách",
-    "viDef": "món lưu niệm nhỏ tặng khách dự tiệc"
+    "viDef": "món lưu niệm nhỏ tặng khách dự tiệc",
+    "ex": "What do you think of small packages of drink mixes for our wedding favors?",
+    "exHit": "favors",
+    "exVi": "Anh thấy mấy gói nhỏ đồ uống pha sẵn làm quà cưới cho khách thì sao?"
   },
   {
     "word": "toast",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a celebrity who receives much acclaim and attention",
     "vi": "người được nâng ly chúc",
-    "viDef": "người nổi bật, được nhiều lời tán thưởng và chú ý"
+    "viDef": "người nổi bật, được nhiều lời tán thưởng và chú ý",
+    "ex": "The young singer is the toast of the town after her new album.",
+    "exHit": "toast",
+    "exVi": "Nữ ca sĩ trẻ đang là người được cả thành phố ngưỡng mộ sau album mới."
   },
   {
     "word": "unexpected",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "to be surprised by a given situation",
     "vi": "ngoài dự tính",
-    "viDef": "bị bất ngờ trước một tình huống"
+    "viDef": "bị bất ngờ trước một tình huống",
+    "ex": "The rain on our wedding day was a really unexpected problem.",
+    "exHit": "unexpected",
+    "exVi": "Cơn mưa vào ngày cưới là một rắc rối thật bất ngờ."
   },
   {
     "word": "nervous",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "to have anxiety",
     "vi": "lo lắng",
-    "viDef": "có cảm giác bồn chồn"
+    "viDef": "có cảm giác bồn chồn",
+    "ex": "I was so nervous before my speech at the wedding.",
+    "exHit": "nervous",
+    "exVi": "Tôi đã rất lo lắng trước bài phát biểu của mình ở đám cưới."
   },
   {
     "word": "budget",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "to be financially observant",
     "vi": "tính toán chi tiêu",
-    "viDef": "để ý tới mặt tiền bạc"
+    "viDef": "để ý tới mặt tiền bạc",
+    "ex": "No need to sweat it My parents agreed to pay for most of the wedding, which is going to be low-budget anyway.",
+    "exHit": "budget",
+    "exVi": "Đừng lo, bố mẹ em đã đồng ý trả phần lớn chi phí đám cưới, dù sao cũng là đám cưới ngân sách thấp."
   },
   {
     "word": "overwhelmed",
@@ -125,6 +170,9 @@
     "type": "",
     "def": "to have a excess of emotions",
     "vi": "ngợp cảm xúc",
-    "viDef": "cảm xúc dồn lên quá nhiều"
+    "viDef": "cảm xúc dồn lên quá nhiều",
+    "ex": "She felt overwhelmed by all the wedding plans and phone calls.",
+    "exHit": "overwhelmed",
+    "exVi": "Cô ấy thấy choáng ngợp trước mọi kế hoạch và cuộc gọi cho đám cưới."
   }
 ]

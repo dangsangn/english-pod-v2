@@ -5,7 +5,10 @@
     "type": "principle verb, present progressive",
     "def": "to rub your skin to stop an itch",
     "vi": "gãi",
-    "viDef": "chà lên da cho đỡ ngứa"
+    "viDef": "chà lên da cho đỡ ngứa",
+    "ex": "Why are you scratching so much?",
+    "exHit": "scratching",
+    "exVi": "Sao bạn gãi nhiều thế?"
   },
   {
     "word": "itchy",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "an unpleasant feeling on your skin, makes you want to scratch",
     "vi": "ngứa ngáy",
-    "viDef": "cảm giác khó chịu trên da, làm muốn gãi"
+    "viDef": "cảm giác khó chịu trên da, làm muốn gãi",
+    "ex": "I feel itchy!",
+    "exHit": "itchy",
+    "exVi": "Tôi thấy ngứa quá!"
   },
   {
     "word": "come down with (something)",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "to become ill",
     "vi": "nhiễm bệnh",
-    "viDef": "bắt đầu đổ bệnh"
+    "viDef": "bắt đầu đổ bệnh",
+    "ex": "I think I may be coming down with something.",
+    "exHit": "coming down with",
+    "exVi": "Tôi nghĩ mình có thể sắp bị ốm rồi."
   },
   {
     "word": "lightheaded",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "to feel dizzy",
     "vi": "choáng đầu",
-    "viDef": "thấy chóng mặt"
+    "viDef": "thấy chóng mặt",
+    "ex": "I feel lightheaded and weak.",
+    "exHit": "lightheaded",
+    "exVi": "Tôi thấy choáng váng và yếu người."
   },
   {
     "word": "chicken pox",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "a childhood disease that leaves red spots on the skin",
     "vi": "bệnh thủy đậu",
-    "viDef": "bệnh trẻ con để lại các nốt đỏ trên da"
+    "viDef": "bệnh trẻ con để lại các nốt đỏ trên da",
+    "ex": "I think you have chicken pox!",
+    "exHit": "chicken pox",
+    "exVi": "Tôi nghĩ bạn bị thủy đậu rồi!"
   },
   {
     "word": "contagious",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "having a sickness that can be passed to someone else",
     "vi": "lây được",
-    "viDef": "mang bệnh có thể truyền sang người khác"
+    "viDef": "mang bệnh có thể truyền sang người khác",
+    "ex": "You are contagious!",
+    "exHit": "contagious",
+    "exVi": "Bạn đang lây bệnh đấy!"
   },
   {
     "word": "rash",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "a skin irritation",
     "vi": "nốt mẩn",
-    "viDef": "chỗ da bị kích ứng"
+    "viDef": "chỗ da bị kích ứng",
+    "ex": "Maybe it's just a rash or an allergy!",
+    "exHit": "rash",
+    "exVi": "Có thể chỉ là phát ban hoặc dị ứng thôi!"
   },
   {
     "word": "allergy",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "medical condition that causes someone to become sick after eating, touching, or breathing something",
     "vi": "dị ứng",
-    "viDef": "tình trạng phát bệnh sau khi ăn, chạm hoặc hít phải thứ gì"
+    "viDef": "tình trạng phát bệnh sau khi ăn, chạm hoặc hít phải thứ gì",
+    "ex": "Maybe it's just a rash or an allergy!",
+    "exHit": "allergy",
+    "exVi": "Có thể chỉ là phát ban hoặc dị ứng thôi!"
   },
   {
     "word": "in the meantime",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "for the present time",
     "vi": "trong lúc đó",
-    "viDef": "tạm thời bây giờ"
+    "viDef": "tạm thời bây giờ",
+    "ex": "Well in the meantime you are a biohazard!",
+    "exHit": "in the meantime",
+    "exVi": "Thế thì trong lúc này bạn là mối nguy sinh học đấy!"
   },
   {
     "word": "biohazard",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a harmful substance",
     "vi": "chất nguy hại sinh học",
-    "viDef": "chất gây hại"
+    "viDef": "chất gây hại",
+    "ex": "Well in the meantime you are a biohazard!",
+    "exHit": "biohazard",
+    "exVi": "Thế thì trong lúc này bạn là mối nguy sinh học đấy!"
   },
   {
     "word": "blow (something) out of proportion",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "to make something seem more serious",
     "vi": "thổi phồng",
-    "viDef": "làm cho chuyện nghe nghiêm trọng hơn thực tế"
+    "viDef": "làm cho chuyện nghe nghiêm trọng hơn thực tế",
+    "ex": "You always blow things out of proportion.",
+    "exHit": "blow things out of proportion",
+    "exVi": "Bạn lúc nào cũng làm mọi chuyện nghiêm trọng quá mức."
   },
   {
     "word": "in the meantime",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "for the present time",
     "vi": "trong lúc đó",
-    "viDef": "tạm thời bây giờ"
+    "viDef": "tạm thời bây giờ",
+    "ex": "Well in the meantime you are a biohazard!",
+    "exHit": "in the meantime",
+    "exVi": "Thế thì trong lúc này bạn là mối nguy sinh học đấy!"
   },
   {
     "word": "flu",
@@ -101,7 +137,10 @@
     "type": "common noun, non-variable",
     "def": "influenza, a contagious virus",
     "vi": "bệnh cúm",
-    "viDef": "influenza, loại virus lây nhiễm"
+    "viDef": "influenza, loại virus lây nhiễm",
+    "ex": "Half of my class stayed home last week because of the flu.",
+    "exHit": "flu",
+    "exVi": "Một nửa lớp tôi nghỉ ở nhà tuần trước vì bị cúm."
   },
   {
     "word": "cold",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a contagious common sickness",
     "vi": "cảm lạnh",
-    "viDef": "bệnh thường gặp và lây được"
+    "viDef": "bệnh thường gặp và lây được",
+    "ex": "I caught a cold after walking in the rain without an umbrella.",
+    "exHit": "cold",
+    "exVi": "Tôi bị cảm sau khi đi bộ dưới mưa mà không mang ô."
   },
   {
     "word": "fever",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "a high body temperature caused by illness",
     "vi": "sốt",
-    "viDef": "nhiệt độ cơ thể tăng cao do bệnh"
+    "viDef": "nhiệt độ cơ thể tăng cao do bệnh",
+    "ex": "The doctor said I had a fever and told me to rest.",
+    "exHit": "fever",
+    "exVi": "Bác sĩ nói tôi bị sốt và bảo tôi nghỉ ngơi."
   },
   {
     "word": "nauseous",
@@ -125,7 +170,10 @@
     "type": "Adjective",
     "def": "feelings of upset stomach and dizziness caused by illness",
     "vi": "buồn nôn",
-    "viDef": "cảm giác xót bụng và chóng mặt khi bệnh"
+    "viDef": "cảm giác xót bụng và chóng mặt khi bệnh",
+    "ex": "The boat ride made me feel so nauseous that I couldn't eat.",
+    "exHit": "nauseous",
+    "exVi": "Chuyến đi thuyền làm tôi buồn nôn đến mức không ăn nổi gì."
   },
   {
     "word": "allergic",
@@ -133,6 +181,9 @@
     "type": "Adjective",
     "def": "having allergies to something",
     "vi": "bị dị ứng",
-    "viDef": "có phản ứng dị ứng với thứ gì"
+    "viDef": "có phản ứng dị ứng với thứ gì",
+    "ex": "My brother is allergic to peanuts, so he never eats them.",
+    "exHit": "allergic",
+    "exVi": "Anh trai tôi bị dị ứng với đậu phộng nên không bao giờ ăn chúng."
   }
 ]

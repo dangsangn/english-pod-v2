@@ -5,7 +5,10 @@
     "type": "",
     "def": "informal way of calling a man",
     "vi": "ông bạn",
-    "viDef": "cách gọi người nam thân mật"
+    "viDef": "cách gọi người nam thân mật",
+    "ex": "Dude!",
+    "exHit": "Dude",
+    "exVi": "Này anh bạn!"
   },
   {
     "word": "kick",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "power",
     "vi": "độ nặng đô",
-    "viDef": "sức mạnh"
+    "viDef": "sức mạnh",
+    "ex": "Order something with a little more kick to it!",
+    "exHit": "kick",
+    "exVi": "Gọi món nào có vị mạnh hơn một chút đi!"
   },
   {
     "word": "tab",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "an account of expenses that is required to be paid when wanted.",
     "vi": "hóa đơn ghi nợ",
-    "viDef": "bảng ghi các khoản đã dùng, phải trả khi được yêu cầu"
+    "viDef": "bảng ghi các khoản đã dùng, phải trả khi được yêu cầu",
+    "ex": "Put it on my tab.",
+    "exHit": "tab",
+    "exVi": "Cứ ghi vào hóa đơn của tôi."
   },
   {
     "word": "wasted",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "drunk",
     "vi": "say mèm",
-    "viDef": "say rượu"
+    "viDef": "say rượu",
+    "ex": "This is going to get me wasted!",
+    "exHit": "wasted",
+    "exVi": "Ly này sẽ làm tôi say bí tỉ mất!"
   },
   {
     "word": "kidding",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "fool or joke",
     "vi": "giỡn",
-    "viDef": "trêu, nói đùa"
+    "viDef": "trêu, nói đùa",
+    "ex": "You have to be kidding me!",
+    "exHit": "kidding",
+    "exVi": "Bạn đang đùa tôi đấy à!"
   },
   {
     "word": "order",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "ask for something",
     "vi": "gọi món",
-    "viDef": "yêu cầu thứ gì"
+    "viDef": "yêu cầu thứ gì",
+    "ex": "You can't order a Cosmo!",
+    "exHit": "order",
+    "exVi": "Bạn không được gọi Cosmo đâu!"
   },
   {
     "word": "cosmo",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "name of a drink",
     "vi": "cocktail cosmo",
-    "viDef": "tên một loại đồ uống"
+    "viDef": "tên một loại đồ uống",
+    "ex": "You can't order a Cosmo!",
+    "exHit": "Cosmo",
+    "exVi": "Bạn không được gọi Cosmo đâu!"
   },
   {
     "word": "sex on the beach",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "alcoholic drink that contains Schnapps, peach Vodka, Cranberry Juice and Orange Juice",
     "vi": "cocktail Sex on the Beach",
-    "viDef": "đồ uống có cồn gồm rượu Schnapps, vodka đào, nước ép nam việt quất và nước cam"
+    "viDef": "đồ uống có cồn gồm rượu Schnapps, vodka đào, nước ép nam việt quất và nước cam",
+    "ex": "I'll have a sex on the beach.",
+    "exHit": "sex on the beach",
+    "exVi": "Tôi sẽ uống một ly Sex on the Beach."
   },
   {
     "word": "bloody mary",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "alchoholic drink that contains vodka, tomato juice, Worcestershire sauce,Tabasco sauce, celery stick and ground white pepper",
     "vi": "cocktail Bloody Mary",
-    "viDef": "đồ uống có cồn gồm vodka, nước cà chua, sốt Worcestershire, sốt Tabasco, cọng cần tây và tiêu trắng xay"
+    "viDef": "đồ uống có cồn gồm vodka, nước cà chua, sốt Worcestershire, sốt Tabasco, cọng cần tây và tiêu trắng xay",
+    "ex": "I'll have a bloody mary with extra pepper, please.",
+    "exHit": "bloody mary",
+    "exVi": "Cho tôi một ly Bloody Mary thêm nhiều tiêu nhé."
   },
   {
     "word": "hang over",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "Unpleasant physical effects following the heavy use of alcohol",
     "vi": "dư vị say",
-    "viDef": "các triệu chứng khó chịu sau khi uống nhiều rượu"
+    "viDef": "các triệu chứng khó chịu sau khi uống nhiều rượu",
+    "ex": "I woke up with a terrible hang over after the party.",
+    "exHit": "hang over",
+    "exVi": "Tôi thức dậy với cơn nôn nao khủng khiếp sau bữa tiệc."
   },
   {
     "word": "bouncer",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "a person who is employed at a bar or nightclub to eject disorderly persons.",
     "vi": "bảo vệ quán",
-    "viDef": "người được thuê ở quán bar hoặc hộp đêm để tống những kẻ quậy phá ra"
+    "viDef": "người được thuê ở quán bar hoặc hộp đêm để tống những kẻ quậy phá ra",
+    "ex": "The bouncer asked the loud guy to leave the club.",
+    "exHit": "bouncer",
+    "exVi": "Người bảo vệ yêu cầu anh chàng ồn ào rời khỏi câu lạc bộ."
   },
   {
     "word": "disk jockey",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "a person who selects, plays, and announces records at a nightclub or radio station",
     "vi": "DJ",
-    "viDef": "người chọn, phát và giới thiệu các bản nhạc ở hộp đêm hoặc đài phát thanh"
+    "viDef": "người chọn, phát và giới thiệu các bản nhạc ở hộp đêm hoặc đài phát thanh",
+    "ex": "The disk jockey played my favorite song at midnight.",
+    "exHit": "disk jockey",
+    "exVi": "DJ đã chơi bài hát tôi thích nhất vào lúc nửa đêm."
   }
 ]

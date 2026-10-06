@@ -5,7 +5,10 @@
     "type": "",
     "def": "a bad-tempered person",
     "vi": "người hay càm ràm",
-    "viDef": "người tính khí hay khó chịu"
+    "viDef": "người tính khí hay khó chịu",
+    "ex": "Honestly, you can be such a grouch sometimes.",
+    "exHit": "grouch",
+    "exVi": "Thành thật mà nói, đôi khi bạn đúng là người cáu gắt."
   },
   {
     "word": "knock oneself out",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "go ahead; do as you please",
     "vi": "cứ thoải mái",
-    "viDef": "làm đi, tùy ý bạn"
+    "viDef": "làm đi, tùy ý bạn",
+    "ex": "If you want to redecorate the whole tree, go ahead and knock yourself out.",
+    "exHit": "knock yourself out",
+    "exVi": "Nếu bạn muốn trang trí lại cả cây thông thì cứ tự nhiên đi."
   },
   {
     "word": "head to",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "go directly to",
     "vi": "đi thẳng tới",
-    "viDef": "đến thẳng một nơi"
+    "viDef": "đến thẳng một nơi",
+    "ex": "We should get ready and head to the market to buy everything for the Christmas dinner tonight.",
+    "exHit": "head to",
+    "exVi": "Chúng ta nên chuẩn bị rồi đi thẳng ra chợ mua mọi thứ cho bữa tối Giáng Sinh hôm nay."
   },
   {
     "word": "host",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "hold an activity",
     "vi": "đứng ra tổ chức",
-    "viDef": "làm chủ một hoạt động"
+    "viDef": "làm chủ một hoạt động",
+    "ex": "It's the first time we are hosting Christmas dinner at our house so everything has to be perfect.",
+    "exHit": "hosting",
+    "exVi": "Đây là lần đầu nhà mình tổ chức bữa tối Giáng Sinh nên mọi thứ phải thật hoàn hảo."
   },
   {
     "word": "set",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "ready for something (informal)",
     "vi": "xong xuôi",
-    "viDef": "đã chuẩn bị sẵn (thân mật)"
+    "viDef": "đã chuẩn bị sẵn (thân mật)",
+    "ex": "My dad offered to bring the eggnog so we should be set!",
+    "exHit": "set",
+    "exVi": "Bố mình nhận mang rượu eggnog đến nên chắc là chúng ta ổn rồi!"
   },
   {
     "word": "cannot sit still",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "cannot sit patiently while waiting due to excitement, anxiety, etc",
     "vi": "ngồi không yên",
-    "viDef": "không thể ngồi chờ vì háo hức, sốt ruột"
+    "viDef": "không thể ngồi chờ vì háo hức, sốt ruột",
+    "ex": "The kids can't sit still on Christmas Eve because they want their presents.",
+    "exHit": "can't sit still",
+    "exVi": "Tối Giáng Sinh bọn trẻ không thể ngồi yên vì chúng muốn nhận quà."
   },
   {
     "word": "bursting with excitement",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "being so excited that one feels as though it is bursting out from within themself",
     "vi": "vui như muốn nổ",
-    "viDef": "háo hức đến mức cảm giác chực bung ra"
+    "viDef": "háo hức đến mức cảm giác chực bung ra",
+    "ex": "My little brother is bursting with excitement about Santa coming tonight.",
+    "exHit": "bursting with excitement",
+    "exVi": "Em trai mình háo hức đến mức như sắp nổ tung vì tối nay ông già Noel sẽ đến."
   },
   {
     "word": "wrapping paper",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "heavy decorated paper used to wrap gifts",
     "vi": "giấy gói quà",
-    "viDef": "giấy dày có in hoa dùng bọc quà"
+    "viDef": "giấy dày có in hoa dùng bọc quà",
+    "ex": "Pass me the wrapping paper and some tape, please.",
+    "exHit": "wrapping paper",
+    "exVi": "Đưa giúp mình giấy gói quà và ít băng dính nhé."
   },
   {
     "word": "candy cane",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a striped stick of peppermint candy with the top curved to resemble a walking cane",
     "vi": "kẹo gậy",
-    "viDef": "thanh kẹo bạc hà có sọc, đầu uốn cong như cây gậy đi"
+    "viDef": "thanh kẹo bạc hà có sọc, đầu uốn cong như cây gậy đi",
+    "ex": "I hung a candy cane on every branch of the tree.",
+    "exHit": "candy cane",
+    "exVi": "Mình treo một cây kẹo gậy lên mỗi cành của cây thông."
   },
   {
     "word": "hot cocoa/chocolate",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "a beverage made from cocoa powder and milk and sugar; usually drunk hot",
     "vi": "ca cao nóng",
-    "viDef": "thức uống pha từ bột ca cao với sữa và đường, thường uống nóng"
+    "viDef": "thức uống pha từ bột ca cao với sữa và đường, thường uống nóng",
+    "ex": "After playing in the snow, we all had hot cocoa by the fire.",
+    "exHit": "hot cocoa",
+    "exVi": "Sau khi chơi tuyết, cả nhà uống ca cao nóng bên lò sưởi."
   }
 ]

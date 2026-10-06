@@ -5,7 +5,10 @@
     "type": "",
     "def": "a meal laid out on a table or sideboard so that guests may serve themselves",
     "vi": "tiệc tự chọn",
-    "viDef": "bữa ăn bày sẵn trên bàn hoặc tủ để khách tự lấy"
+    "viDef": "bữa ăn bày sẵn trên bàn hoặc tủ để khách tự lấy",
+    "ex": "Yes, a buffet breakfast is served every morning.",
+    "exHit": "buffet",
+    "exVi": "Vâng, bữa sáng tự chọn được phục vụ mỗi sáng."
   },
   {
     "word": "reservation",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "an arrangement to secure accommodations at a restaurant or hotel",
     "vi": "việc đặt chỗ",
-    "viDef": "sự sắp xếp để giữ chỗ ở nhà hàng hoặc khách sạn"
+    "viDef": "sự sắp xếp để giữ chỗ ở nhà hàng hoặc khách sạn",
+    "ex": "Good afternoon Sir, may I please see your passport and reservation?",
+    "exHit": "reservation",
+    "exVi": "Chào buổi chiều, thưa ông, cho tôi xem hộ chiếu và giấy đặt chỗ của ông được không?"
   },
   {
     "word": "availablity",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the quality of being at hand when needed",
     "vi": "tình trạng còn chỗ",
-    "viDef": "việc sẵn có khi cần"
+    "viDef": "việc sẵn có khi cần",
+    "ex": "Let me check the room's availability for this weekend.",
+    "exHit": "availability",
+    "exVi": "Để tôi kiểm tra xem cuối tuần này còn phòng trống không."
   },
   {
     "word": "check in",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "confirm details at at front desk",
     "vi": "làm thủ tục nhận phòng",
-    "viDef": "xác nhận thông tin ở quầy lễ tân"
+    "viDef": "xác nhận thông tin ở quầy lễ tân",
+    "ex": "OK ma'am, can you tell me the date you expect to check in?",
+    "exHit": "check in",
+    "exVi": "Vâng thưa bà, bà có thể cho tôi biết ngày bà dự định nhận phòng không?"
   },
   {
     "word": "superior",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "better than others",
     "vi": "hạng cao hơn",
-    "viDef": "tốt hơn các loại khác"
+    "viDef": "tốt hơn các loại khác",
+    "ex": "OK, I would like to reserve the superior suite.",
+    "exHit": "superior",
+    "exVi": "Được, tôi muốn đặt phòng suite hạng sang."
   },
   {
     "word": "suite",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a connected series of rooms to be used together",
     "vi": "phòng suite",
-    "viDef": "chuỗi phòng thông nhau dùng chung"
+    "viDef": "chuỗi phòng thông nhau dùng chung",
+    "ex": "OK, I would like to reserve the superior suite.",
+    "exHit": "suite",
+    "exVi": "Được, tôi muốn đặt phòng suite hạng sang."
   },
   {
     "word": "reserve",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to keep back or save for future use",
     "vi": "giữ chỗ",
-    "viDef": "để dành hoặc giữ lại cho lần sau"
+    "viDef": "để dành hoặc giữ lại cho lần sau",
+    "ex": "OK, I would like to reserve the superior suite.",
+    "exHit": "reserve",
+    "exVi": "Được, tôi muốn đặt phòng suite hạng sang."
   },
   {
     "word": "room service",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "Food and beverages served to a guest in his or her hotel room.",
     "vi": "phục vụ tại phòng",
-    "viDef": "đồ ăn và thức uống mang tới tận phòng cho khách"
+    "viDef": "đồ ăn và thức uống mang tới tận phòng cho khách",
+    "ex": "Let's order breakfast through room service tomorrow morning.",
+    "exHit": "room service",
+    "exVi": "Sáng mai mình gọi bữa sáng qua dịch vụ phòng nhé."
   },
   {
     "word": "concierge",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "some one who handles luggage and mail, makes reservations, and arranges tours",
     "vi": "nhân viên hỗ trợ khách",
-    "viDef": "người lo hành lý và thư từ, đặt chỗ và sắp xếp các chuyến tham quan"
+    "viDef": "người lo hành lý và thư từ, đặt chỗ và sắp xếp các chuyến tham quan",
+    "ex": "Ask the concierge to book us a tour of the city.",
+    "exHit": "concierge",
+    "exVi": "Hãy nhờ nhân viên hướng dẫn khách sạn đặt cho chúng ta một tour tham quan thành phố."
   },
   {
     "word": "maid",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A woman servant employed in cleaning.",
     "vi": "nhân viên dọn phòng",
-    "viDef": "người nữ được thuê để làm việc dọn dẹp"
+    "viDef": "người nữ được thuê để làm việc dọn dẹp",
+    "ex": "The maid comes every morning to clean the room.",
+    "exHit": "maid",
+    "exVi": "Cô hầu phòng đến dọn phòng mỗi sáng."
   },
   {
     "word": "chauffeur",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "To serve as a driver for another person",
     "vi": "tài xế riêng",
-    "viDef": "làm người lái xe cho người khác"
+    "viDef": "làm người lái xe cho người khác",
+    "ex": "The hotel will chauffeur us to the airport tonight.",
+    "exHit": "chauffeur",
+    "exVi": "Tối nay khách sạn sẽ lái xe đưa chúng ta ra sân bay."
   }
 ]

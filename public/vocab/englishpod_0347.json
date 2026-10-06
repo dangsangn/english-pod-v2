@@ -5,7 +5,10 @@
     "type": "",
     "def": "A form of identification that allows someone to travel.",
     "vi": "hộ chiếu",
-    "viDef": "loại giấy tờ tùy thân cho phép một người đi lại"
+    "viDef": "loại giấy tờ tùy thân cho phép một người đi lại",
+    "ex": "Good afternoon, passport and arrival card please.",
+    "exHit": "passport",
+    "exVi": "Chào buổi chiều, xin cho xem hộ chiếu và thẻ nhập cảnh."
   },
   {
     "word": "arrival",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "n act of arriving; a coming",
     "vi": "việc nhập cảnh",
-    "viDef": "hành động tới nơi, sự đến"
+    "viDef": "hành động tới nơi, sự đến",
+    "ex": "Good afternoon, passport and arrival card please.",
+    "exHit": "arrival",
+    "exVi": "Chào buổi chiều, xin cho xem hộ chiếu và thẻ nhập cảnh."
   },
   {
     "word": "residence",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the place, esp. the house, in which a person lives or resides; dwelling place; home",
     "vi": "nơi cư trú",
-    "viDef": "chỗ, nhất là ngôi nhà, mà một người sống hoặc trú ngụ"
+    "viDef": "chỗ, nhất là ngôi nhà, mà một người sống hoặc trú ngụ",
+    "ex": "Is this your country of birth or residence.",
+    "exHit": "residence",
+    "exVi": "Đây là quốc gia nơi bạn sinh ra hay nơi bạn cư trú?"
   },
   {
     "word": "traveller",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a person or thing that travels.",
     "vi": "người đi lại",
-    "viDef": "người hoặc vật đang di chuyển"
+    "viDef": "người hoặc vật đang di chuyển",
+    "ex": "I have some travellers cheques and two credit cards.",
+    "exHit": "travellers",
+    "exVi": "Tôi có một ít séc du lịch và hai thẻ tín dụng."
   },
   {
     "word": "declare",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to state something officially",
     "vi": "khai báo",
-    "viDef": "trình bày điều gì một cách chính thức"
+    "viDef": "trình bày điều gì một cách chính thức",
+    "ex": "Do you have anything to declare?",
+    "exHit": "declare",
+    "exVi": "Bạn có gì cần khai báo không?"
   },
   {
     "word": "purpose",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "reason for doing something",
     "vi": "mục đích",
-    "viDef": "lý do làm việc gì"
+    "viDef": "lý do làm việc gì",
+    "ex": "What is the purpose of your visit to the United States?",
+    "exHit": "purpose",
+    "exVi": "Mục đích chuyến thăm của bạn đến Hoa Kỳ là gì?"
   },
   {
     "word": "vacation",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "have holidays",
     "vi": "đi nghỉ",
-    "viDef": "nghỉ phép, đi chơi"
+    "viDef": "nghỉ phép, đi chơi",
+    "ex": "I thought you were on vacation now.",
+    "exHit": "vacation",
+    "exVi": "Tôi tưởng bạn đang đi nghỉ rồi chứ."
   },
   {
     "word": "metal detector",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "an electronic device for detecting the presence of metal objects",
     "vi": "máy dò kim loại",
-    "viDef": "thiết bị điện tử phát hiện có vật kim loại"
+    "viDef": "thiết bị điện tử phát hiện có vật kim loại",
+    "ex": "I walked through the metal detector and the alarm went off.",
+    "exHit": "metal detector",
+    "exVi": "Tôi đi qua máy dò kim loại và chuông báo động reo lên."
   },
   {
     "word": "luggage",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "baggage such as suit cases and personal belongings.",
     "vi": "hành lý",
-    "viDef": "túi xách như vali và đồ dùng cá nhân"
+    "viDef": "túi xách như vali và đồ dùng cá nhân",
+    "ex": "Please put your luggage on the belt for inspection.",
+    "exHit": "luggage",
+    "exVi": "Vui lòng đặt hành lý của bạn lên băng chuyền để kiểm tra."
   },
   {
     "word": "Terroist",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a person, usually a member of a group, who uses or advocates terrorism.",
     "vi": "kẻ khủng bố",
-    "viDef": "người, thường thuộc một nhóm, dùng hoặc cổ vũ hành vi khủng bố"
+    "viDef": "người, thường thuộc một nhóm, dùng hoặc cổ vũ hành vi khủng bố",
+    "ex": "The officers at the airport are trained to stop any terrorist.",
+    "exHit": "terrorist",
+    "exVi": "Các nhân viên ở sân bay được huấn luyện để ngăn chặn mọi kẻ khủng bố."
   },
   {
     "word": "body scanner",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "a device that virtually strip searches a person in order to look for hidden objects without physically removing clothes or making physical contact",
     "vi": "máy quét toàn thân",
-    "viDef": "thiết bị soi người như lột đồ ảo để tìm vật giấu mà không cần cởi đồ hay chạm vào người"
+    "viDef": "thiết bị soi người như lột đồ ảo để tìm vật giấu mà không cần cởi đồ hay chạm vào người",
+    "ex": "I had to step into the body scanner before boarding.",
+    "exHit": "body scanner",
+    "exVi": "Tôi phải bước vào máy quét cơ thể trước khi lên máy bay."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "A contract granting use of property",
     "vi": "hợp đồng thuê",
-    "viDef": "văn bản cho phép sử dụng tài sản"
+    "viDef": "văn bản cho phép sử dụng tài sản",
+    "ex": "That's it, my lease is up.",
+    "exHit": "lease",
+    "exVi": "Thế là hết, hợp đồng thuê nhà của tôi hết hạn rồi."
   },
   {
     "word": "renew",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to cause something to continue to be effective",
     "vi": "gia hạn",
-    "viDef": "làm cho tiếp tục có hiệu lực"
+    "viDef": "làm cho tiếp tục có hiệu lực",
+    "ex": "Can't you renew it?",
+    "exHit": "renew",
+    "exVi": "Bạn không gia hạn được sao?"
   },
   {
     "word": "pack",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "wrap up",
     "vi": "gói lại",
-    "viDef": "bọc, đóng gói"
+    "viDef": "bọc, đóng gói",
+    "ex": "Well, I can help you pack.",
+    "exHit": "pack",
+    "exVi": "Chà, mình có thể giúp bạn đóng gói đồ."
   },
   {
     "word": "pack",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to put articles in a case or container for moving",
     "vi": "đóng thùng",
-    "viDef": "xếp đồ vào hộp hoặc thùng để chuyển đi"
+    "viDef": "xếp đồ vào hộp hoặc thùng để chuyển đi",
+    "ex": "Well, I can help you pack.",
+    "exHit": "pack",
+    "exVi": "Chà, mình có thể giúp bạn đóng gói đồ."
   },
   {
     "word": "place",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "A building or an area",
     "vi": "chỗ, nơi",
-    "viDef": "tòa nhà hoặc một khu"
+    "viDef": "tòa nhà hoặc một khu",
+    "ex": "We should start looking for a new place for you ASAP.",
+    "exHit": "place",
+    "exVi": "Chúng ta nên bắt đầu tìm chỗ ở mới cho bạn càng sớm càng tốt."
   },
   {
     "word": "storage",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "A space for storing goods",
     "vi": "kho chứa",
-    "viDef": "chỗ để trữ đồ"
+    "viDef": "chỗ để trữ đồ",
+    "ex": "I'm gonna have to put most of my stuff in storage for a while.",
+    "exHit": "storage",
+    "exVi": "Tôi sẽ phải gửi phần lớn đồ đạc vào kho một thời gian."
   },
   {
     "word": "look after",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "take care of",
     "vi": "trông coi",
-    "viDef": "chăm lo"
+    "viDef": "chăm lo",
+    "ex": "Actually, would you mind looking after my pet tarantula and snake for a couple of weeks?",
+    "exHit": "looking after",
+    "exVi": "Thật ra, bạn có phiền trông giúp con nhện tarantula và con rắn cưng của tôi vài tuần không?"
   },
   {
     "word": "make way for",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to create space for something else",
     "vi": "nhường chỗ cho",
-    "viDef": "dọn chỗ cho thứ khác"
+    "viDef": "dọn chỗ cho thứ khác",
+    "ex": "The owner apparently is selling this place to make way for the construction of a parking lot",
+    "exHit": "make way for",
+    "exVi": "Chủ nhà hình như đang bán chỗ này để xây bãi đỗ xe."
   },
   {
     "word": "ASAP",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "as soon as possible",
     "vi": "càng sớm càng tốt",
-    "viDef": "nhanh nhất có thể"
+    "viDef": "nhanh nhất có thể",
+    "ex": "We should start looking for a new place for you ASAP.",
+    "exHit": "ASAP",
+    "exVi": "Chúng ta nên bắt đầu tìm chỗ ở mới cho bạn càng sớm càng tốt."
   },
   {
     "word": "decent",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "good",
     "vi": "tạm ổn, tử tế",
-    "viDef": "khá, được"
+    "viDef": "khá, được",
+    "ex": "You know how hard it is to find a decent place around here.",
+    "exHit": "decent",
+    "exVi": "Bạn biết đấy, tìm được một chỗ ở tươm tất quanh đây khó thế nào."
   },
   {
     "word": "look after",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "take care of",
     "vi": "trông coi",
-    "viDef": "chăm lo"
+    "viDef": "chăm lo",
+    "ex": "Actually, would you mind looking after my pet tarantula and snake for a couple of weeks?",
+    "exHit": "looking after",
+    "exVi": "Thật ra, bạn có phiền trông giúp con nhện tarantula và con rắn cưng của tôi vài tuần không?"
   },
   {
     "word": "moving truck",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a big truck that can be hired or rented to carry furniture and boxes to another place",
     "vi": "xe tải chuyển nhà",
-    "viDef": "xe lớn thuê để chở đồ đạc và thùng sang chỗ mới"
+    "viDef": "xe lớn thuê để chở đồ đạc và thùng sang chỗ mới",
+    "ex": "We rented a moving truck and loaded all the boxes on Saturday morning.",
+    "exHit": "moving truck",
+    "exVi": "Chúng tôi thuê một chiếc xe tải chuyển nhà và chất hết các thùng lên vào sáng thứ Bảy."
   },
   {
     "word": "bubble wrap",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "transparent plastic material commonly used for packing fragile items",
     "vi": "xốp bong bóng",
-    "viDef": "màng nhựa trong dùng bọc đồ dễ vỡ"
+    "viDef": "màng nhựa trong dùng bọc đồ dễ vỡ",
+    "ex": "Please wrap the glasses in bubble wrap so they don't break.",
+    "exHit": "bubble wrap",
+    "exVi": "Làm ơn bọc các cái ly bằng màng xốp hơi để chúng không bị vỡ."
   },
   {
     "word": "real estate agent",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "One that is autohirzed to sell land or property",
     "vi": "người môi giới nhà đất",
-    "viDef": "người được phép bán đất hoặc nhà"
+    "viDef": "người được phép bán đất hoặc nhà",
+    "ex": "Our real estate agent showed us three apartments in one afternoon.",
+    "exHit": "real estate agent",
+    "exVi": "Nhân viên môi giới bất động sản của chúng tôi đã cho xem ba căn hộ chỉ trong một buổi chiều."
   },
   {
     "word": "deposit",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "A sum of money given as security for an item acquired for temporary use.",
     "vi": "tiền cọc",
-    "viDef": "khoản tiền đặt bảo đảm khi lấy thứ gì dùng tạm"
+    "viDef": "khoản tiền đặt bảo đảm khi lấy thứ gì dùng tạm",
+    "ex": "I paid a deposit of one month's rent before I got the keys.",
+    "exHit": "deposit",
+    "exVi": "Tôi đã đặt cọc một tháng tiền thuê trước khi nhận chìa khóa."
   },
   {
     "word": "movers",
@@ -125,6 +170,9 @@
     "type": "",
     "def": "One that transports household or office goods from one location to another as an occupation",
     "vi": "nhân viên chuyển dọn",
-    "viDef": "người làm nghề chở đồ nhà hoặc đồ văn phòng sang chỗ khác"
+    "viDef": "người làm nghề chở đồ nhà hoặc đồ văn phòng sang chỗ khác",
+    "ex": "The movers carried the heavy sofa up three flights of stairs.",
+    "exHit": "movers",
+    "exVi": "Những người chuyển nhà đã khiêng chiếc ghế sofa nặng lên ba tầng cầu thang."
   }
 ]

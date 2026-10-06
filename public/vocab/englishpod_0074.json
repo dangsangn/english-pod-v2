@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "a dish made of raw vegetables",
     "vi": "món xà lách trộn",
-    "viDef": "món làm từ rau sống"
+    "viDef": "món làm từ rau sống",
+    "ex": "Oh right, I have a salad.",
+    "exHit": "salad",
+    "exVi": "À đúng rồi, tôi sẽ ăn salad."
   },
   {
     "word": "positively",
@@ -13,7 +16,10 @@
     "type": "General Adverb",
     "def": "truly",
     "vi": "thật sự là",
-    "viDef": "đúng là, quả thực"
+    "viDef": "đúng là, quả thực",
+    "ex": "I'm positively famished.",
+    "exHit": "positively",
+    "exVi": "Tôi đói lả đi thật sự."
   },
   {
     "word": "famished",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "very hungry",
     "vi": "đói meo",
-    "viDef": "rất đói"
+    "viDef": "rất đói",
+    "ex": "I'm positively famished.",
+    "exHit": "famished",
+    "exVi": "Tôi đói lả đi thật sự."
   },
   {
     "word": "at the top of one's lungs",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "to be as loud as possible",
     "vi": "gào hết cỡ",
-    "viDef": "to hết mức có thể"
+    "viDef": "to hết mức có thể",
+    "ex": "She screamed at the top of her lungs when she saw the spider.",
+    "exHit": "at the top of her lungs",
+    "exVi": "Cô ấy hét lên hết cỡ khi nhìn thấy con nhện."
   },
   {
     "word": "dumbass",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "an impolite way of calling someone foolish",
     "vi": "thằng đần",
-    "viDef": "cách nói thô để gọi ai là ngu"
+    "viDef": "cách nói thô để gọi ai là ngu",
+    "ex": "Don't be a dumbass and forget your keys again.",
+    "exHit": "dumbass",
+    "exVi": "Đừng có ngốc như vậy mà lại quên chìa khóa nữa."
   },
   {
     "word": "sexy",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "sexy to the greatest degree",
     "vi": "quyến rũ hết nấc",
-    "viDef": "hấp dẫn ở mức cao nhất"
+    "viDef": "hấp dẫn ở mức cao nhất",
+    "ex": "He thinks his new neighbor is really sexy.",
+    "exHit": "sexy",
+    "exVi": "Anh ấy nghĩ người hàng xóm mới của mình rất quyến rũ."
   },
   {
     "word": "tool",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "someone who is stupid or useless",
     "vi": "thằng vô dụng",
-    "viDef": "người ngu hoặc chẳng được việc gì"
+    "viDef": "người ngu hoặc chẳng được việc gì",
+    "ex": "I'm such a tool.",
+    "exHit": "tool",
+    "exVi": "Mình đúng là đồ ngốc."
   },
   {
     "word": "get it together",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "control your emotions",
     "vi": "tự chấn chỉnh lại",
-    "viDef": "kìm cảm xúc lại"
+    "viDef": "kìm cảm xúc lại",
+    "ex": "Okay, get it together.",
+    "exHit": "get it together",
+    "exVi": "Được rồi, bình tĩnh lại nào."
   },
   {
     "word": "crap",
@@ -69,7 +93,10 @@
     "type": "common noun, non-variable",
     "def": "an impolite way of saying something is bad",
     "vi": "dở tệ",
-    "viDef": "cách nói thô khi thấy thứ gì tệ"
+    "viDef": "cách nói thô khi thấy thứ gì tệ",
+    "ex": "Oh, crap!",
+    "exHit": "crap",
+    "exVi": "Ôi, chết tiệt!"
   },
   {
     "word": "moron",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "someone who is very stupid",
     "vi": "kẻ đần độn",
-    "viDef": "người rất ngu"
+    "viDef": "người rất ngu",
+    "ex": "She's going to think I'm a moron.",
+    "exHit": "moron",
+    "exVi": "Cô ấy sẽ nghĩ mình là đồ ngốc."
   },
   {
     "word": "chill",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "calm down; relax",
     "vi": "bình tĩnh đi",
-    "viDef": "hạ nhiệt, thư giãn"
+    "viDef": "hạ nhiệt, thư giãn",
+    "ex": "Okay, chill...",
+    "exHit": "chill",
+    "exVi": "Được rồi, bình tĩnh nào..."
   },
   {
     "word": "feminism",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "the belief that men and women should have equal rights and opportunities",
     "vi": "chủ nghĩa nữ quyền",
-    "viDef": "quan điểm nam và nữ phải có quyền và cơ hội như nhau"
+    "viDef": "quan điểm nam và nữ phải có quyền và cơ hội như nhau",
+    "ex": "My sister is studying feminism at university.",
+    "exHit": "feminism",
+    "exVi": "Chị tôi đang học về chủ nghĩa nữ quyền ở trường đại học."
   },
   {
     "word": "blind date",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a romantic outing with someone that you have not met before",
     "vi": "buổi hẹn xem mắt",
-    "viDef": "cuộc hẹn hò với người chưa từng gặp"
+    "viDef": "cuộc hẹn hò với người chưa từng gặp",
+    "ex": "My friends set me up on a blind date on Saturday.",
+    "exHit": "blind date",
+    "exVi": "Bạn bè đã sắp xếp cho tôi một buổi hẹn hò giấu mặt vào thứ Bảy."
   },
   {
     "word": "spaz",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a person who is very clumsy or awkward",
     "vi": "đứa lóng ngóng",
-    "viDef": "người rất lóng cóng, vụng về"
+    "viDef": "người rất lóng cóng, vụng về",
+    "ex": "I dropped my drink and felt like such a spaz.",
+    "exHit": "spaz",
+    "exVi": "Tôi làm rơi ly nước và cảm thấy mình thật vụng về."
   },
   {
     "word": "first impression",
@@ -117,7 +159,10 @@
     "type": "phrase",
     "def": "the way people see or perceive you the first time you meet",
     "vi": "ấn tượng đầu",
-    "viDef": "cách người ta nhìn mình trong lần gặp đầu tiên"
+    "viDef": "cách người ta nhìn mình trong lần gặp đầu tiên",
+    "ex": "You only get one chance to make a good first impression.",
+    "exHit": "first impression",
+    "exVi": "Bạn chỉ có một cơ hội để tạo ấn tượng đầu tiên tốt."
   },
   {
     "word": "blow it",
@@ -125,6 +170,9 @@
     "type": "phrase",
     "def": "to miss an opportunity or chance",
     "vi": "làm hụt mất",
-    "viDef": "để cơ hội trôi qua"
+    "viDef": "để cơ hội trôi qua",
+    "ex": "Don't blow it by being late for the date.",
+    "exHit": "blow it",
+    "exVi": "Đừng làm hỏng chuyện bằng cách đến trễ buổi hẹn."
   }
 ]

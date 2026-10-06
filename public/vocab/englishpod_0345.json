@@ -5,7 +5,10 @@
     "type": "",
     "def": "a place where you go to exercise",
     "vi": "phòng tập",
-    "viDef": "nơi bạn tới để tập thể dục"
+    "viDef": "nơi bạn tới để tập thể dục",
+    "ex": "I can't, I have to go to the gym.",
+    "exHit": "gym",
+    "exVi": "Tôi không đi được, tôi phải đến phòng tập."
   },
   {
     "word": "personal trainer",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "professional who educates people about physical fitness.",
     "vi": "huấn luyện viên riêng",
-    "viDef": "người chuyên hướng dẫn về rèn luyện thể chất"
+    "viDef": "người chuyên hướng dẫn về rèn luyện thể chất",
+    "ex": "I am working out with a personal trainer that gets on my case if I don't go.",
+    "exHit": "personal trainer",
+    "exVi": "Tôi tập với một huấn luyện viên cá nhân, anh ấy cứ thúc giục tôi nếu tôi không đi."
   },
   {
     "word": "case",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "argument",
     "vi": "lý lẽ",
-    "viDef": "lập luận"
+    "viDef": "lập luận",
+    "ex": "I am working out with a personal trainer that gets on my case if I don't go.",
+    "exHit": "case",
+    "exVi": "Tôi tập với một huấn luyện viên cá nhân, anh ấy cứ thúc giục tôi nếu tôi không đi."
   },
   {
     "word": "obligate",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "do something because you feel it is the right thing to do",
     "vi": "thấy phải làm",
-    "viDef": "làm điều gì vì thấy đó là việc đúng"
+    "viDef": "làm điều gì vì thấy đó là việc đúng",
+    "ex": "I like it, because it makes me feel more obligated to go and get healthy.",
+    "exHit": "obligated",
+    "exVi": "Tôi thích như vậy vì nó khiến tôi thấy có trách nhiệm phải đi tập và giữ gìn sức khỏe."
   },
   {
     "word": "to work out",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to find a solution or create a plan by thinking",
     "vi": "nghĩ ra cách",
-    "viDef": "tìm ra lời giải hoặc lập kế hoạch bằng cách suy nghĩ"
+    "viDef": "tìm ra lời giải hoặc lập kế hoạch bằng cách suy nghĩ",
+    "ex": "Let's sit down and work out a plan for the trip.",
+    "exHit": "work out",
+    "exVi": "Mình ngồi lại và vạch ra một kế hoạch cho chuyến đi nhé."
   },
   {
     "word": "muscle",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "tissue composed of fibers capable of contracting to effect bodily movement",
     "vi": "cơ bắp",
-    "viDef": "mô gồm các sợi co lại được để tạo chuyển động cho cơ thể"
+    "viDef": "mô gồm các sợi co lại được để tạo chuyển động cho cơ thể",
+    "ex": "Like for example in order to get better muscle tone in my abs, pecs and biceps, he makes me work out with free weights.",
+    "exHit": "muscle",
+    "exVi": "Ví dụ để cơ bắp săn chắc hơn ở bụng, ngực và tay, anh ấy bắt tôi tập với tạ tự do."
   },
   {
     "word": "muscle tone",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "strength or firmness of muscles and skin",
     "vi": "độ săn chắc",
-    "viDef": "sức mạnh hoặc độ chắc của cơ và da"
+    "viDef": "sức mạnh hoặc độ chắc của cơ và da",
+    "ex": "Like for example in order to get better muscle tone in my abs, pecs and biceps, he makes me work out with free weights.",
+    "exHit": "muscle tone",
+    "exVi": "Ví dụ để cơ bắp săn chắc hơn ở bụng, ngực và tay, anh ấy bắt tôi tập với tạ tự do."
   },
   {
     "word": "abdominals",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "muscles of the front area of the stomach",
     "vi": "cơ bụng",
-    "viDef": "các cơ ở phía trước vùng bụng"
+    "viDef": "các cơ ở phía trước vùng bụng",
+    "ex": "I do sit-ups every day to strengthen my abdominals.",
+    "exHit": "abdominals",
+    "exVi": "Ngày nào tôi cũng tập gập bụng để làm khỏe cơ bụng."
   },
   {
     "word": "pectoral",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the chest or breast area",
     "vi": "cơ ngực",
-    "viDef": "vùng ngực"
+    "viDef": "vùng ngực",
+    "ex": "Push-ups are great for building your pectoral muscles.",
+    "exHit": "pectoral",
+    "exVi": "Hít đất rất tốt để phát triển cơ ngực."
   },
   {
     "word": "bicep",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a large muscle at the front of the upper arm",
     "vi": "cơ tay trước",
-    "viDef": "cơ lớn ở mặt trước cánh tay trên"
+    "viDef": "cơ lớn ở mặt trước cánh tay trên",
+    "ex": "Like for example in order to get better muscle tone in my abs, pecs and biceps, he makes me work out with free weights.",
+    "exHit": "biceps",
+    "exVi": "Ví dụ để cơ bắp săn chắc hơn ở bụng, ngực và tay, anh ấy bắt tôi tập với tạ tự do."
   },
   {
     "word": "hamstring",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "Any of the tendons at the rear of the human knee",
     "vi": "gân kheo",
-    "viDef": "các gân ở phía sau đầu gối người"
+    "viDef": "các gân ở phía sau đầu gối người",
+    "ex": "Then for my quads, calves and hamstrings, I do leg lifts or squats.",
+    "exHit": "hamstrings",
+    "exVi": "Còn với đùi trước, bắp chân và gân kheo, tôi tập nâng chân hoặc squat."
   },
   {
     "word": "squat",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "A lift or a weightlifting exercise in which one squats and stands while holding a weighted barbell supported by the back of the shoulders",
     "vi": "bài squat",
-    "viDef": "động tác nâng tạ mà người tập ngồi xuống rồi đứng lên trong khi thanh tạ tì trên vai sau"
+    "viDef": "động tác nâng tạ mà người tập ngồi xuống rồi đứng lên trong khi thanh tạ tì trên vai sau",
+    "ex": "Then for my quads, calves and hamstrings, I do leg lifts or squats.",
+    "exHit": "squats",
+    "exVi": "Còn với đùi trước, bắp chân và gân kheo, tôi tập nâng chân hoặc squat."
   },
   {
     "word": "steroids",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "compounds that help to grow muscles at a fast rate and help in recovery.",
     "vi": "thuốc tăng cơ steroid",
-    "viDef": "hợp chất giúp cơ lớn nhanh và hồi phục nhanh"
+    "viDef": "hợp chất giúp cơ lớn nhanh và hồi phục nhanh",
+    "ex": "He took steroids to build muscle quickly, but it's dangerous.",
+    "exHit": "steroids",
+    "exVi": "Anh ấy dùng steroid để tăng cơ nhanh nhưng điều đó rất nguy hiểm."
   },
   {
     "word": "deadlift",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "A lift in which one pulls a bar from the ground to the waist.",
     "vi": "bài deadlift",
-    "viDef": "động tác nâng thanh tạ từ mặt đất lên tới ngang eo"
+    "viDef": "động tác nâng thanh tạ từ mặt đất lên tới ngang eo",
+    "ex": "I can deadlift my own weight at the gym now.",
+    "exHit": "deadlift",
+    "exVi": "Giờ tôi có thể nâng tạ deadlift bằng cân nặng của mình ở phòng tập."
   },
   {
     "word": "bodybuilder",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "a person who practices bodybuilding.",
     "vi": "vận động viên thể hình",
-    "viDef": "người tập thể hình"
+    "viDef": "người tập thể hình",
+    "ex": "My brother is a bodybuilder and goes to the gym every day.",
+    "exHit": "bodybuilder",
+    "exVi": "Anh trai tôi là vận động viên thể hình và ngày nào cũng đến phòng tập."
   },
   {
     "word": "locker room",
@@ -125,6 +170,9 @@
     "type": "",
     "def": "oom containing lockers, as in a gymnasium, factory, or school, for changing clothes and for the storage and safekeeping of personal belongings.",
     "vi": "phòng thay đồ",
-    "viDef": "phòng có tủ khóa, như ở nhà thi đấu, nhà máy hay trường học, để thay đồ và cất giữ đồ cá nhân"
+    "viDef": "phòng có tủ khóa, như ở nhà thi đấu, nhà máy hay trường học, để thay đồ và cất giữ đồ cá nhân",
+    "ex": "I'll meet you in the locker room after our workout.",
+    "exHit": "locker room",
+    "exVi": "Tôi sẽ gặp bạn ở phòng thay đồ sau buổi tập."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "bored or annoyed",
     "vi": "chán tận cổ",
-    "viDef": "nhàm hoặc bực mình"
+    "viDef": "nhàm hoặc bực mình",
+    "ex": "Frankly, I'm sick and tired and tired of hearing about this guy.",
+    "exHit": "sick and tired",
+    "exVi": "Thật lòng mà nói, tôi chán ngấy việc nghe về anh chàng này rồi."
   },
   {
     "word": "at odds with",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "in a state of disagreement",
     "vi": "bất đồng với",
-    "viDef": "ở trong tình trạng không thống nhất"
+    "viDef": "ở trong tình trạng không thống nhất",
+    "ex": "That statement puts you at odds with half of the academy.",
+    "exHit": "at odds with",
+    "exVi": "Câu nói đó khiến bạn bất đồng với một nửa giới học thuật."
   },
   {
     "word": "coherent",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "logical and consistent",
     "vi": "mạch lạc",
-    "viDef": "hợp lý và nhất quán"
+    "viDef": "hợp lý và nhất quán",
+    "ex": "Furthermore, the explanation proposed by Darwin about the origin of species and the mechanism of natural selection constitutes a grand step toward a coherent understanding of the world and evolutionist ideas.",
+    "exHit": "coherent",
+    "exVi": "Hơn nữa, lời giải thích của Darwin về nguồn gốc các loài và cơ chế chọn lọc tự nhiên là một bước tiến lớn hướng tới sự hiểu biết mạch lạc về thế giới và các ý tưởng tiến hóa."
   },
   {
     "word": "minimize",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to make something as small as possible",
     "vi": "giảm tối đa",
-    "viDef": "làm cho nhỏ nhất có thể"
+    "viDef": "làm cho nhỏ nhất có thể",
+    "ex": "I'm not minimizing his grand contributions, it's just that his theory reminds of the conundrum of the chicken and the egg.",
+    "exHit": "minimizing",
+    "exVi": "Tôi không hạ thấp những đóng góp lớn lao của ông ấy, chỉ là lý thuyết của ông ấy làm tôi nhớ đến nghịch lý con gà và quả trứng."
   },
   {
     "word": "full of holes",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "including many faults",
     "vi": "đầy lỗ hổng",
-    "viDef": "chứa nhiều điểm sai"
+    "viDef": "chứa nhiều điểm sai",
+    "ex": "His theory of human evolution and natural selection is full of holes.",
+    "exHit": "full of holes",
+    "exVi": "Thuyết tiến hóa loài người và chọn lọc tự nhiên của ông ấy đầy lỗ hổng."
   },
   {
     "word": "academy",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a school that provides training in special subject",
     "vi": "học viện",
-    "viDef": "trường dạy chuyên về một môn"
+    "viDef": "trường dạy chuyên về một môn",
+    "ex": "That statement puts you at odds with half of the academy.",
+    "exHit": "academy",
+    "exVi": "Câu nói đó khiến bạn bất đồng với một nửa giới học thuật."
   },
   {
     "word": "natural selection",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a process by which best creatures survive",
     "vi": "chọn lọc tự nhiên",
-    "viDef": "quá trình mà loài thích nghi nhất sống sót"
+    "viDef": "quá trình mà loài thích nghi nhất sống sót",
+    "ex": "His theory of human evolution and natural selection is full of holes.",
+    "exHit": "natural selection",
+    "exVi": "Thuyết tiến hóa loài người và chọn lọc tự nhiên của ông ấy đầy lỗ hổng."
   },
   {
     "word": "conundrum",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a confusing or difficult problem",
     "vi": "nan đề",
-    "viDef": "vấn đề rắc rối hoặc khó giải"
+    "viDef": "vấn đề rắc rối hoặc khó giải",
+    "ex": "I'm not minimizing his grand contributions, it's just that his theory reminds of the conundrum of the chicken and the egg.",
+    "exHit": "conundrum",
+    "exVi": "Tôi không hạ thấp những đóng góp lớn lao của ông ấy, chỉ là lý thuyết của ông ấy làm tôi nhớ đến nghịch lý con gà và quả trứng."
   },
   {
     "word": "creationism",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Belief in the literal interpretation of the account of the creation of the universe and of all living things related in the Bible.",
     "vi": "thuyết sáng thế",
-    "viDef": "niềm tin hiểu theo đúng từng chữ chuyện Kinh Thánh kể về việc tạo ra vũ trụ và muôn loài"
+    "viDef": "niềm tin hiểu theo đúng từng chữ chuyện Kinh Thánh kể về việc tạo ra vũ trụ và muôn loài",
+    "ex": "Some people believe in creationism and reject the idea of evolution completely.",
+    "exHit": "creationism",
+    "exVi": "Một số người tin vào thuyết sáng tạo và hoàn toàn bác bỏ thuyết tiến hóa."
   },
   {
     "word": "naturalism",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "the doctrine that the world can be understood in scientific terms without recourse to spiritual or supernatural explanations",
     "vi": "chủ nghĩa duy nhiên",
-    "viDef": "quan điểm cho rằng thế giới hiểu được bằng khoa học, không cần viện tới thần linh hay siêu nhiên"
+    "viDef": "quan điểm cho rằng thế giới hiểu được bằng khoa học, không cần viện tới thần linh hay siêu nhiên",
+    "ex": "Naturalism says we can explain the world through science without any magic.",
+    "exHit": "Naturalism",
+    "exVi": "Chủ nghĩa tự nhiên cho rằng ta có thể giải thích thế giới bằng khoa học mà không cần phép màu nào."
   },
   {
     "word": "transmutation",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "the process or act of change, especially from one thing to another",
     "vi": "sự biến đổi",
-    "viDef": "quá trình chuyển từ dạng này sang dạng khác"
+    "viDef": "quá trình chuyển từ dạng này sang dạng khác",
+    "ex": "The slow transmutation of one chemical into another took several weeks in the lab.",
+    "exHit": "transmutation",
+    "exVi": "Quá trình biến đổi từ chất hóa học này sang chất khác diễn ra chậm và mất vài tuần trong phòng thí nghiệm."
   }
 ]

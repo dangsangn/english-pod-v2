@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "incredible, amazing",
     "vi": "không thể tin nổi",
-    "viDef": "khó tin, đáng kinh ngạc"
+    "viDef": "khó tin, đáng kinh ngạc",
+    "ex": "The traffic in New York is unbelievable.",
+    "exHit": "unbelievable",
+    "exVi": "Giao thông ở New York thật không thể tin nổi."
   },
   {
     "word": "relax",
@@ -13,7 +16,10 @@
     "type": "principle verb, imperative",
     "def": "calm down",
     "vi": "bình tĩnh nào",
-    "viDef": "hãy bình tĩnh"
+    "viDef": "hãy bình tĩnh",
+    "ex": "Yeah, but just relax honey, we're here and we're going on vacation.",
+    "exHit": "relax",
+    "exVi": "Ừ, nhưng em cứ bình tĩnh đi, mình đến nơi rồi và sắp đi nghỉ mát mà."
   },
   {
     "word": "be a mile long",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "is very long",
     "vi": "dài dằng dặc",
-    "viDef": "rất dài"
+    "viDef": "rất dài",
+    "ex": "It must be a mile long!",
+    "exHit": "be a mile long",
+    "exVi": "Chắc nó phải dài cả dặm!"
   },
   {
     "word": "cut in line",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "move in front of someone waiting in line",
     "vi": "chen hàng",
-    "viDef": "chen lên trước người đang xếp hàng"
+    "viDef": "chen lên trước người đang xếp hàng",
+    "ex": "No seriously, I was here first, and you can't cut in line like this.",
+    "exHit": "cut in line",
+    "exVi": "Thật đấy, tôi đến trước, và anh không thể chen ngang như vậy được."
   },
   {
     "word": "there's no way",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "it's impossible",
     "vi": "không đời nào",
-    "viDef": "không thể nào"
+    "viDef": "không thể nào",
+    "ex": "There's no way I'm waiting for another two hours.",
+    "exHit": "There's no way",
+    "exVi": "Không đời nào tôi chờ thêm hai tiếng nữa."
   },
   {
     "word": "traffic jam",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "many cars not moving on the road",
     "vi": "tắc đường",
-    "viDef": "nhiều xe đứng yên trên đường"
+    "viDef": "nhiều xe đứng yên trên đường",
+    "ex": "We were stuck in a traffic jam for two hours this morning.",
+    "exHit": "traffic jam",
+    "exVi": "Sáng nay chúng tôi bị kẹt xe suốt hai tiếng."
   },
   {
     "word": "a few hours from now",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "soon, in a couple of hours",
     "vi": "vài tiếng nữa",
-    "viDef": "sắp tới, trong vài giờ nữa"
+    "viDef": "sắp tới, trong vài giờ nữa",
+    "ex": "Don't worry, the bus will come a few hours from now.",
+    "exHit": "a few hours from now",
+    "exVi": "Đừng lo, vài tiếng nữa là xe buýt sẽ đến."
   },
   {
     "word": "form a queue",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "to get in line",
     "vi": "xếp thành hàng",
-    "viDef": "vào hàng"
+    "viDef": "vào hàng",
+    "ex": "Please form a queue at the door and wait for your turn.",
+    "exHit": "form a queue",
+    "exVi": "Xin hãy xếp hàng ở cửa và chờ đến lượt."
   },
   {
     "word": "jump the queue",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "cut in line ( Br E)",
     "vi": "chen hàng",
-    "viDef": "chen lên trước (cách nói Anh-Anh)"
+    "viDef": "chen lên trước (cách nói Anh-Anh)",
+    "ex": "That man tried to jump the queue, but everyone noticed him.",
+    "exHit": "jump the queue",
+    "exVi": "Người đàn ông đó định chen ngang hàng nhưng ai cũng để ý thấy."
   },
   {
     "word": "stand in line",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "wait in line",
     "vi": "đứng xếp hàng",
-    "viDef": "chờ theo hàng"
+    "viDef": "chờ theo hàng",
+    "ex": "I had to stand in line for an hour to buy tickets.",
+    "exHit": "stand in line",
+    "exVi": "Tôi phải đứng xếp hàng một tiếng để mua vé."
   },
   {
     "word": "line up",
@@ -85,6 +115,9 @@
     "type": "phrase",
     "def": "form a line",
     "vi": "xếp hàng",
-    "viDef": "tạo thành hàng"
+    "viDef": "tạo thành hàng",
+    "ex": "Please line up here so we can board the plane faster.",
+    "exHit": "line up",
+    "exVi": "Xin hãy xếp hàng ở đây để chúng ta lên máy bay nhanh hơn."
   }
 ]

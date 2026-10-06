@@ -5,7 +5,10 @@
     "type": "",
     "def": "hand covering separating thumb from fingers",
     "vi": "bao tay bít ngón",
-    "viDef": "bao tay tách riêng ngón cái với các ngón còn lại"
+    "viDef": "bao tay tách riêng ngón cái với các ngón còn lại",
+    "ex": "No, wait, you will be too cold without mittens.",
+    "exHit": "mittens",
+    "exVi": "Không, khoan đã, không đeo găng bao tay thì con sẽ lạnh lắm đấy."
   },
   {
     "word": "hold on",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "stop, wait",
     "vi": "chờ đã",
-    "viDef": "dừng lại, đợi chút"
+    "viDef": "dừng lại, đợi chút",
+    "ex": "Hold on, with that wind, you're going to catch a cold.",
+    "exHit": "Hold on",
+    "exVi": "Khoan đã, gió thế này thì con sẽ bị cảm lạnh đấy."
   },
   {
     "word": "scarf",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a long narrow piece of cloth worn around the neck",
     "vi": "khăn quàng cổ",
-    "viDef": "dải vải dài quấn quanh cổ"
+    "viDef": "dải vải dài quấn quanh cổ",
+    "ex": "Wear this scarf.",
+    "exHit": "scarf",
+    "exVi": "Đeo chiếc khăn quàng này vào."
   },
   {
     "word": "ear muff",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a warm tubular covering for the ears",
     "vi": "bao tai giữ ấm",
-    "viDef": "lớp che ấm hình ống trùm hai tai"
+    "viDef": "lớp che ấm hình ống trùm hai tai",
+    "ex": "and ear muffs!",
+    "exHit": "ear muffs",
+    "exVi": "Và cả bịt tai nữa!"
   },
   {
     "word": "honey",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "name you call someone you love",
     "vi": "mình ơi",
-    "viDef": "cách gọi người mình thương"
+    "viDef": "cách gọi người mình thương",
+    "ex": "Yes, honey...",
+    "exHit": "honey",
+    "exVi": "Vâng, em yêu..."
   },
   {
     "word": "hat",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "head covering",
     "vi": "cái mũ",
-    "viDef": "vật che đầu"
+    "viDef": "vật che đầu",
+    "ex": "Put a hat on!",
+    "exHit": "hat",
+    "exVi": "Đội mũ vào!"
   },
   {
     "word": "snowsuit",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a one- or two-piece outer garment for cold weather, often consisting of heavily lined pants and jacket",
     "vi": "bộ đồ tuyết",
-    "viDef": "áo liền quần hoặc bộ hai món cho trời lạnh, thường là quần và áo có lót dày"
+    "viDef": "áo liền quần hoặc bộ hai món cho trời lạnh, thường là quần và áo có lót dày",
+    "ex": "My daughter wore a red snowsuit to play in the snow.",
+    "exHit": "snowsuit",
+    "exVi": "Con gái mình mặc bộ đồ trượt tuyết màu đỏ để chơi ngoài tuyết."
   },
   {
     "word": "gloves",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "hand covering separating all fingers and thumb",
     "vi": "bao tay có ngón",
-    "viDef": "bao tay tách riêng từng ngón và ngón cái"
+    "viDef": "bao tay tách riêng từng ngón và ngón cái",
+    "ex": "I lost one of my gloves on the way to work.",
+    "exHit": "gloves",
+    "exVi": "Mình làm mất một chiếc găng tay trên đường đi làm."
   },
   {
     "word": "coat",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "an outer garment with sleeves, covering at least the upper part of the body",
     "vi": "áo khoác",
-    "viDef": "áo ngoài có tay, phủ ít nhất phần trên cơ thể"
+    "viDef": "áo ngoài có tay, phủ ít nhất phần trên cơ thể",
+    "ex": "It's freezing outside, so grab your warm coat.",
+    "exHit": "coat",
+    "exVi": "Ngoài trời lạnh cóng đấy, nên mang theo áo khoác ấm đi."
   },
   {
     "word": "mitts",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "short for mittens",
     "vi": "bao tay",
-    "viDef": "dạng ngắn của \"mittens\""
+    "viDef": "dạng ngắn của \"mittens\"",
+    "ex": "Her grandmother knitted her a pair of woolly mitts.",
+    "exHit": "mitts",
+    "exVi": "Bà của cô bé đan cho cô bé một đôi găng tay len bao."
   },
   {
     "word": "boots",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "a covering of leather, rubber, or the like, for the foot and all or part of the leg",
     "vi": "bốt",
-    "viDef": "giày da, cao su hoặc chất tương tự, che bàn chân và một phần hoặc cả cẳng chân"
+    "viDef": "giày da, cao su hoặc chất tương tự, che bàn chân và một phần hoặc cả cẳng chân",
+    "ex": "Wear your boots because the sidewalk is full of snow.",
+    "exHit": "boots",
+    "exVi": "Đi ủng vào vì vỉa hè đầy tuyết."
   }
 ]

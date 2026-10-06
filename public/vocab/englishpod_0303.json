@@ -5,7 +5,10 @@
     "type": "",
     "def": "a type of beer from mexico",
     "vi": "bia Corona",
-    "viDef": "một loại bia của Mexico"
+    "viDef": "một loại bia của Mexico",
+    "ex": "Sure, I'll have a Corona.",
+    "exHit": "Corona",
+    "exVi": "Được thôi, cho tôi một chai Corona."
   },
   {
     "word": "jalapeno",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a spicy green pepper",
     "vi": "ớt jalapeño",
-    "viDef": "loại ớt xanh cay"
+    "viDef": "loại ớt xanh cay",
+    "ex": "Both include a side of guacamole and jalapenos.",
+    "exHit": "jalapenos",
+    "exVi": "Cả hai đều có kèm guacamole và ớt jalapeno."
   },
   {
     "word": "guacamole",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a dip of mashed avocado mixed with tomato, onion, and seasonings",
     "vi": "sốt bơ guacamole",
-    "viDef": "món sốt chấm làm từ bơ dầm trộn cà chua, hành và gia vị"
+    "viDef": "món sốt chấm làm từ bơ dầm trộn cà chua, hành và gia vị",
+    "ex": "Both include a side of guacamole and jalapenos.",
+    "exHit": "guacamole",
+    "exVi": "Cả hai đều có kèm guacamole và ớt jalapeno."
   },
   {
     "word": "melt",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to become liquefied by warmth or heat",
     "vi": "tan chảy",
-    "viDef": "hóa lỏng do nóng hoặc nhiệt"
+    "viDef": "hóa lỏng do nóng hoặc nhiệt",
+    "ex": "Our nachos come with melted cheese and chili.",
+    "exHit": "melted",
+    "exVi": "Món nachos của chúng tôi có phô mai tan chảy và ớt."
   },
   {
     "word": "burrito",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a tortilla folded over a filling",
     "vi": "bánh burrito",
-    "viDef": "chiếc bánh tortilla gấp lại quanh phần nhân"
+    "viDef": "chiếc bánh tortilla gấp lại quanh phần nhân",
+    "ex": "Sure I'll have the burrito..",
+    "exHit": "burrito",
+    "exVi": "Được, tôi sẽ lấy món burrito."
   },
   {
     "word": "taco",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "crisply fried tortilla folded over and filled",
     "vi": "bánh taco",
-    "viDef": "bánh tortilla chiên giòn gấp lại và cho nhân vào"
+    "viDef": "bánh tortilla chiên giòn gấp lại và cho nhân vào",
+    "ex": "Can I get two beef tacos and a cold drink, please?",
+    "exHit": "tacos",
+    "exVi": "Cho tôi hai cái bánh taco bò và một ly nước lạnh nhé?"
   },
   {
     "word": "tortilla",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a kind of thin pancake made from corn, cooked on a hot griddle until dry",
     "vi": "bánh tortilla",
-    "viDef": "loại bánh mỏng làm từ ngô, áp trên chảo nóng cho ráo"
+    "viDef": "loại bánh mỏng làm từ ngô, áp trên chảo nóng cho ráo",
+    "ex": "They make fresh corn tortillas every morning at that stand.",
+    "exHit": "tortillas",
+    "exVi": "Quầy đó làm bánh tortilla ngô tươi mỗi buổi sáng."
   },
   {
     "word": "dip",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a liquid or soft substance into which something is dipped",
     "vi": "sốt chấm",
-    "viDef": "chất lỏng hoặc mềm để chấm đồ ăn vào"
+    "viDef": "chất lỏng hoặc mềm để chấm đồ ăn vào",
+    "ex": "The spicy dip is great with these crispy chips.",
+    "exHit": "dip",
+    "exVi": "Món chấm cay này ăn với mấy miếng khoai giòn này thì tuyệt."
   },
   {
     "word": "Churro",
@@ -69,6 +93,9 @@
     "type": "",
     "def": "a Spanish and Mexican pastry resembling a doughnut or cruller and made from deep-fried dough",
     "vi": "bánh churro",
-    "viDef": "món bánh Tây Ban Nha và Mexico giống bánh vòng, làm từ bột chiên ngập dầu"
+    "viDef": "món bánh Tây Ban Nha và Mexico giống bánh vòng, làm từ bột chiên ngập dầu",
+    "ex": "For dessert, let's share some warm churros with chocolate.",
+    "exHit": "churros",
+    "exVi": "Món tráng miệng, mình chia nhau vài cái churro nóng với sô cô la nhé."
   }
 ]

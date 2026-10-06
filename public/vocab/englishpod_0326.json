@@ -5,7 +5,10 @@
     "type": "",
     "def": "written document that provides information about a persons achievements",
     "vi": "bản báo cáo",
-    "viDef": "văn bản cung cấp thông tin về thành tích của một người"
+    "viDef": "văn bản cung cấp thông tin về thành tích của một người",
+    "ex": "Look, Jimmy's report came today.",
+    "exHit": "report",
+    "exVi": "Nhìn này, bảng báo cáo học tập của Jimmy hôm nay đã về rồi."
   },
   {
     "word": "grade",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a position or degree in a scale, as of quality, rank, size, or progression",
     "vi": "bậc điểm",
-    "viDef": "vị trí hoặc mức trên một thang về chất lượng, hạng, cỡ hoặc tiến độ"
+    "viDef": "vị trí hoặc mức trên một thang về chất lượng, hạng, cỡ hoặc tiến độ",
+    "ex": "He's in the third grade Sam!",
+    "exHit": "grade",
+    "exVi": "Thằng bé học lớp ba mà Sam!"
   },
   {
     "word": "subject",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a branch of knowledge as a course of study",
     "vi": "môn học",
-    "viDef": "một nhánh kiến thức được dạy thành môn"
+    "viDef": "một nhánh kiến thức được dạy thành môn",
+    "ex": "You see under each subject that he is being taught in school, he receives a mark from one to three.",
+    "exHit": "subject",
+    "exVi": "Con thấy không, dưới mỗi môn học thằng bé được dạy ở trường, nó được chấm một điểm từ một đến ba."
   },
   {
     "word": "mark",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a symbol used in rating conduct, proficiency, attainment",
     "vi": "điểm số",
-    "viDef": "ký hiệu dùng để đánh giá hạnh kiểm, trình độ hoặc kết quả"
+    "viDef": "ký hiệu dùng để đánh giá hạnh kiểm, trình độ hoặc kết quả",
+    "ex": "You see under each subject that he is being taught in school, he receives a mark from one to three.",
+    "exHit": "mark",
+    "exVi": "Con thấy không, dưới mỗi môn học thằng bé được dạy ở trường, nó được chấm một điểm từ một đến ba."
   },
   {
     "word": "achievement",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "something that has been done or accomplished",
     "vi": "thành tích",
-    "viDef": "điều đã làm được hoặc đạt được"
+    "viDef": "điều đã làm được hoặc đạt được",
+    "ex": "A one means his achievement or work is excellent.",
+    "exHit": "achievement",
+    "exVi": "Điểm một nghĩa là thành tích hay bài làm của thằng bé xuất sắc."
   },
   {
     "word": "satisfactory",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "fulfilling all demands or requirements",
     "vi": "đạt yêu cầu",
-    "viDef": "đáp ứng mọi đòi hỏi"
+    "viDef": "đáp ứng mọi đòi hỏi",
+    "ex": "Here in Science for example he got a two, which means its satisfactory.",
+    "exHit": "satisfactory",
+    "exVi": "Ví dụ môn Khoa học thằng bé được điểm hai, nghĩa là đạt yêu cầu."
   },
   {
     "word": "exam",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "formal test taken at the end of a course",
     "vi": "kỳ thi",
-    "viDef": "bài kiểm tra chính thức vào cuối một khóa học"
+    "viDef": "bài kiểm tra chính thức vào cuối một khóa học",
+    "ex": "In my day we got an A or B if we were doing well and if we failed an exam we would get an F!",
+    "exHit": "exam",
+    "exVi": "Hồi của tôi, học tốt thì được điểm A hoặc B, còn trượt một kỳ thi thì bị điểm F!"
   },
   {
     "word": "pass",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to complete successfully",
     "vi": "đậu",
-    "viDef": "hoàn thành thành công"
+    "viDef": "hoàn thành thành công",
+    "ex": "I studied hard, and I hope I pass the exam.",
+    "exHit": "pass",
+    "exVi": "Tôi đã học chăm chỉ và hy vọng sẽ đậu kỳ thi."
   },
   {
     "word": "fail",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to receive less than the passing grade or mark in an examination, class, or course of study",
     "vi": "rớt",
-    "viDef": "nhận điểm dưới mức đạt trong một kỳ thi, lớp hoặc môn học"
+    "viDef": "nhận điểm dưới mức đạt trong một kỳ thi, lớp hoặc môn học",
+    "ex": "In my day we got an A or B if we were doing well and if we failed an exam we would get an F!",
+    "exHit": "failed",
+    "exVi": "Hồi của tôi, học tốt thì được điểm A hoặc B, còn trượt một kỳ thi thì bị điểm F!"
   },
   {
     "word": "distinction",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "special honour, recognition",
     "vi": "danh hiệu ưu tú",
-    "viDef": "sự vinh danh, ghi nhận đặc biệt"
+    "viDef": "sự vinh danh, ghi nhận đặc biệt",
+    "ex": "She graduated with distinction from her high school.",
+    "exHit": "distinction",
+    "exVi": "Cô ấy tốt nghiệp trung học với thành tích xuất sắc."
   },
   {
     "word": "award",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "something awarded, such as a prize or medal",
     "vi": "phần thưởng",
-    "viDef": "thứ được trao như giải hoặc huy chương"
+    "viDef": "thứ được trao như giải hoặc huy chương",
+    "ex": "He won an award for being the best student in class.",
+    "exHit": "award",
+    "exVi": "Cậu ấy giành giải thưởng cho học sinh giỏi nhất lớp."
   },
   {
     "word": "principal",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "the head or director of a school",
     "vi": "hiệu trưởng",
-    "viDef": "người đứng đầu hoặc quản lý một trường học"
+    "viDef": "người đứng đầu hoặc quản lý một trường học",
+    "ex": "The principal called all the parents to a meeting.",
+    "exHit": "principal",
+    "exVi": "Thầy hiệu trưởng đã mời tất cả phụ huynh đến họp."
   }
 ]

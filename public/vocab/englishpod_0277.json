@@ -5,7 +5,10 @@
     "type": "",
     "def": "better than",
     "vi": "nhất bậc, trên một tầm",
-    "viDef": "hơn hẳn"
+    "viDef": "hơn hẳn",
+    "ex": "Firstly, the x420 has a range of USPs that really make it a cut above the rest.",
+    "exHit": "a cut above",
+    "exVi": "Trước hết, x420 có một loạt điểm bán hàng độc đáo khiến nó vượt trội hơn hẳn các sản phẩm còn lại."
   },
   {
     "word": "crystal-clear",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "perfectly clear",
     "vi": "rõ như ban ngày",
-    "viDef": "hoàn toàn rõ ràng"
+    "viDef": "hoàn toàn rõ ràng",
+    "ex": "The sound from these headphones is crystal-clear, and I can hear every note.",
+    "exHit": "crystal-clear",
+    "exVi": "Âm thanh của chiếc tai nghe này rất trong trẻo, nghe rõ từng nốt nhạc."
   },
   {
     "word": "bear in mind",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "remember",
     "vi": "xin nhớ cho",
-    "viDef": "ghi nhớ"
+    "viDef": "ghi nhớ",
+    "ex": "Now please bear in mind that this is only for the first year of production.",
+    "exHit": "bear in mind",
+    "exVi": "Xin hãy lưu ý rằng con số này chỉ áp dụng cho năm sản xuất đầu tiên."
   },
   {
     "word": "differentiate",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "recognize or show the difference",
     "vi": "tạo khác biệt",
-    "viDef": "nhận ra hoặc chỉ ra chỗ khác nhau"
+    "viDef": "nhận ra hoặc chỉ ra chỗ khác nhau",
+    "ex": "Now a key question you might ask yourself is what differentiates the new x420 line with our previous models, and also of course with some of our competitors.",
+    "exHit": "differentiates",
+    "exVi": "Một câu hỏi quan trọng mà quý vị có thể tự hỏi là điều gì khiến dòng x420 mới khác với các mẫu trước đây, và dĩ nhiên cả với một số đối thủ của chúng ta."
   },
   {
     "word": "in other words",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "take another way to say",
     "vi": "nói cách khác",
-    "viDef": "diễn đạt lại theo lối khác"
+    "viDef": "diễn đạt lại theo lối khác",
+    "ex": "In other words what makes the x420 stand out from all the others?",
+    "exHit": "In other words",
+    "exVi": "Nói cách khác, điều gì khiến x420 nổi bật so với tất cả các sản phẩm còn lại?"
   },
   {
     "word": "stand out",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "very noticeable",
     "vi": "nổi bật",
-    "viDef": "rất dễ nhận thấy"
+    "viDef": "rất dễ nhận thấy",
+    "ex": "In other words what makes the x420 stand out from all the others?",
+    "exHit": "stand out",
+    "exVi": "Nói cách khác, điều gì khiến x420 nổi bật so với tất cả các sản phẩm còn lại?"
   },
   {
     "word": "in a league of its own",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the best;have no competitor",
     "vi": "một mình một cõi",
-    "viDef": "hay nhất, không có đối thủ nào sánh"
+    "viDef": "hay nhất, không có đối thủ nào sánh",
+    "ex": "Compared with our previous x540 range it really is in a league of its own.",
+    "exHit": "in a league of its own",
+    "exVi": "So với dòng x540 trước đây, nó thực sự không có đối thủ."
   },
   {
     "word": "revenue",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the amount of sales, in dollars (or other currency)",
     "vi": "doanh thu",
-    "viDef": "tổng số bán được, tính bằng đô-la hoặc tiền khác"
+    "viDef": "tổng số bán được, tính bằng đô-la hoặc tiền khác",
+    "ex": "I'm certain that in the coming three years the x420 will actually overtake all our existing products, both in terms of sales and revenue.",
+    "exHit": "revenue",
+    "exVi": "Tôi tin chắc rằng trong ba năm tới, x420 sẽ vượt tất cả sản phẩm hiện có, cả về số lượng bán lẫn doanh thu."
   },
   {
     "word": "market share",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "how much of the market is occupied by sales of a certain product",
     "vi": "thị phần",
-    "viDef": "phần thị trường mà một sản phẩm chiếm được qua doanh số"
+    "viDef": "phần thị trường mà một sản phẩm chiếm được qua doanh số",
+    "ex": "Our company just gained more market share with the new phone.",
+    "exHit": "market share",
+    "exVi": "Công ty chúng tôi vừa giành thêm thị phần nhờ mẫu điện thoại mới."
   },
   {
     "word": "breakthrough",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "creative, innovative technology",
     "vi": "bước đột phá",
-    "viDef": "công nghệ sáng tạo, mới mẻ"
+    "viDef": "công nghệ sáng tạo, mới mẻ",
+    "ex": "This new battery is a breakthrough because it lasts a whole week.",
+    "exHit": "breakthrough",
+    "exVi": "Pin mới này là một bước đột phá, vì nó dùng được suốt một tuần."
   },
   {
     "word": "generate",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "to come up with",
     "vi": "tạo ra",
-    "viDef": "nghĩ ra được"
+    "viDef": "nghĩ ra được",
+    "ex": "The company has just generated a new idea for saving energy.",
+    "exHit": "generated",
+    "exVi": "Công ty này vừa tạo ra một ý tưởng mới giúp tiết kiệm điện."
   }
 ]

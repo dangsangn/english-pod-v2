@@ -5,7 +5,10 @@
     "type": "",
     "def": "to be very hungry",
     "vi": "đói ngấu",
-    "viDef": "đang rất đói"
+    "viDef": "đang rất đói",
+    "ex": "You don't have to starve yourself to lose weight.",
+    "exHit": "starve",
+    "exVi": "Bạn không cần nhịn đói để giảm cân."
   },
   {
     "word": "love handles",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "folds of excess fat on either side of the waist",
     "vi": "ngấn mỡ hai bên hông",
-    "viDef": "các lớp mỡ dư ở hai bên vòng bụng"
+    "viDef": "các lớp mỡ dư ở hai bên vòng bụng",
+    "ex": "Look at these love handles.",
+    "exHit": "love handles",
+    "exVi": "Nhìn mấy ngấn mỡ bên hông này xem."
   },
   {
     "word": "calorie",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a unit of heat",
     "vi": "ca-lo",
-    "viDef": "đơn vị đo nhiệt lượng"
+    "viDef": "đơn vị đo nhiệt lượng",
+    "ex": "You should try to not eat foods high in calories, salts or saturated fats.",
+    "exHit": "calories",
+    "exVi": "Bạn nên cố tránh những thực phẩm nhiều calo, muối hoặc chất béo bão hòa."
   },
   {
     "word": "intake",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a quantity take in",
     "vi": "lượng nạp vào",
-    "viDef": "khối lượng đưa vào người"
+    "viDef": "khối lượng đưa vào người",
+    "ex": "You can have steamed veggies or increase your protein intake found in chicken or fish.",
+    "exHit": "intake",
+    "exVi": "Bạn có thể ăn rau hấp hoặc tăng lượng protein nạp vào từ thịt gà hoặc cá."
   },
   {
     "word": "do not count on",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "do not rely on, depend on",
     "vi": "đừng trông vào",
-    "viDef": "chớ dựa hay tin vào điều đó"
+    "viDef": "chớ dựa hay tin vào điều đó",
+    "ex": "Don't count on losing weight without exercising.",
+    "exHit": "Don't count on",
+    "exVi": "Đừng trông chờ vào việc giảm cân mà không tập thể dục."
   },
   {
     "word": "to diet",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to change what you eat in order to lose weight",
     "vi": "ăn theo chế độ",
-    "viDef": "đổi cách ăn để giảm cân"
+    "viDef": "đổi cách ăn để giảm cân",
+    "ex": "I'm going to diet for a month before the wedding.",
+    "exHit": "diet",
+    "exVi": "Mình sẽ ăn kiêng một tháng trước đám cưới."
   },
   {
     "word": "Atkins diet",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a diet high in protein and low in carbohydrates",
     "vi": "chế độ Atkins",
-    "viDef": "lối ăn nhiều đạm, ít tinh bột"
+    "viDef": "lối ăn nhiều đạm, ít tinh bột",
+    "ex": "My uncle lost twenty kilos on the Atkins diet.",
+    "exHit": "Atkins diet",
+    "exVi": "Chú mình giảm được hai mươi ký nhờ chế độ ăn Atkins."
   },
   {
     "word": "anorexia",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "diesase in which people starve themselves to be thin",
     "vi": "chứng chán ăn",
-    "viDef": "bệnh mà người ta bỏ ăn để cho gầy"
+    "viDef": "bệnh mà người ta bỏ ăn để cho gầy",
+    "ex": "Anorexia is a serious illness, not a simple diet.",
+    "exHit": "Anorexia",
+    "exVi": "Chán ăn tâm lý là một căn bệnh nghiêm trọng chứ không phải một chế độ ăn kiêng đơn thuần."
   },
   {
     "word": "obese",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "extremely fat",
     "vi": "béo phì",
-    "viDef": "quá mập"
+    "viDef": "quá mập",
+    "ex": "The doctor warned him that he was becoming obese.",
+    "exHit": "obese",
+    "exVi": "Bác sĩ cảnh báo anh ấy đang dần trở nên béo phì."
   },
   {
     "word": "low-carb",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "not containing many carbohydrates",
     "vi": "ít tinh bột",
-    "viDef": "không chứa nhiều carbohydrate"
+    "viDef": "không chứa nhiều carbohydrate",
+    "ex": "I'm eating a low-carb dinner with chicken and salad tonight.",
+    "exHit": "low-carb",
+    "exVi": "Tối nay mình ăn bữa tối ít tinh bột với thịt gà và salad."
   }
 ]

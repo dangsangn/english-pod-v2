@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "a list of drugs written by doctor",
     "vi": "đơn thuốc",
-    "viDef": "danh sách thuốc do bác sĩ kê"
+    "viDef": "danh sách thuốc do bác sĩ kê",
+    "ex": "Yes, I need this prescription please.",
+    "exHit": "prescription",
+    "exVi": "Vâng, tôi cần lấy thuốc theo đơn này."
   },
   {
     "word": "milligram",
@@ -13,7 +16,10 @@
     "type": "common noun, plural",
     "def": "a unit for measuring weight",
     "vi": "mi-li-gam",
-    "viDef": "đơn vị đo khối lượng"
+    "viDef": "đơn vị đo khối lượng",
+    "ex": "This pill is five hundred milligram, so take only one.",
+    "exHit": "milligram",
+    "exVi": "Viên thuốc này là năm trăm miligam, nên chỉ uống một viên."
   },
   {
     "word": "capsule",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "(drug) contained in a plastic container",
     "vi": "viên nhộng",
-    "viDef": "thuốc bọc trong vỏ nhựa"
+    "viDef": "thuốc bọc trong vỏ nhựa",
+    "ex": "Okay, you should take 1 capsule 3 times a day.",
+    "exHit": "capsule",
+    "exVi": "Được rồi, bạn hãy uống 1 viên nang, ngày 3 lần."
   },
   {
     "word": "tablet",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "(drug) formed in round hard shape",
     "vi": "viên nén",
-    "viDef": "thuốc ép thành viên tròn, cứng"
+    "viDef": "thuốc ép thành viên tròn, cứng",
+    "ex": "Okay, so 50 mg of Prozac, would you prefer this in capsule or tablet?",
+    "exHit": "tablet",
+    "exVi": "Được rồi, 50 mg Prozac, bạn muốn dạng viên nang hay viên nén?"
   },
   {
     "word": "overdose",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "take more drugs than suggested",
     "vi": "dùng quá liều",
-    "viDef": "uống nhiều thuốc hơn liều khuyến nghị"
+    "viDef": "uống nhiều thuốc hơn liều khuyến nghị",
+    "ex": "Don't worry, I won't overdose!",
+    "exHit": "overdose",
+    "exVi": "Đừng lo, tôi sẽ không uống quá liều đâu!"
   },
   {
     "word": "eye drop",
@@ -45,7 +60,10 @@
     "type": "common noun, plural",
     "def": "liquid used to drop into eyes to treat eye diseases",
     "vi": "thuốc nhỏ mắt",
-    "viDef": "dung dịch nhỏ vào mắt để trị bệnh mắt"
+    "viDef": "dung dịch nhỏ vào mắt để trị bệnh mắt",
+    "ex": "Can I also get some eye drops and um, some condoms?",
+    "exHit": "eye drops",
+    "exVi": "Cho tôi lấy thêm thuốc nhỏ mắt và, ừm, một ít bao cao su nữa được không?"
   },
   {
     "word": "hang on",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "hold on",
     "vi": "chờ chút",
-    "viDef": "đợi một lát"
+    "viDef": "đợi một lát",
+    "ex": "Just hang on there a sec.",
+    "exHit": "hang on",
+    "exVi": "Chờ ở đó một chút nhé."
   },
   {
     "word": "get a price check",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "type in the number of something to check it's price",
     "vi": "kiểm tra giá",
-    "viDef": "nhập mã hàng để tra giá"
+    "viDef": "nhập mã hàng để tra giá",
+    "ex": "Can I get a price check on \" Fun Times Ribbed Condoms\" please!",
+    "exHit": "get a price check",
+    "exVi": "Cho tôi kiểm tra giá món \"Fun Times Ribbed Condoms\" được không!"
   },
   {
     "word": "syringe",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a device made of a hollow tube and a needle that is used to force fluids into or take fluids out of the body",
     "vi": "ống tiêm",
-    "viDef": "dụng cụ gồm ống rỗng và kim, dùng bơm hoặc hút dịch trong người"
+    "viDef": "dụng cụ gồm ống rỗng và kim, dùng bơm hoặc hút dịch trong người",
+    "ex": "The nurse picked up the syringe and cleaned my arm.",
+    "exHit": "syringe",
+    "exVi": "Cô y tá cầm ống tiêm lên và sát trùng cánh tay tôi."
   },
   {
     "word": "cough syrup",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a usually sweet liquid that contains medicine used to stop coughing —called also cough medicine",
     "vi": "siro ho",
-    "viDef": "dung dịch ngọt có thuốc dùng để trị ho"
+    "viDef": "dung dịch ngọt có thuốc dùng để trị ho",
+    "ex": "I need some cough syrup because my throat hurts.",
+    "exHit": "cough syrup",
+    "exVi": "Tôi cần chút siro ho vì cổ họng tôi đau."
   },
   {
     "word": "bandage",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a covering (such as a strip of cloth) that protects or supports part of the body that has been hurt",
     "vi": "băng gạc",
-    "viDef": "dải vải băng lại để che hoặc đỡ chỗ bị thương"
+    "viDef": "dải vải băng lại để che hoặc đỡ chỗ bị thương",
+    "ex": "Could I have a bandage for my finger, please?",
+    "exHit": "bandage",
+    "exVi": "Cho tôi xin một miếng băng cho ngón tay được không?"
   },
   {
     "word": "hydrogen peroxide",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a liquid that is used to make things lighter in color or to kill bacteria",
     "vi": "ô-xy già",
-    "viDef": "dung dịch dùng làm nhạt màu hoặc diệt khuẩn"
+    "viDef": "dung dịch dùng làm nhạt màu hoặc diệt khuẩn",
+    "ex": "Use hydrogen peroxide to clean that cut.",
+    "exHit": "hydrogen peroxide",
+    "exVi": "Hãy dùng nước oxy già để rửa vết cắt đó."
   },
   {
     "word": "ointment",
@@ -101,6 +137,9 @@
     "type": "common noun, singular",
     "def": "a smooth substance that is rubbed on the skin to help heal a wound or to reduce pain or discomfort",
     "vi": "thuốc mỡ",
-    "viDef": "chất mịn bôi lên da để lành vết thương hoặc giảm đau"
+    "viDef": "chất mịn bôi lên da để lành vết thương hoặc giảm đau",
+    "ex": "Put some ointment on the burn twice a day.",
+    "exHit": "ointment",
+    "exVi": "Hãy bôi chút thuốc mỡ lên chỗ bỏng hai lần một ngày."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "requiring skill or caution",
     "vi": "khó nhằn",
-    "viDef": "cần kỹ năng hoặc phải cẩn thận"
+    "viDef": "cần kỹ năng hoặc phải cẩn thận",
+    "ex": "Now let's take a look at this tricky section.",
+    "exHit": "tricky",
+    "exVi": "Bây giờ chúng ta hãy xem đoạn khó này."
   },
   {
     "word": "scale",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a series of musical notes",
     "vi": "gam nhạc",
-    "viDef": "chuỗi các nốt nhạc"
+    "viDef": "chuỗi các nốt nhạc",
+    "ex": "Warm up with some scales and arpeggios first.",
+    "exHit": "scales",
+    "exVi": "Hãy khởi động bằng vài gam và hợp âm rải trước."
   },
   {
     "word": "tempo",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the speed at which a musical piece is played",
     "vi": "nhịp độ",
-    "viDef": "tốc độ chơi một bản nhạc"
+    "viDef": "tốc độ chơi một bản nhạc",
+    "ex": "Remember the tempo for this piece is andante.",
+    "exHit": "tempo",
+    "exVi": "Nhớ là nhịp độ của bản nhạc này là andante."
   },
   {
     "word": "by leaps and bounds",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "very quickly",
     "vi": "nhanh như thổi",
-    "viDef": "tiến rất nhanh"
+    "viDef": "tiến rất nhanh",
+    "ex": "That's ok, keep going, you're moving ahead by leaps and bounds.",
+    "exHit": "by leaps and bounds",
+    "exVi": "Không sao, cứ tiếp tục đi, em đang tiến bộ rất nhanh đấy."
   },
   {
     "word": "musicianship",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the skill of performing music",
     "vi": "tay nghề âm nhạc",
-    "viDef": "khả năng biểu diễn nhạc"
+    "viDef": "khả năng biểu diễn nhạc",
+    "ex": "Remember that as a pianist or any other musician, your technique will be what separates you from the pack just as much or more so as your musicianship.",
+    "exHit": "musicianship",
+    "exVi": "Hãy nhớ rằng với một nghệ sĩ piano hay bất kỳ nhạc công nào, kỹ thuật là thứ giúp bạn nổi bật hơn người khác, nhiều bằng hoặc hơn cả khả năng biểu diễn âm nhạc của bạn."
   },
   {
     "word": "note",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a specific musical tone",
     "vi": "nốt nhạc",
-    "viDef": "một cao độ nhất định trong nhạc"
+    "viDef": "một cao độ nhất định trong nhạc",
+    "ex": "The key signature says that note should be a G-sharp but now it's a G-natural.",
+    "exHit": "note",
+    "exVi": "Khóa nhạc cho biết nốt đó phải là sol thăng, nhưng bây giờ lại là sol thường."
   },
   {
     "word": "dynamics",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "changes in how loudly a piece of music is played",
     "vi": "sắc thái to nhỏ",
-    "viDef": "sự thay đổi độ mạnh nhẹ khi chơi một bản nhạc"
+    "viDef": "sự thay đổi độ mạnh nhẹ khi chơi một bản nhạc",
+    "ex": "Watch your dynamics!",
+    "exHit": "dynamics",
+    "exVi": "Chú ý sắc thái mạnh nhẹ của em!"
   },
   {
     "word": "key",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A button depressed with fingers to produce sounds",
     "vi": "phím đàn",
-    "viDef": "phím ấn bằng ngón để phát ra tiếng"
+    "viDef": "phím ấn bằng ngón để phát ra tiếng",
+    "ex": "The key signature says that note should be a G-sharp but now it's a G-natural.",
+    "exHit": "key",
+    "exVi": "Khóa nhạc cho biết nốt đó phải là sol thăng, nhưng bây giờ lại là sol thường."
   },
   {
     "word": "hammer",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a wooden piece which strikes the strings",
     "vi": "búa gõ dây",
-    "viDef": "thanh gỗ đập vào dây đàn"
+    "viDef": "thanh gỗ đập vào dây đàn",
+    "ex": "Each time you press a key, a small hammer hits the string.",
+    "exHit": "hammer",
+    "exVi": "Mỗi lần bạn nhấn một phím, một chiếc búa nhỏ sẽ gõ vào dây đàn."
   },
   {
     "word": "string",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "wires that when hit by the hammer produces sounds",
     "vi": "dây đàn",
-    "viDef": "các sợi dây phát tiếng khi bị búa gõ"
+    "viDef": "các sợi dây phát tiếng khi bị búa gõ",
+    "ex": "If a string breaks, the piano will sound out of tune.",
+    "exHit": "string",
+    "exVi": "Nếu một sợi dây đàn bị đứt, cây piano sẽ bị lạc tông."
   },
   {
     "word": "plate",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "the iron frame which holds the strings in place",
     "vi": "khung gang",
-    "viDef": "khung sắt giữ các dây đàn đúng vị trí"
+    "viDef": "khung sắt giữ các dây đàn đúng vị trí",
+    "ex": "The iron plate inside the piano holds all the strings in place.",
+    "exHit": "plate",
+    "exVi": "Khung sắt bên trong đàn piano giữ tất cả các dây đàn cố định."
   },
   {
     "word": "hitch pin",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "a metal screw that holds one end of the string",
     "vi": "chốt neo dây",
-    "viDef": "đinh kim loại giữ một đầu của dây đàn"
+    "viDef": "đinh kim loại giữ một đầu của dây đàn",
+    "ex": "The tuner turned the hitch pin to tighten the string.",
+    "exHit": "hitch pin",
+    "exVi": "Người chỉnh đàn đã vặn chốt giữ dây để căng dây ra."
   },
   {
     "word": "grand piano",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "a specific type of piano",
     "vi": "đại dương cầm",
-    "viDef": "một loại đàn piano nhất định"
+    "viDef": "một loại đàn piano nhất định",
+    "ex": "My teacher has a beautiful grand piano in her living room.",
+    "exHit": "grand piano",
+    "exVi": "Cô giáo của tôi có một cây đại dương cầm rất đẹp trong phòng khách."
   }
 ]

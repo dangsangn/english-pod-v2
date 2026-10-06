@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "look at (informal)",
     "vi": "nhìn kìa",
-    "viDef": "xem cái này đi (thân mật)"
+    "viDef": "xem cái này đi (thân mật)",
+    "ex": "Get a load of this guy!",
+    "exHit": "Get a load of",
+    "exVi": "Nhìn gã này kìa!"
   },
   {
     "word": "license",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "official document that shows you have permission to drive a car",
     "vi": "bằng lái xe",
-    "viDef": "giấy tờ chính thức chứng minh bạn được phép lái ô tô"
+    "viDef": "giấy tờ chính thức chứng minh bạn được phép lái ô tô",
+    "ex": "License and registration please.",
+    "exHit": "License",
+    "exVi": "Làm ơn cho xem bằng lái và giấy đăng ký xe."
   },
   {
     "word": "eggnog",
@@ -21,7 +27,10 @@
     "type": "common noun, non-variable",
     "def": "traditional Christmas drink containing eggs, cream, sugar and rum",
     "vi": "rượu trứng Giáng sinh",
-    "viDef": "thức uống Giáng sinh truyền thống gồm trứng, kem, đường và rum"
+    "viDef": "thức uống Giáng sinh truyền thống gồm trứng, kem, đường và rum",
+    "ex": "I had one or two glasses of eggnog, but nothing else.",
+    "exHit": "eggnog",
+    "exVi": "Tôi đã uống một hai ly eggnog, nhưng không uống gì khác."
   },
   {
     "word": "vehicle",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "machine use to carry people, i.e. a car or truck",
     "vi": "phương tiện",
-    "viDef": "cỗ máy chở người, ví dụ ô tô hay xe tải"
+    "viDef": "cỗ máy chở người, ví dụ ô tô hay xe tải",
+    "ex": "Step out of the vehicle, please.",
+    "exHit": "vehicle",
+    "exVi": "Làm ơn bước ra khỏi xe."
   },
   {
     "word": "step out",
@@ -37,7 +49,10 @@
     "type": "principle verb, imperative",
     "def": "briefly go out of a place",
     "vi": "bước ra ngoài",
-    "viDef": "ra khỏi chỗ nào đó một lát"
+    "viDef": "ra khỏi chỗ nào đó một lát",
+    "ex": "Step out of the vehicle, please.",
+    "exHit": "Step out",
+    "exVi": "Làm ơn bước ra khỏi xe."
   },
   {
     "word": "take that tone",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "speak in that tone of voice",
     "vi": "nói cái giọng đó",
-    "viDef": "dùng giọng điệu ấy để nói"
+    "viDef": "dùng giọng điệu ấy để nói",
+    "ex": "Don't take that tone with me.",
+    "exHit": "take that tone",
+    "exVi": "Đừng có giọng điệu đó với tôi."
   },
   {
     "word": "invoice",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "official document that shows you have paid for something you bought",
     "vi": "hóa đơn",
-    "viDef": "chứng từ chính thức cho thấy bạn đã trả tiền món đồ đã mua"
+    "viDef": "chứng từ chính thức cho thấy bạn đã trả tiền món đồ đã mua",
+    "ex": "Do you have an invoice for these items?",
+    "exHit": "invoice",
+    "exVi": "Anh có hóa đơn cho những món hàng này không?"
   },
   {
     "word": "arrest",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "the act of legally taking someone to jail",
     "vi": "sự bắt giữ",
-    "viDef": "việc hợp pháp đưa ai đó vào tù"
+    "viDef": "việc hợp pháp đưa ai đó vào tù",
+    "ex": "You are under arrest, sir.",
+    "exHit": "arrest",
+    "exVi": "Anh đang bị bắt, thưa anh."
   },
   {
     "word": "pout",
@@ -69,7 +93,10 @@
     "type": "principle verb, present simple",
     "def": "push out your lips to show that you are unhappy",
     "vi": "bĩu môi",
-    "viDef": "chu môi ra để tỏ vẻ không vui"
+    "viDef": "chu môi ra để tỏ vẻ không vui",
+    "ex": "You better not pout, you better not cry.",
+    "exHit": "pout",
+    "exVi": "Tốt nhất là đừng có bĩu môi, đừng có khóc."
   },
   {
     "word": "sleigh",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "large, open vehicle that is pulled by horses over snow or ice",
     "vi": "xe trượt tuyết",
-    "viDef": "xe lớn không mui do ngựa kéo trên tuyết hoặc băng"
+    "viDef": "xe lớn không mui do ngựa kéo trên tuyết hoặc băng",
+    "ex": "What about my sleigh?",
+    "exHit": "sleigh",
+    "exVi": "Còn chiếc xe trượt tuyết của tôi thì sao?"
   },
   {
     "word": "handcuffs",
@@ -85,7 +115,10 @@
     "type": "common noun, plural",
     "def": "a set of two metal rings that are used to join a persons hands together, esp. by police",
     "vi": "còng tay",
-    "viDef": "hai vòng kim loại dùng để khóa hai tay lại, thường do cảnh sát dùng"
+    "viDef": "hai vòng kim loại dùng để khóa hai tay lại, thường do cảnh sát dùng",
+    "ex": "The police put handcuffs on the thief and led him away.",
+    "exHit": "handcuffs",
+    "exVi": "Cảnh sát còng tay tên trộm và dẫn hắn đi."
   },
   {
     "word": "prison",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a building where criminals are kept as punishment",
     "vi": "nhà tù",
-    "viDef": "nơi giam giữ tội phạm để trừng phạt"
+    "viDef": "nơi giam giữ tội phạm để trừng phạt",
+    "ex": "He spent five years in prison for stealing a lot of money.",
+    "exHit": "prison",
+    "exVi": "Anh ta đã ngồi tù năm năm vì ăn cắp rất nhiều tiền."
   },
   {
     "word": "read someone's rights",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "tell someone their legal rights, usually when they are arrested",
     "vi": "đọc quyền cho người bị bắt",
-    "viDef": "thông báo quyền hợp pháp cho ai đó, thường là khi họ bị bắt"
+    "viDef": "thông báo quyền hợp pháp cho ai đó, thường là khi họ bị bắt",
+    "ex": "The officer began to read him his rights as he was arrested.",
+    "exHit": "read him his rights",
+    "exVi": "Viên cảnh sát bắt đầu đọc cho anh ta nghe các quyền của mình khi bị bắt."
   },
   {
     "word": "DUI",
@@ -109,7 +148,10 @@
     "type": "phrase",
     "def": "driving under the influence of alcohol or drugs",
     "vi": "lái xe khi say",
-    "viDef": "lái xe trong tình trạng có rượu bia hoặc ma túy"
+    "viDef": "lái xe trong tình trạng có rượu bia hoặc ma túy",
+    "ex": "He lost his license after getting a DUI last summer.",
+    "exHit": "DUI",
+    "exVi": "Anh ta bị tước bằng lái sau khi bị phạt lái xe khi say vào mùa hè năm ngoái."
   },
   {
     "word": "speeding ticket",
@@ -117,6 +159,9 @@
     "type": "common noun, singular",
     "def": "a piece of paper the police give if you are diving too fast",
     "vi": "vé phạt chạy quá tốc độ",
-    "viDef": "giấy phạt cảnh sát lập khi bạn lái quá nhanh"
+    "viDef": "giấy phạt cảnh sát lập khi bạn lái quá nhanh",
+    "ex": "I got a speeding ticket because I was late for work.",
+    "exHit": "speeding ticket",
+    "exVi": "Tôi bị phạt vì chạy quá tốc độ do đi làm trễ."
   }
 ]

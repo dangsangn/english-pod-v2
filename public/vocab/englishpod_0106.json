@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "you are lucky right now; we have what you need",
     "vi": "may cho anh/chị rồi",
-    "viDef": "đúng lúc có thứ bạn cần"
+    "viDef": "đúng lúc có thứ bạn cần",
+    "ex": "Well, you're in luck!",
+    "exHit": "in luck",
+    "exVi": "Chà, bạn gặp may rồi!"
   },
   {
     "word": "compatible with",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "able to work well together",
     "vi": "tương thích với",
-    "viDef": "dùng chung được với nhau"
+    "viDef": "dùng chung được với nhau",
+    "ex": "Unfortunately, this phone can't be used in the US; it's not compatible with our 3G network.",
+    "exHit": "compatible with",
+    "exVi": "Tiếc là điện thoại này không dùng được ở Mỹ; nó không tương thích với mạng 3G của chúng tôi."
   },
   {
     "word": "monthly rate plan",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "a program that needs you to pay every month",
     "vi": "gói trả tháng",
-    "viDef": "chương trình phải đóng tiền hằng tháng"
+    "viDef": "chương trình phải đóng tiền hằng tháng",
+    "ex": "Yeah, I've just moved here, and I'd like to activate my cell phone, and I'm not sure if I should go with a prepaid plan, or a monthly rate plan.",
+    "exHit": "monthly rate plan",
+    "exVi": "Vâng, tôi mới chuyển đến đây và muốn kích hoạt điện thoại, nhưng tôi không chắc nên chọn gói trả trước hay gói cước hàng tháng."
   },
   {
     "word": "activate",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "cause something to start working",
     "vi": "kích hoạt",
-    "viDef": "làm cho bắt đầu hoạt động"
+    "viDef": "làm cho bắt đầu hoạt động",
+    "ex": "Yeah, I've just moved here, and I'd like to activate my cell phone, and I'm not sure if I should go with a prepaid plan, or a monthly rate plan.",
+    "exHit": "activate",
+    "exVi": "Vâng, tôi mới chuyển đến đây và muốn kích hoạt điện thoại, nhưng tôi không chắc nên chọn gói trả trước hay gói cước hàng tháng."
   },
   {
     "word": "prepaid rate plan",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "a prgram where you pay for cell phone time in advance",
     "vi": "gói trả trước",
-    "viDef": "chương trình nạp tiền trước để gọi"
+    "viDef": "chương trình nạp tiền trước để gọi",
+    "ex": "A prepaid rate plan is cheaper if you rarely use your phone.",
+    "exHit": "prepaid rate plan",
+    "exVi": "Gói cước trả trước rẻ hơn nếu bạn hiếm khi dùng điện thoại."
   },
   {
     "word": "throw in",
@@ -45,7 +60,10 @@
     "type": "verb",
     "def": "give something extra for free",
     "vi": "tặng kèm",
-    "viDef": "cho thêm mà không lấy tiền"
+    "viDef": "cho thêm mà không lấy tiền",
+    "ex": "You see, if you sign up for our three-year plan, we'll throw in a handset for free.",
+    "exHit": "throw in",
+    "exVi": "Bạn thấy đấy, nếu bạn đăng ký gói ba năm, chúng tôi sẽ tặng thêm một chiếc điện thoại miễn phí."
   },
   {
     "word": "what is the catch",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "what is the hidden drawback",
     "vi": "có bẫy gì ở đây",
-    "viDef": "điểm bất lợi ẩn là gì"
+    "viDef": "điểm bất lợi ẩn là gì",
+    "ex": "This phone is free, so what is the catch?",
+    "exHit": "what is the catch",
+    "exVi": "Chiếc điện thoại này miễn phí, vậy có điều kiện ngầm gì không?"
   },
   {
     "word": "any time minutes",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "cell phone time you can use at any time",
     "vi": "phút gọi giờ nào cũng được",
-    "viDef": "thời lượng gọi dùng bất cứ lúc nào"
+    "viDef": "thời lượng gọi dùng bất cứ lúc nào",
+    "ex": "This plan includes five hundred any time minutes every month.",
+    "exHit": "any time minutes",
+    "exVi": "Gói này có năm trăm phút gọi bất cứ lúc nào mỗi tháng."
   },
   {
     "word": "text message",
@@ -69,7 +93,10 @@
     "type": "common noun, plural",
     "def": "short messages sent by mobile phone",
     "vi": "tin nhắn",
-    "viDef": "mẩu tin ngắn gửi bằng điện thoại"
+    "viDef": "mẩu tin ngắn gửi bằng điện thoại",
+    "ex": "Well, you get nine hundred anytime minutes, and you can also enjoy free mobile to mobile calling to other Tel-Mobile clients, one thousand text messages per month, and unlimited evening and weekend minutes.",
+    "exHit": "text messages",
+    "exVi": "Bạn có chín trăm phút gọi bất cứ lúc nào, gọi miễn phí giữa các máy với khách hàng Tel-Mobile khác, một nghìn tin nhắn mỗi tháng, và không giới hạn phút buổi tối và cuối tuần."
   },
   {
     "word": "unlimited",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "with out limit; as much as you want",
     "vi": "không giới hạn",
-    "viDef": "dùng bao nhiêu cũng được"
+    "viDef": "dùng bao nhiêu cũng được",
+    "ex": "Well, you get nine hundred anytime minutes, and you can also enjoy free mobile to mobile calling to other Tel-Mobile clients, one thousand text messages per month, and unlimited evening and weekend minutes.",
+    "exHit": "unlimited",
+    "exVi": "Bạn có chín trăm phút gọi bất cứ lúc nào, gọi miễn phí giữa các máy với khách hàng Tel-Mobile khác, một nghìn tin nhắn mỗi tháng, và không giới hạn phút buổi tối và cuối tuần."
   },
   {
     "word": "evening and weekend minutes",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "cell phone minutes you can use on evenings and wee",
     "vi": "phút gọi tối và cuối tuần",
-    "viDef": "thời lượng gọi dùng vào buổi tối và ngày cuối tuần"
+    "viDef": "thời lượng gọi dùng vào buổi tối và ngày cuối tuần",
+    "ex": "Well, you get nine hundred anytime minutes, and you can also enjoy free mobile to mobile calling to other Tel-Mobile clients, one thousand text messages per month, and unlimited evening and weekend minutes.",
+    "exHit": "evening and weekend minutes",
+    "exVi": "Bạn có chín trăm phút gọi bất cứ lúc nào, gọi miễn phí giữa các máy với khách hàng Tel-Mobile khác, một nghìn tin nhắn mỗi tháng, và không giới hạn phút buổi tối và cuối tuần."
   },
   {
     "word": "rollover",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "allow unused minutes to be used the next month",
     "vi": "chuyển phút sang tháng sau",
-    "viDef": "cho dồn số phút chưa dùng sang tháng kế"
+    "viDef": "cho dồn số phút chưa dùng sang tháng kế",
+    "ex": "Oh, and we also offer a rollover option.",
+    "exHit": "rollover",
+    "exVi": "À, và chúng tôi cũng có tùy chọn cộng dồn phút chưa dùng."
   },
   {
     "word": "handset",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "mobile phone",
     "vi": "máy điện thoại",
-    "viDef": "chiếc điện thoại di động"
+    "viDef": "chiếc điện thoại di động",
+    "ex": "You see, if you sign up for our three-year plan, we'll throw in a handset for free.",
+    "exHit": "handset",
+    "exVi": "Bạn thấy đấy, nếu bạn đăng ký gói ba năm, chúng tôi sẽ tặng thêm một chiếc điện thoại miễn phí."
   },
   {
     "word": "fee",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "the amount of money you need to pay",
     "vi": "phí",
-    "viDef": "số tiền phải trả"
+    "viDef": "số tiền phải trả",
+    "ex": "That's right, plus the activation fee, the emergancy services fee, the monthly service fee, oh, and any charges for extra minutes, and...",
+    "exHit": "fee",
+    "exVi": "Đúng vậy, cộng với phí kích hoạt, phí dịch vụ khẩn cấp, phí dịch vụ hàng tháng, à, và mọi khoản phí cho phút gọi thêm, và..."
   },
   {
     "word": "charge",
@@ -117,7 +159,10 @@
     "type": "common noun, plural",
     "def": "the amount of money you need to pay",
     "vi": "khoản thu",
-    "viDef": "số tiền bị tính"
+    "viDef": "số tiền bị tính",
+    "ex": "That's right, plus the activation fee, the emergancy services fee, the monthly service fee, oh, and any charges for extra minutes, and...",
+    "exHit": "charges",
+    "exVi": "Đúng vậy, cộng với phí kích hoạt, phí dịch vụ khẩn cấp, phí dịch vụ hàng tháng, à, và mọi khoản phí cho phút gọi thêm, và..."
   },
   {
     "word": "device",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "an object or machine made for a specific purpose",
     "vi": "thiết bị",
-    "viDef": "vật hoặc máy làm ra cho một mục đích riêng"
+    "viDef": "vật hoặc máy làm ra cho một mục đích riêng",
+    "ex": "I need a device that can charge my phone in the car.",
+    "exHit": "device",
+    "exVi": "Tôi cần một thiết bị có thể sạc điện thoại trong xe."
   },
   {
     "word": "data package",
@@ -133,7 +181,10 @@
     "type": "common noun, singular",
     "def": "a part of a cell phone package that lets you go on the internet",
     "vi": "gói dữ liệu",
-    "viDef": "phần trong gói điện thoại cho phép vào mạng"
+    "viDef": "phần trong gói điện thoại cho phép vào mạng",
+    "ex": "Which data package lets me watch videos on my phone?",
+    "exHit": "data package",
+    "exVi": "Gói dữ liệu nào cho phép tôi xem video trên điện thoại?"
   },
   {
     "word": "text",
@@ -141,7 +192,10 @@
     "type": "verb",
     "def": "write and send a text message",
     "vi": "nhắn tin",
-    "viDef": "viết và gửi tin nhắn"
+    "viDef": "viết và gửi tin nhắn",
+    "ex": "I will text you the address as soon as I get there.",
+    "exHit": "text",
+    "exVi": "Tôi sẽ nhắn tin cho bạn địa chỉ ngay khi tôi đến nơi."
   },
   {
     "word": "landline",
@@ -149,7 +203,10 @@
     "type": "common noun, singular",
     "def": "a phone that attaches to the network by a wire",
     "vi": "điện thoại cố định",
-    "viDef": "máy nối vào mạng bằng dây"
+    "viDef": "máy nối vào mạng bằng dây",
+    "ex": "We still have a landline at home for emergencies.",
+    "exHit": "landline",
+    "exVi": "Nhà chúng tôi vẫn có điện thoại bàn để dùng khi khẩn cấp."
   },
   {
     "word": "SIM card",
@@ -157,6 +214,9 @@
     "type": "common noun, singular",
     "def": "a computer chip you put in your cell phone",
     "vi": "thẻ SIM",
-    "viDef": "con chip cắm vào điện thoại"
+    "viDef": "con chip cắm vào điện thoại",
+    "ex": "You need to put a new SIM card in the phone.",
+    "exHit": "SIM card",
+    "exVi": "Bạn cần lắp thẻ SIM mới vào điện thoại."
   }
 ]

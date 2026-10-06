@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "place in the hospital where very ill patients are treated",
     "vi": "khoa hồi sức tích cực",
-    "viDef": "nơi trong bệnh viện điều trị bệnh nhân rất nặng"
+    "viDef": "nơi trong bệnh viện điều trị bệnh nhân rất nặng",
+    "ex": "We're moving him to intensive care, but…",
+    "exHit": "intensive care",
+    "exVi": "Chúng tôi đang chuyển anh ấy sang phòng chăm sóc đặc biệt, nhưng..."
   },
   {
     "word": "critical condition",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "state where a person is very sick or injured, and has a risk of dying",
     "vi": "tình trạng nguy kịch",
-    "viDef": "bệnh hoặc thương rất nặng, có nguy cơ tử vong"
+    "viDef": "bệnh hoặc thương rất nặng, có nguy cơ tử vong",
+    "ex": "We managed to stabilize Frankie, but he's not out of the woods yet; he's still in critical condition.",
+    "exHit": "critical condition",
+    "exVi": "Chúng tôi đã ổn định được Frankie, nhưng anh ấy chưa qua cơn nguy kịch; tình trạng vẫn rất nguy hiểm."
   },
   {
     "word": "out of the woods",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "out trouble or danger,",
     "vi": "qua cơn nguy",
-    "viDef": "đã thoát khỏi rắc rối hoặc hiểm nguy"
+    "viDef": "đã thoát khỏi rắc rối hoặc hiểm nguy",
+    "ex": "We managed to stabilize Frankie, but he's not out of the woods yet; he's still in critical condition.",
+    "exHit": "out of the woods",
+    "exVi": "Chúng tôi đã ổn định được Frankie, nhưng anh ấy chưa qua cơn nguy kịch; tình trạng vẫn rất nguy hiểm."
   },
   {
     "word": "stabilize",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "stop a patient from getting worse",
     "vi": "làm ổn định",
-    "viDef": "giữ cho bệnh nhân không xấu thêm"
+    "viDef": "giữ cho bệnh nhân không xấu thêm",
+    "ex": "We managed to stabilize Frankie, but he's not out of the woods yet; he's still in critical condition.",
+    "exHit": "stabilize",
+    "exVi": "Chúng tôi đã ổn định được Frankie, nhưng anh ấy chưa qua cơn nguy kịch; tình trạng vẫn rất nguy hiểm."
   },
   {
     "word": "intubate",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "place a plastic tube in a persons mouth to facilitate breathing",
     "vi": "đặt nội khí quản",
-    "viDef": "đưa ống nhựa qua miệng để giúp thở"
+    "viDef": "đưa ống nhựa qua miệng để giúp thở",
+    "ex": "The patient is in acute respiratory failure, I think we're going to have to intubate!",
+    "exHit": "intubate",
+    "exVi": "Bệnh nhân bị suy hô hấp cấp, tôi nghĩ chúng ta sẽ phải đặt ống nội khí quản!"
   },
   {
     "word": "acute respiratory failure",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "condition in which a person stops breathing",
     "vi": "suy hô hấp cấp",
-    "viDef": "tình trạng người bệnh ngừng thở"
+    "viDef": "tình trạng người bệnh ngừng thở",
+    "ex": "The patient is in acute respiratory failure, I think we're going to have to intubate!",
+    "exHit": "acute respiratory failure",
+    "exVi": "Bệnh nhân bị suy hô hấp cấp, tôi nghĩ chúng ta sẽ phải đặt ống nội khí quản!"
   },
   {
     "word": "defibrillator",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "electric machine that shocks the heart and makes it start working again",
     "vi": "máy sốc điện tim",
-    "viDef": "máy dùng điện giật cho tim đập lại"
+    "viDef": "máy dùng điện giật cho tim đập lại",
+    "ex": "Get me the defibrillator.",
+    "exHit": "defibrillator",
+    "exVi": "Đưa tôi máy khử rung tim."
   },
   {
     "word": "BP",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "blood pressure",
     "vi": "huyết áp",
-    "viDef": "áp huyết"
+    "viDef": "áp huyết",
+    "ex": "His BP is falling!",
+    "exHit": "BP",
+    "exVi": "Huyết áp của anh ấy đang tụt!"
   },
   {
     "word": "flatline",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "condition where the heart stops working",
     "vi": "ngừng tim",
-    "viDef": "tình trạng tim không còn hoạt động"
+    "viDef": "tình trạng tim không còn hoạt động",
+    "ex": "He's flatlining!",
+    "exHit": "flatlining",
+    "exVi": "Tim anh ấy ngừng đập rồi!"
   },
   {
     "word": "pulse",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "the number of times your heart beats per minute",
     "vi": "mạch",
-    "viDef": "số nhịp tim mỗi phút"
+    "viDef": "số nhịp tim mỗi phút",
+    "ex": "Get the patient to hold still, I can't get a pulse!",
+    "exHit": "pulse",
+    "exVi": "Giữ bệnh nhân nằm yên, tôi không bắt được mạch!"
   },
   {
     "word": "hold still",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "not move",
     "vi": "giữ yên",
-    "viDef": "đừng cử động"
+    "viDef": "đừng cử động",
+    "ex": "Get the patient to hold still, I can't get a pulse!",
+    "exHit": "hold still",
+    "exVi": "Giữ bệnh nhân nằm yên, tôi không bắt được mạch!"
   },
   {
     "word": "hook up",
@@ -93,7 +126,10 @@
     "type": "phrase",
     "def": "connect someone or something to a machine",
     "vi": "gắn máy vào",
-    "viDef": "nối người hoặc vật vào máy"
+    "viDef": "nối người hoặc vật vào máy",
+    "ex": "Ellen, get him hooked up to a monitor!",
+    "exHit": "hooked up",
+    "exVi": "Ellen, nối anh ấy với máy theo dõi đi!"
   },
   {
     "word": "CPR",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "procedure in which air is blown into another persons lungs though their mouth",
     "vi": "hồi sức tim phổi",
-    "viDef": "thao tác thổi khí qua miệng vào phổi người khác"
+    "viDef": "thao tác thổi khí qua miệng vào phổi người khác",
+    "ex": "I tried to perform CPR, but I just don't know if I could get any air into his lungs!",
+    "exHit": "CPR",
+    "exVi": "Tôi đã cố hô hấp nhân tạo, nhưng không biết có thổi được chút không khí nào vào phổi anh ấy không!"
   },
   {
     "word": "chest compressions",
@@ -109,7 +148,10 @@
     "type": "common noun, plural",
     "def": "act of pushing on someone's chest to restart their heart",
     "vi": "ép tim ngoài lồng ngực",
-    "viDef": "ấn lên ngực để tim đập lại"
+    "viDef": "ấn lên ngực để tim đập lại",
+    "ex": "The nurse started chest compressions right away to save him.",
+    "exHit": "chest compressions",
+    "exVi": "Y tá bắt đầu ép tim ngay lập tức để cứu anh ấy."
   },
   {
     "word": "resuscitate",
@@ -117,7 +159,10 @@
     "type": "verb",
     "def": "make someone who stopped breathing start breathing again",
     "vi": "hồi sinh",
-    "viDef": "làm người đã ngừng thở thở lại"
+    "viDef": "làm người đã ngừng thở thở lại",
+    "ex": "The doctors tried hard to resuscitate the old man.",
+    "exHit": "resuscitate",
+    "exVi": "Các bác sĩ đã cố hết sức hồi sức cho cụ ông."
   },
   {
     "word": "defibrillator",
@@ -125,7 +170,10 @@
     "type": "common noun, singular",
     "def": "machine that uses electricity to shock and restart the heart",
     "vi": "máy khử rung tim",
-    "viDef": "máy dùng điện sốc để tim đập lại"
+    "viDef": "máy dùng điện sốc để tim đập lại",
+    "ex": "Get me the defibrillator.",
+    "exHit": "defibrillator",
+    "exVi": "Đưa tôi máy khử rung tim."
   },
   {
     "word": "ER",
@@ -133,7 +181,10 @@
     "type": "phrase",
     "def": "Emergency Room; place in the hospital where you bring sick or injured people in an emergency",
     "vi": "phòng cấp cứu",
-    "viDef": "nơi trong bệnh viện tiếp nhận người bệnh hoặc bị thương khẩn cấp"
+    "viDef": "nơi trong bệnh viện tiếp nhận người bệnh hoặc bị thương khẩn cấp",
+    "ex": "He was rushed to the ER after the car accident.",
+    "exHit": "ER",
+    "exVi": "Anh ấy được đưa gấp đến phòng cấp cứu sau vụ tai nạn xe hơi."
   },
   {
     "word": "ICU",
@@ -141,6 +192,9 @@
     "type": "phrase",
     "def": "Intensive Care Unit; place in the hospital where very sick or severely injured people are taken care of",
     "vi": "khoa chăm sóc đặc biệt",
-    "viDef": "nơi chăm sóc người bệnh rất nặng hoặc thương nặng"
+    "viDef": "nơi chăm sóc người bệnh rất nặng hoặc thương nặng",
+    "ex": "My uncle is still in the ICU after his heart surgery.",
+    "exHit": "ICU",
+    "exVi": "Chú tôi vẫn nằm ở phòng hồi sức tích cực sau ca mổ tim."
   }
 ]

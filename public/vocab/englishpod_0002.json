@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "to kindly expect",
     "vi": "vốn đang mong",
-    "viDef": "ngỏ ý mong muốn một cách lịch sự"
+    "viDef": "ngỏ ý mong muốn một cách lịch sự",
+    "ex": "Yes, I was hoping to take the day off to recover.",
+    "exHit": "was hoping",
+    "exVi": "Vâng, tôi đang hy vọng được nghỉ một ngày để hồi sức."
   },
   {
     "word": "calling in sick",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "report that you will not go to work because you are sick",
     "vi": "gọi báo nghỉ ốm",
-    "viDef": "báo rằng bạn sẽ không đi làm vì bị ốm"
+    "viDef": "báo rằng bạn sẽ không đi làm vì bị ốm",
+    "ex": "so you're calling in sick?",
+    "exHit": "calling in sick",
+    "exVi": "Vậy là bạn xin nghỉ ốm à?"
   },
   {
     "word": "coming down",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "getting, acquiring",
     "vi": "đang chớm bị (bệnh)",
-    "viDef": "bắt đầu nhiễm, mắc phải"
+    "viDef": "bắt đầu nhiễm, mắc phải",
+    "ex": "I think I'm coming down with the flu.",
+    "exHit": "coming down",
+    "exVi": "Tôi nghĩ mình sắp bị cúm rồi."
   },
   {
     "word": "quite ill",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "very sick",
     "vi": "ốm khá nặng",
-    "viDef": "bệnh nặng"
+    "viDef": "bệnh nặng",
+    "ex": "Actually, I'm feeling quite ill today.",
+    "exHit": "quite ill",
+    "exVi": "Thật ra hôm nay tôi thấy trong người khá mệt."
   },
   {
     "word": "how may I help you?",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "Polite offer to help",
     "vi": "tôi có thể giúp gì cho anh/chị?",
-    "viDef": "câu ngỏ ý giúp đỡ một cách lịch sự"
+    "viDef": "câu ngỏ ý giúp đỡ một cách lịch sự",
+    "ex": "Hello, Daniel speaking, how may I help you?",
+    "exHit": "how may I help you",
+    "exVi": "Xin chào, Daniel xin nghe, tôi có thể giúp gì cho bạn?"
   },
   {
     "word": "impolite",
@@ -45,7 +60,10 @@
     "type": "Adjective",
     "def": "rude",
     "vi": "bất lịch sự",
-    "viDef": "thô lỗ"
+    "viDef": "thô lỗ",
+    "ex": "It's impolite to answer your phone in the middle of dinner.",
+    "exHit": "impolite",
+    "exVi": "Trả lời điện thoại giữa bữa tối là bất lịch sự."
   },
   {
     "word": "permission",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "allow",
     "vi": "sự cho phép",
-    "viDef": "cho phép"
+    "viDef": "cho phép",
+    "ex": "You need your boss's permission before you take a week off.",
+    "exHit": "permission",
+    "exVi": "Bạn cần được sếp cho phép trước khi nghỉ một tuần."
   },
   {
     "word": "symptom",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "a sign, indication",
     "vi": "triệu chứng",
-    "viDef": "dấu hiệu, biểu hiện"
+    "viDef": "dấu hiệu, biểu hiện",
+    "ex": "A sore throat is the first symptom I noticed this morning.",
+    "exHit": "symptom",
+    "exVi": "Đau họng là triệu chứng đầu tiên tôi nhận thấy sáng nay."
   },
   {
     "word": "sick day",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "day off because you're sick",
     "vi": "ngày nghỉ ốm",
-    "viDef": "ngày nghỉ làm vì bị ốm"
+    "viDef": "ngày nghỉ làm vì bị ốm",
+    "ex": "I'm using a sick day today because I have a terrible fever.",
+    "exHit": "sick day",
+    "exVi": "Hôm nay tôi nghỉ ốm vì bị sốt rất nặng."
   },
   {
     "word": "make it into work",
@@ -77,6 +104,9 @@
     "type": "phrase",
     "def": "go to work",
     "vi": "đến được chỗ làm",
-    "viDef": "đi làm"
+    "viDef": "đi làm",
+    "ex": "I feel awful, so I can't make it into work today.",
+    "exHit": "make it into work",
+    "exVi": "Tôi thấy rất tệ nên hôm nay không đi làm được."
   }
 ]

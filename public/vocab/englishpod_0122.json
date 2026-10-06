@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "a lot of bad things happened to me today",
     "vi": "hôm nay xui thật",
-    "viDef": "nhiều chuyện tệ dồn vào tôi hôm nay"
+    "viDef": "nhiều chuyện tệ dồn vào tôi hôm nay",
+    "ex": "I missed the bus and spilled my coffee, it is just not my day.",
+    "exHit": "it is just not my day",
+    "exVi": "Tôi lỡ xe buýt, làm đổ cà phê, hôm nay đúng là ngày xui xẻo."
   },
   {
     "word": "cash back",
@@ -13,7 +16,10 @@
     "type": "common noun, non-variable",
     "def": "charging more money to your card in order to receive cash back",
     "vi": "rút tiền khi thanh toán",
-    "viDef": "tính thêm vào thẻ để nhận tiền mặt trả lại"
+    "viDef": "tính thêm vào thẻ để nhận tiền mặt trả lại",
+    "ex": "Also, could I get cash back?",
+    "exHit": "cash back",
+    "exVi": "Ngoài ra, cho tôi rút thêm tiền mặt được không?"
   },
   {
     "word": "cut me some slack",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "don't be so strict, bend the rules",
     "vi": "thông cảm cho tôi chút",
-    "viDef": "đừng khắt khe quá, linh động một chút"
+    "viDef": "đừng khắt khe quá, linh động một chút",
+    "ex": "Cut me some slack, will ya?",
+    "exHit": "Cut me some slack",
+    "exVi": "Châm chước cho tôi một chút đi, được không?"
   },
   {
     "word": "expire",
@@ -29,7 +38,10 @@
     "type": "principle verb, past simple",
     "def": "to no longer be valid after a period of time",
     "vi": "hết hạn",
-    "viDef": "không còn giá trị sau một thời gian"
+    "viDef": "không còn giá trị sau một thời gian",
+    "ex": "Sir, these coupons expired yesterday.",
+    "exHit": "expired",
+    "exVi": "Thưa ông, những phiếu giảm giá này đã hết hạn từ hôm qua rồi."
   },
   {
     "word": "check-out lane",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "the place you line up to pay for the things you want",
     "vi": "quầy thanh toán",
-    "viDef": "chỗ xếp hàng trả tiền cho món mình mua"
+    "viDef": "chỗ xếp hàng trả tiền cho món mình mua",
+    "ex": "The check-out lane was so long that I switched to another one.",
+    "exHit": "check-out lane",
+    "exVi": "Hàng chờ thanh toán dài quá nên tôi chuyển sang hàng khác."
   },
   {
     "word": "Stock",
@@ -45,7 +60,10 @@
     "type": "principle verb, present simple",
     "def": "To supply (a shop) with merchandise.",
     "vi": "nhập hàng",
-    "viDef": "cung ứng hàng hóa cho cửa hàng"
+    "viDef": "cung ứng hàng hóa cho cửa hàng",
+    "ex": "They need to stock the shelves before the store opens at nine.",
+    "exHit": "stock",
+    "exVi": "Họ cần xếp hàng lên kệ trước khi cửa hàng mở cửa lúc chín giờ."
   },
   {
     "word": "Warehouse",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "a place where goods are stored prior to their sale or distribution",
     "vi": "nhà kho",
-    "viDef": "nơi trữ hàng trước khi bán hoặc phân phối"
+    "viDef": "nơi trữ hàng trước khi bán hoặc phân phối",
+    "ex": "The supermarket keeps extra rice and noodles in a big warehouse.",
+    "exHit": "warehouse",
+    "exVi": "Siêu thị cất thêm gạo và mì trong một nhà kho lớn."
   },
   {
     "word": "Poultry",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "Domestic birds, such as chickens, turkeys, ducks, or geese, raised for meat or eggs.",
     "vi": "gia cầm",
-    "viDef": "các loại chim nuôi như gà, gà tây, vịt, ngỗng để lấy thịt hoặc trứng"
+    "viDef": "các loại chim nuôi như gà, gà tây, vịt, ngỗng để lấy thịt hoặc trứng",
+    "ex": "I usually buy poultry like chicken and duck at the supermarket.",
+    "exHit": "poultry",
+    "exVi": "Tôi thường mua thịt gia cầm như gà và vịt ở siêu thị."
   },
   {
     "word": "Bag boy",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "A person, usually a teenager that works at a supermarket and places groceries that a person buys in plastic or paper bags",
     "vi": "nhân viên đóng túi",
-    "viDef": "người, thường là thiếu niên, làm ở siêu thị và bỏ hàng vào túi cho khách"
+    "viDef": "người, thường là thiếu niên, làm ở siêu thị và bỏ hàng vào túi cho khách",
+    "ex": "The bag boy helped me carry my groceries to the car.",
+    "exHit": "bag boy",
+    "exVi": "Cậu bé đóng gói hàng đã giúp tôi mang đồ tạp hóa ra xe."
   },
   {
     "word": "Bar code",
@@ -77,6 +104,9 @@
     "type": "common noun, singular",
     "def": "an arrangement of numbers and parallel lines on a package, which can be electronically scanned at a checkout to give the price of the goods",
     "vi": "mã vạch",
-    "viDef": "dãy số và vạch song song trên bao bì, quét ở quầy để hiện giá"
+    "viDef": "dãy số và vạch song song trên bao bì, quét ở quầy để hiện giá",
+    "ex": "The cashier scanned the bar code, but the machine did not beep.",
+    "exHit": "bar code",
+    "exVi": "Nhân viên thu ngân quét mã vạch nhưng máy không kêu bíp."
   }
 ]

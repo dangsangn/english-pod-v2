@@ -5,7 +5,10 @@
     "type": "verb",
     "def": "look around to see if anything is interesting",
     "vi": "xem loanh quanh",
-    "viDef": "ngó qua xem có gì hay không"
+    "viDef": "ngó qua xem có gì hay không",
+    "ex": "I'm just browsing; seeing what's on the lot.",
+    "exHit": "browsing",
+    "exVi": "Tôi chỉ đang xem xe thôi; xem có gì ở bãi xe."
   },
   {
     "word": "sedan",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "a car with four doors",
     "vi": "xe sedan",
-    "viDef": "xe hơi bốn cửa"
+    "viDef": "xe hơi bốn cửa",
+    "ex": "Does the sedan protect her from missile attacks?",
+    "exHit": "sedan",
+    "exVi": "Chiếc sedan có bảo vệ cô ấy khỏi tên lửa không?"
   },
   {
     "word": "gas mileage",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "the amount of gas used per mile",
     "vi": "mức tiêu thụ xăng",
-    "viDef": "lượng xăng dùng cho mỗi dặm đường"
+    "viDef": "lượng xăng dùng cho mỗi dặm đường",
+    "ex": "Excellent gas mileage, it has dual airbags and anti lock brakes; a perfect vehicle for a young driver.",
+    "exHit": "gas mileage",
+    "exVi": "Tiết kiệm xăng tuyệt vời, có túi khí kép và phanh chống bó cứng; một chiếc xe hoàn hảo cho người lái trẻ."
   },
   {
     "word": "dual airbags",
@@ -29,7 +38,10 @@
     "type": "common noun, plural",
     "def": "two airbags, one for the driver and one for the passenger",
     "vi": "hai túi khí",
-    "viDef": "hai túi khí, một cho người lái và một cho khách"
+    "viDef": "hai túi khí, một cho người lái và một cho khách",
+    "ex": "Excellent gas mileage, it has dual airbags and anti lock brakes; a perfect vehicle for a young driver.",
+    "exHit": "dual airbags",
+    "exVi": "Tiết kiệm xăng tuyệt vời, có túi khí kép và phanh chống bó cứng; một chiếc xe hoàn hảo cho người lái trẻ."
   },
   {
     "word": "brake",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "a device that slows down or stops something",
     "vi": "phanh",
-    "viDef": "bộ phận làm chậm hoặc dừng xe"
+    "viDef": "bộ phận làm chậm hoặc dừng xe",
+    "ex": "We also check the clutch and brakes to determine when you will need new ones.",
+    "exHit": "brakes",
+    "exVi": "Chúng tôi cũng kiểm tra bộ ly hợp và phanh để xác định khi nào bạn cần thay mới."
   },
   {
     "word": "vehicle",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "something that carries people from one place to another",
     "vi": "xe cộ",
-    "viDef": "phương tiện chở người từ nơi này sang nơi khác"
+    "viDef": "phương tiện chở người từ nơi này sang nơi khác",
+    "ex": "Excellent gas mileage, it has dual airbags and anti lock brakes; a perfect vehicle for a young driver.",
+    "exHit": "vehicle",
+    "exVi": "Tiết kiệm xăng tuyệt vời, có túi khí kép và phanh chống bó cứng; một chiếc xe hoàn hảo cho người lái trẻ."
   },
   {
     "word": "reinforce",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "strengthen, make something stronger",
     "vi": "gia cố",
-    "viDef": "làm cho chắc hơn"
+    "viDef": "làm cho chắc hơn",
+    "ex": "Three inches of reinforced steel protect your daughter from short range missile attacks.",
+    "exHit": "reinforced",
+    "exVi": "Ba inch thép gia cường bảo vệ con gái ông khỏi các đợt tấn công bằng tên lửa tầm ngắn."
   },
   {
     "word": "sleep on it",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "think about something further and make a decision later (informal)",
     "vi": "để mai tính",
-    "viDef": "nghĩ thêm rồi quyết định sau (thân mật)"
+    "viDef": "nghĩ thêm rồi quyết định sau (thân mật)",
+    "ex": "Let me sleep on it.",
+    "exHit": "sleep on it",
+    "exVi": "Để tôi suy nghĩ thêm đã."
   },
   {
     "word": "minivan",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "a vehile that is larger than a car, has four doors and is shaped like a box",
     "vi": "xe van nhỏ",
-    "viDef": "xe to hơn xe con, bốn cửa, dáng hộp"
+    "viDef": "xe to hơn xe con, bốn cửa, dáng hộp",
+    "ex": "We need a minivan because we have three kids and a dog.",
+    "exHit": "minivan",
+    "exVi": "Chúng tôi cần một chiếc xe minivan vì có ba đứa con và một con chó."
   },
   {
     "word": "SUV",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a large vehicle that is suitable to run on rough surfaces",
     "vi": "xe SUV",
-    "viDef": "xe lớn, chạy được đường xấu"
+    "viDef": "xe lớn, chạy được đường xấu",
+    "ex": "He drives an SUV so he can go camping in the mountains.",
+    "exHit": "SUV",
+    "exVi": "Anh ấy lái một chiếc SUV để có thể đi cắm trại trên núi."
   },
   {
     "word": "sale",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "an event where goods or services are sold at a price lower than usual",
     "vi": "đợt giảm giá",
-    "viDef": "dịp bán hàng rẻ hơn thường lệ"
+    "viDef": "dịp bán hàng rẻ hơn thường lệ",
+    "ex": "There's a big sale at the car dealership this weekend.",
+    "exHit": "sale",
+    "exVi": "Cuối tuần này đại lý xe hơi có đợt giảm giá lớn."
   },
   {
     "word": "promotion",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "something (usually advertising) that is done to increase sales",
     "vi": "chương trình khuyến mãi",
-    "viDef": "hoạt động (thường là quảng cáo) để bán được nhiều hơn"
+    "viDef": "hoạt động (thường là quảng cáo) để bán được nhiều hơn",
+    "ex": "The car company is running a promotion on its new models.",
+    "exHit": "promotion",
+    "exVi": "Hãng xe đang chạy chương trình khuyến mãi cho các mẫu xe mới."
   },
   {
     "word": "discount",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "the amount of reduction in price",
     "vi": "mức giảm giá",
-    "viDef": "phần giá được bớt"
+    "viDef": "phần giá được bớt",
+    "ex": "Can you give me a discount if I pay in cash?",
+    "exHit": "discount",
+    "exVi": "Nếu tôi trả tiền mặt thì bạn giảm giá cho tôi được không?"
   },
   {
     "word": "bargain",
@@ -109,6 +148,9 @@
     "type": "common noun, singular",
     "def": "something bought or sold at a price lower than its actual value",
     "vi": "món mua được giá",
-    "viDef": "thứ mua hoặc bán rẻ hơn giá trị thật"
+    "viDef": "thứ mua hoặc bán rẻ hơn giá trị thật",
+    "ex": "This used car was a real bargain at only three thousand dollars.",
+    "exHit": "bargain",
+    "exVi": "Chiếc xe cũ này thật là món hời chỉ với ba nghìn đô la."
   }
 ]

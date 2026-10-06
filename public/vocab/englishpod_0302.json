@@ -5,7 +5,10 @@
     "type": "",
     "def": "journey to a place",
     "vi": "chuyến đi",
-    "viDef": "hành trình tới một nơi"
+    "viDef": "hành trình tới một nơi",
+    "ex": "Are you excited about your trip next month?",
+    "exHit": "trip",
+    "exVi": "Bạn có háo hức về chuyến đi tháng sau không?"
   },
   {
     "word": "terrify",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to fill with terror or alarm; make greatly afraid",
     "vi": "làm kinh hoàng",
-    "viDef": "khiến người ta sợ hoặc hoảng dữ dội"
+    "viDef": "khiến người ta sợ hoặc hoảng dữ dội",
+    "ex": "I have an uncle who is also terrified of flying.",
+    "exHit": "terrified",
+    "exVi": "Tôi có một ông chú cũng rất sợ đi máy bay."
   },
   {
     "word": "aerophobia",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "an abnormal fear of drafts of air, gases, or airborne matter",
     "vi": "chứng sợ bay",
-    "viDef": "nỗi sợ bất thường với luồng khí, khí hoặc các thứ trong không khí"
+    "viDef": "nỗi sợ bất thường với luồng khí, khí hoặc các thứ trong không khí",
+    "ex": "Well, I have aerophobia.",
+    "exHit": "aerophobia",
+    "exVi": "À, tôi mắc chứng sợ bay."
   },
   {
     "word": "chronic",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "constant, habitual",
     "vi": "dai dẳng",
-    "viDef": "thường trực, thành lệ"
+    "viDef": "thường trực, thành lệ",
+    "ex": "I have a chronic fear of flying.",
+    "exHit": "chronic",
+    "exVi": "Tôi bị chứng sợ đi máy bay kinh niên."
   },
   {
     "word": "phobia",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "irrational fear of a specific object, activity",
     "vi": "chứng sợ",
-    "viDef": "nỗi sợ vô lý với một vật hoặc việc cụ thể"
+    "viDef": "nỗi sợ vô lý với một vật hoặc việc cụ thể",
+    "ex": "I actually have two more phobias.",
+    "exHit": "phobias",
+    "exVi": "Thật ra tôi còn có hai chứng ám ảnh sợ khác nữa."
   },
   {
     "word": "glossophobia",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the fear of public speaking",
     "vi": "chứng sợ nói trước đám đông",
-    "viDef": "nỗi sợ phải phát biểu trước công chúng"
+    "viDef": "nỗi sợ phải phát biểu trước công chúng",
+    "ex": "Acrophobia and glossophobia.",
+    "exHit": "glossophobia",
+    "exVi": "Chứng sợ độ cao và chứng sợ nói trước đám đông."
   },
   {
     "word": "Acrophobia",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a pathological fear of heights",
     "vi": "chứng sợ độ cao",
-    "viDef": "nỗi sợ bệnh lý đối với độ cao"
+    "viDef": "nỗi sợ bệnh lý đối với độ cao",
+    "ex": "Acrophobia and glossophobia.",
+    "exHit": "Acrophobia",
+    "exVi": "Chứng sợ độ cao và chứng sợ nói trước đám đông."
   },
   {
     "word": "sweat",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to excrete (perspiration, moisture, etc.) through the pores of the skin",
     "vi": "đổ mồ hôi",
-    "viDef": "tiết mồ hôi, hơi ẩm... qua lỗ chân lông"
+    "viDef": "tiết mồ hôi, hơi ẩm... qua lỗ chân lông",
+    "ex": "When I get on stage, my palms start to sweat, I get really nervous and I can hardly speak.",
+    "exHit": "sweat",
+    "exVi": "Khi lên sân khấu, lòng bàn tay tôi toát mồ hôi, tôi rất hồi hộp và gần như không nói nổi."
   },
   {
     "word": "nervous",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "being worried about what might happen",
     "vi": "lo lắng",
-    "viDef": "đang lo về điều có thể xảy ra"
+    "viDef": "đang lo về điều có thể xảy ra",
+    "ex": "When I get on stage, my palms start to sweat, I get really nervous and I can hardly speak.",
+    "exHit": "nervous",
+    "exVi": "Khi lên sân khấu, lòng bàn tay tôi toát mồ hôi, tôi rất hồi hộp và gần như không nói nổi."
   },
   {
     "word": "kidding",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "fool or joke",
     "vi": "giỡn",
-    "viDef": "trêu, nói đùa"
+    "viDef": "trêu, nói đùa",
+    "ex": "You have to be kidding me!",
+    "exHit": "kidding",
+    "exVi": "Bạn đang đùa tôi đấy à!"
   },
   {
     "word": "claustrophobia",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "an abnormal fear of being in enclosed or narrow places.",
     "vi": "chứng sợ nơi kín",
-    "viDef": "nỗi sợ bất thường khi ở trong không gian kín hoặc chật"
+    "viDef": "nỗi sợ bất thường khi ở trong không gian kín hoặc chật",
+    "ex": "Well, I must confess I am a bit claustrophobic.",
+    "exHit": "claustrophobic",
+    "exVi": "À, tôi phải thú nhận là mình hơi sợ không gian kín."
   },
   {
     "word": "confess",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "To admit or acknowledge something damaging",
     "vi": "thừa nhận",
-    "viDef": "nhận hoặc thú ra điều gì bất lợi cho mình"
+    "viDef": "nhận hoặc thú ra điều gì bất lợi cho mình",
+    "ex": "Well, I must confess I am a bit claustrophobic.",
+    "exHit": "confess",
+    "exVi": "À, tôi phải thú nhận là mình hơi sợ không gian kín."
   },
   {
     "word": "weirdo",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "a strange person",
     "vi": "kẻ dị",
-    "viDef": "người kỳ quái"
+    "viDef": "người kỳ quái",
+    "ex": "We are such weirdos right?",
+    "exHit": "weirdos",
+    "exVi": "Tụi mình đúng là hai người kỳ quặc nhỉ?"
   },
   {
     "word": "Venustraphobia",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "the fear of beautiful women",
     "vi": "chứng sợ gái đẹp",
-    "viDef": "nỗi sợ những người nữ xinh đẹp"
+    "viDef": "nỗi sợ những người nữ xinh đẹp",
+    "ex": "He has Venustraphobia, so he never talks to women at parties.",
+    "exHit": "Venustraphobia",
+    "exVi": "Anh ấy sợ phụ nữ đẹp, nên chẳng bao giờ bắt chuyện với ai ở các buổi tiệc."
   },
   {
     "word": "panic",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "a sudden overwhelming fear",
     "vi": "cơn hoảng loạn",
-    "viDef": "nỗi sợ bất chợt tràn ngập"
+    "viDef": "nỗi sợ bất chợt tràn ngập",
+    "ex": "Don't panic, we still have an hour before the flight.",
+    "exHit": "panic",
+    "exVi": "Đừng hoảng sợ, mình vẫn còn một tiếng trước chuyến bay mà."
   },
   {
     "word": "scary",
@@ -125,6 +170,9 @@
     "type": "",
     "def": "causing fright or alarm.",
     "vi": "đáng sợ",
-    "viDef": "gây hoảng hoặc lo"
+    "viDef": "gây hoảng hoặc lo",
+    "ex": "It's not that bad though, I mean, it is pretty scary to be in this big machine flying through the air at seven hundred miles per hour.",
+    "exHit": "scary",
+    "exVi": "Cũng không tệ lắm đâu, nhưng thật sự khá đáng sợ khi ngồi trong cỗ máy lớn này bay trên không với tốc độ bảy trăm dặm một giờ."
   }
 ]

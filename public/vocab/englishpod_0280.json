@@ -5,7 +5,10 @@
     "type": "",
     "def": "the newest and most advanced",
     "vi": "tiên phong nhất",
-    "viDef": "mới nhất và tiến bộ nhất"
+    "viDef": "mới nhất và tiến bộ nhất",
+    "ex": "The new hospital has cutting-edge equipment for treating patients.",
+    "exHit": "cutting-edge",
+    "exVi": "Bệnh viện mới có những thiết bị tiên tiến nhất để chữa bệnh."
   },
   {
     "word": "catch",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "hidden problem that makes something complicated",
     "vi": "điểm gài ngầm",
-    "viDef": "vấn đề ẩn làm việc gì thành rắc rối"
+    "viDef": "vấn đề ẩn làm việc gì thành rắc rối",
+    "ex": "Now, of course, with all this cutting-edge technology there must be a catch, you might ask yourself.",
+    "exHit": "catch",
+    "exVi": "Dĩ nhiên với tất cả công nghệ tiên tiến này, chắc quý vị đang tự hỏi liệu có điều kiện ẩn nào không."
   },
   {
     "word": "aim",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to direct (something) at a particular goal",
     "vi": "nhắm tới",
-    "viDef": "hướng thứ gì vào một mục tiêu nhất định"
+    "viDef": "hướng thứ gì vào một mục tiêu nhất định",
+    "ex": "Yes, of course the x420 is aimed at the luxury market, but if you compare the price of our leading competitors, the x420 represents incredible value for money.",
+    "exHit": "aimed",
+    "exVi": "Đúng vậy, dĩ nhiên x420 nhắm đến thị trường cao cấp, nhưng nếu so với giá của các đối thủ hàng đầu, x420 mang lại giá trị đáng kinh ngạc so với đồng tiền bỏ ra."
   },
   {
     "word": "differentiate",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to make different in some way",
     "vi": "làm cho khác biệt",
-    "viDef": "tạo ra điểm khác theo cách nào đó"
+    "viDef": "tạo ra điểm khác theo cách nào đó",
+    "ex": "So, what differentiates us from our competitors?",
+    "exHit": "differentiates",
+    "exVi": "Vậy điều gì làm chúng ta khác biệt so với các đối thủ?"
   },
   {
     "word": "highlight",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to make or try to make people notice",
     "vi": "làm nổi bật",
-    "viDef": "cố khiến người ta để ý tới"
+    "viDef": "cố khiến người ta để ý tới",
+    "ex": "Well, if we compare Orange's luxury MP40 range then we can really highlight some of the differences.",
+    "exHit": "highlight",
+    "exVi": "Nếu so sánh dòng MP40 cao cấp của Orange, chúng ta thực sự có thể làm nổi bật một số điểm khác biệt."
   },
   {
     "word": "enviable",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "causing envy ; very desirable",
     "vi": "đáng thèm muốn",
-    "viDef": "gây thèm thuồng, rất đáng mong"
+    "viDef": "gây thèm thuồng, rất đáng mong",
+    "ex": "Now, of course Orange has an enviable record for producing revolutionary and top class products, and I must admit the MP40 is a breathtaking machine.",
+    "exHit": "enviable",
+    "exVi": "Dĩ nhiên Orange có thành tích đáng ghen tị về việc sản xuất các sản phẩm đột phá và hạng nhất, và tôi phải thừa nhận MP40 là một cỗ máy đáng kinh ngạc."
   },
   {
     "word": "foremost",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "most important",
     "vi": "hàng đầu",
-    "viDef": "quan trọng nhất"
+    "viDef": "quan trọng nhất",
+    "ex": "Alpha stands first and foremost for quality, for excellence and for service.",
+    "exHit": "foremost",
+    "exVi": "Alpha trước hết và quan trọng nhất đại diện cho chất lượng, sự xuất sắc và dịch vụ."
   },
   {
     "word": "high-end",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "at the top level of consumer purchases, aimed at luxury and high-quality markets",
     "vi": "cao cấp",
-    "viDef": "ở tầng trên của thị trường tiêu dùng, nhắm tới phân khúc sang và chất lượng cao"
+    "viDef": "ở tầng trên của thị trường tiêu dùng, nhắm tới phân khúc sang và chất lượng cao",
+    "ex": "This shop only sells high-end watches, so the prices are usually very high.",
+    "exHit": "high-end",
+    "exVi": "Cửa hàng này chỉ bán đồng hồ cao cấp, nên giá thường rất đắt."
   },
   {
     "word": "outsource",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "to send a job somewhere else, often overseas",
     "vi": "thuê ngoài",
-    "viDef": "chuyển một công việc ra nơi khác làm, thường là nước ngoài"
+    "viDef": "chuyển một công việc ra nơi khác làm, thường là nước ngoài",
+    "ex": "Many companies outsource their customer service to other countries.",
+    "exHit": "outsource",
+    "exVi": "Nhiều công ty thuê ngoài việc chăm sóc khách hàng cho các nước khác."
   },
   {
     "word": "hotline",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a phone number people can call to get help any time of day",
     "vi": "đường dây nóng",
-    "viDef": "số điện thoại người ta có thể gọi để được giúp bất cứ giờ nào"
+    "viDef": "số điện thoại người ta có thể gọi để được giúp bất cứ giờ nào",
+    "ex": "If the machine breaks, call the hotline, because someone always answers.",
+    "exHit": "hotline",
+    "exVi": "Nếu máy bị hỏng, bạn cứ gọi đường dây nóng, lúc nào cũng có người trả lời."
   },
   {
     "word": "motto",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "an expression that is the guiding principle of a person or organization",
     "vi": "phương châm",
-    "viDef": "câu nói làm nguyên tắc dẫn đường cho một người hoặc tổ chức"
+    "viDef": "câu nói làm nguyên tắc dẫn đường cho một người hoặc tổ chức",
+    "ex": "Our company motto is to always put the customer first.",
+    "exHit": "motto",
+    "exVi": "Phương châm của công ty chúng tôi là luôn đặt khách hàng lên hàng đầu."
   },
   {
     "word": "trademark",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "something (symbol, logo,phrase, etc.) that distinguishes one company's product from its competitors",
     "vi": "thương hiệu",
-    "viDef": "thứ như biểu tượng, logo, câu chữ... giúp phân biệt sản phẩm của một công ty với đối thủ"
+    "viDef": "thứ như biểu tượng, logo, câu chữ... giúp phân biệt sản phẩm của một công ty với đối thủ",
+    "ex": "The bitten apple is a trademark that everyone recognizes right away.",
+    "exHit": "trademark",
+    "exVi": "Hình quả táo cắn dở là nhãn hiệu mà ai cũng nhận ra ngay."
   }
 ]

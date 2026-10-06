@@ -5,7 +5,10 @@
     "type": "",
     "def": "the result of mixing two or more things together",
     "vi": "sự kết hợp",
-    "viDef": "kết quả của việc trộn hai hay nhiều thứ với nhau"
+    "viDef": "kết quả của việc trộn hai hay nhiều thứ với nhau",
+    "ex": "The combination of sour and spicy is really interesting!",
+    "exHit": "combination",
+    "exVi": "Sự kết hợp giữa vị chua và cay thật thú vị!"
   },
   {
     "word": "stuff",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "filled with food; no longer hungry",
     "vi": "no căng",
-    "viDef": "ăn no rồi, không còn thấy đói"
+    "viDef": "ăn no rồi, không còn thấy đói",
+    "ex": "I'm stuffed!",
+    "exHit": "stuffed",
+    "exVi": "Tôi no căng rồi!"
   },
   {
     "word": "creative",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "having the ability to think of new ideas",
     "vi": "sáng tạo",
-    "viDef": "có khả năng nghĩ ra ý mới"
+    "viDef": "có khả năng nghĩ ra ý mới",
+    "ex": "I never knew Thai food was so creative and delicious!",
+    "exHit": "creative",
+    "exVi": "Tôi chưa từng biết đồ ăn Thái lại sáng tạo và ngon đến vậy!"
   },
   {
     "word": "foreigner",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a person not native to or naturalized in the country or jurisdiction under consideration",
     "vi": "người nước ngoài",
-    "viDef": "người không phải dân bản xứ hoặc chưa nhập tịch tại nơi đang nói tới"
+    "viDef": "người không phải dân bản xứ hoặc chưa nhập tịch tại nơi đang nói tới",
+    "ex": "Foreigners call it papaya salad but the proper name is Tom Sam.",
+    "exHit": "Foreigners",
+    "exVi": "Người nước ngoài gọi nó là gỏi đu đủ, nhưng tên đúng của nó là Tom Sam."
   },
   {
     "word": "delicious",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "tasty",
     "vi": "ngon",
-    "viDef": "có vị ngon"
+    "viDef": "có vị ngon",
+    "ex": "I never knew Thai food was so creative and delicious!",
+    "exHit": "delicious",
+    "exVi": "Tôi chưa từng biết đồ ăn Thái lại sáng tạo và ngon đến vậy!"
   },
   {
     "word": "dish",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "food",
     "vi": "món ăn",
-    "viDef": "thức ăn"
+    "viDef": "thức ăn",
+    "ex": "It's practically Thailand's national dish!",
+    "exHit": "dish",
+    "exVi": "Nó gần như là món quốc hồn quốc túy của Thái Lan!"
   },
   {
     "word": "Stir Fry",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "technique for cooking food in a wok while stirring it",
     "vi": "xào",
-    "viDef": "cách nấu thức ăn trong chảo lớn và đảo liên tục"
+    "viDef": "cách nấu thức ăn trong chảo lớn và đảo liên tục",
+    "ex": "I usually make a quick stir fry with vegetables and shrimp.",
+    "exHit": "stir fry",
+    "exVi": "Tôi thường làm nhanh một món xào với rau và tôm."
   },
   {
     "word": "Bitter",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "Having or being a taste that is sharp, acrid, and unpleasan",
     "vi": "đắng",
-    "viDef": "có vị gắt, chát và khó chịu"
+    "viDef": "có vị gắt, chát và khó chịu",
+    "ex": "Some Thai herbs taste a little bitter, but I like them.",
+    "exHit": "bitter",
+    "exVi": "Một số loại rau thơm Thái có vị hơi đắng, nhưng tôi thích chúng."
   },
   {
     "word": "Sour",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Having a taste characteristic of that produced by acids; sharp, tart, or tangy",
     "vi": "chua",
-    "viDef": "có vị đặc trưng của axit, gắt hoặc the"
+    "viDef": "có vị đặc trưng của axit, gắt hoặc the",
+    "ex": "The combination of sour and spicy is really interesting!",
+    "exHit": "sour",
+    "exVi": "Sự kết hợp giữa vị chua và cay thật thú vị!"
   },
   {
     "word": "Fishcake",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "A food consisting of a filleted fish and potato patty sometimes coated in breadcrumbs or batter",
     "vi": "chả cá",
-    "viDef": "món gồm cá phi lê trộn khoai tây nặn miếng, có khi lăn bột hoặc vụn bánh mì"
+    "viDef": "món gồm cá phi lê trộn khoai tây nặn miếng, có khi lăn bột hoặc vụn bánh mì",
+    "ex": "Can I order a fishcake as a starter, please?",
+    "exHit": "fishcake",
+    "exVi": "Cho tôi gọi một cái chả cá làm món khai vị được không?"
   },
   {
     "word": "Tangy",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "A distinctively sharp taste, flavor, or odor, as that of orange juice.",
     "vi": "thanh the",
-    "viDef": "vị, hương hoặc mùi sắc riêng, như của nước cam"
+    "viDef": "vị, hương hoặc mùi sắc riêng, như của nước cam",
+    "ex": "I love the tangy lime dressing on this salad.",
+    "exHit": "tangy",
+    "exVi": "Tôi thích nước sốt chanh chua thơm trong món salad này."
   }
 ]

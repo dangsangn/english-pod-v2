@@ -5,7 +5,10 @@
     "type": "",
     "def": "look at (something) in a careful way",
     "vi": "soi lại từng phần",
-    "viDef": "xem xét thứ gì một cách cẩn thận"
+    "viDef": "xem xét thứ gì một cách cẩn thận",
+    "ex": "Hold on, before you kick your car let's go through some possible problems.",
+    "exHit": "go through",
+    "exVi": "Khoan đã, trước khi đá vào xe thì mình hãy xem qua từng vấn đề có thể xảy ra đã."
   },
   {
     "word": "ignition",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a device to start up the car",
     "vi": "bộ đề, ổ khởi động",
-    "viDef": "thiết bị để nổ máy xe"
+    "viDef": "thiết bị để nổ máy xe",
+    "ex": "Ok, first of all, can you turn the key in the ignition?",
+    "exHit": "ignition",
+    "exVi": "Được rồi, trước hết, bạn có thể vặn chìa khóa trong ổ khởi động không?"
   },
   {
     "word": "spark plug",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "electrical device that ignites the gas by electric",
     "vi": "bugi",
-    "viDef": "thiết bị điện đánh lửa cho khí xăng"
+    "viDef": "thiết bị điện đánh lửa cho khí xăng",
+    "ex": "I am here with my friend and he thinks it may be the spark plug or the starter motor.",
+    "exHit": "spark plug",
+    "exVi": "Tôi đang ở đây với bạn tôi, và anh ấy nghĩ có thể là bugi hoặc mô-tơ đề."
   },
   {
     "word": "starter motor",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "an electric motor for starting an engine",
     "vi": "mô-tơ đề",
-    "viDef": "động cơ điện dùng khởi động máy"
+    "viDef": "động cơ điện dùng khởi động máy",
+    "ex": "I am here with my friend and he thinks it may be the spark plug or the starter motor.",
+    "exHit": "starter motor",
+    "exVi": "Tôi đang ở đây với bạn tôi, và anh ấy nghĩ có thể là bugi hoặc mô-tơ đề."
   },
   {
     "word": "crank",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to start (an engine, motor, etc.)",
     "vi": "đề máy",
-    "viDef": "làm cho động cơ chạy"
+    "viDef": "làm cho động cơ chạy",
+    "ex": "Those are possible problems, but tell me, when you turn the key, do you hear the starter motor crank?",
+    "exHit": "crank",
+    "exVi": "Đó đều là những vấn đề có thể xảy ra, nhưng cho tôi biết, khi bạn vặn chìa khóa, bạn có nghe mô-tơ đề quay không?"
   },
   {
     "word": "engine",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the device which helps cars getting running",
     "vi": "động cơ",
-    "viDef": "bộ phận giúp xe chạy được"
+    "viDef": "bộ phận giúp xe chạy được",
+    "ex": "If you don't do this, it can cause your engine to wear faster and that means you would probably have to change the pistons and intake valves.",
+    "exHit": "engine",
+    "exVi": "Nếu bạn không làm vậy, động cơ có thể mòn nhanh hơn, nghĩa là có lẽ bạn sẽ phải thay piston và van nạp."
   },
   {
     "word": "accelerator",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a pedal that controls the throttle valve",
     "vi": "chân ga",
-    "viDef": "bàn đạp điều khiển bướm ga"
+    "viDef": "bàn đạp điều khiển bướm ga",
+    "ex": "Should I maybe press the accelerator?",
+    "exHit": "accelerator",
+    "exVi": "Tôi có nên đạp thử chân ga không?"
   },
   {
     "word": "carburetor",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "mixes air with gasoline vapor prior to explosion",
     "vi": "bộ hòa khí",
-    "viDef": "bộ trộn khí với hơi xăng trước khi cháy nổ"
+    "viDef": "bộ trộn khí với hơi xăng trước khi cháy nổ",
+    "ex": "If you step on the accelerator pedal you can flood the carburetor and your car will never start.",
+    "exHit": "carburetor",
+    "exVi": "Nếu bạn đạp chân ga quá nhiều, bạn có thể làm ngập bộ chế hòa khí và xe sẽ không bao giờ nổ máy."
   },
   {
     "word": "to stall",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "when a car's engine will not start",
     "vi": "chết máy",
-    "viDef": "khi động cơ xe không nổ được"
+    "viDef": "khi động cơ xe không nổ được",
+    "ex": "My car stalled at the traffic light and would not start again.",
+    "exHit": "stalled",
+    "exVi": "Xe tôi bị chết máy ở đèn giao thông và không nổ lại được nữa."
   },
   {
     "word": "brakes",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "the mechanism which stops the car",
     "vi": "phanh",
-    "viDef": "cơ cấu làm xe dừng"
+    "viDef": "cơ cấu làm xe dừng",
+    "ex": "I pressed the brakes hard when the truck stopped suddenly in front of me.",
+    "exHit": "brakes",
+    "exVi": "Tôi đạp mạnh phanh khi chiếc xe tải phía trước đột ngột dừng lại."
   },
   {
     "word": "gas tank",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "the tank which carries the car's gasoline",
     "vi": "bình xăng",
-    "viDef": "thùng chứa xăng của xe"
+    "viDef": "thùng chứa xăng của xe",
+    "ex": "The gas tank was almost empty, so we stopped at the next station.",
+    "exHit": "gas tank",
+    "exVi": "Bình xăng gần cạn nên chúng tôi dừng lại ở trạm xăng kế tiếp."
   },
   {
     "word": "seat belt",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "the strap which protects from an accident",
     "vi": "dây an toàn",
-    "viDef": "dây bảo vệ khi có tai nạn"
+    "viDef": "dây bảo vệ khi có tai nạn",
+    "ex": "Please put on your seat belt before I start the engine.",
+    "exHit": "seat belt",
+    "exVi": "Làm ơn thắt dây an toàn trước khi tôi nổ máy."
   },
   {
     "word": "tow truck",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "a service which repairs or retrieves a broken car",
     "vi": "xe cứu hộ",
-    "viDef": "dịch vụ sửa hoặc kéo xe bị hỏng về"
+    "viDef": "dịch vụ sửa hoặc kéo xe bị hỏng về",
+    "ex": "We had to call a tow truck because the engine would not start.",
+    "exHit": "tow truck",
+    "exVi": "Chúng tôi phải gọi xe cứu hộ vì máy không nổ được."
   }
 ]

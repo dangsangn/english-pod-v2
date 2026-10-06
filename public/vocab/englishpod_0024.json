@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "look at something that is attractive",
     "vi": "ngắm thử",
-    "viDef": "để mắt tới thứ gì hấp dẫn"
+    "viDef": "để mắt tới thứ gì hấp dẫn",
+    "ex": "We were thinking of checking out a restaurant in the neigbourhood.",
+    "exHit": "checking out",
+    "exVi": "Chúng tôi đang định đi thử một nhà hàng trong khu phố."
   },
   {
     "word": "fantastic",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "extremely good",
     "vi": "tuyệt cú mèo",
-    "viDef": "cực kỳ ngon"
+    "viDef": "cực kỳ ngon",
+    "ex": "The food is fantastic, and the décor is beautiful.",
+    "exHit": "fantastic",
+    "exVi": "Đồ ăn tuyệt vời, và cách trang trí thì đẹp."
   },
   {
     "word": "décor",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "decoration",
     "vi": "cách bài trí",
-    "viDef": "trang trí nội thất"
+    "viDef": "trang trí nội thất",
+    "ex": "I love the décor in this restaurant, especially the old wooden tables.",
+    "exHit": "décor",
+    "exVi": "Tôi thích cách trang trí ở nhà hàng này, nhất là những chiếc bàn gỗ cũ."
   },
   {
     "word": "in the mood for",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "have a desire for something or to do something",
     "vi": "đang thèm",
-    "viDef": "có hứng với món gì hoặc muốn làm gì"
+    "viDef": "có hứng với món gì hoặc muốn làm gì",
+    "ex": "I'm in the mood for something sweet after dinner.",
+    "exHit": "in the mood for",
+    "exVi": "Sau bữa tối tôi muốn ăn món gì đó ngọt."
   },
   {
     "word": "light",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "not heavy on stomach, easy to digest",
     "vi": "nhẹ bụng",
-    "viDef": "không nặng bụng, dễ tiêu"
+    "viDef": "không nặng bụng, dễ tiêu",
+    "ex": "I'd like a lighter meal tonight, maybe just some soup.",
+    "exHit": "lighter",
+    "exVi": "Tối nay tôi muốn ăn nhẹ hơn, có lẽ chỉ cần món súp."
   },
   {
     "word": "bistro",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "small, trendy restaurant or bar",
     "vi": "quán ăn nhỏ kiểu Âu",
-    "viDef": "nhà hàng hoặc quán bar nhỏ, hợp mốt"
+    "viDef": "nhà hàng hoặc quán bar nhỏ, hợp mốt",
+    "ex": "In that case, I know a great little bistro.",
+    "exHit": "bistro",
+    "exVi": "Vậy thì, mình biết một quán bistro nhỏ rất tuyệt."
   },
   {
     "word": "tasty",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "delicious, tasting good",
     "vi": "ngon miệng",
-    "viDef": "ngon, có vị hấp dẫn"
+    "viDef": "ngon, có vị hấp dẫn",
+    "ex": "They make a really tasty seafood platter; the fish is outstanding.",
+    "exHit": "tasty",
+    "exVi": "Họ làm món hải sản thập cẩm rất ngon; cá thì tuyệt vời."
   },
   {
     "word": "outstanding",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "excellent",
     "vi": "xuất sắc",
-    "viDef": "tuyệt vời"
+    "viDef": "tuyệt vời",
+    "ex": "They make a really tasty seafood platter; the fish is outstanding.",
+    "exHit": "outstanding",
+    "exVi": "Họ làm món hải sản thập cẩm rất ngon; cá thì tuyệt vời."
   },
   {
     "word": "allergic to",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "have allergy towards something (usually food)",
     "vi": "bị dị ứng với",
-    "viDef": "dị ứng với thứ gì, thường là thức ăn"
+    "viDef": "dị ứng với thứ gì, thường là thức ăn",
+    "ex": "It sounds fantastic, but I'm allergic to seafood, so...",
+    "exHit": "allergic to",
+    "exVi": "Nghe tuyệt đấy, nhưng mình bị dị ứng với hải sản, nên..."
   },
   {
     "word": "a hole in the wall",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "a very small, usually cheap restaurant or bar",
     "vi": "quán cóc",
-    "viDef": "nhà hàng hoặc quán bar rất nhỏ, thường rẻ"
+    "viDef": "nhà hàng hoặc quán bar rất nhỏ, thường rẻ",
+    "ex": "It's just a hole in the wall, but they do the most amazing sandwiches.",
+    "exHit": "a hole in the wall",
+    "exVi": "Chỉ là một quán nhỏ xíu thôi, nhưng họ làm món bánh sandwich ngon tuyệt."
   },
   {
     "word": "food poisoning",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "becoming sick because of bacteria in food",
     "vi": "ngộ độc thực phẩm",
-    "viDef": "bị ốm do vi khuẩn trong thức ăn"
+    "viDef": "bị ốm do vi khuẩn trong thức ăn",
+    "ex": "Well ok, I am just afraid of getting food poisoning.",
+    "exHit": "food poisoning",
+    "exVi": "Ừ được rồi, tôi chỉ sợ bị ngộ độc thực phẩm thôi."
   },
   {
     "word": "yummy",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "tasting good",
     "vi": "ngon quá",
-    "viDef": "có vị ngon"
+    "viDef": "có vị ngon",
+    "ex": "This chocolate cake is so yummy that I want another piece.",
+    "exHit": "yummy",
+    "exVi": "Chiếc bánh sô cô la này ngon quá, mình muốn ăn thêm một miếng nữa."
   },
   {
     "word": "crazy about",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "like very much",
     "vi": "mê tít",
-    "viDef": "rất thích"
+    "viDef": "rất thích",
+    "ex": "My little sister is crazy about chocolate ice cream.",
+    "exHit": "crazy about",
+    "exVi": "Em gái tôi mê kem sô cô la lắm."
   },
   {
     "word": "not fond of",
@@ -109,7 +148,10 @@
     "type": "phrase",
     "def": "don't like (polite)",
     "vi": "không khoái lắm",
-    "viDef": "không thích (cách nói lịch sự)"
+    "viDef": "không thích (cách nói lịch sự)",
+    "ex": "I'm not fond of spicy food, so I never order curry.",
+    "exHit": "not fond of",
+    "exVi": "Mình không thích đồ ăn cay lắm nên không bao giờ gọi món cà ri."
   },
   {
     "word": "enjoyable",
@@ -117,7 +159,10 @@
     "type": "Adjective",
     "def": "tasting good",
     "vi": "ăn thấy khoái",
-    "viDef": "có vị ngon"
+    "viDef": "có vị ngon",
+    "ex": "It was a really enjoyable meal, and the service was great too.",
+    "exHit": "enjoyable",
+    "exVi": "Đó là một bữa ăn thật ngon miệng, và dịch vụ cũng rất tuyệt."
   },
   {
     "word": "yum",
@@ -125,6 +170,9 @@
     "type": "Interjection",
     "def": "expression you use when you're enjoying food or drink",
     "vi": "ngon quá đi",
-    "viDef": "câu thốt lên khi đang thưởng thức đồ ăn thức uống"
+    "viDef": "câu thốt lên khi đang thưởng thức đồ ăn thức uống",
+    "ex": "Yum, this soup smells amazing, so can I try a little?",
+    "exHit": "Yum",
+    "exVi": "Ngon quá, canh này thơm thật, cho mình nếm thử một chút nhé?"
   }
 ]

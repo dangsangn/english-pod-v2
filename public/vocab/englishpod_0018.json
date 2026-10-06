@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "an event where people gather together to show disapproval of something",
     "vi": "cuộc biểu tình",
-    "viDef": "sự kiện người dân tụ họp để phản đối điều gì đó"
+    "viDef": "sự kiện người dân tụ họp để phản đối điều gì đó",
+    "ex": "where a protest has broken out.",
+    "exHit": "protest",
+    "exVi": "nơi một cuộc biểu tình vừa nổ ra."
   },
   {
     "word": "break out",
@@ -13,7 +16,10 @@
     "type": "principle verb, present perfect",
     "def": "start suddenly",
     "vi": "bùng phát",
-    "viDef": "khởi phát đột ngột"
+    "viDef": "khởi phát đột ngột",
+    "ex": "I heard a fight might break out if the crowd gets angrier.",
+    "exHit": "break out",
+    "exVi": "Tôi nghe nói có thể sẽ nổ ra một cuộc ẩu đả nếu đám đông còn tức giận hơn."
   },
   {
     "word": "bailout",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "the act of saving a company form money problems",
     "vi": "gói giải cứu",
-    "viDef": "việc cứu một công ty khỏi khó khăn tài chính"
+    "viDef": "việc cứu một công ty khỏi khó khăn tài chính",
+    "ex": "Thousands of angry citizens are protesting against the proposed bailout of the auto manufacturing industry!",
+    "exHit": "bailout",
+    "exVi": "Hàng nghìn công dân giận dữ đang biểu tình phản đối gói cứu trợ được đề xuất cho ngành sản xuất ô tô!"
   },
   {
     "word": "injustice",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "an unfair situation",
     "vi": "sự bất công",
-    "viDef": "tình cảnh không công bằng"
+    "viDef": "tình cảnh không công bằng",
+    "ex": "Yeah, yeah, we are here because we feel this is an injustice!",
+    "exHit": "injustice",
+    "exVi": "Đúng vậy, chúng tôi có mặt ở đây vì chúng tôi cho rằng đây là một sự bất công!"
   },
   {
     "word": "outrage",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "something that is morally wrong",
     "vi": "điều gây phẫn nộ",
-    "viDef": "việc sai trái về mặt đạo đức"
+    "viDef": "việc sai trái về mặt đạo đức",
+    "ex": "It's an absolute outrage, Sarah, the US government wants to give twenty-five billion dollars of taxpayers' money to the auto industry.",
+    "exHit": "outrage",
+    "exVi": "Thật là một sự phẫn nộ tột độ, Sarah ạ, chính phủ Mỹ muốn đưa hai mươi lăm tỷ đô tiền thuế của dân cho ngành ô tô."
   },
   {
     "word": "mismanage",
@@ -45,7 +60,10 @@
     "type": "principle verb, present perfect",
     "def": "manage badly",
     "vi": "quản lý yếu kém",
-    "viDef": "điều hành tồi"
+    "viDef": "điều hành tồi",
+    "ex": "These are companies that have been mismanaged and are now nearly bankrupt.",
+    "exHit": "mismanaged",
+    "exVi": "Đây là những công ty bị quản lý tồi và giờ gần như phá sản."
   },
   {
     "word": "have the nerve",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "dare to",
     "vi": "cả gan",
-    "viDef": "dám làm gì đó"
+    "viDef": "dám làm gì đó",
+    "ex": "And then they have the nerve to fly to Washington in private jets!",
+    "exHit": "have the nerve",
+    "exVi": "Vậy mà họ còn dám bay đến Washington bằng máy bay riêng!"
   },
   {
     "word": "placard",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "sign people hold at protests, usually a piece of cardboard on a stick",
     "vi": "biểu ngữ cầm tay",
-    "viDef": "tấm bảng người biểu tình cầm, thường là bìa cứng gắn que"
+    "viDef": "tấm bảng người biểu tình cầm, thường là bìa cứng gắn que",
+    "ex": "She held up a placard that said Save Our Park.",
+    "exHit": "placard",
+    "exVi": "Cô ấy giơ cao một tấm biển ghi Hãy cứu công viên của chúng ta."
   },
   {
     "word": "rally",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "public meeting in support or opposition of something",
     "vi": "cuộc tuần hành",
-    "viDef": "buổi tụ họp công khai để ủng hộ hoặc phản đối điều gì"
+    "viDef": "buổi tụ họp công khai để ủng hộ hoặc phản đối điều gì",
+    "ex": "Hundreds of workers came to the rally outside city hall.",
+    "exHit": "rally",
+    "exVi": "Hàng trăm công nhân đã đến buổi mít tinh bên ngoài tòa thị chính."
   },
   {
     "word": "demonstration",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "event where people gather together to show that they support or oppose something",
     "vi": "cuộc tuần hành thị uy",
-    "viDef": "sự kiện người dân tụ họp để bày tỏ ủng hộ hoặc phản đối"
+    "viDef": "sự kiện người dân tụ họp để bày tỏ ủng hộ hoặc phản đối",
+    "ex": "The demonstration was peaceful, and the police stayed far away.",
+    "exHit": "demonstration",
+    "exVi": "Cuộc biểu tình diễn ra ôn hòa và cảnh sát đứng cách xa."
   },
   {
     "word": "demonstrators",
@@ -85,7 +115,10 @@
     "type": "common noun, plural",
     "def": "people who go to a demonstration or protest",
     "vi": "người tham gia biểu tình",
-    "viDef": "những người đi tuần hành hoặc biểu tình"
+    "viDef": "những người đi tuần hành hoặc biểu tình",
+    "ex": "The demonstrators marched down Main Street singing and shouting.",
+    "exHit": "demonstrators",
+    "exVi": "Những người biểu tình diễu hành xuống phố Main, vừa hát vừa hô vang."
   },
   {
     "word": "opponent",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a person who opposes something or someone",
     "vi": "người phản đối",
-    "viDef": "người chống lại điều gì hoặc ai đó"
+    "viDef": "người chống lại điều gì hoặc ai đó",
+    "ex": "The mayor's opponent says the new tax is a terrible idea.",
+    "exHit": "opponent",
+    "exVi": "Đối thủ của thị trưởng nói rằng loại thuế mới là một ý tưởng tồi tệ."
   },
   {
     "word": "proponent",
@@ -101,6 +137,9 @@
     "type": "common noun, singular",
     "def": "person who supports someone or something",
     "vi": "người ủng hộ",
-    "viDef": "người đứng về phía ai đó hoặc điều gì đó"
+    "viDef": "người đứng về phía ai đó hoặc điều gì đó",
+    "ex": "He's a strong proponent of free public transport in our city.",
+    "exHit": "proponent",
+    "exVi": "Ông ấy là người ủng hộ mạnh mẽ việc miễn phí giao thông công cộng trong thành phố chúng ta."
   }
 ]

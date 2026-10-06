@@ -5,7 +5,10 @@
     "type": "",
     "def": "start anew",
     "vi": "sang trang mới",
-    "viDef": "khởi đầu lại"
+    "viDef": "khởi đầu lại",
+    "ex": "Now that it's the new year, I've decided to turn over a new leaf.",
+    "exHit": "turn over a new leaf",
+    "exVi": "Giờ đã sang năm mới, tôi quyết định bắt đầu một trang mới."
   },
   {
     "word": "wipe the slate clean",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "start over",
     "vi": "xóa sạch làm lại",
-    "viDef": "bắt đầu lại từ đầu"
+    "viDef": "bắt đầu lại từ đầu",
+    "ex": "You finally decided to wipe the slate clean?",
+    "exHit": "wipe the slate clean",
+    "exVi": "Cuối cùng bạn cũng quyết định xóa đi và làm lại từ đầu à?"
   },
   {
     "word": "opportunity",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "chance",
     "vi": "cơ hội",
-    "viDef": "dịp may"
+    "viDef": "dịp may",
+    "ex": "You'll have the opportunity to learn so much about Asian culture.",
+    "exHit": "opportunity",
+    "exVi": "Bạn sẽ có cơ hội học hỏi rất nhiều về văn hóa châu Á."
   },
   {
     "word": "take up",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "start, adopt the study",
     "vi": "bắt đầu học",
-    "viDef": "khởi sự, theo học một môn"
+    "viDef": "khởi sự, theo học một môn",
+    "ex": "Take up an art class or something?",
+    "exHit": "Take up",
+    "exVi": "Học một lớp nghệ thuật hay gì đó chẳng hạn?"
   },
   {
     "word": "pinch pennies",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to be thrifty",
     "vi": "thắt lưng buộc bụng",
-    "viDef": "sống tiết kiệm từng đồng"
+    "viDef": "sống tiết kiệm từng đồng",
+    "ex": "It's not that I'm pinching pennies or anything, it's just that I've been smoking since I was sixteen, and I think it's time to stop.",
+    "exHit": "pinching pennies",
+    "exVi": "Không phải tôi đang tiết kiệm từng đồng hay gì đâu, chỉ là tôi đã hút thuốc từ năm mười sáu tuổi và tôi nghĩ đã đến lúc bỏ rồi."
   },
   {
     "word": "with you",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "support you",
     "vi": "ủng hộ bạn",
-    "viDef": "đứng về phía bạn"
+    "viDef": "đứng về phía bạn",
+    "ex": "I'm with you on that one.",
+    "exHit": "with you",
+    "exVi": "Tôi ủng hộ bạn chuyện đó."
   },
   {
     "word": "come out of the closet",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to state openly or publicly one's homosexuality",
     "vi": "công khai giới tính",
-    "viDef": "nói ra công khai rằng mình đồng tính"
+    "viDef": "nói ra công khai rằng mình đồng tính",
+    "ex": "One last thing, I've decided to come out of the closet.",
+    "exHit": "come out of the closet",
+    "exVi": "Một điều cuối cùng, tôi đã quyết định công khai chuyện mình là người đồng tính."
   },
   {
     "word": "endless",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "having or seeming to have no end",
     "vi": "vô tận",
-    "viDef": "không có hoặc như không có điểm dừng"
+    "viDef": "không có hoặc như không có điểm dừng",
+    "ex": "My to-do list feels endless this January.",
+    "exHit": "endless",
+    "exVi": "Tháng Một này danh sách việc cần làm của mình dài như vô tận."
   },
   {
     "word": "significant",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "important, meaningful",
     "vi": "có ý nghĩa",
-    "viDef": "quan trọng, đáng kể"
+    "viDef": "quan trọng, đáng kể",
+    "ex": "Quitting smoking will make a significant difference to your health.",
+    "exHit": "significant",
+    "exVi": "Bỏ thuốc lá sẽ tạo ra khác biệt đáng kể cho sức khỏe của bạn."
   },
   {
     "word": "to start anew/ to begin anew",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to start again as if from the beginning",
     "vi": "bắt đầu lại",
-    "viDef": "khởi sự lại như từ đầu"
+    "viDef": "khởi sự lại như từ đầu",
+    "ex": "I want to start anew and forget about last year's mistakes.",
+    "exHit": "start anew",
+    "exVi": "Mình muốn bắt đầu lại từ đầu và quên đi những sai lầm của năm ngoái."
   },
   {
     "word": "to quit",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "to stop doing something",
     "vi": "bỏ, cai",
-    "viDef": "ngưng làm việc gì"
+    "viDef": "ngưng làm việc gì",
+    "ex": "This year I'm going to quit smoking for good.",
+    "exHit": "quit",
+    "exVi": "Năm nay tôi sẽ bỏ thuốc lá hẳn."
   },
   {
     "word": "to get into shape",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "to become physically fit",
     "vi": "tập cho vào phom",
-    "viDef": "rèn cho thân hình khỏe mạnh"
+    "viDef": "rèn cho thân hình khỏe mạnh",
+    "ex": "I joined a gym because I want to get into shape.",
+    "exHit": "get into shape",
+    "exVi": "Mình đăng ký phòng tập vì muốn lấy lại vóc dáng khỏe mạnh."
   }
 ]

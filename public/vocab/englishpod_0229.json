@@ -5,7 +5,10 @@
     "type": "",
     "def": "a shoe used as a component of formal wear",
     "vi": "giày tây",
-    "viDef": "giày dùng cho bộ đồ trang trọng"
+    "viDef": "giày dùng cho bộ đồ trang trọng",
+    "ex": "If you're looking for dress shoes, we have several different styles of Oxfords for boys.",
+    "exHit": "dress shoes",
+    "exVi": "Nếu bạn đang tìm giày tây, chúng tôi có nhiều kiểu giày Oxford cho các bé trai."
   },
   {
     "word": "tennis shoe",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a canvas shoe with a pliable rubber sole",
     "vi": "giày vải",
-    "viDef": "giày bạt có đế cao su mềm"
+    "viDef": "giày bạt có đế cao su mềm",
+    "ex": "They're tennis shoes.",
+    "exHit": "tennis shoes",
+    "exVi": "Chúng là giày tennis."
   },
   {
     "word": "tongue",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "the flap of material under the laces of a shoe",
     "vi": "lưỡi giày",
-    "viDef": "miếng nằm dưới phần dây buộc của giày"
+    "viDef": "miếng nằm dưới phần dây buộc của giày",
+    "ex": "and the way the tongue just sticks up.",
+    "exHit": "tongue",
+    "exVi": "và cái lưỡi gà cứ dựng lên như thế."
   },
   {
     "word": "grip",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "way of grasping and holding firmly",
     "vi": "độ bám",
-    "viDef": "cách nắm và giữ cho chắc"
+    "viDef": "cách nắm và giữ cho chắc",
+    "ex": "And the sole doesn't look like it would have a very good grip.",
+    "exHit": "grip",
+    "exVi": "Và đế giày trông không có độ bám tốt lắm."
   },
   {
     "word": "shoelaces",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a long, thin material used for fastening a shoe",
     "vi": "dây giày",
-    "viDef": "sợi dài mảnh dùng thắt giày"
+    "viDef": "sợi dài mảnh dùng thắt giày",
+    "ex": "And they've got cool fluorescent orange shoelaces!",
+    "exHit": "shoelaces",
+    "exVi": "Và chúng có dây giày màu cam huỳnh quang rất ngầu!"
   },
   {
     "word": "sole",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the underside of footwear",
     "vi": "đế giày",
-    "viDef": "mặt dưới của chiếc giày"
+    "viDef": "mặt dưới của chiếc giày",
+    "ex": "And the sole doesn't look like it would have a very good grip.",
+    "exHit": "sole",
+    "exVi": "Và đế giày trông không có độ bám tốt lắm."
   },
   {
     "word": "basketball sneakers",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "sneakers worn specifically to play basketball",
     "vi": "giày bóng rổ",
-    "viDef": "giày dành riêng để chơi bóng rổ"
+    "viDef": "giày dành riêng để chơi bóng rổ",
+    "ex": "My son wears his basketball sneakers to every practice and every game.",
+    "exHit": "basketball sneakers",
+    "exVi": "Con trai tôi đi giày bóng rổ đến mọi buổi tập và mọi trận đấu."
   },
   {
     "word": "cross trainers",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "shoes worn for running or other physical activities",
     "vi": "giày tập đa năng",
-    "viDef": "giày dùng để chạy hoặc chơi các môn khác"
+    "viDef": "giày dùng để chạy hoặc chơi các môn khác",
+    "ex": "I wear my cross trainers when I go to the gym three times a week.",
+    "exHit": "cross trainers",
+    "exVi": "Tôi mang giày tập đa năng khi đến phòng tập ba lần một tuần."
   },
   {
     "word": "arch supports",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a pad used to give the feet more support",
     "vi": "miếng đỡ vòm bàn chân",
-    "viDef": "miếng lót giúp nâng đỡ bàn chân"
+    "viDef": "miếng lót giúp nâng đỡ bàn chân",
+    "ex": "My feet hurt a lot, so the doctor suggested arch supports for my shoes.",
+    "exHit": "arch supports",
+    "exVi": "Chân tôi đau nhiều nên bác sĩ khuyên dùng miếng đệm vòm bàn chân cho giày."
   },
   {
     "word": "shoe salesmen",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a person who sells shoes",
     "vi": "người bán giày",
-    "viDef": "nhân viên bán giày"
+    "viDef": "nhân viên bán giày",
+    "ex": "The shoe salesmen at that store were friendly and helped me find my size.",
+    "exHit": "shoe salesmen",
+    "exVi": "Các nhân viên bán giày ở cửa hàng đó rất thân thiện và giúp tôi tìm đúng cỡ."
   },
   {
     "word": "construction boots",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "hard and durable boots worn for construction",
     "vi": "giày bảo hộ",
-    "viDef": "bốt cứng và bền dùng khi làm công trình"
+    "viDef": "bốt cứng và bền dùng khi làm công trình",
+    "ex": "My brother bought a pair of construction boots for his new job.",
+    "exHit": "construction boots",
+    "exVi": "Anh tôi mua một đôi giày bảo hộ công trình cho công việc mới."
   }
 ]

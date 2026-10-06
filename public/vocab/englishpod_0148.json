@@ -5,7 +5,10 @@
     "type": "",
     "def": "A deranged, psychotic, or morbidly obsessed person",
     "vi": "kẻ bệnh hoạn",
-    "viDef": "người loạn trí hoặc bị ám bởi những thứ bệnh hoạn"
+    "viDef": "người loạn trí hoặc bị ám bởi những thứ bệnh hoạn",
+    "ex": "A lot of sickos out there.",
+    "exHit": "sickos",
+    "exVi": "Ngoài kia có rất nhiều kẻ bệnh hoạn."
   },
   {
     "word": "red handed",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "doing something wrong or illegal",
     "vi": "quả tang",
-    "viDef": "đang làm điều sai hoặc trái luật"
+    "viDef": "đang làm điều sai hoặc trái luật",
+    "ex": "Just the other day they caught that peeping tom red handed!",
+    "exHit": "red handed",
+    "exVi": "Mới hôm nọ họ bắt quả tang tên rình trộm đó."
   },
   {
     "word": "invade",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to affect in an unwanted way",
     "vi": "xâm phạm",
-    "viDef": "tác động vào theo cách không ai muốn"
+    "viDef": "tác động vào theo cách không ai muốn",
+    "ex": "People just invade your privacy as if they knew you!",
+    "exHit": "invade",
+    "exVi": "Người ta cứ xâm phạm sự riêng tư của bạn như thể họ biết bạn vậy!"
   },
   {
     "word": "paranoid",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "having an feeling that people will harm you",
     "vi": "hoang tưởng bị hại",
-    "viDef": "cảm giác người ta sẽ làm hại mình"
+    "viDef": "cảm giác người ta sẽ làm hại mình",
+    "ex": "Why are you acting all paranoid?",
+    "exHit": "paranoid",
+    "exVi": "Sao bạn cứ hành động hoang tưởng thế?"
   },
   {
     "word": "need to know basis",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "situation where you have only the information you need",
     "vi": "chỉ biết phần cần biết",
-    "viDef": "tình trạng chỉ được cho thông tin vừa đủ dùng"
+    "viDef": "tình trạng chỉ được cho thông tin vừa đủ dùng",
+    "ex": "I like to keep everything on a need to know basis",
+    "exHit": "need to know basis",
+    "exVi": "Tôi thích giữ mọi thứ ở mức chỉ ai cần biết mới biết."
   },
   {
     "word": "schizophrenia",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a psychotic disorder characterized by withdrawal from reality, hallucinations, or emotional instability",
     "vi": "bệnh tâm thần phân liệt",
-    "viDef": "chứng loạn thần với biểu hiện tách rời thực tại, ảo giác hoặc cảm xúc bất định"
+    "viDef": "chứng loạn thần với biểu hiện tách rời thực tại, ảo giác hoặc cảm xúc bất định",
+    "ex": "His uncle was diagnosed with schizophrenia and has been in treatment since then.",
+    "exHit": "schizophrenia",
+    "exVi": "Chú của anh ấy được chẩn đoán mắc bệnh tâm thần phân liệt và điều trị từ đó đến nay."
   },
   {
     "word": "the grid",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "informal way of describing the network of information that can be used to keep track of someone",
     "vi": "mạng lưới theo dõi",
-    "viDef": "cách nói thân mật về hệ thông tin dùng để lần ra một người"
+    "viDef": "cách nói thân mật về hệ thông tin dùng để lần ra một người",
+    "ex": "She said she wanted to live off the grid so nobody could track her.",
+    "exHit": "the grid",
+    "exVi": "Cô ấy nói muốn sống ngoài mạng lưới để không ai theo dõi được mình."
   },
   {
     "word": "trace",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "To locate or discover by searching or researching evidence",
     "vi": "truy ra",
-    "viDef": "tìm hoặc phát hiện bằng cách lần theo dấu vết"
+    "viDef": "tìm hoặc phát hiện bằng cách lần theo dấu vết",
+    "ex": "The police managed to trace the phone call to a house downtown.",
+    "exHit": "trace",
+    "exVi": "Cảnh sát đã lần ra cuộc gọi đó xuất phát từ một ngôi nhà ở trung tâm thành phố."
   },
   {
     "word": "peeping tom",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A person who gets pleasure, from secretly watching others; a voyeur.",
     "vi": "kẻ nhìn trộm",
-    "viDef": "người thích rình xem người khác"
+    "viDef": "người thích rình xem người khác",
+    "ex": "Just the other day they caught that peeping tom red handed!",
+    "exHit": "peeping tom",
+    "exVi": "Mới hôm nọ họ bắt quả tang tên rình trộm đó."
   },
   {
     "word": "delusion",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "A false belief strongly held in spite of invalidating evidence, especially as a symptom of mental illness",
     "vi": "ảo tưởng",
-    "viDef": "niềm tin sai mà vẫn giữ chặt dù chứng cứ phủ nhận, nhất là dấu hiệu bệnh tâm thần"
+    "viDef": "niềm tin sai mà vẫn giữ chặt dù chứng cứ phủ nhận, nhất là dấu hiệu bệnh tâm thần",
+    "ex": "He suffers from the delusion that everyone in the street is following him.",
+    "exHit": "delusion",
+    "exVi": "Ông ấy mắc chứng hoang tưởng rằng mọi người trên phố đều đang theo dõi mình."
   }
 ]

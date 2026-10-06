@@ -5,7 +5,10 @@
     "type": "",
     "def": "be remembered; comes to mind",
     "vi": "chợt nhớ ra",
-    "viDef": "bỗng nghĩ tới, hiện lên trong đầu"
+    "viDef": "bỗng nghĩ tới, hiện lên trong đầu",
+    "ex": "If any other questions spring to mind don't hesitate to contact me.",
+    "exHit": "spring to mind",
+    "exVi": "Nếu bạn nghĩ ra câu hỏi nào khác thì đừng ngại liên hệ với tôi."
   },
   {
     "word": "hesitate",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to stop before you do something",
     "vi": "ngần ngừ",
-    "viDef": "dừng lại trước khi làm việc gì"
+    "viDef": "dừng lại trước khi làm việc gì",
+    "ex": "If any other questions spring to mind don't hesitate to contact me.",
+    "exHit": "hesitate",
+    "exVi": "Nếu bạn nghĩ ra câu hỏi nào khác thì đừng ngại liên hệ với tôi."
   },
   {
     "word": "expect",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "think something will probably happen",
     "vi": "dự là",
-    "viDef": "cho rằng điều gì có thể sẽ xảy ra"
+    "viDef": "cho rằng điều gì có thể sẽ xảy ra",
+    "ex": "Ermm, when can I expect to hear from you?",
+    "exHit": "expect",
+    "exVi": "Ừm, khi nào tôi có thể mong nhận được tin từ phía anh?"
   },
   {
     "word": "shortlist",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "list of people or items most likely to be chosen",
     "vi": "danh sách ngắn",
-    "viDef": "danh sách những người hoặc mục có khả năng được chọn nhất"
+    "viDef": "danh sách những người hoặc mục có khả năng được chọn nhất",
+    "ex": "Well, we are finishing the shortlist interviews tomorrow, so we will certainly have a decision made by early next week.",
+    "exHit": "shortlist",
+    "exVi": "Chúng tôi sẽ phỏng vấn xong các ứng viên vào danh sách rút gọn vào ngày mai, nên chắc chắn đầu tuần sau sẽ có quyết định."
   },
   {
     "word": "How does that sound?",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "Does that seem good to you?",
     "vi": "anh/chị thấy vậy được không",
-    "viDef": "điều đó nghe có ổn với bạn không"
+    "viDef": "điều đó nghe có ổn với bạn không",
+    "ex": "How does that sound?",
+    "exHit": "How does that sound",
+    "exVi": "Anh thấy thế nào?"
   },
   {
     "word": "you can reach me by",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "you can get in contact with me by (method of communication)",
     "vi": "anh/chị liên lạc với tôi qua",
-    "viDef": "bạn có thể liên hệ với tôi bằng cách nào"
+    "viDef": "bạn có thể liên hệ với tôi bằng cách nào",
+    "ex": "If you have any questions, you can reach me by email anytime.",
+    "exHit": "you can reach me by",
+    "exVi": "Nếu có câu hỏi nào, bạn có thể liên lạc với tôi qua email bất cứ lúc nào."
   },
   {
     "word": "round",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "one interview in a series of interviews that a candidate has to go through",
     "vi": "vòng phỏng vấn",
-    "viDef": "một buổi trong loạt phỏng vấn mà ứng viên phải qua"
+    "viDef": "một buổi trong loạt phỏng vấn mà ứng viên phải qua",
+    "ex": "After the first round of interviews, I nervously waited for the results.",
+    "exHit": "round",
+    "exVi": "Sau vòng phỏng vấn đầu tiên, tôi hồi hộp chờ kết quả."
   },
   {
     "word": "group interview",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "an interview involving more than one candidate in which the candidates have to work together",
     "vi": "phỏng vấn nhóm",
-    "viDef": "buổi phỏng vấn có nhiều ứng viên cùng lúc và họ phải làm việc chung"
+    "viDef": "buổi phỏng vấn có nhiều ứng viên cùng lúc và họ phải làm việc chung",
+    "ex": "In the group interview, we all had to solve a problem together.",
+    "exHit": "group interview",
+    "exVi": "Trong buổi phỏng vấn nhóm, tất cả chúng tôi phải cùng nhau giải một bài toán."
   },
   {
     "word": "status",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "acceptance or rejection (of an application)",
     "vi": "kết quả xét",
-    "viDef": "việc được nhận hay bị từ chối"
+    "viDef": "việc được nhận hay bị từ chối",
+    "ex": "I called to ask about the status of my job application.",
+    "exHit": "status",
+    "exVi": "Tôi gọi điện hỏi xem tình trạng hồ sơ xin việc của mình thế nào rồi."
   },
   {
     "word": "contract",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "an agreement between two or more parties, especially one that is written and enforceable by law",
     "vi": "hợp đồng",
-    "viDef": "thỏa thuận giữa hai hay nhiều bên, nhất là loại lập thành văn bản và có hiệu lực pháp lý"
+    "viDef": "thỏa thuận giữa hai hay nhiều bên, nhất là loại lập thành văn bản và có hiệu lực pháp lý",
+    "ex": "Please read the contract carefully before you sign it.",
+    "exHit": "contract",
+    "exVi": "Hãy đọc kỹ hợp đồng trước khi bạn ký tên."
   }
 ]

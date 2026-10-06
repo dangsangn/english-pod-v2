@@ -5,7 +5,10 @@
     "type": "",
     "def": "worried or nervous of what may happen",
     "vi": "lo âu",
-    "viDef": "lo lắng hoặc bồn chồn về điều có thể xảy ra"
+    "viDef": "lo lắng hoặc bồn chồn về điều có thể xảy ra",
+    "ex": "You seem a bit anxious.",
+    "exHit": "anxious",
+    "exVi": "Trông bạn có vẻ hơi lo lắng."
   },
   {
     "word": "mood swing",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "rapid or successive change of your mood",
     "vi": "thay đổi tâm trạng",
-    "viDef": "sự đổi tâm trạng nhanh hoặc liên tiếp"
+    "viDef": "sự đổi tâm trạng nhanh hoặc liên tiếp",
+    "ex": "Yeah I'm OK, I have been having a lot of mood swings lately.",
+    "exHit": "mood swings",
+    "exVi": "Ừ, mình ổn, nhưng dạo này tâm trạng mình thay đổi thất thường lắm."
   },
   {
     "word": "ecstatic",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "feeling very excited or happy",
     "vi": "ngất ngây",
-    "viDef": "thấy cực kỳ phấn khích hoặc hạnh phúc"
+    "viDef": "thấy cực kỳ phấn khích hoặc hạnh phúc",
+    "ex": "So you mean you feel ecstatic one minute and then blue the next?",
+    "exHit": "ecstatic",
+    "exVi": "Vậy ý bạn là một phút trước còn vui sướng tột độ, rồi phút sau lại buồn bã à?"
   },
   {
     "word": "blue",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "feeling sad, depressed",
     "vi": "buồn rầu",
-    "viDef": "thấy buồn, u uất"
+    "viDef": "thấy buồn, u uất",
+    "ex": "So you mean you feel ecstatic one minute and then blue the next?",
+    "exHit": "blue",
+    "exVi": "Vậy ý bạn là một phút trước còn vui sướng tột độ, rồi phút sau lại buồn bã à?"
   },
   {
     "word": "detached",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "feeling of showing lack of emotional involvement",
     "vi": "dửng dưng",
-    "viDef": "tỏ ra không dính dáng gì về mặt cảm xúc"
+    "viDef": "tỏ ra không dính dáng gì về mặt cảm xúc",
+    "ex": "For example just this morning I was feeling detached and lonely, even though there was really no reason to feel that way.",
+    "exHit": "detached",
+    "exVi": "Ví dụ như sáng nay mình cảm thấy xa cách và cô đơn, dù thật ra chẳng có lý do gì để cảm thấy như vậy."
   },
   {
     "word": "lonely",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "sad from being apart from other people",
     "vi": "cô đơn",
-    "viDef": "buồn vì phải xa mọi người"
+    "viDef": "buồn vì phải xa mọi người",
+    "ex": "For example just this morning I was feeling detached and lonely, even though there was really no reason to feel that way.",
+    "exHit": "lonely",
+    "exVi": "Ví dụ như sáng nay mình cảm thấy xa cách và cô đơn, dù thật ra chẳng có lý do gì để cảm thấy như vậy."
   },
   {
     "word": "confident",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "assurance: freedom from doubt",
     "vi": "tự tin",
-    "viDef": "sự chắc chắn, không còn nghi ngại"
+    "viDef": "sự chắc chắn, không còn nghi ngại",
+    "ex": "Well, maybe your mood will swing positively and you will feel confident, brave and hopeful!",
+    "exHit": "confident",
+    "exVi": "Biết đâu tâm trạng của bạn sẽ chuyển sang hướng tích cực và bạn sẽ cảm thấy tự tin, dũng cảm và đầy hy vọng!"
   },
   {
     "word": "brave",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "Not feeling any fear",
     "vi": "dũng cảm",
-    "viDef": "không thấy sợ hãi gì"
+    "viDef": "không thấy sợ hãi gì",
+    "ex": "Well, maybe your mood will swing positively and you will feel confident, brave and hopeful!",
+    "exHit": "brave",
+    "exVi": "Biết đâu tâm trạng của bạn sẽ chuyển sang hướng tích cực và bạn sẽ cảm thấy tự tin, dũng cảm và đầy hy vọng!"
   },
   {
     "word": "maniac depressive",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "suffering from a disorder characterized by alternating mania and depression",
     "vi": "rối loạn lưỡng cực",
-    "viDef": "mắc chứng bệnh luân phiên giữa hưng phấn và trầm cảm"
+    "viDef": "mắc chứng bệnh luân phiên giữa hưng phấn và trầm cảm",
+    "ex": "My uncle is a maniac depressive, so he sees a doctor every month.",
+    "exHit": "maniac depressive",
+    "exVi": "Chú tôi bị rối loạn lưỡng cực nên tháng nào cũng đi khám bác sĩ."
   },
   {
     "word": "anxiety",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "An abnormal sense of fear, nervousness, and apprehension",
     "vi": "sự lo âu",
-    "viDef": "cảm giác sợ hãi, bồn chồn và phấp phỏng bất thường"
+    "viDef": "cảm giác sợ hãi, bồn chồn và phấp phỏng bất thường",
+    "ex": "I get a lot of anxiety before every job interview.",
+    "exHit": "anxiety",
+    "exVi": "Tôi rất lo âu trước mỗi buổi phỏng vấn xin việc."
   },
   {
     "word": "self esteem",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "Personal feelings or opinions of oneself",
     "vi": "lòng tự trọng",
-    "viDef": "cảm nhận hoặc đánh giá của một người về chính mình"
+    "viDef": "cảm nhận hoặc đánh giá của một người về chính mình",
+    "ex": "Her self esteem is low because her classmates keep teasing her.",
+    "exHit": "self esteem",
+    "exVi": "Lòng tự trọng của cô ấy thấp vì các bạn cùng lớp cứ trêu chọc cô ấy."
   },
   {
     "word": "emotional",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "determined or actuated by emotion rather than reason",
     "vi": "thiên về cảm xúc",
-    "viDef": "bị cảm xúc chi phối hơn là lý trí"
+    "viDef": "bị cảm xúc chi phối hơn là lý trí",
+    "ex": "I get emotional whenever I watch a sad movie.",
+    "exHit": "emotional",
+    "exVi": "Tôi hay xúc động mỗi khi xem một bộ phim buồn."
   },
   {
     "word": "overwhelming",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "overpowering in effect or force",
     "vi": "áp đảo",
-    "viDef": "mạnh tới mức lấn át về tác động hoặc sức lực"
+    "viDef": "mạnh tới mức lấn át về tác động hoặc sức lực",
+    "ex": "The pressure at work was overwhelming this week.",
+    "exHit": "overwhelming",
+    "exVi": "Áp lực công việc tuần này thật sự quá sức chịu đựng."
   }
 ]

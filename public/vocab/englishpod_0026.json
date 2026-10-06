@@ -5,7 +5,10 @@
     "type": "common noun, singular",
     "def": "eating plan to help you lose weight",
     "vi": "chế độ ăn kiêng",
-    "viDef": "kế hoạch ăn uống giúp giảm cân"
+    "viDef": "kế hoạch ăn uống giúp giảm cân",
+    "ex": "I've decided to go on a diet.",
+    "exHit": "diet",
+    "exVi": "Tôi đã quyết định ăn kiêng."
   },
   {
     "word": "transform",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "change",
     "vi": "biến đổi",
-    "viDef": "thay đổi"
+    "viDef": "thay đổi",
+    "ex": "And you're going to completely transform your eating habits, right?",
+    "exHit": "transform",
+    "exVi": "Và bạn sẽ thay đổi hoàn toàn thói quen ăn uống của mình, đúng không?"
   },
   {
     "word": "cut out",
@@ -21,7 +27,10 @@
     "type": "verb",
     "def": "remove, eliminate",
     "vi": "cắt bỏ",
-    "viDef": "loại bỏ, dẹp đi"
+    "viDef": "loại bỏ, dẹp đi",
+    "ex": "I'm going to cut out all that junk I eat; no more chips, no more soda, no more fried food.",
+    "exHit": "cut out",
+    "exVi": "Mình sẽ cắt bỏ hết đồ ăn vặt mình hay ăn; không khoai tây chiên, không nước ngọt, không đồ chiên rán nữa."
   },
   {
     "word": "eating habits",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "usual ways of behaving",
     "vi": "thói quen ăn uống",
-    "viDef": "những nếp hành xử quen thuộc"
+    "viDef": "những nếp hành xử quen thuộc",
+    "ex": "And you're going to completely transform your eating habits, right?",
+    "exHit": "eating habits",
+    "exVi": "Và bạn sẽ thay đổi hoàn toàn thói quen ăn uống của mình, đúng không?"
   },
   {
     "word": "stick to",
@@ -37,7 +49,10 @@
     "type": "verb",
     "def": "continue doing something",
     "vi": "kiên trì với",
-    "viDef": "tiếp tục làm việc gì đó"
+    "viDef": "tiếp tục làm việc gì đó",
+    "ex": "But this time I'm going to stick to it.",
+    "exHit": "stick to",
+    "exVi": "Nhưng lần này mình sẽ kiên trì thực hiện."
   },
   {
     "word": "wait and see",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "remain in a state in which you expect something to happen, and see if it does",
     "vi": "cứ chờ xem",
-    "viDef": "tạm chờ đợi xem điều mình mong có xảy ra không"
+    "viDef": "tạm chờ đợi xem điều mình mong có xảy ra không",
+    "ex": "Well, I guess we'll just have to wait and see.",
+    "exHit": "wait and see",
+    "exVi": "Chà, chắc chúng ta cứ phải chờ xem thôi."
   },
   {
     "word": "stuffed",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "filled with food; no longer hungry",
     "vi": "no căng",
-    "viDef": "ăn no rồi, không còn thấy đói"
+    "viDef": "ăn no rồi, không còn thấy đói",
+    "ex": "I'm stuffed.",
+    "exHit": "stuffed",
+    "exVi": "Mình no căng rồi."
   },
   {
     "word": "calorie",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "unit of energy in food",
     "vi": "ca-lo",
-    "viDef": "đơn vị đo năng lượng trong thức ăn"
+    "viDef": "đơn vị đo năng lượng trong thức ăn",
+    "ex": "This small cake has more than five hundred calories.",
+    "exHit": "calories",
+    "exVi": "Chiếc bánh nhỏ này có hơn năm trăm calo."
   },
   {
     "word": "vegetarian",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "person who does not eat meat",
     "vi": "người ăn chay",
-    "viDef": "người không ăn thịt"
+    "viDef": "người không ăn thịt",
+    "ex": "My sister became a vegetarian last year and never eats meat.",
+    "exHit": "vegetarian",
+    "exVi": "Chị tôi đã trở thành người ăn chay từ năm ngoái và không bao giờ ăn thịt."
   },
   {
     "word": "fast food",
@@ -77,7 +104,10 @@
     "type": "common noun, non-variable",
     "def": "food that is prepared and served quickly (i.e. McDonald's, KFC, Burger King, etc.)",
     "vi": "đồ ăn nhanh",
-    "viDef": "món chế biến và phục vụ nhanh (McDonald's, KFC, Burger King...)"
+    "viDef": "món chế biến và phục vụ nhanh (McDonald's, KFC, Burger King...)",
+    "ex": "I want to stop eating fast food for lunch every day.",
+    "exHit": "fast food",
+    "exVi": "Mình muốn thôi ăn đồ ăn nhanh vào bữa trưa mỗi ngày."
   },
   {
     "word": "work out",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "exercise at a gym",
     "vi": "tập gym",
-    "viDef": "tập thể dục ở phòng tập"
+    "viDef": "tập thể dục ở phòng tập",
+    "ex": "I try to work out at the gym three times a week.",
+    "exHit": "work out",
+    "exVi": "Mình cố gắng tập thể dục ở phòng gym ba lần một tuần."
   },
   {
     "word": "lifestyle change",
@@ -93,6 +126,9 @@
     "type": "phrase",
     "def": "change the way you live",
     "vi": "thay đổi lối sống",
-    "viDef": "đổi cách sống thường ngày"
+    "viDef": "đổi cách sống thường ngày",
+    "ex": "Going to bed early was the biggest lifestyle change for me.",
+    "exHit": "lifestyle change",
+    "exVi": "Đi ngủ sớm là thay đổi lối sống lớn nhất đối với mình."
   }
 ]

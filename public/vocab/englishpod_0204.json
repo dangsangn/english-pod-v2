@@ -5,7 +5,10 @@
     "type": "",
     "def": "succeed in making the finding of a jury in a trial",
     "vi": "đi đến phán quyết",
-    "viDef": "bồi thẩm đoàn đưa ra được kết luận trong phiên xử"
+    "viDef": "bồi thẩm đoàn đưa ra được kết luận trong phiên xử",
+    "ex": "Ladies and Gentlemen of the jury, have you reached a verdict?",
+    "exHit": "reached a verdict",
+    "exVi": "Thưa quý vị trong bồi thẩm đoàn, quý vị đã đưa ra phán quyết chưa?"
   },
   {
     "word": "guilty",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "responsible for doing something bad",
     "vi": "có tội",
-    "viDef": "phải chịu trách nhiệm vì đã làm điều xấu"
+    "viDef": "phải chịu trách nhiệm vì đã làm điều xấu",
+    "ex": "our verdict is……not guilty!",
+    "exHit": "guilty",
+    "exVi": "phán quyết của chúng tôi là...không có tội!"
   },
   {
     "word": "your honor",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a respectful title used to or of certain judges",
     "vi": "thưa quý tòa",
-    "viDef": "cách gọi kính trọng dành cho thẩm phán"
+    "viDef": "cách gọi kính trọng dành cho thẩm phán",
+    "ex": "Your honor, ladies and gentlemen of the jury, My client, Robert Malone, has been accused of a crime he did not commit.",
+    "exHit": "Your honor",
+    "exVi": "Thưa quý tòa, thưa quý vị trong bồi thẩm đoàn, thân chủ của tôi là Robert Malone bị buộc tội về một việc mà ông ấy không hề làm."
   },
   {
     "word": "jury",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a body of persons sworn to judge",
     "vi": "bồi thẩm đoàn",
-    "viDef": "nhóm người tuyên thệ để phân định vụ án"
+    "viDef": "nhóm người tuyên thệ để phân định vụ án",
+    "ex": "Ladies and Gentlemen of the jury, have you reached a verdict?",
+    "exHit": "jury",
+    "exVi": "Thưa quý vị trong bồi thẩm đoàn, quý vị đã đưa ra phán quyết chưa?"
   },
   {
     "word": "accuse of",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to charge someone with a crime",
     "vi": "buộc tội về",
-    "viDef": "quy cho ai một tội"
+    "viDef": "quy cho ai một tội",
+    "ex": "The prosecution has accused my client of being a pickpocket!",
+    "exHit": "accused my client of",
+    "exVi": "Bên công tố đã buộc tội thân chủ của tôi là kẻ móc túi!"
   },
   {
     "word": "commit",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to do something (usually a crime)",
     "vi": "thực hiện, gây ra",
-    "viDef": "làm một việc, thường là phạm tội"
+    "viDef": "làm một việc, thường là phạm tội",
+    "ex": "Your honor, ladies and gentlemen of the jury, My client, Robert Malone, has been accused of a crime he did not commit.",
+    "exHit": "commit",
+    "exVi": "Thưa quý tòa, thưa quý vị trong bồi thẩm đoàn, thân chủ của tôi là Robert Malone bị buộc tội về một việc mà ông ấy không hề làm."
   },
   {
     "word": "prosecution",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the lawyers against the defendant",
     "vi": "bên công tố",
-    "viDef": "các luật sư đứng về phía chống lại bị đơn"
+    "viDef": "các luật sư đứng về phía chống lại bị đơn",
+    "ex": "The prosecution has accused my client of being a pickpocket!",
+    "exHit": "prosecution",
+    "exVi": "Bên công tố đã buộc tội thân chủ của tôi là kẻ móc túi!"
   },
   {
     "word": "pickpocket",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "one who steals from pockets",
     "vi": "kẻ móc túi",
-    "viDef": "người lấy đồ trong túi người khác"
+    "viDef": "người lấy đồ trong túi người khác",
+    "ex": "The prosecution has accused my client of being a pickpocket!",
+    "exHit": "pickpocket",
+    "exVi": "Bên công tố đã buộc tội thân chủ của tôi là kẻ móc túi!"
   },
   {
     "word": "testimony",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a declaration of truth or fact",
     "vi": "lời khai",
-    "viDef": "lời tuyên bố về sự thật hoặc dữ kiện"
+    "viDef": "lời tuyên bố về sự thật hoặc dữ kiện",
+    "ex": "I know we have heard the testimony of many people here today, ….",
+    "exHit": "testimony",
+    "exVi": "Tôi biết hôm nay chúng ta đã nghe lời khai của rất nhiều người ở đây...."
   },
   {
     "word": "defendant",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "the person being sued or accused",
     "vi": "bị đơn, bị cáo",
-    "viDef": "người bị kiện hoặc bị buộc tội"
+    "viDef": "người bị kiện hoặc bị buộc tội",
+    "ex": "people who claim the defendant, my client, stole their wallets.",
+    "exHit": "defendant",
+    "exVi": "những người khẳng định bị bị cáo, tức thân chủ của tôi, lấy trộm ví của họ."
   },
   {
     "word": "victim",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "people affected by a painful or sad experience",
     "vi": "nạn nhân",
-    "viDef": "người phải chịu điều đau đớn hoặc mất mát"
+    "viDef": "người phải chịu điều đau đớn hoặc mất mát",
+    "ex": "I feel sorry for these victims, I really do……… but my client is innocent!",
+    "exHit": "victims",
+    "exVi": "Tôi thấy thương những nạn nhân này, thật lòng đấy......... nhưng thân chủ của tôi vô tội!"
   },
   {
     "word": "innocent",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "not guilty",
     "vi": "vô tội",
-    "viDef": "không có tội"
+    "viDef": "không có tội",
+    "ex": "I knew you were innocent so my job was easy.",
+    "exHit": "innocent",
+    "exVi": "Tôi biết anh vô tội nên công việc của tôi rất dễ dàng."
   },
   {
     "word": "so-called",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "refer to something that is not suitable",
     "vi": "cái gọi là",
-    "viDef": "nói về điều mà tên gọi không hợp"
+    "viDef": "nói về điều mà tên gọi không hợp",
+    "ex": "Your so-called alibi doesn't prove anything to me.",
+    "exHit": "so-called",
+    "exVi": "Cái gọi là bằng chứng ngoại phạm của bạn chẳng chứng minh được gì với tôi."
   },
   {
     "word": "evidence",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "something that shows the thing is true",
     "vi": "bằng chứng",
-    "viDef": "thứ chứng minh điều đó là thật"
+    "viDef": "thứ chứng minh điều đó là thật",
+    "ex": "And what evidence do you have that you are financially independent?",
+    "exHit": "evidence",
+    "exVi": "Và bạn có bằng chứng nào cho thấy mình độc lập về tài chính?"
   },
   {
     "word": "witness",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "one who is called on to testify before a court",
     "vi": "nhân chứng",
-    "viDef": "người được gọi ra khai trước tòa"
+    "viDef": "người được gọi ra khai trước tòa",
+    "ex": "Let's look at the facts… one: These 'so-called' witnesses did not actually see the defendant steal anything……….",
+    "exHit": "witnesses",
+    "exVi": "Hãy xem xét sự thật... một: Những người gọi là nhân chứng này thực ra không hề thấy bị cáo lấy trộm gì cả........."
   },
   {
     "word": "Acquittal",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "A jury verdict that a criminal defendant is not guilty, or the finding of a judge that the evidence is insufficient to support a conviction.",
     "vi": "sự tuyên vô tội",
-    "viDef": "phán quyết của bồi thẩm rằng bị cáo không có tội, hoặc kết luận của thẩm phán rằng chứng cứ không đủ để kết án"
+    "viDef": "phán quyết của bồi thẩm rằng bị cáo không có tội, hoặc kết luận của thẩm phán rằng chứng cứ không đủ để kết án",
+    "ex": "After the acquittal, the defendant walked out of the courtroom smiling.",
+    "exHit": "acquittal",
+    "exVi": "Sau khi được tuyên trắng án, bị cáo mỉm cười bước ra khỏi phòng xử án."
   },
   {
     "word": "Affidavit",
@@ -133,7 +181,10 @@
     "type": "",
     "def": "A written or printed statement made under oath.",
     "vi": "bản khai có tuyên thệ",
-    "viDef": "lời khai viết hoặc in ra, lập dưới lời thề"
+    "viDef": "lời khai viết hoặc in ra, lập dưới lời thề",
+    "ex": "The lawyer asked me to sign an affidavit before the trial.",
+    "exHit": "affidavit",
+    "exVi": "Luật sư yêu cầu tôi ký một bản tuyên thệ trước phiên tòa."
   },
   {
     "word": "Lawsuit",
@@ -141,7 +192,10 @@
     "type": "",
     "def": "A legal action started by a plaintiff against a defendant based on a complaint that the defendant failed to perform a legal duty which resulted in harm to the plaintiff.",
     "vi": "vụ kiện",
-    "viDef": "hành động pháp lý do nguyên đơn khởi kiện bị đơn, dựa trên đơn tố rằng bị đơn không làm tròn nghĩa vụ và gây hại"
+    "viDef": "hành động pháp lý do nguyên đơn khởi kiện bị đơn, dựa trên đơn tố rằng bị đơn không làm tròn nghĩa vụ và gây hại",
+    "ex": "She filed a lawsuit against the company after the accident.",
+    "exHit": "lawsuit",
+    "exVi": "Cô ấy đã kiện công ty sau vụ tai nạn."
   },
   {
     "word": "Plea",
@@ -149,7 +203,10 @@
     "type": "",
     "def": "In a criminal case, the defendant's statement pleading \"guilty\" or \"not guilty\" in answer to the charges.",
     "vi": "lời nhận tội hay phủ nhận",
-    "viDef": "trong án hình sự, lời bị cáo đáp lại cáo buộc là \"có tội\" hay \"không có tội\""
+    "viDef": "trong án hình sự, lời bị cáo đáp lại cáo buộc là \"có tội\" hay \"không có tội\"",
+    "ex": "His plea was not guilty, so the case went to trial.",
+    "exHit": "plea",
+    "exVi": "Lời khai của anh ta là không có tội, nên vụ án được đưa ra xét xử."
   },
   {
     "word": "Warrant",
@@ -157,6 +214,9 @@
     "type": "",
     "def": "Court authorization, most often for law enforcement officers, to conduct a search or make an arrest.",
     "vi": "lệnh của tòa",
-    "viDef": "giấy tòa cho phép, thường là cho cảnh sát, khám xét hoặc bắt người"
+    "viDef": "giấy tòa cho phép, thường là cho cảnh sát, khám xét hoặc bắt người",
+    "ex": "The police needed a warrant to search his house.",
+    "exHit": "warrant",
+    "exVi": "Cảnh sát cần có lệnh để khám xét nhà anh ta."
   }
 ]

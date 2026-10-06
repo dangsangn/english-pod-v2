@@ -5,7 +5,10 @@
     "type": "",
     "def": "disorder",
     "vi": "bừa bộn",
-    "viDef": "sự lộn xộn"
+    "viDef": "sự lộn xộn",
+    "ex": "Kevin, what is this mess?",
+    "exHit": "mess",
+    "exVi": "Kevin, cái đống bừa bộn này là gì vậy?"
   },
   {
     "word": "grounded",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to be punished and not allowed to go outside",
     "vi": "bị phạt cấm túc",
-    "viDef": "bị phạt và không được ra ngoài"
+    "viDef": "bị phạt và không được ra ngoài",
+    "ex": "Plus, you are grounded, you're not allowed to play video games.",
+    "exHit": "grounded",
+    "exVi": "Hơn nữa, con đang bị phạt cấm túc, con không được phép chơi trò chơi điện tử."
   },
   {
     "word": "sweep",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to clean the floor with a broom or brush",
     "vi": "quét nhà",
-    "viDef": "làm sạch sàn bằng chổi hoặc bàn chải"
+    "viDef": "làm sạch sàn bằng chổi hoặc bàn chải",
+    "ex": "I want you to make your bed, do the laundry and then come downstairs and sweep the floors.",
+    "exHit": "sweep",
+    "exVi": "Mẹ muốn con dọn giường, giặt đồ rồi xuống nhà quét sàn."
   },
   {
     "word": "pull your weight",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to help or collaborate in the household",
     "vi": "gánh phần việc của mình",
-    "viDef": "phụ giúp hoặc góp sức trong việc nhà"
+    "viDef": "phụ giúp hoặc góp sức trong việc nhà",
+    "ex": "You have to pull your weight around here young man.",
+    "exHit": "pull your weight",
+    "exVi": "Con phải góp sức làm việc nhà ở đây, cậu nhóc."
   },
   {
     "word": "dust",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to remove dust and dirt",
     "vi": "lau bụi",
-    "viDef": "lấy đi bụi và bẩn"
+    "viDef": "lấy đi bụi và bẩn",
+    "ex": "But I already mopped the floors, dusted the furniture and vacuumed the rugs!",
+    "exHit": "dusted",
+    "exVi": "Nhưng con đã lau sàn, phủi bụi đồ đạc và hút bụi các tấm thảm rồi mà!"
   },
   {
     "word": "mop",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to clean the floor with water and a mop",
     "vi": "lau sàn",
-    "viDef": "làm sạch sàn bằng nước và cây lau"
+    "viDef": "làm sạch sàn bằng nước và cây lau",
+    "ex": "But I already mopped the floors, dusted the furniture and vacuumed the rugs!",
+    "exHit": "mopped",
+    "exVi": "Nhưng con đã lau sàn, phủi bụi đồ đạc và hút bụi các tấm thảm rồi mà!"
   },
   {
     "word": "vacuum",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to use an electric device to suction dust and dirt",
     "vi": "hút bụi",
-    "viDef": "dùng máy điện hút bụi và bẩn"
+    "viDef": "dùng máy điện hút bụi và bẩn",
+    "ex": "But I already mopped the floors, dusted the furniture and vacuumed the rugs!",
+    "exHit": "vacuumed",
+    "exVi": "Nhưng con đã lau sàn, phủi bụi đồ đạc và hút bụi các tấm thảm rồi mà!"
   },
   {
     "word": "wax",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to put a greasy substance on a surface to make it shiny",
     "vi": "đánh xi",
-    "viDef": "phủ một lớp chất nhờn lên bề mặt cho bóng"
+    "viDef": "phủ một lớp chất nhờn lên bề mặt cho bóng",
+    "ex": "You should wax the floor so it looks new again.",
+    "exHit": "wax",
+    "exVi": "Bạn nên đánh bóng sàn bằng sáp để nó trông như mới lại."
   },
   {
     "word": "polish",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "To make smooth and shiny by rubbing or chemical action.",
     "vi": "đánh bóng",
-    "viDef": "làm cho nhẵn và sáng bằng cách chà xát hoặc dùng hóa chất"
+    "viDef": "làm cho nhẵn và sáng bằng cách chà xát hoặc dùng hóa chất",
+    "ex": "I need to polish my shoes before the party tonight.",
+    "exHit": "polish",
+    "exVi": "Tôi cần đánh bóng giày trước bữa tiệc tối nay."
   },
   {
     "word": "take out the trash",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "action of taking the trash outside to be collected",
     "vi": "đem rác ra ngoài",
-    "viDef": "việc mang rác ra ngoài để được thu gom"
+    "viDef": "việc mang rác ra ngoài để được thu gom",
+    "ex": "Can you take out the trash before you go to bed?",
+    "exHit": "take out the trash",
+    "exVi": "Con đổ rác trước khi đi ngủ được không?"
   },
   {
     "word": "do the dishes",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "to wash the dishes",
     "vi": "rửa chén",
-    "viDef": "rửa bát đĩa"
+    "viDef": "rửa bát đĩa",
+    "ex": "I cooked dinner, so you can do the dishes.",
+    "exHit": "do the dishes",
+    "exVi": "Mẹ nấu bữa tối rồi nên con rửa bát nhé."
   },
   {
     "word": "iron",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "action of using a hot flat surface to remove wrinkles from clothes",
     "vi": "ủi đồ",
-    "viDef": "việc dùng mặt phẳng nóng để làm phẳng quần áo"
+    "viDef": "việc dùng mặt phẳng nóng để làm phẳng quần áo",
+    "ex": "I have to iron my shirt before the meeting tomorrow.",
+    "exHit": "iron",
+    "exVi": "Tôi phải ủi áo sơ mi trước cuộc họp ngày mai."
   }
 ]

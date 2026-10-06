@@ -5,7 +5,10 @@
     "type": "principle verb, infinitive",
     "def": "register at a hotel or airport",
     "vi": "làm thủ tục nhận phòng",
-    "viDef": "đăng ký tại khách sạn hoặc sân bay"
+    "viDef": "đăng ký tại khách sạn hoặc sân bay",
+    "ex": "I'd like to check in please.",
+    "exHit": "check in",
+    "exVi": "Làm ơn cho tôi nhận phòng."
   },
   {
     "word": "under the name",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "name used for the reservation",
     "vi": "đứng tên",
-    "viDef": "tên dùng để đặt chỗ"
+    "viDef": "tên dùng để đặt chỗ",
+    "ex": "I have a reservation under the name Anthony Roberts.",
+    "exHit": "under the name",
+    "exVi": "Tôi có đặt phòng dưới tên Anthony Roberts."
   },
   {
     "word": "reservation",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "booking",
     "vi": "đặt chỗ trước",
-    "viDef": "sự đặt chỗ"
+    "viDef": "sự đặt chỗ",
+    "ex": "I have a reservation under the name Anthony Roberts.",
+    "exHit": "reservation",
+    "exVi": "Tôi có đặt phòng dưới tên Anthony Roberts."
   },
   {
     "word": "confirmation",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "an approval, verification",
     "vi": "xác nhận",
-    "viDef": "sự chấp thuận, sự kiểm chứng"
+    "viDef": "sự chấp thuận, sự kiểm chứng",
+    "ex": "Yeah…Here, this is my confirmation number.",
+    "exHit": "confirmation",
+    "exVi": "Vâng, đây là mã số xác nhận của tôi."
   },
   {
     "word": "mix-up",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "confusion",
     "vi": "sự nhầm lẫn",
-    "viDef": "sự lộn xộn, rối rắm"
+    "viDef": "sự lộn xộn, rối rắm",
+    "ex": "There was a mix-up with my room, so I had to wait an hour.",
+    "exHit": "mix-up",
+    "exVi": "Phòng của tôi bị nhầm lẫn nên tôi phải chờ một tiếng."
   },
   {
     "word": "complimentary upgrade",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "free improvement of quality",
     "vi": "nâng hạng miễn phí",
-    "viDef": "được nâng cấp chất lượng mà không mất phí"
+    "viDef": "được nâng cấp chất lượng mà không mất phí",
+    "ex": "We're pleased to offer you a complimentary upgrade.",
+    "exHit": "complimentary upgrade",
+    "exVi": "Chúng tôi rất vui được tặng ông một lần nâng hạng phòng miễn phí."
   },
   {
     "word": "overbooked",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "full",
     "vi": "kín chỗ, đặt vượt số",
-    "viDef": "hết chỗ"
+    "viDef": "hết chỗ",
+    "ex": "You're right Mr. Roberts, there seems to be a mix-up, unfortunately we're overbooked at the moment.",
+    "exHit": "overbooked",
+    "exVi": "Ông Roberts nói đúng, có sự nhầm lẫn rồi, rất tiếc là hiện giờ chúng tôi đã kín phòng."
   },
   {
     "word": "check out",
@@ -61,7 +82,10 @@
     "type": "verb",
     "def": "pay and leave a hotel",
     "vi": "trả phòng",
-    "viDef": "thanh toán và rời khách sạn"
+    "viDef": "thanh toán và rời khách sạn",
+    "ex": "We need to check out before noon, so let's pack tonight.",
+    "exHit": "check out",
+    "exVi": "Chúng tôi phải trả phòng trước buổi trưa, nên tối nay mình hãy xếp đồ."
   },
   {
     "word": "booking",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "reservation",
     "vi": "việc đặt chỗ",
-    "viDef": "sự đặt trước"
+    "viDef": "sự đặt trước",
+    "ex": "I made a booking for two nights, but the hotel lost it.",
+    "exHit": "booking",
+    "exVi": "Tôi đã đặt phòng hai đêm nhưng khách sạn làm mất đơn đặt."
   },
   {
     "word": "concierge",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "hotel employee that helps guests",
     "vi": "nhân viên hỗ trợ khách",
-    "viDef": "nhân viên khách sạn giúp đỡ khách"
+    "viDef": "nhân viên khách sạn giúp đỡ khách",
+    "ex": "The concierge booked us a taxi and recommended a great sushi place.",
+    "exHit": "concierge",
+    "exVi": "Nhân viên hỗ trợ khách đã gọi taxi cho chúng tôi và giới thiệu một quán sushi tuyệt vời."
   },
   {
     "word": "deluxe room",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "hotel room, better than standard",
     "vi": "phòng hạng sang",
-    "viDef": "phòng khách sạn cao cấp hơn phòng tiêu chuẩn"
+    "viDef": "phòng khách sạn cao cấp hơn phòng tiêu chuẩn",
+    "ex": "We upgraded to a deluxe room with a view of the ocean.",
+    "exHit": "deluxe room",
+    "exVi": "Chúng tôi đã nâng lên phòng hạng sang có tầm nhìn ra biển."
   },
   {
     "word": "receipt",
@@ -93,6 +126,9 @@
     "type": "common noun, singular",
     "def": "paper showing payment details",
     "vi": "hóa đơn, biên lai",
-    "viDef": "tờ giấy ghi chi tiết thanh toán"
+    "viDef": "tờ giấy ghi chi tiết thanh toán",
+    "ex": "Could I get a receipt for the room, please?",
+    "exHit": "receipt",
+    "exVi": "Làm ơn cho tôi xin biên lai tiền phòng được không?"
   }
 ]

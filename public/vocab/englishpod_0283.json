@@ -5,7 +5,10 @@
     "type": "",
     "def": "available but not used",
     "vi": "chưa khai thác",
-    "viDef": "có sẵn nhưng chưa dùng tới"
+    "viDef": "có sẵn nhưng chưa dùng tới",
+    "ex": "Now, as we have already discussed there is a huge untapped market out there both in Asia, in other developing markets, and in the more mature markets for us to push into.",
+    "exHit": "untapped",
+    "exVi": "Như chúng ta đã bàn, có một thị trường tiềm năng rất lớn chưa được khai thác ở châu Á, ở các thị trường đang phát triển khác, và cả ở những thị trường đã trưởng thành mà chúng ta có thể thâm nhập."
   },
   {
     "word": "developing market",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "markets that are in growth",
     "vi": "thị trường đang phát triển",
-    "viDef": "các thị trường đang tăng trưởng"
+    "viDef": "các thị trường đang tăng trưởng",
+    "ex": "Now, as we have already discussed there is a huge untapped market out there both in Asia, in other developing markets, and in the more mature markets for us to push into.",
+    "exHit": "developing markets",
+    "exVi": "Như chúng ta đã bàn, có một thị trường tiềm năng rất lớn chưa được khai thác ở châu Á, ở các thị trường đang phát triển khác, và cả ở những thị trường đã trưởng thành mà chúng ta có thể thâm nhập."
   },
   {
     "word": "mature markets",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "developed market",
     "vi": "thị trường đã chín",
-    "viDef": "thị trường đã phát triển"
+    "viDef": "thị trường đã phát triển",
+    "ex": "Now, as we have already discussed there is a huge untapped market out there both in Asia, in other developing markets, and in the more mature markets for us to push into.",
+    "exHit": "mature markets",
+    "exVi": "Như chúng ta đã bàn, có một thị trường tiềm năng rất lớn chưa được khai thác ở châu Á, ở các thị trường đang phát triển khác, và cả ở những thị trường đã trưởng thành mà chúng ta có thể thâm nhập."
   },
   {
     "word": "marketing message",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "the information of the sale of a product",
     "vi": "thông điệp tiếp thị",
-    "viDef": "nội dung truyền đi để bán một sản phẩm"
+    "viDef": "nội dung truyền đi để bán một sản phẩm",
+    "ex": "Now of course, this represents an enormous challenge with enormous rewards for the winners, but for any new product we need a great marketing message and marketing campaign",
+    "exHit": "marketing message",
+    "exVi": "Tất nhiên, đây là một thách thức rất lớn nhưng phần thưởng cho người chiến thắng cũng rất lớn, và với bất kỳ sản phẩm mới nào, chúng ta cần một thông điệp tiếp thị và chiến dịch tiếp thị thật tuyệt vời."
   },
   {
     "word": "tackle",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "deal with something that is difficult",
     "vi": "xử lý, đối phó",
-    "viDef": "giải quyết việc gì khó"
+    "viDef": "giải quyết việc gì khó",
+    "ex": "Let's first of all tackle the first question.",
+    "exHit": "tackle",
+    "exVi": "Trước hết, hãy giải quyết câu hỏi đầu tiên."
   },
   {
     "word": "white collar",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a person that works in an office",
     "vi": "dân cổ cồn trắng",
-    "viDef": "người làm việc trong văn phòng"
+    "viDef": "người làm việc trong văn phòng",
+    "ex": "Our target consumer for the x420 is the middle class, white collar worker with an above average income.",
+    "exHit": "white collar",
+    "exVi": "Đối tượng khách hàng mục tiêu của x420 là tầng lớp trung lưu, nhân viên văn phòng có thu nhập trên mức trung bình."
   },
   {
     "word": "Q and A",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "question and answer",
     "vi": "phần hỏi đáp",
-    "viDef": "question and answer"
+    "viDef": "question and answer",
+    "ex": "If you don't mind I'd like to tackle your question a little bit later in the Q and A section.",
+    "exHit": "Q and A",
+    "exVi": "Nếu quý vị không phiền, tôi xin trả lời câu hỏi của bạn muộn hơn một chút trong phần hỏi đáp."
   },
   {
     "word": "consumerism",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "the increasing consumption of goods; a movement that emphasizes quality and consumer awareness",
     "vi": "chủ nghĩa tiêu dùng",
-    "viDef": "việc tiêu thụ hàng hóa ngày càng nhiều; cũng là phong trào đề cao chất lượng và ý thức của người mua"
+    "viDef": "việc tiêu thụ hàng hóa ngày càng nhiều; cũng là phong trào đề cao chất lượng và ý thức của người mua",
+    "ex": "Consumerism makes people buy things they do not really need.",
+    "exHit": "Consumerism",
+    "exVi": "Chủ nghĩa tiêu dùng khiến người ta mua những thứ họ không thực sự cần."
   },
   {
     "word": "bottom of pyramid",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "those people who earn around $1USD/day, the majority of the world's people belong to this consumer segment",
     "vi": "đáy kim tự tháp",
-    "viDef": "những người kiếm khoảng 1 đô mỗi ngày, phần đông dân số thế giới thuộc phân khúc này"
+    "viDef": "những người kiếm khoảng 1 đô mỗi ngày, phần đông dân số thế giới thuộc phân khúc này",
+    "ex": "Companies often ignore the bottom of pyramid consumers.",
+    "exHit": "bottom of pyramid",
+    "exVi": "Các công ty thường bỏ qua nhóm người tiêu dùng ở đáy kim tự tháp."
   },
   {
     "word": "promote",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "to encourage, to advertise something",
     "vi": "quảng bá",
-    "viDef": "cổ xúy, tiếp thị cho thứ gì"
+    "viDef": "cổ xúy, tiếp thị cho thứ gì",
+    "ex": "We need to promote the new laptop on social media.",
+    "exHit": "promote",
+    "exVi": "Chúng ta cần quảng bá chiếc laptop mới trên mạng xã hội."
   },
   {
     "word": "out of reach",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "something that cannot be obtained",
     "vi": "ngoài tầm với",
-    "viDef": "thứ không thể có được"
+    "viDef": "thứ không thể có được",
+    "ex": "A new car is out of reach for most students.",
+    "exHit": "out of reach",
+    "exVi": "Một chiếc ô tô mới nằm ngoài tầm với của hầu hết sinh viên."
   },
   {
     "word": "wallet-friendly",
@@ -93,6 +126,9 @@
     "type": "",
     "def": "an inexpensive product; anything that saves you money",
     "vi": "nhẹ ví",
-    "viDef": "sản phẩm không đắt, bất cứ thứ gì giúp bạn tiết kiệm"
+    "viDef": "sản phẩm không đắt, bất cứ thứ gì giúp bạn tiết kiệm",
+    "ex": "I love this wallet-friendly phone because it works well and costs little.",
+    "exHit": "wallet-friendly",
+    "exVi": "Tôi thích chiếc điện thoại tiết kiệm túi tiền này vì nó dùng tốt mà giá lại rẻ."
   }
 ]

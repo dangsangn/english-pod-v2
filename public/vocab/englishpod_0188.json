@@ -5,7 +5,10 @@
     "type": "",
     "def": "avoid the subject by talking about something else",
     "vi": "nói vòng vo",
-    "viDef": "né chủ đề bằng cách nói chuyện khác"
+    "viDef": "né chủ đề bằng cách nói chuyện khác",
+    "ex": "I won't beat around the bush.",
+    "exHit": "beat around the bush",
+    "exVi": "Tôi sẽ không nói vòng vo."
   },
   {
     "word": "raise",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "increase in salary",
     "vi": "tăng lương",
-    "viDef": "mức lương được nâng lên"
+    "viDef": "mức lương được nâng lên",
+    "ex": "Sir, I would like a raise.",
+    "exHit": "raise",
+    "exVi": "Thưa sếp, tôi muốn được tăng lương."
   },
   {
     "word": "take into consideration",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to think about something before making a decision",
     "vi": "cân nhắc đến",
-    "viDef": "nghĩ tới điều gì trước khi quyết"
+    "viDef": "nghĩ tới điều gì trước khi quyết",
+    "ex": "I understand your position, and I know that the current economic downturn has had a negative impact on sales, but you must also take into consideration my hard work, pro-activeness and loyalty to this company for over a decade.",
+    "exHit": "take into consideration",
+    "exVi": "Tôi hiểu vị trí của anh, và tôi biết suy thoái kinh tế hiện tại đã tác động tiêu cực đến doanh số, nhưng anh cũng phải cân nhắc sự chăm chỉ, tính chủ động và lòng trung thành của tôi với công ty hơn mười năm qua."
   },
   {
     "word": "offer",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "give with the choice of accepting or rejecting",
     "vi": "đưa ra đề nghị",
-    "viDef": "đề xuất để bên kia nhận hoặc từ chối"
+    "viDef": "đề xuất để bên kia nhận hoặc từ chối",
+    "ex": "Taking into account these factors, and considering I don't want to start a brain drain, I'm willing to offer you a ten percent raise and an extra five days of vacation time.",
+    "exHit": "offer",
+    "exVi": "Xét đến những yếu tố này, và vì tôi không muốn gây ra tình trạng chảy máu chất xám, tôi sẵn sàng đề nghị tăng lương mười phần trăm và thêm năm ngày nghỉ phép."
   },
   {
     "word": "loyalty",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the quality of being loyal",
     "vi": "sự trung thành",
-    "viDef": "phẩm chất một lòng với ai hoặc nơi nào"
+    "viDef": "phẩm chất một lòng với ai hoặc nơi nào",
+    "ex": "I understand your position, and I know that the current economic downturn has had a negative impact on sales, but you must also take into consideration my hard work, pro-activeness and loyalty to this company for over a decade.",
+    "exHit": "loyalty",
+    "exVi": "Tôi hiểu vị trí của anh, và tôi biết suy thoái kinh tế hiện tại đã tác động tiêu cực đến doanh số, nhưng anh cũng phải cân nhắc sự chăm chỉ, tính chủ động và lòng trung thành của tôi với công ty hơn mười năm qua."
   },
   {
     "word": "to demand",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "to request forcefully",
     "vi": "yêu cầu dứt khoát",
-    "viDef": "đòi một cách cứng rắn"
+    "viDef": "đòi một cách cứng rắn",
+    "ex": "I'm going to demand a better salary at my next review.",
+    "exHit": "demand",
+    "exVi": "Mình sẽ đòi mức lương tốt hơn trong lần đánh giá tới."
   },
   {
     "word": "to move up the ladder",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "to receive a promotion at work",
     "vi": "leo lên bậc cao hơn",
-    "viDef": "được thăng chức ở nơi làm"
+    "viDef": "được thăng chức ở nơi làm",
+    "ex": "She works hard because she wants to move up the ladder.",
+    "exHit": "move up the ladder",
+    "exVi": "Cô ấy làm việc chăm chỉ vì muốn thăng tiến trong công ty."
   },
   {
     "word": "promotion",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "an offer of a better position at the same company",
     "vi": "sự thăng chức",
-    "viDef": "lời đề nghị lên vị trí tốt hơn ở cùng công ty"
+    "viDef": "lời đề nghị lên vị trí tốt hơn ở cùng công ty",
+    "ex": "He got a promotion after two years at the bank.",
+    "exHit": "promotion",
+    "exVi": "Anh ấy được thăng chức sau hai năm làm ở ngân hàng."
   },
   {
     "word": "demotion",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "being asked to do a less important job at the same company",
     "vi": "sự giáng chức",
-    "viDef": "bị chuyển sang việc kém quan trọng hơn ở cùng công ty"
+    "viDef": "bị chuyển sang việc kém quan trọng hơn ở cùng công ty",
+    "ex": "Nobody wants a demotion after working so hard.",
+    "exHit": "demotion",
+    "exVi": "Không ai muốn bị giáng chức sau khi đã làm việc chăm chỉ như vậy."
   },
   {
     "word": "initiative",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "deciding to take the first step; making a decision on one's own",
     "vi": "tính chủ động",
-    "viDef": "việc tự bước ra làm trước, tự quyết định"
+    "viDef": "việc tự bước ra làm trước, tự quyết định",
+    "ex": "I took the initiative and asked my boss for a raise.",
+    "exHit": "initiative",
+    "exVi": "Mình chủ động hỏi sếp về việc tăng lương."
   }
 ]

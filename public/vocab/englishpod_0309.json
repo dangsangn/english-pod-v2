@@ -5,7 +5,10 @@
     "type": "",
     "def": "mystery",
     "vi": "điều bí ẩn",
-    "viDef": "sự huyền bí"
+    "viDef": "sự huyền bí",
+    "ex": "So where is this mystery restaurant that we are going to?",
+    "exHit": "mystery",
+    "exVi": "Vậy cái nhà hàng bí ẩn mà mình sắp đến nằm ở đâu thế?"
   },
   {
     "word": "Hindu",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a person who adheres to the religion of Hinduism",
     "vi": "tín đồ Hindu",
-    "viDef": "người theo Ấn Độ giáo"
+    "viDef": "người theo Ấn Độ giáo",
+    "ex": "You see, cows are a sacred animal, a very important element in the Hindu religion, so beef is not eaten.",
+    "exHit": "Hindu",
+    "exVi": "Bạn thấy đấy, bò là loài vật linh thiêng, một yếu tố rất quan trọng trong đạo Hindu, nên người ta không ăn thịt bò."
   },
   {
     "word": "cuisine",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a style or quality of cooking",
     "vi": "nền ẩm thực",
-    "viDef": "phong cách hoặc trình độ nấu nướng"
+    "viDef": "phong cách hoặc trình độ nấu nướng",
+    "ex": "Well, Indian cuisine actually doesn't serve beef.",
+    "exHit": "cuisine",
+    "exVi": "À, thật ra ẩm thực Ấn Độ không có món thịt bò."
   },
   {
     "word": "samosa",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a stuffed pastry, triangular in shape.",
     "vi": "bánh samosa",
-    "viDef": "bánh bột có nhân, hình tam giác"
+    "viDef": "bánh bột có nhân, hình tam giác",
+    "ex": "They have a good variety of vegetable based dishes like palak paneer, vegetable samosas or Daal.",
+    "exHit": "samosas",
+    "exVi": "Họ có nhiều món chay phong phú như palak paneer, bánh samosa rau củ hoặc Daal."
   },
   {
     "word": "daal",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a meal containing lentils",
     "vi": "món đậu daal",
-    "viDef": "món ăn nấu từ đậu lăng"
+    "viDef": "món ăn nấu từ đậu lăng",
+    "ex": "They have a good variety of vegetable based dishes like palak paneer, vegetable samosas or Daal.",
+    "exHit": "Daal",
+    "exVi": "Họ có nhiều món chay phong phú như palak paneer, bánh samosa rau củ hoặc Daal."
   },
   {
     "word": "exquisite",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "possessing qualities of unusual delicacy and fine",
     "vi": "tinh tế tuyệt vời",
-    "viDef": "mang những nét thanh nhã và tinh xảo hiếm có"
+    "viDef": "mang những nét thanh nhã và tinh xảo hiếm có",
+    "ex": "It all sounds exquisite!",
+    "exHit": "exquisite",
+    "exVi": "Nghe tất cả đều tuyệt hảo!"
   },
   {
     "word": "chicken tikka masala",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "Chicken marinated in yogurt and spices, served in",
     "vi": "gà tikka masala",
-    "viDef": "gà ướp sữa chua và gia vị, dọn kèm nước sốt"
+    "viDef": "gà ướp sữa chua và gia vị, dọn kèm nước sốt",
+    "ex": "Let's order the chicken tikka masala, because it is my favorite curry.",
+    "exHit": "chicken tikka masala",
+    "exVi": "Mình gọi món gà tikka masala nhé, vì đó là món cà ri tôi thích nhất."
   },
   {
     "word": "sacred",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "holy",
     "vi": "linh thiêng",
-    "viDef": "thiêng liêng"
+    "viDef": "thiêng liêng",
+    "ex": "You see, cows are a sacred animal, a very important element in the Hindu religion, so beef is not eaten.",
+    "exHit": "sacred",
+    "exVi": "Bạn thấy đấy, bò là loài vật linh thiêng, một yếu tố rất quan trọng trong đạo Hindu, nên người ta không ăn thịt bò."
   },
   {
     "word": "craving",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "want something very much",
     "vi": "thèm khát",
-    "viDef": "rất muốn thứ gì"
+    "viDef": "rất muốn thứ gì",
+    "ex": "I am craving some type of beef dish.",
+    "exHit": "craving",
+    "exVi": "Tôi đang thèm một món thịt bò nào đó."
   },
   {
     "word": "cricket",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a game played by two teams of eleven players on a field with a wicket at either end of a 22-yard pitch",
     "vi": "môn cricket",
-    "viDef": "trò chơi giữa hai đội mười một người trên sân, có cầu môn ở hai đầu sân dài 22 yard"
+    "viDef": "trò chơi giữa hai đội mười một người trên sân, có cầu môn ở hai đầu sân dài 22 yard",
+    "ex": "Many people in India play cricket in the street after school.",
+    "exHit": "cricket",
+    "exVi": "Nhiều người ở Ấn Độ chơi cricket ngoài đường sau giờ học."
   },
   {
     "word": "secret",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "done, made, or conducted without the knowledge of others",
     "vi": "bí mật",
-    "viDef": "làm hoặc tiến hành mà người khác không hay"
+    "viDef": "làm hoặc tiến hành mà người khác không hay",
+    "ex": "Her recipe is a family secret, so she won't tell anyone.",
+    "exHit": "secret",
+    "exVi": "Công thức của bà là bí mật gia đình, nên bà sẽ không kể cho ai."
   },
   {
     "word": "spiritual",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "of or pertaining to sacred things or matters",
     "vi": "thuộc tâm linh",
-    "viDef": "liên quan tới những điều thiêng liêng"
+    "viDef": "liên quan tới những điều thiêng liêng",
+    "ex": "Many Indian families visit the temple for spiritual reasons.",
+    "exHit": "spiritual",
+    "exVi": "Nhiều gia đình Ấn Độ đến đền vì những lý do tâm linh."
   },
   {
     "word": "savory",
@@ -101,6 +137,9 @@
     "type": "",
     "def": "pleasant or agreeable in taste or smell",
     "vi": "đậm đà",
-    "viDef": "ngon miệng hoặc thơm dễ chịu"
+    "viDef": "ngon miệng hoặc thơm dễ chịu",
+    "ex": "I love savory snacks more than sweet ones.",
+    "exHit": "savory",
+    "exVi": "Tôi thích đồ ăn vặt mặn thơm hơn đồ ngọt."
   }
 ]

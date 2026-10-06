@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "not thinking of the feelings of other people; not thoughtful",
     "vi": "vô ý tứ",
-    "viDef": "không nghĩ đến cảm nhận của người khác, thiếu tế nhị"
+    "viDef": "không nghĩ đến cảm nhận của người khác, thiếu tế nhị",
+    "ex": "It's so inconsiderate!",
+    "exHit": "inconsiderate",
+    "exVi": "Thật là thiếu ý tứ!"
   },
   {
     "word": "not such a big deal",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "not a big problem",
     "vi": "có gì to tát đâu",
-    "viDef": "không phải vấn đề lớn"
+    "viDef": "không phải vấn đề lớn",
+    "ex": "Don't worry about it; it's not such a big deal.",
+    "exHit": "not such a big deal",
+    "exVi": "Đừng lo, chuyện này cũng không có gì to tát đâu."
   },
   {
     "word": "can't hear a thing",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "unable to hear",
     "vi": "chẳng nghe được gì",
-    "viDef": "không nghe thấy gì"
+    "viDef": "không nghe thấy gì",
+    "ex": "I can't hear a thing!",
+    "exHit": "can't hear a thing",
+    "exVi": "Tôi chẳng nghe thấy gì cả!"
   },
   {
     "word": "keep it down",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "be quiet",
     "vi": "nhỏ tiếng lại",
-    "viDef": "giữ im lặng"
+    "viDef": "giữ im lặng",
+    "ex": "Excuse me, can you keep it down?",
+    "exHit": "keep it down",
+    "exVi": "Xin lỗi, bạn có thể nói nhỏ lại được không?"
   },
   {
     "word": "switch off",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "turn off",
     "vi": "tắt đi",
-    "viDef": "tắt"
+    "viDef": "tắt",
+    "ex": "Did you forget to switch it off?",
+    "exHit": "switch it off",
+    "exVi": "Bạn quên tắt nó đi à?"
   },
   {
     "word": "do you mind",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "could you please",
     "vi": "phiền bạn",
-    "viDef": "làm ơn có thể"
+    "viDef": "làm ơn có thể",
+    "ex": "Do you mind keeping it down?",
+    "exHit": "Do you mind",
+    "exVi": "Bạn có phiền nói nhỏ lại không?"
   },
   {
     "word": "noisy",
@@ -53,7 +71,10 @@
     "type": "Adjective",
     "def": "very loud",
     "vi": "ồn ào",
-    "viDef": "rất to tiếng"
+    "viDef": "rất to tiếng",
+    "ex": "The neighbors are so noisy that I can't sleep at night.",
+    "exHit": "noisy",
+    "exVi": "Hàng xóm ồn ào quá nên đêm tôi không ngủ được."
   },
   {
     "word": "rude",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "impolite",
     "vi": "thô lỗ",
-    "viDef": "bất lịch sự"
+    "viDef": "bất lịch sự",
+    "ex": "It's rude to talk loudly on the phone in a movie theater.",
+    "exHit": "rude",
+    "exVi": "Nói chuyện điện thoại ồn ào trong rạp chiếu phim là thiếu lịch sự."
   },
   {
     "word": "to disturb",
@@ -69,7 +93,10 @@
     "type": "principle verb, infinitive",
     "def": "to interrupt, bother, or upset",
     "vi": "làm phiền",
-    "viDef": "cắt ngang, quấy rầy hoặc làm khó chịu"
+    "viDef": "cắt ngang, quấy rầy hoặc làm khó chịu",
+    "ex": "Sorry to disturb you, but could I ask a quick question?",
+    "exHit": "disturb",
+    "exVi": "Xin lỗi đã làm phiền bạn, nhưng tôi hỏi nhanh một câu được không?"
   },
   {
     "word": "to interrupt",
@@ -77,7 +104,10 @@
     "type": "principle verb, infinitive",
     "def": "to speak or make noise when someone else is speaking",
     "vi": "cắt ngang",
-    "viDef": "nói hoặc gây ồn khi người khác đang nói"
+    "viDef": "nói hoặc gây ồn khi người khác đang nói",
+    "ex": "Please don't interrupt me while I'm talking on the phone.",
+    "exHit": "interrupt",
+    "exVi": "Làm ơn đừng ngắt lời tôi khi tôi đang nói chuyện điện thoại."
   },
   {
     "word": "to whisper",
@@ -85,6 +115,9 @@
     "type": "principle verb, infinitive",
     "def": "to speak very softly",
     "vi": "thì thầm",
-    "viDef": "nói rất khẽ"
+    "viDef": "nói rất khẽ",
+    "ex": "She leaned over and began to whisper in my ear.",
+    "exHit": "whisper",
+    "exVi": "Cô ấy nghiêng người và bắt đầu thì thầm vào tai tôi."
   }
 ]

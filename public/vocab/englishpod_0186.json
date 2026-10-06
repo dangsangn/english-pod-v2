@@ -5,7 +5,10 @@
     "type": "",
     "def": "organization of the business",
     "vi": "loại hình pháp lý",
-    "viDef": "cách tổ chức của doanh nghiệp"
+    "viDef": "cách tổ chức của doanh nghiệp",
+    "ex": "Then you need to describe your company with information such as what type of legal structure it has, history, etc.",
+    "exHit": "legal structure",
+    "exVi": "Sau đó bạn cần mô tả công ty của mình với các thông tin như loại hình cơ cấu pháp lý, lịch sử, v.v."
   },
   {
     "word": "to execute",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to put into effect; carry out",
     "vi": "thực thi",
-    "viDef": "đưa vào hiệu lực, tiến hành"
+    "viDef": "đưa vào hiệu lực, tiến hành",
+    "ex": "We need a good team to execute the business plan.",
+    "exHit": "execute",
+    "exVi": "Chúng ta cần một đội ngũ giỏi để triển khai kế hoạch kinh doanh."
   },
   {
     "word": "financial analysis",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "report on financial stability and profitability",
     "vi": "phân tích tài chính",
-    "viDef": "báo cáo về mức ổn định và khả năng sinh lời"
+    "viDef": "báo cáo về mức ổn định và khả năng sinh lời",
+    "ex": "Almost, the most important piece of information for your investors will be the financial analysis.",
+    "exHit": "financial analysis",
+    "exVi": "Gần đúng rồi, thông tin quan trọng nhất với các nhà đầu tư của bạn sẽ là phân tích tài chính."
   },
   {
     "word": "return on one's investment",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "profit made from one's investment",
     "vi": "lợi nhuận trên vốn",
-    "viDef": "phần lời thu về từ khoản mình bỏ ra"
+    "viDef": "phần lời thu về từ khoản mình bỏ ra",
+    "ex": "Investors want a good return on their investment within five years.",
+    "exHit": "return on their investment",
+    "exVi": "Các nhà đầu tư muốn có lợi nhuận tốt từ khoản đầu tư của họ trong vòng năm năm."
   },
   {
     "word": "hassle",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a great deal of trouble; difficulty; nuisance",
     "vi": "phiền toái",
-    "viDef": "rắc rối, chuyện nhọc nhằn"
+    "viDef": "rắc rối, chuyện nhọc nhằn",
+    "ex": "I think I'll just stick to my old job and save myself all the hassle of trying to start up a business!",
+    "exHit": "hassle",
+    "exVi": "Tôi nghĩ mình sẽ cứ giữ công việc cũ và khỏi phải chịu mọi rắc rối của việc khởi nghiệp!"
   },
   {
     "word": "entrepreneur",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "person who organizes, operates, and assumes the risk for a business venture",
     "vi": "doanh nhân khởi nghiệp",
-    "viDef": "người tổ chức, điều hành và nhận rủi ro cho một việc kinh doanh"
+    "viDef": "người tổ chức, điều hành và nhận rủi ro cho một việc kinh doanh",
+    "ex": "My cousin is a young entrepreneur who just opened a cafe.",
+    "exHit": "entrepreneur",
+    "exVi": "Anh họ mình là một doanh nhân trẻ vừa mở một quán cà phê."
   },
   {
     "word": "credentials",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "evidence of authority, status, rights",
     "vi": "giấy tờ chứng minh năng lực",
-    "viDef": "bằng cứ về thẩm quyền, vị thế hoặc quyền hạn"
+    "viDef": "bằng cứ về thẩm quyền, vị thế hoặc quyền hạn",
+    "ex": "She has the right credentials to run this company.",
+    "exHit": "credentials",
+    "exVi": "Cô ấy có đủ bằng cấp và năng lực để điều hành công ty này."
   },
   {
     "word": "vision statement",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "statement describing what you ultimately envision your business to be",
     "vi": "tuyên bố tầm nhìn",
-    "viDef": "bản nêu rõ mình muốn doanh nghiệp trở thành gì về sau"
+    "viDef": "bản nêu rõ mình muốn doanh nghiệp trở thành gì về sau",
+    "ex": "Our vision statement explains where we want the company to be.",
+    "exHit": "vision statement",
+    "exVi": "Tuyên bố tầm nhìn của chúng tôi nêu rõ chúng tôi muốn công ty đi đến đâu."
   },
   {
     "word": "prospects",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "an apparent probability of advancement, success, profit, etc.",
     "vi": "triển vọng",
-    "viDef": "khả năng thấy được về việc tiến lên, thành công hoặc sinh lời"
+    "viDef": "khả năng thấy được về việc tiến lên, thành công hoặc sinh lời",
+    "ex": "The company's prospects look great for the next year.",
+    "exHit": "prospects",
+    "exVi": "Triển vọng của công ty trông rất tươi sáng trong năm tới."
   },
   {
     "word": "feasibility",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "capable of being done, effected, or accomplished",
     "vi": "tính khả thi",
-    "viDef": "khả năng thực hiện, làm cho xong được"
+    "viDef": "khả năng thực hiện, làm cho xong được",
+    "ex": "We should check the feasibility of the plan before investing.",
+    "exHit": "feasibility",
+    "exVi": "Chúng ta nên kiểm tra tính khả thi của kế hoạch trước khi đầu tư."
   }
 ]

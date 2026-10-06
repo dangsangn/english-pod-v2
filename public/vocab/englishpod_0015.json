@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "sorry",
     "vi": "thấy áy náy quá",
-    "viDef": "lấy làm tiếc"
+    "viDef": "lấy làm tiếc",
+    "ex": "I feel terrible, I really didn't mean to knock you over.",
+    "exHit": "feel terrible",
+    "exVi": "Tôi thấy rất áy náy, tôi thật sự không cố ý làm bạn ngã."
   },
   {
     "word": "mean",
@@ -13,7 +16,10 @@
     "type": "principle verb, present simple",
     "def": "intend, plan",
     "vi": "cố ý",
-    "viDef": "chủ định, có ý định"
+    "viDef": "chủ định, có ý định",
+    "ex": "I feel terrible, I really didn't mean to knock you over.",
+    "exHit": "mean",
+    "exVi": "Tôi thấy rất áy náy, tôi thật sự không cố ý làm bạn ngã."
   },
   {
     "word": "explode",
@@ -21,7 +27,10 @@
     "type": "principle verb, past simple",
     "def": "suddenly break apart",
     "vi": "nổ tung",
-    "viDef": "vỡ tan đột ngột"
+    "viDef": "vỡ tan đột ngột",
+    "ex": "My tire, just exploded, and I lost control of my bike.",
+    "exHit": "exploded",
+    "exVi": "Lốp xe của tôi vừa nổ, và tôi mất lái."
   },
   {
     "word": "accident",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "an event that is not planed or intended",
     "vi": "sự cố ngoài ý muốn",
-    "viDef": "việc xảy ra không định trước"
+    "viDef": "việc xảy ra không định trước",
+    "ex": "Really, it was an accident.",
+    "exHit": "accident",
+    "exVi": "Thật sự đó chỉ là một tai nạn."
   },
   {
     "word": "familiar",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "probably known, but not clearly remembered",
     "vi": "quen quen",
-    "viDef": "hình như từng biết nhưng không nhớ rõ"
+    "viDef": "hình như từng biết nhưng không nhớ rõ",
+    "ex": "Oh, wait a second, you seem really familiar, I think I know you from somewhere.",
+    "exHit": "familiar",
+    "exVi": "Ồ khoan đã, bạn trông quen quá, hình như tôi biết bạn từ đâu đó."
   },
   {
     "word": "place",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "house",
     "vi": "nhà, chỗ ở",
-    "viDef": "căn nhà"
+    "viDef": "căn nhà",
+    "ex": "We met at Aaron's place last weekend!",
+    "exHit": "place",
+    "exVi": "Chúng ta đã gặp nhau ở nhà của Aaron cuối tuần trước!"
   },
   {
     "word": "coincidence",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "situation when two or more things happen at the same time in an unplanned way",
     "vi": "sự trùng hợp",
-    "viDef": "khi hai việc trở lên cùng xảy ra một cách tình cờ"
+    "viDef": "khi hai việc trở lên cùng xảy ra một cách tình cờ",
+    "ex": "What a coincidence!",
+    "exHit": "coincidence",
+    "exVi": "Trùng hợp thật!"
   },
   {
     "word": "knock over",
@@ -61,7 +82,10 @@
     "type": "principle verb, infinitive",
     "def": "make something fall over",
     "vi": "làm đổ",
-    "viDef": "khiến vật gì ngã xuống"
+    "viDef": "khiến vật gì ngã xuống",
+    "ex": "I feel terrible, I really didn't mean to knock you over.",
+    "exHit": "knock you over",
+    "exVi": "Tôi thấy rất áy náy, tôi thật sự không cố ý làm bạn ngã."
   },
   {
     "word": "regret",
@@ -69,7 +93,10 @@
     "type": "principle verb, present simple",
     "def": "feel sad or sorry about something",
     "vi": "hối tiếc",
-    "viDef": "thấy buồn hoặc tiếc về việc gì đó"
+    "viDef": "thấy buồn hoặc tiếc về việc gì đó",
+    "ex": "I regret not calling my grandmother more often before she passed away.",
+    "exHit": "regret",
+    "exVi": "Tôi hối tiếc vì đã không gọi cho bà thường xuyên hơn trước khi bà mất."
   },
   {
     "word": "apologetic",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "feeling or showing regret, showing an apology",
     "vi": "tỏ vẻ hối lỗi",
-    "viDef": "cảm thấy hoặc thể hiện sự ân hận, có ý xin lỗi"
+    "viDef": "cảm thấy hoặc thể hiện sự ân hận, có ý xin lỗi",
+    "ex": "He was very apologetic about forgetting our anniversary dinner.",
+    "exHit": "apologetic",
+    "exVi": "Anh ấy rất tỏ ra hối lỗi vì đã quên bữa tối kỷ niệm của chúng tôi."
   },
   {
     "word": "feel guilty",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "feel responsible for doing something bad",
     "vi": "thấy có lỗi",
-    "viDef": "thấy mình phải chịu trách nhiệm vì đã làm điều xấu"
+    "viDef": "thấy mình phải chịu trách nhiệm vì đã làm điều xấu",
+    "ex": "I feel guilty for yelling at my little sister this morning.",
+    "exHit": "feel guilty",
+    "exVi": "Tôi thấy có lỗi vì sáng nay đã quát em gái."
   },
   {
     "word": "unfamiliar",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "not familiar",
     "vi": "xa lạ",
-    "viDef": "không quen thuộc"
+    "viDef": "không quen thuộc",
+    "ex": "The street was unfamiliar, so we checked the map twice.",
+    "exHit": "unfamiliar",
+    "exVi": "Con phố đó lạ lẫm nên chúng tôi xem bản đồ hai lần."
   },
   {
     "word": "love at first sight",
@@ -101,6 +137,9 @@
     "type": "phrase",
     "def": "falling in love the first time you see someone",
     "vi": "yêu từ cái nhìn đầu tiên",
-    "viDef": "phải lòng ngay lần đầu gặp mặt"
+    "viDef": "phải lòng ngay lần đầu gặp mặt",
+    "ex": "They say it was love at first sight when they met at the party.",
+    "exHit": "love at first sight",
+    "exVi": "Họ nói rằng đó là tình yêu sét đánh khi họ gặp nhau ở bữa tiệc."
   }
 ]

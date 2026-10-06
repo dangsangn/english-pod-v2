@@ -5,7 +5,10 @@
     "type": "",
     "def": "publicly or generally known, as for a particular trait",
     "vi": "nổi tiếng là",
-    "viDef": "ai cũng biết, nhất là về một đặc điểm nào đó"
+    "viDef": "ai cũng biết, nhất là về một đặc điểm nào đó",
+    "ex": "Sushi is notoriously difficult to pair with wine.",
+    "exHit": "notoriously",
+    "exVi": "Sushi nổi tiếng là khó kết hợp với rượu vang."
   },
   {
     "word": "aroma",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "the way something smells",
     "vi": "hương thơm",
-    "viDef": "mùi của thứ gì"
+    "viDef": "mùi của thứ gì",
+    "ex": "It's light and crisp, with a bit of a vanilla aroma.",
+    "exHit": "aroma",
+    "exVi": "Nó nhẹ và giòn, với một chút hương vani."
   },
   {
     "word": "crisp",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "invigorating",
     "vi": "tươi sảng",
-    "viDef": "làm cho sảng khoái"
+    "viDef": "làm cho sảng khoái",
+    "ex": "It's light and crisp, with a bit of a vanilla aroma.",
+    "exHit": "crisp",
+    "exVi": "Nó nhẹ và giòn, với một chút hương vani."
   },
   {
     "word": "bone-dry",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "no moisture, dry",
     "vi": "khô khốc",
-    "viDef": "không còn chút ẩm, khô"
+    "viDef": "không còn chút ẩm, khô",
+    "ex": "This white wine is bone-dry, so it goes well with fish.",
+    "exHit": "bone-dry",
+    "exVi": "Loại rượu vang trắng này rất khô nên hợp với món cá."
   },
   {
     "word": "subtle",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "Fine or delicate",
     "vi": "tinh tế",
-    "viDef": "thanh nhã hoặc mảnh mai"
+    "viDef": "thanh nhã hoặc mảnh mai",
+    "ex": "You need a white wine, which has more subtle flavors, to complement the fish.",
+    "exHit": "subtle",
+    "exVi": "Bạn cần rượu vang trắng, loại có hương vị tinh tế hơn, để hợp với món cá."
   },
   {
     "word": "chardonnay",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a dry white wine made from this grape",
     "vi": "rượu chardonnay",
-    "viDef": "rượu vang trắng khô làm từ giống nho này"
+    "viDef": "rượu vang trắng khô làm từ giống nho này",
+    "ex": "So should I get a bottle of Chardonnay?",
+    "exHit": "Chardonnay",
+    "exVi": "Vậy tôi nên gọi một chai Chardonnay nhé?"
   },
   {
     "word": "grape vine",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A vine on which grapes grow.",
     "vi": "giàn nho",
-    "viDef": "cây leo mà nho mọc trên đó"
+    "viDef": "cây leo mà nho mọc trên đó",
+    "ex": "There is an old grape vine growing behind the winery.",
+    "exHit": "grape vine",
+    "exVi": "Có một cây nho già mọc phía sau xưởng rượu."
   },
   {
     "word": "acidity",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "The state, quality, or degree of being acid.",
     "vi": "độ chua",
-    "viDef": "trạng thái, tính chất hoặc mức độ chua"
+    "viDef": "trạng thái, tính chất hoặc mức độ chua",
+    "ex": "This wine has a nice acidity that goes well with seafood.",
+    "exHit": "acidity",
+    "exVi": "Rượu vang này có độ chua dễ chịu, rất hợp với hải sản."
   },
   {
     "word": "zesty",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "affecting the organs of taste or smell with a strong and often harsh sensation",
     "vi": "nồng gắt",
-    "viDef": "tác động lên vị giác hoặc khứu giác bằng cảm giác mạnh, có khi gắt"
+    "viDef": "tác động lên vị giác hoặc khứu giác bằng cảm giác mạnh, có khi gắt",
+    "ex": "The wine has a zesty flavor with a hint of lemon.",
+    "exHit": "zesty",
+    "exVi": "Rượu vang này có vị đậm, hơi gắt, thoang thoảng hương chanh."
   },
   {
     "word": "sharp",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "quick, acute, or penetrating",
     "vi": "sắc gắt",
-    "viDef": "nhanh, gắt hoặc thấm sâu"
+    "viDef": "nhanh, gắt hoặc thấm sâu",
+    "ex": "He has a sharp mind and remembers every wine he tastes.",
+    "exHit": "sharp",
+    "exVi": "Anh ấy rất sắc sảo và nhớ được mọi loại rượu vang mình nếm."
   }
 ]

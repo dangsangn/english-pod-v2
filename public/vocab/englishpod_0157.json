@@ -5,7 +5,10 @@
     "type": "",
     "def": "to give for free, to give something",
     "vi": "phát cho",
-    "viDef": "cho không, đưa ra"
+    "viDef": "cho không, đưa ra",
+    "ex": "Whatever, I'm going next door I heard Mrs. Robinson is giving out big bags of M&Ms!",
+    "exHit": "giving out",
+    "exVi": "Kệ đi, tôi sang nhà bên cạnh, nghe nói bà Robinson đang phát những túi M&M lớn!"
   },
   {
     "word": "trick-or - treat",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a children's Halloween practice of asking for trea",
     "vi": "tục xin bánh Halloween",
-    "viDef": "trò trẻ con đi xin bánh kẹo đêm Halloween"
+    "viDef": "trò trẻ con đi xin bánh kẹo đêm Halloween",
+    "ex": "Every Halloween the children put on costumes and go trick-or-treat around the neighborhood.",
+    "exHit": "trick-or-treat",
+    "exVi": "Mỗi dịp Halloween, bọn trẻ hóa trang và đi xin kẹo quanh khu phố."
   },
   {
     "word": "dress up",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "attire in clothes suited to a particular role",
     "vi": "hóa trang",
-    "viDef": "mặc đồ theo một vai nhất định"
+    "viDef": "mặc đồ theo một vai nhất định",
+    "ex": "Didn't you ever dress up in a costume and go around the neighborhood trick-or-treating with your friends?",
+    "exHit": "dress up",
+    "exVi": "Bạn chưa bao giờ hóa trang rồi đi quanh khu phố xin kẹo cùng bạn bè sao?"
   },
   {
     "word": "kidnapper",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to seize and detain or carry away by unlawful forc",
     "vi": "kẻ bắt cóc",
-    "viDef": "người dùng vũ lực trái phép để giữ hoặc mang người đi"
+    "viDef": "người dùng vũ lực trái phép để giữ hoặc mang người đi",
+    "ex": "The movie is about a clumsy kidnapper who keeps getting lost.",
+    "exHit": "kidnapper",
+    "exVi": "Bộ phim kể về một tên bắt cóc vụng về cứ lạc đường mãi."
   },
   {
     "word": "run around",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to go all over the place, to move quickly from one place to another",
     "vi": "chạy nhông",
-    "viDef": "đi khắp nơi, chạy hết chỗ này sang chỗ khác"
+    "viDef": "đi khắp nơi, chạy hết chỗ này sang chỗ khác",
+    "ex": "The kids were running around the yard all afternoon.",
+    "exHit": "running around",
+    "exVi": "Bọn trẻ chạy nhảy khắp sân suốt buổi chiều."
   },
   {
     "word": "Goblin",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "in folklore and fairy tales, an ugly creature that does evil or mischief to humans.",
     "vi": "yêu tinh",
-    "viDef": "trong chuyện cổ, sinh vật xấu xí hay làm điều xấu hoặc quấy con người"
+    "viDef": "trong chuyện cổ, sinh vật xấu xí hay làm điều xấu hoặc quấy con người",
+    "ex": "The children were scared of the goblin in the story because he played tricks on people.",
+    "exHit": "goblin",
+    "exVi": "Bọn trẻ sợ con yêu tinh trong câu chuyện vì nó hay chơi khăm người ta."
   },
   {
     "word": "Haunted",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "inhabited or visited by ghosts.",
     "vi": "bị ma ám",
-    "viDef": "có hồn ma trú hoặc lui về"
+    "viDef": "có hồn ma trú hoặc lui về",
+    "ex": "Everyone in town says the old house on the hill is haunted.",
+    "exHit": "haunted",
+    "exVi": "Ai trong thị trấn cũng nói ngôi nhà cũ trên đồi bị ma ám."
   },
   {
     "word": "Mummy",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a corpse preserved by embalming, esp. one embalmed and wrapped by or in the manner of the ancient Egyptians.",
     "vi": "xác ướp",
-    "viDef": "thi thể được tẩm giữ, nhất là ướp và bọc theo lối Ai Cập cổ"
+    "viDef": "thi thể được tẩm giữ, nhất là ướp và bọc theo lối Ai Cập cổ",
+    "ex": "The museum has a real mummy from ancient Egypt in a glass case.",
+    "exHit": "mummy",
+    "exVi": "Bảo tàng có một xác ướp thật từ Ai Cập cổ đại đặt trong tủ kính."
   },
   {
     "word": "Potion",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a mixture for drinking, esp. one that is supposed to have medicinal, magical, or poisonous effects.",
     "vi": "thuốc nước phù phép",
-    "viDef": "hỗn hợp để uống, được cho là có tác dụng chữa bệnh, phép thuật hoặc gây độc"
+    "viDef": "hỗn hợp để uống, được cho là có tác dụng chữa bệnh, phép thuật hoặc gây độc",
+    "ex": "In the story, the witch gave him a potion that made him fall asleep.",
+    "exHit": "potion",
+    "exVi": "Trong truyện, phù thủy đưa cho anh ấy một liều thuốc khiến anh ngủ thiếp đi."
   },
   {
     "word": "jack-o'-lantern",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "A pumpkin that is carved to look scary",
     "vi": "đèn bí ngô",
-    "viDef": "quả bí khoét thành hình đáng sợ"
+    "viDef": "quả bí khoét thành hình đáng sợ",
+    "ex": "We carved a big jack-o'-lantern and put it on the porch for Halloween.",
+    "exHit": "jack-o'-lantern",
+    "exVi": "Chúng tôi khắc một chiếc đèn bí ngô lớn và đặt trước hiên nhà dịp Halloween."
   }
 ]

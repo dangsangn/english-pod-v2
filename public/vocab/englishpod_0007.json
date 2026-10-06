@@ -5,7 +5,10 @@
     "type": "principle verb, present simple",
     "def": "to stop working properly",
     "vi": "đơ, treo máy",
-    "viDef": "ngừng hoạt động bình thường"
+    "viDef": "ngừng hoạt động bình thường",
+    "ex": "My computer freezes every time I open this program.",
+    "exHit": "freezes",
+    "exVi": "Máy tính của tôi bị treo mỗi khi tôi mở chương trình này."
   },
   {
     "word": "take a look",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "see, revise",
     "vi": "xem thử",
-    "viDef": "nhìn qua, kiểm tra lại"
+    "viDef": "nhìn qua, kiểm tra lại",
+    "ex": "Hey Samuel, can you come take a look at my PC?",
+    "exHit": "take a look",
+    "exVi": "Này Samuel, cậu qua xem giúp máy tính của tôi được không?"
   },
   {
     "word": "act up",
@@ -21,7 +27,10 @@
     "type": "principle verb, present simple",
     "def": "not working properly",
     "vi": "giở chứng",
-    "viDef": "chạy không đúng, trục trặc"
+    "viDef": "chạy không đúng, trục trặc",
+    "ex": "It's acting up again.",
+    "exHit": "acting up",
+    "exVi": "Nó lại trục trặc rồi."
   },
   {
     "word": "be right up",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "go upstairs soon",
     "vi": "lên ngay đây",
-    "viDef": "sẽ lên lầu ngay"
+    "viDef": "sẽ lên lầu ngay",
+    "ex": "Just give me a second; I'll be right up.",
+    "exHit": "be right up",
+    "exVi": "Chờ tôi một chút nhé; tôi lên ngay."
   },
   {
     "word": "pick up",
@@ -37,7 +49,10 @@
     "type": "principle verb, present simple",
     "def": "get, acquire",
     "vi": "dính, nhiễm phải",
-    "viDef": "nhận, mắc phải"
+    "viDef": "nhận, mắc phải",
+    "ex": "But I'm quite careful when I'm browsing the internet, I have no idea how I could have picked up a virus.",
+    "exHit": "picked up",
+    "exVi": "Nhưng tôi rất cẩn thận khi duyệt web, tôi không hiểu sao mình lại dính virus được."
   },
   {
     "word": "browse",
@@ -45,7 +60,10 @@
     "type": "principle verb, present simple",
     "def": "look, search",
     "vi": "lướt xem",
-    "viDef": "xem, tìm kiếm"
+    "viDef": "xem, tìm kiếm",
+    "ex": "But I'm quite careful when I'm browsing the internet, I have no idea how I could have picked up a virus.",
+    "exHit": "browsing",
+    "exVi": "Nhưng tôi rất cẩn thận khi duyệt web, tôi không hiểu sao mình lại dính virus được."
   },
   {
     "word": "up to date",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "having all the most recent information",
     "vi": "cập nhật mới nhất",
-    "viDef": "có đầy đủ thông tin mới nhất"
+    "viDef": "có đầy đủ thông tin mới nhất",
+    "ex": "Well, you have to make sure that your anti-virus software is updated regularly; yours wasn't up to date, that's probably what was causing your problems.",
+    "exHit": "up to date",
+    "exVi": "Bạn phải đảm bảo phần mềm diệt virus được cập nhật thường xuyên; của bạn chưa được cập nhật, có lẽ đó là nguyên nhân gây ra sự cố."
   },
   {
     "word": "monitor",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "computer screen",
     "vi": "màn hình máy tính",
-    "viDef": "màn hình vi tính"
+    "viDef": "màn hình vi tính",
+    "ex": "I need a bigger monitor because the text is too small.",
+    "exHit": "monitor",
+    "exVi": "Tôi cần một màn hình lớn hơn vì chữ nhỏ quá."
   },
   {
     "word": "computer tech",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "person in a company who fixes computers",
     "vi": "nhân viên kỹ thuật máy tính",
-    "viDef": "người trong công ty chuyên sửa máy tính"
+    "viDef": "người trong công ty chuyên sửa máy tính",
+    "ex": "Our computer tech fixed my laptop in about ten minutes.",
+    "exHit": "computer tech",
+    "exVi": "Nhân viên kỹ thuật máy tính của chúng tôi đã sửa xong laptop của tôi trong khoảng mười phút."
   },
   {
     "word": "corrupt file",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "damaged or broken computer file that can't be opened",
     "vi": "tệp bị hỏng",
-    "viDef": "tệp máy tính bị lỗi, không mở được"
+    "viDef": "tệp máy tính bị lỗi, không mở được",
+    "ex": "I can't open the report because it's a corrupt file.",
+    "exHit": "corrupt file",
+    "exVi": "Tôi không mở được báo cáo vì đó là một tệp bị hỏng."
   },
   {
     "word": "surf the net",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "look for information on the internet",
     "vi": "lướt mạng",
-    "viDef": "tìm thông tin trên internet"
+    "viDef": "tìm thông tin trên internet",
+    "ex": "I like to surf the net after dinner to read the news.",
+    "exHit": "surf the net",
+    "exVi": "Tôi thích lướt mạng sau bữa tối để đọc tin tức."
   },
   {
     "word": "web browser",
@@ -93,6 +126,9 @@
     "type": "common noun, singular",
     "def": "computer program that allows you to go on the internet",
     "vi": "trình duyệt web",
-    "viDef": "phần mềm giúp bạn truy cập internet"
+    "viDef": "phần mềm giúp bạn truy cập internet",
+    "ex": "Which web browser do you use on your phone?",
+    "exHit": "web browser",
+    "exVi": "Bạn dùng trình duyệt web nào trên điện thoại?"
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "to include (something) as a part",
     "vi": "bao trùm",
-    "viDef": "chứa cả thứ gì trong đó"
+    "viDef": "chứa cả thứ gì trong đó",
+    "ex": "The term “ physics” encompasses many different areas of research and study, and I hope this course will provide you with conceptual understanding of physics, which will prove useful whether or not you choose to further your study in this field.",
+    "exHit": "encompasses",
+    "exVi": "Thuật ngữ vật lý bao gồm nhiều lĩnh vực nghiên cứu khác nhau, và tôi hy vọng khóa học này sẽ giúp các bạn hiểu về mặt khái niệm môn vật lý, điều sẽ hữu ích dù các bạn có theo học sâu hơn lĩnh vực này hay không."
   },
   {
     "word": "conceptual",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "based on or relating to ideas or concepts",
     "vi": "mang tính khái niệm",
-    "viDef": "dựa trên hoặc liên quan tới ý tưởng và khái niệm"
+    "viDef": "dựa trên hoặc liên quan tới ý tưởng và khái niệm",
+    "ex": "The term “ physics” encompasses many different areas of research and study, and I hope this course will provide you with conceptual understanding of physics, which will prove useful whether or not you choose to further your study in this field.",
+    "exHit": "conceptual",
+    "exVi": "Thuật ngữ vật lý bao gồm nhiều lĩnh vực nghiên cứu khác nhau, và tôi hy vọng khóa học này sẽ giúp các bạn hiểu về mặt khái niệm môn vật lý, điều sẽ hữu ích dù các bạn có theo học sâu hơn lĩnh vực này hay không."
   },
   {
     "word": "grasp",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "an understanding of something",
     "vi": "sự nắm bắt",
-    "viDef": "việc hiểu được điều gì"
+    "viDef": "việc hiểu được điều gì",
+    "ex": "It is essential that you first have a firm grasp of the fundamentals, so that you can better understand the theoretical concepts when we get to them.",
+    "exHit": "grasp",
+    "exVi": "Điều thiết yếu là trước hết bạn phải nắm vững những kiến thức nền tảng, để có thể hiểu rõ hơn các khái niệm lý thuyết khi chúng ta học đến."
   },
   {
     "word": "black hole",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "an invisible area in outer space",
     "vi": "lỗ đen",
-    "viDef": "vùng không thấy được ngoài không gian"
+    "viDef": "vùng không thấy được ngoài không gian",
+    "ex": "Will we learn about black holes, wormholes, and string theory?",
+    "exHit": "black holes",
+    "exVi": "Chúng ta sẽ học về lỗ đen, lỗ sâu và thuyết dây chứ?"
   },
   {
     "word": "quantum mechanics",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "the branch of physics that deals with energy and matter on an atomic level",
     "vi": "cơ học lượng tử",
-    "viDef": "nhánh vật lý nghiên cứu năng lượng và vật chất ở cấp nguyên tử"
+    "viDef": "nhánh vật lý nghiên cứu năng lượng và vật chất ở cấp nguyên tử",
+    "ex": "We will also explore developing theories in quantum mechanics, such as string theory.",
+    "exHit": "quantum mechanics",
+    "exVi": "Chúng ta cũng sẽ tìm hiểu các lý thuyết đang phát triển trong cơ học lượng tử, chẳng hạn như thuyết dây."
   },
   {
     "word": "hypothetical",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "involving or based on a suggested idea or theory",
     "vi": "mang tính giả thuyết",
-    "viDef": "dựa trên hoặc gắn với một ý hoặc lý thuyết được nêu ra"
+    "viDef": "dựa trên hoặc gắn với một ý hoặc lý thuyết được nêu ra",
+    "ex": "We will discuss some hypothetical features of space-time, like wormholes.",
+    "exHit": "hypothetical",
+    "exVi": "Chúng ta sẽ thảo luận một số đặc điểm mang tính giả thuyết của không-thời gian, như lỗ sâu."
   },
   {
     "word": "thermodynamics",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a science that deals with the action of heat",
     "vi": "nhiệt động lực học",
-    "viDef": "ngành khoa học nghiên cứu tác động của nhiệt"
+    "viDef": "ngành khoa học nghiên cứu tác động của nhiệt",
+    "ex": "We will also explore some of the more influential developments in the fields of thermodynamics, electromagnetism, and nuclear physics, all of which have had significant impacts on modern life.",
+    "exHit": "thermodynamics",
+    "exVi": "Chúng ta cũng sẽ khám phá một số bước phát triển có ảnh hưởng nhất trong các lĩnh vực nhiệt động lực học, điện từ học và vật lý hạt nhân, tất cả đều có tác động đáng kể đến đời sống hiện đại."
   },
   {
     "word": "electromagnetism",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a magnetic field that is produced by a current of electricity",
     "vi": "điện từ học",
-    "viDef": "từ trường sinh ra bởi dòng điện"
+    "viDef": "từ trường sinh ra bởi dòng điện",
+    "ex": "We will also explore some of the more influential developments in the fields of thermodynamics, electromagnetism, and nuclear physics, all of which have had significant impacts on modern life.",
+    "exHit": "electromagnetism",
+    "exVi": "Chúng ta cũng sẽ khám phá một số bước phát triển có ảnh hưởng nhất trong các lĩnh vực nhiệt động lực học, điện từ học và vật lý hạt nhân, tất cả đều có tác động đáng kể đến đời sống hiện đại."
   },
   {
     "word": "nuclear physics",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "the area of physics which deals with nuclei",
     "vi": "vật lý hạt nhân",
-    "viDef": "nhánh vật lý nghiên cứu về hạt nhân"
+    "viDef": "nhánh vật lý nghiên cứu về hạt nhân",
+    "ex": "We will also explore some of the more influential developments in the fields of thermodynamics, electromagnetism, and nuclear physics, all of which have had significant impacts on modern life.",
+    "exHit": "nuclear physics",
+    "exVi": "Chúng ta cũng sẽ khám phá một số bước phát triển có ảnh hưởng nhất trong các lĩnh vực nhiệt động lực học, điện từ học và vật lý hạt nhân, tất cả đều có tác động đáng kể đến đời sống hiện đại."
   },
   {
     "word": "academia",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "the various interests of a university and those who teach there",
     "vi": "giới học thuật",
-    "viDef": "các mối quan tâm của một trường đại học và những người dạy ở đó"
+    "viDef": "các mối quan tâm của một trường đại học và những người dạy ở đó",
+    "ex": "She wants to leave academia and work for a private company.",
+    "exHit": "academia",
+    "exVi": "Cô ấy muốn rời môi trường học thuật để làm cho một công ty tư nhân."
   },
   {
     "word": "applicable",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "something that can be used in real-life situations",
     "vi": "áp dụng được",
-    "viDef": "thứ dùng được trong tình huống thực tế"
+    "viDef": "thứ dùng được trong tình huống thực tế",
+    "ex": "Is this theory applicable to everyday problems?",
+    "exHit": "applicable",
+    "exVi": "Lý thuyết này có áp dụng được cho các vấn đề hằng ngày không?"
   },
   {
     "word": "gravity",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "the force of attraction between two objects",
     "vi": "lực hấp dẫn",
-    "viDef": "lực hút giữa hai vật"
+    "viDef": "lực hút giữa hai vật",
+    "ex": "Gravity keeps us on the ground and the planets in orbit.",
+    "exHit": "Gravity",
+    "exVi": "Trọng lực giữ chúng ta trên mặt đất và giữ các hành tinh trên quỹ đạo."
   },
   {
     "word": "ivory tower",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "refers to those who live in intellectual isolation, often without contact or applicability to the outside world",
     "vi": "tháp ngà",
-    "viDef": "chỉ những người sống tách biệt trong thế giới trí thức, thường chẳng tiếp xúc hay áp dụng gì với bên ngoài"
+    "viDef": "chỉ những người sống tách biệt trong thế giới trí thức, thường chẳng tiếp xúc hay áp dụng gì với bên ngoài",
+    "ex": "Professors in an ivory tower often forget about real life.",
+    "exHit": "ivory tower",
+    "exVi": "Các giáo sư trong tháp ngà thường quên mất cuộc sống thực."
   },
   {
     "word": "relevant",
@@ -109,6 +148,9 @@
     "type": "",
     "def": "knowledge that can be applied to everyday situations",
     "vi": "thiết thực, liên quan",
-    "viDef": "kiến thức áp dụng được vào chuyện thường ngày"
+    "viDef": "kiến thức áp dụng được vào chuyện thường ngày",
+    "ex": "Is this class relevant to the job you want?",
+    "exHit": "relevant",
+    "exVi": "Lớp học này có liên quan đến công việc bạn muốn không?"
   }
 ]

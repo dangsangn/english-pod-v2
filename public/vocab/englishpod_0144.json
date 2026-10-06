@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "the punishment of death",
     "vi": "án tử hình",
-    "viDef": "hình phạt bằng cái chết"
+    "viDef": "hình phạt bằng cái chết",
+    "ex": "For example, we could bring back the death penalty for murder, give longer prison sentences for lesser offences and lock up juvenile offenders.",
+    "exHit": "death penalty",
+    "exVi": "Chẳng hạn, chúng ta có thể đưa án tử hình trở lại cho tội giết người, tăng án tù cho các tội nhẹ hơn và giam những người phạm tội vị thành niên."
   },
   {
     "word": "prison sentence",
@@ -13,7 +16,10 @@
     "type": "common noun, plural",
     "def": "the amount of time to keep criminals in jail",
     "vi": "án tù",
-    "viDef": "thời gian giam giữ người phạm tội"
+    "viDef": "thời gian giam giữ người phạm tội",
+    "ex": "Well, no system of justice can be perfect, but surely there's a good case for longer prison sentences to deter serious crime.",
+    "exHit": "prison sentences",
+    "exVi": "Chà, không hệ thống tư pháp nào hoàn hảo, nhưng chắc chắn có lý do chính đáng để tăng án tù nhằm ngăn chặn tội phạm nghiêm trọng."
   },
   {
     "word": "juvenile offender",
@@ -21,7 +27,10 @@
     "type": "common noun, plural",
     "def": "underage criminals",
     "vi": "người phạm tội vị thành niên",
-    "viDef": "người chưa đủ tuổi mà phạm tội"
+    "viDef": "người chưa đủ tuổi mà phạm tội",
+    "ex": "For example, we could bring back the death penalty for murder, give longer prison sentences for lesser offences and lock up juvenile offenders.",
+    "exHit": "juvenile offenders",
+    "exVi": "Chẳng hạn, chúng ta có thể đưa án tử hình trở lại cho tội giết người, tăng án tù cho các tội nhẹ hơn và giam những người phạm tội vị thành niên."
   },
   {
     "word": "Draconian",
@@ -29,7 +38,10 @@
     "type": "Adjective",
     "def": "very strict and severe",
     "vi": "hà khắc",
-    "viDef": "rất nghiêm và nặng tay"
+    "viDef": "rất nghiêm và nặng tay",
+    "ex": "Those really sound like Draconian measures.",
+    "exHit": "Draconian",
+    "exVi": "Những biện pháp đó nghe thật hà khắc."
   },
   {
     "word": "miscarriage of justice",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "an unjust legal decision",
     "vi": "án oan",
-    "viDef": "quyết định pháp lý bất công"
+    "viDef": "quyết định pháp lý bất công",
+    "ex": "Firstly, what do you do about miscarriages of justice if you've already put innocent people to death?",
+    "exHit": "miscarriages of justice",
+    "exVi": "Trước hết, bạn sẽ làm gì với những vụ xử oan nếu đã xử tử người vô tội rồi?"
   },
   {
     "word": "capital punishment",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "punishment of death",
     "vi": "hình phạt tử hình",
-    "viDef": "hình phạt bằng cái chết"
+    "viDef": "hình phạt bằng cái chết",
+    "ex": "You'd only use capital punishment if you were absolutely sure that you'd convicted the right person.",
+    "exHit": "capital punishment",
+    "exVi": "Bạn chỉ áp dụng án tử hình khi hoàn toàn chắc chắn mình đã kết án đúng người."
   },
   {
     "word": "fabricate",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "to make something up to trick people",
     "vi": "dựng chuyện",
-    "viDef": "bịa ra để gạt người khác"
+    "viDef": "bịa ra để gạt người khác",
+    "ex": "In some cases, it'd been fabricated by the police.",
+    "exHit": "fabricated",
+    "exVi": "Trong một số trường hợp, bằng chứng đã bị cảnh sát bịa ra."
   },
   {
     "word": "deterrent",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "something that prevents people from doing something",
     "vi": "sự răn đe",
-    "viDef": "thứ khiến người ta không dám làm"
+    "viDef": "thứ khiến người ta không dám làm",
+    "ex": "I doubt whether they could act as an effective deterrent while the detection rate is so low.",
+    "exHit": "deterrent",
+    "exVi": "Tôi nghi ngờ liệu chúng có thể là biện pháp răn đe hiệu quả khi tỷ lệ phát hiện tội phạm quá thấp."
   },
   {
     "word": "divert",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "to move resources from one thing to another",
     "vi": "chuyển hướng",
-    "viDef": "dời nguồn lực từ việc này sang việc khác"
+    "viDef": "dời nguồn lực từ việc này sang việc khác",
+    "ex": "It doesn't make sense to divert all your resources into the prison system.",
+    "exHit": "divert",
+    "exVi": "Chuyển toàn bộ nguồn lực sang hệ thống nhà tù là không hợp lý."
   },
   {
     "word": "dictator",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "someone who rules with absolute power",
     "vi": "nhà độc tài",
-    "viDef": "người cai trị với quyền lực tuyệt đối"
+    "viDef": "người cai trị với quyền lực tuyệt đối",
+    "ex": "You sound like a dictator!",
+    "exHit": "dictator",
+    "exVi": "Bạn nói chuyện như một nhà độc tài vậy!"
   },
   {
     "word": "diversion",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "the act of changing the direction or use of something",
     "vi": "sự chuyển hướng",
-    "viDef": "việc đổi chiều hoặc đổi công dụng của thứ gì"
+    "viDef": "việc đổi chiều hoặc đổi công dụng của thứ gì",
+    "ex": "The road was closed, so we took a long diversion through the village.",
+    "exHit": "diversion",
+    "exVi": "Đường bị chặn nên chúng tôi phải đi vòng một đoạn dài qua ngôi làng."
   },
   {
     "word": "authoritarian",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "expecting or requiring people to obey rules or laws",
     "vi": "độc đoán",
-    "viDef": "buộc người ta phải tuân theo quy tắc, luật lệ"
+    "viDef": "buộc người ta phải tuân theo quy tắc, luật lệ",
+    "ex": "My boss is very authoritarian and never listens to anyone's ideas.",
+    "exHit": "authoritarian",
+    "exVi": "Sếp tôi rất độc đoán và không bao giờ nghe ý kiến của ai."
   },
   {
     "word": "divisive topic",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "an issue that causes disagreement between people and causes them to separate into different groups",
     "vi": "đề tài gây chia rẽ",
-    "viDef": "vấn đề làm người ta bất đồng và tách thành các phe"
+    "viDef": "vấn đề làm người ta bất đồng và tách thành các phe",
+    "ex": "The death penalty is a very divisive topic in my family.",
+    "exHit": "divisive topic",
+    "exVi": "Án tử hình là một chủ đề gây chia rẽ trong gia đình tôi."
   },
   {
     "word": "recidivist",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a person who continues to commit crimes even after being caught and punished",
     "vi": "kẻ tái phạm",
-    "viDef": "người vẫn tiếp tục phạm tội dù đã bị bắt và trừng phạt"
+    "viDef": "người vẫn tiếp tục phạm tội dù đã bị bắt và trừng phạt",
+    "ex": "The judge said the man was a recidivist who kept breaking the law.",
+    "exHit": "recidivist",
+    "exVi": "Thẩm phán nói người đàn ông đó là kẻ tái phạm, cứ liên tục vi phạm pháp luật."
   },
   {
     "word": "rehabilitate",
@@ -117,6 +159,9 @@
     "type": "verb",
     "def": "to teach (a criminal in prison) to live a normal and productive life",
     "vi": "cải tạo",
-    "viDef": "dạy người tù cách sống bình thường, có ích"
+    "viDef": "dạy người tù cách sống bình thường, có ích",
+    "ex": "Some prisons try to rehabilitate criminals by teaching them useful job skills.",
+    "exHit": "rehabilitate",
+    "exVi": "Một số nhà tù cố gắng giáo dục cải tạo phạm nhân bằng cách dạy họ những kỹ năng hữu ích."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "to express emotion or feeling, like God, Jesus",
     "vi": "ôi trời",
-    "viDef": "câu thốt ra để tỏ cảm xúc"
+    "viDef": "câu thốt ra để tỏ cảm xúc",
+    "ex": "Oh man...",
+    "exHit": "Oh man",
+    "exVi": "Trời ơi..."
   },
   {
     "word": "calm down",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "become quiet or calm, relax",
     "vi": "bình tĩnh lại",
-    "viDef": "trở nên yên, thư giãn"
+    "viDef": "trở nên yên, thư giãn",
+    "ex": "It's okay sir, calm down.",
+    "exHit": "calm down",
+    "exVi": "Không sao đâu thưa ông, xin ông bình tĩnh."
   },
   {
     "word": "laptop",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a small computer which is easily carried",
     "vi": "máy tính xách tay",
-    "viDef": "máy tính nhỏ dễ mang đi"
+    "viDef": "máy tính nhỏ dễ mang đi",
+    "ex": "I turned on my laptop and it broke!",
+    "exHit": "laptop",
+    "exVi": "Tôi bật máy tính xách tay lên thì nó hỏng luôn!"
   },
   {
     "word": "I mean",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "to express ones own opinion, meaning",
     "vi": "ý tôi là",
-    "viDef": "câu dùng khi nêu ý mình muốn nói"
+    "viDef": "câu dùng khi nêu ý mình muốn nói",
+    "ex": "I mean, the monitor went black!",
+    "exHit": "I mean",
+    "exVi": "Ý tôi là, màn hình bỗng đen thui!"
   },
   {
     "word": "monitor",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "an electronic display that shows images",
     "vi": "màn hình",
-    "viDef": "thiết bị điện tử hiển thị hình ảnh"
+    "viDef": "thiết bị điện tử hiển thị hình ảnh",
+    "ex": "I mean, the monitor went black!",
+    "exHit": "monitor",
+    "exVi": "Ý tôi là, màn hình bỗng đen thui!"
   },
   {
     "word": "virus",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a program designed to harm a computer",
     "vi": "virus máy tính",
-    "viDef": "chương trình được viết ra để làm hại máy"
+    "viDef": "chương trình được viết ra để làm hại máy",
+    "ex": "Ok, sir, it sounds like you might have a virus.",
+    "exHit": "virus",
+    "exVi": "Vâng thưa ông, có vẻ máy của ông bị nhiễm virus rồi."
   },
   {
     "word": "nope",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "no (informal)",
     "vi": "hổng có",
-    "viDef": "không (thân mật)"
+    "viDef": "không (thân mật)",
+    "ex": "Nope!",
+    "exHit": "Nope",
+    "exVi": "Không!"
   },
   {
     "word": "program",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a set of instructions to perform",
     "vi": "chương trình",
-    "viDef": "bộ lệnh để máy thực hiện"
+    "viDef": "bộ lệnh để máy thực hiện",
+    "ex": "No, your computer might have a virus, I mean, it has a bad program on it.",
+    "exHit": "program",
+    "exVi": "Không, máy tính của ông có thể bị virus, ý tôi là trong máy có một chương trình độc hại."
   },
   {
     "word": "crash",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "stop working or functioning properly",
     "vi": "sập",
-    "viDef": "ngừng chạy hoặc chạy sai"
+    "viDef": "ngừng chạy hoặc chạy sai",
+    "ex": "……Wait a minute, CRASH??!!",
+    "exHit": "CRASH",
+    "exVi": "......Khoan đã, SẬP á??!!"
   },
   {
     "word": "antivirus",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a program designed to identify and remove computer viruses",
     "vi": "phần mềm diệt virus",
-    "viDef": "chương trình để nhận diện và xóa virus máy tính"
+    "viDef": "chương trình để nhận diện và xóa virus máy tính",
+    "ex": "I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.",
+    "exHit": "antivirus",
+    "exVi": "Tôi khuyên ông nên chạy một chương trình diệt virus để gỡ bỏ an toàn mọi phần mềm gián điệp hoặc Trojan không mong muốn."
   },
   {
     "word": "run",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "to work or be in operation",
     "vi": "chạy",
-    "viDef": "hoạt động, đang vận hành"
+    "viDef": "hoạt động, đang vận hành",
+    "ex": "I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.",
+    "exHit": "run",
+    "exVi": "Tôi khuyên ông nên chạy một chương trình diệt virus để gỡ bỏ an toàn mọi phần mềm gián điệp hoặc Trojan không mong muốn."
   },
   {
     "word": "spyware",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "software that secretly gathers information",
     "vi": "phần mềm theo dõi",
-    "viDef": "phần mềm ngấm ngầm thu thập thông tin"
+    "viDef": "phần mềm ngấm ngầm thu thập thông tin",
+    "ex": "I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.",
+    "exHit": "spyware",
+    "exVi": "Tôi khuyên ông nên chạy một chương trình diệt virus để gỡ bỏ an toàn mọi phần mềm gián điệp hoặc Trojan không mong muốn."
   },
   {
     "word": "Hotline",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "A telephone line that gives quick and direct access to a source of information or help",
     "vi": "đường dây nóng",
-    "viDef": "số điện thoại cho phép liên lạc nhanh và trực tiếp tới nơi cung cấp thông tin hoặc trợ giúp"
+    "viDef": "số điện thoại cho phép liên lạc nhanh và trực tiếp tới nơi cung cấp thông tin hoặc trợ giúp",
+    "ex": "Call the hotline if you need help with your computer.",
+    "exHit": "hotline",
+    "exVi": "Hãy gọi đường dây nóng nếu bạn cần giúp về máy tính."
   },
   {
     "word": "Phisihing",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "To request confidential information over the Internet under false pretenses in order to fraudulently obtain credit card numbers, passwords, or other personal data",
     "vi": "lừa lấy thông tin",
-    "viDef": "giả danh trên mạng để đòi thông tin mật nhằm chiếm số thẻ, mật khẩu hoặc dữ liệu cá nhân"
+    "viDef": "giả danh trên mạng để đòi thông tin mật nhằm chiếm số thẻ, mật khẩu hoặc dữ liệu cá nhân",
+    "ex": "Phishing emails try to steal your password and credit card number.",
+    "exHit": "Phishing",
+    "exVi": "Email lừa đảo cố đánh cắp mật khẩu và số thẻ tín dụng của bạn."
   },
   {
     "word": "Crack",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "To break open or into something such as a safe or a computer system",
     "vi": "phá khóa",
-    "viDef": "phá vào thứ gì như tủ sắt hoặc hệ thống máy tính"
+    "viDef": "phá vào thứ gì như tủ sắt hoặc hệ thống máy tính",
+    "ex": "Hackers tried to crack the password to get into our system.",
+    "exHit": "crack",
+    "exVi": "Tin tặc đã cố bẻ khóa mật khẩu để xâm nhập vào hệ thống của chúng tôi."
   },
   {
     "word": "Format",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "To divide (a disk) into marked sectors so that it may store data.",
     "vi": "định dạng ổ",
-    "viDef": "chia ổ đĩa thành các cung để lưu được dữ liệu"
+    "viDef": "chia ổ đĩa thành các cung để lưu được dữ liệu",
+    "ex": "You'll lose everything if you format the hard drive.",
+    "exHit": "format",
+    "exVi": "Bạn sẽ mất hết dữ liệu nếu định dạng ổ cứng."
   },
   {
     "word": "Hardware",
@@ -133,6 +181,9 @@
     "type": "",
     "def": "A computer and the associated physical equipment directly involved in the performance of data-processing or communications functions.",
     "vi": "phần cứng",
-    "viDef": "máy tính và các thiết bị vật lý gắn liền, trực tiếp làm việc xử lý dữ liệu hoặc truyền tin"
+    "viDef": "máy tính và các thiết bị vật lý gắn liền, trực tiếp làm việc xử lý dữ liệu hoặc truyền tin",
+    "ex": "The software is fine, but the hardware needs to be replaced.",
+    "exHit": "hardware",
+    "exVi": "Phần mềm thì ổn, nhưng phần cứng cần được thay."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "the atmosphere of a place",
     "vi": "không khí, khung cảnh",
-    "viDef": "bầu không khí của một nơi"
+    "viDef": "bầu không khí của một nơi",
+    "ex": "I love the ambience of this restaurant, it's so relaxing.",
+    "exHit": "ambience",
+    "exVi": "Tôi thích không khí của nhà hàng này, nó thư giãn quá."
   },
   {
     "word": "distribuitor",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a person or business that sells to retail stores",
     "vi": "nhà phân phối",
-    "viDef": "người hoặc doanh nghiệp bán cho các cửa hàng lẻ"
+    "viDef": "người hoặc doanh nghiệp bán cho các cửa hàng lẻ",
+    "ex": "We're looking for a distributor to sell our products in Asia.",
+    "exHit": "distributor",
+    "exVi": "Chúng tôi đang tìm một nhà phân phối để bán sản phẩm ở châu Á."
   },
   {
     "word": "manufacturer",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a company that makes goods",
     "vi": "nhà sản xuất",
-    "viDef": "công ty làm ra hàng hóa"
+    "viDef": "công ty làm ra hàng hóa",
+    "ex": "They're a new manufacturer and are looking to break into the luxury market.",
+    "exHit": "manufacturer",
+    "exVi": "Họ là một nhà sản xuất mới và đang muốn thâm nhập vào thị trường hàng xa xỉ."
   },
   {
     "word": "break into",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "enter quickly",
     "vi": "chen vào, thâm nhập",
-    "viDef": "bước vào một cách nhanh chóng"
+    "viDef": "bước vào một cách nhanh chóng",
+    "ex": "They're a new manufacturer and are looking to break into the luxury market.",
+    "exHit": "break into",
+    "exVi": "Họ là một nhà sản xuất mới và đang muốn thâm nhập vào thị trường hàng xa xỉ."
   },
   {
     "word": "spring",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "To appear or come into being quickly",
     "vi": "bật ra, mọc lên",
-    "viDef": "xuất hiện hoặc hình thành thật nhanh"
+    "viDef": "xuất hiện hoặc hình thành thật nhanh",
+    "ex": "New coffee shops seem to spring up on every corner here.",
+    "exHit": "spring up",
+    "exVi": "Quán cà phê mới dường như mọc lên ở mọi góc phố ở đây."
   },
   {
     "word": "exemplify",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "sets an example, a demonstration",
     "vi": "thể hiện điển hình",
-    "viDef": "làm ví dụ, minh chứng cho điều gì"
+    "viDef": "làm ví dụ, minh chứng cho điều gì",
+    "ex": "I think your brand exemplifies many of the same traits as Grangers and serving these chocolates would really add to your reputation for providing elegant, luxurious, first class dining.",
+    "exHit": "exemplifies",
+    "exVi": "Tôi nghĩ thương hiệu của ông là hình mẫu của nhiều nét tương tự như Grangers, và việc phục vụ những viên sô-cô-la này sẽ góp phần nâng cao danh tiếng của ông về những bữa ăn sang trọng, thanh lịch, đẳng cấp."
   },
   {
     "word": "trait",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a characteristic feature or quality",
     "vi": "nét đặc trưng",
-    "viDef": "đặc điểm hoặc phẩm chất riêng"
+    "viDef": "đặc điểm hoặc phẩm chất riêng",
+    "ex": "Honesty is the best trait a friend can have.",
+    "exHit": "trait",
+    "exVi": "Trung thực là đức tính tốt nhất mà một người bạn có thể có."
   },
   {
     "word": "factory",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "place where goods are made",
     "vi": "nhà máy",
-    "viDef": "nơi làm ra hàng hóa"
+    "viDef": "nơi làm ra hàng hóa",
+    "ex": "Actually, the factory is located in Scotland.",
+    "exHit": "factory",
+    "exVi": "Thật ra nhà máy nằm ở Scotland."
   },
   {
     "word": "know",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "famous for, easily recognized",
     "vi": "nổi tiếng về",
-    "viDef": "được biết đến, dễ nhận ra"
+    "viDef": "được biết đến, dễ nhận ra",
+    "ex": "That brand is well known for its luxury chocolates.",
+    "exHit": "known",
+    "exVi": "Thương hiệu đó nổi tiếng với những loại sô-cô-la cao cấp."
   },
   {
     "word": "tariff",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a tax or amount of money to be paid",
     "vi": "thuế quan",
-    "viDef": "khoản thuế hoặc tiền phải trả"
+    "viDef": "khoản thuế hoặc tiền phải trả",
+    "ex": "The government is one hundred percent supportive of creating new export markets and has guaranteed a low tariff for all wholesale orders of over one thousand units.",
+    "exHit": "tariff",
+    "exVi": "Chính phủ hoàn toàn ủng hộ việc tạo ra các thị trường xuất khẩu mới và đã đảm bảo mức thuế thấp cho mọi đơn hàng bán buôn trên một nghìn sản phẩm."
   },
   {
     "word": "wholesale",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "The sale of goods in large quantities.",
     "vi": "bán sỉ",
-    "viDef": "việc bán hàng với số lượng lớn"
+    "viDef": "việc bán hàng với số lượng lớn",
+    "ex": "The government is one hundred percent supportive of creating new export markets and has guaranteed a low tariff for all wholesale orders of over one thousand units.",
+    "exHit": "wholesale",
+    "exVi": "Chính phủ hoàn toàn ủng hộ việc tạo ra các thị trường xuất khẩu mới và đã đảm bảo mức thuế thấp cho mọi đơn hàng bán buôn trên một nghìn sản phẩm."
   },
   {
     "word": "red tape",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "procedures required to gain bureaucratic approval",
     "vi": "thủ tục rườm rà",
-    "viDef": "các bước phải qua để được cơ quan chấp thuận"
+    "viDef": "các bước phải qua để được cơ quan chấp thuận",
+    "ex": "They've also reduced the red tape involved at customs as well.",
+    "exHit": "red tape",
+    "exVi": "Họ cũng đã giảm bớt thủ tục hành chính rườm rà ở hải quan."
   },
   {
     "word": "cutting corners",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "To do something in the easiest or most inexpensive",
     "vi": "làm tắt cho nhanh",
-    "viDef": "làm theo cách dễ nhất hoặc ít tốn nhất"
+    "viDef": "làm theo cách dễ nhất hoặc ít tốn nhất",
+    "ex": "Quality is assured as I personally visit the factory to make sure no one's cutting corners with the ingredients.",
+    "exHit": "cutting corners",
+    "exVi": "Chất lượng được đảm bảo vì tôi đích thân đến nhà máy để chắc rằng không ai làm ẩu về nguyên liệu."
   },
   {
     "word": "hand down",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "to pass from one family member or generation to th",
     "vi": "truyền lại",
-    "viDef": "chuyển từ người hoặc đời này sang đời sau trong gia đình"
+    "viDef": "chuyển từ người hoặc đời này sang đời sau trong gia đình",
+    "ex": "I have it on highest authority that this traditional secret recipe has been handed down in the Granger family for generations.",
+    "exHit": "handed down",
+    "exVi": "Tôi có nguồn tin cao nhất cho biết công thức bí truyền cổ truyền này đã được truyền lại trong gia đình Granger qua nhiều thế hệ."
   },
   {
     "word": "Haggis",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "made of sheep's viscera minced with oatmeal, suet,",
     "vi": "món haggis",
-    "viDef": "món làm từ nội tạng cừu băm với bột yến mạch, mỡ và gia vị"
+    "viDef": "món làm từ nội tạng cừu băm với bột yến mạch, mỡ và gia vị",
+    "ex": "Buttermilk, cacao beans, sugar and Haggis.",
+    "exHit": "Haggis",
+    "exVi": "Sữa bơ, hạt ca cao, đường và Haggis."
   },
   {
     "word": "stuff",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "to pack tightly, to cram inside",
     "vi": "nhồi nhét",
-    "viDef": "dồn chặt, ấn vào bên trong"
+    "viDef": "dồn chặt, ấn vào bên trong",
+    "ex": "It's a traditional Scottish delicacy; you take sheep's liver, heart and lung and stuff it inside of the sheep's stomach.",
+    "exHit": "stuff",
+    "exVi": "Đó là món ngon truyền thống của Scotland; người ta lấy gan, tim và phổi cừu rồi nhồi vào dạ dày cừu."
   },
   {
     "word": "Angel Investors",
@@ -133,7 +181,10 @@
     "type": "",
     "def": "Individuals who back emerging entrepreneurial ventures, usually as a bridge to get from the self-funded stage to the level of business that would both need and attract venture capital.",
     "vi": "nhà đầu tư thiên thần",
-    "viDef": "người rót vốn cho các dự án mới, thường là bước đệm từ giai đoạn tự lo vốn đến quy mô cần và hút được vốn đầu tư mạo hiểm"
+    "viDef": "người rót vốn cho các dự án mới, thường là bước đệm từ giai đoạn tự lo vốn đến quy mô cần và hút được vốn đầu tư mạo hiểm",
+    "ex": "She found angel investors to help her start the business.",
+    "exHit": "angel investors",
+    "exVi": "Cô ấy tìm được các nhà đầu tư thiên thần để giúp cô khởi nghiệp."
   },
   {
     "word": "Joint Venture",
@@ -141,7 +192,10 @@
     "type": "",
     "def": "A legal entity created by two or more businesses joining together to conduct a specific business enterprise with both parties sharing profits and losses.",
     "vi": "liên doanh",
-    "viDef": "pháp nhân do hai hay nhiều doanh nghiệp lập ra để cùng làm một việc kinh doanh, chia cả lời lẫn lỗ"
+    "viDef": "pháp nhân do hai hay nhiều doanh nghiệp lập ra để cùng làm một việc kinh doanh, chia cả lời lẫn lỗ",
+    "ex": "The two companies formed a joint venture to enter the Asian market.",
+    "exHit": "joint venture",
+    "exVi": "Hai công ty thành lập một liên doanh để vào thị trường châu Á."
   },
   {
     "word": "Venture Capital",
@@ -149,7 +203,10 @@
     "type": "",
     "def": "A form of financing for a company in which the business gives up partial ownership and control of the business in exchange for capital over a limited time frame, usually 3-5 years.",
     "vi": "vốn đầu tư mạo hiểm",
-    "viDef": "hình thức cấp vốn mà doanh nghiệp nhường một phần sở hữu và quyền điều hành để đổi lấy vốn trong thời hạn nhất định, thường là 3-5 năm"
+    "viDef": "hình thức cấp vốn mà doanh nghiệp nhường một phần sở hữu và quyền điều hành để đổi lấy vốn trong thời hạn nhất định, thường là 3-5 năm",
+    "ex": "He is trying to raise venture capital for his new company.",
+    "exHit": "venture capital",
+    "exVi": "Anh ấy đang cố gọi vốn đầu tư mạo hiểm cho công ty mới."
   },
   {
     "word": "Merger",
@@ -157,7 +214,10 @@
     "type": "",
     "def": "A joining together of two previously separate corporations.",
     "vi": "sáp nhập",
-    "viDef": "việc hai công ty trước đó riêng biệt nhập lại thành một"
+    "viDef": "việc hai công ty trước đó riêng biệt nhập lại thành một",
+    "ex": "The merger of the two banks created a huge company.",
+    "exHit": "merger",
+    "exVi": "Vụ sáp nhập hai ngân hàng đã tạo ra một công ty khổng lồ."
   },
   {
     "word": "Audit",
@@ -165,6 +225,9 @@
     "type": "",
     "def": "an evaluation of a person, organization, system, process, enterprise, project or product.",
     "vi": "kiểm toán, rà soát",
-    "viDef": "việc đánh giá một người, tổ chức, hệ thống, quy trình, doanh nghiệp, dự án hoặc sản phẩm"
+    "viDef": "việc đánh giá một người, tổ chức, hệ thống, quy trình, doanh nghiệp, dự án hoặc sản phẩm",
+    "ex": "The tax office will audit our company's accounts next month.",
+    "exHit": "audit",
+    "exVi": "Cơ quan thuế sẽ kiểm toán sổ sách công ty chúng tôi vào tháng sau."
   }
 ]

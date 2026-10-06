@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "ranking with the best in the whole world",
     "vi": "đẳng cấp thế giới",
-    "viDef": "xếp ngang hàng những gì hay nhất toàn cầu"
+    "viDef": "xếp ngang hàng những gì hay nhất toàn cầu",
+    "ex": "It's a beautiful day to see two world class teams face each other and fight for their right to be called champions.",
+    "exHit": "world class",
+    "exVi": "Hôm nay là một ngày đẹp trời để xem hai đội đẳng cấp thế giới đối đầu và tranh quyền được gọi là nhà vô địch."
   },
   {
     "word": "national anthem",
@@ -13,7 +16,10 @@
     "type": "common noun, singular",
     "def": "the song that represents a country and is played in ceremonies",
     "vi": "quốc ca",
-    "viDef": "bài hát đại diện cho một nước, cử trong các buổi lễ"
+    "viDef": "bài hát đại diện cho một nước, cử trong các buổi lễ",
+    "ex": "Well, the national anthem has just been sung, and the umpire has started the game.",
+    "exHit": "national anthem",
+    "exVi": "Vâng, quốc ca vừa được hát xong, và trọng tài đã bắt đầu trận đấu."
   },
   {
     "word": "umpire",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "a person who controls and judges a baseball game",
     "vi": "trọng tài bóng chày",
-    "viDef": "người điều hành và phân định trận bóng chày"
+    "viDef": "người điều hành và phân định trận bóng chày",
+    "ex": "Well, the national anthem has just been sung, and the umpire has started the game.",
+    "exHit": "umpire",
+    "exVi": "Vâng, quốc ca vừa được hát xong, và trọng tài đã bắt đầu trận đấu."
   },
   {
     "word": "up at bat",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "get ready to hit the ball",
     "vi": "vào lượt đánh",
-    "viDef": "sẵn sàng đánh bóng"
+    "viDef": "sẵn sàng đánh bóng",
+    "ex": "Roger Vargas is up at bat.",
+    "exHit": "up at bat",
+    "exVi": "Roger Vargas đang vào vị trí đánh bóng."
   },
   {
     "word": "wind up",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "get the energy to throw the ball",
     "vi": "lấy đà ném",
-    "viDef": "vươn tay lấy lực để ném bóng"
+    "viDef": "vươn tay lấy lực để ném bóng",
+    "ex": "The pitcher winds up and strike one!",
+    "exHit": "winds up",
+    "exVi": "Cầu thủ ném bóng lấy đà và ném, strike một!"
   },
   {
     "word": "curve ball",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "a ball thrown on a curve (i.e. not straight) that is hard to hit",
     "vi": "đường bóng xoáy",
-    "viDef": "quả ném đi vòng, không thẳng, rất khó đánh"
+    "viDef": "quả ném đi vòng, không thẳng, rất khó đánh",
+    "ex": "A very nice curve ball by the pitcher.",
+    "exHit": "curve ball",
+    "exVi": "Một cú ném bóng xoáy rất đẹp của cầu thủ ném bóng."
   },
   {
     "word": "pitcher",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "the player who throws the ball to the batter",
     "vi": "người ném bóng",
-    "viDef": "cầu thủ ném bóng cho người đánh"
+    "viDef": "cầu thủ ném bóng cho người đánh",
+    "ex": "The pitcher winds up and strike one!",
+    "exHit": "pitcher",
+    "exVi": "Cầu thủ ném bóng lấy đà và ném, strike một!"
   },
   {
     "word": "catcher",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "the player behind home plate who catches the ball without being hit",
     "vi": "người bắt bóng",
-    "viDef": "cầu thủ ngồi sau chốt nhà để bắt bóng"
+    "viDef": "cầu thủ ngồi sau chốt nhà để bắt bóng",
+    "ex": "The catcher gives him the sign, he winds up and Vargas gets a line drive!",
+    "exHit": "catcher",
+    "exVi": "Người bắt bóng ra dấu cho anh ấy, anh ấy lấy đà và Vargas đánh được một cú bóng bay thẳng!"
   },
   {
     "word": "line drive",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "a hit that travels low along the baseline",
     "vi": "cú đánh sệt",
-    "viDef": "quả bóng bay thấp theo đường biên"
+    "viDef": "quả bóng bay thấp theo đường biên",
+    "ex": "The catcher gives him the sign, he winds up and Vargas gets a line drive!",
+    "exHit": "line drive",
+    "exVi": "Người bắt bóng ra dấu cho anh ấy, anh ấy lấy đà và Vargas đánh được một cú bóng bay thẳng!"
   },
   {
     "word": "scramble",
@@ -77,7 +104,10 @@
     "type": "verb",
     "def": "do something quickly and in a disorganized way",
     "vi": "nhào lộn xoay xở",
-    "viDef": "làm gấp gáp, lộn xộn"
+    "viDef": "làm gấp gáp, lộn xộn",
+    "ex": "The players are scrambling to get the ball.",
+    "exHit": "scrambling",
+    "exVi": "Các cầu thủ đang cuống cuồng chạy đi lấy bóng."
   },
   {
     "word": "outfielder",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a player who plays in the area that is relatively far from the pitch",
     "vi": "cầu thủ sân ngoài",
-    "viDef": "người chơi ở khu vực xa chỗ ném bóng"
+    "viDef": "người chơi ở khu vực xa chỗ ném bóng",
+    "ex": "The outfielder throws it to second!",
+    "exHit": "outfielder",
+    "exVi": "Cầu thủ ngoài sân ném bóng về chốt hai!"
   },
   {
     "word": "safe",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "successfully gets to the base",
     "vi": "đến chốt an toàn",
-    "viDef": "chạy tới chốt kịp, không bị loại"
+    "viDef": "chạy tới chốt kịp, không bị loại",
+    "ex": "He's safe!",
+    "exHit": "safe",
+    "exVi": "Anh ấy an toàn rồi!"
   },
   {
     "word": "home run",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "a hit that strikes the ball out of the field",
     "vi": "cú home run",
-    "viDef": "quả đánh bay bóng ra khỏi sân"
+    "viDef": "quả đánh bay bóng ra khỏi sân",
+    "ex": "Home run by Okami!",
+    "exHit": "Home run",
+    "exVi": "Okami đánh được một cú home run!"
   },
   {
     "word": "inning",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "a set of baseball containing a turn at bat and a turn in field for each side",
     "vi": "lượt chơi",
-    "viDef": "một hiệp gồm lượt đánh và lượt phòng của mỗi bên"
+    "viDef": "một hiệp gồm lượt đánh và lượt phòng của mỗi bên",
+    "ex": "That puts this team ahead by two as we are at the bottom of the fifth inning here at Richie Stadium!",
+    "exHit": "inning",
+    "exVi": "Như vậy đội này dẫn trước hai điểm khi chúng ta đang ở nửa cuối hiệp năm tại sân vận động Richie!"
   },
   {
     "word": "up to bat",
@@ -117,7 +159,10 @@
     "type": "phrase",
     "def": "the next in line to do something",
     "vi": "tới lượt mình",
-    "viDef": "người kế tiếp trong hàng"
+    "viDef": "người kế tiếp trong hàng",
+    "ex": "Who is up to bat after Vargas?",
+    "exHit": "up to bat",
+    "exVi": "Ai là người tiếp theo vào đánh bóng sau Vargas?"
   },
   {
     "word": "ballpark figure",
@@ -125,7 +170,10 @@
     "type": "phrase",
     "def": "an approximate number",
     "vi": "số ước chừng",
-    "viDef": "con số áng chừng"
+    "viDef": "con số áng chừng",
+    "ex": "Give me a ballpark figure for the repairs.",
+    "exHit": "ballpark figure",
+    "exVi": "Cho tôi một con số ước chừng cho chi phí sửa chữa."
   },
   {
     "word": "hit it out of the park",
@@ -133,7 +181,10 @@
     "type": "phrase",
     "def": "to do something very well, or very successfully",
     "vi": "làm quá xuất sắc",
-    "viDef": "làm việc gì rất giỏi, rất thành công"
+    "viDef": "làm việc gì rất giỏi, rất thành công",
+    "ex": "Our team really hit it out of the park today.",
+    "exHit": "hit it out of the park",
+    "exVi": "Hôm nay đội chúng ta thực sự làm quá xuất sắc."
   },
   {
     "word": "off the bat",
@@ -141,7 +192,10 @@
     "type": "phrase",
     "def": "immediately, with out delay",
     "vi": "ngay tức thì",
-    "viDef": "lập tức, không chậm trễ"
+    "viDef": "lập tức, không chậm trễ",
+    "ex": "He knew right off the bat that she was nice.",
+    "exHit": "off the bat",
+    "exVi": "Anh ấy biết ngay lập tức rằng cô ấy tốt bụng."
   },
   {
     "word": "screwball",
@@ -149,6 +203,9 @@
     "type": "common noun, singular",
     "def": "an unusual, crazy, or eccentric person",
     "vi": "kẻ quái chiêu",
-    "viDef": "người khác thường, hơi điên"
+    "viDef": "người khác thường, hơi điên",
+    "ex": "My uncle is a real screwball who loves jokes.",
+    "exHit": "screwball",
+    "exVi": "Chú tôi đúng là một người lập dị thích đùa."
   }
 ]

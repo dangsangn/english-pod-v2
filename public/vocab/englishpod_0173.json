@@ -5,7 +5,10 @@
     "type": "",
     "def": "rise rapidly, as in price",
     "vi": "tăng vọt",
-    "viDef": "dâng lên rất nhanh, như về giá"
+    "viDef": "dâng lên rất nhanh, như về giá",
+    "ex": "Prices at the supermarket have started to skyrocket this year.",
+    "exHit": "skyrocket",
+    "exVi": "Giá cả ở siêu thị năm nay bắt đầu tăng vọt."
   },
   {
     "word": "out of control",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "beyond the ability to direct the actions of something",
     "vi": "vượt kiểm soát",
-    "viDef": "không còn điều khiển được"
+    "viDef": "không còn điều khiển được",
+    "ex": "Our spending has gone out of control since we bought the new house.",
+    "exHit": "out of control",
+    "exVi": "Chi tiêu của chúng tôi đã vượt tầm kiểm soát từ khi mua nhà mới."
   },
   {
     "word": "budget",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "plan the way to spend money in order to save more",
     "vi": "lập ngân sách",
-    "viDef": "tính cách chi tiêu để tiết kiệm hơn"
+    "viDef": "tính cách chi tiêu để tiết kiệm hơn",
+    "ex": "With the recent economic downturn, my husband's business has suffered and now we need some advice as to how we can prepare a family budget.",
+    "exHit": "budget",
+    "exVi": "Do kinh tế suy thoái gần đây, công việc của chồng tôi gặp khó khăn nên chúng tôi cần lời khuyên để lập ngân sách gia đình."
   },
   {
     "word": "allocate",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "assign",
     "vi": "phân bổ",
-    "viDef": "chia phần cho từng mục"
+    "viDef": "chia phần cho từng mục",
+    "ex": "Knowing how much money is coming in will help us allocate spending to different categories such as mortgage, education, groceries, etc.",
+    "exHit": "allocate",
+    "exVi": "Biết được thu nhập là bao nhiêu sẽ giúp chúng ta phân bổ chi tiêu cho các khoản như tiền nhà, giáo dục, thực phẩm và các khoản khác."
   },
   {
     "word": "frankly speaking",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to be honest, to say it directly",
     "vi": "nói thẳng ra",
-    "viDef": "nói thật, nói trực tiếp"
+    "viDef": "nói thật, nói trực tiếp",
+    "ex": "Frankly speaking, I think we spend too much on eating out.",
+    "exHit": "Frankly speaking",
+    "exVi": "Nói thẳng ra, tôi nghĩ chúng ta chi quá nhiều cho việc ăn ngoài."
   },
   {
     "word": "capital",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "the wealth in money or property one owns",
     "vi": "vốn",
-    "viDef": "tài sản bằng tiền hoặc của cải mình có"
+    "viDef": "tài sản bằng tiền hoặc của cải mình có",
+    "ex": "He needed more capital to start his own small business.",
+    "exHit": "capital",
+    "exVi": "Anh ấy cần thêm vốn để khởi nghiệp kinh doanh nhỏ của riêng mình."
   },
   {
     "word": "finances",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "one's monetary resources",
     "vi": "tình hình tài chính",
-    "viDef": "nguồn tiền của một người"
+    "viDef": "nguồn tiền của một người",
+    "ex": "We sat down to go over our finances for the month.",
+    "exHit": "finances",
+    "exVi": "Chúng tôi ngồi lại để xem xét tình hình tài chính của tháng này."
   },
   {
     "word": "to bring in the dough",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "to make money",
     "vi": "kiếm ra tiền",
-    "viDef": "làm ra tiền"
+    "viDef": "làm ra tiền",
+    "ex": "My wife and I both work hard to bring in the dough.",
+    "exHit": "bring in the dough",
+    "exVi": "Vợ chồng tôi đều làm việc chăm chỉ để kiếm tiền."
   },
   {
     "word": "breadwinner",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "one whose earnings are the primary source of support for one's dependents",
     "vi": "trụ cột kinh tế",
-    "viDef": "người có thu nhập chính nuôi cả nhà"
+    "viDef": "người có thu nhập chính nuôi cả nhà",
+    "ex": "I'm the breadwinner in our family, so I work late.",
+    "exHit": "breadwinner",
+    "exVi": "Tôi là trụ cột kinh tế trong gia đình nên tôi hay làm việc muộn."
   },
   {
     "word": "to itemize",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "to place or include on a list of items",
     "vi": "liệt kê từng mục",
-    "viDef": "đưa vào danh sách theo từng khoản"
+    "viDef": "đưa vào danh sách theo từng khoản",
+    "ex": "We need to itemize all of our monthly bills.",
+    "exHit": "itemize",
+    "exVi": "Chúng ta cần liệt kê chi tiết tất cả các hóa đơn hàng tháng."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "",
     "def": "The date on which a romance began",
     "vi": "ngày kỷ niệm",
-    "viDef": "ngày mà một chuyện tình bắt đầu"
+    "viDef": "ngày mà một chuyện tình bắt đầu",
+    "ex": "Our fifth anniversary's next Friday.",
+    "exHit": "anniversary",
+    "exVi": "Kỷ niệm ngày yêu nhau năm năm của chúng tôi vào thứ Sáu tuần sau."
   },
   {
     "word": "have in mind",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to be thinking of something",
     "vi": "đang nhắm tới",
-    "viDef": "đang nghĩ đến thứ gì"
+    "viDef": "đang nghĩ đến thứ gì",
+    "ex": "Is there anything particular that you have in mind?",
+    "exHit": "have in mind",
+    "exVi": "Bạn có ý định chọn món cụ thể nào không?"
   },
   {
     "word": "heart-shaped",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "something in the shape of a heart",
     "vi": "hình trái tim",
-    "viDef": "thứ có dáng trái tim"
+    "viDef": "thứ có dáng trái tim",
+    "ex": "He gave her a heart-shaped box of chocolates.",
+    "exHit": "heart-shaped",
+    "exVi": "Anh ấy tặng cô ấy một hộp sô cô la hình trái tim."
   },
   {
     "word": "pendant",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a piece of jewelry that hangs on a chain",
     "vi": "mặt dây chuyền",
-    "viDef": "món trang sức treo trên dây"
+    "viDef": "món trang sức treo trên dây",
+    "ex": "We have this beautiful platinum pendant, or you could also get her a locket.",
+    "exHit": "pendant",
+    "exVi": "Chúng tôi có mặt dây chuyền bạch kim rất đẹp này, hoặc bạn cũng có thể tặng cô ấy một chiếc mề đay."
   },
   {
     "word": "gemstone",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "a stone that can be used in jewelry",
     "vi": "đá quý",
-    "viDef": "loại đá dùng làm trang sức"
+    "viDef": "loại đá dùng làm trang sức",
+    "ex": "What is her favorite gemstone?",
+    "exHit": "gemstone",
+    "exVi": "Cô ấy thích loại đá quý nào nhất?"
   },
   {
     "word": "amethyst",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a clear purple or bluish-purple stone",
     "vi": "thạch anh tím",
-    "viDef": "loại đá trong màu tím hoặc tím lam"
+    "viDef": "loại đá trong màu tím hoặc tím lam",
+    "ex": "That stone is an amethyst.",
+    "exHit": "amethyst",
+    "exVi": "Viên đá đó là thạch anh tím."
   },
   {
     "word": "bracelet",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a piece of jewelry worn on the wrist",
     "vi": "vòng tay",
-    "viDef": "món trang sức đeo ở cổ tay"
+    "viDef": "món trang sức đeo ở cổ tay",
+    "ex": "Take a look at this bracelet.",
+    "exHit": "bracelet",
+    "exVi": "Hãy xem chiếc vòng tay này."
   },
   {
     "word": "18K",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "contain 75% gold",
     "vi": "vàng 18K",
-    "viDef": "chứa 75% vàng"
+    "viDef": "chứa 75% vàng",
+    "ex": "It's 18K rose-gold, studded with amethyst and blue topaz.",
+    "exHit": "18K",
+    "exVi": "Nó là vàng hồng 18K, đính thạch anh tím và topaz xanh."
   },
   {
     "word": "blue topaz",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a blue precious stone",
     "vi": "đá topaz xanh",
-    "viDef": "loại đá quý màu xanh"
+    "viDef": "loại đá quý màu xanh",
+    "ex": "It's 18K rose-gold, studded with amethyst and blue topaz.",
+    "exHit": "blue topaz",
+    "exVi": "Nó là vàng hồng 18K, đính thạch anh tím và topaz xanh."
   },
   {
     "word": "platinum",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a heavy, silver-colored metal",
     "vi": "bạch kim",
-    "viDef": "kim loại nặng màu bạc"
+    "viDef": "kim loại nặng màu bạc",
+    "ex": "We have this beautiful platinum pendant, or you could also get her a locket.",
+    "exHit": "platinum",
+    "exVi": "Chúng tôi có mặt dây chuyền bạch kim rất đẹp này, hoặc bạn cũng có thể tặng cô ấy một chiếc mề đay."
   },
   {
     "word": "locket",
@@ -85,7 +115,10 @@
     "type": "",
     "def": "A small ornamental case",
     "vi": "mặt hộp nhỏ",
-    "viDef": "chiếc hộp trang trí nhỏ"
+    "viDef": "chiếc hộp trang trí nhỏ",
+    "ex": "We have this beautiful platinum pendant, or you could also get her a locket.",
+    "exHit": "locket",
+    "exVi": "Chúng tôi có mặt dây chuyền bạch kim rất đẹp này, hoặc bạn cũng có thể tặng cô ấy một chiếc mề đay."
   },
   {
     "word": "pop the question",
@@ -93,7 +126,10 @@
     "type": "",
     "def": "ask a big question (proposal)",
     "vi": "ngỏ lời cưới",
-    "viDef": "đặt câu hỏi lớn, tức lời cầu hôn"
+    "viDef": "đặt câu hỏi lớn, tức lời cầu hôn",
+    "ex": "I'm going to pop the question!",
+    "exHit": "pop the question",
+    "exVi": "Tôi sắp cầu hôn đây!"
   },
   {
     "word": "bling-bling",
@@ -101,7 +137,10 @@
     "type": "",
     "def": "slang: a term used to describe shiny jewelry, usually with a lot of diamonds",
     "vi": "trang sức lấp lánh",
-    "viDef": "tiếng lóng chỉ đồ trang sức sáng loáng, thường nhiều kim cương"
+    "viDef": "tiếng lóng chỉ đồ trang sức sáng loáng, thường nhiều kim cương",
+    "ex": "She wore so much bling-bling that everyone stared at her.",
+    "exHit": "bling-bling",
+    "exVi": "Cô ấy đeo nhiều đồ lấp lánh đến mức ai cũng nhìn."
   },
   {
     "word": "carat",
@@ -109,7 +148,10 @@
     "type": "",
     "def": "a unit of weight in gemstones",
     "vi": "carat",
-    "viDef": "đơn vị đo khối lượng của đá quý"
+    "viDef": "đơn vị đo khối lượng của đá quý",
+    "ex": "The diamond in her ring is two carats.",
+    "exHit": "carats",
+    "exVi": "Viên kim cương trên nhẫn của cô ấy nặng hai carat."
   },
   {
     "word": "flashy",
@@ -117,7 +159,10 @@
     "type": "",
     "def": "eye-catching, shiny and brilliant; ostentatious, attention-grabbing but not classy",
     "vi": "lòe loẹt",
-    "viDef": "bắt mắt, sáng chói; khoe khoang, hút mắt nhưng thiếu sang"
+    "viDef": "bắt mắt, sáng chói; khoe khoang, hút mắt nhưng thiếu sang",
+    "ex": "That flashy gold watch is too much for me.",
+    "exHit": "flashy",
+    "exVi": "Chiếc đồng hồ vàng lòe loẹt đó quá lố đối với tôi."
   },
   {
     "word": "show-stopper",
@@ -125,7 +170,10 @@
     "type": "",
     "def": "something that is so interesting as to figuratively \"stop the show\"",
     "vi": "món hút hết ánh mắt",
-    "viDef": "thứ hay tới mức khiến cả buổi diễn như phải dừng lại"
+    "viDef": "thứ hay tới mức khiến cả buổi diễn như phải dừng lại",
+    "ex": "Her necklace was the show-stopper at the party.",
+    "exHit": "show-stopper",
+    "exVi": "Chiếc vòng cổ của cô ấy là tâm điểm gây chú ý tại bữa tiệc."
   },
   {
     "word": "gold-digger",
@@ -133,6 +181,9 @@
     "type": "",
     "def": "someone who marries for money",
     "vi": "kẻ đào mỏ",
-    "viDef": "người cưới vì tiền"
+    "viDef": "người cưới vì tiền",
+    "ex": "He thinks she is a gold-digger because she only dates rich men.",
+    "exHit": "gold-digger",
+    "exVi": "Anh ấy nghĩ cô ta là kẻ đào mỏ vì cô chỉ hẹn hò với đàn ông giàu."
   }
 ]

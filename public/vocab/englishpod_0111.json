@@ -5,7 +5,10 @@
     "type": "common noun, plural",
     "def": "an enthusiastic admirer or follower; a fan.",
     "vi": "tín đồ",
-    "viDef": "người say mê, hâm mộ nhiệt thành"
+    "viDef": "người say mê, hâm mộ nhiệt thành",
+    "ex": "Good morning golf aficionados!",
+    "exHit": "aficionados",
+    "exVi": "Chào buổi sáng các tín đồ golf!"
   },
   {
     "word": "main man",
@@ -13,7 +16,10 @@
     "type": "phrase",
     "def": "my right hand man, my important helper",
     "vi": "cánh tay phải",
-    "viDef": "người trợ thủ quan trọng của tôi"
+    "viDef": "người trợ thủ quan trọng của tôi",
+    "ex": "My name is Rick Fields, and you guessed it, I am here with my main man, Bob Copeland.",
+    "exHit": "main man",
+    "exVi": "Tên tôi là Rick Fields, và đúng như bạn đoán, tôi đang ở đây cùng người bạn đắc lực Bob Copeland."
   },
   {
     "word": "cash",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "money in the form of bills or coins",
     "vi": "tiền mặt",
-    "viDef": "tiền giấy hoặc tiền xu"
+    "viDef": "tiền giấy hoặc tiền xu",
+    "ex": "Whoa, that's a lot of cash!",
+    "exHit": "cash",
+    "exVi": "Chà, nhiều tiền mặt quá!"
   },
   {
     "word": "par",
@@ -29,7 +38,10 @@
     "type": "common noun, singular",
     "def": "the number of strokes considered necessary to complete",
     "vi": "par, chuẩn gậy",
-    "viDef": "số gậy được coi là cần để hoàn thành lỗ"
+    "viDef": "số gậy được coi là cần để hoàn thành lỗ",
+    "ex": "On the seventh hole he got a bogey and before that he barely made par.",
+    "exHit": "par",
+    "exVi": "Ở lỗ thứ bảy anh ấy bị bogey, và trước đó anh ấy vừa đủ đạt par."
   },
   {
     "word": "hazard",
@@ -37,7 +49,10 @@
     "type": "common noun, singular",
     "def": "an obstacle, such as some water, found on a golf course",
     "vi": "chướng ngại",
-    "viDef": "vật cản trên sân golf, chẳng hạn hồ nước"
+    "viDef": "vật cản trên sân golf, chẳng hạn hồ nước",
+    "ex": "It's a par four, and has some very difficult hazards which many golfers find difficult to avoid.",
+    "exHit": "hazards",
+    "exVi": "Đây là lỗ par bốn, và có những chướng ngại rất khó mà nhiều người chơi thấy khó tránh."
   },
   {
     "word": "hole in one",
@@ -45,7 +60,10 @@
     "type": "common noun, singular",
     "def": "using only one shot to put the ball in the hole",
     "vi": "đánh một gậy vào lỗ",
-    "viDef": "chỉ một cú là bóng vào lỗ"
+    "viDef": "chỉ một cú là bóng vào lỗ",
+    "ex": "Although, I did see Jack Nicklaus hit a hole in one on this very same hole!",
+    "exHit": "hole in one",
+    "exVi": "Dù vậy, tôi từng thấy Jack Nicklaus đánh một cú hole in one ngay ở lỗ này!"
   },
   {
     "word": "tee off",
@@ -53,7 +71,10 @@
     "type": "verb",
     "def": "hit the ball for the first time on a hole",
     "vi": "phát bóng",
-    "viDef": "đánh cú đầu tiên ở một lỗ"
+    "viDef": "đánh cú đầu tiên ở một lỗ",
+    "ex": "Tiger Woods is about to tee off, and let's see if he has the same luck as Jack.",
+    "exHit": "tee off",
+    "exVi": "Tiger Woods sắp phát bóng, hãy xem anh ấy có may mắn như Jack không."
   },
   {
     "word": "caddie",
@@ -61,7 +82,10 @@
     "type": "common noun, singular",
     "def": "person who carries the golf clubs and gives advice",
     "vi": "người phục vụ sân golf",
-    "viDef": "người mang gậy và cho lời khuyên"
+    "viDef": "người mang gậy và cho lời khuyên",
+    "ex": "Tiger is asking his caddie for his driver and, he seems to be very nervous.",
+    "exHit": "caddie",
+    "exVi": "Tiger đang hỏi caddie của anh ấy lấy gậy driver, và anh ấy có vẻ rất lo lắng."
   },
   {
     "word": "driver",
@@ -69,7 +93,10 @@
     "type": "common noun, singular",
     "def": "the club you use to hit the ball long distances",
     "vi": "gậy phát xa",
-    "viDef": "gậy dùng để đánh bóng đi thật xa"
+    "viDef": "gậy dùng để đánh bóng đi thật xa",
+    "ex": "Tiger is asking his caddie for his driver and, he seems to be very nervous.",
+    "exHit": "driver",
+    "exVi": "Tiger đang hỏi caddie của anh ấy lấy gậy driver, và anh ấy có vẻ rất lo lắng."
   },
   {
     "word": "swing",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "the action of hitting the golf ball",
     "vi": "cú vung gậy",
-    "viDef": "động tác đánh bóng golf"
+    "viDef": "động tác đánh bóng golf",
+    "ex": "Not a good swing at all!",
+    "exHit": "swing",
+    "exVi": "Cú đánh không tốt chút nào!"
   },
   {
     "word": "not (someone's) day",
@@ -85,7 +115,10 @@
     "type": "phrase",
     "def": "not a good day for that person",
     "vi": "bữa nay không phải ngày của mình",
-    "viDef": "hôm nay không suôn sẻ với người đó"
+    "viDef": "hôm nay không suôn sẻ với người đó",
+    "ex": "It's definitely not his day today.",
+    "exHit": "not his day",
+    "exVi": "Hôm nay chắc chắn không phải ngày của anh ấy."
   },
   {
     "word": "bogey",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "score that is one higher than it should be in golf",
     "vi": "bogey",
-    "viDef": "điểm cao hơn chuẩn một gậy"
+    "viDef": "điểm cao hơn chuẩn một gậy",
+    "ex": "On the seventh hole he got a bogey and before that he barely made par.",
+    "exHit": "bogey",
+    "exVi": "Ở lỗ thứ bảy anh ấy bị bogey, và trước đó anh ấy vừa đủ đạt par."
   },
   {
     "word": "make par",
@@ -101,7 +137,10 @@
     "type": "phrase",
     "def": "get the score you should for a certain hole",
     "vi": "đạt chuẩn par",
-    "viDef": "đánh đúng số gậy chuẩn cho lỗ đó"
+    "viDef": "đánh đúng số gậy chuẩn cho lỗ đó",
+    "ex": "If I make par on this hole, I will win the game.",
+    "exHit": "make par",
+    "exVi": "Nếu tôi đạt par ở lỗ này, tôi sẽ thắng ván đấu."
   },
   {
     "word": "birdie",
@@ -109,7 +148,10 @@
     "type": "common noun, singular",
     "def": "one point lower than the score you should get",
     "vi": "birdie",
-    "viDef": "ít hơn chuẩn một gậy"
+    "viDef": "ít hơn chuẩn một gậy",
+    "ex": "He will definitely not get a birdie on this shot.",
+    "exHit": "birdie",
+    "exVi": "Anh ấy chắc chắn sẽ không đạt birdie ở cú đánh này."
   },
   {
     "word": "shot",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "the action of hitting the ball",
     "vi": "cú đánh",
-    "viDef": "động tác đánh bóng"
+    "viDef": "động tác đánh bóng",
+    "ex": "He will definitely not get a birdie on this shot.",
+    "exHit": "shot",
+    "exVi": "Anh ấy chắc chắn sẽ không đạt birdie ở cú đánh này."
   },
   {
     "word": "hard time",
@@ -125,7 +170,10 @@
     "type": "phrase",
     "def": "a difficult time doing something; difficulty",
     "vi": "lúc chật vật",
-    "viDef": "giai đoạn làm việc gì rất khó"
+    "viDef": "giai đoạn làm việc gì rất khó",
+    "ex": "He is having a hard time finding it and even his caddie has climbed a tree to try and spot it.",
+    "exHit": "hard time",
+    "exVi": "Anh ấy đang gặp khó khăn khi tìm quả bóng, và ngay cả caddie cũng đã trèo lên cây để cố tìm."
   },
   {
     "word": "putt",
@@ -133,7 +181,10 @@
     "type": "principle verb, present simple",
     "def": "light golf stroke made on the putting green in an effort to place the ball into the hole.",
     "vi": "cú gạt bóng",
-    "viDef": "cú đánh nhẹ trên thảm cỏ quanh lỗ để đưa bóng vào"
+    "viDef": "cú đánh nhẹ trên thảm cỏ quanh lỗ để đưa bóng vào",
+    "ex": "He missed the putt and lost the tournament.",
+    "exHit": "putt",
+    "exVi": "Anh ấy đánh trượt cú putt và thua giải đấu."
   },
   {
     "word": "green",
@@ -141,7 +192,10 @@
     "type": "common noun, singular",
     "def": "an area of short cut grass around the hole on a golf course",
     "vi": "thảm cỏ quanh lỗ",
-    "viDef": "vùng cỏ cắt ngắn bao quanh lỗ golf"
+    "viDef": "vùng cỏ cắt ngắn bao quanh lỗ golf",
+    "ex": "My ball landed on the green, only two feet from the hole.",
+    "exHit": "green",
+    "exVi": "Bóng của tôi rơi trên green, chỉ cách lỗ hai bộ."
   },
   {
     "word": "break",
@@ -149,7 +203,10 @@
     "type": "principle verb, present simple",
     "def": "the action of a ball moving away from it's straight path",
     "vi": "độ lệch đường bóng",
-    "viDef": "việc bóng đi chệch khỏi đường thẳng"
+    "viDef": "việc bóng đi chệch khỏi đường thẳng",
+    "ex": "Watch the break on this putt, it curves to the left.",
+    "exHit": "break",
+    "exVi": "Hãy để ý độ lệch của cú putt này, nó cong sang trái."
   },
   {
     "word": "sand trap",
@@ -157,7 +214,10 @@
     "type": "common noun, singular",
     "def": "a hazard on a golf course consisting of a depression partly filled with sand.",
     "vi": "hố cát",
-    "viDef": "chướng ngại là chỗ lõm có cát trên sân golf"
+    "viDef": "chướng ngại là chỗ lõm có cát trên sân golf",
+    "ex": "His ball rolled into a sand trap near the green.",
+    "exHit": "sand trap",
+    "exVi": "Bóng của anh ấy lăn vào bẫy cát gần green."
   },
   {
     "word": "iron",
@@ -165,6 +225,9 @@
     "type": "common noun, singular",
     "def": "golf a club with an angled metal head",
     "vi": "gậy sắt",
-    "viDef": "gậy golf có đầu kim loại nghiêng"
+    "viDef": "gậy golf có đầu kim loại nghiêng",
+    "ex": "Use a seven iron for this shot, Tiger.",
+    "exHit": "iron",
+    "exVi": "Hãy dùng gậy sắt số bảy cho cú này, Tiger."
   }
 ]

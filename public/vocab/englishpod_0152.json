@@ -5,7 +5,10 @@
     "type": "",
     "def": "tell sb to stop",
     "vi": "thôi ngay đi",
-    "viDef": "câu bảo ai dừng lại"
+    "viDef": "câu bảo ai dừng lại",
+    "ex": "Hey, Mary, can you cut that out?",
+    "exHit": "cut that out",
+    "exVi": "Này Mary, bạn thôi đi được không?"
   },
   {
     "word": "You 've got to be kidding me",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "You must be making jokes with me",
     "vi": "anh nói giỡn chắc",
-    "viDef": "chắc anh đang đùa với tôi"
+    "viDef": "chắc anh đang đùa với tôi",
+    "ex": "You 've got to be kidding me!",
+    "exHit": "You 've got to be kidding me",
+    "exVi": "Bạn đùa tôi đấy à!"
   },
   {
     "word": "shoot the breeze",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "chat",
     "vi": "tán chuyện",
-    "viDef": "nói chuyện tào lao"
+    "viDef": "nói chuyện tào lao",
+    "ex": "You're complaining about me talking on the phone when you go out for a cigarette break ten times a day to shoot the breeze?",
+    "exHit": "shoot the breeze",
+    "exVi": "Bạn phàn nàn tôi nói chuyện điện thoại, trong khi bạn một ngày ra ngoài hút thuốc mười lần để tán gẫu sao?"
   },
   {
     "word": "accumulated",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "gathered",
     "vi": "dồn lại",
-    "viDef": "tích tụ dần"
+    "viDef": "tích tụ dần",
+    "ex": "Look, we have a lot of accumulated anger from working in these conditions, and it's probably okay to let off steam once in a while But, it's probably not a good idea to keep it up I'm willing to forgive and forget and if you are.",
+    "exHit": "accumulated",
+    "exVi": "Này, chúng ta dồn nén rất nhiều bực tức do làm việc trong điều kiện thế này, thỉnh thoảng xả hơi cũng không sao, nhưng cứ tiếp tục thì không hay, tôi sẵn lòng bỏ qua mọi chuyện nếu bạn cũng vậy."
   },
   {
     "word": "let off steam",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "to release excess energy, emotion etc",
     "vi": "xả bớt hơi",
-    "viDef": "trút ra chỗ năng lượng hoặc cảm xúc dư"
+    "viDef": "trút ra chỗ năng lượng hoặc cảm xúc dư",
+    "ex": "Look, we have a lot of accumulated anger from working in these conditions, and it's probably okay to let off steam once in a while But, it's probably not a good idea to keep it up I'm willing to forgive and forget and if you are.",
+    "exHit": "let off steam",
+    "exVi": "Này, chúng ta dồn nén rất nhiều bực tức do làm việc trong điều kiện thế này, thỉnh thoảng xả hơi cũng không sao, nhưng cứ tiếp tục thì không hay, tôi sẵn lòng bỏ qua mọi chuyện nếu bạn cũng vậy."
   },
   {
     "word": "keep up",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "carry on",
     "vi": "cứ tiếp tục",
-    "viDef": "làm tiếp"
+    "viDef": "làm tiếp",
+    "ex": "Look, we have a lot of accumulated anger from working in these conditions, and it's probably okay to let off steam once in a while But, it's probably not a good idea to keep it up I'm willing to forgive and forget and if you are.",
+    "exHit": "keep it up",
+    "exVi": "Này, chúng ta dồn nén rất nhiều bực tức do làm việc trong điều kiện thế này, thỉnh thoảng xả hơi cũng không sao, nhưng cứ tiếp tục thì không hay, tôi sẵn lòng bỏ qua mọi chuyện nếu bạn cũng vậy."
   },
   {
     "word": "forgive and forget",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "stop feeling anger and decide to let it go",
     "vi": "tha rồi cho qua",
-    "viDef": "thôi giận và quyết định bỏ qua"
+    "viDef": "thôi giận và quyết định bỏ qua",
+    "ex": "Look, we have a lot of accumulated anger from working in these conditions, and it's probably okay to let off steam once in a while But, it's probably not a good idea to keep it up I'm willing to forgive and forget and if you are.",
+    "exHit": "forgive and forget",
+    "exVi": "Này, chúng ta dồn nén rất nhiều bực tức do làm việc trong điều kiện thế này, thỉnh thoảng xả hơi cũng không sao, nhưng cứ tiếp tục thì không hay, tôi sẵn lòng bỏ qua mọi chuyện nếu bạn cũng vậy."
   },
   {
     "word": "call a truce",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "stop fighting",
     "vi": "ngưng chiến",
-    "viDef": "thôi đánh nhau"
+    "viDef": "thôi đánh nhau",
+    "ex": "Let's call a truce.",
+    "exHit": "call a truce",
+    "exVi": "Chúng ta đình chiến đi."
   },
   {
     "word": "considerate",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "thinking about the feelings of other people",
     "vi": "biết nghĩ cho người khác",
-    "viDef": "để tâm đến cảm xúc của người ta"
+    "viDef": "để tâm đến cảm xúc của người ta",
+    "ex": "I'll try to more considerate and to keep the noise down",
+    "exHit": "considerate",
+    "exVi": "Tôi sẽ cố gắng biết quan tâm đến người khác hơn và giữ yên lặng."
   },
   {
     "word": "slurp",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "eat or drink (something) noisily",
     "vi": "ăn uống chèm chẹp",
-    "viDef": "ăn hoặc uống phát ra tiếng"
+    "viDef": "ăn hoặc uống phát ra tiếng",
+    "ex": "I don't slurp my coffee.",
+    "exHit": "slurp",
+    "exVi": "Tôi không húp xì xụp cà phê."
   }
 ]

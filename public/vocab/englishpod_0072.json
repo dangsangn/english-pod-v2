@@ -5,7 +5,10 @@
     "type": "Adjective",
     "def": "worried; thinking about something else",
     "vi": "tâm trí để đâu",
-    "viDef": "đang lo hoặc nghĩ chuyện khác"
+    "viDef": "đang lo hoặc nghĩ chuyện khác",
+    "ex": "You seem a bit preoccupied.",
+    "exHit": "preoccupied",
+    "exVi": "Trông bạn có vẻ hơi bận tâm."
   },
   {
     "word": "direct",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "connected to, related to",
     "vi": "trực tiếp",
-    "viDef": "có liên quan, gắn tới"
+    "viDef": "có liên quan, gắn tới",
+    "ex": "The company has made some decisions which will have a direct impact on your employment.",
+    "exHit": "direct",
+    "exVi": "Công ty đã đưa ra một số quyết định sẽ tác động trực tiếp đến công việc của bạn."
   },
   {
     "word": "impact",
@@ -21,7 +27,10 @@
     "type": "common noun, singular",
     "def": "strong influence or effect",
     "vi": "tác động mạnh",
-    "viDef": "ảnh hưởng lớn"
+    "viDef": "ảnh hưởng lớn",
+    "ex": "The company has made some decisions which will have a direct impact on your employment.",
+    "exHit": "impact",
+    "exVi": "Công ty đã đưa ra một số quyết định sẽ tác động trực tiếp đến công việc của bạn."
   },
   {
     "word": "beat around the bush",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "avoid saying something by talking about other things",
     "vi": "nói vòng vo",
-    "viDef": "tránh vào thẳng vấn đề bằng cách nói chuyện khác"
+    "viDef": "tránh vào thẳng vấn đề bằng cách nói chuyện khác",
+    "ex": "I don't want to beat around the bush so I'm just gonna come out with it.",
+    "exHit": "beat around the bush",
+    "exVi": "Tôi không muốn nói vòng vo nên tôi sẽ nói thẳng luôn."
   },
   {
     "word": "come out with it",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "say something directly",
     "vi": "nói thẳng ra đi",
-    "viDef": "nói ra cho rõ"
+    "viDef": "nói ra cho rõ",
+    "ex": "I don't want to beat around the bush so I'm just gonna come out with it.",
+    "exHit": "come out with it",
+    "exVi": "Tôi không muốn nói vòng vo nên tôi sẽ nói thẳng luôn."
   },
   {
     "word": "let (someone) go",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "have someone fired or dismissed",
     "vi": "cho thôi việc",
-    "viDef": "sa thải ai"
+    "viDef": "sa thải ai",
+    "ex": "We are going to have to let you go.",
+    "exHit": "let you go",
+    "exVi": "Chúng tôi sẽ phải cho bạn nghỉ việc."
   },
   {
     "word": "to he honest",
@@ -53,7 +71,10 @@
     "type": "phrase",
     "def": "used to say something directly",
     "vi": "nói thật lòng",
-    "viDef": "câu mở đầu khi nói thẳng"
+    "viDef": "câu mở đầu khi nói thẳng",
+    "ex": "To be honest, I don't like this plan very much.",
+    "exHit": "To be honest",
+    "exVi": "Thành thật mà nói, tôi không thích kế hoạch này lắm."
   },
   {
     "word": "resent",
@@ -61,7 +82,10 @@
     "type": "phrase",
     "def": "find something very insulting",
     "vi": "thấy bị xúc phạm",
-    "viDef": "cho rằng điều đó rất khinh mình"
+    "viDef": "cho rằng điều đó rất khinh mình",
+    "ex": "I resent that!",
+    "exHit": "resent",
+    "exVi": "Tôi thấy câu đó thật xúc phạm!"
   },
   {
     "word": "call in sick",
@@ -69,7 +93,10 @@
     "type": "verb",
     "def": "call the office to say you can't come to work because you're sick",
     "vi": "gọi xin nghỉ bệnh",
-    "viDef": "gọi vào công ty báo nghỉ vì ốm"
+    "viDef": "gọi vào công ty báo nghỉ vì ốm",
+    "ex": "Anthony, you were caught making international calls from the office phone, you called in sick in eight times this month and you smell like alcohol!",
+    "exHit": "called in sick",
+    "exVi": "Anthony, bạn bị phát hiện gọi điện quốc tế từ điện thoại văn phòng, tháng này bạn đã gọi báo ốm tám lần và người bạn nồng nặc mùi rượu!"
   },
   {
     "word": "severance package",
@@ -77,7 +104,10 @@
     "type": "phrase",
     "def": "money or benefits you give someone when they are fired",
     "vi": "trợ cấp thôi việc",
-    "viDef": "tiền hoặc quyền lợi trả cho người bị sa thải"
+    "viDef": "tiền hoặc quyền lợi trả cho người bị sa thải",
+    "ex": "The company offered him a generous severance package.",
+    "exHit": "severance package",
+    "exVi": "Công ty đã đề nghị cho anh ấy một gói trợ cấp thôi việc hào phóng."
   },
   {
     "word": "lay off",
@@ -85,7 +115,10 @@
     "type": "verb",
     "def": "end an employment because of business reasons, not performance",
     "vi": "cắt giảm nhân sự",
-    "viDef": "cho thôi việc vì lý do kinh doanh chứ không vì năng lực"
+    "viDef": "cho thôi việc vì lý do kinh doanh chứ không vì năng lực",
+    "ex": "The company had to lay off fifty workers last month.",
+    "exHit": "lay off",
+    "exVi": "Tháng trước công ty buộc phải cho năm mươi công nhân nghỉ việc."
   },
   {
     "word": "layoffs",
@@ -93,7 +126,10 @@
     "type": "common noun, plural",
     "def": "the action of ending employment because of business reasons",
     "vi": "đợt sa thải",
-    "viDef": "việc chấm dứt hợp đồng vì lý do kinh doanh"
+    "viDef": "việc chấm dứt hợp đồng vì lý do kinh doanh",
+    "ex": "There were big layoffs at the factory this year.",
+    "exHit": "layoffs",
+    "exVi": "Năm nay nhà máy đã cắt giảm nhân sự quy mô lớn."
   },
   {
     "word": "dismissal letter",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "a letter written to tell an employee his is fired",
     "vi": "thư sa thải",
-    "viDef": "thư thông báo cho nhân viên biết bị cho thôi việc"
+    "viDef": "thư thông báo cho nhân viên biết bị cho thôi việc",
+    "ex": "He opened the dismissal letter and couldn't believe his eyes.",
+    "exHit": "dismissal letter",
+    "exVi": "Anh ấy mở thư sa thải ra và không thể tin vào mắt mình."
   },
   {
     "word": "terminate",
@@ -109,6 +148,9 @@
     "type": "verb",
     "def": "end the employment of a person; fire",
     "vi": "chấm dứt hợp đồng",
-    "viDef": "thôi tuyển dụng một người; sa thải"
+    "viDef": "thôi tuyển dụng một người; sa thải",
+    "ex": "They decided to terminate his contract after the mistake.",
+    "exHit": "terminate",
+    "exVi": "Họ quyết định chấm dứt hợp đồng với anh ấy sau sai lầm đó."
   }
 ]

@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "appears or is",
     "vi": "có vẻ như",
-    "viDef": "trông như, dường như là"
+    "viDef": "trông như, dường như là",
+    "ex": "What seems to be the problem?",
+    "exHit": "seems to be",
+    "exVi": "Có vấn đề gì vậy?"
   },
   {
     "word": "struggle",
@@ -13,7 +16,10 @@
     "type": "verb",
     "def": "try very hard",
     "vi": "vật lộn",
-    "viDef": "cố hết sức"
+    "viDef": "cố hết sức",
+    "ex": "I'm getting headaches, and I really struggle to see things that are far away.",
+    "exHit": "struggle",
+    "exVi": "Tôi bị đau đầu, và tôi thật sự rất khó nhìn những thứ ở xa."
   },
   {
     "word": "20/20 vision",
@@ -21,7 +27,10 @@
     "type": "phrase",
     "def": "perfect eyesight",
     "vi": "thị lực hoàn hảo",
-    "viDef": "mắt nhìn rõ tuyệt đối"
+    "viDef": "mắt nhìn rõ tuyệt đối",
+    "ex": "Her eyes are perfect, and she has 20/20 vision.",
+    "exHit": "20/20 vision",
+    "exVi": "Mắt cô ấy rất tốt, thị lực của cô ấy là 20/20."
   },
   {
     "word": "make out",
@@ -29,7 +38,10 @@
     "type": "verb",
     "def": "see",
     "vi": "nhìn ra",
-    "viDef": "thấy được"
+    "viDef": "thấy được",
+    "ex": "Mmm… X, E, R, 3, a question mark, and I can't quite make out the other symbol but I think it's the peace sign.",
+    "exHit": "make out",
+    "exVi": "Ừm… X, E, R, 3, một dấu chấm hỏi, và tôi không nhìn rõ được ký hiệu còn lại nhưng tôi nghĩ đó là dấu hiệu hòa bình."
   },
   {
     "word": "far sighted",
@@ -37,7 +49,10 @@
     "type": "phrase",
     "def": "see far-away things more clearly than things nearby",
     "vi": "viễn thị",
-    "viDef": "nhìn xa rõ hơn nhìn gần"
+    "viDef": "nhìn xa rõ hơn nhìn gần",
+    "ex": "My grandfather is far sighted, so he needs glasses for reading.",
+    "exHit": "far sighted",
+    "exVi": "Ông tôi bị viễn thị nên cần kính để đọc sách."
   },
   {
     "word": "as blind as a bat",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "have really poor vision",
     "vi": "mù dở",
-    "viDef": "mắt kém lắm"
+    "viDef": "mắt kém lắm",
+    "ex": "You're as blind as a bat!",
+    "exHit": "as blind as a bat",
+    "exVi": "Bạn mù như dơi vậy!"
   },
   {
     "word": "vision",
@@ -53,7 +71,10 @@
     "type": "common noun, singular",
     "def": "ability to see things",
     "vi": "thị lực",
-    "viDef": "khả năng nhìn"
+    "viDef": "khả năng nhìn",
+    "ex": "But I have always had 20/20 vision.",
+    "exHit": "vision",
+    "exVi": "Nhưng tôi luôn có thị lực 20/20."
   },
   {
     "word": "blurry",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "not clear",
     "vi": "mờ nhòe",
-    "viDef": "không rõ nét"
+    "viDef": "không rõ nét",
+    "ex": "Yeah, I know, my vision is really blurry at times.",
+    "exHit": "blurry",
+    "exVi": "Vâng, tôi biết, thỉnh thoảng mắt tôi rất mờ."
   },
   {
     "word": "pick out",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "choose",
     "vi": "chọn ra",
-    "viDef": "lựa"
+    "viDef": "lựa",
+    "ex": "Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.",
+    "exHit": "pick out",
+    "exVi": "Được rồi, vậy mời bạn sang phòng bên kia chọn gọng kính trong lúc tôi ghi đơn kính."
   },
   {
     "word": "prescription",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a message written by a doctor that tells people what medicine to take",
     "vi": "đơn thuốc",
-    "viDef": "giấy bác sĩ ghi loại thuốc cần dùng"
+    "viDef": "giấy bác sĩ ghi loại thuốc cần dùng",
+    "ex": "Ok, then, head on over to the other room and pick out some frames while I fill out your prescription.",
+    "exHit": "prescription",
+    "exVi": "Được rồi, vậy mời bạn sang phòng bên kia chọn gọng kính trong lúc tôi ghi đơn kính."
   },
   {
     "word": "check-up",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "regular examination by a doctor to make sure a person is healthy",
     "vi": "khám định kỳ",
-    "viDef": "lần kiểm tra thường kỳ của bác sĩ để chắc rằng bạn khỏe"
+    "viDef": "lần kiểm tra thường kỳ của bác sĩ để chắc rằng bạn khỏe",
+    "ex": "I have a check-up with my doctor next Tuesday morning.",
+    "exHit": "check-up",
+    "exVi": "Sáng thứ Ba tuần sau tôi có lịch khám sức khỏe định kỳ với bác sĩ."
   },
   {
     "word": "short sighted",
@@ -93,7 +126,10 @@
     "type": "Adjective",
     "def": "unable to see things far away (AmE)",
     "vi": "cận thị",
-    "viDef": "không nhìn rõ vật ở xa (cách nói Anh-Mỹ)"
+    "viDef": "không nhìn rõ vật ở xa (cách nói Anh-Mỹ)",
+    "ex": "I'm short sighted, so I can't read the signs from far away.",
+    "exHit": "short sighted",
+    "exVi": "Tôi bị cận thị nên không đọc được các biển báo ở xa."
   },
   {
     "word": "nearsighted",
@@ -101,7 +137,10 @@
     "type": "Adjective",
     "def": "unable to see things far away (BrE)",
     "vi": "cận thị",
-    "viDef": "không nhìn rõ vật ở xa (cách nói Anh-Anh)"
+    "viDef": "không nhìn rõ vật ở xa (cách nói Anh-Anh)",
+    "ex": "Her son is nearsighted and has worn glasses since he was six.",
+    "exHit": "nearsighted",
+    "exVi": "Con trai cô ấy bị cận và đeo kính từ năm sáu tuổi."
   },
   {
     "word": "contacts",
@@ -109,7 +148,10 @@
     "type": "common noun, plural",
     "def": "lenses you wear directly on your eyes to help you see",
     "vi": "kính áp tròng",
-    "viDef": "thấu kính đeo trực tiếp lên mắt để nhìn rõ"
+    "viDef": "thấu kính đeo trực tiếp lên mắt để nhìn rõ",
+    "ex": "I'm trying contacts for the first time, but they feel strange.",
+    "exHit": "contacts",
+    "exVi": "Tôi lần đầu thử kính áp tròng nhưng thấy nó hơi lạ."
   },
   {
     "word": "optometrist",
@@ -117,7 +159,10 @@
     "type": "common noun, singular",
     "def": "eye doctor",
     "vi": "bác sĩ nhãn khoa",
-    "viDef": "bác sĩ mắt"
+    "viDef": "bác sĩ mắt",
+    "ex": "The optometrist checked my eyes and said I needed new glasses.",
+    "exHit": "optometrist",
+    "exVi": "Bác sĩ đo mắt đã kiểm tra mắt tôi và nói tôi cần kính mới."
   },
   {
     "word": "prescribe",
@@ -125,7 +170,10 @@
     "type": "verb",
     "def": "officially tell someone to use a medicine or treatment",
     "vi": "kê đơn",
-    "viDef": "chính thức chỉ định ai đó dùng thuốc hoặc liệu pháp"
+    "viDef": "chính thức chỉ định ai đó dùng thuốc hoặc liệu pháp",
+    "ex": "The doctor will prescribe some eye drops for my dry eyes.",
+    "exHit": "prescribe",
+    "exVi": "Bác sĩ sẽ kê thuốc nhỏ mắt cho đôi mắt khô của tôi."
   },
   {
     "word": "lenses",
@@ -133,6 +181,9 @@
     "type": "common noun, plural",
     "def": "clear, curved piece of glass that helps people see better",
     "vi": "tròng kính",
-    "viDef": "miếng kính trong, cong giúp nhìn rõ hơn"
+    "viDef": "miếng kính trong, cong giúp nhìn rõ hơn",
+    "ex": "These lenses are thinner, so my glasses feel much lighter now.",
+    "exHit": "lenses",
+    "exVi": "Tròng kính này mỏng hơn nên kính của tôi nhẹ hơn nhiều."
   }
 ]

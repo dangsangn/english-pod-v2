@@ -5,7 +5,10 @@
     "type": "",
     "def": "important, needing immediate attention",
     "vi": "gấp",
-    "viDef": "quan trọng, cần xử ngay"
+    "viDef": "quan trọng, cần xử ngay",
+    "ex": "It's urgent.",
+    "exHit": "urgent",
+    "exVi": "Việc này gấp lắm."
   },
   {
     "word": "take one through",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "guide someone along the process",
     "vi": "hướng dẫn từng bước",
-    "viDef": "dẫn ai đi qua các bước"
+    "viDef": "dẫn ai đi qua các bước",
+    "ex": "Don't worry, I will take you through it step by step.",
+    "exHit": "take you through",
+    "exVi": "Đừng lo, tôi sẽ hướng dẫn bạn từng bước một."
   },
   {
     "word": "procedure",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "a series of actions",
     "vi": "quy trình",
-    "viDef": "chuỗi các việc phải làm"
+    "viDef": "chuỗi các việc phải làm",
+    "ex": "It's alright, I will take you through the procedure.",
+    "exHit": "procedure",
+    "exVi": "Không sao, tôi sẽ hướng dẫn bạn thủ tục."
   },
   {
     "word": "transaction",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "an occurrence in which money is transfered from one account to another",
     "vi": "giao dịch",
-    "viDef": "lần chuyển tiền từ tài khoản này sang tài khoản khác"
+    "viDef": "lần chuyển tiền từ tài khoản này sang tài khoản khác",
+    "ex": "It's a simple transaction, and we can process it today.",
+    "exHit": "transaction",
+    "exVi": "Đây là một giao dịch đơn giản, và chúng tôi có thể xử lý ngay hôm nay."
   },
   {
     "word": "overdue",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "not paid at an expected or required time, missing the deadline",
     "vi": "quá hạn",
-    "viDef": "chưa trả đúng lúc phải trả, đã trễ hạn"
+    "viDef": "chưa trả đúng lúc phải trả, đã trễ hạn",
+    "ex": "I didn't want the payment to be overdue.",
+    "exHit": "overdue",
+    "exVi": "Tôi không muốn khoản thanh toán bị quá hạn."
   },
   {
     "word": "vault",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "a large solid steel box used to keep money or valuables",
     "vi": "hầm két",
-    "viDef": "hộp thép lớn và chắc để giữ tiền hoặc vật giá trị"
+    "viDef": "hộp thép lớn và chắc để giữ tiền hoặc vật giá trị",
+    "ex": "The bank keeps all the cash in a huge vault in the basement.",
+    "exHit": "vault",
+    "exVi": "Ngân hàng cất toàn bộ tiền mặt trong một cái két sắt lớn dưới tầng hầm."
   },
   {
     "word": "ATM",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "Automatic Teller Machine",
     "vi": "máy ATM",
-    "viDef": "Automatic Teller Machine, máy rút tiền tự động"
+    "viDef": "Automatic Teller Machine, máy rút tiền tự động",
+    "ex": "I stopped at the ATM to get some cash before going into the restaurant.",
+    "exHit": "ATM",
+    "exVi": "Tôi ra cây ATM rút ít tiền trước khi vào quán."
   },
   {
     "word": "Letter of Credit",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a trade document used primarily in trade finance, which usually provides an irrevocable payment undertaking.",
     "vi": "thư tín dụng",
-    "viDef": "chứng từ dùng chủ yếu trong tài trợ thương mại, thường kèm cam kết trả tiền không thể hủy ngang"
+    "viDef": "chứng từ dùng chủ yếu trong tài trợ thương mại, thường kèm cam kết trả tiền không thể hủy ngang",
+    "ex": "The importer opened a Letter of Credit so the seller knew he would be paid.",
+    "exHit": "Letter of Credit",
+    "exVi": "Nhà nhập khẩu mở thư tín dụng để người bán yên tâm sẽ được trả tiền."
   },
   {
     "word": "travelers cheque",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a preprinted, fixed-amount cheque designed to allow the person signing it to make an unconditional payment to someone else",
     "vi": "chi phiếu du lịch",
-    "viDef": "tờ chi phiếu in trước với số tiền cố định, cho người ký được trả tiền vô điều kiện cho người khác"
+    "viDef": "tờ chi phiếu in trước với số tiền cố định, cho người ký được trả tiền vô điều kiện cho người khác",
+    "ex": "When he travels abroad, my father always carries travelers cheques to be safe.",
+    "exHit": "travelers cheques",
+    "exVi": "Khi đi du lịch nước ngoài, bố tôi luôn mang theo séc du lịch cho an toàn."
   },
   {
     "word": "withdrawal",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "removal from a place of deposit or investment",
     "vi": "việc rút ra",
-    "viDef": "việc lấy khỏi nơi gửi hoặc khoản đầu tư"
+    "viDef": "việc lấy khỏi nơi gửi hoặc khoản đầu tư",
+    "ex": "I made a withdrawal at the bank this morning.",
+    "exHit": "withdrawal",
+    "exVi": "Tôi đã rút tiền mặt ở ngân hàng sáng nay."
   }
 ]

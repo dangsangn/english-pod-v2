@@ -5,7 +5,10 @@
     "type": "",
     "def": "to take or have something temporarily",
     "vi": "mượn",
-    "viDef": "lấy hoặc giữ thứ gì tạm thời"
+    "viDef": "lấy hoặc giữ thứ gì tạm thời",
+    "ex": "Can I borrow five bucks?",
+    "exHit": "borrow",
+    "exVi": "Cho tôi mượn năm đô được không?"
   },
   {
     "word": "bucks",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "dollar (slang )",
     "vi": "đô",
-    "viDef": "đồng đô-la (tiếng lóng)"
+    "viDef": "đồng đô-la (tiếng lóng)",
+    "ex": "Can I borrow five bucks?",
+    "exHit": "bucks",
+    "exVi": "Cho tôi mượn năm đô được không?"
   },
   {
     "word": "lend",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "to give something to someone temporarily",
     "vi": "cho mượn",
-    "viDef": "đưa thứ gì cho ai dùng tạm"
+    "viDef": "đưa thứ gì cho ai dùng tạm",
+    "ex": "I promise if you lend me five dollars today, I will repay you in full next week.",
+    "exHit": "lend",
+    "exVi": "Tôi hứa nếu hôm nay bạn cho tôi vay năm đô la, tuần sau tôi sẽ trả đủ."
   },
   {
     "word": "repay",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "pay back",
     "vi": "trả lại",
-    "viDef": "hoàn lại tiền"
+    "viDef": "hoàn lại tiền",
+    "ex": "I promise if you lend me five dollars today, I will repay you in full next week.",
+    "exHit": "repay",
+    "exVi": "Tôi hứa nếu hôm nay bạn cho tôi vay năm đô la, tuần sau tôi sẽ trả đủ."
   },
   {
     "word": "trust",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "confident expectation of something; hope.",
     "vi": "sự tin tưởng",
-    "viDef": "lòng trông đợi chắc chắn vào điều gì; niềm hy vọng"
+    "viDef": "lòng trông đợi chắc chắn vào điều gì; niềm hy vọng",
+    "ex": "I can't believe you don't trust me.",
+    "exHit": "trust",
+    "exVi": "Tôi không thể tin là bạn không tin tôi."
   },
   {
     "word": "collateral",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "security pledged for the payment of a loan",
     "vi": "tài sản thế chấp",
-    "viDef": "vật bảo đảm cho việc trả một khoản vay"
+    "viDef": "vật bảo đảm cho việc trả một khoản vay",
+    "ex": "Ok, but I'm taking your skateboard as collateral.",
+    "exHit": "collateral",
+    "exVi": "Được thôi, nhưng tôi sẽ giữ ván trượt của bạn làm tài sản thế chấp."
   },
   {
     "word": "barter",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "the act of exchanging goods for other goods",
     "vi": "đổi hàng",
-    "viDef": "việc trao hàng hóa này lấy hàng hóa khác"
+    "viDef": "việc trao hàng hóa này lấy hàng hóa khác",
+    "ex": "Without money, they used barter to get what they needed.",
+    "exHit": "barter",
+    "exVi": "Không có tiền, họ dùng cách trao đổi hàng hóa để có thứ mình cần."
   },
   {
     "word": "mooch",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "a person that is always asking to borrow money or food",
     "vi": "kẻ hay xin xỏ",
-    "viDef": "người lúc nào cũng hỏi mượn tiền hoặc xin đồ ăn"
+    "viDef": "người lúc nào cũng hỏi mượn tiền hoặc xin đồ ăn",
+    "ex": "Don't be a mooch, pay me back the money you owe.",
+    "exHit": "mooch",
+    "exVi": "Đừng có cứ đi xin xỏ, hãy trả lại tiền bạn nợ tôi đi."
   },
   {
     "word": "loan",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "Something lent for temporary use",
     "vi": "khoản vay",
-    "viDef": "thứ được cho mượn dùng tạm"
+    "viDef": "thứ được cho mượn dùng tạm",
+    "ex": "I took out a loan from the bank to buy a car.",
+    "exHit": "loan",
+    "exVi": "Tôi đã vay ngân hàng một khoản để mua xe."
   },
   {
     "word": "interest",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a percentage added to a loan as a fee for lending money",
     "vi": "tiền lãi",
-    "viDef": "phần trăm cộng vào khoản vay như phí cho việc cho vay"
+    "viDef": "phần trăm cộng vào khoản vay như phí cho việc cho vay",
+    "ex": "The bank charges ten percent interest on the loan.",
+    "exHit": "interest",
+    "exVi": "Ngân hàng tính lãi mười phần trăm cho khoản vay."
   },
   {
     "word": "past due",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "the status of a scheduled loan payment that has not been paid on time.",
     "vi": "quá hạn trả",
-    "viDef": "tình trạng một kỳ trả nợ đã đến hạn mà chưa được thanh toán"
+    "viDef": "tình trạng một kỳ trả nợ đã đến hạn mà chưa được thanh toán",
+    "ex": "Your payment is past due, so please pay it today.",
+    "exHit": "past due",
+    "exVi": "Khoản thanh toán của bạn đã quá hạn, vì vậy hãy trả nó trong hôm nay."
   }
 ]

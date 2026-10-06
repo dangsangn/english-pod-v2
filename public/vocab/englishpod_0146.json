@@ -5,7 +5,10 @@
     "type": "phrase",
     "def": "the rights people have",
     "vi": "quyền công dân",
-    "viDef": "các quyền mà con người có"
+    "viDef": "các quyền mà con người có",
+    "ex": "If they are going to focus on something, they should do it on civil rights.",
+    "exHit": "civil rights",
+    "exVi": "Nếu họ định tập trung vào điều gì đó, thì nên là quyền công dân."
   },
   {
     "word": "vulnerable",
@@ -13,7 +16,10 @@
     "type": "Adjective",
     "def": "easily hurt or harmed",
     "vi": "dễ tổn thương",
-    "viDef": "dễ bị hại"
+    "viDef": "dễ bị hại",
+    "ex": "Yes, but we can't deny that animals are vulnerable, defenseless, and are completely at the mercy of human beings.",
+    "exHit": "vulnerable",
+    "exVi": "Đúng, nhưng chúng ta không thể phủ nhận rằng động vật rất yếu ớt, không có khả năng tự vệ và hoàn toàn phụ thuộc vào con người."
   },
   {
     "word": "defenseless",
@@ -21,7 +27,10 @@
     "type": "Adjective",
     "def": "defenseless",
     "vi": "không tự vệ được",
-    "viDef": "chẳng có gì để chống đỡ"
+    "viDef": "chẳng có gì để chống đỡ",
+    "ex": "Yes, but we can't deny that animals are vulnerable, defenseless, and are completely at the mercy of human beings.",
+    "exHit": "defenseless",
+    "exVi": "Đúng, nhưng chúng ta không thể phủ nhận rằng động vật rất yếu ớt, không có khả năng tự vệ và hoàn toàn phụ thuộc vào con người."
   },
   {
     "word": "at the mercy of",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "in a position where you can be harmed",
     "vi": "phó mặc cho",
-    "viDef": "ở thế có thể bị hại"
+    "viDef": "ở thế có thể bị hại",
+    "ex": "Yes, but we can't deny that animals are vulnerable, defenseless, and are completely at the mercy of human beings.",
+    "exHit": "at the mercy of",
+    "exVi": "Đúng, nhưng chúng ta không thể phủ nhận rằng động vật rất yếu ớt, không có khả năng tự vệ và hoàn toàn phụ thuộc vào con người."
   },
   {
     "word": "transgression",
@@ -37,7 +49,10 @@
     "type": "common noun, plural",
     "def": "something that is not allowed",
     "vi": "sự vi phạm",
-    "viDef": "điều không được phép làm"
+    "viDef": "điều không được phép làm",
+    "ex": "I understand your point, but we continue to have transgressions against human rights.",
+    "exHit": "transgressions",
+    "exVi": "Tôi hiểu ý bạn, nhưng chúng ta vẫn còn những vi phạm nhân quyền."
   },
   {
     "word": "apples and oranges",
@@ -45,7 +60,10 @@
     "type": "phrase",
     "def": "an unfair comparison of two different things",
     "vi": "so trứng với đá",
-    "viDef": "phép so sánh không công bằng giữa hai thứ khác nhau"
+    "viDef": "phép so sánh không công bằng giữa hai thứ khác nhau",
+    "ex": "You can't compare apples and oranges; I believe that both topics are important and that we can't ignore them, the mistreatment of animals can cause a great environmental imbalance.",
+    "exHit": "apples and oranges",
+    "exVi": "Bạn không thể so sánh táo với cam; tôi tin cả hai vấn đề đều quan trọng và chúng ta không thể bỏ qua, vì việc ngược đãi động vật có thể gây mất cân bằng môi trường nghiêm trọng."
   },
   {
     "word": "poach",
@@ -53,7 +71,10 @@
     "type": "principle verb, present progressive",
     "def": "to illegally hunt protected animals",
     "vi": "săn trộm",
-    "viDef": "bắt trái phép các loài được bảo vệ"
+    "viDef": "bắt trái phép các loài được bảo vệ",
+    "ex": "I believe that governments should prohibit activities like poaching.",
+    "exHit": "poaching",
+    "exVi": "Tôi tin rằng chính phủ nên cấm những hoạt động như săn trộm."
   },
   {
     "word": "synthetic",
@@ -61,7 +82,10 @@
     "type": "Adjective",
     "def": "not natural",
     "vi": "nhân tạo",
-    "viDef": "không phải tự nhiên"
+    "viDef": "không phải tự nhiên",
+    "ex": "This is the reason that I don't buy leather and I try to buy synthetic products.",
+    "exHit": "synthetic",
+    "exVi": "Đó là lý do tôi không mua đồ da và cố mua sản phẩm tổng hợp."
   },
   {
     "word": "do your part",
@@ -69,7 +93,10 @@
     "type": "phrase",
     "def": "to help accomplish a goal",
     "vi": "làm phần của mình",
-    "viDef": "góp sức để đạt mục tiêu"
+    "viDef": "góp sức để đạt mục tiêu",
+    "ex": "At least you're doing your part.",
+    "exHit": "doing your part",
+    "exVi": "Ít nhất bạn cũng đang góp phần của mình."
   },
   {
     "word": "biodegradable",
@@ -77,7 +104,10 @@
     "type": "Adjective",
     "def": "capable of being decomposed by natural means",
     "vi": "phân hủy sinh học được",
-    "viDef": "có thể tự tiêu theo cách tự nhiên"
+    "viDef": "có thể tự tiêu theo cách tự nhiên",
+    "ex": "I try to buy biodegradable bags because plastic stays in the soil for years.",
+    "exHit": "biodegradable",
+    "exVi": "Tôi cố mua túi phân hủy sinh học vì nhựa nằm trong đất nhiều năm."
   },
   {
     "word": "drought",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a prolonged period of time during which no rain falls",
     "vi": "đợt hạn",
-    "viDef": "giai đoạn dài không có mưa"
+    "viDef": "giai đoạn dài không có mưa",
+    "ex": "The long drought killed most of the crops on our farm this year.",
+    "exHit": "drought",
+    "exVi": "Đợt hạn hán kéo dài đã làm chết hầu hết cây trồng ở trang trại của chúng tôi năm nay."
   },
   {
     "word": "famine",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "a severe shortage of food",
     "vi": "nạn đói",
-    "viDef": "sự thiếu lương thực trầm trọng"
+    "viDef": "sự thiếu lương thực trầm trọng",
+    "ex": "Millions of people suffered during the famine, and many left to find food.",
+    "exHit": "famine",
+    "exVi": "Hàng triệu người đã chịu khổ trong nạn đói, và nhiều người bỏ đi tìm thức ăn."
   },
   {
     "word": "biosphere",
@@ -101,7 +137,10 @@
     "type": "common noun, singular",
     "def": "the part of the earth's surface and atmosphere inhabited by living things",
     "vi": "sinh quyển",
-    "viDef": "phần mặt đất và khí quyển có sinh vật sống"
+    "viDef": "phần mặt đất và khí quyển có sinh vật sống",
+    "ex": "Pollution from factories is slowly damaging the biosphere and the animals in it.",
+    "exHit": "biosphere",
+    "exVi": "Ô nhiễm từ các nhà máy đang dần phá hủy sinh quyển và các loài vật sống trong đó."
   },
   {
     "word": "cloning",
@@ -109,6 +148,9 @@
     "type": "common noun, singular",
     "def": "a general term for the research activity that creates a copy of some biological entity",
     "vi": "nhân bản",
-    "viDef": "hoạt động nghiên cứu tạo bản sao của một thực thể sinh học"
+    "viDef": "hoạt động nghiên cứu tạo bản sao của một thực thể sinh học",
+    "ex": "Many people worry about the ethics of cloning animals in laboratories.",
+    "exHit": "cloning",
+    "exVi": "Nhiều người lo ngại về đạo đức của việc nhân bản động vật trong phòng thí nghiệm."
   }
 ]

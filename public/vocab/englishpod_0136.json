@@ -5,7 +5,10 @@
     "type": "principle verb, present progressive",
     "def": "to make (something) legal",
     "vi": "hợp pháp hóa",
-    "viDef": "làm cho điều gì thành hợp luật"
+    "viDef": "làm cho điều gì thành hợp luật",
+    "ex": "The state is thinking of legalizing gambling in our city!",
+    "exHit": "legalizing",
+    "exVi": "Tiểu bang đang cân nhắc việc hợp pháp hóa cờ bạc trong thành phố của chúng ta!"
   },
   {
     "word": "vice",
@@ -13,7 +16,10 @@
     "type": "common noun, non-variable",
     "def": "bad or immoral behavior or habits",
     "vi": "tệ nạn",
-    "viDef": "hành vi hoặc thói xấu trái đạo lý"
+    "viDef": "hành vi hoặc thói xấu trái đạo lý",
+    "ex": "Gambling is a vice industry built on deception and fed by the intentional exploitation of human weakness for the sole purpose of monetary gain!",
+    "exHit": "vice",
+    "exVi": "Cờ bạc là một ngành tệ nạn được xây dựng trên sự lừa dối và nuôi sống bằng việc cố tình khai thác điểm yếu của con người chỉ vì mục đích duy nhất là lợi nhuận tiền bạc!"
   },
   {
     "word": "exploitation",
@@ -21,7 +27,10 @@
     "type": "common noun, non-variable",
     "def": "using someone for something unfairly",
     "vi": "sự bóc lột",
-    "viDef": "lợi dụng người khác một cách bất công"
+    "viDef": "lợi dụng người khác một cách bất công",
+    "ex": "Gambling is a vice industry built on deception and fed by the intentional exploitation of human weakness for the sole purpose of monetary gain!",
+    "exHit": "exploitation",
+    "exVi": "Cờ bạc là một ngành tệ nạn được xây dựng trên sự lừa dối và nuôi sống bằng việc cố tình khai thác điểm yếu của con người chỉ vì mục đích duy nhất là lợi nhuận tiền bạc!"
   },
   {
     "word": "sole purpose",
@@ -29,7 +38,10 @@
     "type": "phrase",
     "def": "only reason",
     "vi": "mục đích duy nhất",
-    "viDef": "lý do độc nhất"
+    "viDef": "lý do độc nhất",
+    "ex": "Gambling is a vice industry built on deception and fed by the intentional exploitation of human weakness for the sole purpose of monetary gain!",
+    "exHit": "sole purpose",
+    "exVi": "Cờ bạc là một ngành tệ nạn được xây dựng trên sự lừa dối và nuôi sống bằng việc cố tình khai thác điểm yếu của con người chỉ vì mục đích duy nhất là lợi nhuận tiền bạc!"
   },
   {
     "word": "monetary",
@@ -37,7 +49,10 @@
     "type": "Adjective",
     "def": "about money",
     "vi": "về tiền tệ",
-    "viDef": "liên quan đến tiền"
+    "viDef": "liên quan đến tiền",
+    "ex": "Gambling is a vice industry built on deception and fed by the intentional exploitation of human weakness for the sole purpose of monetary gain!",
+    "exHit": "monetary",
+    "exVi": "Cờ bạc là một ngành tệ nạn được xây dựng trên sự lừa dối và nuôi sống bằng việc cố tình khai thác điểm yếu của con người chỉ vì mục đích duy nhất là lợi nhuận tiền bạc!"
   },
   {
     "word": "gambling",
@@ -45,7 +60,10 @@
     "type": "common noun, non-variable",
     "def": "the practice of risking money in a game or bet",
     "vi": "cờ bạc",
-    "viDef": "việc bỏ tiền ra đánh cược"
+    "viDef": "việc bỏ tiền ra đánh cược",
+    "ex": "You cannot predict who will become addicted to gambling.",
+    "exHit": "gambling",
+    "exVi": "Bạn không thể đoán trước ai sẽ nghiện cờ bạc."
   },
   {
     "word": "casino",
@@ -53,7 +71,10 @@
     "type": "common noun, plural",
     "def": "a building or room that has games you can bet on",
     "vi": "sòng bạc",
-    "viDef": "tòa nhà hoặc phòng có các trò để đánh cược"
+    "viDef": "tòa nhà hoặc phòng có các trò để đánh cược",
+    "ex": "Soon we are gonna have amazing hotels and casinos here which will be good for our business!",
+    "exHit": "casinos",
+    "exVi": "Chẳng bao lâu nữa chúng ta sẽ có những khách sạn và sòng bạc tuyệt vời ở đây, điều này sẽ tốt cho việc kinh doanh của chúng ta!"
   },
   {
     "word": "bookie",
@@ -61,7 +82,10 @@
     "type": "common noun, plural",
     "def": "a person who organizes bets (informal)",
     "vi": "nhà cái",
-    "viDef": "người tổ chức cá cược (thân mật)"
+    "viDef": "người tổ chức cá cược (thân mật)",
+    "ex": "Underage gamblers often start gambling on sports with friends and then illegal bookies.",
+    "exHit": "bookies",
+    "exVi": "Những người cờ bạc chưa đủ tuổi thường bắt đầu cá cược thể thao với bạn bè rồi sau đó với những tay cái cá độ bất hợp pháp."
   },
   {
     "word": "addicted",
@@ -69,7 +93,10 @@
     "type": "Adjective",
     "def": "unable to stop doing something that is harmful",
     "vi": "nghiện",
-    "viDef": "không dứt được việc gì có hại"
+    "viDef": "không dứt được việc gì có hại",
+    "ex": "Once you are addicted it is very difficult to stop.",
+    "exHit": "addicted",
+    "exVi": "Một khi đã nghiện thì rất khó bỏ."
   },
   {
     "word": "Texas Hold'em",
@@ -77,7 +104,10 @@
     "type": "common noun, singular",
     "def": "a variation of poker where there are five community cards and each player has two personal cards.",
     "vi": "trò Texas Hold'em",
-    "viDef": "biến thể poker có năm lá chung và mỗi người hai lá riêng"
+    "viDef": "biến thể poker có năm lá chung và mỗi người hai lá riêng",
+    "ex": "Let's play Texas Hold'em tonight, I'll bring the cards.",
+    "exHit": "Texas Hold'em",
+    "exVi": "Tối nay chơi Texas Hold'em nhé, tôi sẽ mang bài đến."
   },
   {
     "word": "slot machine",
@@ -85,7 +115,10 @@
     "type": "common noun, singular",
     "def": "a machine featuring an electronic game on which to gamble, worked by placing a coin in a slot",
     "vi": "máy đánh xèng",
-    "viDef": "máy chơi cược điện tử, bỏ xu vào khe để chơi"
+    "viDef": "máy chơi cược điện tử, bỏ xu vào khe để chơi",
+    "ex": "He lost all his money on the slot machine in an hour.",
+    "exHit": "slot machine",
+    "exVi": "Anh ta thua hết tiền ở máy đánh bạc chỉ trong một giờ."
   },
   {
     "word": "roulette",
@@ -93,7 +126,10 @@
     "type": "common noun, singular",
     "def": "A gambling game in which the players bet on which slot of a rotating disk a small ball will come to rest in.",
     "vi": "trò roulette",
-    "viDef": "trò cược xem viên bi dừng ở ô nào trên bàn quay"
+    "viDef": "trò cược xem viên bi dừng ở ô nào trên bàn quay",
+    "ex": "She put all her chips on red at the roulette table.",
+    "exHit": "roulette",
+    "exVi": "Cô ấy đặt hết chip vào ô đỏ ở bàn roulette."
   },
   {
     "word": "odds",
@@ -101,7 +137,10 @@
     "type": "common noun, plural",
     "def": "the probability, expressed as a ratio, that something will or will not happen",
     "vi": "tỷ lệ cược",
-    "viDef": "xác suất, tính theo tỉ lệ, cho việc gì xảy ra hay không"
+    "viDef": "xác suất, tính theo tỉ lệ, cho việc gì xảy ra hay không",
+    "ex": "The odds of winning the jackpot are really low.",
+    "exHit": "odds",
+    "exVi": "Xác suất trúng giải độc đắc thật sự rất thấp."
   },
   {
     "word": "online gambling",
@@ -109,6 +148,9 @@
     "type": "common noun, singular",
     "def": "a form to gamble via the interet visiting web sites and using a credit card",
     "vi": "cá cược trên mạng",
-    "viDef": "hình thức đánh bạc qua các trang web, trả bằng thẻ tín dụng"
+    "viDef": "hình thức đánh bạc qua các trang web, trả bằng thẻ tín dụng",
+    "ex": "Online gambling is easy to start, but it's very hard to stop.",
+    "exHit": "Online gambling",
+    "exVi": "Cờ bạc trực tuyến dễ bắt đầu nhưng rất khó bỏ."
   }
 ]

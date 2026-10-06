@@ -5,7 +5,10 @@
     "type": "",
     "def": "great snow",
     "vi": "bão tuyết",
-    "viDef": "trận tuyết lớn"
+    "viDef": "trận tuyết lớn",
+    "ex": "The blizzard closed the roads, so nobody went to work.",
+    "exHit": "blizzard",
+    "exVi": "Trận bão tuyết đã chặn các con đường nên không ai đi làm."
   },
   {
     "word": "drought",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "a prolonged period of scanty rainfall",
     "vi": "đợt hạn hán",
-    "viDef": "giai đoạn dài mưa rất ít"
+    "viDef": "giai đoạn dài mưa rất ít",
+    "ex": "Moving to to Latin American, Ecuador has suffered a six month drought that has not only affected farming, but has also forced the closure of the hydroelectric power plant that provides electricity for the entire country.",
+    "exHit": "drought",
+    "exVi": "Chuyển sang châu Mỹ Latinh, Ecuador đã chịu đợt hạn hán sáu tháng, không chỉ ảnh hưởng đến nông nghiệp mà còn buộc nhà máy thủy điện cung cấp điện cho cả nước phải đóng cửa."
   },
   {
     "word": "hurricane",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "very big rain and wind storm",
     "vi": "bão lớn",
-    "viDef": "trận mưa gió rất mạnh"
+    "viDef": "trận mưa gió rất mạnh",
+    "ex": "As dry leaves that before the wild hurricane fly,",
+    "exHit": "hurricane",
+    "exVi": "Như lá khô bay tứ tán trước cơn bão dữ dội,"
   },
   {
     "word": "tsunami",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "a large sea wave produced by an earthquake",
     "vi": "sóng thần",
-    "viDef": "ngọn sóng biển lớn do địa chấn gây ra"
+    "viDef": "ngọn sóng biển lớn do địa chấn gây ra",
+    "ex": "Meanwhile, Mexico 's coast has been hit by hurricane Liliana and officials say that all the seismic activity leads them to believe that a tsunami may hit Central America, affecting Honduras, Guatemala and Panama.",
+    "exHit": "tsunami",
+    "exVi": "Trong khi đó, bờ biển Mexico đã bị cơn bão Liliana tấn công và các quan chức cho biết toàn bộ hoạt động địa chấn khiến họ tin rằng một cơn sóng thần có thể đổ bộ vào Trung Mỹ, ảnh hưởng đến Honduras, Guatemala và Panama."
   },
   {
     "word": "seismic activity",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "something that tech relating to or caused by an ea",
     "vi": "hoạt động địa chấn",
-    "viDef": "những gì liên quan hoặc do động đất gây ra"
+    "viDef": "những gì liên quan hoặc do động đất gây ra",
+    "ex": "Meanwhile, Mexico 's coast has been hit by hurricane Liliana and officials say that all the seismic activity leads them to believe that a tsunami may hit Central America, affecting Honduras, Guatemala and Panama.",
+    "exHit": "seismic activity",
+    "exVi": "Trong khi đó, bờ biển Mexico đã bị cơn bão Liliana tấn công và các quan chức cho biết toàn bộ hoạt động địa chấn khiến họ tin rằng một cơn sóng thần có thể đổ bộ vào Trung Mỹ, ảnh hưởng đến Honduras, Guatemala và Panama."
   },
   {
     "word": "Hail",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "small pieces of ice that fall from the sky instead of rain",
     "vi": "mưa đá",
-    "viDef": "những viên băng nhỏ rơi từ trời thay cho mưa"
+    "viDef": "những viên băng nhỏ rơi từ trời thay cho mưa",
+    "ex": "Hail the size of golf balls smashed the car windows.",
+    "exHit": "Hail",
+    "exVi": "Mưa đá to bằng quả bóng golf đã làm vỡ kính xe."
   },
   {
     "word": "Tornado",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "A strong whirl of air that moves quickly",
     "vi": "lốc xoáy",
-    "viDef": "cột khí xoáy mạnh di chuyển rất nhanh"
+    "viDef": "cột khí xoáy mạnh di chuyển rất nhanh",
+    "ex": "A tornado destroyed several houses in the small town.",
+    "exHit": "tornado",
+    "exVi": "Một cơn lốc xoáy đã phá hủy nhiều ngôi nhà trong thị trấn nhỏ."
   },
   {
     "word": "Typhoon",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A tropical cyclone occurring in the western Pacific or Indian oceans.",
     "vi": "bão nhiệt đới ở Thái Bình Dương",
-    "viDef": "xoáy thuận nhiệt đới xảy ra ở tây Thái Bình Dương hoặc Ấn Độ Dương"
+    "viDef": "xoáy thuận nhiệt đới xảy ra ở tây Thái Bình Dương hoặc Ấn Độ Dương",
+    "ex": "The typhoon forced the airport to cancel all flights.",
+    "exHit": "typhoon",
+    "exVi": "Cơn bão buộc sân bay phải hủy mọi chuyến bay."
   },
   {
     "word": "Hurricane",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "A severe tropical cyclone having winds greater than one hundren kilometers per hour",
     "vi": "bão nhiệt đới mạnh",
-    "viDef": "xoáy thuận nhiệt đới dữ dội có gió trên một trăm ki-lô-mét mỗi giờ"
+    "viDef": "xoáy thuận nhiệt đới dữ dội có gió trên một trăm ki-lô-mét mỗi giờ",
+    "ex": "Meanwhile, Mexico 's coast has been hit by hurricane Liliana and officials say that all the seismic activity leads them to believe that a tsunami may hit Central America, affecting Honduras, Guatemala and Panama.",
+    "exHit": "hurricane",
+    "exVi": "Trong khi đó, bờ biển Mexico đã bị cơn bão Liliana tấn công và các quan chức cho biết toàn bộ hoạt động địa chấn khiến họ tin rằng một cơn sóng thần có thể đổ bộ vào Trung Mỹ, ảnh hưởng đến Honduras, Guatemala và Panama."
   },
   {
     "word": "Heat Wave",
@@ -77,6 +104,9 @@
     "type": "",
     "def": "A period of unusually hot weather.",
     "vi": "đợt nắng nóng",
-    "viDef": "giai đoạn thời tiết nóng bất thường"
+    "viDef": "giai đoạn thời tiết nóng bất thường",
+    "ex": "A heat wave hit the city and everyone stayed indoors.",
+    "exHit": "heat wave",
+    "exVi": "Một đợt nắng nóng ập đến thành phố và mọi người ở trong nhà."
   }
 ]

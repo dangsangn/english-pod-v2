@@ -5,7 +5,10 @@
     "type": "",
     "def": "mid-priced restaurant",
     "vi": "quán bistro",
-    "viDef": "nhà hàng tầm giá vừa"
+    "viDef": "nhà hàng tầm giá vừa",
+    "ex": "Bruno Bistro, how may I help you?",
+    "exHit": "Bistro",
+    "exVi": "Bruno Bistro xin nghe, tôi có thể giúp gì ạ?"
   },
   {
     "word": "make a reservation",
@@ -13,7 +16,10 @@
     "type": "",
     "def": "to make an arrangement to hold something for later",
     "vi": "đặt chỗ trước",
-    "viDef": "thu xếp để giữ thứ gì cho sau đó"
+    "viDef": "thu xếp để giữ thứ gì cho sau đó",
+    "ex": "Yes hello, I would like to make a reservation please.",
+    "exHit": "make a reservation",
+    "exVi": "Xin chào, tôi muốn đặt bàn."
   },
   {
     "word": "fully booked",
@@ -21,7 +27,10 @@
     "type": "",
     "def": "all sold out or full of reservations",
     "vi": "kín chỗ",
-    "viDef": "đã bán hết hoặc đầy lịch đặt"
+    "viDef": "đã bán hết hoặc đầy lịch đặt",
+    "ex": "I'm sorry sir, but we are fully booked tonight until eight.",
+    "exHit": "fully booked",
+    "exVi": "Xin lỗi quý khách, tối nay chúng tôi kín chỗ đến tám giờ."
   },
   {
     "word": "in that case",
@@ -29,7 +38,10 @@
     "type": "",
     "def": "if something said earlier is true",
     "vi": "nếu vậy thì",
-    "viDef": "nếu điều nói trước đó là đúng"
+    "viDef": "nếu điều nói trước đó là đúng",
+    "ex": "In that case, eight o'clock is fine.",
+    "exHit": "In that case",
+    "exVi": "Vậy thì tám giờ cũng được."
   },
   {
     "word": "attend",
@@ -37,7 +49,10 @@
     "type": "",
     "def": "go to",
     "vi": "tới dự",
-    "viDef": "đi đến"
+    "viDef": "đi đến",
+    "ex": "Very well, and how many people will attend tonight?",
+    "exHit": "attend",
+    "exVi": "Rất tốt, tối nay sẽ có bao nhiêu người đến dùng bữa?"
   },
   {
     "word": "reservation",
@@ -45,7 +60,10 @@
     "type": "",
     "def": "Something that is kept back or withheld",
     "vi": "chỗ đã giữ",
-    "viDef": "thứ được giữ lại hoặc dành riêng"
+    "viDef": "thứ được giữ lại hoặc dành riêng",
+    "ex": "Yes hello, I would like to make a reservation please.",
+    "exHit": "reservation",
+    "exVi": "Xin chào, tôi muốn đặt bàn."
   },
   {
     "word": "steakhouse",
@@ -53,7 +71,10 @@
     "type": "",
     "def": "a restaurant that specializes in beef steaks.",
     "vi": "nhà hàng bít tết",
-    "viDef": "nhà hàng chuyên về các món bò bít tết"
+    "viDef": "nhà hàng chuyên về các món bò bít tết",
+    "ex": "Let's have dinner at the steakhouse downtown tonight.",
+    "exHit": "steakhouse",
+    "exVi": "Tối nay mình ăn tối ở nhà hàng bít tết trung tâm nhé."
   },
   {
     "word": "diner",
@@ -61,7 +82,10 @@
     "type": "",
     "def": "A place that offers a wide range of foods, mostly American, a casual atmosphere and late operating hours.",
     "vi": "quán ăn bình dân",
-    "viDef": "nơi bán nhiều loại món, phần lớn là món Mỹ, không khí xuề xòa và mở tới khuya"
+    "viDef": "nơi bán nhiều loại món, phần lớn là món Mỹ, không khí xuề xòa và mở tới khuya",
+    "ex": "We stopped at a diner for pancakes at midnight.",
+    "exHit": "diner",
+    "exVi": "Chúng tôi ghé một quán ăn bình dân để ăn bánh kếp lúc nửa đêm."
   },
   {
     "word": "Soup Kitchen",
@@ -69,7 +93,10 @@
     "type": "",
     "def": "a place where food is offered to the hungry for free or at a reasonably low price",
     "vi": "bếp ăn từ thiện",
-    "viDef": "nơi phát đồ ăn cho người đói, miễn phí hoặc với giá rất thấp"
+    "viDef": "nơi phát đồ ăn cho người đói, miễn phí hoặc với giá rất thấp",
+    "ex": "She volunteers at a soup kitchen every Sunday.",
+    "exHit": "soup kitchen",
+    "exVi": "Chủ nhật nào cô ấy cũng làm tình nguyện ở bếp ăn từ thiện."
   },
   {
     "word": "saltshaker",
@@ -77,7 +104,10 @@
     "type": "",
     "def": "a container with a perforated top for sprinkling salt",
     "vi": "lọ rắc muối",
-    "viDef": "lọ có nắp đục lỗ để rắc muối"
+    "viDef": "lọ có nắp đục lỗ để rắc muối",
+    "ex": "Could you pass me the saltshaker, please?",
+    "exHit": "saltshaker",
+    "exVi": "Bạn đưa giúp tôi lọ muối được không?"
   },
   {
     "word": "Cutlery",
@@ -85,6 +115,9 @@
     "type": "",
     "def": "Utensils such as knives, forks, and spoons used as tableware",
     "vi": "bộ đồ ăn",
-    "viDef": "các dụng cụ như dao, nĩa và thìa dùng trên bàn ăn"
+    "viDef": "các dụng cụ như dao, nĩa và thìa dùng trên bàn ăn",
+    "ex": "Please set the table with the cutlery and napkins.",
+    "exHit": "cutlery",
+    "exVi": "Làm ơn bày bàn ăn với dao nĩa và khăn giấy nhé."
   }
 ]
