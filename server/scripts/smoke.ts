@@ -260,9 +260,20 @@ await check('legacy days: same import once, different imports add up', async () 
 })
 
 await check('settings sync across devices', async () => {
-  await sync(A, { settings: { autoSpeak: false, lastEpisodeId: 7, updatedAt: 6000 } })
+  await sync(A, { settings: { autoSpeak: false, lastEpisodeId: 7, newPerDay: null, updatedAt: 6000 } })
   const res = await sync(B)
-  assert.deepEqual(res.changes.settings, { autoSpeak: false, lastEpisodeId: 7, updatedAt: 6000 })
+  assert.deepEqual(res.changes.settings, {
+    autoSpeak: false,
+    lastEpisodeId: 7,
+    newPerDay: null,
+    updatedAt: 6000,
+  })
+})
+
+await check('settings from a client without newPerDay get the default cap', async () => {
+  await sync(A, { settings: { autoSpeak: true, lastEpisodeId: 7, updatedAt: 6500 } })
+  const res = await sync(B)
+  assert.equal(res.changes.settings?.newPerDay, 15)
 })
 
 await check('reset clears cards, decks and history everywhere', async () => {

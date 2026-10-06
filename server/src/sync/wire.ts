@@ -65,5 +65,10 @@ export function toWireDeck(d: Deck): WireDeck {
 }
 
 export function toWireSettings(s: Settings): WireSettings {
-  return { autoSpeak: s.autoSpeak, lastEpisodeId: s.lastEpisodeId, updatedAt: num(s.updatedAt) }
+  return {
+    autoSpeak: s.autoSpeak,
+    lastEpisodeId: s.lastEpisodeId,
+    newPerDay: s.newPerDay,
+    updatedAt: num(s.updatedAt),
+  }
 }

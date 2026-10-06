@@ -48,6 +48,7 @@ model Settings {
   userId        String  @id @map("user_id") @db.Uuid
   autoSpeak     Boolean @map("auto_speak")
   lastEpisodeId Int?    @map("last_episode_id")
+  newPerDay     Int?    @default(15) @map("new_per_day")
   updatedAt     BigInt  @map("updated_at")
   rev           BigInt
   user          User    @relation(fields: [userId], references: [id], onDelete: Cascade)

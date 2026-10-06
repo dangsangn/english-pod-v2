@@ -118,12 +118,12 @@ async function deleteDecks(tx: Tx, userId: string, deleted: SyncChanges['deleted
 
 async function upsertSettings(tx: Tx, userId: string, settings: NonNullable<SyncChanges['settings']>) {
   await tx.$executeRaw`
-    INSERT INTO settings AS s (user_id, auto_speak, last_episode_id, updated_at, rev)
-    VALUES (${userId}::uuid, ${settings.autoSpeak}, ${settings.lastEpisodeId}, ${settings.updatedAt},
-      nextval('sync_rev'))
+    INSERT INTO settings AS s (user_id, auto_speak, last_episode_id, new_per_day, updated_at, rev)
+    VALUES (${userId}::uuid, ${settings.autoSpeak}, ${settings.lastEpisodeId}, ${settings.newPerDay},
+      ${settings.updatedAt}, nextval('sync_rev'))
     ON CONFLICT (user_id) DO UPDATE SET
       auto_speak = EXCLUDED.auto_speak, last_episode_id = EXCLUDED.last_episode_id,
-      updated_at = EXCLUDED.updated_at, rev = EXCLUDED.rev
+      new_per_day = EXCLUDED.new_per_day, updated_at = EXCLUDED.updated_at, rev = EXCLUDED.rev
     WHERE s.updated_at < EXCLUDED.updated_at`
 }
 
