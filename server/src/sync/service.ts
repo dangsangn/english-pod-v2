@@ -117,6 +117,18 @@ async function deleteDecks(tx: Tx, userId: string, deleted: SyncChanges['deleted
 }
 
 async function upsertSettings(tx: Tx, userId: string, settings: NonNullable<SyncChanges['settings']>) {
+  // A client from before the daily cap sends no newPerDay: a new row gets 15, an old one keeps its value.
+  if (settings.newPerDay === undefined) {
+    await tx.$executeRaw`
+      INSERT INTO settings AS s (user_id, auto_speak, last_episode_id, new_per_day, updated_at, rev)
+      VALUES (${userId}::uuid, ${settings.autoSpeak}, ${settings.lastEpisodeId}, 15,
+        ${settings.updatedAt}, nextval('sync_rev'))
+      ON CONFLICT (user_id) DO UPDATE SET
+        auto_speak = EXCLUDED.auto_speak, last_episode_id = EXCLUDED.last_episode_id,
+        updated_at = EXCLUDED.updated_at, rev = EXCLUDED.rev
+      WHERE s.updated_at < EXCLUDED.updated_at`
+    return
+  }
   await tx.$executeRaw`
     INSERT INTO settings AS s (user_id, auto_speak, last_episode_id, new_per_day, updated_at, rev)
     VALUES (${userId}::uuid, ${settings.autoSpeak}, ${settings.lastEpisodeId}, ${settings.newPerDay},

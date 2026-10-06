@@ -270,10 +270,12 @@ await check('settings sync across devices', async () => {
   })
 })
 
-await check('settings from a client without newPerDay get the default cap', async () => {
-  await sync(A, { settings: { autoSpeak: true, lastEpisodeId: 7, updatedAt: 6500 } })
+await check('settings from a client without newPerDay keep the stored cap', async () => {
+  await sync(A, { settings: { autoSpeak: true, lastEpisodeId: 7, newPerDay: 5, updatedAt: 6500 } })
+  await sync(A, { settings: { autoSpeak: false, lastEpisodeId: 8, updatedAt: 6600 } })
   const res = await sync(B)
-  assert.equal(res.changes.settings?.newPerDay, 15)
+  assert.equal(res.changes.settings?.newPerDay, 5)
+  assert.equal(res.changes.settings?.lastEpisodeId, 8)
 })
 
 await check('reset clears cards, decks and history everywhere', async () => {

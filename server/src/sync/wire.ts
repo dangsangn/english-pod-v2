@@ -5,7 +5,7 @@ import type { cardSchema, dayCountsSchema, deckSchema, settingsSchema } from './
 // The JSON shapes /sync sends back — the same shapes devices push.
 export type WireCard = z.infer<typeof cardSchema>
 export type WireDeck = z.infer<typeof deckSchema>
-export type WireSettings = z.infer<typeof settingsSchema>
+export type WireSettings = Required<z.infer<typeof settingsSchema>>
 export type DayCounts = z.infer<typeof dayCountsSchema>
 
 export interface SyncResponse {
