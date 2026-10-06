@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Check, ChevronDown, Headphones, Play, RotateCcw, Search, Volume2 } from 'lucide-react'
 import classNames from 'classnames'
 import { navigate, useNow } from '../../lib/hooks'
-import { formatDelay, isDue, stageOf } from '../../lib/srs'
+import { formatDelay, isDue, isLeech, stageOf } from '../../lib/srs'
 import type { Stage } from '../../lib/srs'
 import { relearnCard, summarize, useSrs } from '../../lib/srsStore'
 import type { StoredCard, Summary } from '../../lib/srsStore'
@@ -10,8 +10,9 @@ import type { Episode } from '../../types'
 import { speak } from '../../lib/speech'
 import { STAGES } from './stages'
 import TappableText from '../TappableText'
+import LeechBadge from './LeechBadge'
 
-type FilterKey = 'all' | 'learned' | Stage
+type FilterKey = 'all' | 'learned' | 'leech' | Stage
 type SortKey = keyof typeof SORTERS
 
 // "learned" = every card that has been studied at least once.
@@ -20,6 +21,7 @@ const FILTERS: { key: FilterKey; label: string }[] = [
   { key: 'learned', label: 'Đã học' },
   ...STAGES.filter((s) => s.key !== 'seed').map((s) => ({ key: s.key, label: s.label })),
   { key: 'seed', label: 'Chưa học' },
+  { key: 'leech', label: 'Hay quên' },
 ]
 
 const SORTS: { key: SortKey; label: string }[] = [
@@ -37,6 +39,13 @@ const SORTERS = {
   recent: (a, b) => (b.lastReview ?? 0) - (a.lastReview ?? 0),
   alpha: (a, b) => a.word.localeCompare(b.word),
 } satisfies Record<string, Sorter>
+
+function matches(card: StoredCard, key: FilterKey): boolean {
+  if (key === 'all') return true
+  if (key === 'learned') return card.state !== 'new'
+  if (key === 'leech') return isLeech(card)
+  return stageOf(card) === key
+}
 
 /**
  * Words in the garden. With `episode`, only that episode's words — every one of
@@ -64,18 +73,11 @@ export default function WordList({ episode = null, initialFilter, onOpenEpisode 
   const [openId, setOpenId] = useState<string | null>(null)
 
   const all = Object.values(srs.cards).filter((c) => !episode || c.episodeIds.includes(episode.id))
-  const countOf = (key: FilterKey) =>
-    key === 'all'
-      ? all.length
-      : key === 'learned'
-        ? all.filter((c) => c.state !== 'new').length
-        : all.filter((c) => stageOf(c) === key).length
+  const countOf = (key: FilterKey) => all.filter((c) => matches(c, key)).length
 
   const q = query.trim().toLowerCase()
   const words = all
-    .filter((c) =>
-      filter === 'all' ? true : filter === 'learned' ? c.state !== 'new' : stageOf(c) === filter,
-    )
+    .filter((c) => matches(c, filter))
     .filter(
       (c) => !q || [c.word, c.vi, c.def].some((text) => (text || '').toLowerCase().includes(q)),
     )
@@ -161,7 +163,9 @@ export default function WordList({ episode = null, initialFilter, onOpenEpisode 
               ? 'Không tìm thấy từ nào.'
               : filter === 'learned'
                 ? 'Bạn chưa học từ nào. Bắt đầu một lượt học nhé 🌱'
-                : 'Chưa có từ nào ở mục này.'}
+                : filter === 'leech'
+                  ? 'Không có từ nào hay quên 🎉'
+                  : 'Chưa có từ nào ở mục này.'}
           </li>
         )}
       </ul>
@@ -275,6 +279,9 @@ function WordRow({ card, now, open, onToggle }: WordRowProps) {
               </span>
               {card.ipa && (
                 <span className='ml-2 text-xs text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</span>
+              )}
+              {isLeech(card) && (
+                <LeechBadge className='ml-2 align-middle px-2! py-0.5! text-[11px]!' />
               )}
             </p>
             {card.type && (
