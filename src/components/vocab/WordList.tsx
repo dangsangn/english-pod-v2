@@ -280,9 +280,6 @@ function WordRow({ card, now, open, onToggle }: WordRowProps) {
               {card.ipa && (
                 <span className='ml-2 text-xs text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</span>
               )}
-              {isLeech(card) && (
-                <LeechBadge className='ml-2 align-middle px-2! py-0.5! text-[11px]!' />
-              )}
             </p>
             {card.type && (
               <p className='text-xs italic text-zinc-500 dark:text-zinc-400 truncate'>
@@ -292,6 +289,8 @@ function WordRow({ card, now, open, onToggle }: WordRowProps) {
             <p className='vi-text text-sm text-indigo-600 dark:text-indigo-400 truncate'>
               {card.vi}
             </p>
+            {/* Own line: the word line truncates, and would clip it away. */}
+            {isLeech(card) && <LeechBadge className='mt-1 px-2! py-0.5! text-[11px]!' />}
           </div>
         </button>
         {/* Top-right corner: Học lại, with when the word is next due below it. */}
