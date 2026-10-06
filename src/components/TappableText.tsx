@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import type { MouseEvent, SyntheticEvent } from 'react'
+import classNames from 'classnames'
 import { cardId } from '../lib/srs'
 import { useSrs } from '../lib/srsStore'
 import TranslatePopover from './TranslatePopover'
@@ -20,14 +21,23 @@ const WORD = /([A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*)/
 interface TappableTextProps {
   text: string | null | undefined
   className?: string
+  /** Shown in bold where it first occurs in `text` (the word an example is about). */
+  highlight?: string
 }
 
-export default function TappableText({ text, className }: TappableTextProps) {
+export default function TappableText({ text, className, highlight }: TappableTextProps) {
   const srs = useSrs()
   const [lookup, setLookup] = useState<(LookupTarget & { index: number }) | null>(null)
 
   if (!text) return null
   const parts = text.split(WORD) // odd indexes are words
+
+  // Character range of the highlight, and where each part starts.
+  const from = highlight ? text.indexOf(highlight) : -1
+  const to = from + (highlight?.length ?? 0)
+  const starts = parts.map((_, i) => parts.slice(0, i).join('').length)
+  const highlighted = (i: number) =>
+    from >= 0 && starts[i] < to && starts[i] + parts[i].length > from
 
   const stop = (e: SyntheticEvent) => e.stopPropagation()
   const open = (e: MouseEvent<HTMLSpanElement>, word: string, index: number) => {
@@ -48,7 +58,11 @@ export default function TappableText({ text, className }: TappableTextProps) {
           // eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-static-element-interactions
           <span
             key={i}
-            className={lookup?.index === i ? 'tap-word tap-word-active' : 'tap-word'}
+            className={classNames(
+              'tap-word',
+              lookup?.index === i && 'tap-word-active',
+              highlighted(i) && 'font-bold text-emerald-600 dark:text-emerald-400',
+            )}
             onClick={(e) => open(e, part, i)}
           >
             {part}
