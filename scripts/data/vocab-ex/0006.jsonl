@@ -47,8 +47,8 @@
 {"w":"don't appreciate","d":"don't like","ex":"Look, if you don't love me, it's not a thing, alright, we've had our laughs, but I don't appreciate...","hit":"don't appreciate","src":"dialogue","ep":103,"vi":""}
 {"w":"where this (relationship) is going","d":"what stage this relationship is in","ex":"I want to know where this relationship is going.","hit":"where this relationship is going","src":"dialogue","ep":103,"vi":"","check":true}
 {"w":"we have had our (laughs)","d":"we have experienced ( our happy days)","ex":"","hit":"","src":"written","ep":103,"vi":""}
-{"w":"love","d":"have strong affection to someone","ex":"I love you.","hit":"love","src":"dialogue","ep":103,"vi":""}
-{"w":"awesome","d":"amazing, great","ex":"I'm awesome.","hit":"awesome","src":"dialogue","ep":103,"vi":""}
+{"w":"love","d":"have strong affection to someone","ex":"Oh, I love you too!","hit":"love","src":"dialogue","ep":103,"vi":""}
+{"w":"awesome","d":"amazing, great","ex":"And I think you're awesome.","hit":"awesome","src":"dialogue","ep":103,"vi":""}
 {"w":"in love with","d":"feel strong romantic affection for someone","ex":"I'm in love with you and I need to know...","hit":"in love with","src":"dialogue","ep":103,"vi":""}
 {"w":"can we talk","d":"phrase used if one must talk about serious things","ex":"Can we talk?","hit":"Can we talk","src":"dialogue","ep":103,"vi":""}
 {"w":"dump (someone)","d":"end a relationship with someone","ex":"","hit":"","src":"written","ep":103,"vi":""}
@@ -137,7 +137,7 @@
 {"w":"portion size","d":"the amount of food that is served to a person","ex":"And look at the portion size!","hit":"portion size","src":"dialogue","ep":107,"vi":""}
 {"w":"sliver","d":"a small, thin piece","ex":"How can you charge twenty-five dollars for a sliver of duck liver?","hit":"sliver","src":"dialogue","ep":107,"vi":""}
 {"w":"make a big deal","d":"get very upset about something small","ex":"The foie gras was fine, why are you making such a big deal?","hit":"making such a big deal","src":"dialogue","ep":107,"vi":"","check":true}
-{"w":"comp","d":"be given to customers for free","ex":"Honey come on!","hit":"come","src":"dialogue","ep":107,"vi":"","check":true}
+{"w":"comp","d":"be given to customers for free","ex":"Are you trying to get our meal comped again?","hit":"comped","src":"dialogue","ep":107,"vi":"","check":true}
 {"w":"shell out","d":"to spend money","ex":"If I'm shelling out my hard earned bucks, I expect value for money!","hit":"shelling out","src":"dialogue","ep":107,"vi":"","check":true}
 {"w":"hard earned","d":"money you work hard for","ex":"If I'm shelling out my hard earned bucks, I expect value for money!","hit":"hard earned","src":"dialogue","ep":107,"vi":""}
 {"w":"a bad aftertaste","d":"a bad second taste","ex":"","hit":"","src":"written","ep":107,"vi":""}
@@ -232,6 +232,7 @@
 {"w":"run over","d":"to go beyond a limit","ex":"","hit":"","src":"written","ep":113,"vi":""}
 {"w":"stuck in traffic","d":"so may cars on the road that you can not drive or move forward","ex":"Were you stuck in traffic as well, Jess?","hit":"stuck in traffic","src":"dialogue","ep":113,"vi":""}
 {"w":"in a sec","d":"soon","ex":"Jo called and said she'd be here in a sec.","hit":"in a sec","src":"dialogue","ep":113,"vi":""}
+{"w":"huge","d":"very big","ex":"There was a huge traffic jam on the highway this morning.","hit":"huge","src":"dialogue","ep":113,"vi":""}
 {"w":"traffic jam","d":"a lot of cars stopped from moving","ex":"There was a huge traffic jam on the highway this morning.","hit":"traffic jam","src":"dialogue","ep":113,"vi":""}
 {"w":"pileup","d":"an accident where many cars crash into each other","ex":"There was a huge pileup on the highway and traffic was backed up for miles.","hit":"pileup","src":"dialogue","ep":113,"vi":""}
 {"w":"punctual","d":"the quality of always being on time","ex":"","hit":"","src":"written","ep":113,"vi":""}
@@ -245,8 +246,8 @@
 {"w":"wicked","d":"very good (slang)","ex":"In a couple of months, this baby is gonna be wicked!","hit":"wicked","src":"dialogue","ep":114,"vi":""}
 {"w":"loaded","d":"rich","ex":"Anyone can have a car like that if their daddy is loaded like his.","hit":"loaded","src":"dialogue","ep":114,"vi":""}
 {"w":"butt ugly","d":"very ugly","ex":"It's butt ugly, dude!","hit":"butt ugly","src":"dialogue","ep":114,"vi":""}
-{"w":"ride","d":"car (slang)","ex":"Is that your ride?","hit":"ride","src":"dialogue","ep":114,"vi":""}
-{"w":"dude","d":"man (slang)","ex":"It's butt ugly, dude!","hit":"dude","src":"dialogue","ep":114,"vi":""}
+{"w":"ride","d":"car (slang)","ex":"Now that's a fresh ride!","hit":"ride","src":"dialogue","ep":114,"vi":""}
+{"w":"dude","d":"man (slang)","ex":"Dude, don't have a cow!","hit":"Dude","src":"dialogue","ep":114,"vi":""}
 {"w":"fresh","d":"new, cool (slang)","ex":"Now that's a fresh ride!","hit":"fresh","src":"dialogue","ep":114,"vi":""}
 {"w":"bad to the bones","d":"completely cool","ex":"Isn't it bad to the bone?","hit":"bad to the bone","src":"dialogue","ep":114,"vi":"","check":true}
 {"w":"psych","d":"just kidding; I was joking","ex":"Psych!","hit":"Psych","src":"dialogue","ep":114,"vi":""}
@@ -259,7 +260,6 @@
 {"w":"got a little out of hand","d":"become out of control","ex":"I went out last night with Trevor and things got a little out of hand.","hit":"got a little out of hand","src":"dialogue","ep":115,"vi":""}
 {"w":"hit","d":"to go to (a place)","ex":"We hit a couple of local bars, and met up with some friends.","hit":"hit","src":"dialogue","ep":115,"vi":""}
 {"w":"turned out","d":"to happen a certain way","ex":"Everything was cool until Mike came along, and it turned out that it was his birthday yesterday!","hit":"turned out","src":"dialogue","ep":115,"vi":""}
-{"w":"tell me about it","d":"I agree; I understand","ex":"Tell me about it!","hit":"Tell me about it","src":"dialogue","ep":115,"vi":""}
 {"w":"naseous","d":"feel like you are going to vomit","ex":"","hit":"","src":"written","ep":115,"vi":""}
 {"w":"threw up","d":"vomit","ex":"I threw up like five times.","hit":"threw up","src":"dialogue","ep":115,"vi":""}
 {"w":"dehydrated","d":"lacking water","ex":"I was so dehydrated that I drank like a gallon of water, and my head has been pounding all day.","hit":"dehydrated","src":"dialogue","ep":115,"vi":""}
@@ -293,7 +293,6 @@
 {"w":"come clean","d":"confess, tell the truth","ex":"Believe me, it's been so hard for me as well, and time and again, I've thought of coming clean.","hit":"coming clean","src":"dialogue","ep":117,"vi":"","check":true}
 {"w":"time and again","d":"many times","ex":"Believe me, it's been so hard for me as well, and time and again, I've thought of coming clean.","hit":"time and again","src":"dialogue","ep":117,"vi":""}
 {"w":"deceive","d":"To cause to believe what is not true; mislead.","ex":"How could you deceive me like that?","hit":"deceive","src":"dialogue","ep":117,"vi":""}
-{"w":"kidding","d":"fool or joke","ex":"Are you kidding?","hit":"kidding","src":"dialogue","ep":117,"vi":""}
 {"w":"forthright","d":"direct; honest; with no lies","ex":"I know that this isn't the best time and that you probably hate me right now but, I want to be completely forthright with you.","hit":"forthright","src":"dialogue","ep":117,"vi":""}
 {"w":"undying","d":"endless, lasting forever","ex":"Come with me to India baby, I can't make up for everything that's happened, but I can promise you my undying love.","hit":"undying","src":"dialogue","ep":117,"vi":""}
 {"w":"devoted","d":"showing or feeling strong loyalty or love","ex":"I will be the most devoted husband, and I will cherish you always.","hit":"devoted","src":"dialogue","ep":117,"vi":""}
@@ -308,7 +307,7 @@
 {"w":"doo-doo","d":"solid waste discharged from body (informal)","ex":"","hit":"","src":"written","ep":118,"vi":""}
 {"w":"up","d":"awake","ex":"I could just eat him up!","hit":"up","src":"dialogue","ep":118,"vi":""}
 {"w":"your turn","d":"an opportunity or responsibility to do something","ex":"It's your turn!","hit":"your turn","src":"dialogue","ep":118,"vi":""}
-{"w":"widdle","d":"little (baby talk)","ex":"Hello widdle baby!","hit":"widdle","src":"dialogue","ep":118,"vi":""}
+{"w":"widdle","d":"little (baby talk)","ex":"Why are you crying widdle baby?","hit":"widdle","src":"dialogue","ep":118,"vi":""}
 {"w":"icky","d":"gross, disgusting (baby talk)","ex":"Lets get this icky diaper off you.","hit":"icky","src":"dialogue","ep":118,"vi":""}
 {"w":"diaper","d":"a piece of cloth used as underwear that holds body waste","ex":"Lets get this icky diaper off you.","hit":"diaper","src":"dialogue","ep":118,"vi":""}
 {"w":"jammies","d":"pajamas (informal)","ex":"Mickey Mouse jammies!","hit":"jammies","src":"dialogue","ep":118,"vi":""}
@@ -316,7 +315,7 @@
 {"w":"wee wee","d":"urine (informal)","ex":"You just made a wee wee all over daddy!","hit":"wee wee","src":"dialogue","ep":118,"vi":""}
 {"w":"hold still","d":"don't move","ex":"Hold still while I change this yucky diaper.","hit":"Hold still","src":"dialogue","ep":118,"vi":""}
 {"w":"yucky","d":"gross, disgusting (informal)","ex":"Hold still while I change this yucky diaper.","hit":"yucky","src":"dialogue","ep":118,"vi":""}
-{"w":"nana","d":"grandma (informal)","ex":"Say hi to nana!","hit":"nana","src":"dialogue","ep":118,"vi":""}
+{"w":"nana","d":"grandma (informal)","ex":"Ok, say bye to nana!","hit":"nana","src":"dialogue","ep":118,"vi":""}
 {"w":"I could just eat (something) up","d":"to enjoy something greatly (informal)","ex":"I could just eat him up!","hit":"I could just eat him up","src":"dialogue","ep":118,"vi":"","check":true}
 {"w":"beddy-bye","d":"go to sleep (informal)","ex":"","hit":"","src":"written","ep":118,"vi":""}
 {"w":"oopsie-daisy","d":"oops; (an informal interjection when a mistake is","ex":"","hit":"","src":"written","ep":118,"vi":""}
@@ -324,7 +323,7 @@
 {"w":"binkie","d":"soother; pacifier; a thing you put in a baby's mouth for it to suck (childish)","ex":"","hit":"","src":"written","ep":118,"vi":""}
 {"w":"booboo","d":"a small injury; something that hurts (informal, childish)","ex":"","hit":"","src":"written","ep":118,"vi":""}
 {"w":"potty","d":"toilet (informal; childish)","ex":"","hit":"","src":"written","ep":118,"vi":""}
-{"w":"baba","d":"bottle (informal; childish)","ex":"Hello widdle baby!","hit":"baby","src":"dialogue","ep":118,"vi":"","check":true}
+{"w":"baba","d":"bottle (informal; childish)","ex":"Why is the baby crying?","hit":"baby","src":"dialogue","ep":118,"vi":"","check":true}
 {"w":"spooky","d":"strange and a little frightening","ex":"It's like, ultra spooky!","hit":"spooky","src":"dialogue","ep":119,"vi":""}
 {"w":"scary looking","d":"frightening in appearance","ex":"Eddie, why are we at this scary looking mansion?","hit":"scary looking","src":"dialogue","ep":119,"vi":""}
 {"w":"scaredy cat","d":"someone who is always scared of things","ex":"Shabby is a scaredy cat!","hit":"scaredy cat","src":"dialogue","ep":119,"vi":""}

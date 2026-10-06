@@ -1,5 +1,7 @@
+{"w":"hilarious","d":"very amusing","ex":"Oh, and there's a Snoopy on it which is hilarious, hahah...","hit":"hilarious","src":"dialogue","ep":308,"vi":""}
 {"w":"split","d":"leave here","ex":"No, actually we split up last month.","hit":"split","src":"dialogue","ep":313,"vi":""}
-{"w":"movie","d":"movie","ex":"The new Twilight movie!","hit":"movie","src":"dialogue","ep":301,"vi":""}
+{"w":"kidding","d":"fool or joke","ex":"You have to be kidding me!","hit":"kidding","src":"dialogue","ep":312,"vi":""}
+{"w":"movie","d":"movie","ex":"Plus the cast is hip, young people that make the movie even more enticing.","hit":"movie","src":"dialogue","ep":301,"vi":""}
 {"w":"vampire","d":"a dead person who sucks the blood of living person","ex":"As inthe vampire movies?","hit":"vampire","src":"dialogue","ep":301,"vi":""}
 {"w":"tale","d":"a story","ex":"It's like a modern tale of Romeo and Juliet.","hit":"tale","src":"dialogue","ep":301,"vi":""}
 {"w":"fad","d":"a temporary fashion or notion","ex":"I think it's just a fad.","hit":"fad","src":"dialogue","ep":301,"vi":""}
@@ -111,10 +113,10 @@
 {"w":"wait ages","d":"wait for a very long time","ex":"It's raining cats and dogs outside and I had to wait ages for a taxi.","hit":"wait ages","src":"dialogue","ep":311,"vi":""}
 {"w":"hold up","d":"stuck","ex":"","hit":"","src":"written","ep":311,"vi":""}
 {"w":"I am terribly sorry","d":"Very sorry","ex":"","hit":"","src":"written","ep":311,"vi":""}
-{"w":"please excuse me","d":"pardon","ex":"Please excuse me ,I was held up in traffic.","hit":"Please excuse me","src":"dialogue","ep":311,"vi":""}
+{"w":"please excuse me","d":"pardon","ex":"Please excuse me,I was held up in traffic.","hit":"Please excuse me","src":"dialogue","ep":311,"vi":""}
 {"w":"late","d":"occurring, coming, or being after the usual or proper time","ex":"Hi everyone, I'm so sorry I'm late.","hit":"late","src":"dialogue","ep":311,"vi":""}
 {"w":"absent","d":"not in a certain place at a given time","ex":"","hit":"","src":"written","ep":311,"vi":""}
-{"w":"excuse","d":"to offer an apology for; seek to remove the blame of","ex":"Please excuse me ,I was held up in traffic.","hit":"excuse","src":"dialogue","ep":311,"vi":""}
+{"w":"excuse","d":"to offer an apology for; seek to remove the blame of","ex":"Please excuse me,I was held up in traffic.","hit":"excuse","src":"dialogue","ep":311,"vi":""}
 {"w":"slack","d":"negligent; careless","ex":"","hit":"","src":"written","ep":311,"vi":""}
 {"w":"dude","d":"informal way of calling a man","ex":"Dude!","hit":"Dude","src":"dialogue","ep":312,"vi":""}
 {"w":"kick","d":"power","ex":"Order something with a little more kick to it!","hit":"kick","src":"dialogue","ep":312,"vi":""}
@@ -192,7 +194,7 @@
 {"w":"corporate","d":"related to business","ex":"No matter what I do I'm going to ace this test and go on to become a corporate fat cat!","hit":"corporate","src":"dialogue","ep":320,"vi":""}
 {"w":"management","d":"the action of controlling an area of a business","ex":"Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section.","hit":"Management","src":"dialogue","ep":320,"vi":""}
 {"w":"graduate","d":"person who finished university","ex":"Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section.","hit":"Graduate","src":"dialogue","ep":320,"vi":""}
-{"w":"GMAT","d":"Graduate Management Admissions Test","ex":"GMAT?","hit":"GMAT","src":"dialogue","ep":320,"vi":""}
+{"w":"GMAT","d":"Graduate Management Admissions Test","ex":"The business schools measure your ability through a test called GMAT.","hit":"GMAT","src":"dialogue","ep":320,"vi":""}
 {"w":"analytical","d":"pertaining to or proceeding by analysis","ex":"Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section.","hit":"Analytical","src":"dialogue","ep":320,"vi":""}
 {"w":"quantitative","d":"type of information based in quantities","ex":"Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section.","hit":"Quantitative","src":"dialogue","ep":320,"vi":""}
 {"w":"verbal","d":"consisting of or in the form of words","ex":"Graduate Management Admission Test, it contains three parts; Analytical Writing Assessment, the Quantitative section, and the Verbal section.","hit":"Verbal","src":"dialogue","ep":320,"vi":""}

@@ -1,4 +1,4 @@
-{"w":"huge","d":"very big","ex":"Wow, it's huge!","hit":"huge","src":"dialogue","ep":177,"vi":""}
+{"w":"tell me about it","d":"I agree; I understand","ex":"Yeah tell me about it.","hit":"tell me about it","src":"dialogue","ep":178,"vi":""}
 {"w":"blow someone off","d":"to ignore someone or not appear to an appointment","ex":"","hit":"","src":"written","ep":161,"vi":""}
 {"w":"challenging","d":"difficult in an enjoyable way","ex":"It doesn't even look fun or challenging!","hit":"challenging","src":"dialogue","ep":161,"vi":""}
 {"w":"beat","d":"defeat","ex":"If you think it's so easy then get onlineand try to beat me.","hit":"beat","src":"dialogue","ep":161,"vi":""}
@@ -169,7 +169,7 @@
 {"w":"o'er","d":"over","ex":"O'er the fields we go","hit":"O'er","src":"dialogue","ep":180,"vi":""}
 {"w":"bell","d":"a hollow device that can ring when struck","ex":"Bells on bob tails ring","hit":"Bells","src":"dialogue","ep":180,"vi":"","check":true}
 {"w":"make one's spirit bright","d":"cheer someone up","ex":"","hit":"","src":"written","ep":180,"vi":""}
-{"w":"jingle","d":"make a gentle ringing noise","ex":"Jingle all the way","hit":"Jingle","src":"dialogue","ep":180,"vi":""}
+{"w":"jingle","d":"make a gentle ringing noise","ex":"Oh, jingle bells, jingle bells","hit":"jingle","src":"dialogue","ep":180,"vi":""}
 {"w":"Christmas carol","d":"Christmas song or hymn","ex":"","hit":"","src":"written","ep":180,"vi":""}
 {"w":"catchy","d":"pleasing and easily remembered","ex":"","hit":"","src":"written","ep":180,"vi":""}
 {"w":"all-time favorite","d":"thought of as a favorite in its entire history","ex":"","hit":"","src":"written","ep":180,"vi":""}

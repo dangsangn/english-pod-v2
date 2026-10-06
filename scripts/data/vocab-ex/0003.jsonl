@@ -31,6 +31,7 @@
 {"w":"sponsor","d":"someone who takes the responsibility for a person applying for a visa","ex":"And, who is sponsoring your trip?","hit":"sponsoring","src":"dialogue","ep":43,"vi":"","check":true}
 {"w":"invitation letter","d":"a formal letter asking a person to come to a place","ex":"My brother, here, this is an invitation letter from him.","hit":"invitation letter","src":"dialogue","ep":43,"vi":""}
 {"w":"tie","d":"responsibility that links a person to a place or a thing","ex":"Alright, tell me about the ties you have to your home country.","hit":"ties","src":"dialogue","ep":43,"vi":"","check":true}
+{"w":"evidence","d":"something that shows the thing is true","ex":"And what evidence do you have that you are financially independent?","hit":"evidence","src":"dialogue","ep":43,"vi":""}
 {"w":"financially independent","d":"have enough money to live alone; do not need help with money","ex":"And what evidence do you have that you are financially independent?","hit":"financially independent","src":"dialogue","ep":43,"vi":""}
 {"w":"assets","d":"things that are worth money that you own","ex":"Well, I do have assets in my country; like I said, I own a house, and see, here's a bank statement showing my investments, and my bank balance.","hit":"assets","src":"dialogue","ep":43,"vi":""}
 {"w":"grant","d":"let you have something","ex":"I'm sorry, sir, we cannot grant you a B2 visa at this time, instead, you are granted a resident visa!","hit":"grant","src":"dialogue","ep":43,"vi":""}
@@ -71,7 +72,7 @@
 {"w":"defibrillator","d":"electric machine that shocks the heart and makes it start working again","ex":"Get me the defibrillator.","hit":"defibrillator","src":"dialogue","ep":46,"vi":""}
 {"w":"BP","d":"blood pressure","ex":"His BP is falling!","hit":"BP","src":"dialogue","ep":46,"vi":""}
 {"w":"flatline","d":"condition where the heart stops working","ex":"He's flatlining!","hit":"flatlining","src":"dialogue","ep":46,"vi":"","check":true}
-{"w":"pulse","d":"the number of times your heart beats per minute","ex":"I've got a pulse!","hit":"pulse","src":"dialogue","ep":46,"vi":""}
+{"w":"pulse","d":"the number of times your heart beats per minute","ex":"Get the patient to hold still, I can't get a pulse!","hit":"pulse","src":"dialogue","ep":46,"vi":""}
 {"w":"hold still","d":"not move","ex":"Get the patient to hold still, I can't get a pulse!","hit":"hold still","src":"dialogue","ep":46,"vi":""}
 {"w":"hook up","d":"connect someone or something to a machine","ex":"Ellen, get him hooked up to a monitor!","hit":"hooked up","src":"dialogue","ep":46,"vi":"","check":true}
 {"w":"CPR","d":"procedure in which air is blown into another persons lungs though their mouth","ex":"I tried to perform CPR, but I just don't know if I could get any air into his lungs!","hit":"CPR","src":"dialogue","ep":46,"vi":""}
@@ -135,7 +136,7 @@
 {"w":"out of my price range","d":"too expensive, can't afford it","ex":"that's a bit out of my price range.","hit":"out of my price range","src":"dialogue","ep":51,"vi":""}
 {"w":"offer","d":"an opportunity to buy something at a low price","ex":"That's my last offer!","hit":"offer","src":"dialogue","ep":51,"vi":""}
 {"w":"pricey","d":"expensive","ex":"It's still a bit pricey....","hit":"pricey","src":"dialogue","ep":51,"vi":""}
-{"w":"deal","d":"agreement to buy something","ex":"You've got a deal!","hit":"deal","src":"dialogue","ep":51,"vi":""}
+{"w":"deal","d":"agreement to buy something","ex":"Can you give me a better deal?","hit":"deal","src":"dialogue","ep":51,"vi":""}
 {"w":"promotion","d":"a special discount or offer on goods and services","ex":"","hit":"","src":"written","ep":51,"vi":""}
 {"w":"cash","d":"money in the form of coins and bills","ex":"","hit":"","src":"written","ep":51,"vi":""}
 {"w":"credit card","d":"card that is used to buy things and pay at a later time","ex":"","hit":"","src":"written","ep":51,"vi":""}
@@ -147,7 +148,7 @@
 {"w":"sounds good","d":"seems or appears to be okay, I agree","ex":"Sure, that sounds good.","hit":"sounds good","src":"dialogue","ep":52,"vi":""}
 {"w":"pepperoni","d":"a spicy sausage usually on pizza","ex":"Um yes… I'd like a medium pizza with pepperoni, olives, and extra cheese.","hit":"pepperoni","src":"dialogue","ep":52,"vi":""}
 {"w":"olive","d":"a small, egg-shaped black or green fruit that is used as food or for making oil","ex":"Um yes… I'd like a medium pizza with pepperoni, olives, and extra cheese.","hit":"olives","src":"dialogue","ep":52,"vi":"","check":true}
-{"w":"crust","d":"the border of a pizza, or bread","ex":"Okay, thin crust.","hit":"crust","src":"dialogue","ep":52,"vi":""}
+{"w":"crust","d":"the border of a pizza, or bread","ex":"Oh, and make it thin crust.","hit":"crust","src":"dialogue","ep":52,"vi":""}
 {"w":"two-for-one","d":"pay for one and get another one free","ex":"","hit":"","src":"written","ep":52,"vi":""}
 {"w":"total","d":"sum of everything","ex":"Your total is $21.","hit":"total","src":"dialogue","ep":52,"vi":""}
 {"w":"fast food","d":"food that is quickly made and convenient if you are in a hurry","ex":"","hit":"","src":"written","ep":52,"vi":""}

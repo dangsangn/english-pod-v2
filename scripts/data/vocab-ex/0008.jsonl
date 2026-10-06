@@ -105,7 +105,7 @@
 {"w":"sicko","d":"A deranged, psychotic, or morbidly obsessed person","ex":"A lot of sickos out there.","hit":"sickos","src":"dialogue","ep":148,"vi":"","check":true}
 {"w":"red handed","d":"doing something wrong or illegal","ex":"Just the other day they caught that peeping tom red handed!","hit":"red handed","src":"dialogue","ep":148,"vi":""}
 {"w":"invade","d":"to affect in an unwanted way","ex":"People just invade your privacy as if they knew you!","hit":"invade","src":"dialogue","ep":148,"vi":""}
-{"w":"paranoid","d":"having an feeling that people will harm you","ex":"Paranoid?","hit":"Paranoid","src":"dialogue","ep":148,"vi":""}
+{"w":"paranoid","d":"having an feeling that people will harm you","ex":"Why are you acting all paranoid?","hit":"paranoid","src":"dialogue","ep":148,"vi":""}
 {"w":"need to know basis","d":"situation where you have only the information you need","ex":"I like to keep everything on a need to know basis","hit":"need to know basis","src":"dialogue","ep":148,"vi":""}
 {"w":"schizophrenia","d":"a psychotic disorder characterized by withdrawal from reality, hallucinations, or emotional instability","ex":"","hit":"","src":"written","ep":148,"vi":""}
 {"w":"the grid","d":"informal way of describing the network of information that can be used to keep track of someone","ex":"","hit":"","src":"written","ep":148,"vi":""}
@@ -124,7 +124,7 @@
 {"w":"bubble wrap","d":"transparent plastic material commonly used for packing fragile items","ex":"","hit":"","src":"written","ep":149,"vi":""}
 {"w":"real estate agent","d":"One that is autohirzed to sell land or property","ex":"","hit":"","src":"written","ep":149,"vi":""}
 {"w":"deposit","d":"A sum of money given as security for an item acquired for temporary use.","ex":"","hit":"","src":"written","ep":149,"vi":""}
-{"w":"movers","d":"One that transports household or office goods from one location to another as an occupation","ex":"I have to move.","hit":"move","src":"dialogue","ep":149,"vi":"","check":true}
+{"w":"movers","d":"One that transports household or office goods from one location to another as an occupation","ex":"I think I might move in with my parents for a couple of months until I can find something.","hit":"move","src":"dialogue","ep":149,"vi":"","check":true}
 {"w":"sneaky","d":"behaving in a secret and usually dishonest manner","ex":"Sneaky little jerks.","hit":"Sneaky","src":"dialogue","ep":150,"vi":""}
 {"w":"put up with","d":"to allow to exist or happen","ex":"Then we'll have to put up with it.","hit":"put up with","src":"dialogue","ep":150,"vi":""}
 {"w":"bug spray","d":"a liquid used to prevent being bitten by bugs","ex":"Do you have any bug spray?","hit":"bug spray","src":"dialogue","ep":150,"vi":""}
@@ -172,7 +172,7 @@
 {"w":"groomsmen","d":"a male friend who attends a bridegroom at his wedd","ex":"All the groomsmen are thinking up all the wacky and crazythings we are going to do that night.","hit":"groomsmen","src":"dialogue","ep":155,"vi":""}
 {"w":"wacky","d":"absurdly or amusingly eccentric or irrational","ex":"All the groomsmen are thinking up all the wacky and crazythings we are going to do that night.","hit":"wacky","src":"dialogue","ep":155,"vi":""}
 {"w":"gag gift","d":"funny or adult type toys or gifts","ex":"We are gonna play drinking games, get him some gag gifts and just have a good time.","hit":"gag gifts","src":"dialogue","ep":155,"vi":"","check":true}
-{"w":"over the top","d":"extreme, excessive","ex":"Nothing too over the top .","hit":"over the top","src":"dialogue","ep":155,"vi":""}
+{"w":"over the top","d":"extreme, excessive","ex":"Nothing too over the top.","hit":"over the top","src":"dialogue","ep":155,"vi":""}
 {"w":"bachelorette","d":"an unmarried woman","ex":"If one of your friends was getting married I wouldn't mind you going to her bachelorette party!","hit":"bachelorette","src":"dialogue","ep":155,"vi":""}
 {"w":"going away party","d":"a party held for someone who is leaving home or the country","ex":"","hit":"","src":"written","ep":155,"vi":""}
 {"w":"drinking binge","d":"drinking alcoholic beverages with the primary intention of becoming intoxicated","ex":"","hit":"","src":"written","ep":155,"vi":""}
@@ -201,7 +201,7 @@
 {"w":"dozen","d":"a word used to describe twelve units","ex":"Two dozen red roses lined with tulips, carnati ons and lilies.","hit":"dozen","src":"dialogue","ep":159,"vi":""}
 {"w":"recommend","d":"say something deserves to be chosen","ex":"What else do you recommend?","hit":"recommend","src":"dialogue","ep":159,"vi":""}
 {"w":"fragrance","d":"a scent or smell","ex":"The fragrance and beauty of this flower arrangement is sure to make her forgive you.","hit":"fragrance","src":"dialogue","ep":159,"vi":""}
-{"w":"chubby","d":"more polite way of calling someone fat","ex":"Well, I may have accidentally insinuated that she is getting chubbier .","hit":"chubbier","src":"dialogue","ep":159,"vi":"","check":true}
+{"w":"chubby","d":"more polite way of calling someone fat","ex":"Well, I may have accidentally insinuated that she is getting chubbier.","hit":"chubbier","src":"dialogue","ep":159,"vi":"","check":true}
 {"w":"vase","d":"a container for holding flowers, usually made of glass or porcelain","ex":"","hit":"","src":"written","ep":159,"vi":""}
 {"w":"bouquet","d":"a bunch of flowers tied together","ex":"","hit":"","src":"written","ep":159,"vi":""}
 {"w":"greenery","d":"the green plants in a bouquet that are not flowers, such as large leaves","ex":"","hit":"","src":"written","ep":159,"vi":""}

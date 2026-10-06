@@ -85,11 +85,12 @@ export function corpusPairs() {
     return pairs;
 }
 
-/** Straight apostrophes and single spaces: the form sentences are stored and compared in. */
+/** Straight apostrophes, single spaces, no space before punctuation: the form sentences are stored and compared in. */
 export function plain(text) {
     return String(text ?? '')
         .replace(/[’‘]/g, "'")
         .replace(/\s+/g, ' ')
+        .replace(/\s+([.,!?;:])/g, '$1')
         .trim();
 }
 

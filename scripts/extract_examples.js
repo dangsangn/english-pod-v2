@@ -22,6 +22,10 @@ import {
 } from './lib/examples.js';
 import { readDialogueLines } from './lib/transcripts.js';
 
+// Fragments like "GMAT?" make poor cloze/dictation sentences.
+const MIN_GOOD_WORDS = 5;
+const wordCount = (s) => s.split(' ').length;
+
 const dialogue = new Map();
 function sentencesOf(episodeId) {
     if (!dialogue.has(episodeId)) {
@@ -36,11 +40,13 @@ function draft(pair) {
         for (const sentence of sentencesOf(ep)) {
             const found = findHit(sentence, pair.word);
             if (!found) continue;
+            const good = wordCount(sentence) >= MIN_GOOD_WORDS;
             const better =
                 !best ||
                 (found.exact && !best.exact) ||
-                (found.exact === best.exact && sentence.length < best.ex.length);
-            if (better) best = { ex: sentence, hit: found.hit, exact: found.exact, ep };
+                (found.exact === best.exact &&
+                    (good && !best.good || (good === best.good && sentence.length < best.ex.length)));
+            if (better) best = { ex: sentence, hit: found.hit, exact: found.exact, good, ep };
         }
     }
     const base = { w: pair.word, d: pair.definition };

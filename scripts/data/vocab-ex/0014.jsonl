@@ -104,20 +104,20 @@
 {"w":"Dry-Clean","d":"A cleaning process that uses chemicals to clean clothes","ex":"","hit":"","src":"written","ep":270,"vi":""}
 {"w":"Herringbone","d":"A type of pattern, common on suits, that resembles thin, \"saw-like\" lines","ex":"","hit":"","src":"written","ep":270,"vi":""}
 {"w":"Garment","d":"an article of clothing","ex":"","hit":"","src":"written","ep":270,"vi":""}
-{"w":"strength","d":"a quality or feature that makes someone or somethi","ex":"It has been three years since I visited Beijing ,and it's clear to me that operations here are obviously going from strength to strength.","hit":"strength","src":"dialogue","ep":271,"vi":""}
+{"w":"strength","d":"a quality or feature that makes someone or somethi","ex":"It has been three years since I visited Beijing,and it's clear to me that operations here are obviously going from strength to strength.","hit":"strength","src":"dialogue","ep":271,"vi":""}
 {"w":"first of all","d":"phrase used to introduce a series of ideas, starting with the first one","ex":"First of all, I'd like to briefly touch on the background of the new x420 line; how the whole concept has come about and how the new product fits into our existing brand line.","hit":"First of all","src":"dialogue","ep":271,"vi":""}
 {"w":"go on","d":"continue, go forward","ex":"We will then go on to discuss our key rivals in this sector.","hit":"go on","src":"dialogue","ep":271,"vi":""}
 {"w":"Finally","d":"at last","ex":"Finally I'm happy to open up the discussion for any questions or points you might have for me.","hit":"Finally","src":"dialogue","ep":271,"vi":""}
 {"w":"launch","d":"to begin","ex":"We have bounced back from the recession and now we are set to launch our new line of laptop and desktop computers.","hit":"launch","src":"dialogue","ep":271,"vi":""}
 {"w":"overview","d":"a general explanation","ex":"I'm really pleased to welcome Michael Ford, the Global Marketing Manager for Alpha computers,who has flown in from California to give all of you an overview of the marketing campaign and to answer any questions you may have.","hit":"overview","src":"dialogue","ep":271,"vi":""}
-{"w":"strength to strength","d":"more and more successful","ex":"It has been three years since I visited Beijing ,and it's clear to me that operations here are obviously going from strength to strength.","hit":"strength to strength","src":"dialogue","ep":271,"vi":""}
+{"w":"strength to strength","d":"more and more successful","ex":"It has been three years since I visited Beijing,and it's clear to me that operations here are obviously going from strength to strength.","hit":"strength to strength","src":"dialogue","ep":271,"vi":""}
 {"w":"Powerpoint Presentation","d":"A presentation using a computer program called powerpoint","ex":"","hit":"","src":"written","ep":271,"vi":""}
 {"w":"Projector","d":"a machine used to project a large digital image onto a plain white surface","ex":"Secondly I'dlike to present data on projected sales for the x420.","hit":"projected","src":"dialogue","ep":271,"vi":"","check":true}
 {"w":"Podium","d":"a small usually wooden table used to hold a microphone for use of a speaker","ex":"","hit":"","src":"written","ep":271,"vi":""}
 {"w":"Speech","d":"a public discourse","ex":"","hit":"","src":"written","ep":271,"vi":""}
 {"w":"Graph","d":"A graphic image that represents variations and numbers","ex":"","hit":"","src":"written","ep":271,"vi":""}
 {"w":"hire","d":"to give work","ex":"Maybe you should hire a nanny to help you out!","hit":"hire","src":"dialogue","ep":272,"vi":""}
-{"w":"nanny","d":"a woman who is paid to care for a young child","ex":"it's hard to find the right nanny .","hit":"nanny","src":"dialogue","ep":272,"vi":""}
+{"w":"nanny","d":"a woman who is paid to care for a young child","ex":"it's hard to find the right nanny.","hit":"nanny","src":"dialogue","ep":272,"vi":""}
 {"w":"chore","d":"a small job that is done regularly","ex":"She can also help you do some household chores, and run some errands.","hit":"chores","src":"dialogue","ep":272,"vi":"","check":true}
 {"w":"errand","d":"short journey that you take to do or get something","ex":"She can also help you do some household chores, and run some errands.","hit":"errands","src":"dialogue","ep":272,"vi":"","check":true}
 {"w":"juggle","d":"to do several things at the same time","ex":"This way you won't have to juggle such a busy schedule, and you'll still get to spend time with the kids in the evenings.","hit":"juggle","src":"dialogue","ep":272,"vi":""}
@@ -172,7 +172,7 @@
 {"w":"differentiate","d":"recognize or show the difference","ex":"Now a key question you might ask yourself is what differentiates the new x420 line with our previous models, and also of course with some of our competitors.","hit":"differentiates","src":"dialogue","ep":277,"vi":"","check":true}
 {"w":"in other words","d":"take another way to say","ex":"In other words what makes the x420 stand out from all the others?","hit":"In other words","src":"dialogue","ep":277,"vi":""}
 {"w":"stand out","d":"very noticeable","ex":"In other words what makes the x420 stand out from all the others?","hit":"stand out","src":"dialogue","ep":277,"vi":""}
-{"w":"in a league of its own","d":"the best;have no competitor","ex":"Compared with our previous x540 range it really is in a league of its own .","hit":"in a league of its own","src":"dialogue","ep":277,"vi":""}
+{"w":"in a league of its own","d":"the best;have no competitor","ex":"Compared with our previous x540 range it really is in a league of its own.","hit":"in a league of its own","src":"dialogue","ep":277,"vi":""}
 {"w":"revenue","d":"the amount of sales, in dollars (or other currency)","ex":"I'm certain that in the coming three years the x420 will actually overtake all our existing products, both in terms of sales and revenue.","hit":"revenue","src":"dialogue","ep":277,"vi":""}
 {"w":"market share","d":"how much of the market is occupied by sales of a certain product","ex":"","hit":"","src":"written","ep":277,"vi":""}
 {"w":"breakthrough","d":"creative, innovative technology","ex":"","hit":"","src":"written","ep":277,"vi":""}
@@ -187,7 +187,7 @@
 {"w":"limited-time offer","d":"a promotion that is only available for a certain amount of time","ex":"","hit":"","src":"written","ep":278,"vi":""}
 {"w":"rip off","d":"to give someone a bad deal","ex":"","hit":"","src":"written","ep":278,"vi":""}
 {"w":"ripoff","d":"a bad deal","ex":"","hit":"","src":"written","ep":278,"vi":""}
-{"w":"weed","d":"a drug,Marijuana","ex":"Weed!","hit":"Weed","src":"dialogue","ep":279,"vi":""}
+{"w":"weed","d":"a drug,Marijuana","ex":"Hey man, you wanna buy some weed?","hit":"weed","src":"dialogue","ep":279,"vi":""}
 {"w":"come on","d":"to ask someone to do something (informal)","ex":"Come on man!","hit":"Come on","src":"dialogue","ep":279,"vi":""}
 {"w":"connection","d":"A person, especially one of influence or importance, with whom one is associated","ex":"I got my connections!","hit":"connections","src":"dialogue","ep":279,"vi":"","check":true}
 {"w":"under arrest","d":"the act of legally taking someone to jail","ex":"You are under arrest!","hit":"under arrest","src":"dialogue","ep":279,"vi":""}

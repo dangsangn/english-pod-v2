@@ -1,4 +1,4 @@
-{"w":"stable","d":"a building for the shelter and feeding of domestic animals, especially horses and cattle","ex":"Relax, that was just the horses and donkeys that are in the stable .","hit":"stable","src":"dialogue","ep":185,"vi":""}
+{"w":"stable","d":"a building for the shelter and feeding of domestic animals, especially horses and cattle","ex":"Relax, that was just the horses and donkeys that are in the stable.","hit":"stable","src":"dialogue","ep":185,"vi":""}
 {"w":"grouch","d":"a bad-tempered person","ex":"Honestly, you can be such a grouch sometimes.","hit":"grouch","src":"dialogue","ep":181,"vi":""}
 {"w":"knock oneself out","d":"go ahead; do as you please","ex":"","hit":"","src":"written","ep":181,"vi":""}
 {"w":"head to","d":"go directly to","ex":"We should get ready and head to the market to buy everything for the Christmas dinner tonight.","hit":"head to","src":"dialogue","ep":181,"vi":""}
@@ -45,7 +45,7 @@
 {"w":"milk","d":"get the milk from a cow","ex":"We can milk them later.","hit":"milk","src":"dialogue","ep":185,"vi":""}
 {"w":"don't know the first thing about","d":"know little about","ex":"Though I have to confess, I don't know the first thing about farming!","hit":"don't know the first thing about","src":"dialogue","ep":185,"vi":""}
 {"w":"hack it","d":"be able to manage or manage successfully","ex":"I don't think I can hack it here out in the countryside.","hit":"hack it","src":"dialogue","ep":185,"vi":""}
-{"w":"stall","d":"a compartment for one domestic animal in a barn or shed","ex":"Relax, that was just the horses and donkeys that are in the stable .","hit":"stable","src":"dialogue","ep":185,"vi":"","check":true}
+{"w":"stall","d":"a compartment for one domestic animal in a barn or shed","ex":"Relax, that was just the horses and donkeys that are in the stable.","hit":"stable","src":"dialogue","ep":185,"vi":"","check":true}
 {"w":"pig sty","d":"a pen or enclosure for pigs; pigpen","ex":"","hit":"","src":"written","ep":185,"vi":""}
 {"w":"pen","d":"a small enclosure for domestic animals","ex":"","hit":"","src":"written","ep":185,"vi":""}
 {"w":"chicken coop","d":"an enclosure or cage for chickens","ex":"","hit":"","src":"written","ep":185,"vi":""}
@@ -71,7 +71,7 @@
 {"w":"obese","d":"extremely fat","ex":"","hit":"","src":"written","ep":187,"vi":""}
 {"w":"low-carb","d":"not containing many carbohydrates","ex":"","hit":"","src":"written","ep":187,"vi":""}
 {"w":"beat around the bush","d":"avoid the subject by talking about something else","ex":"I won't beat around the bush.","hit":"beat around the bush","src":"dialogue","ep":188,"vi":""}
-{"w":"raise","d":"increase in salary","ex":"A raise?","hit":"raise","src":"dialogue","ep":188,"vi":""}
+{"w":"raise","d":"increase in salary","ex":"Sir, I would like a raise.","hit":"raise","src":"dialogue","ep":188,"vi":""}
 {"w":"take into consideration","d":"to think about something before making a decision","ex":"I understand your position, and I know that the current economic downturn has had a negative impact on sales, but you must also take into consideration my hard work, pro-activeness and loyalty to this company for over a decade.","hit":"take into consideration","src":"dialogue","ep":188,"vi":""}
 {"w":"offer","d":"give with the choice of accepting or rejecting","ex":"Taking into account these factors, and considering I don't want to start a brain drain, I'm willing to offer you a ten percent raise and an extra five days of vacation time.","hit":"offer","src":"dialogue","ep":188,"vi":""}
 {"w":"loyalty","d":"the quality of being loyal","ex":"I understand your position, and I know that the current economic downturn has had a negative impact on sales, but you must also take into consideration my hard work, pro-activeness and loyalty to this company for over a decade.","hit":"loyalty","src":"dialogue","ep":188,"vi":""}
@@ -135,7 +135,7 @@
 {"w":"siding","d":"material attached to the outside of a building","ex":"A two-car carport, pastel siding and a gable roof.","hit":"siding","src":"dialogue","ep":193,"vi":""}
 {"w":"gable","d":"the triangular upper part of a wall","ex":"A two-car carport, pastel siding and a gable roof.","hit":"gable","src":"dialogue","ep":193,"vi":""}
 {"w":"roof","d":"the top of a building","ex":"We would have solar panels on the roof -","hit":"roof","src":"dialogue","ep":193,"vi":""}
-{"w":"shutter","d":"covers unfold in front of a window","ex":"Completed with white shutters and a white picket fence !","hit":"shutters","src":"dialogue","ep":193,"vi":"","check":true}
+{"w":"shutter","d":"covers unfold in front of a window","ex":"Completed with white shutters and a white picket fence!","hit":"shutters","src":"dialogue","ep":193,"vi":"","check":true}
 {"w":"mantle","d":"the shelf above a fireplace","ex":"In the living room we would have moss-green rugs and a fireplace with a stone mantle and wood paneling on the walls.","hit":"mantle","src":"dialogue","ep":193,"vi":""}
 {"w":"paneling","d":"sheets of wood fit into a frame to form a wall","ex":"In the living room we would have moss-green rugs and a fireplace with a stone mantle and wood paneling on the walls.","hit":"paneling","src":"dialogue","ep":193,"vi":""}
 {"w":"turquoise","d":"a bluish-green, precious stone","ex":"In the kitchen, the cupboards would be a pale yellow and we would have a turquoise metal oven and vinyl flooring -","hit":"turquoise","src":"dialogue","ep":193,"vi":""}
@@ -158,7 +158,7 @@
 {"w":"buttervup","d":"a plant with small yellow flowers","ex":"","hit":"","src":"written","ep":193,"vi":""}
 {"w":"technological","d":"based in scientific and industrial progress","ex":"And I thought you, Mr. Scientist, were all up on saving the planet with your technological advancements!","hit":"technological","src":"dialogue","ep":193,"vi":""}
 {"w":"advancements","d":"improvement or development","ex":"And I thought you, Mr. Scientist, were all up on saving the planet with your technological advancements!","hit":"advancements","src":"dialogue","ep":193,"vi":""}
-{"w":"picket fence","d":"a fence consisting of pickets","ex":"Completed with white shutters and a white picket fence !","hit":"picket fence","src":"dialogue","ep":193,"vi":""}
+{"w":"picket fence","d":"a fence consisting of pickets","ex":"Completed with white shutters and a white picket fence!","hit":"picket fence","src":"dialogue","ep":193,"vi":""}
 {"w":"open concept","d":"a form or style of room","ex":"An open concept house, all glass, wood, metal, and concrete.","hit":"open concept","src":"dialogue","ep":193,"vi":""}
 {"w":"all up on","d":"have all knowledge or information of something","ex":"And I thought you, Mr. Scientist, were all up on saving the planet with your technological advancements!","hit":"all up on","src":"dialogue","ep":193,"vi":""}
 {"w":"renovation","d":"to restore to good condition; make new or as if new again","ex":"","hit":"","src":"written","ep":193,"vi":""}

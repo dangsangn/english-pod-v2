@@ -176,12 +176,12 @@
 {"w":"baby finger","d":"smallest finger on your hand; synonym for pinkie","ex":"","hit":"","src":"written","ep":73,"vi":""}
 {"w":"engagement ring","d":"a ring a man gives to his girlfriend when he asks her to marry him","ex":"","hit":"","src":"written","ep":73,"vi":""}
 {"w":"finger nail","d":"the hard part at the end of your finger that keeps growing","ex":"","hit":"","src":"written","ep":73,"vi":""}
-{"w":"salad","d":"a dish made of raw vegetables","ex":"Miss, your salad.","hit":"salad","src":"dialogue","ep":74,"vi":""}
+{"w":"salad","d":"a dish made of raw vegetables","ex":"Oh right, I have a salad.","hit":"salad","src":"dialogue","ep":74,"vi":""}
 {"w":"positively","d":"truly","ex":"I'm positively famished.","hit":"positively","src":"dialogue","ep":74,"vi":""}
 {"w":"famished","d":"very hungry","ex":"I'm positively famished.","hit":"famished","src":"dialogue","ep":74,"vi":""}
 {"w":"at the top of one's lungs","d":"to be as loud as possible","ex":"","hit":"","src":"written","ep":74,"vi":""}
 {"w":"dumbass","d":"an impolite way of calling someone foolish","ex":"","hit":"","src":"written","ep":74,"vi":""}
-{"w":"sexy","d":"sexy to the greatest degree","ex":"That's sexist.","hit":"sexist","src":"dialogue","ep":74,"vi":"","check":true}
+{"w":"sexy","d":"sexy to the greatest degree","ex":"She's so hot, She's making me sexist.","hit":"sexist","src":"dialogue","ep":74,"vi":"","check":true}
 {"w":"tool","d":"someone who is stupid or useless","ex":"I'm such a tool.","hit":"tool","src":"dialogue","ep":74,"vi":""}
 {"w":"get it together","d":"control your emotions","ex":"Okay, get it together.","hit":"get it together","src":"dialogue","ep":74,"vi":""}
 {"w":"crap","d":"an impolite way of saying something is bad","ex":"Oh, crap!","hit":"crap","src":"dialogue","ep":74,"vi":""}

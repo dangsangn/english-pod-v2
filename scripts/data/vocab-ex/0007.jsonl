@@ -65,7 +65,7 @@
 {"w":"punk","d":"to play a joke or prank someone","ex":"","hit":"","src":"written","ep":126,"vi":""}
 {"w":"mock","d":"make fun of or laugh at someone","ex":"","hit":"","src":"written","ep":126,"vi":""}
 {"w":"ad lib","d":"In an unrestrained manner; spontaneously.","ex":"","hit":"","src":"written","ep":126,"vi":""}
-{"w":"genre","d":"a kind of literary or artistic work","ex":"And the genre?","hit":"genre","src":"dialogue","ep":127,"vi":""}
+{"w":"genre","d":"a kind of literary or artistic work","ex":"The genre is country music!","hit":"genre","src":"dialogue","ep":127,"vi":""}
 {"w":"acronym","d":"abbreviations","ex":"For all our viewers the acronym R&B stands for Rhythm and Blues.","hit":"acronym","src":"dialogue","ep":127,"vi":""}
 {"w":"sudden death","d":"extra ime to determine a winner after a tie","ex":"Team B, the pressure is on, if you get all of them right, we will move on to sudden death.","hit":"sudden death","src":"dialogue","ep":127,"vi":""}
 {"w":"the pressure is on","d":"the outcome or result depends on you","ex":"Team B, the pressure is on, if you get all of them right, we will move on to sudden death.","hit":"the pressure is on","src":"dialogue","ep":127,"vi":""}
@@ -186,9 +186,9 @@
 {"w":"beat the hell out of","d":"to purposefully abuse something","ex":"Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.","hit":"beat the hell out of","src":"dialogue","ep":138,"vi":""}
 {"w":"mid-size vehicle","d":"a medium sized car","ex":"","hit":"","src":"written","ep":138,"vi":""}
 {"w":"at the moment","d":"at the present time","ex":"I'm sorry, we have no mid-size available at the moment.","hit":"at the moment","src":"dialogue","ep":138,"vi":""}
-{"w":"compact","d":"a small car","ex":"I'll take the compact.","hit":"compact","src":"dialogue","ep":138,"vi":""}
+{"w":"compact","d":"a small car","ex":"But we do have a compact or an SUV if you'd like.","hit":"compact","src":"dialogue","ep":138,"vi":""}
 {"w":"SUV","d":"sport utility vehicle","ex":"But we do have a compact or an SUV if you'd like.","hit":"SUV","src":"dialogue","ep":138,"vi":""}
-{"w":"insurance","d":"protection from costs of accidental damage","ex":"Would you like insurance?","hit":"insurance","src":"dialogue","ep":138,"vi":""}
+{"w":"insurance","d":"protection from costs of accidental damage","ex":"Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.","hit":"insurance","src":"dialogue","ep":138,"vi":""}
 {"w":"rental agreement","d":"contract signed with details of car rental","ex":"","hit":"","src":"written","ep":138,"vi":""}
 {"w":"daily rate","d":"the amount of money to be paid per day the car is rented","ex":"","hit":"","src":"written","ep":138,"vi":""}
 {"w":"book","d":"to make arrangements for later","ex":"","hit":"","src":"written","ep":138,"vi":""}

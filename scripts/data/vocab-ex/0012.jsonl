@@ -1,6 +1,5 @@
 {"w":"ridiculous","d":"very unreasonable or silly","ex":"That's ridiculous!","hit":"ridiculous","src":"dialogue","ep":223,"vi":""}
 {"w":"drastic","d":"sudden and severe","ex":"But it doesn't have to be that drastic.","hit":"drastic","src":"dialogue","ep":222,"vi":""}
-{"w":"sideburns","d":"hair that grows on the sides of man","ex":"Did he have sideburns?","hit":"sideburns","src":"dialogue","ep":223,"vi":""}
 {"w":"scattered","d":"something that is spread all over an area","ex":"The sun is hot and there are just a few clouds scattered here and there!","hit":"scattered","src":"dialogue","ep":228,"vi":""}
 {"w":"do the trick","d":"accomplish the desired task","ex":"Sounds like he only has transient insomnia since it's a recent thing so taking melatonin do the trick.","hit":"do the trick","src":"dialogue","ep":236,"vi":""}
 {"w":"go through","d":"look at (something) in a careful way","ex":"Hold on, before you kick your car let's go through some possible problems.","hit":"go through","src":"dialogue","ep":221,"vi":""}
@@ -8,7 +7,6 @@
 {"w":"spark plug","d":"electrical device that ignites the gas by electric","ex":"I am here with my friend and he thinks it may be the spark plug or the starter motor.","hit":"spark plug","src":"dialogue","ep":221,"vi":""}
 {"w":"starter motor","d":"an electric motor for starting an engine","ex":"I am here with my friend and he thinks it may be the spark plug or the starter motor.","hit":"starter motor","src":"dialogue","ep":221,"vi":""}
 {"w":"crank","d":"to start (an engine, motor, etc.)","ex":"Those are possible problems, but tell me, when you turn the key, do you hear the starter motor crank?","hit":"crank","src":"dialogue","ep":221,"vi":""}
-{"w":"engine","d":"the device which helps cars getting running","ex":"The engine won't start.","hit":"engine","src":"dialogue","ep":221,"vi":""}
 {"w":"accelerator","d":"a pedal that controls the throttle valve","ex":"Should I maybe press the accelerator?","hit":"accelerator","src":"dialogue","ep":221,"vi":""}
 {"w":"carburetor","d":"mixes air with gasoline vapor prior to explosion","ex":"If you step on the accelerator pedal you can flood the carburetor and your car will never start.","hit":"carburetor","src":"dialogue","ep":221,"vi":""}
 {"w":"to stall","d":"when a car's engine will not start","ex":"","hit":"","src":"written","ep":221,"vi":""}
@@ -33,8 +31,8 @@
 {"w":"alternatives","d":"to replace something with something of equal use","ex":"","hit":"","src":"written","ep":222,"vi":""}
 {"w":"facial hair","d":"hair on the face","ex":"Ok, the facial hair, was it a beard or a mustache?","hit":"facial hair","src":"dialogue","ep":223,"vi":""}
 {"w":"beard","d":"the hair growing on the lower part of a man's face","ex":"Ok, the facial hair, was it a beard or a mustache?","hit":"beard","src":"dialogue","ep":223,"vi":""}
-{"w":"mustache","d":"an unshaved growth of hair on the upper lip","ex":"Yes, that's the mustache!","hit":"mustache","src":"dialogue","ep":223,"vi":""}
-{"w":"goatee","d":"a small chin beard trimmed into a point","ex":"A goatee?","hit":"goatee","src":"dialogue","ep":223,"vi":""}
+{"w":"mustache","d":"an unshaved growth of hair on the upper lip","ex":"His mustache was very short and thin, ….","hit":"mustache","src":"dialogue","ep":223,"vi":""}
+{"w":"goatee","d":"a small chin beard trimmed into a point","ex":"Ah yes, that's it, he had a goatee.........","hit":"goatee","src":"dialogue","ep":223,"vi":""}
 {"w":"thick","d":"not thin;great in extent from the surface","ex":"Um, they were long and thick, yours!","hit":"thick","src":"dialogue","ep":223,"vi":""}
 {"w":"why yes","d":"as a matter of fact","ex":"Hmmm, why yes he does.","hit":"why yes","src":"dialogue","ep":223,"vi":""}
 {"w":"Sketch Artist","d":"A person who can draw a face from instruction","ex":"","hit":"","src":"written","ep":223,"vi":""}
@@ -45,7 +43,7 @@
 {"w":"forensics","d":"scientific tests used in the investigation of crime","ex":"Have the forensics team been in yet?","hit":"forensics","src":"dialogue","ep":224,"vi":""}
 {"w":"identify","d":"discover and define","ex":"Hopefully, they will be able to identify the burglar soon.","hit":"identify","src":"dialogue","ep":224,"vi":""}
 {"w":"strand","d":"a single length of","ex":"A strand of golden hair…… this is a very important piece of trace evidence McGraw.","hit":"strand","src":"dialogue","ep":224,"vi":""}
-{"w":"accomplice","d":"a person who helps another in committing a crime","ex":"An accomplice?","hit":"accomplice","src":"dialogue","ep":224,"vi":""}
+{"w":"accomplice","d":"a person who helps another in committing a crime","ex":"Did she have an accomplice?","hit":"accomplice","src":"dialogue","ep":224,"vi":""}
 {"w":"reconstruct","d":"form a picture of a crime by piecing together evidence","ex":"Now, let's reconstruct the crime…… the suspect came in, sat in each chair breaking the smallest one into little pieces.","hit":"reconstruct","src":"dialogue","ep":224,"vi":""}
 {"w":"Give it to me straight","d":"tell me something directly and honestly","ex":"Alright, Officer McGraw, Give it to me straight, what are we looking at here?","hit":"Give it to me straight","src":"dialogue","ep":224,"vi":""}
 {"w":"suspect","d":"think something is false","ex":"It tells me the suspect has long golden hair…….","hit":"suspect","src":"dialogue","ep":224,"vi":""}
@@ -56,7 +54,7 @@
 {"w":"run through","d":"rehearse quickly","ex":"Alright, let's run through this one more time from the top.","hit":"run through","src":"dialogue","ep":225,"vi":""}
 {"w":"snoop","d":"pry into the private affairs of others","ex":"the guy on the inside… He's been snooping and passing on the info to us so we can pull this heist off!","hit":"snooping","src":"dialogue","ep":225,"vi":"","check":true}
 {"w":"outta","d":"out of","ex":"Yea, Ralph, clean the moth balls outta your ears and listen up.","hit":"outta","src":"dialogue","ep":225,"vi":""}
-{"w":"slammer","d":"a prison or jail","ex":"This here is important , you don't wanna end up back in the slammer, do ya?","hit":"slammer","src":"dialogue","ep":225,"vi":""}
+{"w":"slammer","d":"a prison or jail","ex":"This here is important, you don't wanna end up back in the slammer, do ya?","hit":"slammer","src":"dialogue","ep":225,"vi":""}
 {"w":"intel","d":"short for intelligence;information or instructions","ex":"Now, according to the intel we got from Jimmy…","hit":"intel","src":"dialogue","ep":225,"vi":""}
 {"w":"lookout","d":"person who watches and warns if there is danger","ex":"Oh yeah, ok, so I'll be the lookout….","hit":"lookout","src":"dialogue","ep":225,"vi":""}
 {"w":"go-ahead","d":"permission to do something","ex":"","hit":"","src":"written","ep":225,"vi":""}
@@ -125,14 +123,14 @@
 {"w":"shovel","d":"a tool with a long handle used for lifting and thr","ex":"A rake, shovel, spade and a hoe.","hit":"shovel","src":"dialogue","ep":230,"vi":""}
 {"w":"spade","d":"a tool with a heavy metal blade used for digging","ex":"A rake, shovel, spade and a hoe.","hit":"spade","src":"dialogue","ep":230,"vi":""}
 {"w":"hoe","d":"a garden tool that has a flat blade on a long hand","ex":"A rake, shovel, spade and a hoe.","hit":"hoe","src":"dialogue","ep":230,"vi":""}
-{"w":"base covered","d":"have all the things prepared","ex":"Well it seems like you have all your bases covered .","hit":"bases covered","src":"dialogue","ep":230,"vi":"","check":true}
+{"w":"base covered","d":"have all the things prepared","ex":"Well it seems like you have all your bases covered.","hit":"bases covered","src":"dialogue","ep":230,"vi":"","check":true}
 {"w":"till","d":"prepare for growing plants","ex":"I'll till the soil and then sow the seeds.","hit":"till","src":"dialogue","ep":230,"vi":""}
 {"w":"voila","d":"something used when something is being presented","ex":"I'll then add some fertilizer and voila!","hit":"voila","src":"dialogue","ep":230,"vi":""}
 {"w":"sprinkler","d":"a device attached to a water hose to spread water","ex":"","hit":"","src":"written","ep":230,"vi":""}
 {"w":"pruner","d":"a tool used to remove small branches from trees","ex":"","hit":"","src":"written","ep":230,"vi":""}
 {"w":"hedges","d":"a kind of shrub plant","ex":"","hit":"","src":"written","ep":230,"vi":""}
 {"w":"garden hose","d":"a long tube connected to a facet to disperse water","ex":"","hit":"","src":"written","ep":230,"vi":""}
-{"w":"gardener","d":"a person who tends to gardens","ex":"Gardening all done!","hit":"Gardening","src":"dialogue","ep":230,"vi":"","check":true}
+{"w":"gardener","d":"a person who tends to gardens","ex":"I've decided to grow my own garden!","hit":"garden","src":"dialogue","ep":230,"vi":"","check":true}
 {"w":"support","d":"something that holds a person","ex":"They don't provide any support anymore.","hit":"support","src":"dialogue","ep":231,"vi":""}
 {"w":"strappy sandals","d":"a shoe with a bottom part having straps","ex":"We've got strappy sandals, sleek high heels, edgy pumps, or if you're looking for something a little more practical, we've got Mary Janes, ballerinas.","hit":"strappy sandals","src":"dialogue","ep":231,"vi":""}
 {"w":"edgy pump","d":"a low-cut low-heeled shoe","ex":"We've got strappy sandals, sleek high heels, edgy pumps, or if you're looking for something a little more practical, we've got Mary Janes, ballerinas.","hit":"edgy pumps","src":"dialogue","ep":231,"vi":"","check":true}
@@ -199,10 +197,10 @@
 {"w":"human resource department","d":"the department in charge of hiring new employees","ex":"","hit":"","src":"written","ep":235,"vi":""}
 {"w":"go to sleep","d":"fall asleep","ex":"","hit":"","src":"written","ep":236,"vi":""}
 {"w":"sedative","d":"a drug that calms or relaxes someone","ex":"Just take some sedatives!","hit":"sedatives","src":"dialogue","ep":236,"vi":"","check":true}
-{"w":"nightmare","d":"a dream that cause horror","ex":"And then when I finally get to sleep , I have these really disturbing nightmares, so I usually wake up in a panic and more tired than before I went to sleep .","hit":"nightmares","src":"dialogue","ep":236,"vi":"","check":true}
-{"w":"sleeping pattern","d":"the regular time of sleeping","ex":"It's the stuff pilots use to regulate their sleeping patterns .","hit":"sleeping patterns","src":"dialogue","ep":236,"vi":"","check":true}
-{"w":"sleeping disorder","d":"people who have a medical disorder of the sleep","ex":"It works on all kinds of sleeping disorders .","hit":"sleeping disorders","src":"dialogue","ep":236,"vi":"","check":true}
-{"w":"get to sleep","d":"fall asleep","ex":"I usually lie in bed for hours trying to get to sleep .","hit":"get to sleep","src":"dialogue","ep":236,"vi":""}
+{"w":"nightmare","d":"a dream that cause horror","ex":"And then when I finally get to sleep, I have these really disturbing nightmares, so I usually wake up in a panic and more tired than before I went to sleep.","hit":"nightmares","src":"dialogue","ep":236,"vi":"","check":true}
+{"w":"sleeping pattern","d":"the regular time of sleeping","ex":"It's the stuff pilots use to regulate their sleeping patterns.","hit":"sleeping patterns","src":"dialogue","ep":236,"vi":"","check":true}
+{"w":"sleeping disorder","d":"people who have a medical disorder of the sleep","ex":"It works on all kinds of sleeping disorders.","hit":"sleeping disorders","src":"dialogue","ep":236,"vi":"","check":true}
+{"w":"get to sleep","d":"fall asleep","ex":"I usually lie in bed for hours trying to get to sleep.","hit":"get to sleep","src":"dialogue","ep":236,"vi":""}
 {"w":"sleeping pills","d":"medication used to help you fall asleep","ex":"","hit":"","src":"written","ep":236,"vi":""}
 {"w":"night terrors","d":"severe nightmares","ex":"","hit":"","src":"written","ep":236,"vi":""}
 {"w":"sleep apnea","d":"a sleep disorder where the breathing is irregular","ex":"","hit":"","src":"written","ep":236,"vi":""}
@@ -212,7 +210,7 @@
 {"w":"set aside","d":"to keep time for a particular purpose","ex":"I have to set aside about an hour and a half to get ready in the mornings.","hit":"set aside","src":"dialogue","ep":237,"vi":""}
 {"w":"frequently","d":"often","ex":"If it's a hair-washing day, I frequently need to wash my hair twice because it gets really oily.","hit":"frequently","src":"dialogue","ep":237,"vi":""}
 {"w":"seldom","d":"almost never","ex":"Because my hair is so long, I seldom manage to take a shower in under twenty minutes.","hit":"seldom","src":"dialogue","ep":237,"vi":""}
-{"w":"at which time","d":"whenever","ex":"In all , getting dressed takes about half an hour , at which time my hair is now semi-dry so then I have to style my hair.","hit":"at which time","src":"dialogue","ep":237,"vi":""}
+{"w":"at which time","d":"whenever","ex":"In all, getting dressed takes about half an hour, at which time my hair is now semi-dry so then I have to style my hair.","hit":"at which time","src":"dialogue","ep":237,"vi":""}
 {"w":"from time to time","d":"once in a while","ex":"From time to time I'll put my hair up, but oftentimes I blow-dry it straight.","hit":"From time to time","src":"dialogue","ep":237,"vi":""}
 {"w":"oftentimes","d":"frequently","ex":"From time to time I'll put my hair up, but oftentimes I blow-dry it straight.","hit":"oftentimes","src":"dialogue","ep":237,"vi":""}
 {"w":"makeup","d":"cosmetics applied to improve your appearance","ex":"After that, I have my daily makeup routine.","hit":"makeup","src":"dialogue","ep":237,"vi":""}
@@ -232,7 +230,7 @@
 {"w":"cover page","d":"a page briefly describing the interviewee","ex":"","hit":"","src":"written","ep":238,"vi":""}
 {"w":"qualities","d":"certain positive characteristics a person has","ex":"","hit":"","src":"written","ep":238,"vi":""}
 {"w":"expatriate","d":"a person who leaves their home country to work in another country","ex":"","hit":"","src":"written","ep":238,"vi":""}
-{"w":"hot air balloon","d":"a huge balloon risen up by hot air","ex":"This is our most popular choice, our river guides will take you on a whitewater rafting trip followed by a ride in a hot air balloon !","hit":"hot air balloon","src":"dialogue","ep":239,"vi":""}
+{"w":"hot air balloon","d":"a huge balloon risen up by hot air","ex":"This is our most popular choice, our river guides will take you on a whitewater rafting trip followed by a ride in a hot air balloon!","hit":"hot air balloon","src":"dialogue","ep":239,"vi":""}
 {"w":"in the field","d":"in an area of work, study","ex":"","hit":"","src":"written","ep":239,"vi":""}
 {"w":"jagged","d":"having a sharp surface","ex":"I don't really think I'm ready to throw myself down a river full of jagged rocks in a rubber boat or go up in the air in a wicker basket held up by an oversize balloon.","hit":"jagged","src":"dialogue","ep":239,"vi":""}
 {"w":"oversize","d":"larger than what is listed","ex":"I don't really think I'm ready to throw myself down a river full of jagged rocks in a rubber boat or go up in the air in a wicker basket held up by an oversize balloon.","hit":"oversize","src":"dialogue","ep":239,"vi":""}
@@ -241,17 +239,17 @@
 {"w":"mountain biking","d":"ride a bicycle designed for riding in mountainous","ex":"We have everything from mountain biking, to rock climbing to street luge.","hit":"mountain biking","src":"dialogue","ep":239,"vi":""}
 {"w":"rock climbing","d":"the sport of scaling rock masses on mountain sides","ex":"We have everything from mountain biking, to rock climbing to street luge.","hit":"rock climbing","src":"dialogue","ep":239,"vi":""}
 {"w":"street luge","d":"the sport of descending a steep road","ex":"We have everything from mountain biking, to rock climbing to street luge.","hit":"street luge","src":"dialogue","ep":239,"vi":""}
-{"w":"whitewater rafting","d":"The sport of rafting down fast-flowing rivers","ex":"This is our most popular choice, our river guides will take you on a whitewater rafting trip followed by a ride in a hot air balloon !","hit":"whitewater rafting","src":"dialogue","ep":239,"vi":""}
+{"w":"whitewater rafting","d":"The sport of rafting down fast-flowing rivers","ex":"This is our most popular choice, our river guides will take you on a whitewater rafting trip followed by a ride in a hot air balloon!","hit":"whitewater rafting","src":"dialogue","ep":239,"vi":""}
 {"w":"sky diving","d":"to jump out an airplane and parachute to the ground","ex":"","hit":"","src":"written","ep":239,"vi":""}
 {"w":"surfing","d":"to ride a wave on a long wooden board","ex":"","hit":"","src":"written","ep":239,"vi":""}
 {"w":"life insurance","d":"insurance to protect your family from your untimely death","ex":"","hit":"","src":"written","ep":239,"vi":""}
 {"w":"base jumping","d":"jumping off a cliff and parachuting to the ground","ex":"","hit":"","src":"written","ep":239,"vi":""}
 {"w":"bungie jumping","d":"to jump off a ledge while attached to a rope","ex":"","hit":"","src":"written","ep":239,"vi":""}
-{"w":"a hundred times","d":"many times","ex":"We have been over this a hundred times !","hit":"a hundred times","src":"dialogue","ep":240,"vi":""}
+{"w":"a hundred times","d":"many times","ex":"We have been over this a hundred times!","hit":"a hundred times","src":"dialogue","ep":240,"vi":""}
 {"w":"look after","d":"take care of; take responsibility for","ex":"Who is going to look after a dog or a cat?","hit":"look after","src":"dialogue","ep":240,"vi":""}
 {"w":"bathe","d":"to wash","ex":"I'll feed it, bathe it and walk it every day!","hit":"bathe","src":"dialogue","ep":240,"vi":""}
 {"w":"breed","d":"a particular kind of dog","ex":"Plus, our apartment is too small for that breed of dog.","hit":"breed","src":"dialogue","ep":240,"vi":""}
-{"w":"take it from there","d":"to begin with","ex":"I'll tell you what, I can get you some hamsters and we'll take it from there .","hit":"take it from there","src":"dialogue","ep":240,"vi":""}
+{"w":"take it from there","d":"to begin with","ex":"I'll tell you what, I can get you some hamsters and we'll take it from there.","hit":"take it from there","src":"dialogue","ep":240,"vi":""}
 {"w":"awesome","d":"extremely good","ex":"A parrot would be awesome!","hit":"awesome","src":"dialogue","ep":240,"vi":""}
 {"w":"dog leash","d":"a rope used to lead a dog","ex":"","hit":"","src":"written","ep":240,"vi":""}
 {"w":"Veterinarian","d":"a doctor who specializes in treating animals","ex":"","hit":"","src":"written","ep":240,"vi":""}

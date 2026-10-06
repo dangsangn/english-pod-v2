@@ -8,7 +8,7 @@
 {"w":"stuff","d":"filled with food; no longer hungry","ex":"I'm stuffed!","hit":"stuffed","src":"dialogue","ep":321,"vi":"","check":true}
 {"w":"creative","d":"having the ability to think of new ideas","ex":"I never knew Thai food was so creative and delicious!","hit":"creative","src":"dialogue","ep":321,"vi":""}
 {"w":"foreigner","d":"a person not native to or naturalized in the country or jurisdiction under consideration","ex":"Foreigners call it papaya salad butthe proper name is Tom Sam.","hit":"Foreigners","src":"dialogue","ep":321,"vi":"","check":true}
-{"w":"delicious","d":"tasty","ex":"This is delicious!","hit":"delicious","src":"dialogue","ep":321,"vi":""}
+{"w":"delicious","d":"tasty","ex":"I never knew Thai food was so creative and delicious!","hit":"delicious","src":"dialogue","ep":321,"vi":""}
 {"w":"dish","d":"food","ex":"It's practically Thailand's national dish!","hit":"dish","src":"dialogue","ep":321,"vi":""}
 {"w":"Stir Fry","d":"technique for cooking food in a wok while stirring it","ex":"","hit":"","src":"written","ep":321,"vi":""}
 {"w":"Bitter","d":"Having or being a taste that is sharp, acrid, and unpleasan","ex":"","hit":"","src":"written","ep":321,"vi":""}
@@ -28,7 +28,7 @@
 {"w":"seclude","d":"sheltered or screened from general activity","ex":"","hit":"","src":"written","ep":322,"vi":""}
 {"w":"off the beaten track","d":"out of the way","ex":"","hit":"","src":"written","ep":322,"vi":""}
 {"w":"reservation","d":"an arrangement to secure accommodations at a restaurant or hotel","ex":"Good afternoon Sir, may I please see your passport and reservation?","hit":"reservation","src":"dialogue","ep":323,"vi":""}
-{"w":"cancel","d":"to decide that something will not happen","ex":"Cancelled!","hit":"Cancelled","src":"dialogue","ep":323,"vi":"","check":true}
+{"w":"cancel","d":"to decide that something will not happen","ex":"I'm sorry sir, this flight has been cancelled due to some mechanical problems.","hit":"cancelled","src":"dialogue","ep":323,"vi":"","check":true}
 {"w":"inconvenience","d":"he quality or state of being inconvenient.","ex":"We apologize for any inconveniences that may be caused by this.","hit":"inconveniences","src":"dialogue","ep":323,"vi":"","check":true}
 {"w":"route","d":"a customary or regular line of passage or travel","ex":"","hit":"","src":"written","ep":323,"vi":""}
 {"w":"diversion","d":"the act of diverting or turning aside, as from a course or purpose","ex":"","hit":"","src":"written","ep":323,"vi":""}
@@ -50,6 +50,7 @@
 {"w":"Cider","d":"a fermented beverage made from apple juice","ex":"","hit":"","src":"written","ep":324,"vi":""}
 {"w":"Cornucopia","d":"a hollow, horn-shaped wicker basket filled with various kinds of festive fruit and vegetables","ex":"","hit":"","src":"written","ep":324,"vi":""}
 {"w":"Yam","d":"specifically its orange-fleshed cultivars, often marketed as 'yams' in North America and as 'kumara' in New Zealand","ex":"","hit":"","src":"written","ep":324,"vi":""}
+{"w":"vacation","d":"have holidays","ex":"I thought you were on vacation now.","hit":"vacation","src":"dialogue","ep":325,"vi":""}
 {"w":"jealous","d":"feeling resentment against someone because of that person's rivalry, success, or advantages","ex":"I'm so jealous of you.","hit":"jealous","src":"dialogue","ep":325,"vi":""}
 {"w":"floor","d":"one of the many levels of a building","ex":"Anyway, it's been great to catch up, but I must be going, this is my floor.","hit":"floor","src":"dialogue","ep":325,"vi":""}
 {"w":"take care","d":"deal with","ex":"Take care.","hit":"Take care","src":"dialogue","ep":325,"vi":""}
@@ -140,13 +141,13 @@
 {"w":"control","d":"the ability to direct the actions of something","ex":"It serves as a control center for the body, handling the processes of the central nervous system as well as cognition.","hit":"control","src":"dialogue","ep":333,"vi":""}
 {"w":"process","d":"a planed series of steps or actions that leads to something","ex":"Let's not forget that the stomach is the one that breaks down our food and our intestines process that food and then expel the waste.","hit":"process","src":"dialogue","ep":333,"vi":""}
 {"w":"chest","d":"The front of the body, from neck to the waist.","ex":"Then what major organ is in our chest?","hit":"chest","src":"dialogue","ep":333,"vi":""}
-{"w":"heart","d":"An organ in the chest that pumps blood.","ex":"The heart!","hit":"heart","src":"dialogue","ep":333,"vi":""}
+{"w":"heart","d":"An organ in the chest that pumps blood.","ex":"Now let's not forget that our lungs provide oxygen to our heart and body to keep us alive!","hit":"heart","src":"dialogue","ep":333,"vi":""}
 {"w":"pump","d":"To supply, to circulate.","ex":"It pumps blood throughout the body, using the circulatory system such as blood vessels and veins.","hit":"pumps","src":"dialogue","ep":333,"vi":"","check":true}
 {"w":"blood","d":"the fluid that circulates in the body.","ex":"It pumps blood throughout the body, using the circulatory system such as blood vessels and veins.","hit":"blood","src":"dialogue","ep":333,"vi":""}
 {"w":"lung","d":"Body part that inflates with air and allows breathing","ex":"Now let's not forget that our lungs provide oxygen to our heart and body to keep us alive!","hit":"lungs","src":"dialogue","ep":333,"vi":"","check":true}
 {"w":"oxygen","d":"a gas that we breath in order to live.","ex":"Now let's not forget that our lungs provide oxygen to our heart and body to keep us alive!","hit":"oxygen","src":"dialogue","ep":333,"vi":""}
 {"w":"digest","d":"to swallow and dissolve something.","ex":"Now what about the organs that help us digest food?","hit":"digest","src":"dialogue","ep":333,"vi":""}
-{"w":"stomach","d":"the organ people use to digest food","ex":"The stomach and intestines!","hit":"stomach","src":"dialogue","ep":333,"vi":""}
+{"w":"stomach","d":"the organ people use to digest food","ex":"Let's not forget that the stomach is the one that breaks down our food and our intestines process that food and then expel the waste.","hit":"stomach","src":"dialogue","ep":333,"vi":""}
 {"w":"expel","d":"to release something.","ex":"Let's not forget that the stomach is the one that breaks down our food and our intestines process that food and then expel the waste.","hit":"expel","src":"dialogue","ep":333,"vi":""}
 {"w":"liver","d":"the organ used to produce blood","ex":"Our kidneys, liver and bladder!","hit":"liver","src":"dialogue","ep":333,"vi":""}
 {"w":"leg","d":"lower limbs of the body","ex":"","hit":"","src":"written","ep":333,"vi":""}
@@ -157,7 +158,7 @@
 {"w":"vacation","d":"holiday","ex":"Any vacation plans?","hit":"vacation","src":"dialogue","ep":334,"vi":""}
 {"w":"absolutely","d":"to a complete degree","ex":"Absolutely.","hit":"Absolutely","src":"dialogue","ep":334,"vi":""}
 {"w":"awful","d":"really bad","ex":"It's awful weather out there!","hit":"awful","src":"dialogue","ep":334,"vi":""}
-{"w":"plan","d":"To have something set to do in the future.","ex":"Any vacation plans?","hit":"plans","src":"dialogue","ep":334,"vi":"","check":true}
+{"w":"plan","d":"To have something set to do in the future.","ex":"Do you have any business trips planned soon Mr. Campbell?","hit":"planned","src":"dialogue","ep":334,"vi":"","check":true}
 {"w":"festival","d":"a day or time of religious or other celebration","ex":"Mike and I will travel to Beijing to see Mikes parents for Spring festival, and hopefully next year we will visit London.","hit":"festival","src":"dialogue","ep":334,"vi":""}
 {"w":"random","d":"without definite aim, purpose, method","ex":"","hit":"","src":"written","ep":334,"vi":""}
 {"w":"terrible","d":"extremely bad; horrible","ex":"","hit":"","src":"written","ep":334,"vi":""}
@@ -173,7 +174,7 @@
 {"w":"hop scotch","d":"a children's game in which one hops across square spaces","ex":"","hit":"","src":"written","ep":335,"vi":""}
 {"w":"marbles","d":"a game for children in which a marble is propelled by the thumb to hit another marble","ex":"","hit":"","src":"written","ep":335,"vi":""}
 {"w":"skipping rope","d":"a length of rope that is swung around while someone jumps over it","ex":"","hit":"","src":"written","ep":335,"vi":""}
-{"w":"midnight","d":"twelve AM","ex":"It's almost midnight!","hit":"midnight","src":"dialogue","ep":340,"vi":""}
+{"w":"midnight","d":"twelve AM","ex":"Sure, as long as you don't try to kiss me at midnight!","hit":"midnight","src":"dialogue","ep":340,"vi":""}
 {"w":"christmas","d":"the annual festival of the Christian church commemorating the birth of Jesus","ex":"I'm too excited for Christmas morning.","hit":"Christmas","src":"dialogue","ep":336,"vi":""}
 {"w":"santa","d":"a figure of Christmas who brings presents to kids","ex":"How do you know it was Santa?","hit":"Santa","src":"dialogue","ep":336,"vi":""}
 {"w":"naughty","d":"disobedient; mischievous","ex":"Well I heard that naughty boys and girls get coal in their stockings, so I thought I'd be nice and make Santa cookies.","hit":"naughty","src":"dialogue","ep":336,"vi":""}
@@ -202,7 +203,7 @@
 {"w":"dash","d":"to move with violence; rush","ex":"dash away!","hit":"dash","src":"dialogue","ep":337,"vi":""}
 {"w":"obstacle","d":"something that obstructs or hinders progress.","ex":"When they meet with an obstacle, mount tothe sky,","hit":"obstacle","src":"dialogue","ep":337,"vi":""}
 {"w":"courser","d":"a thing suitable for running or chasing","ex":"More rapid than eagles his coursers they came,","hit":"coursers","src":"dialogue","ep":337,"vi":"","check":true}
-{"w":"prance","d":"to dance or move in a lively or spirited manner","ex":"now, Prancer and Vixen!","hit":"Prancer","src":"dialogue","ep":337,"vi":"","check":true}
+{"w":"prance","d":"to dance or move in a lively or spirited manner","ex":"The prancing and pawing of each little hoof.","hit":"prancing","src":"dialogue","ep":337,"vi":"","check":true}
 {"w":"paw","d":"to strike or scrape with the paws or feet","ex":"The prancing and pawing of each little hoof.","hit":"pawing","src":"dialogue","ep":337,"vi":"","check":true}
 {"w":"hoof","d":"an encasing protecting the foot of an animal such as horse","ex":"The prancing and pawing of each little hoof.","hit":"hoof","src":"dialogue","ep":337,"vi":""}
 {"w":"St Nicholas","d":"another name for Santa clause","ex":"","hit":"","src":"written","ep":337,"vi":""}
@@ -220,7 +221,7 @@
 {"w":"white christmas","d":"having Christmas with snow","ex":"","hit":"","src":"written","ep":337,"vi":""}
 {"w":"snowman","d":"a figure of a person made of packed snow.","ex":"","hit":"","src":"written","ep":337,"vi":""}
 {"w":"carol","d":"a Christmas song or hymn.","ex":"The stockings were hung bythe chimney with care,","hit":"care","src":"dialogue","ep":337,"vi":"","check":true}
-{"w":"leftovers","d":"food remaining uneaten at the end of a meal","ex":"Leftovers.","hit":"Leftovers","src":"dialogue","ep":338,"vi":""}
+{"w":"leftovers","d":"food remaining uneaten at the end of a meal","ex":"Leftovers of what and from when?","hit":"Leftovers","src":"dialogue","ep":338,"vi":""}
 {"w":"mix","d":"of different kinds combined","ex":"I took the left over turkey, mixed it with some diced peppers and onions, added a little bit of mayonnaise and made some sandwiches!","hit":"mixed","src":"dialogue","ep":338,"vi":"","check":true}
 {"w":"dice","d":"to cut into small cubes","ex":"I took the left over turkey, mixed it with some diced peppers and onions, added a little bit of mayonnaise and made some sandwiches!","hit":"diced","src":"dialogue","ep":338,"vi":"","check":true}
 {"w":"bacteria","d":"small organisims","ex":"I mean bacteria and germs reproducing on food that was left out or reheated?","hit":"bacteria","src":"dialogue","ep":338,"vi":""}

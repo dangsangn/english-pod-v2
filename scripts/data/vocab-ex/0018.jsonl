@@ -5,7 +5,6 @@
 {"w":"architecture","d":"the art and science of designing buildings","ex":"It really is an amazing work of architecture and art.","hit":"architecture","src":"dialogue","ep":352,"vi":""}
 {"w":"in that case","d":"if something said earlier is true","ex":"In that case, eight o'clock is fine.","hit":"In that case","src":"dialogue","ep":357,"vi":""}
 {"w":"urgent","d":"important","ex":"I got an urgent email from Tom!","hit":"urgent","src":"dialogue","ep":359,"vi":""}
-{"w":"vacation","d":"have holidays","ex":"I'm here on vacation.","hit":"vacation","src":"dialogue","ep":347,"vi":""}
 {"w":"bake","d":"bake","ex":"So how long do we bake it for?","hit":"bake","src":"dialogue","ep":341,"vi":""}
 {"w":"apron","d":"apron","ex":"Almost, let me just put my apron on.","hit":"apron","src":"dialogue","ep":341,"vi":""}
 {"w":"preheat","d":"preheat","ex":"Ok, so the first thing we are going to do is preheat the oven, that way we have it at the desired temperature once we finish preparing everything.","hit":"preheat","src":"dialogue","ep":341,"vi":""}
@@ -13,7 +12,7 @@
 {"w":"consistency","d":"consistency","ex":"Take some butter and sugar and mix it lightly until you have a nice consistency.","hit":"consistency","src":"dialogue","ep":341,"vi":""}
 {"w":"sift","d":"sift","ex":"I'm gonna sift the flour and baking powder separately and then we can mix it with milk and the rest of the ingredients.","hit":"sift","src":"dialogue","ep":341,"vi":""}
 {"w":"grease","d":"grease","ex":"Yeah, but grease and flour it first so the cake won't stick to it when it bakes.","hit":"grease","src":"dialogue","ep":341,"vi":""}
-{"w":"class","d":"high class","ex":"I feel so classy!","hit":"classy","src":"dialogue","ep":343,"vi":"","check":true}
+{"w":"class","d":"high class","ex":"It's a great combination of clams, scallops, squid mussels, calamari and fillets of salmon and tuna.","hit":"clams","src":"dialogue","ep":343,"vi":"","check":true}
 {"w":"marinated","d":"To leave something to be soaked in a sauce for its flavour","ex":"Yes, I would like some marinated grilled shrimp for starters and I'll also have the lobster.","hit":"marinated","src":"dialogue","ep":343,"vi":""}
 {"w":"starter","d":"as the first step or part","ex":"Yes, I would like some marinated grilled shrimp for starters and I'll also have the lobster.","hit":"starters","src":"dialogue","ep":343,"vi":"","check":true}
 {"w":"platter","d":"a course of a meal, usually consisting of a variety of foods served on the same plate.","ex":"That seafood platter sounds good.","hit":"platter","src":"dialogue","ep":343,"vi":""}

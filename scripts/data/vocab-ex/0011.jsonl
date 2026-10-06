@@ -1,15 +1,14 @@
-{"w":"evidence","d":"something that shows the thing is true","ex":"There is no evidence.","hit":"evidence","src":"dialogue","ep":204,"vi":""}
 {"w":"scratch","d":"to rub your skin with something sharp","ex":"Mother makes her own lemonade from scratch.","hit":"scratch","src":"dialogue","ep":210,"vi":""}
 {"w":"burial","d":"the act of burying, esp the interment of a dead body","ex":"Have you bought a burial plot and a casket?","hit":"burial","src":"dialogue","ep":213,"vi":""}
 {"w":"weigh","d":"to find the weight of something","ex":"You will need some stamps for the postcards and I need to weigh that package, too.","hit":"weigh","src":"dialogue","ep":201,"vi":""}
-{"w":"up to","d":"at least","ex":"Well, standard mail can take up to fifteen working days .","hit":"up to","src":"dialogue","ep":201,"vi":""}
-{"w":"take","d":"cost or require","ex":"Well, standard mail can take up to fifteen working days .","hit":"take","src":"dialogue","ep":201,"vi":""}
+{"w":"up to","d":"at least","ex":"Well, standard mail can take up to fifteen working days.","hit":"up to","src":"dialogue","ep":201,"vi":""}
+{"w":"take","d":"cost or require","ex":"Well, standard mail can take up to fifteen working days.","hit":"take","src":"dialogue","ep":201,"vi":""}
 {"w":"rush","d":"to be in a hurry","ex":"Well, there's no rush.","hit":"rush","src":"dialogue","ep":201,"vi":""}
 {"w":"fragile","d":"easily broken or damaged","ex":"Please be extra careful, the contents of the package are fragile.","hit":"fragile","src":"dialogue","ep":201,"vi":""}
 {"w":"via","d":"travelling through a place on the way to somewhere","ex":"Please send it via priority mail.","hit":"via","src":"dialogue","ep":201,"vi":""}
 {"w":"priority","d":"to be treated as more important than something els","ex":"Please send it via priority mail.","hit":"priority","src":"dialogue","ep":201,"vi":""}
 {"w":"express","d":"a service for carrying things faster than usual","ex":"Express is the fastest, but it's also the most expensive.","hit":"Express","src":"dialogue","ep":201,"vi":""}
-{"w":"standard","d":"usual or ordinary","ex":"Well, standard mail can take up to fifteen working days .","hit":"standard","src":"dialogue","ep":201,"vi":""}
+{"w":"standard","d":"usual or ordinary","ex":"Well, standard mail can take up to fifteen working days.","hit":"standard","src":"dialogue","ep":201,"vi":""}
 {"w":"parcel","d":"something wrapped up; a package","ex":"","hit":"","src":"written","ep":201,"vi":""}
 {"w":"forwarder","d":"an agent that facilitates and assures the passage of received goods to their destination.","ex":"","hit":"","src":"written","ep":201,"vi":""}
 {"w":"postage","d":"the charge for delivering a piece of mail","ex":"","hit":"","src":"written","ep":201,"vi":""}
@@ -39,15 +38,15 @@
 {"w":"crash","d":"stop working or functioning properly","ex":"……Wait a minute, CRASH??!!","hit":"CRASH","src":"dialogue","ep":203,"vi":""}
 {"w":"antivirus","d":"a program designed to identify and remove computer viruses","ex":"I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.","hit":"antivirus","src":"dialogue","ep":203,"vi":""}
 {"w":"run","d":"to work or be in operation","ex":"I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.","hit":"run","src":"dialogue","ep":203,"vi":""}
-{"w":"spyware","d":"software that secretly gathers information","ex":"Spyware?","hit":"Spyware","src":"dialogue","ep":203,"vi":""}
+{"w":"spyware","d":"software that secretly gathers information","ex":"I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.","hit":"spyware","src":"dialogue","ep":203,"vi":""}
 {"w":"Hotline","d":"A telephone line that gives quick and direct access to a source of information or help","ex":"","hit":"","src":"written","ep":203,"vi":""}
 {"w":"Phisihing","d":"To request confidential information over the Internet under false pretenses in order to fraudulently obtain credit card numbers, passwords, or other personal data","ex":"","hit":"","src":"written","ep":203,"vi":""}
-{"w":"Crack","d":"To break open or into something such as a safe or a computer system","ex":"……Wait a minute, CRASH??!!","hit":"CRASH","src":"dialogue","ep":203,"vi":"","check":true}
+{"w":"Crack","d":"To break open or into something such as a safe or a computer system","ex":"Maybe that's why it crashed.","hit":"crashed","src":"dialogue","ep":203,"vi":"","check":true}
 {"w":"Format","d":"To divide (a disk) into marked sectors so that it may store data.","ex":"","hit":"","src":"written","ep":203,"vi":""}
 {"w":"Hardware","d":"A computer and the associated physical equipment directly involved in the performance of data-processing or communications functions.","ex":"","hit":"","src":"written","ep":203,"vi":""}
 {"w":"reach a verdict","d":"succeed in making the finding of a jury in a trial","ex":"Ladies and Gentlemen of the jury, have you reached a verdict?","hit":"reached a verdict","src":"dialogue","ep":204,"vi":"","check":true}
 {"w":"guilty","d":"responsible for doing something bad","ex":"our verdict is……not guilty!","hit":"guilty","src":"dialogue","ep":204,"vi":""}
-{"w":"your honor","d":"a respectful title used to or of certain judges","ex":"Yes, your honor.","hit":"your honor","src":"dialogue","ep":204,"vi":""}
+{"w":"your honor","d":"a respectful title used to or of certain judges","ex":"Your honor, ladies and gentlemen of the jury, My client, Robert Malone, has been accused of a crime he did not commit.","hit":"Your honor","src":"dialogue","ep":204,"vi":""}
 {"w":"jury","d":"a body of persons sworn to judge","ex":"Ladies and Gentlemen of the jury, have you reached a verdict?","hit":"jury","src":"dialogue","ep":204,"vi":""}
 {"w":"accuse of","d":"to charge someone with a crime","ex":"The prosecution has accused my client of being a pickpocket!","hit":"accused my client of","src":"dialogue","ep":204,"vi":"","check":true}
 {"w":"commit","d":"to do something (usually a crime)","ex":"Your honor, ladies and gentlemen of the jury, My client, Robert Malone, has been accused of a crime he did not commit.","hit":"commit","src":"dialogue","ep":204,"vi":""}
@@ -56,7 +55,7 @@
 {"w":"testimony","d":"a declaration of truth or fact","ex":"I know we have heard the testimony of many people here today, ….","hit":"testimony","src":"dialogue","ep":204,"vi":""}
 {"w":"defendant","d":"the person being sued or accused","ex":"people who claim the defendant, my client, stole their wallets.","hit":"defendant","src":"dialogue","ep":204,"vi":""}
 {"w":"victim","d":"people affected by a painful or sad experience","ex":"I feel sorry for these victims, I really do……… but my client is innocent!","hit":"victims","src":"dialogue","ep":204,"vi":"","check":true}
-{"w":"innocent","d":"not guilty","ex":"My client is innocent!","hit":"innocent","src":"dialogue","ep":204,"vi":""}
+{"w":"innocent","d":"not guilty","ex":"I knew you were innocent so my job was easy.","hit":"innocent","src":"dialogue","ep":204,"vi":""}
 {"w":"so-called","d":"refer to something that is not suitable","ex":"","hit":"","src":"written","ep":204,"vi":""}
 {"w":"witness","d":"one who is called on to testify before a court","ex":"Let's look at the facts… one: These 'so-called' witnesses did not actually see the defendant steal anything……….","hit":"witnesses","src":"dialogue","ep":204,"vi":"","check":true}
 {"w":"Acquittal","d":"A jury verdict that a criminal defendant is not guilty, or the finding of a judge that the evidence is insufficient to support a conviction.","ex":"","hit":"","src":"written","ep":204,"vi":""}
@@ -78,7 +77,7 @@
 {"w":"red tape","d":"procedures required to gain bureaucratic approval","ex":"They've also reduced the red tape involved at customs as well.","hit":"red tape","src":"dialogue","ep":205,"vi":""}
 {"w":"cutting corners","d":"To do something in the easiest or most inexpensive","ex":"Quality is assured as I personally visit the factory to make sure no one's cutting corners with the ingredients.","hit":"cutting corners","src":"dialogue","ep":205,"vi":""}
 {"w":"hand down","d":"to pass from one family member or generation to th","ex":"I have it on highest authority that this traditional secret recipe has been handed down inthe Granger family for generations.","hit":"handed down","src":"dialogue","ep":205,"vi":"","check":true}
-{"w":"Haggis","d":"made of sheep's viscera minced with oatmeal, suet,","ex":"Haggis?","hit":"Haggis","src":"dialogue","ep":205,"vi":""}
+{"w":"Haggis","d":"made of sheep's viscera minced with oatmeal, suet,","ex":"Buttermilk, cacao beans, sugar and Haggis.","hit":"Haggis","src":"dialogue","ep":205,"vi":""}
 {"w":"stuff","d":"to pack tightly, to cram inside","ex":"It's a traditional Scottish delicacy; you take sheep's liver, heart and lung and stuff it inside ofthe sheep's stomach.","hit":"stuff","src":"dialogue","ep":205,"vi":""}
 {"w":"Angel Investors","d":"Individuals who back emerging entrepreneurial ventures, usually as a bridge to get from the self-funded stage to the level of business that would both need and attract venture capital.","ex":"","hit":"","src":"written","ep":205,"vi":""}
 {"w":"Joint Venture","d":"A legal entity created by two or more businesses joining together to conduct a specific business enterprise with both parties sharing profits and losses.","ex":"","hit":"","src":"written","ep":205,"vi":""}
@@ -139,7 +138,7 @@
 {"w":"frighten","d":"to scare someone","ex":"","hit":"","src":"written","ep":210,"vi":""}
 {"w":"chastise","d":"to scold someone","ex":"","hit":"","src":"written","ep":210,"vi":""}
 {"w":"such a","d":"so extreme a degree","ex":"You are such a cheater!","hit":"such a","src":"dialogue","ep":211,"vi":""}
-{"w":"cheat","d":"to deceive by trickery","ex":"I am not cheating.","hit":"cheating","src":"dialogue","ep":211,"vi":"","check":true}
+{"w":"cheat","d":"to deceive by trickery","ex":"You are such a cheater!","hit":"cheater","src":"dialogue","ep":211,"vi":"","check":true}
 {"w":"my turn","d":"my opportunity to do something","ex":"Now it's my turn to roll the dice.","hit":"my turn","src":"dialogue","ep":211,"vi":""}
 {"w":"jail","d":"place where prisoners are kept","ex":"I should send you to jail!","hit":"jail","src":"dialogue","ep":211,"vi":""}
 {"w":"can I","d":"used to ask for permissions","ex":"Can I have my $200 please?","hit":"Can I","src":"dialogue","ep":211,"vi":""}
@@ -167,7 +166,7 @@
 {"w":"Donation","d":"To give something free of charge(usually of value)","ex":"","hit":"","src":"written","ep":212,"vi":""}
 {"w":"Funeral","d":"A celebration of a person's life after passing","ex":"","hit":"","src":"written","ep":212,"vi":""}
 {"w":"hold up","d":"continue to live through hardship","ex":"Hi Daniel, how are you holding up?","hit":"holding up","src":"dialogue","ep":213,"vi":"","check":true}
-{"w":"cremate","d":"burn up something and reduce to ash","ex":"Wendy is being cremated.","hit":"cremated","src":"dialogue","ep":213,"vi":"","check":true}
+{"w":"cremate","d":"burn up something and reduce to ash","ex":"I already chose a cremation urn and we plan to spread the ashes in the ocean.","hit":"cremation","src":"dialogue","ep":213,"vi":"","check":true}
 {"w":"tasteful","d":"being in keeping with good taste","ex":"I am sure the memorial service will be tasteful.","hit":"tasteful","src":"dialogue","ep":213,"vi":""}
 {"w":"detail","d":"having many details","ex":"Thanks, it hasn't been easy, but luckily we have life insurance and Wendy left behind a detailed will that will sort out any other legal matters.","hit":"detailed","src":"dialogue","ep":213,"vi":"","check":true}
 {"w":"Arrange","d":"to make preparations","ex":"There are many things that you have to to arrange.","hit":"arrange","src":"dialogue","ep":213,"vi":""}
@@ -201,7 +200,7 @@
 {"w":"eat right","d":"have healthy food","ex":"Oh John, I thought we said we would start eating right!","hit":"eating right","src":"dialogue","ep":216,"vi":"","check":true}
 {"w":"lifestyle","d":"the way people live","ex":"Our new healthy lifestyle?","hit":"lifestyle","src":"dialogue","ep":216,"vi":""}
 {"w":"junk food","d":"a high-calorie food and low in nutritional value","ex":"That's all junk food!","hit":"junk food","src":"dialogue","ep":216,"vi":""}
-{"w":"organic","d":"without using any chemicals","ex":"Organic?","hit":"Organic","src":"dialogue","ep":216,"vi":""}
+{"w":"organic","d":"without using any chemicals","ex":"Do we need organic carrots…?","hit":"organic","src":"dialogue","ep":216,"vi":""}
 {"w":"green","d":"healthy to the body","ex":"","hit":"","src":"written","ep":216,"vi":""}
 {"w":"doughnut","d":"small ring-shaped friedcakes","ex":"…Doughnuts?","hit":"Doughnuts","src":"dialogue","ep":216,"vi":"","check":true}
 {"w":"Consciousness","d":"To be aware of something","ex":"","hit":"","src":"written","ep":216,"vi":""}
@@ -246,7 +245,7 @@
 {"w":"dresser","d":"a set of shelves usually used for holding clothes","ex":"We still need to find an armoire and a dresser.","hit":"dresser","src":"dialogue","ep":220,"vi":""}
 {"w":"nightstand","d":"a small table or stand placed at a bedside","ex":"I am going to go home and drop off this nightstand, coffee table and love seat while you look for the rest of the things.","hit":"nightstand","src":"dialogue","ep":220,"vi":""}
 {"w":"love seat","d":"small sofa that seats two people","ex":"I am going to go home and drop off this nightstand, coffee table and love seat while you look for the rest of the things.","hit":"love seat","src":"dialogue","ep":220,"vi":""}
-{"w":"recliner","d":"an armchair that can be reclined","ex":"Recliner?","hit":"Recliner","src":"dialogue","ep":220,"vi":""}
+{"w":"recliner","d":"an armchair that can be reclined","ex":"While you are at it can you pick out a nice recliner?","hit":"recliner","src":"dialogue","ep":220,"vi":""}
 {"w":"while you are at it","d":"during the time you are there","ex":"While you are at it can you pick out a nice recliner?","hit":"While you are at it","src":"dialogue","ep":220,"vi":""}
 {"w":"Sectional","d":"one large couch with different sections","ex":"","hit":"","src":"written","ep":220,"vi":""}
 {"w":"coffee table","d":"A table that is set in the middle of a living room","ex":"I am going to go home and drop off this nightstand, coffee table and love seat while you look for the rest of the things.","hit":"coffee table","src":"dialogue","ep":220,"vi":""}

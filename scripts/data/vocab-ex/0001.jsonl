@@ -24,7 +24,7 @@
 {"w":"confirmation","d":"an approval, verification","ex":"Yeah…Here, this is my confirmation number.","hit":"confirmation","src":"dialogue","ep":3,"vi":""}
 {"w":"mix-up","d":"confusion","ex":"","hit":"","src":"written","ep":3,"vi":""}
 {"w":"complimentary upgrade","d":"free improvement of quality","ex":"We're pleased to offer you a complimentary upgrade.","hit":"complimentary upgrade","src":"dialogue","ep":3,"vi":""}
-{"w":"overbooked","d":"full","ex":"You're right Mr. Roberts, there seems to be a mix-up, unfortunately we're overbooked at the moment .","hit":"overbooked","src":"dialogue","ep":3,"vi":""}
+{"w":"overbooked","d":"full","ex":"You're right Mr. Roberts, there seems to be a mix-up, unfortunately we're overbooked at the moment.","hit":"overbooked","src":"dialogue","ep":3,"vi":""}
 {"w":"check out","d":"pay and leave a hotel","ex":"","hit":"","src":"written","ep":3,"vi":""}
 {"w":"booking","d":"reservation","ex":"","hit":"","src":"written","ep":3,"vi":""}
 {"w":"concierge","d":"hotel employee that helps guests","ex":"","hit":"","src":"written","ep":3,"vi":""}
@@ -82,7 +82,7 @@
 {"w":"around here","d":"close to here","ex":"Do you live around here?","hit":"around here","src":"dialogue","ep":8,"vi":""}
 {"w":"around the corner","d":"on the next street","ex":"Actually, my office is right around the corner.","hit":"around the corner","src":"dialogue","ep":8,"vi":""}
 {"w":"in bit of a hurry","d":"moving quickly, having no time","ex":"You know, I'm in a bit of a hurry, but here's my card.","hit":"in a bit of a hurry","src":"dialogue","ep":8,"vi":"","check":true}
-{"w":"contact details","d":"information required to contact someone, i.e. telephone number, email address","ex":"Sure, you still have my contact details, right ?","hit":"contact details","src":"dialogue","ep":8,"vi":""}
+{"w":"contact details","d":"information required to contact someone, i.e. telephone number, email address","ex":"Sure, you still have my contact details, right?","hit":"contact details","src":"dialogue","ep":8,"vi":""}
 {"w":"slip my mind","d":"been forgotten","ex":"You know what, this is really embarrassing, but your name has just slipped my mind.","hit":"slipped my mind","src":"dialogue","ep":8,"vi":"","check":true}
 {"w":"terrible with","d":"bad at","ex":"I'm terrible with names too.","hit":"terrible with","src":"dialogue","ep":8,"vi":""}
 {"w":"around there","d":"close to there","ex":"Actually, my office is right around the corner.","hit":"around the","src":"dialogue","ep":8,"vi":"","check":true}
@@ -106,7 +106,7 @@
 {"w":"in the market","d":"in the industry","ex":"Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?","hit":"in the market","src":"dialogue","ep":10,"vi":""}
 {"w":"to match the competitors","d":"be the as good as or better than others companies in the same industry","ex":"Well, in fact, we're the most expensive in the market, so maybe we need to lower our prices to match the competitors?","hit":"to match the competitors","src":"dialogue","ep":10,"vi":""}
 {"w":"will never fly","d":"will not work, will not be approved","ex":"","hit":"","src":"written","ep":10,"vi":""}
-{"w":"promotion","d":"something done to make people aware of a product","ex":"A two-for-one promotion?","hit":"promotion","src":"dialogue","ep":10,"vi":""}
+{"w":"promotion","d":"something done to make people aware of a product","ex":"Um, perhaps, um, a sales promotion.","hit":"promotion","src":"dialogue","ep":10,"vi":""}
 {"w":"be here any minute","d":"will arrive very soon","ex":"The CEO will be here any minute.","hit":"be here any minute","src":"dialogue","ep":10,"vi":""}
 {"w":"to consider","d":"thinking about","ex":"","hit":"","src":"written","ep":10,"vi":""}
 {"w":"brilliant","d":"excellent","ex":"In fact, that's a brilliant idea!","hit":"brilliant","src":"dialogue","ep":10,"vi":""}

@@ -5,6 +5,7 @@
 {"w":"silky","d":"resembling silk, very smooth","ex":"So silky, so shiny!","hit":"silky","src":"dialogue","ep":81,"vi":""}
 {"w":"shiny","d":"having a smooth and bright appearance","ex":"So silky, so shiny!","hit":"shiny","src":"dialogue","ep":81,"vi":""}
 {"w":"a million bucks","d":"Very good. To look great","ex":"You are going to look like a million bucks!","hit":"a million bucks","src":"dialogue","ep":81,"vi":""}
+{"w":"sideburns","d":"hair that grows on the sides of man","ex":"can you make sure my sideburns are even and you just take a little off the top.","hit":"sideburns","src":"dialogue","ep":81,"vi":""}
 {"w":"curly","d":"hair in form of round shape","ex":"I just love your curly hair!","hit":"curly","src":"dialogue","ep":81,"vi":""}
 {"w":"fluffy","d":"soft","ex":"It's so fluffy and cute!","hit":"fluffy","src":"dialogue","ep":81,"vi":""}
 {"w":"grow out","d":"grow long","ex":"You should totally let it grow out.","hit":"grow out","src":"dialogue","ep":81,"vi":""}
@@ -199,7 +200,7 @@
 {"w":"what's up","d":"what is happening","ex":"What's up?","hit":"What's up","src":"dialogue","ep":94,"vi":""}
 {"w":"killer","d":"Something that is extremely difficult to deal with or withstand","ex":"It's killer!","hit":"killer","src":"dialogue","ep":94,"vi":""}
 {"w":"theory","d":"a set of statements or principles devised to explain a group of facts or phenomena","ex":"Anyway, it's just a theory.","hit":"theory","src":"dialogue","ep":94,"vi":""}
-{"w":"Big Bang","d":"the theory that a cosmic explosion caused the origin of the universe","ex":"Well, the Big Bang...","hit":"Big Bang","src":"dialogue","ep":94,"vi":""}
+{"w":"Big Bang","d":"the theory that a cosmic explosion caused the origin of the universe","ex":"Take the theory of the Big Bang.","hit":"Big Bang","src":"dialogue","ep":94,"vi":""}
 {"w":"matter","d":"the substance of which something, is made; material","ex":"Look, all that's required for the creation of matter an imbalance of particles and anti-particles.","hit":"matter","src":"dialogue","ep":94,"vi":""}
 {"w":"imbalance","d":"the situation where there is an unequal amount of different things","ex":"Look, all that's required for the creation of matter an imbalance of particles and anti-particles.","hit":"imbalance","src":"dialogue","ep":94,"vi":""}
 {"w":"particle","d":"any one tiny part of matter","ex":"Look, all that's required for the creation of matter an imbalance of particles and anti-particles.","hit":"particles","src":"dialogue","ep":94,"vi":"","check":true}
@@ -214,7 +215,7 @@
 {"w":"entropy","d":"The tendency for all matter and energy in the universe to evolve toward a state of inert uniformity","ex":"","hit":"","src":"written","ep":94,"vi":""}
 {"w":"singularity","d":"A point of infinite density and infinitesimal volume, at which space and time become infinitely distorted according to the theory of General Relativity","ex":"","hit":"","src":"written","ep":94,"vi":""}
 {"w":"paradox","d":"A seemingly contradictory statement that may nonetheless be true","ex":"","hit":"","src":"written","ep":94,"vi":""}
-{"w":"how are you","d":"a greeting phrase","ex":"How are you?","hit":"How are you","src":"dialogue","ep":95,"vi":""}
+{"w":"how are you","d":"a greeting phrase","ex":"Hey, how are you, man!","hit":"how are you","src":"dialogue","ep":95,"vi":""}
 {"w":"man","d":"an informal way of calling a person","ex":"Hey, how are you, man!","hit":"man","src":"dialogue","ep":95,"vi":""}
 {"w":"long time no see","d":"a greeting phrase used after two friends have not seen each other for a long time","ex":"Long time no see!","hit":"Long time no see","src":"dialogue","ep":95,"vi":""}
 {"w":"in ages","d":"for a long time","ex":"Yeah, I haven't seen you in ages!","hit":"in ages","src":"dialogue","ep":95,"vi":""}
@@ -224,7 +225,6 @@
 {"w":"freak out","d":"show a lot of emotion; be not able to control emotions","ex":"He started freaking out, and screaming...","hit":"freaking out","src":"dialogue","ep":95,"vi":"","check":true}
 {"w":"shriek","d":"screaming in a very high voice","ex":"Yeah, and the funniest thing was, that he jumped on to his chair and started shrieking like a girl.","hit":"shrieking","src":"dialogue","ep":95,"vi":"","check":true}
 {"w":"stare","d":"look at something for a long time with great attention","ex":"Everyone was staring and laughing...","hit":"staring","src":"dialogue","ep":95,"vi":"","check":true}
-{"w":"hilarious","d":"very amusing","ex":"it was hilarious!","hit":"hilarious","src":"dialogue","ep":95,"vi":""}
 {"w":"lose it","d":"lose control of your emotions; show strong, negative emotions","ex":"Well, we were talking and catching up on what we've been doing, talking about work and family, when all of a sudden, Matt saw a mouse run under his chair and he completely lost it!","hit":"lost it","src":"dialogue","ep":95,"vi":"","check":true}
 {"w":"go nuts","d":"go crazy; lose control of yourself","ex":"","hit":"","src":"written","ep":95,"vi":""}
 {"w":"a riot","d":"a very fun time; or a funny event","ex":"","hit":"","src":"written","ep":95,"vi":""}
@@ -232,15 +232,15 @@
 {"w":"bizarre","d":"very strange or unusual","ex":"","hit":"","src":"written","ep":95,"vi":""}
 {"w":"anecdote","d":"a short, amusing story","ex":"","hit":"","src":"written","ep":95,"vi":""}
 {"w":"pad","d":"a place where a person lives","ex":"I really like your pad.","hit":"pad","src":"dialogue","ep":96,"vi":""}
-{"w":"dig","d":"appreciate, like","ex":"I dig it man!","hit":"dig","src":"dialogue","ep":96,"vi":""}
+{"w":"dig","d":"appreciate, like","ex":"I wanted a pad where people could come, listen to music and just hang loose, you dig what I'm saying?","hit":"dig","src":"dialogue","ep":96,"vi":""}
 {"w":"crash","d":"sleep (informal)","ex":"Thanks for letting me crash here tonight.","hit":"crash","src":"dialogue","ep":96,"vi":""}
-{"w":"brother","d":"buddy, informal way to call a close friend","ex":"It's no problem, brother!","hit":"brother","src":"dialogue","ep":96,"vi":""}
+{"w":"brother","d":"buddy, informal way to call a close friend","ex":"Don't worry about me brother...","hit":"brother","src":"dialogue","ep":96,"vi":""}
 {"w":"hang loose","d":"relax","ex":"I wanted a pad where people could come, listen to music and just hang loose, you dig what I'm saying?","hit":"hang loose","src":"dialogue","ep":96,"vi":""}
 {"w":"bash","d":"a big party","ex":"We could throw a bash here and make it a really happening scene!","hit":"bash","src":"dialogue","ep":96,"vi":""}
 {"w":"happening scene","d":"an extremely exciting moment","ex":"We could throw a bash here and make it a really happening scene!","hit":"happening scene","src":"dialogue","ep":96,"vi":""}
 {"w":"groovy","d":"really cool","ex":"Yeah man, that would be groovy!","hit":"groovy","src":"dialogue","ep":96,"vi":""}
 {"w":"peace out","d":"see you later","ex":"Alright, peace out.","hit":"peace out","src":"dialogue","ep":96,"vi":""}
-{"w":"man","d":"an informal way to call a friend","ex":"Hey man...","hit":"man","src":"dialogue","ep":96,"vi":""}
+{"w":"man","d":"an informal way to call a friend","ex":"Yeah man, that would be groovy!","hit":"man","src":"dialogue","ep":96,"vi":""}
 {"w":"throw","d":"hold (a party)","ex":"We could throw a bash here and make it a really happening scene!","hit":"throw","src":"dialogue","ep":96,"vi":""}
 {"w":"a gas","d":"a really fun time","ex":"","hit":"","src":"written","ep":96,"vi":""}
 {"w":"hip","d":"very cool","ex":"","hit":"","src":"written","ep":96,"vi":""}
@@ -283,17 +283,17 @@
 {"w":"erudite","d":"having a lot of knowladge; espically gained from studying","ex":"My name is Richard Clarke and I am joined today by the very erudite David Watson.","hit":"erudite","src":"dialogue","ep":99,"vi":""}
 {"w":"impression","d":"the feelings one has after a specific event","ex":"Tell me Dave, what is your impression of this film?","hit":"impression","src":"dialogue","ep":99,"vi":""}
 {"w":"depict","d":"describe, show, especially in art or pictures","ex":"Well, I think this film is simply a fable, depicting man's eternal greed for power, and in my opinion, it's a very fine film.","hit":"depicting","src":"dialogue","ep":99,"vi":"","check":true}
-{"w":"fable","d":"beautiful story about animals that has a moral or lesson","ex":"It's a fable!","hit":"fable","src":"dialogue","ep":99,"vi":""}
+{"w":"fable","d":"beautiful story about animals that has a moral or lesson","ex":"Well, I think this film is simply a fable, depicting man's eternal greed for power, and in my opinion, it's a very fine film.","hit":"fable","src":"dialogue","ep":99,"vi":""}
 {"w":"eternal","d":"lasting forever","ex":"Well, I think this film is simply a fable, depicting man's eternal greed for power, and in my opinion, it's a very fine film.","hit":"eternal","src":"dialogue","ep":99,"vi":""}
 {"w":"accusation","d":"action of caliming something is wrong","ex":"Even despite the accusations of plagiarism traditional folk tales from other countries.","hit":"accusations","src":"dialogue","ep":99,"vi":"","check":true}
 {"w":"plagiarism","d":"practice of copying others' ideas","ex":"Even despite the accusations of plagiarism traditional folk tales from other countries.","hit":"plagiarism","src":"dialogue","ep":99,"vi":""}
 {"w":"enchanting","d":"attractive, holding one's attention","ex":"The musical score was amazing, the animation was very well done, and the story was simply enchanting.","hit":"enchanting","src":"dialogue","ep":99,"vi":""}
 {"w":"score","d":"written work showing notes of music","ex":"The musical score was amazing, the animation was very well done, and the story was simply enchanting.","hit":"score","src":"dialogue","ep":99,"vi":""}
-{"w":"predictable","d":"easy for others to foresee what is going to happen","ex":"Predictable!","hit":"Predictable","src":"dialogue","ep":99,"vi":""}
+{"w":"predictable","d":"easy for others to foresee what is going to happen","ex":"And I would dare to say, it was too predictable.","hit":"predictable","src":"dialogue","ep":99,"vi":""}
 {"w":"portrayal","d":"the act of showing or describing somehting, especially in art","ex":"It did have some very dramatic and intense scenes For example when Mufasa dies, or the dark, grim portrayal of Scar.","hit":"portrayal","src":"dialogue","ep":99,"vi":""}
 {"w":"grim","d":"unpleasant","ex":"It did have some very dramatic and intense scenes For example when Mufasa dies, or the dark, grim portrayal of Scar.","hit":"grim","src":"dialogue","ep":99,"vi":""}
 {"w":"linear","d":"moving in logical way, from start to end","ex":"Even so, the film is linear.","hit":"linear","src":"dialogue","ep":99,"vi":""}
-{"w":"cliche","d":"something that is too often used so that it loses meaning or importance","ex":"It's just too cliché.","hit":"clich","src":"dialogue","ep":99,"vi":"","check":true}
+{"w":"cliche","d":"something that is too often used so that it loses meaning or importance","ex":"How can it be cliché?","hit":"clich","src":"dialogue","ep":99,"vi":"","check":true}
 {"w":"time-honoured","d":"something that survives the testing of time","ex":"","hit":"","src":"written","ep":99,"vi":""}
 {"w":"soft","d":"not critical enough","ex":"You have always been so soft, Dave!","hit":"soft","src":"dialogue","ep":99,"vi":""}
 {"w":"screen play","d":"the written words from a film","ex":"","hit":"","src":"written","ep":99,"vi":""}

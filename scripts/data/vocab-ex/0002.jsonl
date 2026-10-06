@@ -67,7 +67,7 @@
 {"w":"outbreak","d":"a sudden start of disease affecting many people","ex":"first, I'll need you to analyze our numbers and figure out what kind of financial impact an outbreak might have.","hit":"outbreak","src":"dialogue","ep":25,"vi":""}
 {"w":"head up","d":"lead and be responsible for","ex":"So, what I'd like to do is: first appoint someone to look after drafting our plan; Ralph, I'd like you to head up this project.","hit":"head up","src":"dialogue","ep":25,"vi":""}
 {"w":"forecast","d":"predict what is going to happen based on available information","ex":"I guess you'll need me to forecast employee absences as well, right?","hit":"forecast","src":"dialogue","ep":25,"vi":""}
-{"w":"vaccine","d":"medical substance that protect people or animal against diseases","ex":"Hey, what about vaccines?","hit":"vaccines","src":"dialogue","ep":25,"vi":"","check":true}
+{"w":"vaccine","d":"medical substance that protect people or animal against diseases","ex":"Should we be thinking about getting vaccines for our employees?","hit":"vaccines","src":"dialogue","ep":25,"vi":"","check":true}
 {"w":"epidemic","d":"event where a disease spreads really quickly and affects a large number of people","ex":"","hit":"","src":"written","ep":25,"vi":""}
 {"w":"backup plan","d":"a plan made in case events go badly","ex":"","hit":"","src":"written","ep":25,"vi":""}
 {"w":"pandemic preparedness plan","d":"a plan to prepare for the possible outbreak of a pandemic","ex":"","hit":"","src":"written","ep":25,"vi":""}
@@ -141,7 +141,7 @@
 {"w":"housewaming","d":"a party to celebrate moving into a new home","ex":"","hit":"","src":"written","ep":30,"vi":""}
 {"w":"what's up","d":"what is the matter","ex":"Oh, hi Angela, what's up?","hit":"what's up","src":"dialogue","ep":31,"vi":""}
 {"w":"reschedule","d":"schedule something for a different time","ex":"I wonder, is it possible to reschedule our appointment in the afternoon?","hit":"reschedule","src":"dialogue","ep":31,"vi":""}
-{"w":"inconvenience","d":"cause problem or trouble","ex":"I'm really sorry, I hope it doesn't inconvenience you too much, it's just this thing came up, and ...","hit":"inconvenience","src":"dialogue","ep":31,"vi":""}
+{"w":"inconvenience","d":"cause problem or trouble","ex":"I'm really sorry, I hope it doesn't inconvenience you too much, it's just this thing came up, and...","hit":"inconvenience","src":"dialogue","ep":31,"vi":""}
 {"w":"come up","d":"occur in an unexpected way","ex":"","hit":"","src":"written","ep":31,"vi":""}
 {"w":"make it","d":"come","ex":"Angela, you know what, I can't make it to our meeting, either.","hit":"make it","src":"dialogue","ep":31,"vi":""}
 {"w":"postpone","d":"decide to do something at a later time","ex":"Why don't we postpone it to tomorrow afternoon at the same time?","hit":"postpone","src":"dialogue","ep":31,"vi":""}
@@ -228,7 +228,7 @@
 {"w":"dumpling","d":"small lump of dough that is steamed or boiled, traditional Chinese New Year food","ex":"Grandma makes the best dumplings in the world!","hit":"dumplings","src":"dialogue","ep":37,"vi":"","check":true}
 {"w":"firecracker","d":"a cylinder filled with explosive substance that makes loud noise when it explodes","ex":"Son, firecrackers aren't toys; they're dangerous!","hit":"firecrackers","src":"dialogue","ep":37,"vi":"","check":true}
 {"w":"look forward to","d":"excited and happy about something that will happen in the future","ex":"I'm really looking forward to lighting them!","hit":"looking forward to","src":"dialogue","ep":37,"vi":"","check":true}
-{"w":"can't wait","d":"eager or excited about doing something or for something to begin","ex":"I can't wait!","hit":"can't wait","src":"dialogue","ep":37,"vi":""}
+{"w":"can't wait","d":"eager or excited about doing something or for something to begin","ex":"Oh, and I can't wait to watch the dragon dance!","hit":"can't wait","src":"dialogue","ep":37,"vi":""}
 {"w":"set off","d":"cause something to explode","ex":"Last year when I set off the firecrackers, you covered both your ears and hid behind your mother?","hit":"set off","src":"dialogue","ep":37,"vi":""}
 {"w":"Lunar New Year","d":"Chinese New Year, based on the cycles of the moon","ex":"","hit":"","src":"written","ep":37,"vi":""}
 {"w":"Spring Festival","d":"Chinese New Year","ex":"","hit":"","src":"written","ep":37,"vi":""}
@@ -236,7 +236,7 @@
 {"w":"can hardly wait","d":"very excited about something that will happen in the future","ex":"","hit":"","src":"written","ep":37,"vi":""}
 {"w":"impatient","d":"not happy or willing to wait for something","ex":"","hit":"","src":"written","ep":37,"vi":""}
 {"w":"browse","d":"look around to see if anything is interesting","ex":"I'm just browsing; seeing what's on the lot.","hit":"browsing","src":"dialogue","ep":38,"vi":"","check":true}
-{"w":"sedan","d":"a car with four doors","ex":"Now about this sedan...","hit":"sedan","src":"dialogue","ep":38,"vi":""}
+{"w":"sedan","d":"a car with four doors","ex":"Does the sedan protect her from missile attacks?","hit":"sedan","src":"dialogue","ep":38,"vi":""}
 {"w":"gas mileage","d":"the amount of gas used per mile","ex":"Excellent gas mileage, it has dual airbags and anti lock brakes; a perfect vehicle for a young driver.","hit":"gas mileage","src":"dialogue","ep":38,"vi":""}
 {"w":"dual airbags","d":"two airbags, one for the driver and one for the passenger","ex":"Excellent gas mileage, it has dual airbags and anti lock brakes; a perfect vehicle for a young driver.","hit":"dual airbags","src":"dialogue","ep":38,"vi":""}
 {"w":"vehicle","d":"something that carries people from one place to another","ex":"Excellent gas mileage, it has dual airbags and anti lock brakes; a perfect vehicle for a young driver.","hit":"vehicle","src":"dialogue","ep":38,"vi":""}

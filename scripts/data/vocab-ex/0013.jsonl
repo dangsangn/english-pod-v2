@@ -1,7 +1,7 @@
 {"w":"how about","d":"what do you think","ex":"And how about the working hours?","hit":"how about","src":"dialogue","ep":259,"vi":""}
 {"w":"BA","d":"bachelor of arts","ex":"I completed my BA in 2004.","hit":"BA","src":"dialogue","ep":241,"vi":""}
-{"w":"major","d":"the main subject studied in a college","ex":"My major was English, and my minor was business studies .","hit":"major","src":"dialogue","ep":241,"vi":""}
-{"w":"minor","d":"a second subject studied in a college","ex":"My major was English, and my minor was business studies .","hit":"minor","src":"dialogue","ep":241,"vi":""}
+{"w":"major","d":"the main subject studied in a college","ex":"My major was English, and my minor was business studies.","hit":"major","src":"dialogue","ep":241,"vi":""}
+{"w":"minor","d":"a second subject studied in a college","ex":"My major was English, and my minor was business studies.","hit":"minor","src":"dialogue","ep":241,"vi":""}
 {"w":"distinction","d":"excellence","ex":"Yes, I'm pleased to see that you also got a distinction.","hit":"distinction","src":"dialogue","ep":241,"vi":""}
 {"w":"bookworm","d":"a person who likes reading and studying","ex":"My friends say I'm a bit of a bookworm, but my father always pushed us to succeed academically.","hit":"bookworm","src":"dialogue","ep":241,"vi":""}
 {"w":"pay off","d":"to effect positively","ex":"","hit":"","src":"written","ep":241,"vi":""}
@@ -9,7 +9,7 @@
 {"w":"keen on","d":"willing or eager to do something","ex":"Well I've always been keen on on writing, so I became the editor for the University student magazine, which I really loved.","hit":"keen on","src":"dialogue","ep":241,"vi":""}
 {"w":"volunteer","d":"want to do something without being forced or pay","ex":"Also I volunteered for a group called Shelter, to help the homeless in York.","hit":"volunteered","src":"dialogue","ep":241,"vi":"","check":true}
 {"w":"involve","d":"contain","ex":"What did that involve?","hit":"involve","src":"dialogue","ep":241,"vi":""}
-{"w":"fulfilling","d":"full of happiness and satisfaction","ex":"I found it really fulfilling to be part of that group .","hit":"fulfilling","src":"dialogue","ep":241,"vi":""}
+{"w":"fulfilling","d":"full of happiness and satisfaction","ex":"I found it really fulfilling to be part of that group.","hit":"fulfilling","src":"dialogue","ep":241,"vi":""}
 {"w":"push sb.","d":"to encourage or persuade (someone) to do something","ex":"","hit":"","src":"written","ep":241,"vi":""}
 {"w":"validictorian","d":"a distinction given to the top graduate","ex":"","hit":"","src":"written","ep":241,"vi":""}
 {"w":"admiration","d":"to have respect for a person","ex":"","hit":"","src":"written","ep":241,"vi":""}
@@ -19,7 +19,7 @@
 {"w":"tricky","d":"requiring skill or caution","ex":"Now let's take a look at this tricky section.","hit":"tricky","src":"dialogue","ep":242,"vi":""}
 {"w":"scale","d":"a series of musical notes","ex":"Warm up with some scales and arpeggios first.","hit":"scales","src":"dialogue","ep":242,"vi":"","check":true}
 {"w":"tempo","d":"the speed at which a musical piece is played","ex":"Remember the tempo for this piece is andante.","hit":"tempo","src":"dialogue","ep":242,"vi":""}
-{"w":"by leaps and bounds","d":"very quickly","ex":"That's ok, keep going, you're moving ahead by leaps and bounds .","hit":"by leaps and bounds","src":"dialogue","ep":242,"vi":""}
+{"w":"by leaps and bounds","d":"very quickly","ex":"That's ok, keep going, you're moving ahead by leaps and bounds.","hit":"by leaps and bounds","src":"dialogue","ep":242,"vi":""}
 {"w":"musicianship","d":"the skill of performing music","ex":"Remember that as a pianist or any other musician, your technique will be what separates you from the pack just as much or more so as your musicianship.","hit":"musicianship","src":"dialogue","ep":242,"vi":""}
 {"w":"note","d":"a specific musical tone","ex":"The key signature says that note should be a G-sharp but now it's a G-natural.","hit":"note","src":"dialogue","ep":242,"vi":""}
 {"w":"dynamics","d":"changes in how loudly a piece of music is played","ex":"Watch your dynamics!","hit":"dynamics","src":"dialogue","ep":242,"vi":""}
@@ -29,13 +29,13 @@
 {"w":"plate","d":"the iron frame which holds the strings in place","ex":"Just play the right hand for now.","hit":"play","src":"dialogue","ep":242,"vi":"","check":true}
 {"w":"hitch pin","d":"a metal screw that holds one end of the string","ex":"","hit":"","src":"written","ep":242,"vi":""}
 {"w":"grand piano","d":"a specific type of piano","ex":"","hit":"","src":"written","ep":242,"vi":""}
-{"w":"package","d":"a group of services","ex":"This package includes round-trip flights to New Hampshire .","hit":"package","src":"dialogue","ep":243,"vi":""}
+{"w":"package","d":"a group of services","ex":"This package includes round-trip flights to New Hampshire.","hit":"package","src":"dialogue","ep":243,"vi":""}
 {"w":"round-trip","d":"travel both to the place and back again","ex":"","hit":"","src":"written","ep":243,"vi":""}
 {"w":"complimentary","d":"expressing a compliment","ex":"Our VIP limousine will pick you up and provide you with complimentary champagne and finger foods to soften the thirty-minute ride to the countryside.","hit":"complimentary","src":"dialogue","ep":243,"vi":""}
 {"w":"accommodate","d":"to provide room for (someone)","ex":"Your hotel is actually an old country villa that has been restored and refurbished to accommodate a maximum of that is guests.","hit":"accommodate","src":"dialogue","ep":243,"vi":""}
 {"w":"restore","d":"to return (something) to an original condition","ex":"Your hotel is actually an old country villa that has been restored and refurbished to accommodate a maximum of that is guests.","hit":"restored","src":"dialogue","ep":243,"vi":"","check":true}
 {"w":"be sold","d":"be persuaded to recognize the worth of","ex":"","hit":"","src":"written","ep":243,"vi":""}
-{"w":"getaway","d":"A place appropriate for a vacation.","ex":"Welcome to Perfect Getaway Tours .","hit":"Getaway","src":"dialogue","ep":243,"vi":""}
+{"w":"getaway","d":"A place appropriate for a vacation.","ex":"Welcome to Perfect Getaway Tours.","hit":"Getaway","src":"dialogue","ep":243,"vi":""}
 {"w":"itenerary","d":"a written plan of events","ex":"","hit":"","src":"written","ep":243,"vi":""}
 {"w":"hotel suite","d":"a luxury room above a standard room","ex":"","hit":"","src":"written","ep":243,"vi":""}
 {"w":"all inclusive","d":"a term used for everything provided free of charge","ex":"","hit":"","src":"written","ep":243,"vi":""}
@@ -52,7 +52,7 @@
 {"w":"unemployed","d":"to not have a job","ex":"","hit":"","src":"written","ep":244,"vi":""}
 {"w":"employable","d":"the ability to be employed","ex":"","hit":"","src":"written","ep":244,"vi":""}
 {"w":"subscription","d":"a purchase by prepayment for goods or services","ex":"Good afternoon Ma'am, My name is Mike and I am selling subscriptions to all sorts of periodicals.","hit":"subscriptions","src":"dialogue","ep":245,"vi":"","check":true}
-{"w":"if you could spare","d":"do you have, can you offer","ex":"Please ma'am , if you could spare five minutes of your time, I am sure we could find something that interests you!","hit":"if you could spare","src":"dialogue","ep":245,"vi":""}
+{"w":"if you could spare","d":"do you have, can you offer","ex":"Please ma'am, if you could spare five minutes of your time, I am sure we could find something that interests you!","hit":"if you could spare","src":"dialogue","ep":245,"vi":""}
 {"w":"quarterly","d":"at three month intervals","ex":"This one is a quarterly publication, but each issue has over 200 color pages of recipes and also many home decorating ideas!","hit":"quarterly","src":"dialogue","ep":245,"vi":""}
 {"w":"issue","d":"a final publication such as a magazine","ex":"This one is a quarterly publication, but each issue has over 200 color pages of recipes and also many home decorating ideas!","hit":"issue","src":"dialogue","ep":245,"vi":""}
 {"w":"pet sitter","d":"person who takes care of pets in owner's absence","ex":"You mentioned you have a dog, most pet owners sign up for this weekly newsletter that has information on dog care, pet shops and even pet sitters!","hit":"pet sitters","src":"dialogue","ep":245,"vi":"","check":true}
@@ -72,12 +72,12 @@
 {"w":"soft-sleeper","d":"a sleeping train car with more padding","ex":"","hit":"","src":"written","ep":246,"vi":""}
 {"w":"train conductor","d":"the person in charge of operating the train","ex":"","hit":"","src":"written","ep":246,"vi":""}
 {"w":"frustrating","d":"to cause feelings of discouragement or bafflement","ex":"I didn't have many responsibilities and I found it quite frustrating.","hit":"frustrating","src":"dialogue","ep":247,"vi":""}
-{"w":"slowly but surely","d":"happening gradually but inevitably or without fail","ex":"Well slowly but surely I proved myself, and the new editor liked me so he promoted me to features writer .","hit":"slowly but surely","src":"dialogue","ep":247,"vi":""}
+{"w":"slowly but surely","d":"happening gradually but inevitably or without fail","ex":"Well slowly but surely I proved myself, and the new editor liked me so he promoted me to features writer.","hit":"slowly but surely","src":"dialogue","ep":247,"vi":""}
 {"w":"to prove oneself","d":"to show to have the character or ability expected","ex":"","hit":"","src":"written","ep":247,"vi":""}
 {"w":"long-term","d":"covering a relatively long period of time","ex":"","hit":"","src":"written","ep":247,"vi":""}
 {"w":"challenging","d":"a test of one's abilities or resources in a demanding but stimulating undertaking","ex":"I really needed a more challenging role to be honest.","hit":"challenging","src":"dialogue","ep":247,"vi":""}
 {"w":"unsatisfied","d":"a feeling of unfulfillment","ex":"","hit":"","src":"written","ep":247,"vi":""}
-{"w":"promote","d":"to go up in rank or status(at your job)","ex":"Well slowly but surely I proved myself, and the new editor liked me so he promoted me to features writer .","hit":"promoted","src":"dialogue","ep":247,"vi":"","check":true}
+{"w":"promote","d":"to go up in rank or status(at your job)","ex":"Well slowly but surely I proved myself, and the new editor liked me so he promoted me to features writer.","hit":"promoted","src":"dialogue","ep":247,"vi":"","check":true}
 {"w":"trial period","d":"to prove your worth(at your job)","ex":"","hit":"","src":"written","ep":247,"vi":""}
 {"w":"food critic","d":"a person who critiques food at restaurants","ex":"","hit":"","src":"written","ep":247,"vi":""}
 {"w":"disinterested","d":"to not have an interest in something","ex":"","hit":"","src":"written","ep":247,"vi":""}
@@ -166,7 +166,7 @@
 {"w":"scrotum","d":"a pouch with holds the testes","ex":"","hit":"","src":"written","ep":255,"vi":""}
 {"w":"pre menstrual syndrome","d":"a disorder during a woman's menstrual cycle characterized by depression and stomach cramps","ex":"","hit":"","src":"written","ep":255,"vi":""}
 {"w":"vagina","d":"the female reproductive organ","ex":"","hit":"","src":"written","ep":255,"vi":""}
-{"w":"remuneration package","d":"money and benefits given to someone for the work","ex":"Could I first ask about the remuneration package ?","hit":"remuneration package","src":"dialogue","ep":256,"vi":""}
+{"w":"remuneration package","d":"money and benefits given to someone for the work","ex":"Could I first ask about the remuneration package?","hit":"remuneration package","src":"dialogue","ep":256,"vi":""}
 {"w":"per annum","d":"each year","ex":"As a junior sub editor we offer a starting salary of 150,000 HK dollars per annum.","hit":"per annum","src":"dialogue","ep":256,"vi":""}
 {"w":"housing allowance","d":"money that a company provides for rent of a house","ex":"This doesn't include a generous housing allowance also.","hit":"housing allowance","src":"dialogue","ep":256,"vi":""}
 {"w":"flexible","d":"able to change or to do different things","ex":"Well Mr. Parsons, I am flexible when it comes to salary.","hit":"flexible","src":"dialogue","ep":256,"vi":""}

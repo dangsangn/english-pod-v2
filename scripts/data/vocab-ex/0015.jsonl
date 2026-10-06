@@ -1,9 +1,10 @@
 {"w":"brake","d":"a device that slows down or stops something","ex":"We also check the clutch and brakes to determine when you will need new ones.","hit":"brakes","src":"dialogue","ep":284,"vi":"","check":true}
 {"w":"tackle","d":"deal with something that is difficult","ex":"Let's first of all tackle the first question.","hit":"tackle","src":"dialogue","ep":283,"vi":""}
 {"w":"exchange","d":"give something and receive something in return","ex":"I am sorry sir, but we can only exchange or refund defective products, we cannot take responsibility for misuse or damages.","hit":"exchange","src":"dialogue","ep":299,"vi":""}
+{"w":"engine","d":"the device which helps cars getting running","ex":"If you don't do this, it can cause your engine to wear faster and that means you would probably have to change the pistons and intake valves.","hit":"engine","src":"dialogue","ep":284,"vi":""}
 {"w":"talk about","d":"to deliver or express in speech","ex":"Talk about being cliché, Maggie!","hit":"Talk about","src":"dialogue","ep":281,"vi":""}
 {"w":"figure things out","d":"think about something until understand","ex":"He said he needed some space to figure things out...","hit":"figure things out","src":"dialogue","ep":281,"vi":""}
-{"w":"cliché","d":"a saying or idea that is overused","ex":"That's so cliché.","hit":"clich","src":"dialogue","ep":281,"vi":""}
+{"w":"cliché","d":"a saying or idea that is overused","ex":"Talk about being cliché, Maggie!","hit":"clich","src":"dialogue","ep":281,"vi":""}
 {"w":"hit a rough patch","d":"go through a difficult time","ex":"I know we had hit a rough patch but I had hoped we could work it out next weekend, when we both had some time off...","hit":"hit a rough patch","src":"dialogue","ep":281,"vi":""}
 {"w":"get dumped","d":"to have someone break up with you","ex":"","hit":"","src":"written","ep":281,"vi":""}
 {"w":"honeymoon period","d":"the time at the beginning of a relationship when everything is going well","ex":"","hit":"","src":"written","ep":281,"vi":""}
@@ -168,7 +169,7 @@
 {"w":"feel like","d":"have an inclination or desire for","ex":"What do you feel like having?","hit":"feel like","src":"dialogue","ep":296,"vi":""}
 {"w":"steak","d":"piece of cow meat","ex":"I really feel like having a big juicy steak!","hit":"steak","src":"dialogue","ep":296,"vi":""}
 {"w":"vegetarian","d":"a person who does not eat meat or fish","ex":"I didn't know you were a vegetarian!","hit":"vegetarian","src":"dialogue","ep":296,"vi":""}
-{"w":"vegan","d":"a person who does not eat or use animal products","ex":"A vegan.","hit":"vegan","src":"dialogue","ep":296,"vi":""}
+{"w":"vegan","d":"a person who does not eat or use animal products","ex":"I'm not, I am a vegan.","hit":"vegan","src":"dialogue","ep":296,"vi":""}
 {"w":"leather","d":"made with animal skin that is chemically treated","ex":"I don't wear leather, eat eggs, drink milk or anything that comes from an animal.","hit":"leather","src":"dialogue","ep":296,"vi":""}
 {"w":"come from","d":"originates from","ex":"I don't wear leather, eat eggs, drink milk or anything that comes from an animal.","hit":"comes from","src":"dialogue","ep":296,"vi":"","check":true}
 {"w":"more and more","d":"continuing to become larger in number","ex":"It's a bit difficult to find vegetarian friendly restaurants sometimes, but since more and more people are vegetarians or vegans nowadays, it's getting a bit less difficult.","hit":"more and more","src":"dialogue","ep":296,"vi":""}
