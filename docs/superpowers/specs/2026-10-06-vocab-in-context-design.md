@@ -187,6 +187,7 @@ in đậm), nút loa đọc cả câu, và `vi`. Không có ví dụ thì không
 | `src/lib/speech.ts` | `speak(text, { rate })`. |
 | `src/components/vocab/SpellQuestion.tsx` | Thêm prop tuỳ chọn để Cloze dùng lại. |
 | `src/components/vocab/ExampleSentence.tsx`, `LeechBadge.tsx` | Mới. |
+| `src/components/vocab/ClozeQuestion.tsx`, `DictationQuestion.tsx` | Mới. |
 | `scripts/lib/transcripts.js`, `scripts/lib/examples.js` | Mới: đọc transcript, dữ liệu ví dụ (dùng chung cho các script). |
 | `src/components/vocab/GameSession.tsx`, `StudySession.tsx` | Tải ví dụ, kiểu mới. |
 | `src/components/vocab/Flashcard.tsx`, `WordList.tsx`, `VocabHome.tsx` | Ví dụ, hay quên, giới hạn từ mới. |
