@@ -86,8 +86,11 @@ for (const { row, file, line } of rows) {
     if (row.ex !== plain(row.ex)) fail(where, 'use straight apostrophes and single spaces');
     if (!row.ex.includes(row.hit)) fail(where, `hit "${row.hit}" is not in the sentence`);
     if (splitSentences(row.ex).length !== 1) fail(where, 'more than one sentence');
-    if (row.src === 'dialogue' && !linesOf(row.ep).some((l) => l.includes(row.ex))) {
-        fail(where, `sentence is not in episode ${row.ep}'s dialogue`);
+    // Transcripts sometimes glue words together ("wantyou"), so ignore whitespace when matching:
+    // a dialogue sentence may add the spaces the transcript lost, but not change any other character.
+    const squash = (t) => t.replace(/\s+/g, '');
+    if (row.src === 'dialogue' && !linesOf(row.ep).some((l) => squash(l).includes(squash(row.ex)))) {
+        fail(where, `sentence is not in episode ${row.ep}'s dialogue (ignoring spaces)`);
     }
     const words = row.ex.split(' ').length;
     if (row.src === 'written' && (words < 4 || words > 20)) {

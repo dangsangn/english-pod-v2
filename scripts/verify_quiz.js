@@ -126,11 +126,13 @@ function checkSpellingOf(card) {
 }
 
 function checkTargetWords(where, ex, hit) {
+    // A possessive target ("groom's" for the hit "groom") is fine, so compare without a trailing 's.
+    const bare = (text) => text.split(' ').map((w) => w.replace(/['’]s$/i, '')).join(' ');
     const targets = gradeDictation(ex, ex, hit)
         .words.filter((w) => w.target)
         .map((w) => w.text)
         .join(' ');
-    if (comparable(targets) !== comparable(hit)) {
+    if (comparable(bare(targets)) !== comparable(bare(hit))) {
         fail(`${where}: dictation marks "${targets}" as the target, want "${hit}"`);
     }
 }
