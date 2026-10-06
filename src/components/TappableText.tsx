@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import type { MouseEvent, SyntheticEvent } from 'react'
 import classNames from 'classnames'
+import { hitIndex } from '../lib/quiz'
 import { cardId } from '../lib/srs'
 import { useSrs } from '../lib/srsStore'
 import TranslatePopover from './TranslatePopover'
@@ -33,7 +34,7 @@ export default function TappableText({ text, className, highlight }: TappableTex
   const parts = text.split(WORD) // odd indexes are words
 
   // Character range of the highlight, and where each part starts.
-  const from = highlight ? text.indexOf(highlight) : -1
+  const from = highlight ? hitIndex(text, highlight) : -1
   const to = from + (highlight?.length ?? 0)
   const starts = parts.map((_, i) => parts.slice(0, i).join('').length)
   const highlighted = (i: number) =>

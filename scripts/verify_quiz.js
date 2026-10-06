@@ -18,6 +18,7 @@ import {
     comparable,
     gradeDictation,
     gradeFor,
+    hitIndex,
     lettersOf,
     makeQuestion,
     maskWord,
@@ -124,6 +125,16 @@ function checkSpellingOf(card) {
     if (checkSpelling(`${card.word}x`, card.word)) fail(`${where}: an extra letter is accepted`);
 }
 
+function checkTargetWords(where, ex, hit) {
+    const targets = gradeDictation(ex, ex, hit)
+        .words.filter((w) => w.target)
+        .map((w) => w.text)
+        .join(' ');
+    if (comparable(targets) !== comparable(hit)) {
+        fail(`${where}: dictation marks "${targets}" as the target, want "${hit}"`);
+    }
+}
+
 function checkExampleOf(card) {
     const { example } = card;
     if (!example) return;
@@ -136,6 +147,7 @@ function checkExampleOf(card) {
         fail(`${where}: dictation of the sentence itself is not fully right`);
     }
     if (!full.words.some((w) => w.target)) fail(`${where}: dictation finds no target word`);
+    checkTargetWords(where, example.ex, example.hit);
     if (gradeDictation('', example.ex, example.hit).targetCorrect) {
         fail(`${where}: an empty dictation counts as right`);
     }
@@ -215,6 +227,15 @@ function checkRules(rng) {
     const extra = gradeDictation("I'll go with the the spaghetti", sentence, 'go with');
     if (extra.words.filter((w) => w.status === 'extra').length !== 1) {
         fail('rules: a repeated word should show as one extra');
+    }
+
+    if (hitIndex('I said go ago, go now', 'go') !== 7) fail('rules: hitIndex should skip "go" inside "ago"');
+    if (hitIndex('going', 'go') !== 0) fail('rules: hitIndex should fall back to a plain match');
+    if (hitIndex('abc', 'x') !== -1) fail('rules: hitIndex of a missing word is -1');
+    checkTargetWords('rules: pot', 'Put the potatoes in a big pot of water.', 'pot');
+    const ago = gradeDictation('ago go', 'ago go', 'go');
+    if (ago.words.map((w) => w.target).join() !== 'false,true') {
+        fail('rules: gradeDictation should mark only the whole word "go" as the target');
     }
 
     if (isLeech({ lapses: 3 }) || !isLeech({ lapses: 4 })) fail('rules: a leech is 4 or more lapses');

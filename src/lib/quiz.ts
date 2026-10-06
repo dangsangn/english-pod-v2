@@ -282,7 +282,22 @@ function wordsOf(text: string) {
   ].map((m) => ({ text: m[0], start: m.index, end: m.index + m[0].length }))
 }
 
-const wordKey = (word: string) => word.toLowerCase().replace(/’/g, "'")
+/**
+ * Where `hit` starts in `text` as whole words — not inside a longer word, so
+ * "go" is not found in "ago" — or -1. Falls back to a plain match when no
+ * whole-word one exists.
+ */
+export function hitIndex(text: string, hit: string): number {
+  if (!hit) return -1
+  for (let at = text.indexOf(hit); at >= 0; at = text.indexOf(hit, at + 1)) {
+    const before = text.charAt(at - 1)
+    const after = text.charAt(at + hit.length)
+    if (!/[\p{L}\p{N}']/u.test(before) && !/[\p{L}\p{N}]/u.test(after)) return at
+  }
+  return text.indexOf(hit)
+}
+
+const wordKey = (word: string) => word.toLowerCase().replace(/[’ʼ‘]/g, "'")
 
 /**
  * Grade a dictation word by word: case and punctuation do not count. The
@@ -290,10 +305,12 @@ const wordKey = (word: string) => word.toLowerCase().replace(/’/g, "'")
  * subsequence, so one missing or extra word does not throw off the rest.
  */
 export function gradeDictation(input: string, sentence: string, hit: string): DictationResult {
-  const want = wordsOf(sentence)
+  const text = sentence.normalize('NFC')
+  const want = wordsOf(text)
   const got = wordsOf(input)
-  const hitStart = sentence.indexOf(hit)
-  const hitEnd = hitStart + hit.length
+  const target = hit.normalize('NFC')
+  const hitStart = hitIndex(text, target)
+  const hitEnd = hitStart + target.length
   const isTarget = (w: { start: number; end: number }) =>
     hitStart >= 0 && w.start < hitEnd && w.end > hitStart
 
