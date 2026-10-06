@@ -209,7 +209,9 @@ export default function SpellQuestion({
             </button>
           </div>
         )}
-        {result && example && <ExampleSentence example={example} className='mt-4 vocab-rise-in' />}
+        {result && example && (
+          <ExampleSentence example={example} showTranslation className='mt-4 vocab-rise-in' />
+        )}
       </QuestionCard>
 
       {result ? (

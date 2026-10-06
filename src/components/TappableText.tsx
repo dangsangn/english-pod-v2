@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { MouseEvent, SyntheticEvent } from 'react'
+import type { MouseEvent, ReactNode, SyntheticEvent } from 'react'
 import classNames from 'classnames'
 import { hitIndex } from '../lib/quiz'
 import { cardId } from '../lib/srs'
@@ -24,9 +24,11 @@ interface TappableTextProps {
   className?: string
   /** Shown in bold where it first occurs in `text` (the word an example is about). */
   highlight?: string
+  /** Inline content after the text, e.g. buttons that follow the last word. */
+  after?: ReactNode
 }
 
-export default function TappableText({ text, className, highlight }: TappableTextProps) {
+export default function TappableText({ text, className, highlight, after }: TappableTextProps) {
   const srs = useSrs()
   const [lookup, setLookup] = useState<(LookupTarget & { index: number }) | null>(null)
 
@@ -72,6 +74,7 @@ export default function TappableText({ text, className, highlight }: TappableTex
           part
         ),
       )}
+      {after}
       {lookup && (
         <TranslatePopover
           target={lookup}

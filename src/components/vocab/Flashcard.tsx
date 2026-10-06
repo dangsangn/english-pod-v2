@@ -98,7 +98,7 @@ export default function Flashcard({
 
   return (
     <div
-      className='relative mx-auto w-full max-w-md aspect-[4/5] max-h-[60vh] touch-pan-y select-none cursor-pointer vocab-pop-in'
+      className='relative mx-auto w-full max-w-md aspect-[3/4] max-h-[64vh] touch-pan-y select-none cursor-pointer vocab-pop-in'
       style={{
         transform: `translateX(${dx}px) rotate(${Math.max(-MAX_TILT, Math.min(MAX_TILT, dx / 18))}deg)`,
         transition: dragging && !flying ? 'none' : 'transform 200ms ease-out',
@@ -174,7 +174,7 @@ export default function Flashcard({
                   <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
                     Example
                   </p>
-                  <ExampleSentence example={example} className='mt-0.5 -ml-2' />
+                  <ExampleSentence example={example} className='mt-0.5' />
                 </div>
               )}
             </div>
