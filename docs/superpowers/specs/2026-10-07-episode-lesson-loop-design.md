@@ -44,7 +44,9 @@ export function nextLessonStep(p: LessonProgress | undefined): LessonStep | null
 export function mergeLesson(a: LessonProgress | undefined, b: LessonProgress | undefined, resetAt: number | null): LessonProgress
 ```
 
-- `migrate` điền `lessons: {}` cho state cũ.
+- State cũ nhận `lessons: {}` từ phép trải `{ ...DEFAULT_STATE, ...saved }` trong `load()`.
+- `listenStepAfter(p)` (hàm thuần): bước nghe mà một lần nghe hết bài sẽ đánh dấu — `listen` nếu chưa có;
+  `relisten` nếu đã có `review` mà chưa có `relisten`; còn lại `null`. `listenedTo(id)` dùng nó.
 - `collectSrsChanges(since)`: thêm `lessons`, gồm các bài có mốc lớn nhất `>= since`
   (hoặc tất cả khi `since === null`). Không cần tombstone: mốc chỉ tăng.
 - `applySyncResult`: `lessons[id] = mergeLesson(local, remote, resetAt)`. Khi nhận
@@ -110,10 +112,7 @@ Thay `EpisodeVocabButton` dưới tiêu đề bài trong `App.tsx`. Props:
   (trước nhánh loop / chuyển bài tiếp), với `episode.id` của bài vừa hết.
 - `AudioPlayer` thêm cách để App yêu cầu phát từ đầu: prop `playRequest: number` (tăng mỗi lần
   bấm chip Nghe); khi đổi, đặt `currentTime = 0` và `play()` nếu đang dừng.
-- `App.tsx` xử lý `onEnded(id)` qua hàm `listenedTo(id)` trong `srsStore`:
-  - chưa có `listen` → đánh dấu `listen`;
-  - đã có `review` mà chưa có `relisten` → đánh dấu `relisten`;
-  - còn lại không làm gì.
+- `App.tsx` truyền `onEnded={listenedTo}`; `listenedTo` đánh dấu bước mà `listenStepAfter` trả về (nếu có).
 
 ### Session mở từ thanh bước
 
@@ -123,6 +122,7 @@ Thay `EpisodeVocabButton` dưới tiêu đề bài trong `App.tsx`. Props:
 - Lần đầu tới `SessionSummary` với `stats.answers >= 1` và có `lessonStep`: gọi
   `markLesson(episodeId, lessonStep)`.
 - `onExit` khi có `lessonStep`: `navigate('')` (về trang bài) thay cho `navigate('vocab')`.
+- `SessionSummary` thêm prop tuỳ chọn `exitLabel`; session có `lessonStep` truyền "Về bài nghe".
 
 ### Danh sách bài
 
@@ -167,6 +167,7 @@ export function highlightVocab(root: HTMLElement, entries: VocabEntry[]): number
   không có thì "Chưa học". Dữ liệu lấy từ thẻ trong store, không có thì từ `VocabEntry` của bài.
 - `Transcript` giữ một trạng thái popover duy nhất cho cả popover dịch dòng lẫn popover từ:
   mở cái này thì cái kia đóng.
+- `StageBadge` được tách khỏi `Flashcard.tsx` thành `src/components/vocab/StageBadge.tsx` để dùng chung.
 
 ## Cấu trúc code
 
@@ -194,8 +195,9 @@ export function highlightVocab(root: HTMLElement, entries: VocabEntry[]): number
 Dự án không dùng test framework. Kiểm tra bằng:
 
 - `node scripts/verify_highlight.js`: trên cả 365 bài (dòng thoại đọc bằng
-  `scripts/lib/transcripts.js`), mọi mục `src:"dialogue"` ra đúng một hit trong đúng một dòng,
-  và chuỗi tại hit bằng `exHit`; không có hit chồng nhau.
+  `scripts/lib/transcripts.js`), mọi mục `src:"dialogue"` ra ít nhất một hit trong thoại của bài đó
+  (một câu có thể lặp ở nhiều dòng), và chuỗi tại mọi hit bằng `exHit` (bỏ qua khoảng trắng, dấu
+  nháy cong). Hit chồng nhau bị bỏ và chỉ được đếm, không tính là lỗi.
 - `node scripts/verify_srs_store.js`: `mergeLesson` (max từng trường, bỏ mốc `< resetAt`),
   `nextLessonStep`, `markLesson` không ghi đè, `listenedTo` theo ba trường hợp,
   `collectSrsChanges` / `applySyncResult` với lessons.
