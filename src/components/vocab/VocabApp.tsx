@@ -20,9 +20,10 @@ interface VocabAppProps {
 // Full-screen vocabulary area, laid over the podcast view so audio keeps
 // playing underneath. Sub-pages live in the hash (#vocab, #vocab/decks,
 // #vocab/words/<filter>, #vocab/episode/<id>, #vocab/study, #vocab/study/<episodeId>,
-// #vocab/play, #vocab/play/<episodeId>) so the browser back button works.
+// #vocab/play, #vocab/play/<episodeId>, and #vocab/study/<episodeId>/lesson and
+// #vocab/play/<episodeId>/lesson when opened from the lesson bar) so the browser back button works.
 export default function VocabApp({ route, episodes, onOpenEpisode }: VocabAppProps) {
-  const [, page, param] = route.split('/')
+  const [, page, param, mode] = route.split('/')
 
   useEffect(() => {
     backfillCardContent(episodes)
@@ -31,6 +32,7 @@ export default function VocabApp({ route, episodes, onOpenEpisode }: VocabAppPro
   if (page === 'study' || page === 'play') {
     const episodeId = param ? Number(param) : null
     const Session = page === 'play' ? GameSession : StudySession
+    const lessonStep = mode === 'lesson' ? (page === 'play' ? 'review' : 'preview') : undefined
     return (
       <Shell>
         <Session
@@ -38,7 +40,9 @@ export default function VocabApp({ route, episodes, onOpenEpisode }: VocabAppPro
           key={route}
           episodeId={episodeId}
           episode={episodes.find((e) => e.id === episodeId)}
-          onExit={() => navigate('vocab')}
+          lessonStep={lessonStep}
+          // From the lesson bar, back to the episode page it came from.
+          onExit={() => navigate(lessonStep ? '' : 'vocab')}
         />
       </Shell>
     )

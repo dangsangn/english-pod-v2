@@ -11,16 +11,18 @@ export interface SessionStats {
 export default function SessionSummary({
   stats,
   onExit,
+  exitLabel,
 }: {
   stats: SessionStats
   onExit: () => void
+  exitLabel?: string
 }) {
   // Frozen when the summary first shows, so the minutes don't keep ticking.
   const [endedAt] = useState(() => Date.now())
 
   if (stats.answers === 0) {
     return (
-      <Screen emoji='🌿' title='Chưa có thẻ nào' onExit={onExit}>
+      <Screen emoji='🌿' title='Chưa có thẻ nào' onExit={onExit} exitLabel={exitLabel}>
         Thêm bộ từ vào vườn để bắt đầu học nhé.
       </Screen>
     )
@@ -30,7 +32,7 @@ export default function SessionSummary({
   const minutes = Math.max(1, Math.round((endedAt - stats.startedAt) / 60000))
 
   return (
-    <Screen emoji='🌸' title='Tuyệt vời!' onExit={onExit}>
+    <Screen emoji='🌸' title='Tuyệt vời!' onExit={onExit} exitLabel={exitLabel}>
       Bạn vừa chăm sóc khu vườn của mình. Hẹn gặp lại ở lượt ôn tiếp theo.
       <div className='mt-8 grid grid-cols-3 gap-3 text-zinc-900 dark:text-zinc-100'>
         <Stat value={stats.answers} label='lượt trả lời' />
@@ -46,10 +48,11 @@ interface ScreenProps {
   emoji: string
   title: string
   onExit: () => void
+  exitLabel?: string
   children: ReactNode
 }
 
-function Screen({ emoji, title, onExit, children }: ScreenProps) {
+function Screen({ emoji, title, onExit, exitLabel, children }: ScreenProps) {
   return (
     <div className='min-h-full max-w-md mx-auto px-4 flex flex-col items-center justify-center text-center py-12 vocab-pop-in'>
       <div className='w-28 h-28 rounded-full bg-gradient-to-br from-rose-100 via-pink-100 to-amber-100 dark:from-rose-500/20 dark:via-pink-500/15 dark:to-amber-500/15 flex items-center justify-center text-6xl shadow-xl shadow-rose-200/50 dark:shadow-none'>
@@ -62,7 +65,7 @@ function Screen({ emoji, title, onExit, children }: ScreenProps) {
         onClick={onExit}
         className='mt-10 w-full py-4 rounded-2xl bg-rose-500 hover:bg-rose-600 text-white font-bold shadow-lg shadow-rose-500/25'
       >
-        Về khu vườn
+        {exitLabel ?? 'Về khu vườn'}
       </button>
     </div>
   )

@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { isLeech, schedule } from '../../lib/srs'
-import { buildQueue, getSrsState, rateCard, useSrs } from '../../lib/srsStore'
+import { buildQueue, getSrsState, markLesson, rateCard, useSrs } from '../../lib/srsStore'
 import { gradeFor, makeQuestion } from '../../lib/quiz'
 import type { Question, QuestionKind } from '../../lib/quiz'
 import type { SrsState } from '../../lib/srsStore'
@@ -48,10 +48,12 @@ function nextRound(srs: SrsState, queue: string[], recent: QuestionKind[]): Roun
 export interface SessionProps {
   episodeId: number | null
   episode: Episode | undefined
+  /** Opened from the episode page's lesson bar: the step the session completes. */
+  lessonStep?: 'preview' | 'review'
   onExit: () => void
 }
 
-export default function GameSession({ episodeId, episode, onExit }: SessionProps) {
+export default function GameSession({ episodeId, episode, lessonStep, onExit }: SessionProps) {
   const srs = useSrs()
   // Which kinds a card can be asked depends on its example sentence, so the
   // first question waits for the examples of the session's episodes.
@@ -79,6 +81,14 @@ export default function GameSession({ episodeId, episode, onExit }: SessionProps
     window.addEventListener('keydown', onKey)
     return () => window.removeEventListener('keydown', onKey)
   }, [onExit])
+
+  // From the lesson bar: reaching the summary with at least one answer completes the step.
+  const finished = round !== null && round.question === null
+  useEffect(() => {
+    if (finished && lessonStep && episodeId !== null && stats.answers > 0) {
+      markLesson(episodeId, lessonStep)
+    }
+  }, [finished, lessonStep, episodeId, stats.answers])
 
   if (!round) {
     return (
@@ -117,7 +127,13 @@ export default function GameSession({ episodeId, episode, onExit }: SessionProps
   }
 
   if (!card || !question) {
-    return <SessionSummary stats={stats} onExit={onExit} />
+    return (
+      <SessionSummary
+        stats={stats}
+        onExit={onExit}
+        exitLabel={lessonStep ? 'Về bài nghe' : undefined}
+      />
+    )
   }
 
   const example = exampleOf(card)

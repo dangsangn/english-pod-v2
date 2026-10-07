@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import classNames from 'classnames'
 import { formatDelay, previewDelay, RATINGS, schedule } from '../../lib/srs'
 import type { Rating } from '../../lib/srs'
-import { buildQueue, rateCard, useSrs } from '../../lib/srsStore'
+import { buildQueue, markLesson, rateCard, useSrs } from '../../lib/srsStore'
 import { episodeIdsOf, exampleOf, useExamples } from '../../lib/examples'
 import { speak } from '../../lib/speech'
 import { useNow } from '../../lib/hooks'
@@ -17,7 +17,7 @@ import { RATING_STYLES } from './stages'
 // rather than straight away, so the short-term memory has to do some work.
 const REQUEUE_GAP = 3
 
-export default function StudySession({ episodeId, episode, onExit }: SessionProps) {
+export default function StudySession({ episodeId, episode, lessonStep, onExit }: SessionProps) {
   const srs = useSrs()
   const now = useNow()
   const [start] = useState(() => {
@@ -49,6 +49,14 @@ export default function StudySession({ episodeId, episode, onExit }: SessionProp
   useEffect(() => {
     if (autoSpeak && word) speak(word)
   }, [turn, word, autoSpeak])
+
+  // From the lesson bar: reaching the summary with at least one answer completes the step.
+  const finished = !card
+  useEffect(() => {
+    if (finished && lessonStep && episodeId !== null && stats.answers > 0) {
+      markLesson(episodeId, lessonStep)
+    }
+  }, [finished, lessonStep, episodeId, stats.answers])
 
   const flip = () => {
     setFlipped((f) => !f)
@@ -99,7 +107,13 @@ export default function StudySession({ episodeId, episode, onExit }: SessionProp
   })
 
   if (!card) {
-    return <SessionSummary stats={stats} onExit={onExit} />
+    return (
+      <SessionSummary
+        stats={stats}
+        onExit={onExit}
+        exitLabel={lessonStep ? 'Về bài nghe' : undefined}
+      />
+    )
   }
 
   return (
