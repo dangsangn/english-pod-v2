@@ -5,6 +5,9 @@ import { Eye, EyeOff } from 'lucide-react'
 import { decorateVocab, normalizeText } from '../lib/vocabulary'
 import { addLineTranslateButtons } from '../lib/lineTranslate'
 import { speak } from '../lib/speech'
+import { highlightVocab } from '../lib/highlightVocab'
+import { isLeech, stageOf } from '../lib/srs'
+import { useSrs } from '../lib/srsStore'
 import TranslatePopover from './TranslatePopover'
 import type { LineTarget } from './TranslatePopover'
 import type { Episode, VocabEntry } from '../types'
@@ -32,6 +35,7 @@ const Transcript = ({ episode }: { episode: Episode }) => {
   const [lookup, setLookup] = useState<LineTarget | null>(null)
   const contentRef = useRef<HTMLDivElement>(null)
   const activeButtonRef = useRef<HTMLElement | null>(null)
+  const srs = useSrs()
 
   const swrKey =
     isVisible && episode.transcript_id ? `./transcripts/${episode.transcript_id}.html` : null
@@ -66,11 +70,27 @@ const Transcript = ({ episode }: { episode: Episode }) => {
 
     // Decorate first: it fills in the words the source HTML left blank, so
     // those rows can be clicked to speak too.
-    if (vocab) decorateVocab(contentRef.current, vocab)
+    if (vocab) {
+      decorateVocab(contentRef.current, vocab)
+      // Before the translate buttons, so each line's text is only its words.
+      highlightVocab(contentRef.current, vocab)
+    }
 
     // Every line with a Vietnamese translation gets a button that shows it.
     if (lineTranslations) addLineTranslateButtons(contentRef.current, lineTranslations)
   }, [content, loading, vocab, lineTranslations])
+
+  // Colour each highlighted word by its card's garden stage. Separate from the
+  // effect above, so answering a card recolours the words without injecting
+  // the transcript again; it re-runs whenever that effect does.
+  useEffect(() => {
+    contentRef.current?.querySelectorAll<HTMLElement>('mark.vocab-hit').forEach((mark) => {
+      const card = srs.cards[mark.dataset.card ?? '']
+      if (card) mark.dataset.stage = stageOf(card)
+      else delete mark.dataset.stage
+      mark.toggleAttribute('data-leech', Boolean(card && isLeech(card)))
+    })
+  }, [srs.cards, content, loading, vocab, lineTranslations])
 
   const closeLookup = () => {
     activeButtonRef.current?.classList.remove('line-translate-active')

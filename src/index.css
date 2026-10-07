@@ -84,6 +84,53 @@
   @apply text-sm text-indigo-600 dark:text-indigo-400 font-medium;
 }
 
+/* The episode's vocabulary in the dialogue (src/lib/highlightVocab.ts),
+   coloured by the card's garden stage (src/components/vocab/stages.ts). A word
+   not in the garden yet only gets a dotted underline. */
+.transcript-content mark.vocab-hit {
+  cursor: pointer;
+  color: inherit;
+  background: transparent;
+  border-radius: 0.25rem;
+  padding: 0 0.125rem;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 3px;
+  @apply decoration-zinc-400 dark:decoration-zinc-500;
+}
+
+.transcript-content mark.vocab-hit[data-stage] {
+  text-decoration-line: none;
+}
+
+.transcript-content mark.vocab-hit[data-stage='seed'] {
+  @apply bg-amber-100 dark:bg-amber-500/20;
+}
+
+.transcript-content mark.vocab-hit[data-stage='sprout'] {
+  @apply bg-lime-100 dark:bg-lime-500/20;
+}
+
+.transcript-content mark.vocab-hit[data-stage='bud'] {
+  @apply bg-pink-100 dark:bg-pink-500/20;
+}
+
+.transcript-content mark.vocab-hit[data-stage='bloom'] {
+  @apply bg-rose-100 dark:bg-rose-500/25;
+}
+
+/* Hay quên (srs.isLeech): a red underline on top of the stage colour. */
+.transcript-content mark.vocab-hit[data-leech] {
+  box-shadow: inset 0 -2px 0 var(--color-red-500);
+}
+
+/* The word whose card is open (components/WordPopover.tsx). */
+.transcript-content mark.vocab-hit.vocab-hit-active {
+  @apply ring-2 ring-rose-400 dark:ring-rose-500;
+}
+
 /* Vocabulary study */
 @keyframes vocab-fade-in {
   from {

@@ -9,6 +9,7 @@
 // returned is an offset into the original text, for the DOM pass to wrap.
 
 import { hitIndex } from './quiz.ts'
+import { cardId } from './srs.ts'
 import type { VocabEntry } from '../types'
 
 export interface HitRange {
@@ -63,4 +64,56 @@ export function findHits(text: string, entries: VocabEntry[]): HitRange[] {
     if (!kept.length || hit.start >= kept[kept.length - 1].end) kept.push(hit)
   }
   return kept
+}
+
+/**
+ * Wrap the vocabulary in the dialogue lines in <mark class="vocab-hit">, with
+ * data-card (the card id) and data-word (the entry's word) for the click
+ * handler and the stage colouring. Run it before the translate buttons go in,
+ * so a line's text is only its words. Safe to call again: earlier marks are
+ * unwrapped first.
+ *
+ * @returns how many words were marked
+ */
+export function highlightVocab(rootEl: HTMLElement, entries: VocabEntry[]): number {
+  rootEl.querySelectorAll('mark.vocab-hit').forEach((mark) => mark.replaceWith(...mark.childNodes))
+  rootEl.normalize()
+
+  let marked = 0
+  rootEl.querySelectorAll<HTMLElement>('.dialogue-block .text').forEach((line) => {
+    // Last first: wrapping a hit then leaves the earlier offsets where they were.
+    for (const hit of findHits(line.textContent ?? '', entries).reverse()) {
+      const range = rangeOf(line, hit.start, hit.end)
+      if (!range) continue
+      const mark = document.createElement('mark')
+      mark.className = 'vocab-hit'
+      mark.dataset.card = cardId(hit.entry.word)
+      mark.dataset.word = hit.entry.word
+      mark.append(range.extractContents())
+      range.insertNode(mark)
+      marked++
+    }
+  })
+  return marked
+}
+
+/** A DOM Range over [start, end) of `el`'s text, across as many text nodes as it spans. */
+function rangeOf(el: HTMLElement, start: number, end: number): Range | null {
+  const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT)
+  const range = document.createRange()
+  let offset = 0
+  let started = false
+  for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+    const length = node.textContent?.length ?? 0
+    if (!started && start < offset + length) {
+      range.setStart(node, start - offset)
+      started = true
+    }
+    if (started && end <= offset + length) {
+      range.setEnd(node, end - offset)
+      return range
+    }
+    offset += length
+  }
+  return null
 }
