@@ -9,6 +9,8 @@ import { highlightVocab } from '../lib/highlightVocab'
 import { isLeech, stageOf } from '../lib/srs'
 import { useSrs } from '../lib/srsStore'
 import TranslatePopover from './TranslatePopover'
+import WordPopover from './WordPopover'
+import type { WordTarget } from './WordPopover'
 import type { LineTarget } from './TranslatePopover'
 import type { Episode, VocabEntry } from '../types'
 
@@ -29,10 +31,13 @@ const vocabFetcher = (url: string): Promise<VocabEntry[] | null> =>
 const dialogueFetcher = (url: string): Promise<string[] | null> =>
   fetch(url).then((res) => (res.ok ? res.json() : null))
 
+// One card at a time, for a line's translation or a highlighted word.
+type Lookup = { kind: 'line'; target: LineTarget } | { kind: 'word'; target: WordTarget }
+
 const Transcript = ({ episode }: { episode: Episode }) => {
   const [isVisible, setIsVisible] = useState(false)
-  // The line whose translation is showing, and its button.
-  const [lookup, setLookup] = useState<LineTarget | null>(null)
+  // The open card (a line's translation or a word), and the element it is for.
+  const [lookup, setLookup] = useState<Lookup | null>(null)
   const contentRef = useRef<HTMLDivElement>(null)
   const activeButtonRef = useRef<HTMLElement | null>(null)
   const srs = useSrs()
@@ -92,23 +97,36 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     })
   }, [srs.cards, content, loading, vocab, lineTranslations])
 
+  const ACTIVE_CLASSES = ['line-translate-active', 'vocab-hit-active']
+
   const closeLookup = () => {
-    activeButtonRef.current?.classList.remove('line-translate-active')
+    activeButtonRef.current?.classList.remove(...ACTIVE_CLASSES)
     activeButtonRef.current = null
     setLookup(null)
   }
 
-  const openLookup = (target: LineTarget, button: HTMLElement) => {
-    activeButtonRef.current?.classList.remove('line-translate-active')
-    activeButtonRef.current = button
-    button.classList.add('line-translate-active')
-    setLookup(target)
+  const openLookup = (next: Lookup, el: HTMLElement) => {
+    activeButtonRef.current?.classList.remove(...ACTIVE_CLASSES)
+    activeButtonRef.current = el
+    el.classList.add(next.kind === 'line' ? 'line-translate-active' : 'vocab-hit-active')
+    setLookup(next)
   }
 
   // One handler for the whole transcript, since its HTML is injected rather
   // than rendered by React.
   const onContentClick = (e: MouseEvent<HTMLDivElement>) => {
     const target = e.target as Element
+
+    // A highlighted word in the dialogue: say it and show its card.
+    const mark = target.closest<HTMLElement>('mark.vocab-hit')
+    if (mark) {
+      if (mark === activeButtonRef.current) return closeLookup()
+      const entry = vocab?.find((v) => v.word === mark.dataset.word)
+      if (!entry) return
+      speak(entry.word)
+      openLookup({ kind: 'word', target: { entry, rect: mark.getBoundingClientRect() } }, mark)
+      return
+    }
 
     // A vocabulary word is spoken; vocabulary data is not required for this.
     // dataset.speak is the bare word, where textContent would include the IPA.
@@ -127,7 +145,10 @@ const Transcript = ({ episode }: { episode: Episode }) => {
       const translation = lineTranslations?.[Number(lineButton.dataset.line)]
       const text = normalizeText(lineButton.parentElement?.textContent)
       if (translation && text) {
-        openLookup({ text, rect: lineButton.getBoundingClientRect(), translation }, lineButton)
+        openLookup(
+          { kind: 'line', target: { text, rect: lineButton.getBoundingClientRect(), translation } },
+          lineButton,
+        )
       }
     }
   }
@@ -184,9 +205,13 @@ const Transcript = ({ episode }: { episode: Episode }) => {
         </div>
       )}
 
-      {lookup && isVisible && (
-        <TranslatePopover target={lookup} anchor={activeButtonRef} onClose={closeLookup} />
-      )}
+      {lookup &&
+        isVisible &&
+        (lookup.kind === 'line' ? (
+          <TranslatePopover target={lookup.target} anchor={activeButtonRef} onClose={closeLookup} />
+        ) : (
+          <WordPopover target={lookup.target} anchor={activeButtonRef} onClose={closeLookup} />
+        ))}
 
       {!isVisible && (
         <div className='text-center py-12 text-zinc-500 dark:text-zinc-500'>

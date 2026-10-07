@@ -10,6 +10,7 @@ import type { StageStyle } from './stages'
 import type { Example } from '../../lib/examples'
 import ExampleSentence from './ExampleSentence'
 import LeechBadge from './LeechBadge'
+import StageBadge from './StageBadge'
 
 const SWIPE_THRESHOLD = 100 // px of horizontal drag that counts as an answer
 const TAP_SLOP = 6 // px of movement still treated as a tap
@@ -287,20 +288,5 @@ function Badges({ card, stage }: { card: StoredCard; stage: StageStyle }) {
       <StageBadge stage={stage} isNew={card.state === 'new'} />
       {isLeech(card) && <LeechBadge />}
     </div>
-  )
-}
-
-function StageBadge({ stage, isNew }: { stage: StageStyle; isNew: boolean }) {
-  const { Icon } = stage
-  return (
-    <span
-      className={classNames(
-        'self-start inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold',
-        stage.tile,
-      )}
-    >
-      <Icon size={14} />
-      {isNew ? 'Từ mới' : stage.label}
-    </span>
   )
 }

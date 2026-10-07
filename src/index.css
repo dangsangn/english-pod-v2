@@ -128,7 +128,9 @@
 
 /* The word whose card is open (components/WordPopover.tsx). */
 .transcript-content mark.vocab-hit.vocab-hit-active {
-  @apply ring-2 ring-rose-400 dark:ring-rose-500;
+  outline: 2px solid var(--color-rose-400);
+  outline-offset: 1px;
+  @apply dark:outline-rose-500;
 }
 
 /* Vocabulary study */
