@@ -61,6 +61,12 @@ for (let ep = 1; ep <= LAST_EPISODE; ep++) {
             if (squash(text) !== squash(hit.entry.exHit)) {
                 problems.push(`episode ${ep} "${hit.entry.word}": hit "${text}" is not "${hit.entry.exHit}"`);
             }
+            if (!squash(line).includes(squash(hit.entry.ex))) {
+                problems.push(`episode ${ep} "${hit.entry.word}": hit is in a line without its sentence`);
+            }
+            if (/^\s|\s$/.test(text)) {
+                problems.push(`episode ${ep} "${hit.entry.word}": hit "${text}" has whitespace at an edge`);
+            }
         }
         for (let i = 1; i < found.length; i++) {
             if (found[i].start < found[i - 1].end) problems.push(`episode ${ep}: overlapping hits in "${line}"`);
