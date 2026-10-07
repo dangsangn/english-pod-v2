@@ -9,7 +9,6 @@ import type { StoredCard, Summary } from '../../lib/srsStore'
 import type { Episode } from '../../types'
 import { speak } from '../../lib/speech'
 import { STAGES } from './stages'
-import TappableText from '../TappableText'
 import LeechBadge from './LeechBadge'
 
 type FilterKey = 'all' | 'learned' | 'leech' | Stage
@@ -310,9 +309,7 @@ function WordRow({ card, now, open, onToggle }: WordRowProps) {
         <div className='px-4 pb-4 pl-15 text-sm space-y-1.5 vocab-rise-in'>
           {(card.def || card.viDef) && (
             <div>
-              {card.def && (
-                <TappableText text={card.def} className='text-zinc-700 dark:text-zinc-300' />
-              )}
+              {card.def && <p className='text-zinc-700 dark:text-zinc-300'>{card.def}</p>}
               {card.viDef && (
                 <p className='vi-text text-indigo-600 dark:text-indigo-400 font-medium'>
                   {card.viDef}

@@ -3,12 +3,10 @@ import type { MouseEvent } from 'react'
 import useSWR from 'swr'
 import { Eye, EyeOff } from 'lucide-react'
 import { decorateVocab, normalizeText } from '../lib/vocabulary'
-import { addLineTranslateButtons, wrapDialogueWords } from '../lib/tapWords'
+import { addLineTranslateButtons } from '../lib/lineTranslate'
 import { speak } from '../lib/speech'
-import { cardId } from '../lib/srs'
-import { useSrs } from '../lib/srsStore'
 import TranslatePopover from './TranslatePopover'
-import type { LookupTarget } from './TranslatePopover'
+import type { LineTarget } from './TranslatePopover'
 import type { Episode, VocabEntry } from '../types'
 
 const transcriptFetcher = (url: string) =>
@@ -29,12 +27,11 @@ const dialogueFetcher = (url: string): Promise<string[] | null> =>
   fetch(url).then((res) => (res.ok ? res.json() : null))
 
 const Transcript = ({ episode }: { episode: Episode }) => {
-  const srs = useSrs()
   const [isVisible, setIsVisible] = useState(false)
-  // The word or line whose translation is showing.
-  const [lookup, setLookup] = useState<LookupTarget | null>(null)
+  // The line whose translation is showing, and its button.
+  const [lookup, setLookup] = useState<LineTarget | null>(null)
   const contentRef = useRef<HTMLDivElement>(null)
-  const activeWordRef = useRef<HTMLElement | null>(null)
+  const activeButtonRef = useRef<HTMLElement | null>(null)
 
   const swrKey =
     isVisible && episode.transcript_id ? `./transcripts/${episode.transcript_id}.html` : null
@@ -71,22 +68,20 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     // those rows can be clicked to speak too.
     if (vocab) decorateVocab(contentRef.current, vocab)
 
-    // Every dialogue word becomes tappable for a translation, and every line
-    // with a Vietnamese translation gets a button that shows it.
-    wrapDialogueWords(contentRef.current)
+    // Every line with a Vietnamese translation gets a button that shows it.
     if (lineTranslations) addLineTranslateButtons(contentRef.current, lineTranslations)
   }, [content, loading, vocab, lineTranslations])
 
   const closeLookup = () => {
-    activeWordRef.current?.classList.remove('tap-word-active')
-    activeWordRef.current = null
+    activeButtonRef.current?.classList.remove('line-translate-active')
+    activeButtonRef.current = null
     setLookup(null)
   }
 
-  const openLookup = (target: LookupTarget, el: HTMLElement) => {
-    activeWordRef.current?.classList.remove('tap-word-active')
-    activeWordRef.current = el
-    el.classList.add('tap-word-active')
+  const openLookup = (target: LineTarget, button: HTMLElement) => {
+    activeButtonRef.current?.classList.remove('line-translate-active')
+    activeButtonRef.current = button
+    button.classList.add('line-translate-active')
     setLookup(target)
   }
 
@@ -108,29 +103,14 @@ const Transcript = ({ episode }: { episode: Episode }) => {
     const lineButton = target.closest<HTMLElement>('.line-translate')
     if (lineButton) {
       // Pressing the open line's button again closes its card.
-      if (lineButton === activeWordRef.current) return closeLookup()
+      if (lineButton === activeButtonRef.current) return closeLookup()
       const translation = lineTranslations?.[Number(lineButton.dataset.line)]
       const text = normalizeText(lineButton.parentElement?.textContent)
       if (translation && text) {
         openLookup({ text, rect: lineButton.getBoundingClientRect(), translation }, lineButton)
       }
-      return
-    }
-
-    const tapWord = target.closest<HTMLElement>('.tap-word')
-    if (tapWord) {
-      openLookup(
-        { text: tapWord.textContent ?? '', rect: tapWord.getBoundingClientRect() },
-        tapWord,
-      )
     }
   }
-
-  // A tapped word's hand-written meaning: this episode's vocabulary first, then
-  // any card in the garden.
-  const word = lookup && lookup.translation === undefined ? lookup.text.toLowerCase() : null
-  const episodeEntry = word ? vocab?.find((v) => v.word.toLowerCase() === word) : undefined
-  const gardenEntry = word && !episodeEntry ? srs.cards[cardId(word)] : undefined
 
   return (
     <div className='glass-card rounded-2xl p-6 lg:p-8 -mx-4 lg:mx-0'>
@@ -171,8 +151,8 @@ const Transcript = ({ episode }: { episode: Episode }) => {
 
           {!loading && !error && (
             <>
-              {/* Delegated clicks on the injected HTML: tapping a word is a touch and
-                  mouse shortcut, and the text itself stays readable without it. */}
+              {/* Delegated clicks on the injected HTML: the vocabulary words and the
+                  line buttons inside it are its controls. */}
               {/* eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-static-element-interactions */}
               <div
                 ref={contentRef}
@@ -185,13 +165,7 @@ const Transcript = ({ episode }: { episode: Episode }) => {
       )}
 
       {lookup && isVisible && (
-        <TranslatePopover
-          target={lookup}
-          entry={episodeEntry ?? gardenEntry ?? null}
-          entryLabel={gardenEntry ? 'Trong vườn từ vựng' : undefined}
-          anchor={lookup.translation !== undefined ? activeWordRef : undefined}
-          onClose={closeLookup}
-        />
+        <TranslatePopover target={lookup} anchor={activeButtonRef} onClose={closeLookup} />
       )}
 
       {!isVisible && (

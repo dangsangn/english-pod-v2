@@ -7,7 +7,6 @@ import type { StoredCard } from '../../lib/srsStore'
 import { speak } from '../../lib/speech'
 import { STAGE_BY_KEY } from './stages'
 import type { StageStyle } from './stages'
-import TappableText from '../TappableText'
 import type { Example } from '../../lib/examples'
 import ExampleSentence from './ExampleSentence'
 import LeechBadge from './LeechBadge'
@@ -157,10 +156,7 @@ export default function Flashcard({
                     Definition
                   </p>
                   {card.def && (
-                    <TappableText
-                      text={card.def}
-                      className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300'
-                    />
+                    <p className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300'>{card.def}</p>
                   )}
                   {card.viDef && (
                     <p className='vi-text mt-0.5 text-sm font-medium text-indigo-600 dark:text-indigo-400'>

@@ -50,7 +50,7 @@ export default function FloatingCard({
       onClose()
     }
     // Capture phase, so it still fires when the press lands somewhere that
-    // stops propagation (a flashcard, TappableText). The press is used up by
+    // stops propagation (a flashcard, an example sentence). The press is used up by
     // closing: stopping it here keeps a flashcard underneath from also
     // flipping. Clicks still go through, so pressing another word closes this
     // card and that word's click opens its own.

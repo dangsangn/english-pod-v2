@@ -4,7 +4,7 @@ import { Languages, Volume2 } from 'lucide-react'
 import classNames from 'classnames'
 import type { Example } from '../../lib/examples'
 import { speak } from '../../lib/speech'
-import TappableText from '../TappableText'
+import { hitIndex } from '../../lib/quiz'
 import FloatingCard from '../FloatingCard'
 
 interface ExampleSentenceProps {
@@ -18,8 +18,7 @@ interface ExampleSentenceProps {
 }
 
 /**
- * An example sentence: the English with the word in bold (each word can be
- * tapped for a translation), then a button that reads it aloud and, on a
+ * An example sentence: the English with the word in bold, then a button that reads it aloud and, on a
  * flashcard, one that shows the Vietnamese. The buttons follow the last word
  * rather than sitting in a column of their own, so a long sentence keeps the
  * full width.
@@ -47,6 +46,10 @@ export default function ExampleSentence({
   const toggle = () =>
     setOpenAt((rect) => (rect ? null : (root.current?.getBoundingClientRect() ?? null)))
 
+  const { ex, hit } = example
+  const from = hitIndex(ex, hit)
+  const to = from + hit.length
+
   return (
     // Only stops events (see above); the buttons inside are the controls.
     // eslint-disable-next-line jsx-a11y/no-static-element-interactions, jsx-a11y/click-events-have-key-events
@@ -57,32 +60,35 @@ export default function ExampleSentence({
       onPointerUp={stop}
       onClick={stop}
     >
-      <TappableText
-        text={example.ex}
-        highlight={example.hit}
-        className='text-base break-words text-zinc-700 dark:text-zinc-300'
-        after={
+      <p className='text-base break-words text-zinc-700 dark:text-zinc-300'>
+        {from < 0 ? (
+          ex
+        ) : (
           <>
-            {' '}
-            {/* nowrap: the buttons move to the next line together. */}
-            <span className='inline-flex gap-0.5 align-middle whitespace-nowrap'>
-              <InlineButton label='Nghe câu' onClick={() => speak(example.ex)}>
-                <Volume2 size={16} />
-              </InlineButton>
-              {!showTranslation && (
-                <InlineButton
-                  buttonRef={translateButton}
-                  label={openAt ? 'Ẩn bản dịch' : 'Dịch câu'}
-                  pressed={openAt !== null}
-                  onClick={toggle}
-                >
-                  <Languages size={16} />
-                </InlineButton>
-              )}
+            {ex.slice(0, from)}
+            <span className='font-bold text-emerald-600 dark:text-emerald-400'>
+              {ex.slice(from, to)}
             </span>
+            {ex.slice(to)}
           </>
-        }
-      />
+        )}{' '}
+        {/* nowrap: the buttons move to the next line together. */}
+        <span className='inline-flex gap-0.5 align-middle whitespace-nowrap'>
+          <InlineButton label='Nghe câu' onClick={() => speak(ex)}>
+            <Volume2 size={16} />
+          </InlineButton>
+          {!showTranslation && (
+            <InlineButton
+              buttonRef={translateButton}
+              label={openAt ? 'Ẩn bản dịch' : 'Dịch câu'}
+              pressed={openAt !== null}
+              onClick={toggle}
+            >
+              <Languages size={16} />
+            </InlineButton>
+          )}
+        </span>
+      </p>
       {showTranslation && (
         <p className='vi-text mt-1 text-sm text-indigo-600 dark:text-indigo-400'>{example.vi}</p>
       )}
