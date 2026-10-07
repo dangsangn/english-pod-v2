@@ -39,6 +39,10 @@ interface AudioPlayerProps {
   suspended?: boolean
   autoPlay?: boolean
   onPlayingChange?: (playing: boolean) => void
+  /** The episode played to its end (before any loop or move to the next one). */
+  onEnded?: (episodeId: number) => void
+  /** Bumped to ask for the episode from the top; ignored while it is playing. */
+  playRequest?: number
 }
 
 const AudioPlayer = ({
@@ -52,6 +56,8 @@ const AudioPlayer = ({
   // device) rather than by them: load it, but wait for the play button.
   autoPlay = true,
   onPlayingChange,
+  onEnded,
+  playRequest = 0,
 }: AudioPlayerProps) => {
   const audioRef = useRef<HTMLAudioElement>(null)
   // Read by the load effect, which must not autoplay while suspended.
@@ -184,6 +190,21 @@ const AudioPlayer = ({
     }
   }, [suspended])
 
+  // The lesson bar's Nghe / Nghe lại: the episode from the top, unless it is
+  // already playing. The first value is where we start, not a request.
+  const playRequestRef = useRef(playRequest)
+  useEffect(() => {
+    if (playRequest === playRequestRef.current) return
+    playRequestRef.current = playRequest
+    const audio = audioRef.current
+    if (!audio || !audio.paused) return
+    audio.currentTime = 0
+    audio
+      .play()
+      .then(() => setIsPlaying(true))
+      .catch(() => setIsPlaying(false))
+  }, [playRequest])
+
   // Playback Speed effect
   useEffect(() => {
     if (audioRef.current) {
@@ -236,6 +257,7 @@ const AudioPlayer = ({
   }
 
   const handleEnded = () => {
+    onEnded?.(episode.id)
     setIsPlaying(false)
     if (isLooping) {
       // onEnded comes from the element, so it is there.
