@@ -91,6 +91,7 @@ export default function EpisodeList({ episodes, currentId, onSelect }: EpisodeLi
                     {loopDone && (
                       <CircleCheck
                         size={14}
+                        role='img'
                         aria-label='Đã xong vòng học'
                         className='shrink-0 text-emerald-500'
                       />

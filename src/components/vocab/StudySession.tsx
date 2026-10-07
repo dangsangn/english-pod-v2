@@ -50,8 +50,8 @@ export default function StudySession({ episodeId, episode, lessonStep, onExit }:
     if (autoSpeak && word) speak(word)
   }, [turn, word, autoSpeak])
 
-  // From the lesson bar: reaching the summary with at least one answer completes the step.
-  const finished = !card
+  // From the lesson bar: running the queue out with at least one answer completes the step.
+  const finished = queue.length === 0
   useEffect(() => {
     if (finished && lessonStep && episodeId !== null && stats.answers > 0) {
       markLesson(episodeId, lessonStep)
