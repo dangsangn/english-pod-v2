@@ -1,6 +1,7 @@
 // One /sync round trip: apply a device's changes, then return what it has not
-// seen. Merging is last-write-wins on `updated_at`, done in SQL so a first
-// sync of thousands of cards is one statement per table, not one per row.
+// seen. Merging is last-write-wins on `updated_at` (lessons: GREATEST per
+// step), done in SQL so a first sync of thousands of cards is one statement per
+// table, not one per row.
 
 import { prisma } from '../db.js'
 import type { Prisma } from '../generated/prisma/client.js'

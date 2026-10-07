@@ -6,7 +6,8 @@
 //
 // Every action stamps what it changes with `updatedAt` and every deletion
 // leaves a tombstone, so sync.ts can push this device's edits and merge in
-// other devices' (last write wins).
+// other devices' (last write wins; lesson progress instead merges by the later
+// time of each step).
 
 import { useSyncExternalStore } from 'react'
 import type { Episode, VocabEntry } from '../types'

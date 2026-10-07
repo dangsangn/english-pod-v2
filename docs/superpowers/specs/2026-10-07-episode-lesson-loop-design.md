@@ -133,21 +133,22 @@ Thay `EpisodeVocabButton` dưới tiêu đề bài trong `App.tsx`. Props:
 ### Hàm thuần: `src/lib/highlightVocab.ts`
 
 ```ts
-export interface HitRange { start: number; end: number; word: string }
-/** Vị trí từ vựng trong một dòng thoại (chuỗi đã normalizeText). */
+export interface HitRange { start: number; end: number; entry: VocabEntry }
+/** Vị trí từ vựng trong text thô của một dòng thoại (offset theo text gốc). */
 export function findHits(line: string, entries: VocabEntry[]): HitRange[]
-/** Bọc các hit trong .dialogue-block .line .text bằng <mark class="vocab-hit" data-card>. */
+/** Bọc các hit trong .dialogue-block .text bằng <mark class="vocab-hit" data-card>. */
 export function highlightVocab(root: HTMLElement, entries: VocabEntry[]): number
 ```
 
-- `findHits`: với mỗi mục có `ex` và `exHit`, tìm `ex` trong `line` (so khớp sau khi đổi `’`
-  thành `'`, độ dài giữ nguyên nên vị trí không lệch); trong đoạn đó lấy `exHit` bằng
+- `findHits`: chạy trên text thô của dòng, không có bước `normalizeText`. Khi so khớp thì bỏ
+  qua khoảng trắng và đổi `’` thành `'`, nhưng vị trí trả về vẫn là offset trong text gốc.
+  Với mỗi mục có `ex` và `exHit`, tìm `ex` trong dòng; trong đoạn đó lấy `exHit` bằng
   `hitIndex` của `quiz.ts`. Câu `written` không có trong thoại thì không ra hit. Các hit chồng
   nhau: giữ hit bắt đầu sớm hơn (bằng nhau thì dài hơn).
-- `highlightVocab`: với mỗi `.text`, chuẩn hoá khoảng trắng trong các text node trước (giống
-  `normalizeText`, để vị trí khớp), gọi `findHits`, rồi bọc từng đoạn bằng `TreeWalker` (chia text
-  node khi cần). `data-card = cardId(entry.word)`, `data-word = entry.word`. Gọi lại an toàn: gỡ
-  `mark.vocab-hit` cũ trước.
+- `highlightVocab`: chọn `.dialogue-block .text`, gọi `findHits` rồi bọc từng hit bằng DOM
+  Range (`extractContents` + `insertNode`, xử lý hit từ cuối về đầu để offset không lệch).
+  `data-card = cardId(entry.word)`, `data-word = entry.word`. Gọi lại an toàn: gỡ `mark` cũ
+  (unwrap) rồi `normalize()` trước.
 - `Transcript` gọi nó sau `decorateVocab`, trước `addLineTranslateButtons`.
 
 ### Màu theo giai đoạn

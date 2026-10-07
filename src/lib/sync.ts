@@ -5,10 +5,12 @@
 //
 // The local vocabulary store (srsStore) stays what the UI reads and writes. Once signed in, this module sends POST /sync with whatever changed
 // since the last successful push, plus a cursor; the server merges (last write
-// wins) and answers with everything other devices changed after that cursor.
+// wins; lesson progress by the later time of each step) and answers with
+// everything other devices changed after that cursor.
 //
-// Synced: vocabulary study (cards, decks, review logs, daily counts) and the
-// settings, which include the episode currently open.
+// Synced: vocabulary study (cards, decks, review logs, daily counts), the
+// lesson loop progress per episode, and the settings, which include the episode
+// currently open.
 //
 // When: right after sign-in, on start, 2 s after a local change, when the tab
 // comes back, and when the network does. Failures retry with backoff.
