@@ -57,7 +57,7 @@ export default function TranslatePopover({ target, anchor, onClose }: TranslateP
           <X size={18} />
         </button>
       </div>
-      <p className='vi-text mt-2 text-base font-semibold text-indigo-600 dark:text-indigo-400'>
+      <p className='vi-text mt-2 text-base text-indigo-600 dark:text-indigo-400'>
         {target.translation}
       </p>
     </FloatingCard>
