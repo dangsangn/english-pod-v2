@@ -57,6 +57,12 @@ export interface ReviewLog {
   day: string
 }
 
+/** The four steps of an episode's lesson loop, in order (see components/LessonSteps.tsx). */
+export type LessonStep = 'preview' | 'listen' | 'review' | 'relisten'
+export const LESSON_STEPS: LessonStep[] = ['preview', 'listen', 'review', 'relisten']
+/** When each step was first done (ms); a missing step is not done yet. */
+export type LessonProgress = Partial<Record<LessonStep, number>>
+
 export interface SrsState {
   cards: Record<string, StoredCard>
   decks: number[]
@@ -67,6 +73,7 @@ export interface SrsState {
   tombstones: { cards: Record<string, number>; decks: Record<number, number> }
   pendingLogs: ReviewLog[]
   resetAt: number | null
+  lessons: Record<number, LessonProgress>
 }
 
 /** Per stage, plus what is due, what can be studied ahead, and how many new cards today allows. */
@@ -81,14 +88,17 @@ export interface SrsChanges {
   settings: (Settings & { updatedAt: number }) | null
   reviewLogs: ReviewLog[]
   resetAt: number | null
+  lessons: ({ episodeId: number } & LessonProgress)[]
 }
 
 export interface SyncResponse {
   cursor: number
-  changes: Omit<SrsChanges, 'reviewLogs' | 'resetAt' | 'settings'> & {
+  changes: Omit<SrsChanges, 'reviewLogs' | 'resetAt' | 'settings' | 'lessons'> & {
     // A server from before the cap sends no newPerDay; null means no limit.
     settings:
       (Omit<Settings, 'newPerDay'> & { newPerDay?: number | null; updatedAt: number }) | null
+    // A server from before the lesson loop sends none.
+    lessons?: ({ episodeId: number } & LessonProgress)[]
   }
   days: Record<string, DayCounts>
   resetAt: number | null
@@ -108,6 +118,7 @@ const DEFAULT_STATE: SrsState = {
   tombstones: { cards: {}, decks: {} }, // id → deletedAt, until pushed
   pendingLogs: [], // review logs not pushed yet
   resetAt: null,
+  lessons: {}, // episode id → LessonProgress
 }
 
 function load(): SrsState {
@@ -322,6 +333,23 @@ export function relearnCard(id: string, now = Date.now()) {
   })
 }
 
+/** Record that a step of an episode's lesson loop is done. A step keeps the time it was first done. */
+export function markLesson(episodeId: number, step: LessonStep, now = Date.now()) {
+  setState((s) => {
+    if (s.lessons[episodeId]?.[step] !== undefined) return s
+    return {
+      ...s,
+      lessons: { ...s.lessons, [episodeId]: { ...s.lessons[episodeId], [step]: now } },
+    }
+  })
+}
+
+/** The episode's audio played to the end: mark the listening step that stands for. */
+export function listenedTo(episodeId: number, now = Date.now()) {
+  const step = listenStepAfter(state.lessons[episodeId])
+  if (step) markLesson(episodeId, step, now)
+}
+
 export function updateSettings(patch: Partial<Settings>, now = Date.now()) {
   setState((s) => {
     const keys = Object.keys(patch) as (keyof Settings)[]
@@ -365,6 +393,43 @@ export function newCardsLeft(s: SrsState, now: number): number {
   if (limit === null) return Infinity
   return Math.max(0, limit - (s.days[dayKey(now)]?.learned ?? 0))
 }
+
+/** The first step of the loop not done yet; null once all four are. */
+export function nextLessonStep(progress: LessonProgress | undefined): LessonStep | null {
+  return LESSON_STEPS.find((step) => progress?.[step] === undefined) ?? null
+}
+
+/**
+ * The step that listening to the whole episode completes: the first listen,
+ * or the listen again once the words have been reviewed. Otherwise none.
+ */
+export function listenStepAfter(progress: LessonProgress | undefined): LessonStep | null {
+  if (progress?.listen === undefined) return 'listen'
+  if (progress.review !== undefined && progress.relisten === undefined) return 'relisten'
+  return null
+}
+
+/**
+ * Two copies of an episode's progress as one. Steps only ever get done, so
+ * the merge is the later time of each step, whatever order copies arrive in;
+ * steps from before a reset are dropped.
+ */
+export function mergeLesson(
+  a: LessonProgress | undefined,
+  b: LessonProgress | undefined,
+  resetAt: number | null,
+): LessonProgress {
+  const merged: LessonProgress = {}
+  for (const step of LESSON_STEPS) {
+    const time = Math.max(a?.[step] ?? -1, b?.[step] ?? -1)
+    if (time >= 0 && time >= (resetAt ?? 0)) merged[step] = time
+  }
+  return merged
+}
+
+/** The latest step time: when the progress last changed. */
+const lessonTime = (progress: LessonProgress) =>
+  Math.max(0, ...LESSON_STEPS.map((step) => progress[step] ?? 0))
 
 /**
  * Counts per garden stage, optionally for one episode, plus what is due and
@@ -513,6 +578,9 @@ export function collectSrsChanges(since: number | null): SrsChanges {
       : null,
     reviewLogs: s.pendingLogs,
     resetAt: s.resetAt,
+    lessons: Object.entries(s.lessons)
+      .filter(([, progress]) => changed(lessonTime(progress)))
+      .map(([episodeId, progress]) => ({ episodeId: Number(episodeId), ...progress })),
   }
 }
 
@@ -557,6 +625,16 @@ export function applySyncResult(sent: SrsChanges, response: SyncResponse) {
         decks = decks.filter((e) => e !== episodeId)
       }
 
+      const lessons = { ...s.lessons }
+      // An episode left with no step (a reset) is dropped rather than kept empty.
+      const putLesson = (episodeId: number, progress: LessonProgress) => {
+        if (Object.keys(progress).length) lessons[episodeId] = progress
+        else delete lessons[episodeId]
+      }
+      for (const { episodeId, ...remote } of changes.lessons ?? []) {
+        putLesson(episodeId, mergeLesson(lessons[episodeId], remote, s.resetAt))
+      }
+
       let { settings, settingsUpdatedAt, resetAt } = s
       if (changes.settings && changes.settings.updatedAt > settingsUpdatedAt) {
         const { autoSpeak, lastEpisodeId } = changes.settings
@@ -577,6 +655,9 @@ export function applySyncResult(sent: SrsChanges, response: SyncResponse) {
           if (deckMeta[episodeId].updatedAt < resetAt) delete deckMeta[episodeId]
         }
         decks = decks.filter((episodeId) => episodeId in deckMeta)
+        for (const [episodeId, progress] of Object.entries(lessons)) {
+          putLesson(Number(episodeId), mergeLesson(progress, undefined, resetAt))
+        }
       }
 
       for (const { id, deletedAt } of sent.deletedCards) {
@@ -610,6 +691,7 @@ export function applySyncResult(sent: SrsChanges, response: SyncResponse) {
         tombstones: { cards: cardTombstones, decks: deckTombstones },
         pendingLogs,
         resetAt,
+        lessons,
       }
     },
     { remote: true },
