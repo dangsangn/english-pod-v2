@@ -8,9 +8,9 @@ import { ThemeProvider } from './components/ThemeProvider'
 import ThemeToggle from './components/ThemeToggle'
 import Footer from './components/Footer'
 import VocabApp from './components/vocab/VocabApp'
-import EpisodeVocabButton from './components/vocab/EpisodeVocabButton'
+import LessonSteps from './components/LessonSteps'
 import AccountButton from './components/AccountButton'
-import { getSrsState, updateSettings, useSrs } from './lib/srsStore'
+import { getSrsState, listenedTo, updateSettings, useSrs } from './lib/srsStore'
 import { navigate, useHashRoute } from './lib/hooks'
 import type { Episode } from './types'
 import episodesJson from './data/episodes.json'
@@ -29,6 +29,8 @@ function AppContent() {
   // device only loads.
   const [autoPlay, setAutoPlay] = useState(true)
   const [isPlaying, setIsPlaying] = useState(false)
+  // Bumped by the lesson bar's Nghe / Nghe lại (see AudioPlayer's playRequest).
+  const [playRequest, setPlayRequest] = useState(0)
   // Saved only when the listener picks an episode: the first-episode default of
   // a fresh install must not overwrite the episode another device synced.
   const openEpisode = (id: number) => {
@@ -183,7 +185,10 @@ function AppContent() {
                 <h2 className='text-3xl lg:text-4xl font-bold text-zinc-900 dark:text-white tracking-tight'>
                   {currentEpisode.title}
                 </h2>
-                <EpisodeVocabButton episode={currentEpisode} />
+                <LessonSteps
+                  episode={currentEpisode}
+                  onListen={() => setPlayRequest((n) => n + 1)}
+                />
               </div>
 
               <Transcript episode={currentEpisode} />
@@ -200,6 +205,8 @@ function AppContent() {
                 suspended={isVocabOpen}
                 autoPlay={autoPlay}
                 onPlayingChange={setIsPlaying}
+                onEnded={listenedTo}
+                playRequest={playRequest}
                 onNext={handleNextEpisode}
                 onPrev={handlePreviousEpisode}
                 hasNext={hasNext}
