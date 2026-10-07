@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState } from 'react'
-import { PlayCircle, Search } from 'lucide-react'
+import { CircleCheck, PlayCircle, Search } from 'lucide-react'
 import classNames from 'classnames'
 import type { Episode } from '../types'
+import { nextLessonStep, useSrs } from '../lib/srsStore'
 
 interface EpisodeListProps {
   episodes: Episode[]
@@ -12,6 +13,7 @@ interface EpisodeListProps {
 export default function EpisodeList({ episodes, currentId, onSelect }: EpisodeListProps) {
   const [search, setSearch] = useState('')
   const currentRef = useRef<HTMLButtonElement>(null)
+  const srs = useSrs()
 
   // Keep the playing episode in view when it changes (next/previous, sync).
   useEffect(() => {
@@ -45,6 +47,7 @@ export default function EpisodeList({ episodes, currentId, onSelect }: EpisodeLi
       <ul className='flex-1 overflow-y-auto'>
         {filtered.map((ep) => {
           const current = ep.id === currentId
+          const loopDone = nextLessonStep(srs.lessons[ep.id]) === null
           return (
             <li key={ep.id}>
               <button
@@ -74,16 +77,25 @@ export default function EpisodeList({ episodes, currentId, onSelect }: EpisodeLi
                   )}
                 </div>
                 <div className='flex-1 min-w-0'>
-                  <h3
-                    className={classNames(
-                      'text-sm font-medium truncate transition-colors',
-                      current
-                        ? 'text-indigo-700 dark:text-indigo-200'
-                        : 'text-zinc-700 dark:text-zinc-300',
+                  <div className='flex items-center gap-1.5'>
+                    <h3
+                      className={classNames(
+                        'min-w-0 text-sm font-medium truncate transition-colors',
+                        current
+                          ? 'text-indigo-700 dark:text-indigo-200'
+                          : 'text-zinc-700 dark:text-zinc-300',
+                      )}
+                    >
+                      {ep.title}
+                    </h3>
+                    {loopDone && (
+                      <CircleCheck
+                        size={14}
+                        aria-label='Đã xong vòng học'
+                        className='shrink-0 text-emerald-500'
+                      />
                     )}
-                  >
-                    {ep.title}
-                  </h3>
+                  </div>
                   <p className='text-xs text-zinc-500 mt-0.5 truncate'>{ep.level}</p>
                 </div>
               </button>
