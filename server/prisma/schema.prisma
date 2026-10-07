@@ -27,6 +27,7 @@ model User {
   cards       Card[]
   reviewLogs  ReviewLog[]
   legacyDays  LegacyDay[]
+  lessons     Lesson[]
 
   @@map("users")
 }
@@ -68,6 +69,23 @@ model Deck {
   @@id([userId, episodeId])
   @@index([userId, rev])
   @@map("decks")
+}
+
+// When each step of an episode's lesson loop was first done (src/lib/srsStore.ts).
+// Steps only ever get done, so rows merge by the later time of each column.
+model Lesson {
+  userId       String  @map("user_id") @db.Uuid
+  episodeId    Int     @map("episode_id")
+  previewedAt  BigInt? @map("previewed_at")
+  listenedAt   BigInt? @map("listened_at")
+  reviewedAt   BigInt? @map("reviewed_at")
+  relistenedAt BigInt? @map("relistened_at")
+  rev          BigInt
+  user         User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@id([userId, episodeId])
+  @@index([userId, rev])
+  @@map("lessons")
 }
 
 model Card {

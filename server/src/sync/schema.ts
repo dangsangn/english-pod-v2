@@ -32,6 +32,15 @@ export const cardSchema = z.object({
 
 export const deckSchema = z.object({ episodeId: z.number().int(), addedAt: ms, updatedAt: ms })
 
+// A step missing from a lesson is not done (yet) on that device.
+export const lessonSchema = z.object({
+  episodeId: z.number().int(),
+  preview: ms.optional(),
+  listen: ms.optional(),
+  review: ms.optional(),
+  relisten: ms.optional(),
+})
+
 export const settingsSchema = z.object({
   autoSpeak: z.boolean(),
   lastEpisodeId: z.number().int().nullable(),
@@ -60,6 +69,8 @@ export const syncRequestSchema = z.object({
     deletedCards: z.array(z.object({ id: cardId, deletedAt: ms })).max(20_000).default([]),
     decks: z.array(deckSchema).max(1000).default([]),
     deletedDecks: z.array(z.object({ episodeId: z.number().int(), deletedAt: ms })).max(1000).default([]),
+    // Absent from a client older than the lesson loop.
+    lessons: z.array(lessonSchema).max(1000).default([]),
     settings: settingsSchema.nullable().default(null),
     reviewLogs: z.array(reviewLogSchema).max(50_000).default([]),
     legacyDays: z

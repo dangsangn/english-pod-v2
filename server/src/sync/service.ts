@@ -5,7 +5,7 @@
 import { prisma } from '../db.js'
 import type { Prisma } from '../generated/prisma/client.js'
 import type { SyncChanges, SyncRequest } from './schema.js'
-import { latestBy, toWireCard, toWireDeck, toWireSettings, type SyncResponse } from './wire.js'
+import { latestBy, toWireCard, toWireDeck, toWireLesson, toWireSettings, type SyncResponse } from './wire.js'
 
 type Tx = Prisma.TransactionClient
 
@@ -22,6 +22,7 @@ export async function runSync(userId: string, { cursor, changes }: SyncRequest):
       await deleteCards(tx, userId, changes.deletedCards)
       await upsertDecks(tx, userId, changes.decks, resetAt)
       await deleteDecks(tx, userId, changes.deletedDecks)
+      await upsertLessons(tx, userId, changes.lessons, resetAt)
       if (changes.settings) await upsertSettings(tx, userId, changes.settings)
       await insertReviewLogs(tx, userId, changes.reviewLogs, resetAt)
       if (changes.legacyDays) await insertLegacyDays(tx, userId, changes.legacyDays)
@@ -44,6 +45,15 @@ async function applyReset(tx: Tx, userId: string, incoming: number | null): Prom
       await tx.$executeRaw`
         UPDATE decks SET deleted_at = ${incoming}, updated_at = ${incoming}, rev = nextval('sync_rev')
         WHERE user_id = ${userId}::uuid AND deleted_at IS NULL AND updated_at < ${incoming}`
+      await tx.$executeRaw`
+        UPDATE lessons SET
+          previewed_at = CASE WHEN previewed_at < ${incoming} THEN NULL ELSE previewed_at END,
+          listened_at = CASE WHEN listened_at < ${incoming} THEN NULL ELSE listened_at END,
+          reviewed_at = CASE WHEN reviewed_at < ${incoming} THEN NULL ELSE reviewed_at END,
+          relistened_at = CASE WHEN relistened_at < ${incoming} THEN NULL ELSE relistened_at END,
+          rev = nextval('sync_rev')
+        WHERE user_id = ${userId}::uuid AND (previewed_at < ${incoming} OR listened_at < ${incoming}
+          OR reviewed_at < ${incoming} OR relistened_at < ${incoming})`
     }
   }
   const user = await tx.user.findUniqueOrThrow({ where: { id: userId }, select: { resetAt: true } })
@@ -116,6 +126,49 @@ async function deleteDecks(tx: Tx, userId: string, deleted: SyncChanges['deleted
     WHERE d.updated_at < EXCLUDED.updated_at`
 }
 
+type WireLessonIn = SyncChanges['lessons'][number]
+
+/**
+ * Steps only ever get done, so a lesson merges by the later time of each step
+ * (GREATEST skips NULLs), whatever order devices push in. The row's rev moves
+ * only when a step actually changes, so a stale push wakes no other device.
+ */
+async function upsertLessons(tx: Tx, userId: string, lessons: SyncChanges['lessons'], resetAt: number) {
+  const later = (a: number | undefined, b: number | undefined) =>
+    a === undefined ? b : b === undefined ? a : Math.max(a, b)
+  const kept = (time: number | undefined) => (time !== undefined && time >= resetAt ? time : undefined)
+  const byEpisode = new Map<number, WireLessonIn>()
+  for (const l of lessons) {
+    const seen = byEpisode.get(l.episodeId)
+    byEpisode.set(l.episodeId, {
+      episodeId: l.episodeId,
+      preview: later(seen?.preview, kept(l.preview)),
+      listen: later(seen?.listen, kept(l.listen)),
+      review: later(seen?.review, kept(l.review)),
+      relisten: later(seen?.relisten, kept(l.relisten)),
+    })
+  }
+  const rows = [...byEpisode.values()].filter(
+    (l) => l.preview !== undefined || l.listen !== undefined || l.review !== undefined || l.relisten !== undefined,
+  )
+  if (!rows.length) return
+  await tx.$executeRaw`
+    INSERT INTO lessons AS l (user_id, episode_id, previewed_at, listened_at, reviewed_at, relistened_at, rev)
+    SELECT ${userId}::uuid, x."episodeId", x."preview", x."listen", x."review", x."relisten", nextval('sync_rev')
+    FROM jsonb_to_recordset(${JSON.stringify(rows)}::jsonb)
+      AS x("episodeId" int, "preview" bigint, "listen" bigint, "review" bigint, "relisten" bigint)
+    ON CONFLICT (user_id, episode_id) DO UPDATE SET
+      previewed_at = GREATEST(l.previewed_at, EXCLUDED.previewed_at),
+      listened_at = GREATEST(l.listened_at, EXCLUDED.listened_at),
+      reviewed_at = GREATEST(l.reviewed_at, EXCLUDED.reviewed_at),
+      relistened_at = GREATEST(l.relistened_at, EXCLUDED.relistened_at),
+      rev = EXCLUDED.rev
+    WHERE GREATEST(l.previewed_at, EXCLUDED.previewed_at) IS DISTINCT FROM l.previewed_at
+      OR GREATEST(l.listened_at, EXCLUDED.listened_at) IS DISTINCT FROM l.listened_at
+      OR GREATEST(l.reviewed_at, EXCLUDED.reviewed_at) IS DISTINCT FROM l.reviewed_at
+      OR GREATEST(l.relistened_at, EXCLUDED.relistened_at) IS DISTINCT FROM l.relistened_at`
+}
+
 async function upsertSettings(tx: Tx, userId: string, settings: NonNullable<SyncChanges['settings']>) {
   // A client from before the daily cap sends no newPerDay: a new row gets 15, an old one keeps its value.
   if (settings.newPerDay === undefined) {
@@ -169,6 +222,7 @@ async function insertLegacyDays(tx: Tx, userId: string, legacy: NonNullable<Sync
 interface PushedKeys {
   cardIds: string[]
   episodeIds: number[]
+  lessonEpisodeIds: number[]
   settings: boolean
 }
 
@@ -179,6 +233,7 @@ function pushedKeys(changes: SyncChanges): PushedKeys {
       ...changes.decks.map((d) => d.episodeId),
       ...changes.deletedDecks.map((d) => d.episodeId),
     ],
+    lessonEpisodeIds: changes.lessons.map((l) => l.episodeId),
     settings: changes.settings !== null,
   }
 }
@@ -206,11 +261,14 @@ async function pull(
   const decks = await tx.deck.findMany({
     where: { userId, OR: [changed, { episodeId: { in: pushed.episodeIds } }] },
   })
+  const lessons = await tx.lesson.findMany({
+    where: { userId, OR: [{ rev: { gt: since } }, { episodeId: { in: pushed.lessonEpisodeIds } }] },
+  })
   const settings = await tx.settings.findFirst({
     where: pushed.settings ? { userId } : { userId, rev: { gt: since } },
   })
 
-  const revs = [...cards, ...decks, ...(settings ? [settings] : [])].map((row) => row.rev)
+  const revs = [...cards, ...decks, ...lessons, ...(settings ? [settings] : [])].map((row) => row.rev)
   const next = revs.reduce((max, rev) => (rev > max ? rev : max), since)
 
   const days = await tx.$queryRaw<{ day: string; reviews: number; learned: number }[]>`
@@ -234,6 +292,7 @@ async function pull(
         .filter((d) => d.deletedAt !== null)
         .map((d) => ({ episodeId: d.episodeId, deletedAt: Number(d.deletedAt) })),
       settings: settings ? toWireSettings(settings) : null,
+      lessons: lessons.map(toWireLesson),
     },
     days: Object.fromEntries(days.map((d) => [d.day, { reviews: d.reviews, learned: d.learned }])),
     resetAt: resetAt || null,

@@ -278,6 +278,16 @@ await check('settings from a client without newPerDay keep the stored cap', asyn
   assert.equal(res.changes.settings?.lastEpisodeId, 8)
 })
 
+await check('lessons merge step by step across devices', async () => {
+  await sync(A, { lessons: [{ episodeId: 3, preview: 8000, listen: 8100 }] })
+  await sync(B, { lessons: [{ episodeId: 3, preview: 7000, review: 8200 }] })
+  const a = await sync(A)
+  assert.deepEqual(a.changes.lessons, [{ episodeId: 3, preview: 8000, listen: 8100, review: 8200 }])
+  await sync(B, { lessons: [{ episodeId: 3, preview: 7000 }] })
+  const again = await sync(A)
+  assert.equal(again.changes.lessons.length, 0, 'an older step must not bump rev')
+})
+
 await check('reset clears cards, decks and history everywhere', async () => {
   await sync(A, { decks: [{ episodeId: 2, addedAt: 7000, updatedAt: 7000 }] })
   const resetAt = Date.now()
@@ -289,6 +299,11 @@ await check('reset clears cards, decks and history everywhere', async () => {
   assert.equal(b.resetAt, resetAt)
   assert.ok(b.changes.deletedCards.some((c: { id: string }) => c.id === 'apple'))
   assert.ok(b.changes.deletedDecks.some((d: { episodeId: number }) => d.episodeId === 2))
+  assert.deepEqual(
+    b.changes.lessons.find((l: { episodeId: number }) => l.episodeId === 3),
+    { episodeId: 3 },
+    'steps older than the reset are cleared',
+  )
   assert.equal(b.changes.cards.length, 0, 'an edit older than the reset is ignored')
 
   const fresh = await sync(B, { cards: [card('fresh', resetAt + 1)] })

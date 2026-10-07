@@ -1,10 +1,11 @@
 import type { z } from 'zod'
-import type { Card, Deck, Settings } from '../generated/prisma/client.js'
-import type { cardSchema, dayCountsSchema, deckSchema, settingsSchema } from './schema.js'
+import type { Card, Deck, Lesson, Settings } from '../generated/prisma/client.js'
+import type { cardSchema, dayCountsSchema, deckSchema, lessonSchema, settingsSchema } from './schema.js'
 
 // The JSON shapes /sync sends back — the same shapes devices push.
 export type WireCard = z.infer<typeof cardSchema>
 export type WireDeck = z.infer<typeof deckSchema>
+export type WireLesson = z.infer<typeof lessonSchema>
 export type WireSettings = Required<z.infer<typeof settingsSchema>>
 export type DayCounts = z.infer<typeof dayCountsSchema>
 
@@ -16,6 +17,7 @@ export interface SyncResponse {
     decks: WireDeck[]
     deletedDecks: { episodeId: number; deletedAt: number }[]
     settings: WireSettings | null
+    lessons: WireLesson[]
   }
   days: Record<string, DayCounts>
   resetAt: number | null
@@ -62,6 +64,16 @@ export function toWireCard(c: Card): WireCard {
 
 export function toWireDeck(d: Deck): WireDeck {
   return { episodeId: d.episodeId, addedAt: num(d.addedAt), updatedAt: num(d.updatedAt) }
+}
+
+/** A step the row has no time for is left out, as devices send it. */
+export function toWireLesson(l: Lesson): WireLesson {
+  const lesson: WireLesson = { episodeId: l.episodeId }
+  if (l.previewedAt !== null) lesson.preview = num(l.previewedAt)
+  if (l.listenedAt !== null) lesson.listen = num(l.listenedAt)
+  if (l.reviewedAt !== null) lesson.review = num(l.reviewedAt)
+  if (l.relistenedAt !== null) lesson.relisten = num(l.relistenedAt)
+  return lesson
 }
 
 export function toWireSettings(s: Settings): WireSettings {
