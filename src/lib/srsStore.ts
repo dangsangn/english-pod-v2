@@ -60,7 +60,7 @@ export interface ReviewLog {
 /** The four steps of an episode's lesson loop, in order (see components/LessonSteps.tsx). */
 export type LessonStep = 'preview' | 'listen' | 'review' | 'relisten'
 export const LESSON_STEPS: LessonStep[] = ['preview', 'listen', 'review', 'relisten']
-/** When each step was first done (ms); a missing step is not done yet. */
+/** When each step was done (ms; across devices, the latest copy's time); a missing step is not done yet. */
 export type LessonProgress = Partial<Record<LessonStep, number>>
 
 export interface SrsState {
@@ -333,7 +333,7 @@ export function relearnCard(id: string, now = Date.now()) {
   })
 }
 
-/** Record that a step of an episode's lesson loop is done. A step keeps the time it was first done. */
+/** Record that a step of an episode's lesson loop is done. A step already done keeps its time. */
 export function markLesson(episodeId: number, step: LessonStep, now = Date.now()) {
   setState((s) => {
     if (s.lessons[episodeId]?.[step] !== undefined) return s
