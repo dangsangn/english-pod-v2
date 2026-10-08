@@ -19,6 +19,7 @@ EnglishPod), 2–3 từ đồng nghĩa và 2–3 cụm từ thông dụng (collo
 | Cụm từ | Đợt này: mỗi từ kèm 0–3 cụm thông dụng có nghĩa tiếng Việt, chỉ hiển thị (trường `col`). Deck "Cụm từ phổ biến" học bằng SRS là spec riêng, làm sau. |
 | Tích hợp deck | Dải ID số riêng `10001–10010` trong không gian deck hiện có. Không đổi server, DB, sync. |
 | Từ đồng nghĩa | Chỉ hiển thị, 0–3 từ cho đúng nghĩa chính. Không có câu hỏi game mới, không dịch/IPA riêng. |
+| Thẻ trùng giữa deck bài và Top 1000 | Nội dung Top 1000 thắng, tiến độ giữ nguyên. |
 | Phạm vi nội dung đợt đầu | Pipeline + UI đầy đủ; soạn nhóm 1 (100 từ) để duyệt chất lượng, 9 nhóm còn lại làm sau. |
 
 ## 1. Xếp hạng: `scripts/rank_core.js`
@@ -111,7 +112,7 @@ Với mỗi file trong `scripts/data/core-vi/` (và `public/core/` nếu có):
 
 - Tổng cộng 1000 từ, mỗi nhóm đúng 100, không trùng `cardId`, `rank` liên tục 1…1000.
 - Không từ nào nằm trong `function-words.json`.
-- `hit` xuất hiện trong `ex` (so sánh không phân biệt hoa thường); `ep` nếu có thì nằm trong 1–365.
+- `hit` xuất hiện trong `ex` (so sánh chính xác theo chuỗi con, phân biệt hoa thường); `ep` nếu có thì nằm trong 1–365.
 - `syn` tối đa 3 phần tử, không chứa chính từ đó, không trùng nhau.
 - `col` tối đa 3 phần tử; mỗi phần tử có `en` và `vi` không rỗng; `en` chứa một dạng của từ
   (theo danh sách dạng NGSL); không trùng `en`.
@@ -136,11 +137,13 @@ export function vocabFile(id: number): string     // core: ./core/core_02.json, 
 
 ### Store (`src/lib/srsStore.ts`)
 
-- `addCoreDeck(id)`: tải `vocabFile(id)` rồi gọi `addDeck(id, entries)`. Ném lỗi khi file chưa
+- `addDeckById(id)`: tải `vocabFile(id)` (cho mọi deck, bài hay Top 1000) rồi gọi `addDeck(id, entries)`. Ném lỗi khi file chưa
   có (nhóm chưa soạn xong).
 - `addDeck`/`removeDeck`/`summarize`/`buildQueue` không đổi: ID core chỉ là một số deck khác.
-- Thẻ dùng chung theo `cardId`: nếu *buy* đã có từ một bài, thêm deck core chỉ gắn thêm
-  `10001` vào `episodeIds`, giữ nguyên nội dung và tiến độ. Xoá deck core không xoá thẻ còn
+- Thẻ dùng chung theo `cardId`; khi thêm deck Top 1000, thẻ đã có được cập nhật sang nội dung của
+  Top 1000 (nghĩa phổ biến), giữ nguyên tiến độ; thêm deck bài vào thẻ đã có thì giữ nội dung
+  hiện có — nên nội dung Top 1000 luôn thắng; transcript của bài không bị ảnh hưởng (nó đọc file
+  vocab của bài). Xoá deck core không xoá thẻ còn
   thuộc deck khác.
 - `backfillCardContent` lấy `c.episodeIds[0]` và tìm `Episode`; với ID core thì đọc thẳng
   `vocabFile(id)`, không cần `Episode`.

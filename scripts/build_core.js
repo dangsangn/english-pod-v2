@@ -2,7 +2,7 @@
  * Builds the Top 1000 decks into public/core/core_NN.json from
  * scripts/data/core-vi/NN.jsonl (see
  * docs/superpowers/specs/2026-10-08-core-1000-words-design.md), in the same
- * VocabEntry shape as public/vocab/, plus `syn` and `exEp`.
+ * VocabEntry shape as public/vocab/, plus `syn`, `col` and `exEp`.
  *
  * A group is written only when all 100 of its rows are complete; otherwise its
  * file is removed, so a file that exists is always whole. IPA comes from

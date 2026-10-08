@@ -25,7 +25,7 @@ import {
 } from './srs.ts'
 import type { Card, CardContent, CardState, Rating, Stage } from './srs'
 import { uuid } from './uuid.ts'
-import { vocabFile } from './coreDecks.ts'
+import { isCoreDeck, vocabFile } from './coreDecks.ts'
 
 export interface StoredCard extends Card {
   updatedAt: number
@@ -215,10 +215,15 @@ export function setReviewLogging(enabled: boolean) {
 }
 
 /**
- * Add an episode's words as new cards. A word already in the collection (from
- * another episode) is not duplicated — the episode is just linked to it.
+ * Add a deck's words as new cards. A word already in the collection (from
+ * another deck) is not duplicated — the deck is just linked to it. Which
+ * content the shared card shows: adding an episode deck keeps the existing
+ * content; adding a Top 1000 deck replaces it with the Top 1000 content (the
+ * common sense of the word). Study progress is never touched, so Top 1000
+ * content wins whichever deck was added first.
  */
 export function addDeck(episodeId: number, entries: VocabEntry[], now = Date.now()) {
+  const core = isCoreDeck(episodeId)
   setState((s) => {
     const cards = { ...s.cards }
     const cardTombstones = { ...s.tombstones.cards }
@@ -227,10 +232,16 @@ export function addDeck(episodeId: number, entries: VocabEntry[], now = Date.now
       const id = cardId(entry.word)
       const existing = cards[id]
       if (existing) {
-        if (!existing.episodeIds.includes(episodeId)) {
+        const linked = existing.episodeIds.includes(episodeId)
+        const content = core ? cardContent(entry) : null
+        const changed =
+          content !== null &&
+          (Object.keys(content) as (keyof typeof content)[]).some((k) => existing[k] !== content[k])
+        if (!linked || changed) {
           cards[id] = {
             ...existing,
-            episodeIds: [...existing.episodeIds, episodeId],
+            ...(changed ? content : null),
+            episodeIds: linked ? existing.episodeIds : [...existing.episodeIds, episodeId],
             updatedAt: now,
           }
         }
@@ -335,8 +346,9 @@ export function relearnCard(id: string, now = Date.now()) {
   })
 }
 
-/** Record that a step of an episode's lesson loop is done. A step already done keeps its time. */
+/** Record that a step of an episode's lesson loop is done (never for Top 1000 decks). A step already done keeps its time. */
 export function markLesson(episodeId: number, step: LessonStep, now = Date.now()) {
+  if (isCoreDeck(episodeId)) return
   setState((s) => {
     if (s.lessons[episodeId]?.[step] !== undefined) return s
     return {

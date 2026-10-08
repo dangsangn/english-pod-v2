@@ -1,9 +1,10 @@
 // Example sentences for vocabulary cards (see
 // docs/superpowers/specs/2026-10-06-vocab-in-context-design.md).
 //
-// They ship inside each deck's vocab file rather than on the cards, so the
+// They ship inside each deck's vocab file (episodes and Top 1000 groups; the
+// Top 1000 files also carry synonyms and collocations) rather than on the cards, so the
 // stored progress and the sync protocol are untouched. A session loads the
-// files of the episodes its cards come from; they stay cached in memory.
+// files of the decks its cards come from; they stay cached in memory.
 
 import { useEffect, useState } from 'react'
 import type { Collocation, VocabEntry } from '../types'

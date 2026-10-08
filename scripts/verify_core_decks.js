@@ -17,7 +17,7 @@ globalThis.fetch = async (url) =>
         : { ok: false, status: 404, json: async () => null };
 
 const { CORE_DECK_IDS, coreDeckName, isCoreDeck, vocabFile } = await import('../src/lib/coreDecks.ts');
-const { addDeckById, getSrsState, removeDeck } = await import('../src/lib/srsStore.ts');
+const { addDeckById, getSrsState, markLesson, rateCard, removeDeck } = await import('../src/lib/srsStore.ts');
 const { collocationsOf, exampleOf, loadExamples, synonymsOf } = await import('../src/lib/examples.ts');
 
 const problems = [];
@@ -45,11 +45,20 @@ files.set('./core/core_01.json', [
 ]);
 
 await addDeckById(1);
+rateCard('buy', 'good', Date.now());
+const before = getSrsState().cards.buy;
 await addDeckById(10001);
 let s = getSrsState();
+for (const k of ['state', 'step', 'ease', 'interval', 'due', 'reps', 'lapses', 'addedAt', 'lastReview']) {
+    expect(`progress survives: ${k}`, s.cards.buy[k], before[k]);
+}
+expect('reviewed card has progress', before.reps > 0, true);
+expect('the content change is stamped', s.cards.buy.updatedAt >= before.updatedAt, true);
 expect('decks', s.decks, [1, 10001]);
 expect('a shared word is one card in both decks', s.cards.buy.episodeIds, [1, 10001]);
-expect('the shared card keeps its first content', s.cards.buy.def, 'pay for');
+expect('the shared card takes the Top 1000 content', s.cards.buy.def, 'get by paying');
+markLesson(10001, 'preview');
+expect('no lesson progress for a core deck', getSrsState().lessons[10001], undefined);
 expect('a core-only card', s.cards.go.episodeIds, [10001]);
 let threw = false;
 try {
@@ -70,10 +79,17 @@ expect('no synonyms', synonymsOf(s.cards.grab), []);
 expect('collocations', collocationsOf(s.cards.buy), [{ en: 'buy time', vi: 'câu giờ' }]);
 expect('synonyms without collocations', collocationsOf(s.cards.go), []);
 
+files.set('./vocab/englishpod_0002.json', [{ word: 'go', def: 'leave', vi: 'rời đi' }]);
+await addDeckById(2);
+s = getSrsState();
+expect('an episode deck keeps the core content', s.cards.go.def, 'move');
+expect('and links the episode', s.cards.go.episodeIds, [10001, 2]);
+
 removeDeck(10001);
 s = getSrsState();
 expect('removing the core deck keeps the shared card', s.cards.buy?.episodeIds, [1]);
-expect('and drops its own cards', s.cards.go, undefined);
+expect('and drops the cards only it had', s.cards.grab?.episodeIds, [1]);
+expect('a card kept by another deck keeps its content', [s.cards.go.episodeIds, s.cards.go.def], [[2], 'move']);
 
 if (problems.length) {
     console.log(`${problems.length} problem(s):`);
