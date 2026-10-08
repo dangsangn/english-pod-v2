@@ -67,7 +67,7 @@ Với mỗi từ có `count > 0`, chọn một câu thoại chứa một dạng 
 `01.jsonl` … `10.jsonl`, mỗi file 100 dòng theo thứ hạng:
 
 ```json
-{"rank":12,"w":"buy","n":214,"ex":"I want to buy a new phone.","hit":"buy","ep":42,"exVi":"Tôi muốn mua một cái điện thoại mới.","d":"","vi":"","vd":"","syn":[],"col":[],"colHint":["buy a (12)","buy it (9)"]}
+{"rank":12,"w":"buy","n":214,"ex":"I want to buy a new phone.","hit":"buy","ep":42,"exVi":"Tôi muốn mua một cái điện thoại mới.","d":"","vi":"","vd":"","syn":[],"col":[],"colHint":["buy a (12)","buy it (9)"],"viHint":[]}
 ```
 
 - `n` = số lần xuất hiện trong EnglishPod (để tham khảo).
@@ -81,8 +81,9 @@ Với mỗi từ có `count > 0`, chọn một câu thoại chứa một dạng 
 - Các trường soạn tay: `d` (định nghĩa tiếng Anh ngắn cho nghĩa chính), `vi`, `vd`, `syn`, `col`, và
   `ex`/`hit`/`exVi` khi chưa có (từ không xuất hiện trong EnglishPod, hoặc câu cần dịch).
   Câu soạn tay thì không có `ep`.
-- Tận dụng dữ liệu sẵn có: nếu `cardId(w)` trùng một từ trong `scripts/data/vocab-vi/` thì điền
-  sẵn `vi`/`vd` từ đó (vẫn sửa được).
+- `viHint`: các nghĩa mà từ vựng của các bài đã dạy cho từ này (tối đa 3, dạng
+  `"famous for, easily recognized → nổi tiếng về"`). Nghĩa trong bài thường hẹp hoặc là nghĩa phụ,
+  nên chỉ là gợi ý; `vi`/`vd` luôn bắt đầu rỗng. Luôn tính lại khi chạy, không được build ra.
 - Chạy lại an toàn: dòng đã có trường soạn tay (theo `w`) được giữ nguyên các trường đó; chỉ
   `rank`, `n` và nhóm được cập nhật. Từ rơi khỏi top 1000 bị bỏ và in ra để biết.
 - Script in tóm tắt ngắn: 30 từ đầu, số từ không có câu thoại, số từ đã điền sẵn từ dữ liệu cũ.
