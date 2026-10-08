@@ -7,7 +7,12 @@
  *   node scripts/verify_core.js
  */
 
-import { loadFunctionWords, loadNgsl, wordTokens } from './lib/core.js';
+import { cardId } from '../src/lib/srs.ts';
+import {
+    CORE_GROUPS, CORE_GROUP_SIZE, CORE_SIZE, coreFileFor, coreFileForGroup, loadFunctionWords,
+    loadNgsl, readCoreRows, wordTokens,
+} from './lib/core.js';
+import { LAST_EPISODE } from './lib/transcripts.js';
 
 const problems = [];
 const expect = (name, got, want) => {
@@ -30,6 +35,59 @@ expect('NGSL forms of go', ngsl.find((w) => w.lemma === 'go')?.forms.includes('w
 const lemmas = new Set(ngsl.map((w) => w.lemma));
 for (const w of loadFunctionWords()) {
     if (!lemmas.has(w)) problems.push(`function-words.json: "${w}" is not an NGSL lemma`);
+}
+
+// -------------------------------------------------------------------- rows
+
+const functionWords = loadFunctionWords();
+const formsOf = new Map(ngsl.map((w) => [w.lemma, new Set(w.forms)]));
+const rows = readCoreRows();
+if (rows.length === 0) problems.push('no rows in scripts/data/core-vi/ — run node scripts/rank_core.js');
+const seen = new Map();
+const perFile = new Map();
+for (const { row, file, line } of rows) {
+    const at = `${file}:${line}`;
+    perFile.set(file, (perFile.get(file) ?? 0) + 1);
+    if (coreFileFor(row.rank) !== file) problems.push(`${at}: rank ${row.rank} belongs in ${coreFileFor(row.rank)}`);
+    const id = cardId(row.w);
+    if (seen.has(id)) problems.push(`${at}: "${row.w}" repeats ${seen.get(id)}`);
+    else seen.set(id, at);
+    if (functionWords.has(id)) problems.push(`${at}: "${row.w}" is a function word`);
+    if (row.ex && !(row.hit && row.ex.includes(row.hit))) {
+        problems.push(`${at}: hit "${row.hit}" is not in the sentence`);
+    }
+    if (row.ep !== undefined && !(Number.isInteger(row.ep) && row.ep >= 1 && row.ep <= LAST_EPISODE)) {
+        problems.push(`${at}: bad ep ${row.ep}`);
+    }
+    const syn = row.syn ?? [];
+    if (!Array.isArray(syn) || syn.length > 3) {
+        problems.push(`${at}: syn must be a list of at most 3`);
+    } else {
+        const keys = syn.map(cardId);
+        if (keys.includes(id)) problems.push(`${at}: syn repeats the word itself`);
+        if (new Set(keys).size !== keys.length) problems.push(`${at}: syn has duplicates`);
+    }
+    const col = row.col ?? [];
+    const forms = formsOf.get(id) ?? new Set([id]);
+    if (!Array.isArray(col) || col.length > 3) {
+        problems.push(`${at}: col must be a list of at most 3`);
+    } else {
+        for (const c of col) {
+            if (!c?.en || !c?.vi) problems.push(`${at}: col entry needs en and vi: ${JSON.stringify(c)}`);
+            else if (!wordTokens(c.en).some((t) => forms.has(t.toLowerCase()))) {
+                problems.push(`${at}: col "${c.en}" does not contain "${row.w}"`);
+            }
+        }
+        const ens = col.map((c) => cardId(c?.en));
+        if (new Set(ens).size !== ens.length) problems.push(`${at}: col has duplicates`);
+    }
+}
+if (rows.length) {
+    const ranks = rows.map((r) => r.row.rank).sort((a, b) => a - b);
+    expect('ranks run 1…1000', ranks.join(','), Array.from({ length: CORE_SIZE }, (_, i) => i + 1).join(','));
+    for (let g = 1; g <= CORE_GROUPS; g++) {
+        expect(`${coreFileForGroup(g)} rows`, perFile.get(coreFileForGroup(g)) ?? 0, CORE_GROUP_SIZE);
+    }
 }
 
 // ------------------------------------------------------------------ report
