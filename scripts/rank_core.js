@@ -11,7 +11,7 @@
  * Each word gets the dialogue sentence that best shows it: one whose whole
  * line is already translated in dialogue-vi (so the Vietnamese comes free),
  * then one of 5–15 words, then the shortest. Vietnamese is prefilled from
- * vocab-vi when an episode already taught the same word.
+ * vocab-vi when an episode already taught the same word in a single sense.
  *
  * `colHint` lists the five commonest 2–4 word runs around the word in the
  * dialogues (seen at least 3 times, not starting or ending in a function word
@@ -107,6 +107,7 @@ function main() {
     const phrases = new Map();
     for (const { text } of lines) {
         for (const sentence of splitSentences(text)) {
+            const seenInSentence = new Map();
             const tokens = plain(sentence).toLowerCase().match(/[a-z]+(?:'[a-z]+)?/g) ?? [];
             tokens.forEach((token, i) => {
                 if (/n't$/.test(token)) return;
@@ -114,11 +115,15 @@ function main() {
                 if (!head || !inTop.has(head)) return;
                 const counts = phrases.get(head) ?? new Map();
                 phrases.set(head, counts);
+                const once = seenInSentence.get(head) ?? new Set();
+                seenInSentence.set(head, once);
                 for (let n = 2; n <= 4; n++) {
                     for (let start = Math.max(0, i - n + 1); start <= i && start + n <= tokens.length; start++) {
                         const run = tokens.slice(start, start + n);
                         if (isEdgeFunction(run[0]) || isEdgeFunction(run[n - 1])) continue;
                         const phrase = run.join(' ');
+                        if (once.has(phrase)) continue;
+                        once.add(phrase);
                         counts.set(phrase, (counts.get(phrase) ?? 0) + 1);
                     }
                 }
@@ -134,10 +139,14 @@ function main() {
 
     // Vietnamese already written for the same word in an episode's vocabulary.
     const prefill = new Map();
+    const senses = new Map();
     for (const [key, t] of loadTranslations().map) {
         const word = key.split('\u0000')[0];
-        if (!prefill.has(word)) prefill.set(word, t);
+        const list = senses.get(word) ?? [];
+        list.push(t);
+        senses.set(word, list);
     }
+    for (const [word, list] of senses) if (list.length === 1) prefill.set(word, list[0]);
 
     const existing = new Map(readCoreRows().map(({ row }) => [cardId(row.w), row]));
     let prefilled = 0;
