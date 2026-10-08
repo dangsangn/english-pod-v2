@@ -27,6 +27,7 @@ import {
 import type { Settings as SrsSettings, Summary } from '../../lib/srsStore'
 import { MIN_POOL } from '../../lib/quiz'
 import { coreDeckName, coreGroup, isCoreDeck } from '../../lib/coreDecks'
+import CoreCard from './CoreCard'
 import { STAGES } from './stages'
 import type { StageStyle } from './stages'
 import type { Episode } from '../../types'
@@ -83,7 +84,10 @@ export default function VocabHome({ episodes, onOpenEpisode }: VocabHomeProps) {
       </section>
 
       {decks.length === 0 ? (
-        <EmptyGarden firstEpisode={episodes[0]} />
+        <>
+          <CoreCard />
+          <EmptyGarden firstEpisode={episodes[0]} />
+        </>
       ) : (
         <>
           <TodayCard
@@ -98,6 +102,8 @@ export default function VocabHome({ episodes, onOpenEpisode }: VocabHomeProps) {
             nextDue={nextDue === Infinity ? null : nextDue - now}
             canPlay={canPlay}
           />
+
+          <CoreCard />
 
           <section>
             <div className='flex items-center justify-between'>
