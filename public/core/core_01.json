@@ -68,7 +68,6 @@
     "exHit": "know",
     "exVi": "Anh biết em muốn nói gì mà.",
     "syn": [
-      "understand",
       "be aware"
     ],
     "col": [
@@ -154,10 +153,9 @@
     "viDef": "dùng để ngập ngừng hoặc mở đầu câu nói",
     "ex": "Well, yes sir, they are.",
     "exHit": "Well",
-    "exVi": "Vâng, thưa anh, chính xác ạ.",
+    "exVi": "À… vâng thưa anh, đúng vậy ạ.",
     "syn": [
-      "so",
-      "um"
+      "so"
     ],
     "col": [
       {
@@ -186,8 +184,7 @@
     "exVi": "Chào anh! Chúng tôi là nhà Christianson! Chúng tôi đến xem căn hộ.",
     "syn": [
       "notice",
-      "look at",
-      "watch"
+      "spot"
     ],
     "col": [
       {
@@ -270,7 +267,7 @@
     "ipa": "taɪm",
     "def": "hours and minutes; the hour",
     "vi": "thời gian, giờ",
-    "viDef": "thời gian tính bằng giờ phút; giờ giấc",
+    "viDef": "thời gian; giờ (trên đồng hồ)",
     "ex": "Do you know what time it is?",
     "exHit": "time",
     "exVi": "Con có biết mấy giờ rồi không?",
@@ -301,8 +298,7 @@
     "exVi": "À, em thấy thích nướng bánh nên đã làm mấy cái muffin.",
     "syn": [
       "create",
-      "prepare",
-      "cook"
+      "prepare"
     ],
     "col": [
       {
@@ -352,16 +348,15 @@
   {
     "word": "take",
     "ipa": "teɪk",
-    "def": "get, accept, or carry",
+    "def": "get hold of, or accept and have",
     "vi": "lấy, cầm, nhận",
-    "viDef": "lấy, nhận hoặc mang theo",
+    "viDef": "lấy, cầm lấy hoặc nhận lấy",
     "ex": "I'll take it!",
     "exHit": "take",
     "exVi": "Tôi lấy cái này!",
     "syn": [
-      "accept",
       "grab",
-      "bring"
+      "accept"
     ],
     "col": [
       {
@@ -385,9 +380,9 @@
     "def": "move toward the speaker",
     "vi": "đến, tới",
     "viDef": "di chuyển về phía người nói",
-    "ex": "Who is coming for you?",
-    "exHit": "coming",
-    "exVi": "Ai đang đến bắt bà ạ?",
+    "ex": "Come in! Quickly!",
+    "exHit": "Come",
+    "exVi": "Vào đi! Nhanh lên!",
     "syn": [
       "arrive",
       "approach"
@@ -406,7 +401,7 @@
         "vi": "quay lại"
       }
     ],
-    "exEp": 156
+    "exEp": 148
   },
   {
     "word": "look",
@@ -418,9 +413,7 @@
     "exHit": "Look",
     "exVi": "Nhìn bao nhiêu là quà dưới cây thông Noel kìa! Tuyệt quá!",
     "syn": [
-      "watch",
-      "glance",
-      "see"
+      "glance"
     ],
     "col": [
       {
@@ -584,11 +577,10 @@
     "viDef": "thêm vào đó; cũng vậy",
     "ex": "I was wondering if you guys also tailor clothes?",
     "exHit": "also",
-    "exVi": "Tôi muốn hỏi chỗ các bạn có may đo quần áo không?",
+    "exVi": "Cho tôi hỏi bên mình có nhận may đo quần áo luôn không?",
     "syn": [
       "too",
-      "as well",
-      "besides"
+      "as well"
     ],
     "col": [
       {
@@ -804,7 +796,6 @@
     "exVi": "Em vừa nhận được lời mời làm việc mới!",
     "syn": [
       "brand-new",
-      "fresh",
       "recent"
     ],
     "col": [
@@ -829,9 +820,9 @@
     "def": "hand something to someone",
     "vi": "đưa, cho, tặng",
     "viDef": "trao thứ gì đó cho ai",
-    "ex": "Perhaps you could give her a ring?",
+    "ex": "Can you give me the menu?",
     "exHit": "give",
-    "exVi": "Hay là anh tặng cô ấy một chiếc nhẫn?",
+    "exVi": "Bạn đưa tôi thực đơn được không?",
     "syn": [
       "hand",
       "offer",
@@ -850,8 +841,7 @@
         "en": "give a hand",
         "vi": "giúp một tay"
       }
-    ],
-    "exEp": 290
+    ]
   },
   {
     "word": "use",
@@ -1146,7 +1136,7 @@
     "viDef": "phát hiện ra sau khi tìm",
     "ex": "I found some coins that are not from here.",
     "exHit": "found",
-    "exVi": "Tớ thấy mấy đồng xu không phải tiền ở đây.",
+    "exVi": "Tớ nhặt được mấy đồng xu không phải tiền ở đây.",
     "syn": [
       "discover",
       "come across"
@@ -1580,9 +1570,9 @@
     "def": "a business that sells goods or services",
     "vi": "công ty",
     "viDef": "doanh nghiệp bán hàng hóa hoặc dịch vụ",
-    "ex": "So what would your role in the company?",
+    "ex": "I work for a software company.",
     "exHit": "company",
-    "exVi": "Vậy vai trò của cậu trong công ty là gì?",
+    "exVi": "Tôi làm cho một công ty phần mềm.",
     "syn": [
       "firm",
       "business"
@@ -1596,8 +1586,7 @@
         "en": "company policy",
         "vi": "chính sách công ty"
       }
-    ],
-    "exEp": 59
+    ]
   },
   {
     "word": "problem",
@@ -1887,9 +1876,6 @@
     "ex": "If a robber breaks into the house!",
     "exHit": "house",
     "exVi": "Nếu có kẻ trộm đột nhập vào nhà ạ!",
-    "syn": [
-      "home"
-    ],
     "col": [
       {
         "en": "my house",
@@ -1936,9 +1922,6 @@
     "ex": "Maybe there's no one home.",
     "exHit": "home",
     "exVi": "Chắc không có ai ở nhà đâu.",
-    "syn": [
-      "house"
-    ],
     "col": [
       {
         "en": "at home",
@@ -1966,8 +1949,7 @@
     "exVi": "Anh lúc nào cũng mềm yếu như vậy, Dave!",
     "syn": [
       "all the time",
-      "constantly",
-      "forever"
+      "constantly"
     ],
     "col": [
       {
@@ -2040,10 +2022,6 @@
     "ex": "My car won't start! Stupid old car!",
     "exHit": "old",
     "exVi": "Xe không nổ máy! Cái xe cũ chết tiệt!",
-    "syn": [
-      "aged",
-      "elderly"
-    ],
     "col": [
       {
         "en": "years old",
@@ -2147,9 +2125,9 @@
     "def": "wanting to know more about something",
     "vi": "sự quan tâm, hứng thú",
     "viDef": "mong muốn biết thêm về điều gì",
-    "ex": "No thank you, I am not interested.",
-    "exHit": "interested",
-    "exVi": "Không, cảm ơn, tôi không có hứng.",
+    "ex": "Thanks for your interest.",
+    "exHit": "interest",
+    "exVi": "Cảm ơn bạn đã quan tâm.",
     "syn": [
       "curiosity"
     ],
@@ -2162,8 +2140,7 @@
         "en": "interest rate",
         "vi": "lãi suất"
       }
-    ],
-    "exEp": 245
+    ]
   },
   {
     "word": "live",
@@ -2175,8 +2152,7 @@
     "exHit": "living",
     "exVi": "Nhưng giờ tôi đang sống ở Paris.",
     "syn": [
-      "reside",
-      "stay"
+      "reside"
     ],
     "col": [
       {
@@ -2481,8 +2457,7 @@
     "exHit": "number",
     "exVi": "Được, số thẻ tín dụng của tôi là...",
     "syn": [
-      "figure",
-      "digit"
+      "figure"
     ],
     "col": [
       {
@@ -2643,12 +2618,12 @@
     "def": "after the expected time",
     "vi": "muộn, trễ",
     "viDef": "sau thời gian dự kiến",
-    "ex": "Sorry I'm late, everyone. Wow, we are doing really well tonight!",
+    "ex": "Sorry I'm late, everyone.",
     "exHit": "late",
-    "exVi": "Xin lỗi mọi người, tôi đến trễ. Chà, tối nay quán làm ăn được quá!",
+    "exVi": "Xin lỗi mọi người, tôi đến trễ.",
     "syn": [
       "delayed",
-      "overdue"
+      "behind schedule"
     ],
     "col": [
       {
@@ -2656,8 +2631,8 @@
         "vi": "xin lỗi, tôi đến trễ"
       },
       {
-        "en": "see you later",
-        "vi": "hẹn gặp lại sau"
+        "en": "stay up late",
+        "vi": "thức khuya"
       },
       {
         "en": "too late",
