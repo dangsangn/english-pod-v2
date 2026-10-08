@@ -1,0 +1,3903 @@
+[
+  {
+    "word": "wonderful",
+    "ipa": "ˈwʌndɚfəl",
+    "def": "very good; delightful",
+    "vi": "tuyệt vời",
+    "viDef": "rất tốt; rất dễ chịu",
+    "ex": "It's going to be wonderful!",
+    "exHit": "wonderful",
+    "exVi": "Sẽ tuyệt lắm cho xem!",
+    "syn": [
+      {
+        "en": "great",
+        "vi": "tuyệt",
+        "ipa": "ɡɹeɪt"
+      },
+      {
+        "en": "amazing",
+        "vi": "tuyệt vời",
+        "ipa": "əˈmeɪzɪŋ"
+      },
+      {
+        "en": "lovely",
+        "vi": "dễ chịu, đáng yêu",
+        "ipa": "ˈlʌvli"
+      }
+    ],
+    "col": [
+      {
+        "en": "a wonderful time",
+        "vi": "khoảng thời gian tuyệt vời",
+        "ipa": "ə ˈwʌndɚfəl taɪm"
+      },
+      {
+        "en": "sounds wonderful",
+        "vi": "nghe tuyệt quá",
+        "ipa": "saʊndz ˈwʌndɚfəl"
+      },
+      {
+        "en": "wonderful idea",
+        "vi": "ý tưởng tuyệt vời",
+        "ipa": "ˈwʌndɚfəl aɪˈdiə"
+      }
+    ],
+    "exEp": 227
+  },
+  {
+    "word": "loss",
+    "ipa": "lɔs",
+    "def": "losing someone or something",
+    "vi": "sự mất mát, thua lỗ",
+    "viDef": "việc mất đi ai đó hoặc thứ gì đó",
+    "ex": "I'm so sorry for your loss.",
+    "exHit": "loss",
+    "exVi": "Tôi rất tiếc về sự mất mát của anh.",
+    "col": [
+      {
+        "en": "weight loss",
+        "vi": "giảm cân",
+        "ipa": "weɪt lɔs"
+      },
+      {
+        "en": "at a loss",
+        "vi": "bối rối, không biết làm gì",
+        "ipa": "æt ə lɔs"
+      },
+      {
+        "en": "sorry for your loss",
+        "vi": "xin chia buồn",
+        "ipa": "ˈsɑɹi fɔɹ jɔɹ lɔs"
+      }
+    ]
+  },
+  {
+    "word": "view",
+    "ipa": "vju",
+    "def": "what you can see from a place",
+    "vi": "quang cảnh, tầm nhìn",
+    "viDef": "những gì nhìn thấy được từ một chỗ",
+    "ex": "The hotel room has a great view of the sea.",
+    "exHit": "view",
+    "exVi": "Phòng khách sạn nhìn ra biển rất đẹp.",
+    "syn": [
+      {
+        "en": "scenery",
+        "vi": "phong cảnh",
+        "ipa": "ˈsinɚi"
+      },
+      {
+        "en": "sight",
+        "vi": "cảnh tượng",
+        "ipa": "saɪt"
+      }
+    ],
+    "col": [
+      {
+        "en": "great view",
+        "vi": "cảnh đẹp",
+        "ipa": "ɡɹeɪt vju"
+      },
+      {
+        "en": "point of view",
+        "vi": "quan điểm",
+        "ipa": "pɔɪnt ʌv vju"
+      },
+      {
+        "en": "in my view",
+        "vi": "theo tôi",
+        "ipa": "ɪn maɪ vju"
+      }
+    ]
+  },
+  {
+    "word": "modern",
+    "ipa": "ˈmɑdɚn",
+    "def": "new and up to date",
+    "vi": "hiện đại",
+    "viDef": "mới và theo kịp thời đại",
+    "ex": "It's much more modern than people imagine.",
+    "exHit": "modern",
+    "exVi": "Nó hiện đại hơn nhiều so với người ta tưởng.",
+    "syn": [
+      {
+        "en": "up-to-date",
+        "vi": "hợp thời, cập nhật",
+        "ipa": "ʌp tu deɪt"
+      },
+      {
+        "en": "contemporary",
+        "vi": "đương đại",
+        "ipa": "kənˈtɛmpɚˌɛɹi"
+      },
+      {
+        "en": "new",
+        "vi": "mới",
+        "ipa": "nu"
+      }
+    ],
+    "col": [
+      {
+        "en": "modern art",
+        "vi": "nghệ thuật hiện đại",
+        "ipa": "ˈmɑdɚn ɑɹt"
+      },
+      {
+        "en": "modern technology",
+        "vi": "công nghệ hiện đại",
+        "ipa": "ˈmɑdɚn tɛkˈnɑlədʒi"
+      },
+      {
+        "en": "modern life",
+        "vi": "cuộc sống hiện đại",
+        "ipa": "ˈmɑdɚn laɪf"
+      }
+    ],
+    "exEp": 322
+  },
+  {
+    "word": "treatment",
+    "ipa": "ˈtɹitmənt",
+    "def": "medical care for an illness",
+    "vi": "sự điều trị, liệu trình",
+    "viDef": "việc chăm sóc y tế để chữa bệnh",
+    "ex": "You should get acupuncture treatment.",
+    "exHit": "treatment",
+    "exVi": "Anh nên đi điều trị bằng châm cứu.",
+    "syn": [
+      {
+        "en": "therapy",
+        "vi": "liệu pháp",
+        "ipa": "ˈθɛɹəpi"
+      },
+      {
+        "en": "care",
+        "vi": "sự chăm sóc",
+        "ipa": "kɛɹ"
+      }
+    ],
+    "col": [
+      {
+        "en": "medical treatment",
+        "vi": "điều trị y tế",
+        "ipa": "ˈmɛdəkəl ˈtɹitmənt"
+      },
+      {
+        "en": "get treatment",
+        "vi": "đi chữa trị",
+        "ipa": "ɡɛt ˈtɹitmənt"
+      },
+      {
+        "en": "special treatment",
+        "vi": "đối xử đặc biệt",
+        "ipa": "ˈspɛʃəl ˈtɹitmənt"
+      }
+    ],
+    "exEp": 349
+  },
+  {
+    "word": "funny",
+    "ipa": "ˈfʌni",
+    "def": "making you laugh",
+    "vi": "buồn cười, hài hước",
+    "viDef": "khiến người ta bật cười",
+    "ex": "Why would that be funny?",
+    "exHit": "funny",
+    "exVi": "Sao điều đó lại buồn cười?",
+    "syn": [
+      {
+        "en": "hilarious",
+        "vi": "cực kỳ buồn cười",
+        "ipa": "hɪˈlɛɹiəs"
+      },
+      {
+        "en": "amusing",
+        "vi": "thú vị, gây cười",
+        "ipa": "əˈmjuzɪŋ"
+      },
+      {
+        "en": "humorous",
+        "vi": "hài hước",
+        "ipa": "ˈhjumɚəs"
+      }
+    ],
+    "col": [
+      {
+        "en": "that's funny",
+        "vi": "buồn cười thật",
+        "ipa": "ðæts ˈfʌni"
+      },
+      {
+        "en": "very funny",
+        "vi": "buồn cười ghê (thường mỉa mai)",
+        "ipa": "ˈvɛɹi ˈfʌni"
+      },
+      {
+        "en": "funny story",
+        "vi": "chuyện vui",
+        "ipa": "ˈfʌni ˈstɔɹi"
+      }
+    ],
+    "exEp": 175
+  },
+  {
+    "word": "income",
+    "ipa": "ˈɪnkʌm",
+    "def": "money you earn regularly",
+    "vi": "thu nhập",
+    "viDef": "tiền kiếm được thường xuyên",
+    "ex": "It's your federal income tax.",
+    "exHit": "income",
+    "exVi": "Đây là thuế thu nhập liên bang của anh.",
+    "syn": [
+      {
+        "en": "earnings",
+        "vi": "tiền kiếm được",
+        "ipa": "ˈɝnɪŋz"
+      },
+      {
+        "en": "salary",
+        "vi": "lương",
+        "ipa": "ˈsælɚi"
+      },
+      {
+        "en": "revenue",
+        "vi": "doanh thu",
+        "ipa": "ˈɹɛvəˌnu"
+      }
+    ],
+    "col": [
+      {
+        "en": "income tax",
+        "vi": "thuế thu nhập",
+        "ipa": "ˈɪnkʌm tæks"
+      },
+      {
+        "en": "low income",
+        "vi": "thu nhập thấp",
+        "ipa": "loʊ ˈɪnkʌm"
+      },
+      {
+        "en": "monthly income",
+        "vi": "thu nhập hằng tháng",
+        "ipa": "ˈmʌnθli ˈɪnkʌm"
+      }
+    ],
+    "exEp": 317
+  },
+  {
+    "word": "concern",
+    "ipa": "kənˈsɝn",
+    "def": "a feeling of worry",
+    "vi": "mối lo, điều lo ngại",
+    "viDef": "cảm giác lo lắng",
+    "ex": "My main concern is the cost.",
+    "exHit": "concern",
+    "exVi": "Điều tôi lo nhất là chi phí.",
+    "syn": [
+      {
+        "en": "worry",
+        "vi": "nỗi lo",
+        "ipa": "ˈwɝi"
+      },
+      {
+        "en": "anxiety",
+        "vi": "sự lo âu",
+        "ipa": "æŋˈzaɪəti"
+      }
+    ],
+    "col": [
+      {
+        "en": "main concern",
+        "vi": "mối lo chính",
+        "ipa": "meɪn kənˈsɝn"
+      },
+      {
+        "en": "to whom it may concern",
+        "vi": "kính gửi những ai có liên quan",
+        "ipa": "tu hum ɪt meɪ kənˈsɝn"
+      },
+      {
+        "en": "raise concerns",
+        "vi": "nêu lên lo ngại",
+        "ipa": "ɹeɪz kənˈsɝnz"
+      }
+    ]
+  },
+  {
+    "word": "medium",
+    "ipa": "ˈmidiəm",
+    "def": "average in size",
+    "vi": "cỡ vừa, trung bình",
+    "viDef": "kích cỡ trung bình",
+    "ex": "Um yes… I'd like a medium pizza with pepperoni, olives, and extra cheese.",
+    "exHit": "medium",
+    "exVi": "Ừm vâng... tôi muốn một chiếc pizza cỡ vừa với xúc xích pepperoni, ô liu và thêm phô mai.",
+    "syn": [
+      {
+        "en": "average",
+        "vi": "trung bình",
+        "ipa": "ˈævɚɪdʒ"
+      },
+      {
+        "en": "mid-sized",
+        "vi": "cỡ trung",
+        "ipa": "mɪd saɪzd"
+      },
+      {
+        "en": "moderate",
+        "vi": "vừa phải",
+        "ipa": "ˈmɑdɚət"
+      }
+    ],
+    "col": [
+      {
+        "en": "medium size",
+        "vi": "cỡ vừa",
+        "ipa": "ˈmidiəm saɪz"
+      },
+      {
+        "en": "medium rare",
+        "vi": "tái vừa (bít tết)",
+        "ipa": "ˈmidiəm ɹɛɹ"
+      },
+      {
+        "en": "medium pizza",
+        "vi": "pizza cỡ vừa",
+        "ipa": "ˈmidiəm ˈpitsə"
+      }
+    ],
+    "exEp": 52
+  },
+  {
+    "word": "tire",
+    "ipa": "ˈtaɪɚ",
+    "def": "make or become tired",
+    "vi": "(làm) mệt, mệt mỏi",
+    "viDef": "làm cho mệt hoặc trở nên mệt",
+    "ex": "I'm too tired to cook tonight.",
+    "exHit": "tired",
+    "exVi": "Tối nay em mệt quá, không nấu nổi.",
+    "syn": [
+      {
+        "en": "exhaust",
+        "vi": "làm kiệt sức",
+        "ipa": "ɪɡˈzɔst"
+      },
+      {
+        "en": "wear out",
+        "vi": "làm mệt lử",
+        "ipa": "wɛɹ aʊt"
+      }
+    ],
+    "col": [
+      {
+        "en": "tired of",
+        "vi": "chán",
+        "ipa": "ˈtaɪɚd ʌv"
+      },
+      {
+        "en": "get tired",
+        "vi": "thấy mệt",
+        "ipa": "ɡɛt ˈtaɪɚd"
+      },
+      {
+        "en": "tire out",
+        "vi": "làm mệt lử",
+        "ipa": "ˈtaɪɚ aʊt"
+      }
+    ]
+  },
+  {
+    "word": "stock",
+    "ipa": "stɑk",
+    "def": "goods a shop has to sell",
+    "vi": "hàng trong kho, hàng có sẵn",
+    "viDef": "hàng hóa cửa hàng có để bán",
+    "ex": "Lucky for you, this is the last one we have in stock so it's half off!",
+    "exHit": "stock",
+    "exVi": "Anh may mắn đấy, đây là chiếc cuối cùng còn trong kho nên được giảm một nửa giá!",
+    "syn": [
+      {
+        "en": "supply",
+        "vi": "nguồn hàng",
+        "ipa": "səˈplaɪ"
+      },
+      {
+        "en": "inventory",
+        "vi": "hàng tồn kho",
+        "ipa": "ˌɪnvənˈtɔɹi"
+      }
+    ],
+    "col": [
+      {
+        "en": "in stock",
+        "vi": "còn hàng",
+        "ipa": "ɪn stɑk"
+      },
+      {
+        "en": "out of stock",
+        "vi": "hết hàng",
+        "ipa": "aʊt ʌv stɑk"
+      },
+      {
+        "en": "stock market",
+        "vi": "thị trường chứng khoán",
+        "ipa": "stɑk ˈmɑɹkət"
+      }
+    ],
+    "exEp": 134
+  },
+  {
+    "word": "imagine",
+    "ipa": "ˌɪˈmædʒən",
+    "def": "picture something in your mind",
+    "vi": "tưởng tượng, hình dung",
+    "viDef": "hình dung điều gì đó trong đầu",
+    "ex": "It's a lot harder than I imagined.",
+    "exHit": "imagined",
+    "exVi": "Khó hơn nhiều so với tôi tưởng.",
+    "syn": [
+      {
+        "en": "picture",
+        "vi": "hình dung",
+        "ipa": "ˈpɪktʃɚ"
+      },
+      {
+        "en": "envision",
+        "vi": "mường tượng",
+        "ipa": "ɛnˈvɪʒən"
+      },
+      {
+        "en": "suppose",
+        "vi": "cho rằng, đoán là",
+        "ipa": "səˈpoʊz"
+      }
+    ],
+    "col": [
+      {
+        "en": "can you imagine",
+        "vi": "bạn có tưởng tượng nổi không",
+        "ipa": "kæn ju ˌɪˈmædʒən"
+      },
+      {
+        "en": "I imagine",
+        "vi": "tôi đoán là",
+        "ipa": "aɪ ˌɪˈmædʒən"
+      },
+      {
+        "en": "just imagine",
+        "vi": "thử tưởng tượng xem",
+        "ipa": "dʒʌst ˌɪˈmædʒən"
+      }
+    ],
+    "exEp": 213
+  },
+  {
+    "word": "ship",
+    "ipa": "ʃɪp",
+    "def": "a large boat",
+    "vi": "tàu, thuyền lớn",
+    "viDef": "một chiếc thuyền lớn",
+    "ex": "Captain, we're under attack by an unidentified ship.",
+    "exHit": "ship",
+    "exVi": "Thưa thuyền trưởng, chúng ta đang bị một con tàu không xác định tấn công.",
+    "syn": [
+      {
+        "en": "boat",
+        "vi": "thuyền",
+        "ipa": "boʊt"
+      },
+      {
+        "en": "vessel",
+        "vi": "tàu (trang trọng)",
+        "ipa": "ˈvɛsəl"
+      }
+    ],
+    "col": [
+      {
+        "en": "cruise ship",
+        "vi": "tàu du lịch",
+        "ipa": "kɹuz ʃɪp"
+      },
+      {
+        "en": "free shipping",
+        "vi": "miễn phí vận chuyển",
+        "ipa": "fɹi ˈʃɪpɪŋ"
+      }
+    ],
+    "exEp": 87
+  },
+  {
+    "word": "investment",
+    "ipa": "ˌɪnˈvɛstmənt",
+    "def": "money put in to make a profit",
+    "vi": "khoản đầu tư, sự đầu tư",
+    "viDef": "tiền bỏ ra để kiếm lời",
+    "ex": "Buying this house was a good investment.",
+    "exHit": "investment",
+    "exVi": "Mua căn nhà này là một khoản đầu tư tốt.",
+    "col": [
+      {
+        "en": "good investment",
+        "vi": "khoản đầu tư tốt",
+        "ipa": "ɡʊd ˌɪnˈvɛstmənt"
+      },
+      {
+        "en": "foreign investment",
+        "vi": "đầu tư nước ngoài",
+        "ipa": "ˈfɔɹən ˌɪnˈvɛstmənt"
+      },
+      {
+        "en": "return on investment",
+        "vi": "lợi nhuận trên vốn đầu tư",
+        "ipa": "ɹɪˈtɝn ɑn ˌɪnˈvɛstmənt"
+      }
+    ]
+  },
+  {
+    "word": "double",
+    "ipa": "ˈdʌbəl",
+    "def": "made for two people",
+    "vi": "đôi",
+    "viDef": "dành cho hai người",
+    "ex": "We have a junior single suite or a superior double suite available for those dates.",
+    "exHit": "double",
+    "exVi": "Vào những ngày đó chúng tôi còn phòng suite đơn junior hoặc phòng suite đôi superior ạ.",
+    "col": [
+      {
+        "en": "double room",
+        "vi": "phòng đôi",
+        "ipa": "ˈdʌbəl ɹum"
+      },
+      {
+        "en": "double bed",
+        "vi": "giường đôi",
+        "ipa": "ˈdʌbəl bɛd"
+      },
+      {
+        "en": "double check",
+        "vi": "kiểm tra lại",
+        "ipa": "ˈdʌbəl tʃɛk"
+      }
+    ],
+    "exEp": 344
+  },
+  {
+    "word": "therefore",
+    "ipa": "ˈðɛɹfɔɹ",
+    "def": "for that reason",
+    "vi": "do đó, vì vậy",
+    "viDef": "vì lý do đó",
+    "ex": "And therefore, global warming is the greatest deception of the early 21st century.",
+    "exHit": "therefore",
+    "exVi": "Và do đó, hiện tượng nóng lên toàn cầu là trò lừa bịp lớn nhất đầu thế kỷ 21.",
+    "syn": [
+      {
+        "en": "so",
+        "vi": "vì vậy",
+        "ipa": "soʊ"
+      },
+      {
+        "en": "thus",
+        "vi": "do đó (trang trọng)",
+        "ipa": "ðʌs"
+      },
+      {
+        "en": "hence",
+        "vi": "vì thế",
+        "ipa": "hɛns"
+      }
+    ],
+    "exEp": 102
+  },
+  {
+    "word": "pleasure",
+    "ipa": "ˈplɛʒɚ",
+    "def": "a feeling of happiness or enjoyment",
+    "vi": "niềm vui, hân hạnh",
+    "viDef": "cảm giác vui vẻ, thích thú",
+    "ex": "The pleasure's all mine Rebecca.",
+    "exHit": "pleasure",
+    "exVi": "Hân hạnh là của tôi mới đúng, Rebecca.",
+    "syn": [
+      {
+        "en": "joy",
+        "vi": "niềm vui",
+        "ipa": "dʒɔɪ"
+      },
+      {
+        "en": "delight",
+        "vi": "sự thích thú",
+        "ipa": "dɪˈlaɪt"
+      },
+      {
+        "en": "enjoyment",
+        "vi": "sự tận hưởng",
+        "ipa": "ˌɛnˈdʒɔɪmənt"
+      }
+    ],
+    "col": [
+      {
+        "en": "my pleasure",
+        "vi": "không có chi, rất hân hạnh",
+        "ipa": "maɪ ˈplɛʒɚ"
+      },
+      {
+        "en": "pleasure to meet you",
+        "vi": "rất vui được gặp anh",
+        "ipa": "ˈplɛʒɚ tu mit ju"
+      },
+      {
+        "en": "with pleasure",
+        "vi": "rất sẵn lòng",
+        "ipa": "wɪð ˈplɛʒɚ"
+      }
+    ],
+    "exEp": 262
+  },
+  {
+    "word": "effect",
+    "ipa": "ɪˈfɛkt",
+    "def": "a change caused by something",
+    "vi": "tác dụng, ảnh hưởng",
+    "viDef": "sự thay đổi do cái gì đó gây ra",
+    "ex": "Does this medicine have any side effects?",
+    "exHit": "effects",
+    "exVi": "Thuốc này có tác dụng phụ gì không?",
+    "syn": [
+      {
+        "en": "result",
+        "vi": "kết quả",
+        "ipa": "ɹɪˈzʌlt"
+      },
+      {
+        "en": "impact",
+        "vi": "tác động",
+        "ipa": "ɪmˈpækt"
+      },
+      {
+        "en": "influence",
+        "vi": "ảnh hưởng",
+        "ipa": "ˈɪnfluəns"
+      }
+    ],
+    "col": [
+      {
+        "en": "side effect",
+        "vi": "tác dụng phụ",
+        "ipa": "saɪd ɪˈfɛkt"
+      },
+      {
+        "en": "take effect",
+        "vi": "có hiệu lực, phát huy tác dụng",
+        "ipa": "teɪk ɪˈfɛkt"
+      },
+      {
+        "en": "special effects",
+        "vi": "hiệu ứng đặc biệt",
+        "ipa": "ˈspɛʃəl ɪˈfɛkts"
+      }
+    ]
+  },
+  {
+    "word": "insurance",
+    "ipa": "ˌɪnˈʃʊɹəns",
+    "def": "protection against costs of loss or damage",
+    "vi": "bảo hiểm",
+    "viDef": "sự bảo vệ trước chi phí khi mất mát hoặc hư hại",
+    "ex": "Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.",
+    "exHit": "insurance",
+    "exVi": "Có, tốt nhất là cô cứ cho tôi bảo hiểm, vì tôi sắp hành hạ chiếc xe này đến tơi tả.",
+    "syn": [
+      {
+        "en": "coverage",
+        "vi": "phạm vi bảo hiểm",
+        "ipa": "ˈkʌvɚədʒ"
+      }
+    ],
+    "col": [
+      {
+        "en": "health insurance",
+        "vi": "bảo hiểm y tế",
+        "ipa": "hɛlθ ˌɪnˈʃʊɹəns"
+      },
+      {
+        "en": "car insurance",
+        "vi": "bảo hiểm xe",
+        "ipa": "kɑɹ ˌɪnˈʃʊɹəns"
+      },
+      {
+        "en": "insurance policy",
+        "vi": "hợp đồng bảo hiểm",
+        "ipa": "ˌɪnˈʃʊɹəns ˈpɑləsi"
+      }
+    ],
+    "exEp": 138
+  },
+  {
+    "word": "professional",
+    "ipa": "pɹəˈfɛʃənəl",
+    "def": "skilled and behaving well at work",
+    "vi": "chuyên nghiệp",
+    "viDef": "có tay nghề và cư xử đúng mực trong công việc",
+    "ex": "That's more professional.",
+    "exHit": "professional",
+    "exVi": "Như thế chuyên nghiệp hơn.",
+    "syn": [
+      {
+        "en": "expert",
+        "vi": "thành thạo",
+        "ipa": "ˈɛkspɚt"
+      },
+      {
+        "en": "businesslike",
+        "vi": "đúng tác phong công việc",
+        "ipa": "ˈbɪznɪˌslaɪk"
+      },
+      {
+        "en": "skilled",
+        "vi": "có tay nghề",
+        "ipa": "skɪld"
+      }
+    ],
+    "col": [
+      {
+        "en": "professional help",
+        "vi": "sự giúp đỡ của chuyên gia",
+        "ipa": "pɹəˈfɛʃənəl hɛlp"
+      },
+      {
+        "en": "very professional",
+        "vi": "rất chuyên nghiệp",
+        "ipa": "ˈvɛɹi pɹəˈfɛʃənəl"
+      },
+      {
+        "en": "professional athlete",
+        "vi": "vận động viên chuyên nghiệp",
+        "ipa": "pɹəˈfɛʃənəl ˈæθlit"
+      }
+    ],
+    "exEp": 315
+  },
+  {
+    "word": "file",
+    "ipa": "faɪl",
+    "def": "a document stored on a computer",
+    "vi": "tệp, tập tin",
+    "viDef": "một tài liệu lưu trên máy tính",
+    "ex": "I ran a virus scan on your computer, and it turns out that you have a lot of infected files!",
+    "exHit": "files",
+    "exVi": "Tôi đã quét virus máy của bạn, và hóa ra bạn có rất nhiều tệp bị nhiễm!",
+    "syn": [
+      {
+        "en": "document",
+        "vi": "tài liệu",
+        "ipa": "ˈdɑkjəmɛnt"
+      }
+    ],
+    "col": [
+      {
+        "en": "save the file",
+        "vi": "lưu tệp",
+        "ipa": "seɪv ðə faɪl"
+      },
+      {
+        "en": "open a file",
+        "vi": "mở tệp",
+        "ipa": "ˈoʊpən ə faɪl"
+      },
+      {
+        "en": "file a complaint",
+        "vi": "nộp đơn khiếu nại",
+        "ipa": "faɪl ə kəmˈpleɪnt"
+      }
+    ],
+    "exEp": 7
+  },
+  {
+    "word": "speed",
+    "ipa": "spid",
+    "def": "how fast something moves",
+    "vi": "tốc độ",
+    "viDef": "mức độ nhanh của vật chuyển động",
+    "ex": "They are accelerating towards the speed of light We lost them, sir...",
+    "exHit": "speed",
+    "exVi": "Chúng đang tăng tốc đến gần tốc độ ánh sáng. Chúng ta mất dấu chúng rồi, thưa ngài...",
+    "syn": [
+      {
+        "en": "pace",
+        "vi": "nhịp độ",
+        "ipa": "peɪs"
+      },
+      {
+        "en": "velocity",
+        "vi": "vận tốc",
+        "ipa": "vəˈlɑsəti"
+      }
+    ],
+    "col": [
+      {
+        "en": "speed limit",
+        "vi": "giới hạn tốc độ",
+        "ipa": "spid ˈlɪmət"
+      },
+      {
+        "en": "speed up",
+        "vi": "tăng tốc",
+        "ipa": "spid ʌp"
+      },
+      {
+        "en": "at full speed",
+        "vi": "hết tốc lực",
+        "ipa": "æt fʊl spid"
+      }
+    ],
+    "exEp": 79
+  },
+  {
+    "word": "determine",
+    "ipa": "dəˈtɝmən",
+    "def": "find out or decide exactly",
+    "vi": "xác định, quyết định",
+    "viDef": "tìm ra hoặc quyết định chính xác",
+    "ex": "We need to determine what caused the problem.",
+    "exHit": "determine",
+    "exVi": "Chúng ta cần xác định nguyên nhân gây ra vấn đề.",
+    "syn": [
+      {
+        "en": "figure out",
+        "vi": "tìm ra",
+        "ipa": "ˈfɪɡjɚ aʊt"
+      },
+      {
+        "en": "establish",
+        "vi": "xác lập",
+        "ipa": "ɪˈstæblɪʃ"
+      },
+      {
+        "en": "decide",
+        "vi": "quyết định",
+        "ipa": "dɪˈsaɪd"
+      }
+    ],
+    "col": [
+      {
+        "en": "determined to",
+        "vi": "quyết tâm",
+        "ipa": "dɪˈtɝmənd tu"
+      },
+      {
+        "en": "determine the cause",
+        "vi": "xác định nguyên nhân",
+        "ipa": "dəˈtɝmən ðə kɑz"
+      }
+    ]
+  },
+  {
+    "word": "itself",
+    "ipa": "ɪtˈsɛlf",
+    "def": "used for a thing already mentioned",
+    "vi": "chính nó, tự nó",
+    "viDef": "dùng để chỉ lại chính vật đã nói đến",
+    "ex": "The earth will save itself.",
+    "exHit": "itself",
+    "exVi": "Trái Đất sẽ tự cứu lấy mình.",
+    "col": [
+      {
+        "en": "by itself",
+        "vi": "tự nó, một mình",
+        "ipa": "baɪ ɪtˈsɛlf"
+      },
+      {
+        "en": "in itself",
+        "vi": "bản thân nó",
+        "ipa": "ɪn ɪtˈsɛlf"
+      },
+      {
+        "en": "speaks for itself",
+        "vi": "tự nói lên tất cả",
+        "ipa": "spiks fɔɹ ɪtˈsɛlf"
+      }
+    ],
+    "exEp": 222
+  },
+  {
+    "word": "fail",
+    "ipa": "feɪl",
+    "def": "not succeed; not pass a test",
+    "vi": "thất bại, trượt",
+    "viDef": "không thành công; không qua được bài thi",
+    "ex": "No, that's May fifth in Spanish, James, no wonder you are failing my Spanish class.",
+    "exHit": "failing",
+    "exVi": "Không, đó là ngày năm tháng Năm bằng tiếng Tây Ban Nha, James à, thảo nào em đang trượt môn tiếng Tây Ban Nha của cô.",
+    "syn": [
+      {
+        "en": "flunk",
+        "vi": "trượt (thân mật)",
+        "ipa": "flʌŋk"
+      },
+      {
+        "en": "fall short",
+        "vi": "không đạt",
+        "ipa": "fɔl ʃɔɹt"
+      }
+    ],
+    "col": [
+      {
+        "en": "fail a test",
+        "vi": "thi trượt",
+        "ipa": "feɪl ə tɛst"
+      },
+      {
+        "en": "without fail",
+        "vi": "chắc chắn, không bao giờ sai",
+        "ipa": "wɪˈθaʊt feɪl"
+      },
+      {
+        "en": "fail to",
+        "vi": "không làm được",
+        "ipa": "feɪl tu"
+      }
+    ],
+    "exEp": 78
+  },
+  {
+    "word": "prefer",
+    "ipa": "pɹəˈfɝ",
+    "def": "like one thing more than another",
+    "vi": "thích hơn",
+    "viDef": "thích cái này hơn cái kia",
+    "ex": "Do you prefer paper or plastic?",
+    "exHit": "prefer",
+    "exVi": "Ông muốn túi giấy hay túi ni lông?",
+    "syn": [
+      {
+        "en": "favor",
+        "vi": "ưu tiên",
+        "ipa": "ˈfeɪvɚ"
+      },
+      {
+        "en": "would rather",
+        "vi": "thà… hơn",
+        "ipa": "wʊd ˈɹæðɚ"
+      }
+    ],
+    "col": [
+      {
+        "en": "prefer to",
+        "vi": "thích … hơn",
+        "ipa": "pɹəˈfɝ tu"
+      },
+      {
+        "en": "I'd prefer",
+        "vi": "tôi muốn … hơn",
+        "ipa": "aɪd pɹəˈfɝ"
+      },
+      {
+        "en": "if you prefer",
+        "vi": "nếu bạn thích",
+        "ipa": "ɪf ju pɹəˈfɝ"
+      }
+    ],
+    "exEp": 122
+  },
+  {
+    "word": "risk",
+    "ipa": "ɹɪsk",
+    "def": "chance something bad may happen",
+    "vi": "rủi ro, nguy cơ",
+    "viDef": "khả năng điều xấu xảy ra",
+    "ex": "But, I couldn't put you, or my mission at risk.",
+    "exHit": "risk",
+    "exVi": "Nhưng anh không thể đặt em, hay nhiệm vụ của anh, vào vòng nguy hiểm.",
+    "syn": [
+      {
+        "en": "danger",
+        "vi": "mối nguy",
+        "ipa": "ˈdeɪndʒɚ"
+      },
+      {
+        "en": "chance",
+        "vi": "khả năng",
+        "ipa": "tʃæns"
+      },
+      {
+        "en": "hazard",
+        "vi": "mối nguy hiểm",
+        "ipa": "ˈhæzɚd"
+      }
+    ],
+    "col": [
+      {
+        "en": "at risk",
+        "vi": "gặp nguy",
+        "ipa": "æt ɹɪsk"
+      },
+      {
+        "en": "take a risk",
+        "vi": "liều, mạo hiểm",
+        "ipa": "teɪk ə ɹɪsk"
+      },
+      {
+        "en": "high risk",
+        "vi": "rủi ro cao",
+        "ipa": "haɪ ɹɪsk"
+      }
+    ],
+    "exEp": 117
+  },
+  {
+    "word": "rain",
+    "ipa": "ɹeɪn",
+    "def": "fall as water from clouds",
+    "vi": "mưa",
+    "viDef": "rơi xuống thành nước từ trên mây",
+    "ex": "Will it rain on Saturday?",
+    "exHit": "rain",
+    "exVi": "Thứ Bảy có mưa không?",
+    "syn": [
+      {
+        "en": "pour",
+        "vi": "mưa như trút",
+        "ipa": "pɔɹ"
+      },
+      {
+        "en": "drizzle",
+        "vi": "mưa phùn",
+        "ipa": "ˈdɹɪzəl"
+      }
+    ],
+    "col": [
+      {
+        "en": "it's raining",
+        "vi": "trời đang mưa",
+        "ipa": "ɪts ˈɹeɪnɪŋ"
+      },
+      {
+        "en": "raining cats and dogs",
+        "vi": "mưa như trút nước",
+        "ipa": "ˈɹeɪnɪŋ kæts ənd dɑɡz"
+      },
+      {
+        "en": "heavy rain",
+        "vi": "mưa to",
+        "ipa": "ˈhɛvi ɹeɪn"
+      }
+    ],
+    "exEp": 266
+  },
+  {
+    "word": "busy",
+    "ipa": "ˈbɪzi",
+    "def": "having a lot to do",
+    "vi": "bận, bận rộn",
+    "viDef": "có nhiều việc phải làm",
+    "ex": "I've been busy with a first aid course that I started about a week ago at the Red Cross.",
+    "exHit": "busy",
+    "exVi": "Tớ bận học khóa sơ cứu bắt đầu từ khoảng một tuần trước ở Hội Chữ thập đỏ.",
+    "syn": [
+      {
+        "en": "occupied",
+        "vi": "bận",
+        "ipa": "ˈɑkjəˌpaɪd"
+      },
+      {
+        "en": "tied up",
+        "vi": "kẹt việc",
+        "ipa": "taɪd ʌp"
+      },
+      {
+        "en": "swamped",
+        "vi": "ngập việc (thân mật)",
+        "ipa": "swɔmpt"
+      }
+    ],
+    "col": [
+      {
+        "en": "busy with",
+        "vi": "bận với",
+        "ipa": "ˈbɪzi wɪð"
+      },
+      {
+        "en": "busy day",
+        "vi": "ngày bận rộn",
+        "ipa": "ˈbɪzi deɪ"
+      },
+      {
+        "en": "keep busy",
+        "vi": "giữ mình bận rộn",
+        "ipa": "kip ˈbɪzi"
+      }
+    ],
+    "exEp": 199
+  },
+  {
+    "word": "goal",
+    "ipa": "ɡoʊl",
+    "def": "something you want to achieve",
+    "vi": "mục tiêu",
+    "viDef": "điều bạn muốn đạt được",
+    "ex": "My goal is to run a marathon this year.",
+    "exHit": "goal",
+    "exVi": "Mục tiêu của tôi là chạy marathon trong năm nay.",
+    "syn": [
+      {
+        "en": "aim",
+        "vi": "mục đích",
+        "ipa": "eɪm"
+      },
+      {
+        "en": "target",
+        "vi": "chỉ tiêu",
+        "ipa": "ˈtɑɹɡət"
+      },
+      {
+        "en": "objective",
+        "vi": "mục tiêu",
+        "ipa": "əbˈdʒɛktɪv"
+      }
+    ],
+    "col": [
+      {
+        "en": "set a goal",
+        "vi": "đặt mục tiêu",
+        "ipa": "sɛt ə ɡoʊl"
+      },
+      {
+        "en": "reach a goal",
+        "vi": "đạt mục tiêu",
+        "ipa": "ɹitʃ ə ɡoʊl"
+      },
+      {
+        "en": "score a goal",
+        "vi": "ghi bàn",
+        "ipa": "skɔɹ ə ɡoʊl"
+      }
+    ]
+  },
+  {
+    "word": "success",
+    "ipa": "səkˈsɛs",
+    "def": "achieving what you wanted",
+    "vi": "sự thành công",
+    "viDef": "việc đạt được điều mình muốn",
+    "ex": "Congratulations on your success!",
+    "exHit": "success",
+    "exVi": "Chúc mừng thành công của bạn!",
+    "syn": [
+      {
+        "en": "achievement",
+        "vi": "thành tựu",
+        "ipa": "əˈtʃivmənt"
+      },
+      {
+        "en": "triumph",
+        "vi": "chiến thắng",
+        "ipa": "ˈtɹaɪəmf"
+      }
+    ],
+    "col": [
+      {
+        "en": "a big success",
+        "vi": "thành công lớn",
+        "ipa": "ə bɪɡ səkˈsɛs"
+      },
+      {
+        "en": "key to success",
+        "vi": "chìa khóa thành công",
+        "ipa": "ki tu səkˈsɛs"
+      },
+      {
+        "en": "success story",
+        "vi": "câu chuyện thành công",
+        "ipa": "səkˈsɛs ˈstɔɹi"
+      }
+    ]
+  },
+  {
+    "word": "lack",
+    "ipa": "læk",
+    "def": "not have enough of something",
+    "vi": "thiếu",
+    "viDef": "không có đủ thứ gì đó",
+    "ex": "He lacks confidence.",
+    "exHit": "lacks",
+    "exVi": "Anh ấy thiếu tự tin.",
+    "syn": [
+      {
+        "en": "be short of",
+        "vi": "thiếu",
+        "ipa": "bi ʃɔɹt ʌv"
+      },
+      {
+        "en": "be without",
+        "vi": "không có",
+        "ipa": "bi wɪˈθaʊt"
+      }
+    ],
+    "col": [
+      {
+        "en": "lack of sleep",
+        "vi": "thiếu ngủ",
+        "ipa": "læk ʌv slip"
+      },
+      {
+        "en": "lack of time",
+        "vi": "thiếu thời gian",
+        "ipa": "læk ʌv taɪm"
+      },
+      {
+        "en": "for lack of",
+        "vi": "vì thiếu",
+        "ipa": "fɔɹ læk ʌv"
+      }
+    ]
+  },
+  {
+    "word": "sister",
+    "ipa": "ˈsɪstɚ",
+    "def": "a girl with the same parents",
+    "vi": "chị gái, em gái",
+    "viDef": "con gái có cùng cha mẹ với mình",
+    "ex": "You mean your sister?",
+    "exHit": "sister",
+    "exVi": "Ý cậu là chị gái cậu à?",
+    "syn": [
+      {
+        "en": "sis",
+        "vi": "chị, em (thân mật)",
+        "ipa": "sɪs"
+      }
+    ],
+    "col": [
+      {
+        "en": "older sister",
+        "vi": "chị gái",
+        "ipa": "ˈoʊldɚ ˈsɪstɚ"
+      },
+      {
+        "en": "younger sister",
+        "vi": "em gái",
+        "ipa": "ˈjʌŋɡɚ ˈsɪstɚ"
+      },
+      {
+        "en": "little sister",
+        "vi": "em gái nhỏ",
+        "ipa": "ˈlɪtəl ˈsɪstɚ"
+      }
+    ],
+    "exEp": 350
+  },
+  {
+    "word": "dream",
+    "ipa": "dɹim",
+    "def": "something you really want to do",
+    "vi": "ước mơ, giấc mơ",
+    "viDef": "điều bạn rất muốn làm",
+    "ex": "It's my dream to visit Japan.",
+    "exHit": "dream",
+    "exVi": "Được đến Nhật là ước mơ của tôi.",
+    "syn": [
+      {
+        "en": "wish",
+        "vi": "mong ước",
+        "ipa": "wɪʃ"
+      },
+      {
+        "en": "hope",
+        "vi": "hy vọng",
+        "ipa": "hoʊp"
+      },
+      {
+        "en": "ambition",
+        "vi": "hoài bão",
+        "ipa": "æmˈbɪʃən"
+      }
+    ],
+    "col": [
+      {
+        "en": "dream come true",
+        "vi": "giấc mơ thành hiện thực",
+        "ipa": "dɹim kʌm tɹu"
+      },
+      {
+        "en": "dream job",
+        "vi": "công việc mơ ước",
+        "ipa": "dɹim dʒɑb"
+      },
+      {
+        "en": "the woman of my dreams",
+        "vi": "người con gái trong mộng",
+        "ipa": "ðə ˈwʊmən ʌv maɪ dɹimz"
+      }
+    ]
+  },
+  {
+    "word": "society",
+    "ipa": "səˈsaɪəti",
+    "def": "people living together in a community",
+    "vi": "xã hội",
+    "viDef": "con người sống chung trong một cộng đồng",
+    "ex": "To remove crime from society, you really have to tackle its causes.",
+    "exHit": "society",
+    "exVi": "Muốn loại bỏ tội phạm khỏi xã hội thì phải giải quyết tận gốc nguyên nhân của nó.",
+    "syn": [
+      {
+        "en": "community",
+        "vi": "cộng đồng",
+        "ipa": "kəˈmjunəti"
+      },
+      {
+        "en": "the public",
+        "vi": "công chúng",
+        "ipa": "ðə ˈpʌblɪk"
+      }
+    ],
+    "col": [
+      {
+        "en": "modern society",
+        "vi": "xã hội hiện đại",
+        "ipa": "ˈmɑdɚn səˈsaɪəti"
+      },
+      {
+        "en": "in society",
+        "vi": "trong xã hội",
+        "ipa": "ɪn səˈsaɪəti"
+      }
+    ],
+    "exEp": 144
+  },
+  {
+    "word": "technology",
+    "ipa": "tɛkˈnɑlədʒi",
+    "def": "scientific tools and machines",
+    "vi": "công nghệ",
+    "viDef": "máy móc và công cụ dựa trên khoa học",
+    "ex": "Yes, but technology is ever changing and technology is becoming obsolete faster and faster!",
+    "exHit": "technology",
+    "exVi": "Vâng, nhưng công nghệ luôn thay đổi và ngày càng lỗi thời nhanh hơn!",
+    "syn": [
+      {
+        "en": "tech",
+        "vi": "công nghệ (thân mật)",
+        "ipa": "tɛk"
+      }
+    ],
+    "col": [
+      {
+        "en": "new technology",
+        "vi": "công nghệ mới",
+        "ipa": "nu tɛkˈnɑlədʒi"
+      },
+      {
+        "en": "information technology",
+        "vi": "công nghệ thông tin",
+        "ipa": "ˌɪnfɚˈmeɪʃən tɛkˈnɑlədʒi"
+      },
+      {
+        "en": "technology company",
+        "vi": "công ty công nghệ",
+        "ipa": "tɛkˈnɑlədʒi ˈkʌmpəˌni"
+      }
+    ],
+    "exEp": 140
+  },
+  {
+    "word": "department",
+    "ipa": "dɪˈpɑɹtmənt",
+    "def": "a section of a company",
+    "vi": "phòng, ban",
+    "viDef": "một bộ phận của công ty",
+    "ex": "She works in the sales department.",
+    "exHit": "department",
+    "exVi": "Cô ấy làm ở phòng kinh doanh.",
+    "syn": [
+      {
+        "en": "division",
+        "vi": "bộ phận",
+        "ipa": "dɪˈvɪʒən"
+      },
+      {
+        "en": "section",
+        "vi": "bộ phận, ban",
+        "ipa": "ˈsɛkʃən"
+      }
+    ],
+    "col": [
+      {
+        "en": "sales department",
+        "vi": "phòng kinh doanh",
+        "ipa": "seɪlz dɪˈpɑɹtmənt"
+      },
+      {
+        "en": "department store",
+        "vi": "cửa hàng bách hóa",
+        "ipa": "dɪˈpɑɹtmənt stɔɹ"
+      },
+      {
+        "en": "HR department",
+        "vi": "phòng nhân sự",
+        "ipa": "ˈeɪˈtʃɑɹ dɪˈpɑɹtmənt"
+      }
+    ]
+  },
+  {
+    "word": "language",
+    "ipa": "ˈlæŋɡwədʒ",
+    "def": "the words people of a country speak",
+    "vi": "ngôn ngữ, tiếng",
+    "viDef": "hệ thống từ ngữ người một nước dùng để nói",
+    "ex": "How many languages do you speak?",
+    "exHit": "languages",
+    "exVi": "Bạn nói được mấy thứ tiếng?",
+    "syn": [
+      {
+        "en": "tongue",
+        "vi": "tiếng, ngôn ngữ",
+        "ipa": "tʌŋ"
+      }
+    ],
+    "col": [
+      {
+        "en": "foreign language",
+        "vi": "ngoại ngữ",
+        "ipa": "ˈfɔɹən ˈlæŋɡwədʒ"
+      },
+      {
+        "en": "body language",
+        "vi": "ngôn ngữ cơ thể",
+        "ipa": "ˈbɑdi ˈlæŋɡwədʒ"
+      },
+      {
+        "en": "bad language",
+        "vi": "lời lẽ thô tục",
+        "ipa": "bæd ˈlæŋɡwədʒ"
+      }
+    ]
+  },
+  {
+    "word": "gain",
+    "ipa": "ɡeɪn",
+    "def": "get more of something",
+    "vi": "tăng, có thêm",
+    "viDef": "có thêm thứ gì đó",
+    "ex": "Well I never seem to gain weight so I don't mind.",
+    "exHit": "gain",
+    "exVi": "Thì tớ có bao giờ tăng cân đâu nên tớ chẳng bận tâm.",
+    "syn": [
+      {
+        "en": "increase",
+        "vi": "tăng",
+        "ipa": "ɪnˈkɹis"
+      },
+      {
+        "en": "put on",
+        "vi": "tăng (cân)",
+        "ipa": "pʊt ɑn"
+      },
+      {
+        "en": "obtain",
+        "vi": "có được",
+        "ipa": "əbˈteɪn"
+      }
+    ],
+    "col": [
+      {
+        "en": "gain weight",
+        "vi": "tăng cân",
+        "ipa": "ɡeɪn weɪt"
+      },
+      {
+        "en": "gain experience",
+        "vi": "tích lũy kinh nghiệm",
+        "ipa": "ɡeɪn ɪkˈspɪɹiəns"
+      },
+      {
+        "en": "no pain, no gain",
+        "vi": "có khổ mới có thành",
+        "ipa": "noʊ peɪn noʊ ɡeɪn"
+      }
+    ],
+    "exEp": 361
+  },
+  {
+    "word": "deliver",
+    "ipa": "dɪˈlɪvɚ",
+    "def": "take things to a person or place",
+    "vi": "giao, đưa đến",
+    "viDef": "mang đồ đến cho ai hoặc nơi nào",
+    "ex": "I have presents to deliver!",
+    "exHit": "deliver",
+    "exVi": "Tôi còn quà phải đi giao!",
+    "syn": [
+      {
+        "en": "bring",
+        "vi": "mang đến",
+        "ipa": "bɹɪŋ"
+      },
+      {
+        "en": "drop off",
+        "vi": "đem đến, gửi lại",
+        "ipa": "dɹɑp ɔf"
+      },
+      {
+        "en": "ship",
+        "vi": "gửi hàng",
+        "ipa": "ʃɪp"
+      }
+    ],
+    "col": [
+      {
+        "en": "deliver a package",
+        "vi": "giao hàng",
+        "ipa": "dɪˈlɪvɚ ə ˈpækədʒ"
+      },
+      {
+        "en": "deliver a speech",
+        "vi": "đọc diễn văn",
+        "ipa": "dɪˈlɪvɚ ə spitʃ"
+      },
+      {
+        "en": "delivered to your door",
+        "vi": "giao tận nhà",
+        "ipa": "dɪˈlɪvɚd tu jɔɹ dɔɹ"
+      }
+    ],
+    "exEp": 19
+  },
+  {
+    "word": "culture",
+    "ipa": "ˈkʌltʃɚ",
+    "def": "customs and beliefs of a group",
+    "vi": "văn hóa",
+    "viDef": "phong tục và niềm tin của một cộng đồng",
+    "ex": "This is a very special day among many cultures around the world especially in Latin America",
+    "exHit": "cultures",
+    "exVi": "Đây là một ngày rất đặc biệt ở nhiều nền văn hóa trên thế giới, nhất là ở châu Mỹ Latinh.",
+    "syn": [
+      {
+        "en": "tradition",
+        "vi": "truyền thống",
+        "ipa": "tɹəˈdɪʃən"
+      }
+    ],
+    "col": [
+      {
+        "en": "pop culture",
+        "vi": "văn hóa đại chúng",
+        "ipa": "pɑp ˈkʌltʃɚ"
+      },
+      {
+        "en": "culture shock",
+        "vi": "sốc văn hóa",
+        "ipa": "ˈkʌltʃɚ ʃɑk"
+      },
+      {
+        "en": "different cultures",
+        "vi": "các nền văn hóa khác nhau",
+        "ipa": "ˈdɪfɚənt ˈkʌltʃɚz"
+      }
+    ],
+    "exEp": 158
+  },
+  {
+    "word": "sing",
+    "ipa": "sɪŋ",
+    "def": "make music with your voice",
+    "vi": "hát",
+    "viDef": "tạo ra âm nhạc bằng giọng",
+    "ex": "What fun it is to laugh and sing",
+    "exHit": "sing",
+    "exVi": "Cười và hát vui biết bao",
+    "col": [
+      {
+        "en": "sing a song",
+        "vi": "hát một bài",
+        "ipa": "sɪŋ ə sɔŋ"
+      },
+      {
+        "en": "sing along",
+        "vi": "hát theo",
+        "ipa": "sɪŋ əˈlɔŋ"
+      },
+      {
+        "en": "sing karaoke",
+        "vi": "hát karaoke",
+        "ipa": "sɪŋ ˌkɛɹiˈoʊki"
+      }
+    ],
+    "exEp": 180
+  },
+  {
+    "word": "dad",
+    "ipa": "dæd",
+    "def": "father (informal)",
+    "vi": "bố, ba",
+    "viDef": "cha (cách gọi thân mật)",
+    "ex": "Dad, I'd like to borrow some money.",
+    "exHit": "Dad",
+    "exVi": "Bố ơi, con muốn mượn bố ít tiền.",
+    "syn": [
+      {
+        "en": "father",
+        "vi": "cha",
+        "ipa": "ˈfɑðɚ"
+      },
+      {
+        "en": "daddy",
+        "vi": "bố (trẻ con hay gọi)",
+        "ipa": "ˈdædi"
+      }
+    ],
+    "col": [
+      {
+        "en": "my dad",
+        "vi": "bố tôi",
+        "ipa": "maɪ dæd"
+      },
+      {
+        "en": "mom and dad",
+        "vi": "bố mẹ",
+        "ipa": "mɑm ənd dæd"
+      }
+    ],
+    "exEp": 29
+  },
+  {
+    "word": "demand",
+    "ipa": "dɪˈmænd",
+    "def": "ask for something firmly",
+    "vi": "đòi, yêu cầu",
+    "viDef": "đòi hỏi điều gì một cách cứng rắn",
+    "ex": "The customers demanded a refund.",
+    "exHit": "demanded",
+    "exVi": "Khách hàng đòi hoàn tiền.",
+    "syn": [
+      {
+        "en": "insist on",
+        "vi": "khăng khăng đòi",
+        "ipa": "ɪnˈsɪst ɑn"
+      },
+      {
+        "en": "require",
+        "vi": "đòi hỏi",
+        "ipa": "ˌɹiˈkwaɪɚ"
+      },
+      {
+        "en": "request",
+        "vi": "yêu cầu (lịch sự)",
+        "ipa": "ɹɪˈkwɛst"
+      }
+    ],
+    "col": [
+      {
+        "en": "in demand",
+        "vi": "được săn đón",
+        "ipa": "ɪn dɪˈmænd"
+      },
+      {
+        "en": "demand an apology",
+        "vi": "đòi xin lỗi",
+        "ipa": "dɪˈmænd æn əˈpɑləˌdʒi"
+      },
+      {
+        "en": "on demand",
+        "vi": "theo yêu cầu",
+        "ipa": "ɑn dɪˈmænd"
+      }
+    ]
+  },
+  {
+    "word": "propose",
+    "ipa": "pɹəˈpoʊz",
+    "def": "ask someone to marry you",
+    "vi": "cầu hôn",
+    "viDef": "hỏi cưới ai đó",
+    "ex": "Well sir, I believe your fifth anniversary is a great time to propose!",
+    "exHit": "propose",
+    "exVi": "Thưa anh, tôi nghĩ kỷ niệm năm năm là thời điểm tuyệt vời để cầu hôn đấy!",
+    "syn": [
+      {
+        "en": "pop the question",
+        "vi": "cầu hôn (thân mật)",
+        "ipa": "pɑp ðə ˈkwɛstʃən"
+      }
+    ],
+    "col": [
+      {
+        "en": "propose to her",
+        "vi": "cầu hôn cô ấy",
+        "ipa": "pɹəˈpoʊz tu hɝ"
+      },
+      {
+        "en": "propose a toast",
+        "vi": "nâng ly chúc mừng",
+        "ipa": "pɹəˈpoʊz ə toʊst"
+      },
+      {
+        "en": "propose an idea",
+        "vi": "đề xuất ý tưởng",
+        "ipa": "pɹəˈpoʊz æn aɪˈdiə"
+      }
+    ],
+    "exEp": 290
+  },
+  {
+    "word": "church",
+    "ipa": "tʃɝtʃ",
+    "def": "a building for Christian worship",
+    "vi": "nhà thờ",
+    "viDef": "nơi người theo đạo Thiên Chúa đến cầu nguyện",
+    "ex": "Going to church might help as well!",
+    "exHit": "church",
+    "exVi": "Đi nhà thờ cũng có thể giúp ích đấy!",
+    "syn": [
+      {
+        "en": "chapel",
+        "vi": "nhà nguyện",
+        "ipa": "ˈtʃæpəl"
+      }
+    ],
+    "col": [
+      {
+        "en": "go to church",
+        "vi": "đi lễ nhà thờ",
+        "ipa": "ɡoʊ tu tʃɝtʃ"
+      },
+      {
+        "en": "church wedding",
+        "vi": "đám cưới ở nhà thờ",
+        "ipa": "tʃɝtʃ ˈwɛdɪŋ"
+      }
+    ],
+    "exEp": 320
+  },
+  {
+    "word": "achieve",
+    "ipa": "əˈtʃiv",
+    "def": "succeed in reaching a goal",
+    "vi": "đạt được",
+    "viDef": "thành công đạt tới một mục tiêu",
+    "ex": "You can achieve anything if you work hard.",
+    "exHit": "achieve",
+    "exVi": "Nếu chăm chỉ thì bạn có thể đạt được bất cứ điều gì.",
+    "syn": [
+      {
+        "en": "accomplish",
+        "vi": "hoàn thành",
+        "ipa": "əˈkɑmplɪʃ"
+      },
+      {
+        "en": "reach",
+        "vi": "đạt tới",
+        "ipa": "ɹitʃ"
+      },
+      {
+        "en": "attain",
+        "vi": "đạt được (trang trọng)",
+        "ipa": "əˈteɪn"
+      }
+    ],
+    "col": [
+      {
+        "en": "achieve a goal",
+        "vi": "đạt mục tiêu",
+        "ipa": "əˈtʃiv ə ɡoʊl"
+      },
+      {
+        "en": "achieve success",
+        "vi": "đạt được thành công",
+        "ipa": "əˈtʃiv səkˈsɛs"
+      },
+      {
+        "en": "achieve your dreams",
+        "vi": "thực hiện ước mơ",
+        "ipa": "əˈtʃiv jɔɹ dɹimz"
+      }
+    ]
+  },
+  {
+    "word": "shape",
+    "ipa": "ʃeɪp",
+    "def": "condition, especially of fitness",
+    "vi": "vóc dáng, thể trạng",
+    "viDef": "tình trạng, nhất là về sức khỏe thể chất",
+    "ex": "Sounds like you are really getting in shape!",
+    "exHit": "shape",
+    "exVi": "Nghe như mày đang vào form thật rồi đấy!",
+    "syn": [
+      {
+        "en": "condition",
+        "vi": "tình trạng",
+        "ipa": "kənˈdɪʃən"
+      },
+      {
+        "en": "form",
+        "vi": "phong độ",
+        "ipa": "fɔɹm"
+      },
+      {
+        "en": "fitness",
+        "vi": "thể lực",
+        "ipa": "ˈfɪtnəs"
+      }
+    ],
+    "col": [
+      {
+        "en": "get in shape",
+        "vi": "lấy lại vóc dáng",
+        "ipa": "ɡɛt ɪn ʃeɪp"
+      },
+      {
+        "en": "in good shape",
+        "vi": "trong tình trạng tốt",
+        "ipa": "ɪn ɡʊd ʃeɪp"
+      },
+      {
+        "en": "out of shape",
+        "vi": "mất dáng, kém thể lực",
+        "ipa": "aʊt ʌv ʃeɪp"
+      }
+    ],
+    "exEp": 345
+  },
+  {
+    "word": "prove",
+    "ipa": "pɹuv",
+    "def": "show something is true",
+    "vi": "chứng minh, chứng tỏ",
+    "viDef": "cho thấy điều gì là đúng",
+    "ex": "Can you prove it?",
+    "exHit": "prove",
+    "exVi": "Anh chứng minh được không?",
+    "syn": [
+      {
+        "en": "show",
+        "vi": "cho thấy",
+        "ipa": "ʃoʊ"
+      },
+      {
+        "en": "demonstrate",
+        "vi": "chứng minh",
+        "ipa": "ˈdɛmənˌstɹeɪt"
+      },
+      {
+        "en": "confirm",
+        "vi": "xác nhận",
+        "ipa": "kənˈfɝm"
+      }
+    ],
+    "col": [
+      {
+        "en": "prove it",
+        "vi": "chứng minh đi",
+        "ipa": "pɹuv ɪt"
+      },
+      {
+        "en": "prove yourself",
+        "vi": "chứng tỏ bản thân",
+        "ipa": "pɹuv jɚˈsɛlf"
+      },
+      {
+        "en": "prove someone wrong",
+        "vi": "chứng minh ai đó sai",
+        "ipa": "pɹuv ˈsʌmwʌn ɹɔŋ"
+      }
+    ]
+  },
+  {
+    "word": "unfortunately",
+    "ipa": "ənˈfɔɹtʃənətli",
+    "def": "sadly; I'm sorry to say",
+    "vi": "thật không may, tiếc là",
+    "viDef": "đáng tiếc là",
+    "ex": "Yes, we do, unfortunately we ran out of cars.",
+    "exHit": "unfortunately",
+    "exVi": "Có, chúng tôi có, nhưng tiếc là chúng tôi hết xe rồi.",
+    "syn": [
+      {
+        "en": "sadly",
+        "vi": "buồn là",
+        "ipa": "ˈsædli"
+      },
+      {
+        "en": "unluckily",
+        "vi": "không may",
+        "ipa": "ənˈlʌkəli"
+      }
+    ],
+    "exEp": 138
+  },
+  {
+    "word": "glad",
+    "ipa": "ɡlæd",
+    "def": "happy and pleased",
+    "vi": "vui, mừng",
+    "viDef": "vui vẻ và hài lòng",
+    "ex": "I'm so glad you came!",
+    "exHit": "glad",
+    "exVi": "Tớ mừng quá vì cậu đã đến!",
+    "syn": [
+      {
+        "en": "happy",
+        "vi": "vui",
+        "ipa": "ˈhæpi"
+      },
+      {
+        "en": "pleased",
+        "vi": "hài lòng",
+        "ipa": "plizd"
+      },
+      {
+        "en": "delighted",
+        "vi": "rất vui",
+        "ipa": "dɪˈlaɪtəd"
+      }
+    ],
+    "col": [
+      {
+        "en": "glad to see you",
+        "vi": "vui được gặp bạn",
+        "ipa": "ɡlæd tu si ju"
+      },
+      {
+        "en": "glad to hear",
+        "vi": "mừng khi nghe",
+        "ipa": "ɡlæd tu hiɹ"
+      },
+      {
+        "en": "I'm glad",
+        "vi": "tôi mừng là",
+        "ipa": "aɪm ɡlæd"
+      }
+    ],
+    "exEp": 112
+  },
+  {
+    "word": "cent",
+    "ipa": "sɛnt",
+    "def": "one hundredth of a dollar",
+    "vi": "xu",
+    "viDef": "một phần trăm của một đô la",
+    "ex": "Your total is forty three dollars and twenty cents.",
+    "exHit": "cents",
+    "exVi": "Tổng cộng là bốn mươi ba đô hai mươi xu ạ.",
+    "syn": [
+      {
+        "en": "penny",
+        "vi": "đồng một xu",
+        "ipa": "ˈpɛni"
+      }
+    ],
+    "col": [
+      {
+        "en": "per cent",
+        "vi": "phần trăm",
+        "ipa": "pɝ sɛnt"
+      },
+      {
+        "en": "every cent",
+        "vi": "từng xu",
+        "ipa": "ˈɛvɚi sɛnt"
+      },
+      {
+        "en": "fifty cents",
+        "vi": "năm mươi xu",
+        "ipa": "ˈfɪfti sɛnts"
+      }
+    ],
+    "exEp": 329
+  },
+  {
+    "word": "search",
+    "ipa": "sɝtʃ",
+    "def": "look carefully for something",
+    "vi": "tìm kiếm",
+    "viDef": "nhìn kỹ để tìm thứ gì đó",
+    "ex": "Your ship attacked our search party...",
+    "exHit": "search",
+    "exVi": "Tàu của các người đã tấn công đội tìm kiếm của chúng tôi...",
+    "syn": [
+      {
+        "en": "look for",
+        "vi": "tìm",
+        "ipa": "lʊk fɔɹ"
+      },
+      {
+        "en": "hunt",
+        "vi": "lùng tìm",
+        "ipa": "hʌnt"
+      },
+      {
+        "en": "seek",
+        "vi": "tìm kiếm (trang trọng)",
+        "ipa": "sik"
+      }
+    ],
+    "col": [
+      {
+        "en": "search for",
+        "vi": "tìm kiếm",
+        "ipa": "sɝtʃ fɔɹ"
+      },
+      {
+        "en": "search engine",
+        "vi": "công cụ tìm kiếm",
+        "ipa": "sɝtʃ ˈɛndʒən"
+      },
+      {
+        "en": "search party",
+        "vi": "đội tìm kiếm",
+        "ipa": "sɝtʃ ˈpɑɹti"
+      }
+    ],
+    "exEp": 87
+  },
+  {
+    "word": "excellent",
+    "ipa": "ˈɛksələnt",
+    "def": "extremely good",
+    "vi": "xuất sắc, tuyệt vời",
+    "viDef": "cực kỳ tốt",
+    "ex": "A one means his achievement or work is excellent.",
+    "exHit": "excellent",
+    "exVi": "Điểm một nghĩa là thành tích hay bài làm của em ấy xuất sắc.",
+    "syn": [
+      {
+        "en": "outstanding",
+        "vi": "nổi bật",
+        "ipa": "ˌaʊtˈstændɪŋ"
+      },
+      {
+        "en": "great",
+        "vi": "tuyệt",
+        "ipa": "ɡɹeɪt"
+      },
+      {
+        "en": "superb",
+        "vi": "tuyệt hảo",
+        "ipa": "sʊˈpɝb"
+      }
+    ],
+    "col": [
+      {
+        "en": "excellent idea",
+        "vi": "ý tưởng tuyệt vời",
+        "ipa": "ˈɛksələnt aɪˈdiə"
+      },
+      {
+        "en": "excellent choice",
+        "vi": "lựa chọn tuyệt vời",
+        "ipa": "ˈɛksələnt tʃɔɪs"
+      },
+      {
+        "en": "in excellent condition",
+        "vi": "trong tình trạng rất tốt",
+        "ipa": "ɪn ˈɛksələnt kənˈdɪʃən"
+      }
+    ],
+    "exEp": 326
+  },
+  {
+    "word": "central",
+    "ipa": "ˈsɛntɹəl",
+    "def": "in the middle or main part",
+    "vi": "trung tâm, ở giữa",
+    "viDef": "ở giữa hoặc ở phần chính",
+    "ex": "The hotel is in central London.",
+    "exHit": "central",
+    "exVi": "Khách sạn nằm ở trung tâm London.",
+    "syn": [
+      {
+        "en": "main",
+        "vi": "chính",
+        "ipa": "meɪn"
+      },
+      {
+        "en": "middle",
+        "vi": "ở giữa",
+        "ipa": "ˈmɪdəl"
+      },
+      {
+        "en": "downtown",
+        "vi": "trung tâm thành phố",
+        "ipa": "ˈdaʊnˈtaʊn"
+      }
+    ],
+    "col": [
+      {
+        "en": "central heating",
+        "vi": "hệ thống sưởi trung tâm",
+        "ipa": "ˈsɛntɹəl ˈhitɪŋ"
+      },
+      {
+        "en": "central location",
+        "vi": "vị trí trung tâm",
+        "ipa": "ˈsɛntɹəl loʊˈkeɪʃən"
+      },
+      {
+        "en": "central station",
+        "vi": "ga trung tâm",
+        "ipa": "ˈsɛntɹəl ˈsteɪʃən"
+      }
+    ]
+  },
+  {
+    "word": "similar",
+    "ipa": "ˈsɪməlɚ",
+    "def": "almost the same",
+    "vi": "giống, tương tự",
+    "viDef": "gần như giống nhau",
+    "ex": "Your bag is similar to mine.",
+    "exHit": "similar",
+    "exVi": "Túi của bạn giống túi của tôi.",
+    "syn": [
+      {
+        "en": "alike",
+        "vi": "giống nhau",
+        "ipa": "əˈlaɪk"
+      },
+      {
+        "en": "like",
+        "vi": "giống như",
+        "ipa": "laɪk"
+      },
+      {
+        "en": "comparable",
+        "vi": "tương đương",
+        "ipa": "ˈkɑmpɚəbəl"
+      }
+    ],
+    "col": [
+      {
+        "en": "similar to",
+        "vi": "giống với",
+        "ipa": "ˈsɪməlɚ tu"
+      },
+      {
+        "en": "very similar",
+        "vi": "rất giống",
+        "ipa": "ˈvɛɹi ˈsɪməlɚ"
+      }
+    ]
+  },
+  {
+    "word": "officer",
+    "ipa": "ˈɔfəsɚ",
+    "def": "a police officer",
+    "vi": "sĩ quan, cảnh sát",
+    "viDef": "một nhân viên cảnh sát",
+    "ex": "Alright, Officer McGraw, Give it to me straight, what are we looking at here?",
+    "exHit": "Officer",
+    "exVi": "Được rồi, sĩ quan McGraw, nói thẳng cho tôi nghe, chúng ta đang gặp chuyện gì đây?",
+    "syn": [
+      {
+        "en": "cop",
+        "vi": "cảnh sát (thân mật)",
+        "ipa": "kɑp"
+      },
+      {
+        "en": "policeman",
+        "vi": "cảnh sát",
+        "ipa": "pəˈlismən"
+      }
+    ],
+    "col": [
+      {
+        "en": "police officer",
+        "vi": "cảnh sát",
+        "ipa": "pəˈlis ˈɔfəsɚ"
+      },
+      {
+        "en": "yes, officer",
+        "vi": "vâng, thưa anh cảnh sát",
+        "ipa": "jɛs ˈɔfəsɚ"
+      }
+    ],
+    "exEp": 224
+  },
+  {
+    "word": "political",
+    "ipa": "pəˈlɪtəkəl",
+    "def": "relating to government and power",
+    "vi": "(thuộc) chính trị",
+    "viDef": "liên quan đến chính phủ và quyền lực",
+    "ex": "I don't like talking about political issues.",
+    "exHit": "political",
+    "exVi": "Tôi không thích nói chuyện chính trị.",
+    "col": [
+      {
+        "en": "political party",
+        "vi": "đảng phái chính trị",
+        "ipa": "pəˈlɪtəkəl ˈpɑɹti"
+      },
+      {
+        "en": "political views",
+        "vi": "quan điểm chính trị",
+        "ipa": "pəˈlɪtəkəl vjuz"
+      }
+    ]
+  },
+  {
+    "word": "earth",
+    "ipa": "ɝθ",
+    "def": "the planet we live on",
+    "vi": "Trái Đất",
+    "viDef": "hành tinh chúng ta đang sống",
+    "ex": "The earth goes around the sun.",
+    "exHit": "earth",
+    "exVi": "Trái Đất quay quanh Mặt Trời.",
+    "syn": [
+      {
+        "en": "world",
+        "vi": "thế giới",
+        "ipa": "wɝld"
+      },
+      {
+        "en": "planet",
+        "vi": "hành tinh",
+        "ipa": "ˈplænət"
+      }
+    ],
+    "col": [
+      {
+        "en": "on earth",
+        "vi": "trên đời",
+        "ipa": "ɑn ɝθ"
+      },
+      {
+        "en": "why on earth",
+        "vi": "sao lại… chứ (ngạc nhiên)",
+        "ipa": "waɪ ɑn ɝθ"
+      },
+      {
+        "en": "down to earth",
+        "vi": "thực tế, giản dị",
+        "ipa": "daʊn tu ɝθ"
+      }
+    ]
+  },
+  {
+    "word": "shoe",
+    "ipa": "ʃu",
+    "def": "a covering worn on your foot",
+    "vi": "giày",
+    "viDef": "thứ mang ở chân",
+    "ex": "Ok, these are a very nice pair of leather shoes with a two-inch heel so they are very comfortable.",
+    "exHit": "shoes",
+    "exVi": "Dạ, đôi này là giày da rất đẹp, gót cao năm phân nên mang rất êm ạ.",
+    "col": [
+      {
+        "en": "pair of shoes",
+        "vi": "đôi giày",
+        "ipa": "pɛɹ ʌv ʃuz"
+      },
+      {
+        "en": "running shoes",
+        "vi": "giày chạy bộ",
+        "ipa": "ˈɹʌnɪŋ ʃuz"
+      },
+      {
+        "en": "in my shoes",
+        "vi": "ở vào hoàn cảnh của tôi",
+        "ipa": "ɪn maɪ ʃuz"
+      }
+    ],
+    "exEp": 231
+  },
+  {
+    "word": "introduce",
+    "ipa": "ˌɪntɹəˈdus",
+    "def": "present one person to another",
+    "vi": "giới thiệu",
+    "viDef": "giới thiệu người này với người kia",
+    "ex": "Tony, I'd like to introduce you to your new assistant.",
+    "exHit": "introduce",
+    "exVi": "Tony, tôi muốn giới thiệu với anh trợ lý mới của anh.",
+    "syn": [
+      {
+        "en": "present",
+        "vi": "giới thiệu (trang trọng)",
+        "ipa": "ˈpɹɛzənt"
+      }
+    ],
+    "col": [
+      {
+        "en": "introduce yourself",
+        "vi": "tự giới thiệu",
+        "ipa": "ˌɪntɹəˈdus jɚˈsɛlf"
+      },
+      {
+        "en": "let me introduce",
+        "vi": "cho phép tôi giới thiệu",
+        "ipa": "lɛt mi ˌɪntɹəˈdus"
+      },
+      {
+        "en": "introduce you to",
+        "vi": "giới thiệu bạn với",
+        "ipa": "ˌɪntɹəˈdus ju tu"
+      }
+    ],
+    "exEp": 4
+  },
+  {
+    "word": "waste",
+    "ipa": "weɪst",
+    "def": "using something badly or for nothing",
+    "vi": "sự lãng phí",
+    "viDef": "việc dùng thứ gì đó một cách vô ích",
+    "ex": "Ok, well, when you put it that way, it doesn't seem like a waste of time and money.",
+    "exHit": "waste",
+    "exVi": "Ừ, nghe anh nói vậy thì cũng không có vẻ phí thời gian với tiền bạc lắm.",
+    "syn": [
+      {
+        "en": "misuse",
+        "vi": "sự dùng sai",
+        "ipa": "mɪsˈjuz"
+      }
+    ],
+    "col": [
+      {
+        "en": "waste of time",
+        "vi": "phí thời gian",
+        "ipa": "weɪst ʌv taɪm"
+      },
+      {
+        "en": "wasted space",
+        "vi": "không gian bỏ phí",
+        "ipa": "ˈweɪstɪd speɪs"
+      },
+      {
+        "en": "go to waste",
+        "vi": "bị bỏ phí",
+        "ipa": "ɡoʊ tu weɪst"
+      }
+    ],
+    "exEp": 284
+  },
+  {
+    "word": "damage",
+    "ipa": "ˈdæmədʒ",
+    "def": "physical harm done to something",
+    "vi": "thiệt hại, hư hại",
+    "viDef": "sự hư hỏng gây ra cho vật gì",
+    "ex": "Damage report.",
+    "exHit": "Damage",
+    "exVi": "Báo cáo thiệt hại.",
+    "syn": [
+      {
+        "en": "harm",
+        "vi": "tổn hại",
+        "ipa": "hɑɹm"
+      },
+      {
+        "en": "destruction",
+        "vi": "sự tàn phá",
+        "ipa": "dɪˈstɹʌkʃən"
+      }
+    ],
+    "col": [
+      {
+        "en": "cause damage",
+        "vi": "gây thiệt hại",
+        "ipa": "kɑz ˈdæmədʒ"
+      },
+      {
+        "en": "brain damage",
+        "vi": "tổn thương não",
+        "ipa": "bɹeɪn ˈdæmədʒ"
+      },
+      {
+        "en": "damage control",
+        "vi": "kiểm soát thiệt hại",
+        "ipa": "ˈdæmədʒ kənˈtɹoʊl"
+      }
+    ],
+    "exEp": 87
+  },
+  {
+    "word": "appear",
+    "ipa": "əˈpɪɹ",
+    "def": "come into sight",
+    "vi": "xuất hiện, hiện ra",
+    "viDef": "bắt đầu được nhìn thấy",
+    "ex": "He didn't appear at the meeting this morning.",
+    "exHit": "appear",
+    "exVi": "Sáng nay anh ấy không xuất hiện ở cuộc họp.",
+    "syn": [
+      {
+        "en": "show up",
+        "vi": "xuất hiện, có mặt",
+        "ipa": "ʃoʊ ʌp"
+      },
+      {
+        "en": "turn up",
+        "vi": "xuất hiện",
+        "ipa": "tɝn ʌp"
+      },
+      {
+        "en": "emerge",
+        "vi": "hiện ra",
+        "ipa": "ɪˈmɝdʒ"
+      }
+    ],
+    "col": [
+      {
+        "en": "appear on TV",
+        "vi": "lên TV",
+        "ipa": "əˈpɪɹ ɑn ˈtiˈvi"
+      },
+      {
+        "en": "suddenly appear",
+        "vi": "bỗng xuất hiện",
+        "ipa": "ˈsʌdənli əˈpɪɹ"
+      },
+      {
+        "en": "it appears that",
+        "vi": "có vẻ như",
+        "ipa": "ɪt əˈpɪɹz ðæt"
+      }
+    ]
+  },
+  {
+    "word": "ticket",
+    "ipa": "ˈtɪkət",
+    "def": "paper that lets you travel or enter",
+    "vi": "vé",
+    "viDef": "giấy cho phép đi xe hoặc vào cửa",
+    "ex": "That's more than my round-trip ticket!",
+    "exHit": "ticket",
+    "exVi": "Số đó còn nhiều hơn cả vé khứ hồi của tôi!",
+    "syn": [
+      {
+        "en": "pass",
+        "vi": "thẻ vào cửa",
+        "ipa": "pæs"
+      }
+    ],
+    "col": [
+      {
+        "en": "round-trip ticket",
+        "vi": "vé khứ hồi",
+        "ipa": "ɹaʊnd tɹɪp ˈtɪkət"
+      },
+      {
+        "en": "buy a ticket",
+        "vi": "mua vé",
+        "ipa": "baɪ ə ˈtɪkət"
+      },
+      {
+        "en": "movie ticket",
+        "vi": "vé xem phim",
+        "ipa": "ˈmuvi ˈtɪkət"
+      }
+    ],
+    "exEp": 89
+  },
+  {
+    "word": "entire",
+    "ipa": "ɪnˈtaɪɚ",
+    "def": "whole; complete",
+    "vi": "toàn bộ, cả",
+    "viDef": "toàn bộ; trọn vẹn",
+    "ex": "We will have to cover the entire house and fumigate it.",
+    "exHit": "entire",
+    "exVi": "Chúng tôi sẽ phải trùm kín cả căn nhà rồi hun khói diệt côn trùng.",
+    "syn": [
+      {
+        "en": "whole",
+        "vi": "toàn bộ",
+        "ipa": "hoʊl"
+      },
+      {
+        "en": "complete",
+        "vi": "trọn vẹn",
+        "ipa": "kəmˈplit"
+      },
+      {
+        "en": "total",
+        "vi": "tổng thể",
+        "ipa": "ˈtoʊtəl"
+      }
+    ],
+    "col": [
+      {
+        "en": "the entire day",
+        "vi": "cả ngày",
+        "ipa": "ðə ɪnˈtaɪɚ deɪ"
+      },
+      {
+        "en": "my entire life",
+        "vi": "cả đời tôi",
+        "ipa": "maɪ ɪnˈtaɪɚ laɪf"
+      },
+      {
+        "en": "the entire world",
+        "vi": "cả thế giới",
+        "ipa": "ðə ɪnˈtaɪɚ wɝld"
+      }
+    ],
+    "exEp": 265
+  },
+  {
+    "word": "relax",
+    "ipa": "ɹɪˈlæks",
+    "def": "rest and become calm",
+    "vi": "thư giãn, bình tĩnh",
+    "viDef": "nghỉ ngơi và trở nên bình tĩnh",
+    "ex": "Relax, it was just a goat!",
+    "exHit": "Relax",
+    "exVi": "Yên tâm, chỉ là con dê thôi!",
+    "syn": [
+      {
+        "en": "calm down",
+        "vi": "bình tĩnh",
+        "ipa": "kɑm daʊn"
+      },
+      {
+        "en": "chill out",
+        "vi": "xả hơi (thân mật)",
+        "ipa": "tʃɪl aʊt"
+      },
+      {
+        "en": "unwind",
+        "vi": "thư giãn",
+        "ipa": "ənˈwaɪnd"
+      }
+    ],
+    "col": [
+      {
+        "en": "just relax",
+        "vi": "cứ thư giãn đi",
+        "ipa": "dʒʌst ɹɪˈlæks"
+      },
+      {
+        "en": "relax and enjoy",
+        "vi": "thư giãn và tận hưởng",
+        "ipa": "ɹɪˈlæks ənd ɛnˈdʒɔɪ"
+      },
+      {
+        "en": "sit back and relax",
+        "vi": "ngồi thư giãn",
+        "ipa": "sɪt bæk ənd ɹɪˈlæks"
+      }
+    ],
+    "exEp": 185
+  },
+  {
+    "word": "individual",
+    "ipa": "ˌɪndəˈvɪdʒəwəl",
+    "def": "for one single person",
+    "vi": "cá nhân, riêng từng người",
+    "viDef": "dành cho từng người riêng lẻ",
+    "ex": "I have the results of your individual personality tests.",
+    "exHit": "individual",
+    "exVi": "Tôi có kết quả bài kiểm tra tính cách của từng người.",
+    "syn": [
+      {
+        "en": "personal",
+        "vi": "cá nhân",
+        "ipa": "ˈpɝsɪnəl"
+      },
+      {
+        "en": "separate",
+        "vi": "riêng biệt",
+        "ipa": "ˈsɛpɚˌeɪt"
+      },
+      {
+        "en": "single",
+        "vi": "đơn lẻ",
+        "ipa": "ˈsɪŋɡəl"
+      }
+    ],
+    "col": [
+      {
+        "en": "individual needs",
+        "vi": "nhu cầu riêng",
+        "ipa": "ˌɪndəˈvɪdʒəwəl nidz"
+      },
+      {
+        "en": "individual attention",
+        "vi": "sự quan tâm riêng",
+        "ipa": "ˌɪndəˈvɪdʒəwəl əˈtɛnʃən"
+      }
+    ],
+    "exEp": 214
+  },
+  {
+    "word": "settle",
+    "ipa": "ˈsɛtəl",
+    "def": "resolve an argument or problem",
+    "vi": "giải quyết, dàn xếp",
+    "viDef": "giải quyết một cuộc tranh cãi hay vấn đề",
+    "ex": "It's time you and I settled this once and for all!",
+    "exHit": "settled",
+    "exVi": "Đã đến lúc ngươi và ta giải quyết chuyện này một lần cho xong!",
+    "syn": [
+      {
+        "en": "resolve",
+        "vi": "giải quyết",
+        "ipa": "ɹiˈzɑlv"
+      },
+      {
+        "en": "sort out",
+        "vi": "giải quyết cho ổn",
+        "ipa": "sɔɹt aʊt"
+      }
+    ],
+    "col": [
+      {
+        "en": "settle down",
+        "vi": "ổn định; bình tĩnh lại",
+        "ipa": "ˈsɛtəl daʊn"
+      },
+      {
+        "en": "settle the bill",
+        "vi": "thanh toán hóa đơn",
+        "ipa": "ˈsɛtəl ðə bɪl"
+      },
+      {
+        "en": "settle in",
+        "vi": "ổn định chỗ mới",
+        "ipa": "ˈsɛtəl ɪn"
+      }
+    ],
+    "exEp": 79
+  },
+  {
+    "word": "release",
+    "ipa": "ɹiˈlis",
+    "def": "make public or available",
+    "vi": "công bố, phát hành",
+    "viDef": "công khai hoặc đưa ra cho mọi người",
+    "ex": "Authorities have not yet released an official statement.",
+    "exHit": "released",
+    "exVi": "Nhà chức trách vẫn chưa đưa ra tuyên bố chính thức.",
+    "syn": [
+      {
+        "en": "publish",
+        "vi": "công bố",
+        "ipa": "ˈpʌblɪʃ"
+      },
+      {
+        "en": "announce",
+        "vi": "thông báo",
+        "ipa": "əˈnaʊns"
+      },
+      {
+        "en": "launch",
+        "vi": "ra mắt",
+        "ipa": "lɔntʃ"
+      }
+    ],
+    "col": [
+      {
+        "en": "release a statement",
+        "vi": "ra thông cáo",
+        "ipa": "ɹiˈlis ə ˈsteɪtmənt"
+      },
+      {
+        "en": "release a movie",
+        "vi": "công chiếu phim",
+        "ipa": "ɹiˈlis ə ˈmuvi"
+      },
+      {
+        "en": "press release",
+        "vi": "thông cáo báo chí",
+        "ipa": "pɹɛs ɹiˈlis"
+      }
+    ],
+    "exEp": 192
+  },
+  {
+    "word": "fresh",
+    "ipa": "fɹɛʃ",
+    "def": "new, clean, or just made",
+    "vi": "tươi, trong lành, mới",
+    "viDef": "mới, sạch hoặc vừa làm xong",
+    "ex": "I decided to take Kenny to the park and get some fresh air.",
+    "exHit": "fresh",
+    "exVi": "Anh quyết định đưa Kenny ra công viên hít thở không khí trong lành.",
+    "syn": [
+      {
+        "en": "new",
+        "vi": "mới",
+        "ipa": "nu"
+      },
+      {
+        "en": "clean",
+        "vi": "sạch",
+        "ipa": "klin"
+      },
+      {
+        "en": "crisp",
+        "vi": "tươi giòn",
+        "ipa": "kɹɪsp"
+      }
+    ],
+    "col": [
+      {
+        "en": "fresh air",
+        "vi": "không khí trong lành",
+        "ipa": "fɹɛʃ ɛɹ"
+      },
+      {
+        "en": "fresh start",
+        "vi": "khởi đầu mới",
+        "ipa": "fɹɛʃ stɑɹt"
+      },
+      {
+        "en": "fresh fruit",
+        "vi": "trái cây tươi",
+        "ipa": "fɹɛʃ fɹut"
+      }
+    ],
+    "exEp": 335
+  },
+  {
+    "word": "fear",
+    "ipa": "fɪɹ",
+    "def": "the feeling of being afraid",
+    "vi": "nỗi sợ, sự sợ hãi",
+    "viDef": "cảm giác sợ hãi",
+    "ex": "I have a chronic fear of flying.",
+    "exHit": "fear",
+    "exVi": "Tôi bị chứng sợ đi máy bay kinh niên.",
+    "syn": [
+      {
+        "en": "fright",
+        "vi": "sự hoảng sợ",
+        "ipa": "fɹaɪt"
+      },
+      {
+        "en": "terror",
+        "vi": "nỗi kinh hoàng",
+        "ipa": "ˈtɛɹɚ"
+      },
+      {
+        "en": "dread",
+        "vi": "nỗi khiếp sợ",
+        "ipa": "dɹɛd"
+      }
+    ],
+    "col": [
+      {
+        "en": "fear of flying",
+        "vi": "sợ đi máy bay",
+        "ipa": "fɪɹ ʌv ˈflaɪɪŋ"
+      },
+      {
+        "en": "fear of heights",
+        "vi": "sợ độ cao",
+        "ipa": "fɪɹ ʌv haɪts"
+      },
+      {
+        "en": "never fear",
+        "vi": "đừng lo",
+        "ipa": "ˈnɛvɚ fɪɹ"
+      }
+    ],
+    "exEp": 302
+  },
+  {
+    "word": "aim",
+    "ipa": "eɪm",
+    "def": "a purpose; what you want to achieve",
+    "vi": "mục đích, mục tiêu",
+    "viDef": "mục đích; điều mình muốn đạt được",
+    "ex": "Our aim is to finish by Friday.",
+    "exHit": "aim",
+    "exVi": "Mục tiêu của chúng ta là xong trước thứ Sáu.",
+    "syn": [
+      {
+        "en": "goal",
+        "vi": "mục tiêu",
+        "ipa": "ɡoʊl"
+      },
+      {
+        "en": "purpose",
+        "vi": "mục đích",
+        "ipa": "ˈpɝpəs"
+      },
+      {
+        "en": "target",
+        "vi": "chỉ tiêu",
+        "ipa": "ˈtɑɹɡət"
+      }
+    ],
+    "col": [
+      {
+        "en": "aim to",
+        "vi": "nhắm tới, dự định",
+        "ipa": "eɪm tu"
+      },
+      {
+        "en": "take aim",
+        "vi": "nhắm bắn",
+        "ipa": "teɪk eɪm"
+      },
+      {
+        "en": "main aim",
+        "vi": "mục đích chính",
+        "ipa": "meɪn eɪm"
+      }
+    ]
+  },
+  {
+    "word": "aware",
+    "ipa": "əˈwɛɹ",
+    "def": "knowing that something exists",
+    "vi": "biết, nhận thức được",
+    "viDef": "biết rằng điều gì đó tồn tại",
+    "ex": "As all of you are well aware, competition in the laptop computer sector is intense.",
+    "exHit": "aware",
+    "exVi": "Như tất cả các bạn đều biết rõ, cạnh tranh trong lĩnh vực máy tính xách tay rất khốc liệt.",
+    "syn": [
+      {
+        "en": "conscious",
+        "vi": "ý thức được",
+        "ipa": "ˈkɑnʃəs"
+      },
+      {
+        "en": "informed",
+        "vi": "nắm được thông tin",
+        "ipa": "ɪnˈfɔɹmd"
+      }
+    ],
+    "col": [
+      {
+        "en": "aware of",
+        "vi": "biết về",
+        "ipa": "əˈwɛɹ ʌv"
+      },
+      {
+        "en": "well aware",
+        "vi": "biết rõ",
+        "ipa": "wɛl əˈwɛɹ"
+      },
+      {
+        "en": "as far as I'm aware",
+        "vi": "theo như tôi biết",
+        "ipa": "æz fɑɹ æz aɪm əˈwɛɹ"
+      }
+    ],
+    "exEp": 274
+  },
+  {
+    "word": "payment",
+    "ipa": "ˈpeɪmənt",
+    "def": "money paid for something",
+    "vi": "khoản thanh toán, tiền trả",
+    "viDef": "số tiền trả cho thứ gì đó",
+    "ex": "I didn't want the payment to be overdue.",
+    "exHit": "payment",
+    "exVi": "Tôi không muốn bị trễ hạn thanh toán.",
+    "syn": [
+      {
+        "en": "fee",
+        "vi": "phí",
+        "ipa": "fi"
+      },
+      {
+        "en": "installment",
+        "vi": "khoản trả góp",
+        "ipa": "ˌɪnˈstɔlmənt"
+      }
+    ],
+    "col": [
+      {
+        "en": "make a payment",
+        "vi": "thanh toán",
+        "ipa": "meɪk ə ˈpeɪmənt"
+      },
+      {
+        "en": "monthly payment",
+        "vi": "khoản trả hằng tháng",
+        "ipa": "ˈmʌnθli ˈpeɪmənt"
+      },
+      {
+        "en": "down payment",
+        "vi": "tiền trả trước",
+        "ipa": "daʊn ˈpeɪmənt"
+      }
+    ],
+    "exEp": 267
+  },
+  {
+    "word": "television",
+    "ipa": "ˈtɛləˌvɪʒən",
+    "def": "a TV set or TV programs",
+    "vi": "ti vi, truyền hình",
+    "viDef": "máy ti vi hoặc chương trình truyền hình",
+    "ex": "I'm looking to upgrade to a newer, bigger television set.",
+    "exHit": "television",
+    "exVi": "Tôi đang muốn nâng cấp lên một chiếc TV mới, lớn hơn.",
+    "syn": [
+      {
+        "en": "tv",
+        "vi": "ti vi",
+        "ipa": "ˈtiˈvi"
+      }
+    ],
+    "col": [
+      {
+        "en": "watch television",
+        "vi": "xem ti vi",
+        "ipa": "wɑtʃ ˈtɛləˌvɪʒən"
+      },
+      {
+        "en": "on television",
+        "vi": "trên ti vi",
+        "ipa": "ɑn ˈtɛləˌvɪʒən"
+      },
+      {
+        "en": "television campaign",
+        "vi": "chiến dịch quảng cáo truyền hình",
+        "ipa": "ˈtɛləˌvɪʒən kæmˈpeɪn"
+      }
+    ],
+    "exEp": 134
+  },
+  {
+    "word": "target",
+    "ipa": "ˈtɑɹɡət",
+    "def": "a person or thing you aim at",
+    "vi": "mục tiêu, đối tượng",
+    "viDef": "người hoặc vật bạn nhắm tới",
+    "ex": "Who is our target consumer?",
+    "exHit": "target",
+    "exVi": "Người tiêu dùng mục tiêu của chúng ta là ai?",
+    "syn": [
+      {
+        "en": "goal",
+        "vi": "mục tiêu",
+        "ipa": "ɡoʊl"
+      },
+      {
+        "en": "aim",
+        "vi": "mục đích",
+        "ipa": "eɪm"
+      }
+    ],
+    "col": [
+      {
+        "en": "target consumer",
+        "vi": "người tiêu dùng mục tiêu",
+        "ipa": "ˈtɑɹɡət kənˈsumɚ"
+      },
+      {
+        "en": "target audience",
+        "vi": "khán giả mục tiêu",
+        "ipa": "ˈtɑɹɡət ˈɑdiəns"
+      },
+      {
+        "en": "on target",
+        "vi": "đúng hướng, đúng tiến độ",
+        "ipa": "ɑn ˈtɑɹɡət"
+      }
+    ],
+    "exEp": 283
+  },
+  {
+    "word": "access",
+    "ipa": "ˈæksɛs",
+    "def": "get into or use",
+    "vi": "truy cập, vào được",
+    "viDef": "vào hoặc sử dụng được",
+    "ex": "You can access the internet from any hotspot as well as from home.",
+    "exHit": "access",
+    "exVi": "Anh có thể truy cập internet từ bất kỳ điểm phát sóng nào cũng như ở nhà.",
+    "syn": [
+      {
+        "en": "reach",
+        "vi": "tiếp cận",
+        "ipa": "ɹitʃ"
+      },
+      {
+        "en": "enter",
+        "vi": "vào",
+        "ipa": "ˈɛntɚ"
+      },
+      {
+        "en": "get into",
+        "vi": "vào được",
+        "ipa": "ɡɛt ˈɪntu"
+      }
+    ],
+    "col": [
+      {
+        "en": "access the internet",
+        "vi": "truy cập internet",
+        "ipa": "ˈæksɛs ðə ˈɪntɚˌnɛt"
+      },
+      {
+        "en": "easy access",
+        "vi": "dễ tiếp cận",
+        "ipa": "ˈizi ˈæksɛs"
+      },
+      {
+        "en": "have access to",
+        "vi": "có quyền dùng",
+        "ipa": "hæv ˈæksɛs tu"
+      }
+    ],
+    "exEp": 189
+  },
+  {
+    "word": "relate",
+    "ipa": "ɹɪˈleɪt",
+    "def": "understand someone's feelings",
+    "vi": "đồng cảm, thấu hiểu",
+    "viDef": "hiểu được cảm xúc của ai đó",
+    "ex": "I can totally relate to that.",
+    "exHit": "relate",
+    "exVi": "Mình hoàn toàn hiểu cảm giác đó.",
+    "syn": [
+      {
+        "en": "understand",
+        "vi": "hiểu",
+        "ipa": "ˌʌndɚˈstænd"
+      },
+      {
+        "en": "sympathize",
+        "vi": "thông cảm",
+        "ipa": "ˈsɪmpəˌθaɪz"
+      },
+      {
+        "en": "identify with",
+        "vi": "đồng cảm với",
+        "ipa": "aɪˈdɛntəˌfaɪ wɪð"
+      }
+    ],
+    "col": [
+      {
+        "en": "relate to",
+        "vi": "đồng cảm với; liên quan đến",
+        "ipa": "ɹɪˈleɪt tu"
+      },
+      {
+        "en": "related to",
+        "vi": "có liên quan đến",
+        "ipa": "ɹɪˈleɪtɪd tu"
+      }
+    ]
+  },
+  {
+    "word": "dead",
+    "ipa": "dɛd",
+    "def": "no longer alive",
+    "vi": "chết",
+    "viDef": "không còn sống",
+    "ex": "I thought you were dead!",
+    "exHit": "dead",
+    "exVi": "Tôi tưởng anh chết rồi chứ!",
+    "syn": [
+      {
+        "en": "deceased",
+        "vi": "đã mất (trang trọng)",
+        "ipa": "dɪˈsist"
+      },
+      {
+        "en": "gone",
+        "vi": "đã đi (nói giảm)",
+        "ipa": "ɡɔn"
+      }
+    ],
+    "col": [
+      {
+        "en": "dead tired",
+        "vi": "mệt chết đi được",
+        "ipa": "dɛd ˈtaɪɚd"
+      },
+      {
+        "en": "dead end",
+        "vi": "ngõ cụt",
+        "ipa": "dɛd ɛnd"
+      },
+      {
+        "en": "dead battery",
+        "vi": "hết pin",
+        "ipa": "dɛd ˈbætɚi"
+      }
+    ]
+  },
+  {
+    "word": "official",
+    "ipa": "əˈfɪʃəl",
+    "def": "approved by those in charge",
+    "vi": "chính thức",
+    "viDef": "được người có thẩm quyền chấp thuận",
+    "ex": "My cousin will be the official photographer.",
+    "exHit": "official",
+    "exVi": "Anh họ tôi sẽ là thợ chụp ảnh chính thức.",
+    "syn": [
+      {
+        "en": "formal",
+        "vi": "trang trọng, chính thức",
+        "ipa": "ˈfɔɹməl"
+      },
+      {
+        "en": "authorized",
+        "vi": "được ủy quyền",
+        "ipa": "ˈɔθɚˌaɪzd"
+      }
+    ],
+    "col": [
+      {
+        "en": "official statement",
+        "vi": "tuyên bố chính thức",
+        "ipa": "əˈfɪʃəl ˈsteɪtmənt"
+      },
+      {
+        "en": "it's official",
+        "vi": "chính thức rồi nhé",
+        "ipa": "ɪts əˈfɪʃəl"
+      },
+      {
+        "en": "official website",
+        "vi": "trang web chính thức",
+        "ipa": "əˈfɪʃəl ˈwɛbsaɪt"
+      }
+    ],
+    "exEp": 227
+  },
+  {
+    "word": "pressure",
+    "ipa": "ˈpɹɛʃɚ",
+    "def": "stress caused by demands",
+    "vi": "áp lực",
+    "viDef": "căng thẳng do bị đòi hỏi nhiều",
+    "ex": "I'm under a lot of pressure at work.",
+    "exHit": "pressure",
+    "exVi": "Dạo này tôi bị áp lực công việc nhiều lắm.",
+    "syn": [
+      {
+        "en": "stress",
+        "vi": "căng thẳng",
+        "ipa": "stɹɛs"
+      },
+      {
+        "en": "strain",
+        "vi": "sự căng thẳng",
+        "ipa": "stɹeɪn"
+      },
+      {
+        "en": "burden",
+        "vi": "gánh nặng",
+        "ipa": "ˈbɝdən"
+      }
+    ],
+    "col": [
+      {
+        "en": "under pressure",
+        "vi": "chịu áp lực",
+        "ipa": "ˈʌndɚ ˈpɹɛʃɚ"
+      },
+      {
+        "en": "blood pressure",
+        "vi": "huyết áp",
+        "ipa": "blʌd ˈpɹɛʃɚ"
+      },
+      {
+        "en": "peer pressure",
+        "vi": "áp lực từ bạn bè",
+        "ipa": "pɪɹ ˈpɹɛʃɚ"
+      }
+    ]
+  },
+  {
+    "word": "chair",
+    "ipa": "tʃɛɹ",
+    "def": "a seat for one person",
+    "vi": "ghế",
+    "viDef": "chỗ ngồi cho một người",
+    "ex": "Broken chairs and porridge all over the place!",
+    "exHit": "chairs",
+    "exVi": "Ghế gãy với cháo vương vãi khắp nơi!",
+    "syn": [
+      {
+        "en": "seat",
+        "vi": "chỗ ngồi",
+        "ipa": "sit"
+      }
+    ],
+    "col": [
+      {
+        "en": "pull up a chair",
+        "vi": "kéo ghế ngồi",
+        "ipa": "pʊl ʌp ə tʃɛɹ"
+      },
+      {
+        "en": "chair a meeting",
+        "vi": "chủ trì cuộc họp",
+        "ipa": "tʃɛɹ ə ˈmitɪŋ"
+      }
+    ],
+    "exEp": 224
+  },
+  {
+    "word": "hate",
+    "ipa": "heɪt",
+    "def": "dislike very much",
+    "vi": "ghét",
+    "viDef": "rất không thích",
+    "ex": "I hate coming to high school reunions.",
+    "exHit": "hate",
+    "exVi": "Anh ghét đi họp lớp cấp ba lắm.",
+    "syn": [
+      {
+        "en": "dislike",
+        "vi": "không thích",
+        "ipa": "dɪˈslaɪk"
+      },
+      {
+        "en": "can't stand",
+        "vi": "không chịu nổi",
+        "ipa": "kænt stænd"
+      },
+      {
+        "en": "detest",
+        "vi": "ghét cay ghét đắng",
+        "ipa": "dɪˈtɛst"
+      }
+    ],
+    "col": [
+      {
+        "en": "I hate it when",
+        "vi": "tôi ghét khi",
+        "ipa": "aɪ heɪt ɪt wɛn"
+      },
+      {
+        "en": "hate to say",
+        "vi": "không muốn nói nhưng",
+        "ipa": "heɪt tu seɪ"
+      },
+      {
+        "en": "I'd hate to",
+        "vi": "tôi chẳng muốn",
+        "ipa": "aɪd heɪt tu"
+      }
+    ],
+    "exEp": 287
+  },
+  {
+    "word": "video",
+    "ipa": "ˈvɪdioʊ",
+    "def": "recorded moving pictures",
+    "vi": "video, đoạn phim",
+    "viDef": "hình ảnh động được ghi lại",
+    "ex": "This is just like playing video games!",
+    "exHit": "video",
+    "exVi": "Cứ như đang chơi trò chơi điện tử vậy!",
+    "syn": [
+      {
+        "en": "clip",
+        "vi": "đoạn phim ngắn",
+        "ipa": "klɪp"
+      },
+      {
+        "en": "footage",
+        "vi": "cảnh quay",
+        "ipa": "ˈfʊtɪdʒ"
+      }
+    ],
+    "col": [
+      {
+        "en": "video games",
+        "vi": "trò chơi điện tử",
+        "ipa": "ˈvɪdioʊ ɡeɪmz"
+      },
+      {
+        "en": "video call",
+        "vi": "cuộc gọi video",
+        "ipa": "ˈvɪdioʊ kɔl"
+      },
+      {
+        "en": "music video",
+        "vi": "video ca nhạc",
+        "ipa": "ˈmjuzɪk ˈvɪdioʊ"
+      }
+    ],
+    "exEp": 167
+  },
+  {
+    "word": "hurt",
+    "ipa": "hɝt",
+    "def": "cause or feel pain",
+    "vi": "đau, làm đau",
+    "viDef": "gây đau hoặc cảm thấy đau",
+    "ex": "Is it gonna hurt?",
+    "exHit": "hurt",
+    "exVi": "Có đau không bác sĩ?",
+    "syn": [
+      {
+        "en": "ache",
+        "vi": "đau nhức",
+        "ipa": "eɪk"
+      },
+      {
+        "en": "sting",
+        "vi": "đau rát",
+        "ipa": "stɪŋ"
+      },
+      {
+        "en": "injure",
+        "vi": "làm bị thương",
+        "ipa": "ˈɪndʒɚ"
+      }
+    ],
+    "col": [
+      {
+        "en": "get hurt",
+        "vi": "bị thương",
+        "ipa": "ɡɛt hɝt"
+      },
+      {
+        "en": "hurt feelings",
+        "vi": "làm tổn thương",
+        "ipa": "hɝt ˈfilɪŋz"
+      },
+      {
+        "en": "my back hurts",
+        "vi": "lưng tôi đau",
+        "ipa": "maɪ bæk hɝts"
+      }
+    ],
+    "exEp": 75
+  },
+  {
+    "word": "rock",
+    "ipa": "ɹɑk",
+    "def": "hard stone from the ground",
+    "vi": "đá, tảng đá",
+    "viDef": "đá cứng từ mặt đất",
+    "ex": "We have everything from mountain biking, to rock climbing to street luge.",
+    "exHit": "rock",
+    "exVi": "Chúng tôi có đủ thứ, từ đạp xe leo núi, leo núi đá đến trượt ván đường phố.",
+    "syn": [
+      {
+        "en": "stone",
+        "vi": "đá",
+        "ipa": "stoʊn"
+      },
+      {
+        "en": "boulder",
+        "vi": "tảng đá lớn",
+        "ipa": "ˈboʊldɚ"
+      }
+    ],
+    "col": [
+      {
+        "en": "rock climbing",
+        "vi": "leo núi đá",
+        "ipa": "ɹɑk ˈklaɪmɪŋ"
+      },
+      {
+        "en": "rock music",
+        "vi": "nhạc rock",
+        "ipa": "ɹɑk ˈmjuzɪk"
+      },
+      {
+        "en": "on the rocks",
+        "vi": "(rượu) uống với đá",
+        "ipa": "ɑn ðə ɹɑks"
+      }
+    ],
+    "exEp": 239
+  },
+  {
+    "word": "definitely",
+    "ipa": "ˈdɛfənətli",
+    "def": "certainly; without doubt",
+    "vi": "chắc chắn, nhất định",
+    "viDef": "chắc chắn; không nghi ngờ gì",
+    "ex": "Yeah, sounds like something I should definitely do.",
+    "exHit": "definitely",
+    "exVi": "Ừ, nghe giống thứ anh nhất định nên làm quá.",
+    "syn": [
+      {
+        "en": "certainly",
+        "vi": "chắc chắn",
+        "ipa": "ˈsɝtənli"
+      },
+      {
+        "en": "absolutely",
+        "vi": "hoàn toàn",
+        "ipa": "ˌæbsəˈlutli"
+      },
+      {
+        "en": "for sure",
+        "vi": "chắc chắn (thân mật)",
+        "ipa": "fɔɹ ʃʊɹ"
+      }
+    ],
+    "col": [
+      {
+        "en": "definitely not",
+        "vi": "chắc chắn là không",
+        "ipa": "ˈdɛfənətli nɑt"
+      },
+      {
+        "en": "I'll definitely",
+        "vi": "tôi nhất định sẽ",
+        "ipa": "aɪl ˈdɛfənətli"
+      }
+    ],
+    "exEp": 174
+  },
+  {
+    "word": "community",
+    "ipa": "kəˈmjunəti",
+    "def": "people living in one area or group",
+    "vi": "cộng đồng",
+    "viDef": "những người sống cùng khu vực hoặc cùng nhóm",
+    "ex": "We live in a small community.",
+    "exHit": "community",
+    "exVi": "Chúng tôi sống trong một cộng đồng nhỏ.",
+    "syn": [
+      {
+        "en": "neighborhood",
+        "vi": "khu xóm",
+        "ipa": "ˈneɪbɚˌhʊd"
+      },
+      {
+        "en": "society",
+        "vi": "xã hội",
+        "ipa": "səˈsaɪəti"
+      }
+    ],
+    "col": [
+      {
+        "en": "local community",
+        "vi": "cộng đồng địa phương",
+        "ipa": "ˈloʊkəl kəˈmjunəti"
+      },
+      {
+        "en": "community service",
+        "vi": "lao động công ích",
+        "ipa": "kəˈmjunəti ˈsɝvəs"
+      },
+      {
+        "en": "community center",
+        "vi": "nhà văn hóa",
+        "ipa": "kəˈmjunəti ˈsɛntɚ"
+      }
+    ]
+  },
+  {
+    "word": "contain",
+    "ipa": "kənˈteɪn",
+    "def": "have something inside",
+    "vi": "chứa, bao gồm",
+    "viDef": "có thứ gì đó bên trong",
+    "ex": "What does that stand for and what will the test contain?",
+    "exHit": "contain",
+    "exVi": "Viết tắt đó là gì và bài kiểm tra sẽ có những gì?",
+    "syn": [
+      {
+        "en": "hold",
+        "vi": "chứa",
+        "ipa": "hoʊld"
+      },
+      {
+        "en": "include",
+        "vi": "bao gồm",
+        "ipa": "ɪnˈklud"
+      }
+    ],
+    "col": [
+      {
+        "en": "may contain nuts",
+        "vi": "có thể chứa hạt",
+        "ipa": "meɪ kənˈteɪn nʌts"
+      },
+      {
+        "en": "contains alcohol",
+        "vi": "có cồn",
+        "ipa": "kənˈteɪnz ˈælkəˌhɑl"
+      }
+    ],
+    "exEp": 320
+  },
+  {
+    "word": "schedule",
+    "ipa": "ˈskɛdʒʊl",
+    "def": "a plan of times for things",
+    "vi": "lịch trình, thời khóa biểu",
+    "viDef": "kế hoạch về thời gian cho các việc",
+    "ex": "I'm not sure if the class schedule will allow me to take all of them.",
+    "exHit": "schedule",
+    "exVi": "Em không chắc thời khóa biểu có cho phép em học hết các môn này không.",
+    "syn": [
+      {
+        "en": "timetable",
+        "vi": "thời khóa biểu",
+        "ipa": "ˈtaɪmˌteɪbəl"
+      },
+      {
+        "en": "agenda",
+        "vi": "lịch làm việc",
+        "ipa": "əˈdʒɛndə"
+      },
+      {
+        "en": "plan",
+        "vi": "kế hoạch",
+        "ipa": "plæn"
+      }
+    ],
+    "col": [
+      {
+        "en": "on schedule",
+        "vi": "đúng tiến độ",
+        "ipa": "ɑn ˈskɛdʒʊl"
+      },
+      {
+        "en": "behind schedule",
+        "vi": "chậm tiến độ",
+        "ipa": "bɪˈhaɪnd ˈskɛdʒʊl"
+      },
+      {
+        "en": "busy schedule",
+        "vi": "lịch kín",
+        "ipa": "ˈbɪzi ˈskɛdʒʊl"
+      }
+    ],
+    "exEp": 110
+  },
+  {
+    "word": "camera",
+    "ipa": "ˈkæmɚə",
+    "def": "a device for taking photos",
+    "vi": "máy ảnh",
+    "viDef": "thiết bị để chụp ảnh",
+    "ex": "Did you get the camera?",
+    "exHit": "camera",
+    "exVi": "Em lấy máy ảnh chưa?",
+    "col": [
+      {
+        "en": "digital camera",
+        "vi": "máy ảnh kỹ thuật số",
+        "ipa": "ˈdɪdʒətəl ˈkæmɚə"
+      },
+      {
+        "en": "on camera",
+        "vi": "trước ống kính",
+        "ipa": "ɑn ˈkæmɚə"
+      },
+      {
+        "en": "security camera",
+        "vi": "camera an ninh",
+        "ipa": "sɪˈkjʊɹəti ˈkæmɚə"
+      }
+    ],
+    "exEp": 6
+  },
+  {
+    "word": "gift",
+    "ipa": "ɡɪft",
+    "def": "something you give to someone",
+    "vi": "quà, món quà",
+    "viDef": "thứ bạn tặng cho ai đó",
+    "ex": "Just a few Christmas gifts, 'tis the season, after all!",
+    "exHit": "gifts",
+    "exVi": "Chỉ vài món quà Giáng sinh thôi, dù sao cũng là mùa lễ mà!",
+    "syn": [
+      {
+        "en": "present",
+        "vi": "quà",
+        "ipa": "ˈpɹɛzənt"
+      },
+      {
+        "en": "souvenir",
+        "vi": "quà lưu niệm",
+        "ipa": "ˌsuvəˈnɪɹ"
+      }
+    ],
+    "col": [
+      {
+        "en": "Christmas gift",
+        "vi": "quà Giáng sinh",
+        "ipa": "ˈkɹɪsməs ɡɪft"
+      },
+      {
+        "en": "birthday gift",
+        "vi": "quà sinh nhật",
+        "ipa": "ˈbɝθdeɪ ɡɪft"
+      },
+      {
+        "en": "gift shop",
+        "vi": "cửa hàng quà tặng",
+        "ipa": "ɡɪft ʃɑp"
+      }
+    ],
+    "exEp": 19
+  },
+  {
+    "word": "particular",
+    "ipa": "pɚˈtɪkjəlɚ",
+    "def": "specific; this one and not others",
+    "vi": "cụ thể, đặc biệt",
+    "viDef": "cụ thể; cái này chứ không phải cái khác",
+    "ex": "Do I need to put out anything in particular?",
+    "exHit": "particular",
+    "exVi": "Con có cần bày thêm gì đặc biệt không?",
+    "syn": [
+      {
+        "en": "specific",
+        "vi": "cụ thể",
+        "ipa": "spəˈsɪfɪk"
+      },
+      {
+        "en": "certain",
+        "vi": "nhất định",
+        "ipa": "ˈsɝtən"
+      },
+      {
+        "en": "special",
+        "vi": "đặc biệt",
+        "ipa": "ˈspɛʃəl"
+      }
+    ],
+    "col": [
+      {
+        "en": "in particular",
+        "vi": "nói riêng, đặc biệt là",
+        "ipa": "ɪn pɚˈtɪkjəlɚ"
+      },
+      {
+        "en": "nothing in particular",
+        "vi": "không có gì đặc biệt",
+        "ipa": "ˈnʌθɪŋ ɪn pɚˈtɪkjəlɚ"
+      },
+      {
+        "en": "particular about",
+        "vi": "khó tính về",
+        "ipa": "pɚˈtɪkjəlɚ əˈbaʊt"
+      }
+    ],
+    "exEp": 248
+  },
+  {
+    "word": "absolutely",
+    "ipa": "ˌæbsəˈlutli",
+    "def": "completely; totally",
+    "vi": "hoàn toàn, tuyệt đối",
+    "viDef": "hoàn toàn; trọn vẹn",
+    "ex": "You'd only use capital punishment if you were absolutely sure that you'd convicted the right person.",
+    "exHit": "absolutely",
+    "exVi": "Chỉ áp dụng án tử hình khi hoàn toàn chắc chắn là đã kết án đúng người.",
+    "syn": [
+      {
+        "en": "completely",
+        "vi": "hoàn toàn",
+        "ipa": "kəmˈplitli"
+      },
+      {
+        "en": "totally",
+        "vi": "hoàn toàn",
+        "ipa": "ˈtoʊtəli"
+      },
+      {
+        "en": "definitely",
+        "vi": "chắc chắn",
+        "ipa": "ˈdɛfənətli"
+      }
+    ],
+    "col": [
+      {
+        "en": "absolutely not",
+        "vi": "tuyệt đối không",
+        "ipa": "ˌæbsəˈlutli nɑt"
+      },
+      {
+        "en": "absolutely sure",
+        "vi": "hoàn toàn chắc chắn",
+        "ipa": "ˌæbsəˈlutli ʃʊɹ"
+      },
+      {
+        "en": "absolutely right",
+        "vi": "hoàn toàn đúng",
+        "ipa": "ˌæbsəˈlutli ɹaɪt"
+      }
+    ],
+    "exEp": 144
+  },
+  {
+    "word": "cup",
+    "ipa": "kʌp",
+    "def": "a small container for drinking",
+    "vi": "cái cốc, tách",
+    "viDef": "vật nhỏ dùng để uống",
+    "ex": "I'll also set some cups and saucers for some coffee after dinner.",
+    "exHit": "cups",
+    "exVi": "Con sẽ bày thêm mấy cái tách với đĩa lót để uống cà phê sau bữa tối.",
+    "syn": [
+      {
+        "en": "mug",
+        "vi": "cốc to có quai",
+        "ipa": "mʌɡ"
+      }
+    ],
+    "col": [
+      {
+        "en": "cup of coffee",
+        "vi": "tách cà phê",
+        "ipa": "kʌp ʌv ˈkɑfi"
+      },
+      {
+        "en": "not my cup of tea",
+        "vi": "không phải gu của tôi",
+        "ipa": "nɑt maɪ kʌp ʌv ti"
+      },
+      {
+        "en": "world cup",
+        "vi": "giải bóng đá thế giới",
+        "ipa": "wɝld kʌp"
+      }
+    ],
+    "exEp": 248
+  },
+  {
+    "word": "wed",
+    "ipa": "wɛd",
+    "def": "marry someone (formal)",
+    "vi": "cưới, kết hôn",
+    "viDef": "kết hôn với ai (trang trọng)",
+    "ex": "With this ring I thee wed.",
+    "exHit": "wed",
+    "exVi": "Với chiếc nhẫn này, anh xin cưới em.",
+    "syn": [
+      {
+        "en": "marry",
+        "vi": "cưới",
+        "ipa": "ˈmɛɹi"
+      },
+      {
+        "en": "get married",
+        "vi": "kết hôn",
+        "ipa": "ɡɛt ˈmɛɹid"
+      },
+      {
+        "en": "tie the knot",
+        "vi": "kết hôn (thân mật)",
+        "ipa": "taɪ ðə nɑt"
+      }
+    ],
+    "col": [
+      {
+        "en": "wedding day",
+        "vi": "ngày cưới",
+        "ipa": "ˈwɛdɪŋ deɪ"
+      },
+      {
+        "en": "wedding ring",
+        "vi": "nhẫn cưới",
+        "ipa": "ˈwɛdɪŋ ɹɪŋ"
+      },
+      {
+        "en": "our wedding",
+        "vi": "đám cưới của chúng tôi",
+        "ipa": "ˈaʊɚ ˈwɛdɪŋ"
+      }
+    ],
+    "exEp": 73
+  },
+  {
+    "word": "plant",
+    "ipa": "plænt",
+    "def": "a living thing that grows in soil",
+    "vi": "cây, thực vật",
+    "viDef": "sinh vật sống mọc trong đất",
+    "ex": "I water my plants every morning.",
+    "exHit": "plants",
+    "exVi": "Sáng nào tôi cũng tưới cây.",
+    "col": [
+      {
+        "en": "water the plants",
+        "vi": "tưới cây",
+        "ipa": "ˈwɔtɚ ðə plænts"
+      },
+      {
+        "en": "house plant",
+        "vi": "cây trồng trong nhà",
+        "ipa": "haʊs plænt"
+      },
+      {
+        "en": "plant a tree",
+        "vi": "trồng cây",
+        "ipa": "plænt ə tɹi"
+      }
+    ]
+  },
+  {
+    "word": "paint",
+    "ipa": "peɪnt",
+    "def": "put color on something",
+    "vi": "sơn, vẽ",
+    "viDef": "phủ màu lên thứ gì đó",
+    "ex": "They don't only paint my nails!",
+    "exHit": "paint",
+    "exVi": "Họ không chỉ sơn móng tay cho tôi đâu!",
+    "syn": [
+      {
+        "en": "color",
+        "vi": "tô màu",
+        "ipa": "ˈkʌlɚ"
+      }
+    ],
+    "col": [
+      {
+        "en": "paint the walls",
+        "vi": "sơn tường",
+        "ipa": "peɪnt ðə wɔlz"
+      },
+      {
+        "en": "wet paint",
+        "vi": "sơn còn ướt",
+        "ipa": "wɛt peɪnt"
+      },
+      {
+        "en": "paint a picture",
+        "vi": "vẽ tranh",
+        "ipa": "peɪnt ə ˈpɪktʃɚ"
+      }
+    ],
+    "exEp": 174
+  },
+  {
+    "word": "tend",
+    "ipa": "tɛnd",
+    "def": "usually do something",
+    "vi": "thường hay, có xu hướng",
+    "viDef": "thường làm điều gì đó",
+    "ex": "I tend to gain a few pounds over the holidays.",
+    "exHit": "tend",
+    "exVi": "Tôi hay lên vài cân mỗi dịp lễ.",
+    "syn": [
+      {
+        "en": "be inclined",
+        "vi": "có xu hướng",
+        "ipa": "bi ɪnˈklaɪnd"
+      },
+      {
+        "en": "be likely",
+        "vi": "có khả năng",
+        "ipa": "bi ˈlaɪkli"
+      }
+    ],
+    "col": [
+      {
+        "en": "tend to",
+        "vi": "có xu hướng",
+        "ipa": "tɛnd tu"
+      },
+      {
+        "en": "tends to be",
+        "vi": "thường là",
+        "ipa": "tɛndz tu bi"
+      }
+    ],
+    "exEp": 196
+  }
+]
