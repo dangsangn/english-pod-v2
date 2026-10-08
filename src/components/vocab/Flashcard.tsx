@@ -137,9 +137,7 @@ export default function Flashcard({
             )}
           </Face>
 
-          {/* Back: the meaning. No answer buttons here: once the card is
-              turned, the session's rating bar and the swipe answer it, and the
-              room goes to the content so a phone shows it all without scrolling. */}
+          {/* Back: the meaning */}
           <Face className='rotate-y-180 p-5!'>
             <Badges card={card} stage={stage} />
             {/* min-h-0 + overflow: on a very short screen the content still
@@ -150,7 +148,6 @@ export default function Flashcard({
                   <h2 className='text-2xl font-bold tracking-tight break-words text-emerald-600 dark:text-emerald-400'>
                     {card.word}
                   </h2>
-                  <SpeakButton onSpeak={say} />
                 </div>
                 {(card.ipa || card.type) && (
                   <p className='text-sm text-zinc-400 dark:text-zinc-500'>
@@ -190,6 +187,7 @@ export default function Flashcard({
                 </Section>
               )}
             </div>
+            <CardActions onAnswer={flyOut} onSpeak={say} />
           </Face>
         </div>
       </div>
@@ -362,28 +360,6 @@ function Collocations({ items }: { items: Collocation[] }) {
           </p>
         ))}
     </div>
-  )
-}
-
-/** The pronunciation button next to the word on the back of the card. */
-function SpeakButton({ onSpeak }: { onSpeak: () => void }) {
-  // Like CardActions: the press must neither start a drag nor flip the card.
-  const stop = (e: SyntheticEvent) => e.stopPropagation()
-  return (
-    <button
-      type='button'
-      title='Nghe phát âm'
-      aria-label='Nghe phát âm'
-      onPointerDown={stop}
-      onPointerUp={stop}
-      onClick={(e) => {
-        e.stopPropagation()
-        onSpeak()
-      }}
-      className='p-1.5 rounded-full text-zinc-400 hover:text-emerald-600 hover:bg-black/5 dark:hover:bg-white/10'
-    >
-      <Volume2 size={18} />
-    </button>
   )
 }
 
