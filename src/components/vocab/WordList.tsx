@@ -8,8 +8,10 @@ import { relearnCard, summarize, useSrs } from '../../lib/srsStore'
 import type { StoredCard, Summary } from '../../lib/srsStore'
 import type { Episode } from '../../types'
 import { coreDeckName } from '../../lib/coreDecks'
+import { collocationsOf, exampleOf, synonymsOf, useExamples } from '../../lib/examples'
 import { speak } from '../../lib/speech'
 import { STAGES } from './stages'
+import ExampleSentence from './ExampleSentence'
 import LeechBadge from './LeechBadge'
 
 type FilterKey = 'all' | 'learned' | 'leech' | Stage
@@ -172,6 +174,7 @@ export default function WordList({
             key={card.id}
             card={card}
             now={now}
+            onOpenEpisode={onOpenEpisode}
             open={openId === card.id}
             onToggle={() => setOpenId(openId === card.id ? null : card.id)}
           />
@@ -272,9 +275,10 @@ interface WordRowProps {
   now: number
   open: boolean
   onToggle: () => void
+  onOpenEpisode: (id: number) => void
 }
 
-function WordRow({ card, now, open, onToggle }: WordRowProps) {
+function WordRow({ card, now, open, onToggle, onOpenEpisode }: WordRowProps) {
   let next: { text: string; tone: string }
   if (card.state === 'new') next = { text: 'Chưa học', tone: 'text-zinc-400' }
   else if (isDue(card, now)) next = { text: 'Cần ôn', tone: 'text-rose-500 font-semibold' }
@@ -342,8 +346,51 @@ function WordRow({ card, now, open, onToggle }: WordRowProps) {
               )}
             </div>
           )}
+          <WordExtras card={card} onOpenEpisode={onOpenEpisode} />
         </div>
       )}
     </li>
+  )
+}
+
+/**
+ * Synonyms, collocations and the example sentence of an opened row. Its own component so the
+ * vocabulary files load only for rows someone opens.
+ */
+function WordExtras({
+  card,
+  onOpenEpisode,
+}: {
+  card: StoredCard
+  onOpenEpisode: (id: number) => void
+}) {
+  const ready = useExamples(card.episodeIds)
+  const example = ready ? exampleOf(card) : null
+  const synonyms = ready ? synonymsOf(card) : []
+  const collocations = ready ? collocationsOf(card) : []
+  return (
+    <>
+      {synonyms.length > 0 && (
+        <p className='text-zinc-600 dark:text-zinc-400'>
+          <span className='font-medium'>Đồng nghĩa:</span> {synonyms.join(', ')}
+        </p>
+      )}
+      {collocations.length > 0 && (
+        <div className='text-zinc-600 dark:text-zinc-400'>
+          <span className='font-medium'>Cụm từ:</span>
+          <ul className='mt-0.5 space-y-0.5'>
+            {collocations.map((c) => (
+              <li key={c.en}>
+                {c.en}{' '}
+                <span className='vi-text text-indigo-600 dark:text-indigo-400'>— {c.vi}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+      {example && (
+        <ExampleSentence example={example} showTranslation onOpenEpisode={onOpenEpisode} />
+      )}
+    </>
   )
 }

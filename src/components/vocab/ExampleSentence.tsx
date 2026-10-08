@@ -14,6 +14,8 @@ interface ExampleSentenceProps {
    * button after the sentence opens it in a floating card (a flashcard).
    */
   showTranslation?: boolean
+  /** Makes "Trích từ bài N" a link; without it, the line is plain text (sessions). */
+  onOpenEpisode?: (id: number) => void
   className?: string
 }
 
@@ -34,6 +36,7 @@ interface ExampleSentenceProps {
 export default function ExampleSentence({
   example,
   showTranslation = false,
+  onOpenEpisode,
   className,
 }: ExampleSentenceProps) {
   const root = useRef<HTMLDivElement>(null)
@@ -46,7 +49,7 @@ export default function ExampleSentence({
   const toggle = () =>
     setOpenAt((rect) => (rect ? null : (root.current?.getBoundingClientRect() ?? null)))
 
-  const { ex, hit } = example
+  const { ex, hit, ep } = example
   const from = hitIndex(ex, hit)
   const to = from + hit.length
 
@@ -89,6 +92,18 @@ export default function ExampleSentence({
           )}
         </span>
       </p>
+      {ep !== undefined &&
+        (onOpenEpisode ? (
+          <button
+            type='button'
+            onClick={() => onOpenEpisode(ep)}
+            className='mt-1 text-xs text-zinc-500 dark:text-zinc-400 hover:text-rose-500 hover:underline underline-offset-2'
+          >
+            Trích từ bài {ep}
+          </button>
+        ) : (
+          <p className='mt-1 text-xs text-zinc-400 dark:text-zinc-500'>Trích từ bài {ep}</p>
+        ))}
       {showTranslation && (
         <p className='vi-text mt-1 text-sm text-indigo-600 dark:text-indigo-400'>{example.vi}</p>
       )}

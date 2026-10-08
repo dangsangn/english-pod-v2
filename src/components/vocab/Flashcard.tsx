@@ -3,6 +3,7 @@ import type { MouseEvent, PointerEvent, ReactNode, SyntheticEvent } from 'react'
 import { Check, RotateCcw, Volume2 } from 'lucide-react'
 import classNames from 'classnames'
 import { isLeech, stageOf } from '../../lib/srs'
+import type { Collocation } from '../../types'
 import type { StoredCard } from '../../lib/srsStore'
 import { speak } from '../../lib/speech'
 import { STAGE_BY_KEY } from './stages'
@@ -25,6 +26,10 @@ interface FlashcardProps {
   canSwipe: boolean
   /** Shown on the back under the definition. */
   example?: Example | null
+  /** Shown on the back under the definition (Top 1000 words). */
+  synonyms?: string[]
+  /** Shown under the synonyms (Top 1000 words). */
+  collocations?: Collocation[]
   onFlip: () => void
   onAnswer: (rating: CardAnswer) => void
 }
@@ -38,6 +43,8 @@ export default function Flashcard({
   flipped,
   canSwipe,
   example,
+  synonyms,
+  collocations,
   onFlip,
   onAnswer,
 }: FlashcardProps) {
@@ -164,6 +171,31 @@ export default function Flashcard({
                       {card.viDef}
                     </p>
                   )}
+                </div>
+              )}
+              {synonyms && synonyms.length > 0 && (
+                <div className='mt-4 w-full max-w-xs flex-none text-left'>
+                  <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
+                    Synonyms
+                  </p>
+                  <p className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300'>
+                    {synonyms.join(', ')}
+                  </p>
+                </div>
+              )}
+              {collocations && collocations.length > 0 && (
+                <div className='mt-4 w-full max-w-xs flex-none text-left'>
+                  <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
+                    Collocations
+                  </p>
+                  {collocations.map((c) => (
+                    <p key={c.en} className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300'>
+                      {c.en}{' '}
+                      <span className='vi-text text-sm text-indigo-600 dark:text-indigo-400'>
+                        — {c.vi}
+                      </span>
+                    </p>
+                  ))}
                 </div>
               )}
               {example && (

@@ -4,7 +4,13 @@ import { formatDelay, previewDelay, RATINGS, schedule } from '../../lib/srs'
 import type { Rating } from '../../lib/srs'
 import { buildQueue, markLesson, rateCard, useSrs } from '../../lib/srsStore'
 import { coreDeckName, isCoreDeck } from '../../lib/coreDecks'
-import { episodeIdsOf, exampleOf, useExamples } from '../../lib/examples'
+import {
+  collocationsOf,
+  episodeIdsOf,
+  exampleOf,
+  synonymsOf,
+  useExamples,
+} from '../../lib/examples'
 import { speak } from '../../lib/speech'
 import { useNow } from '../../lib/hooks'
 import Flashcard from './Flashcard'
@@ -138,6 +144,8 @@ export default function StudySession({ episodeId, episode, lessonStep, onExit }:
           flipped={flipped}
           canSwipe={revealed}
           example={examplesReady ? exampleOf(card) : null}
+          synonyms={examplesReady ? synonymsOf(card) : []}
+          collocations={examplesReady ? collocationsOf(card) : []}
           onFlip={flip}
           onAnswer={(rating) => rate(rating, true)}
         />
