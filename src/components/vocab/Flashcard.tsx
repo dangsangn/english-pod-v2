@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react'
 import type { MouseEvent, PointerEvent, ReactNode, SyntheticEvent } from 'react'
-import { Check, RotateCcw, Volume2 } from 'lucide-react'
+import { Check, ChevronDown, RotateCcw, Volume2 } from 'lucide-react'
 import classNames from 'classnames'
 import { isLeech, stageOf } from '../../lib/srs'
 import type { Collocation } from '../../types'
@@ -183,21 +183,7 @@ export default function Flashcard({
                   </p>
                 </Section>
               )}
-              {collocations && collocations.length > 0 && (
-                <Section label='Collocations'>
-                  {collocations.map((c) => (
-                    <p
-                      key={c.en}
-                      className='text-base leading-snug text-zinc-700 dark:text-zinc-300'
-                    >
-                      {c.en}{' '}
-                      <span className='vi-text text-sm text-indigo-600 dark:text-indigo-400'>
-                        — {c.vi}
-                      </span>
-                    </p>
-                  ))}
-                </Section>
-              )}
+              {collocations && collocations.length > 0 && <Collocations items={collocations} />}
               {example && (
                 <Section label='Example'>
                   <ExampleSentence example={example} />
@@ -305,6 +291,76 @@ function Section({ label, children }: { label: string; children: ReactNode }) {
         {label}
       </p>
       {children}
+    </div>
+  )
+}
+
+// Whether the Collocations block starts open; kept across cards and visits.
+const COLLOCATIONS_KEY = 'englishpod_collocations_open_v1'
+
+function loadCollocationsOpen(): boolean {
+  try {
+    return localStorage.getItem(COLLOCATIONS_KEY) === '1'
+  } catch {
+    return false
+  }
+}
+
+function saveCollocationsOpen(open: boolean) {
+  try {
+    localStorage.setItem(COLLOCATIONS_KEY, open ? '1' : '0')
+  } catch {
+    // Storage blocked: the choice still holds for this card.
+  }
+}
+
+/**
+ * Collocations, folded to one line of the English phrases by default so the
+ * back of the card stays short; the button opens them with their Vietnamese.
+ */
+function Collocations({ items }: { items: Collocation[] }) {
+  const [open, setOpen] = useState(loadCollocationsOpen)
+  // Like CardActions: the press must neither start a drag nor flip the card.
+  const stop = (e: SyntheticEvent) => e.stopPropagation()
+  const toggle = (e: MouseEvent) => {
+    e.stopPropagation()
+    setOpen(!open)
+    saveCollocationsOpen(!open)
+  }
+
+  return (
+    <div className='w-full max-w-xs mx-auto flex-none text-left'>
+      <button
+        type='button'
+        onPointerDown={stop}
+        onPointerUp={stop}
+        onClick={toggle}
+        aria-expanded={open}
+        className='w-full flex items-center gap-2 text-left'
+      >
+        <span className='flex-none text-[11px] font-semibold uppercase tracking-wider leading-4 text-zinc-400'>
+          Collocations ({items.length})
+        </span>
+        {!open && (
+          <span className='flex-1 min-w-0 truncate text-sm text-zinc-600 dark:text-zinc-400'>
+            {items.map((c) => c.en).join(' · ')}
+          </span>
+        )}
+        <ChevronDown
+          size={16}
+          className={classNames(
+            'flex-none ml-auto text-zinc-400 transition-transform',
+            open && 'rotate-180',
+          )}
+        />
+      </button>
+      {open &&
+        items.map((c) => (
+          <p key={c.en} className='text-base leading-snug text-zinc-700 dark:text-zinc-300'>
+            {c.en}{' '}
+            <span className='vi-text text-sm text-indigo-600 dark:text-indigo-400'>— {c.vi}</span>
+          </p>
+        ))}
     </div>
   )
 }
