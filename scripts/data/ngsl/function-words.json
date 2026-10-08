@@ -1,0 +1,20 @@
+{
+    "_note": "NGSL lemmas left out of the Top 1000. Edit freely; verify_core.js checks each one is an NGSL lemma.",
+    "words": [
+        "the", "a", "this", "that", "all", "some", "any", "each", "every", "no", "both", "either",
+        "neither", "another", "other", "such", "much", "many", "more", "most", "few", "several",
+        "i", "you", "he", "she", "it", "we", "they", "who", "what", "which", "one", "none", "there",
+        "something", "anything", "nothing", "everything", "someone", "anyone", "everyone",
+        "somebody", "anybody", "everybody", "nobody",
+        "of", "to", "in", "for", "on", "with", "as", "at", "from", "by", "about", "into", "over",
+        "after", "through", "down", "up", "out", "off", "between", "under", "against", "during",
+        "without", "before", "since", "until", "within", "among", "across", "along", "around",
+        "behind", "beyond", "upon", "toward", "per", "via", "despite", "onto", "throughout",
+        "inside", "outside", "near", "above", "below", "beside", "besides", "except", "unlike",
+        "and", "but", "or", "if", "because", "so", "than", "when", "while", "although", "though",
+        "whether", "unless", "nor", "yet", "where", "how", "why", "whatever", "whenever", "however",
+        "be", "have", "do", "will", "would", "can", "could", "may", "might", "must", "shall",
+        "should", "ought", "not",
+        "yes", "yeah", "okay", "hello", "hi"
+    ]
+}
