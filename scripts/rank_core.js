@@ -10,8 +10,9 @@
  *
  * Each word gets the dialogue sentence that best shows it: one whose whole
  * line is already translated in dialogue-vi (so the Vietnamese comes free),
- * then one of 5–15 words, then the shortest. Vietnamese is prefilled from
- * vocab-vi when an episode already taught the same word in a single sense.
+ * then one of 5–15 words, then the shortest. Senses an episode
+ * already taught for the word are listed in `viHint` (episode senses are often
+ * narrow, so they only guide whoever writes `vi`).
  *
  * `colHint` lists the five commonest 2–4 word runs around the word in the
  * dialogues (seen at least 3 times, not starting or ending in a function word
@@ -137,24 +138,20 @@ function main() {
             .slice(0, 5)
             .map(([phrase, c]) => `${phrase} (${c})`);
 
-    // Vietnamese already written for the same word in an episode's vocabulary.
-    const prefill = new Map();
+    // Senses an episode already taught for each word, as "definition → Vietnamese".
     const senses = new Map();
     for (const [key, t] of loadTranslations().map) {
-        const word = key.split('\u0000')[0];
+        const [word, definition] = key.split('\u0000');
         const list = senses.get(word) ?? [];
-        list.push(t);
+        list.push(`${definition} → ${t.vi}`);
         senses.set(word, list);
     }
-    for (const [word, list] of senses) if (list.length === 1) prefill.set(word, list[0]);
+    const viHint = (lemma) => (senses.get(lemma) ?? []).slice(0, 3);
 
     const existing = new Map(readCoreRows().map(({ row }) => [cardId(row.w), row]));
-    let prefilled = 0;
     const rows = top.map((lemma, i) => {
         const old = existing.get(lemma);
         const example = old?.ex ? old : best.get(lemma);
-        const t = prefill.get(lemma);
-        if (!old && t) prefilled++;
         return {
             rank: i + 1,
             w: lemma,
@@ -164,11 +161,12 @@ function main() {
             ep: example?.ep,
             exVi: example?.exVi ?? '',
             d: old?.d ?? '',
-            vi: old?.vi ?? t?.vi ?? '',
-            vd: old?.vd ?? t?.viDef ?? '',
+            vi: old?.vi ?? '',
+            vd: old?.vd ?? '',
             syn: old?.syn ?? [],
             col: old?.col ?? [],
             colHint: colHint(lemma),
+            viHint: viHint(lemma),
         };
     });
 
@@ -190,7 +188,7 @@ function main() {
     console.log(`Never in a dialogue: ${rows.filter((r) => r.n === 0).length}`);
     console.log(`Without an example: ${rows.filter((r) => !r.ex).length}`);
     console.log(`Example still needing Vietnamese: ${rows.filter((r) => r.ex && !r.exVi).length}`);
-    console.log(`Prefilled from vocab-vi: ${prefilled}`);
+    console.log(`With Vietnamese hints: ${rows.filter((r) => r.viHint.length).length}`);
     console.log(`With collocation hints: ${rows.filter((r) => r.colHint.length).length}`);
 }
 

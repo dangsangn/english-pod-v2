@@ -4,9 +4,10 @@
  * dialogues, and the hand-authored rows in scripts/data/core-vi/NN.jsonl —
  * one file per group of 100, ordered by rank:
  *
- *   {"rank","w","n","ex","hit","ep"?,"exVi","d","vi","vd","syn","col","colHint"}
+ *   {"rank","w","n","ex","hit","ep"?,"exVi","d","vi","vd","syn","col","colHint","viHint"}
  *
- * `col` is [{ en, vi }]; `colHint` only helps whoever writes `col` and is never built.
+ * `col` is [{ en, vi }]; `colHint` only helps whoever writes `col`,
+ * and `viHint` whoever writes `vi`; neither *Hint field is ever built.
  *
  * Shared by rank_core.js, build_core.js and verify_core.js.
  */
