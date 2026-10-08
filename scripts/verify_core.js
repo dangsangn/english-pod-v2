@@ -7,10 +7,12 @@
  *   node scripts/verify_core.js
  */
 
+import fs from 'fs';
+import path from 'path';
 import { cardId } from '../src/lib/srs.ts';
 import {
-    CORE_GROUPS, CORE_GROUP_SIZE, CORE_SIZE, coreFileFor, coreFileForGroup, loadFunctionWords,
-    loadNgsl, readCoreRows, wordTokens,
+    CORE_GROUPS, CORE_GROUP_SIZE, CORE_OUT_DIR, CORE_SIZE, coreFileFor, coreFileForGroup, coreOutFor,
+    isCoreComplete, loadFunctionWords, loadNgsl, readCoreRows, toCoreEntry, wordTokens,
 } from './lib/core.js';
 import { LAST_EPISODE } from './lib/transcripts.js';
 
@@ -88,6 +90,30 @@ if (rows.length) {
     for (let g = 1; g <= CORE_GROUPS; g++) {
         expect(`${coreFileForGroup(g)} rows`, perFile.get(coreFileForGroup(g)) ?? 0, CORE_GROUP_SIZE);
     }
+}
+
+// ------------------------------------------------------------- built files
+
+for (let g = 1; g <= CORE_GROUPS; g++) {
+    const name = coreOutFor(g);
+    const out = path.join(CORE_OUT_DIR, name);
+    const source = rows
+        .filter((r) => r.file === coreFileForGroup(g))
+        .map((r) => r.row)
+        .sort((a, b) => a.rank - b.rank);
+    const complete = source.length === CORE_GROUP_SIZE && source.every(isCoreComplete);
+    if (!fs.existsSync(out)) {
+        if (complete) problems.push(`${name} is missing — run node scripts/build_core.js`);
+        continue;
+    }
+    if (!complete) {
+        problems.push(`${name} exists but ${coreFileForGroup(g)} is not complete`);
+        continue;
+    }
+    const built = JSON.parse(fs.readFileSync(out, 'utf-8'));
+    // IPA comes from CMUdict at build time; everything else must match the source.
+    expect(`${name} matches its source`, built,
+        source.map((row, i) => toCoreEntry(row, built[i]?.ipa ?? '')));
 }
 
 // ------------------------------------------------------------------ report
