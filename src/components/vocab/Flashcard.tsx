@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react'
 import type { MouseEvent, PointerEvent, ReactNode, SyntheticEvent } from 'react'
-import { Check, ChevronDown, RotateCcw, Volume2 } from 'lucide-react'
+import { Check, Layers, RotateCcw, Volume2 } from 'lucide-react'
 import classNames from 'classnames'
 import { isLeech, stageOf } from '../../lib/srs'
 import type { Collocation } from '../../types'
@@ -9,6 +9,7 @@ import { speak } from '../../lib/speech'
 import { STAGE_BY_KEY } from './stages'
 import type { StageStyle } from './stages'
 import type { Example } from '../../lib/examples'
+import FloatingCard from '../FloatingCard'
 import ExampleSentence from './ExampleSentence'
 import LeechBadge from './LeechBadge'
 import StageBadge from './StageBadge'
@@ -139,7 +140,12 @@ export default function Flashcard({
 
           {/* Back: the meaning */}
           <Face className='rotate-y-180 p-5!'>
-            <Badges card={card} stage={stage} />
+            <div className='flex items-start justify-between gap-2'>
+              <Badges card={card} stage={stage} />
+              {collocations && collocations.length > 0 && (
+                <CollocationsButton items={collocations} />
+              )}
+            </div>
             {/* min-h-0 + overflow: on a very short screen the content still
                 scrolls inside the card rather than overflowing it. */}
             <div className='flex-1 min-h-0 overflow-y-auto flex flex-col justify-center-safe gap-2'>
@@ -185,7 +191,6 @@ export default function Flashcard({
                   <ExampleSentence example={example} />
                 </Section>
               )}
-              {collocations && collocations.length > 0 && <Collocations items={collocations} />}
             </div>
             <CardActions onAnswer={flyOut} onSpeak={say} />
           </Face>
@@ -293,73 +298,62 @@ function Section({ label, children }: { label: string; children: ReactNode }) {
   )
 }
 
-// Whether the Collocations block starts open; kept across cards and visits.
-const COLLOCATIONS_KEY = 'englishpod_collocations_open_v1'
-
-function loadCollocationsOpen(): boolean {
-  try {
-    return localStorage.getItem(COLLOCATIONS_KEY) === '1'
-  } catch {
-    return false
-  }
-}
-
-function saveCollocationsOpen(open: boolean) {
-  try {
-    localStorage.setItem(COLLOCATIONS_KEY, open ? '1' : '0')
-  } catch {
-    // Storage blocked: the choice still holds for this card.
-  }
-}
-
 /**
- * Collocations, folded to one line of the English phrases by default so the
- * back of the card stays short; the button opens them with their Vietnamese.
+ * Collocations live behind a chip in the card's top row and open in a floating
+ * card, so they never change the card's layout.
  */
-function Collocations({ items }: { items: Collocation[] }) {
-  const [open, setOpen] = useState(loadCollocationsOpen)
-  // Like CardActions: the press must neither start a drag nor flip the card.
+function CollocationsButton({ items }: { items: Collocation[] }) {
+  const button = useRef<HTMLButtonElement>(null)
+  const [openAt, setOpenAt] = useState<DOMRect | null>(null)
+  // Presses here, and in the floating card (React bubbles them through the
+  // portal), must neither start a drag nor flip the card.
   const stop = (e: SyntheticEvent) => e.stopPropagation()
-  const toggle = (e: MouseEvent) => {
-    e.stopPropagation()
-    setOpen(!open)
-    saveCollocationsOpen(!open)
-  }
 
   return (
-    <div className='w-full max-w-xs mx-auto flex-none text-left'>
+    // Only stops events; the button inside is the control.
+    // eslint-disable-next-line jsx-a11y/no-static-element-interactions, jsx-a11y/click-events-have-key-events
+    <span className='flex-none' onPointerDown={stop} onPointerUp={stop} onClick={stop}>
       <button
+        ref={button}
         type='button'
-        onPointerDown={stop}
-        onPointerUp={stop}
-        onClick={toggle}
-        aria-expanded={open}
-        className='w-full flex items-center gap-2 text-left'
-      >
-        <span className='flex-none text-[11px] font-semibold uppercase tracking-wider leading-4 text-zinc-400'>
-          Collocations ({items.length})
-        </span>
-        {!open && (
-          <span className='flex-1 min-w-0 truncate text-sm text-zinc-600 dark:text-zinc-400'>
-            {items.map((c) => c.en).join(' · ')}
-          </span>
+        aria-expanded={openAt !== null}
+        onClick={() =>
+          setOpenAt((rect) => (rect ? null : (button.current?.getBoundingClientRect() ?? null)))
+        }
+        className={classNames(
+          'flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-semibold border transition-colors',
+          openAt
+            ? 'bg-indigo-100 text-indigo-700 border-indigo-200 dark:bg-indigo-500/20 dark:text-indigo-300 dark:border-indigo-500/30'
+            : 'bg-indigo-50 text-indigo-600 border-indigo-100 hover:bg-indigo-100 dark:bg-indigo-500/10 dark:text-indigo-300 dark:border-indigo-500/20',
         )}
-        <ChevronDown
-          size={16}
-          className={classNames(
-            'flex-none ml-auto text-zinc-400 transition-transform',
-            open && 'rotate-180',
-          )}
-        />
+      >
+        <Layers size={13} /> Cụm từ ({items.length})
       </button>
-      {open &&
-        items.map((c) => (
-          <p key={c.en} className='text-base leading-snug text-zinc-700 dark:text-zinc-300'>
-            {c.en}{' '}
-            <span className='vi-text text-sm text-indigo-600 dark:text-indigo-400'>— {c.vi}</span>
+      {openAt && (
+        <FloatingCard
+          rect={openAt}
+          width={280}
+          label='Cụm từ thông dụng'
+          anchor={button}
+          placement='below'
+          onClose={() => setOpenAt(null)}
+        >
+          <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
+            Collocations
           </p>
-        ))}
-    </div>
+          <ul className='mt-1 space-y-1'>
+            {items.map((c) => (
+              <li key={c.en} className='text-base leading-snug text-zinc-700 dark:text-zinc-300'>
+                {c.en}{' '}
+                <span className='vi-text text-sm text-indigo-600 dark:text-indigo-400'>
+                  — {c.vi}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </FloatingCard>
+      )}
+    </span>
   )
 }
 
