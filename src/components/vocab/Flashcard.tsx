@@ -105,7 +105,7 @@ export default function Flashcard({
 
   return (
     <div
-      className='relative mx-auto w-full max-w-md aspect-[3/4] max-h-[64vh] touch-pan-y select-none cursor-pointer vocab-pop-in'
+      className='relative mx-auto w-full max-w-md flex-1 min-h-[26rem] max-h-[38rem] touch-pan-y select-none cursor-pointer vocab-pop-in'
       style={{
         transform: `translateX(${dx}px) rotate(${Math.max(-MAX_TILT, Math.min(MAX_TILT, dx / 18))}deg)`,
         transition: dragging && !flying ? 'none' : 'transform 200ms ease-out',
@@ -115,7 +115,7 @@ export default function Flashcard({
       onPointerUp={onPointerUp}
       onPointerCancel={onPointerCancel}
     >
-      <div className='w-full h-full perspective-[1400px]'>
+      <div className='absolute inset-0 perspective-[1400px]'>
         <div
           className={classNames(
             'relative w-full h-full transform-3d transition-transform duration-500 ease-[cubic-bezier(.2,.8,.2,1)]',
@@ -137,77 +137,73 @@ export default function Flashcard({
             )}
           </Face>
 
-          {/* Back: the meaning */}
-          <Face className='rotate-y-180'>
+          {/* Back: the meaning. No answer buttons here: once the card is
+              turned, the session's rating bar and the swipe answer it, and the
+              room goes to the content so a phone shows it all without scrolling. */}
+          <Face className='rotate-y-180 p-5!'>
             <Badges card={card} stage={stage} />
-            {/* min-h-0 + overflow: long definitions scroll inside the card
-                instead of pushing the footer off it. */}
-            <div className='flex-1 min-h-0 overflow-y-auto flex flex-col items-center justify-center-safe text-center py-2'>
-              <h2 className='text-2xl font-bold tracking-tight break-words text-emerald-600 dark:text-emerald-400'>
-                {card.word}
-              </h2>
-              {card.ipa && <p className='text-sm text-zinc-400 dark:text-zinc-500'>/{card.ipa}/</p>}
-              {card.type && (
-                <p className='mt-0.5 text-xs italic text-zinc-500 dark:text-zinc-400'>
-                  {card.type}
-                </p>
-              )}
-              <div className='my-3 w-12 h-1 flex-none rounded-full bg-indigo-200 dark:bg-indigo-500/30' />
-              <p className='vi-text text-3xl font-bold text-indigo-600 dark:text-indigo-400'>
-                {card.vi}
-              </p>
-              {/* Definition: the English one from the transcript, with its
-                  Vietnamese translation (viDef) directly underneath. */}
-              {(card.def || card.viDef) && (
-                <div className='mt-4 w-full max-w-xs flex-none text-left'>
-                  <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
-                    Definition
+            {/* min-h-0 + overflow: on a very short screen the content still
+                scrolls inside the card rather than overflowing it. */}
+            <div className='flex-1 min-h-0 overflow-y-auto flex flex-col justify-center-safe gap-2.5'>
+              <div className='text-center'>
+                <div className='flex items-center justify-center gap-1.5'>
+                  <h2 className='text-2xl font-bold tracking-tight break-words text-emerald-600 dark:text-emerald-400'>
+                    {card.word}
+                  </h2>
+                  <SpeakButton onSpeak={say} />
+                </div>
+                {(card.ipa || card.type) && (
+                  <p className='text-sm text-zinc-400 dark:text-zinc-500'>
+                    {card.ipa && `/${card.ipa}/`}
+                    {card.ipa && card.type && ' · '}
+                    {card.type && <span className='italic'>{card.type}</span>}
                   </p>
+                )}
+                <p className='vi-text mt-1 text-3xl font-bold text-indigo-600 dark:text-indigo-400'>
+                  {card.vi}
+                </p>
+              </div>
+              {/* Definition: the English one, with its Vietnamese (viDef) underneath. */}
+              {(card.def || card.viDef) && (
+                <Section label='Definition'>
                   {card.def && (
-                    <p className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300'>{card.def}</p>
+                    <p className='text-base text-zinc-700 dark:text-zinc-300'>{card.def}</p>
                   )}
                   {card.viDef && (
-                    <p className='vi-text mt-0.5 text-sm font-medium text-indigo-600 dark:text-indigo-400'>
+                    <p className='vi-text text-sm font-medium text-indigo-600 dark:text-indigo-400'>
                       {card.viDef}
                     </p>
                   )}
-                </div>
+                </Section>
               )}
               {synonyms && synonyms.length > 0 && (
-                <div className='mt-4 w-full max-w-xs flex-none text-left'>
-                  <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
-                    Synonyms
-                  </p>
-                  <p className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300'>
+                <Section label='Synonyms'>
+                  <p className='text-base text-zinc-700 dark:text-zinc-300'>
                     {synonyms.join(', ')}
                   </p>
-                </div>
+                </Section>
               )}
               {collocations && collocations.length > 0 && (
-                <div className='mt-4 w-full max-w-xs flex-none text-left'>
-                  <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
-                    Collocations
-                  </p>
+                <Section label='Collocations'>
                   {collocations.map((c) => (
-                    <p key={c.en} className='mt-0.5 text-base text-zinc-700 dark:text-zinc-300'>
+                    <p
+                      key={c.en}
+                      className='text-base leading-snug text-zinc-700 dark:text-zinc-300'
+                    >
                       {c.en}{' '}
                       <span className='vi-text text-sm text-indigo-600 dark:text-indigo-400'>
                         — {c.vi}
                       </span>
                     </p>
                   ))}
-                </div>
+                </Section>
               )}
               {example && (
-                <div className='mt-4 w-full max-w-xs flex-none text-left'>
-                  <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
-                    Example
-                  </p>
-                  <ExampleSentence example={example} className='mt-0.5' />
-                </div>
+                <Section label='Example'>
+                  <ExampleSentence example={example} />
+                </Section>
               )}
             </div>
-            <CardActions onAnswer={flyOut} onSpeak={say} />
           </Face>
         </div>
       </div>
@@ -297,6 +293,40 @@ function IconButton({ label, onClick, className, children }: IconButtonProps) {
       )}
     >
       {children}
+    </button>
+  )
+}
+
+/** A labelled block on the back of the card. */
+function Section({ label, children }: { label: string; children: ReactNode }) {
+  return (
+    <div className='w-full max-w-xs mx-auto flex-none text-left'>
+      <p className='text-[11px] font-semibold uppercase tracking-wider leading-4 text-zinc-400'>
+        {label}
+      </p>
+      {children}
+    </div>
+  )
+}
+
+/** The pronunciation button next to the word on the back of the card. */
+function SpeakButton({ onSpeak }: { onSpeak: () => void }) {
+  // Like CardActions: the press must neither start a drag nor flip the card.
+  const stop = (e: SyntheticEvent) => e.stopPropagation()
+  return (
+    <button
+      type='button'
+      title='Nghe phát âm'
+      aria-label='Nghe phát âm'
+      onPointerDown={stop}
+      onPointerUp={stop}
+      onClick={(e) => {
+        e.stopPropagation()
+        onSpeak()
+      }}
+      className='p-1.5 rounded-full text-zinc-400 hover:text-emerald-600 hover:bg-black/5 dark:hover:bg-white/10'
+    >
+      <Volume2 size={18} />
     </button>
   )
 }

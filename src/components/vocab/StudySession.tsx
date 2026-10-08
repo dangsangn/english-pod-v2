@@ -137,7 +137,7 @@ export default function StudySession({ episodeId, episode, lessonStep, onExit }:
         </p>
       ) : null}
 
-      <div className='flex-1 flex flex-col justify-center py-6'>
+      <div className='flex-1 flex flex-col justify-center py-3'>
         <Flashcard
           key={turn}
           card={card}
@@ -151,7 +151,7 @@ export default function StudySession({ episodeId, episode, lessonStep, onExit }:
         />
       </div>
 
-      <footer className='pb-8 pt-2'>
+      <footer className='pb-5 sm:pb-8 pt-2'>
         {revealed ? (
           <div className='grid grid-cols-4 gap-2 vocab-rise-in'>
             {RATINGS.map((rating) => {
