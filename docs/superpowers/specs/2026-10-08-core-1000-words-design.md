@@ -25,8 +25,11 @@ EnglishPod) và 2–3 từ đồng nghĩa.
 
 ### Nguồn
 
-- `scripts/data/ngsl/ngsl-lemmatized.txt`: NGSL 1.2 bản lemmatized (headword + các dạng biến
-  đổi), giấy phép CC BY-SA 4.0. Ghi công trong `scripts/data/ngsl/README.md` và Footer của app.
+- `scripts/data/ngsl/NGSL_12_stats.csv`: thứ hạng NGSL 1.2 (cột `Lemma`, `SFI Rank`; 2809 từ).
+- `scripts/data/ngsl/NGSL_12_lemmatized_for_teaching.csv`: mỗi dòng là headword rồi các dạng
+  biến đổi (`go,goes,went,going,gone,goin,gonna`); dòng bắt đầu bằng `##` là chú thích.
+- Cả hai tải từ newgeneralservicelist.com, giấy phép CC BY-SA 4.0. Ghi công trong
+  `scripts/data/ngsl/README.md` và trên trang chọn bộ từ của app.
 - `scripts/data/ngsl/function-words.json`: danh sách headword bị loại (mạo từ, đại từ, giới
   từ, liên từ, trợ động từ/động từ khuyết thiếu, từ hạn định, số đếm, thán từ như *oh, yeah*).
 
@@ -38,7 +41,10 @@ EnglishPod) và 2–3 từ đồng nghĩa.
    headword có `ngslRank` nhỏ nhất.
 3. Với mọi dòng thoại của 365 bài (`readEpisodeItems`/parser trong `scripts/lib/transcripts.js`,
    chỉ phần `.dialogue-block .text`), tách từ bằng cùng quy tắc chuẩn hoá của
-   `src/lib/vocabulary.ts`, đếm `count[headword]`.
+   một quy tắc tách từ chung (`wordTokens` trong `scripts/lib/core.js`): chữ cái, cho phép một
+   dấu nháy bên trong; bỏ token kết thúc bằng *n't* (đều là trợ động từ phủ định, và *won't*
+   không được tính thành *win*); token có nháy lấy phần trước nháy (*dad's* → *dad*, *I'm* → *I*).
+   Đếm `count[headword]`.
 4. `epRank`: thứ hạng theo `count` giảm dần trong N headword; headword có `count = 0` đều nhận
    `epRank = N`.
 5. `score = ngslRank / N + epRank / N`; nhỏ hơn là phổ biến hơn. Hoà điểm thì `ngslRank` nhỏ
@@ -78,10 +84,11 @@ Với mỗi từ có `count > 0`, chọn một câu thoại chứa một dạng 
 ## 2. Build: `scripts/build_core.js`
 
 - Đọc `scripts/data/core-vi/NN.jsonl`, ghi `public/core/core_NN.json` (mảng `VocabEntry`).
-- Một nhóm chỉ được ghi khi cả 100 dòng đã có `d`, `vi`, `ex`, `hit`, `exVi`. Thiếu file là
+- Một nhóm chỉ được ghi khi cả 100 dòng đã có `d`, `vi`, `vd`, `ex`, `hit`, `exVi` và `hit` nằm
+  trong `ex`. Thiếu file là
   trạng thái "chưa xong" bình thường, giống `public/vocab/`.
-- IPA lấy bằng logic của `build_vocab.js` (CMUdict + `vocab-ipa-overrides.json`). Hàm `ipaFor`
-  và phần tải CMUdict được tách sang `scripts/lib/ipa.js` để hai script dùng chung.
+- IPA lấy bằng `loadCmudict`/`ipaFor` mà `build_vocab.js` đã export (CMUdict +
+  `vocab-ipa-overrides.json`); không cần tách file.
 - `type` để trống (NGSL không có từ loại; không cần cho thẻ).
 - Mỗi phần tử: `word, ipa, def, vi, viDef, ex, exHit, exVi`, thêm hai trường mới tuỳ chọn:
   - `syn?: string[]`: từ đồng nghĩa (bỏ trường khi rỗng).
@@ -146,16 +153,18 @@ Server: `episode_id`/`episode_ids` là `Int` và zod trong `server/src/sync/sche
 - **VocabHome**: chỗ nào liệt kê deck theo số bài thì dùng `coreDeckName` cho ID core; nút mở
   bài (`onOpenEpisode`) không hiện với ID core. `#vocab/episode/<id>` với ID core hiện danh sách
   từ của nhóm (WordList) như một deck bài, tiêu đề là `coreDeckName`.
-- **Flashcard (mặt sau), WordList**: khi có `syn` thì thêm dòng *"Đồng nghĩa: purchase, get,
-  pick up"*. Khi câu ví dụ có `ep` thì thêm link nhỏ "Bài N" mở bài đó (`onOpenEpisode`).
+- **Flashcard (mặt sau)**: khi có `syn` thì thêm khối *Synonyms: purchase, get, pick up*. Câu
+  ví dụ có `ep` thì ghi nhỏ "Trích từ bài N" (chữ thường, vì phiên học không có `onOpenEpisode`).
+- **WordList**: mở một dòng từ thì hiện thêm đồng nghĩa và câu ví dụ (tải file của các deck chứa
+  thẻ đó, chỉ khi mở); "Trích từ bài N" ở đây là link mở bài.
 - Không thêm kiểu câu hỏi game nào; game chạy với deck core như deck bài.
-- Footer: ghi công NGSL (CC BY-SA 4.0).
+- Ghi công NGSL (CC BY-SA 4.0) dưới tiêu đề mục "1000 từ phổ biến" trong DeckBrowser.
 
 ## 5. Kiểm tra
 
 - `node scripts/verify_core.js`.
-- Thêm vào `scripts/verify_srs_store.js`: thêm deck core; thẻ trùng với deck bài dùng chung một
-  thẻ và giữ tiến độ; xoá deck core giữ thẻ của deck bài; `vocabFile` cho ID bài và ID core.
+- `scripts/verify_core_decks.js` (mới, giả lập `fetch`): thêm deck core; thẻ trùng với deck bài dùng chung một
+  thẻ và giữ tiến độ; xoá deck core giữ thẻ của deck bài; `vocabFile` cho ID bài và ID core; `exampleOf`/`synonymsOf`.
 - Chạy toàn bộ `scripts/verify_*.js`, `pnpm typecheck`, `pnpm lint`, `pnpm build`.
 - Chạy app: thêm nhóm 1, học vài thẻ, chơi một lượt game, thấy dòng đồng nghĩa và link "Bài N";
   đăng nhập và sync trên hai trình duyệt thấy deck core xuất hiện ở cả hai.
