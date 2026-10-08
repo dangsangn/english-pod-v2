@@ -7,7 +7,7 @@ Ngày: 2026-10-08
 Ngoài từ vựng theo từng bài, người học cần một bộ từ nền tảng: 1000 từ nội dung xuất hiện
 nhiều nhất trong hội thoại tiếng Anh. Bộ này được học như mọi deck khác (flashcard, game,
 lịch ôn SRS, sync), mỗi từ kèm IPA, nghĩa tiếng Việt, một câu ví dụ (ưu tiên câu thoại
-EnglishPod) và 2–3 từ đồng nghĩa.
+EnglishPod), 2–3 từ đồng nghĩa và 2–3 cụm từ thông dụng (collocation).
 
 ## Quyết định đã chốt
 
@@ -16,7 +16,7 @@ EnglishPod) và 2–3 từ đồng nghĩa.
 | Nguồn danh sách | Kết hợp: NGSL 1.2 làm gốc, xếp hạng lại theo tần suất trong hội thoại EnglishPod. |
 | Cách dùng | Học bằng SRS: 10 deck × 100 từ theo thứ hạng. |
 | Từ chức năng (*the, a, is, I, of…*) | Loại bỏ; 1000 từ đều là từ nội dung (danh, động, tính, trạng từ). |
-| Cụm động từ | Không có trong đợt này (NGSL chỉ có từ đơn). |
+| Cụm từ | Đợt này: mỗi từ kèm 0–3 cụm thông dụng có nghĩa tiếng Việt, chỉ hiển thị (trường `col`). Deck "Cụm từ phổ biến" học bằng SRS là spec riêng, làm sau. |
 | Tích hợp deck | Dải ID số riêng `10001–10010` trong không gian deck hiện có. Không đổi server, DB, sync. |
 | Từ đồng nghĩa | Chỉ hiển thị, 0–3 từ cho đúng nghĩa chính. Không có câu hỏi game mới, không dịch/IPA riêng. |
 | Phạm vi nội dung đợt đầu | Pipeline + UI đầy đủ; soạn nhóm 1 (100 từ) để duyệt chất lượng, 9 nhóm còn lại làm sau. |
@@ -67,11 +67,18 @@ Với mỗi từ có `count > 0`, chọn một câu thoại chứa một dạng 
 `01.jsonl` … `10.jsonl`, mỗi file 100 dòng theo thứ hạng:
 
 ```json
-{"rank":12,"w":"buy","n":214,"ex":"I want to buy a new phone.","hit":"buy","ep":42,"exVi":"Tôi muốn mua một cái điện thoại mới.","d":"","vi":"","vd":"","syn":[]}
+{"rank":12,"w":"buy","n":214,"ex":"I want to buy a new phone.","hit":"buy","ep":42,"exVi":"Tôi muốn mua một cái điện thoại mới.","d":"","vi":"","vd":"","syn":[],"col":[],"colHint":["buy a (12)","buy it (9)"]}
 ```
 
 - `n` = số lần xuất hiện trong EnglishPod (để tham khảo).
-- Các trường soạn tay: `d` (định nghĩa tiếng Anh ngắn cho nghĩa chính), `vi`, `vd`, `syn`, và
+- `colHint`: gợi ý cụm cho người soạn, không được build ra. Với mỗi lần một dạng của từ xuất hiện
+  trong một câu thoại, đếm mọi cụm 2–4 từ liên tiếp chứa nó (chữ thường, giữ dạng rút gọn như
+  *don't*). Bỏ cụm mở đầu hoặc kết thúc bằng từ chức năng, trừ các tiểu từ *up, out, off, down,
+  over, back, away, on, in, about, around* (để giữ *figure out*); bỏ cụm gặp dưới 3 lần. Lấy 5
+  cụm nhiều nhất (hoà thì cụm dài hơn trước), dạng `"make sure (41)"`. Luôn tính lại khi chạy.
+- `col`: soạn tay, 0–3 cụm `{"en":"make sure","vi":"đảm bảo"}`. Ưu tiên cụm trong `colHint` nếu
+  tự nhiên; được viết cụm khác khi cụm thông dụng không có trong EnglishPod.
+- Các trường soạn tay: `d` (định nghĩa tiếng Anh ngắn cho nghĩa chính), `vi`, `vd`, `syn`, `col`, và
   `ex`/`hit`/`exVi` khi chưa có (từ không xuất hiện trong EnglishPod, hoặc câu cần dịch).
   Câu soạn tay thì không có `ep`.
 - Tận dụng dữ liệu sẵn có: nếu `cardId(w)` trùng một từ trong `scripts/data/vocab-vi/` thì điền
@@ -92,8 +99,10 @@ Với mỗi từ có `count > 0`, chọn một câu thoại chứa một dạng 
 - `type` để trống (NGSL không có từ loại; không cần cho thẻ).
 - Mỗi phần tử: `word, ipa, def, vi, viDef, ex, exHit, exVi`, thêm hai trường mới tuỳ chọn:
   - `syn?: string[]`: từ đồng nghĩa (bỏ trường khi rỗng).
+  - `col?: {en, vi}[]`: cụm từ (bỏ trường khi rỗng). `colHint` không được build ra.
   - `exEp?: number`: bài chứa câu ví dụ.
-- `src/types.ts`: thêm `syn?` và `exEp?` vào `VocabEntry`.
+- `src/types.ts`: thêm `syn?`, `col?` (kiểu `Collocation`) và `exEp?` vào `VocabEntry`.
+- `col` không bắt buộc để một dòng được coi là xong.
 
 ### `scripts/verify_core.js`
 
@@ -103,6 +112,8 @@ Với mỗi file trong `scripts/data/core-vi/` (và `public/core/` nếu có):
 - Không từ nào nằm trong `function-words.json`.
 - `hit` xuất hiện trong `ex` (so sánh không phân biệt hoa thường); `ep` nếu có thì nằm trong 1–365.
 - `syn` tối đa 3 phần tử, không chứa chính từ đó, không trùng nhau.
+- `col` tối đa 3 phần tử; mỗi phần tử có `en` và `vi` không rỗng; `en` chứa một dạng của từ
+  (theo danh sách dạng NGSL); không trùng `en`.
 - Mỗi `public/core/core_NN.json` khớp với nguồn của nó (chạy `build_core.js` lại không đổi gì).
 
 ## 3. Tích hợp vào app
@@ -134,12 +145,12 @@ export function vocabFile(id: number): string     // core: ./core/core_02.json, 
   `vocabFile(id)`, không cần `Episode`.
 - `settings.lastEpisodeId` và `lessons` không bao giờ nhận ID core.
 
-### Từ đồng nghĩa và câu ví dụ (`src/lib/examples.ts`)
+### Từ đồng nghĩa, cụm từ và câu ví dụ (`src/lib/examples.ts`)
 
-Đổi cache từ `Map<number, Map<string, Example>>` sang lưu thêm `syn` và `ep`:
-`Example` thêm `syn?: string[]` và `ep?: number`. Hook hiện có tải file theo `vocabFile(id)`
-cho mọi deck của thẻ. Thẻ có trong cả deck bài và deck core thì câu ví dụ lấy từ deck đầu tiên
-có câu (như hiện nay), còn `syn` lấy từ deck đầu tiên có `syn`. Không lưu gì lên thẻ, nên sync,
+`Example` thêm `ep?: number`. Bên cạnh cache câu ví dụ có thêm cache `syn`/`col` theo deck, đọc
+bằng `synonymsOf(card)` và `collocationsOf(card)`. Hook hiện có tải file theo `vocabFile(id)` cho
+mọi deck của thẻ. Thẻ có trong cả deck bài và deck core thì câu ví dụ lấy từ deck đầu tiên có câu
+(như hiện nay), còn `syn`/`col` lấy từ deck đầu tiên có chúng. Không lưu gì lên thẻ, nên sync,
 server và DB không đổi.
 
 Server: `episode_id`/`episode_ids` là `Int` và zod trong `server/src/sync/schema.ts` chỉ kiểm
@@ -155,7 +166,9 @@ Server: `episode_id`/`episode_ids` là `Int` và zod trong `server/src/sync/sche
   từ của nhóm (WordList) như một deck bài, tiêu đề là `coreDeckName`.
 - **Flashcard (mặt sau)**: khi có `syn` thì thêm khối *Synonyms: purchase, get, pick up*. Câu
   ví dụ có `ep` thì ghi nhỏ "Trích từ bài N" (chữ thường, vì phiên học không có `onOpenEpisode`).
-- **WordList**: mở một dòng từ thì hiện thêm đồng nghĩa và câu ví dụ (tải file của các deck chứa
+- **Flashcard (mặt sau)**: khi có `col` thì thêm khối *Collocations*, mỗi dòng "make sure —
+  đảm bảo".
+- **WordList**: mở một dòng từ thì hiện thêm đồng nghĩa, cụm từ và câu ví dụ (tải file của các deck chứa
   thẻ đó, chỉ khi mở); "Trích từ bài N" ở đây là link mở bài.
 - Không thêm kiểu câu hỏi game nào; game chạy với deck core như deck bài.
 - Ghi công NGSL (CC BY-SA 4.0) dưới tiêu đề mục "1000 từ phổ biến" trong DeckBrowser.
@@ -164,14 +177,16 @@ Server: `episode_id`/`episode_ids` là `Int` và zod trong `server/src/sync/sche
 
 - `node scripts/verify_core.js`.
 - `scripts/verify_core_decks.js` (mới, giả lập `fetch`): thêm deck core; thẻ trùng với deck bài dùng chung một
-  thẻ và giữ tiến độ; xoá deck core giữ thẻ của deck bài; `vocabFile` cho ID bài và ID core; `exampleOf`/`synonymsOf`.
+  thẻ và giữ tiến độ; xoá deck core giữ thẻ của deck bài; `vocabFile` cho ID bài và ID core; `exampleOf`/`synonymsOf`/`collocationsOf`.
 - Chạy toàn bộ `scripts/verify_*.js`, `pnpm typecheck`, `pnpm lint`, `pnpm build`.
-- Chạy app: thêm nhóm 1, học vài thẻ, chơi một lượt game, thấy dòng đồng nghĩa và link "Bài N";
+- Chạy app: thêm nhóm 1, học vài thẻ, chơi một lượt game, thấy đồng nghĩa, cụm từ và link "Bài N";
   đăng nhập và sync trên hai trình duyệt thấy deck core xuất hiện ở cả hai.
 
 ## Ngoài phạm vi
 
-- Cụm động từ và thành ngữ.
+- Deck "Cụm từ phổ biến" (cụm động từ, collocation, câu cửa miệng là thẻ SRS riêng, khai thác
+  bằng n-gram): spec riêng sau đợt này, dùng lại pipeline.
+- Câu hỏi game về cụm từ.
 - Câu hỏi game về từ đồng nghĩa; IPA/nghĩa cho từ đồng nghĩa.
 - Trang tra cứu 1000 từ riêng (ngoài WordList của từng nhóm).
 - Nội dung nhóm 2–10 (làm sau khi duyệt nhóm 1, cùng pipeline).
