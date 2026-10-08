@@ -7,7 +7,7 @@
 // files of the decks its cards come from; they stay cached in memory.
 
 import { useEffect, useState } from 'react'
-import type { Collocation, VocabEntry } from '../types'
+import type { RelatedWord, VocabEntry } from '../types'
 import { cardId } from './srs.ts'
 import type { Card } from './srs'
 import { vocabFile } from './coreDecks.ts'
@@ -25,8 +25,8 @@ export interface Example {
 
 /** What a Top 1000 file adds to a word besides its example. */
 interface Extras {
-  syn?: string[]
-  col?: Collocation[]
+  syn?: RelatedWord[]
+  col?: RelatedWord[]
 }
 
 const loaded = new Map<number, Map<string, Example>>()
@@ -95,11 +95,11 @@ function firstExtra<T>(
   return []
 }
 
-export function synonymsOf(card: Pick<Card, 'id' | 'episodeIds'>): string[] {
+export function synonymsOf(card: Pick<Card, 'id' | 'episodeIds'>): RelatedWord[] {
   return firstExtra(card, (x) => x.syn)
 }
 
-export function collocationsOf(card: Pick<Card, 'id' | 'episodeIds'>): Collocation[] {
+export function collocationsOf(card: Pick<Card, 'id' | 'episodeIds'>): RelatedWord[] {
   return firstExtra(card, (x) => x.col)
 }
 

@@ -14,10 +14,14 @@ export interface Episode {
   transcript_url: string
 }
 
-/** A common phrase built on a word: "make sure" — "đảm bảo". */
-export interface Collocation {
+/**
+ * A synonym or a common phrase built on a word ("make sure" — "đảm bảo"), with
+ * its IPA when the dictionary knows it.
+ */
+export interface RelatedWord {
   en: string
   vi: string
+  ipa?: string
 }
 
 /**
@@ -37,10 +41,10 @@ export interface VocabEntry {
   exHit?: string
   /** Vietnamese translation of `ex`. */
   exVi?: string
-  /** Synonyms for this sense (Top 1000 only). */
-  syn?: string[]
+  /** Synonyms for this sense, with their Vietnamese (Top 1000 only). */
+  syn?: RelatedWord[]
   /** Common phrases built on the word, with their Vietnamese (Top 1000 only). */
-  col?: Collocation[]
+  col?: RelatedWord[]
   /** The episode `ex` comes from (Top 1000 only; an episode's own examples are from itself). */
   exEp?: number
 }

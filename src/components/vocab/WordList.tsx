@@ -12,6 +12,7 @@ import { collocationsOf, exampleOf, synonymsOf, useExamples } from '../../lib/ex
 import { speak } from '../../lib/speech'
 import { STAGES } from './stages'
 import ExampleSentence from './ExampleSentence'
+import RelatedList from './RelatedList'
 import LeechBadge from './LeechBadge'
 
 type FilterKey = 'all' | 'learned' | 'leech' | Stage
@@ -370,24 +371,8 @@ function WordExtras({
   const collocations = ready ? collocationsOf(card) : []
   return (
     <>
-      {synonyms.length > 0 && (
-        <p className='text-zinc-600 dark:text-zinc-400'>
-          <span className='font-medium'>Đồng nghĩa:</span> {synonyms.join(', ')}
-        </p>
-      )}
-      {collocations.length > 0 && (
-        <div className='text-zinc-600 dark:text-zinc-400'>
-          <span className='font-medium'>Cụm từ:</span>
-          <ul className='mt-0.5 space-y-0.5'>
-            {collocations.map((c) => (
-              <li key={c.en}>
-                {c.en}{' '}
-                <span className='vi-text text-indigo-600 dark:text-indigo-400'>— {c.vi}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
+      {synonyms.length > 0 && <RelatedList label='Đồng nghĩa' items={synonyms} />}
+      {collocations.length > 0 && <RelatedList label='Cụm từ' items={collocations} />}
       {example && (
         <ExampleSentence example={example} showTranslation onOpenEpisode={onOpenEpisode} />
       )}

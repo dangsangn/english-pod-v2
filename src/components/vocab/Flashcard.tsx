@@ -3,7 +3,7 @@ import type { MouseEvent, PointerEvent, ReactNode, SyntheticEvent } from 'react'
 import { Check, Layers, RotateCcw, Volume2 } from 'lucide-react'
 import classNames from 'classnames'
 import { isLeech, stageOf } from '../../lib/srs'
-import type { Collocation } from '../../types'
+import type { RelatedWord } from '../../types'
 import type { StoredCard } from '../../lib/srsStore'
 import { speak } from '../../lib/speech'
 import { STAGE_BY_KEY } from './stages'
@@ -11,6 +11,7 @@ import type { StageStyle } from './stages'
 import type { Example } from '../../lib/examples'
 import FloatingCard from '../FloatingCard'
 import ExampleSentence from './ExampleSentence'
+import RelatedList from './RelatedList'
 import LeechBadge from './LeechBadge'
 import StageBadge from './StageBadge'
 
@@ -27,10 +28,10 @@ interface FlashcardProps {
   canSwipe: boolean
   /** Shown on the back under the definition. */
   example?: Example | null
-  /** Shown on the back under the definition (Top 1000 words). */
-  synonyms?: string[]
-  /** Shown under the synonyms (Top 1000 words). */
-  collocations?: Collocation[]
+  /** Top 1000 words: shown in the card's Từ liên quan popup. */
+  synonyms?: RelatedWord[]
+  /** Top 1000 words: shown in the card's Từ liên quan popup, after the synonyms. */
+  collocations?: RelatedWord[]
   onFlip: () => void
   onAnswer: (rating: CardAnswer) => void
 }
@@ -142,9 +143,7 @@ export default function Flashcard({
           <Face className='rotate-y-180 p-5!'>
             <div className='flex items-start justify-between gap-2'>
               <Badges card={card} stage={stage} />
-              {collocations && collocations.length > 0 && (
-                <CollocationsButton items={collocations} />
-              )}
+              <RelatedButton synonyms={synonyms ?? []} collocations={collocations ?? []} />
             </div>
             {/* min-h-0 + overflow: on a very short screen the content still
                 scrolls inside the card rather than overflowing it. */}
@@ -177,13 +176,6 @@ export default function Flashcard({
                       {card.viDef}
                     </p>
                   )}
-                </Section>
-              )}
-              {synonyms && synonyms.length > 0 && (
-                <Section label='Synonyms'>
-                  <p className='text-base text-zinc-700 dark:text-zinc-300'>
-                    {synonyms.join(', ')}
-                  </p>
                 </Section>
               )}
               {example && (
@@ -299,18 +291,27 @@ function Section({ label, children }: { label: string; children: ReactNode }) {
 }
 
 /**
- * Collocations live behind a chip in the card's top row and open in a floating
- * card, so they never change the card's layout.
+ * Synonyms and collocations live behind a chip in the card's top row and open
+ * in a floating card, so they never change the card's layout.
  */
-function CollocationsButton({ items }: { items: Collocation[] }) {
+function RelatedButton({
+  synonyms,
+  collocations,
+}: {
+  synonyms: RelatedWord[]
+  collocations: RelatedWord[]
+}) {
   const button = useRef<HTMLButtonElement>(null)
   const [openAt, setOpenAt] = useState<DOMRect | null>(null)
   // Presses here, and in the floating card (React bubbles them through the
   // portal), must neither start a drag nor flip the card.
   const stop = (e: SyntheticEvent) => e.stopPropagation()
 
+  const count = synonyms.length + collocations.length
+  if (count === 0) return null
+
   return (
-    // Only stops events; the button inside is the control.
+    // Only stops events; the buttons inside are the controls.
     // eslint-disable-next-line jsx-a11y/no-static-element-interactions, jsx-a11y/click-events-have-key-events
     <span className='flex-none' onPointerDown={stop} onPointerUp={stop} onClick={stop}>
       <button
@@ -327,30 +328,21 @@ function CollocationsButton({ items }: { items: Collocation[] }) {
             : 'bg-indigo-50 text-indigo-600 border-indigo-100 hover:bg-indigo-100 dark:bg-indigo-500/10 dark:text-indigo-300 dark:border-indigo-500/20',
         )}
       >
-        <Layers size={13} /> Cụm từ ({items.length})
+        <Layers size={13} /> Từ liên quan ({count})
       </button>
       {openAt && (
         <FloatingCard
           rect={openAt}
-          width={280}
-          label='Cụm từ thông dụng'
+          width={300}
+          label='Từ đồng nghĩa và cụm từ'
           anchor={button}
           placement='below'
           onClose={() => setOpenAt(null)}
         >
-          <p className='text-[11px] font-semibold uppercase tracking-wider text-zinc-400'>
-            Collocations
-          </p>
-          <ul className='mt-1 space-y-1'>
-            {items.map((c) => (
-              <li key={c.en} className='text-base leading-snug text-zinc-700 dark:text-zinc-300'>
-                {c.en}{' '}
-                <span className='vi-text text-sm text-indigo-600 dark:text-indigo-400'>
-                  — {c.vi}
-                </span>
-              </li>
-            ))}
-          </ul>
+          <div className='space-y-3'>
+            {synonyms.length > 0 && <RelatedList label='Synonyms' items={synonyms} />}
+            {collocations.length > 0 && <RelatedList label='Collocations' items={collocations} />}
+          </div>
         </FloatingCard>
       )}
     </span>

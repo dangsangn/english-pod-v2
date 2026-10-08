@@ -34,7 +34,7 @@ async function main() {
             console.log(`${coreOutFor(g)}: ${done}/${CORE_GROUP_SIZE} rows done, not written`);
             continue;
         }
-        const entries = rows.map((row) => toCoreEntry(row, ipaFor(row.w, cmudict)));
+        const entries = rows.map((row) => toCoreEntry(row, (text) => ipaFor(text, cmudict)));
         fs.writeFileSync(out, `${JSON.stringify(entries, null, 2)}\n`);
         const noIpa = entries.filter((e) => !e.ipa).map((e) => e.word);
         console.log(`${coreOutFor(g)}: written${noIpa.length ? ` (no IPA: ${noIpa.join(', ')})` : ''}`);

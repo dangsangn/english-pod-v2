@@ -6,7 +6,7 @@
  *
  *   {"rank","w","n","ex","hit","ep"?,"exVi","d","vi","vd","syn","col","colHint","viHint"}
  *
- * `col` is [{ en, vi }]; `colHint` only helps whoever writes `col`,
+ * `syn` and `col` are [{ en, vi }] (the build adds each one's IPA); `colHint` only helps whoever writes `col`,
  * and `viHint` whoever writes `vi`; neither *Hint field is ever built.
  *
  * Shared by rank_core.js, build_core.js and verify_core.js.
@@ -112,19 +112,27 @@ export function isCoreComplete(row) {
     );
 }
 
-/** A row as the app reads it (src/types.ts VocabEntry). */
-export function toCoreEntry(row, ipa) {
+/**
+ * A row as the app reads it (src/types.ts VocabEntry). `ipaOf(text)` gives the
+ * IPA of the word and of each synonym and collocation ('' when unknown).
+ */
+export function toCoreEntry(row, ipaOf) {
+    const related = (items) =>
+        items.map(({ en, vi }) => {
+            const ipa = ipaOf(en);
+            return { en, vi, ...(ipa ? { ipa } : {}) };
+        });
     return {
         word: row.w,
-        ipa,
+        ipa: ipaOf(row.w),
         def: row.d,
         vi: row.vi,
         viDef: row.vd,
         ex: row.ex,
         exHit: row.hit,
         exVi: row.exVi,
-        ...(row.syn?.length ? { syn: row.syn } : {}),
-        ...(row.col?.length ? { col: row.col } : {}),
+        ...(row.syn?.length ? { syn: related(row.syn) } : {}),
+        ...(row.col?.length ? { col: related(row.col) } : {}),
         ...(row.ep ? { exEp: row.ep } : {}),
     };
 }

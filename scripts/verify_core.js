@@ -65,7 +65,10 @@ for (const { row, file, line } of rows) {
     if (!Array.isArray(syn) || syn.length > 3) {
         problems.push(`${at}: syn must be a list of at most 3`);
     } else {
-        const keys = syn.map(cardId);
+        for (const s of syn) {
+            if (!s?.en || !s?.vi) problems.push(`${at}: syn entry needs en and vi: ${JSON.stringify(s)}`);
+        }
+        const keys = syn.map((s) => cardId(s?.en));
         if (keys.includes(id)) problems.push(`${at}: syn repeats the word itself`);
         if (new Set(keys).size !== keys.length) problems.push(`${at}: syn has duplicates`);
     }
@@ -112,8 +115,10 @@ for (let g = 1; g <= CORE_GROUPS; g++) {
     }
     const built = JSON.parse(fs.readFileSync(out, 'utf-8'));
     // IPA comes from CMUdict at build time; everything else must match the source.
-    expect(`${name} matches its source`, built,
-        source.map((row, i) => toCoreEntry(row, built[i]?.ipa ?? '')));
+    const noIpa = (items) => items?.map(({ en, vi }) => ({ en, vi }));
+    const comparable = (e) => ({ ...e, ipa: undefined, syn: noIpa(e.syn), col: noIpa(e.col) });
+    expect(`${name} matches its source`, built.map(comparable),
+        source.map((row) => comparable(toCoreEntry(row, () => ''))));
 }
 
 // ------------------------------------------------------------------ report

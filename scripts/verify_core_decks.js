@@ -40,8 +40,8 @@ files.set('./vocab/englishpod_0001.json', [
     { word: 'grab', def: 'get quickly', vi: 'chộp' },
 ]);
 files.set('./core/core_01.json', [
-    { word: 'buy', def: 'get by paying', vi: 'mua', ex: 'Buy one.', exHit: 'Buy', exVi: 'Mua một cái.', exEp: 42, syn: ['purchase', 'get'], col: [{ en: 'buy time', vi: 'câu giờ' }] },
-    { word: 'go', def: 'move', vi: 'đi', ex: 'Let us go.', exHit: 'go', exVi: 'Đi nào.', syn: ['leave'] },
+    { word: 'buy', def: 'get by paying', vi: 'mua', ex: 'Buy one.', exHit: 'Buy', exVi: 'Mua một cái.', exEp: 42, syn: [{ en: 'purchase', vi: 'mua sắm', ipa: 'ˈpɝtʃəs' }, { en: 'get', vi: 'mua' }], col: [{ en: 'buy time', vi: 'câu giờ' }] },
+    { word: 'go', def: 'move', vi: 'đi', ex: 'Let us go.', exHit: 'go', exVi: 'Đi nào.', syn: [{ en: 'leave', vi: 'rời đi' }] },
 ]);
 
 await addDeckById(1);
@@ -74,7 +74,8 @@ expect('example from the first deck that has one', exampleOf(s.cards.buy),
     { ex: 'I want to buy it.', hit: 'buy', vi: 'Tôi muốn mua nó.' });
 expect('a core example carries its episode', exampleOf({ id: 'buy', episodeIds: [10001] }),
     { ex: 'Buy one.', hit: 'Buy', vi: 'Mua một cái.', ep: 42 });
-expect('synonyms from the deck that has them', synonymsOf(s.cards.buy), ['purchase', 'get']);
+expect('synonyms from the deck that has them', synonymsOf(s.cards.buy),
+    [{ en: 'purchase', vi: 'mua sắm', ipa: 'ˈpɝtʃəs' }, { en: 'get', vi: 'mua' }]);
 expect('no synonyms', synonymsOf(s.cards.grab), []);
 expect('collocations', collocationsOf(s.cards.buy), [{ en: 'buy time', vi: 'câu giờ' }]);
 expect('synonyms without collocations', collocationsOf(s.cards.go), []);

@@ -9,21 +9,32 @@
     "exHit": "go",
     "exVi": "Kệ đi ông bạn, tôi đi xem trận khai mạc đây.",
     "syn": [
-      "head",
-      "travel"
+      {
+        "en": "head",
+        "vi": "đi về phía",
+        "ipa": "hɛd"
+      },
+      {
+        "en": "travel",
+        "vi": "đi lại, di chuyển",
+        "ipa": "ˈtɹævəl"
+      }
     ],
     "col": [
       {
         "en": "let's go",
-        "vi": "đi thôi"
+        "vi": "đi thôi",
+        "ipa": "lɛts ɡoʊ"
       },
       {
         "en": "go on",
-        "vi": "tiếp tục; xảy ra"
+        "vi": "tiếp tục; xảy ra",
+        "ipa": "ɡoʊ ɑn"
       },
       {
         "en": "go out",
-        "vi": "ra ngoài, đi chơi"
+        "vi": "ra ngoài, đi chơi",
+        "ipa": "ɡoʊ aʊt"
       }
     ],
     "exEp": 257
@@ -38,22 +49,37 @@
     "exHit": "get",
     "exVi": "Thật tình, anh không hiểu sao mình phải mua TV mới.",
     "syn": [
-      "obtain",
-      "receive",
-      "buy"
+      {
+        "en": "obtain",
+        "vi": "có được, giành được",
+        "ipa": "əbˈteɪn"
+      },
+      {
+        "en": "receive",
+        "vi": "nhận được",
+        "ipa": "ɹəˈsiv"
+      },
+      {
+        "en": "buy",
+        "vi": "mua",
+        "ipa": "baɪ"
+      }
     ],
     "col": [
       {
         "en": "get back",
-        "vi": "quay lại"
+        "vi": "quay lại",
+        "ipa": "ɡɛt bæk"
       },
       {
         "en": "let's get started",
-        "vi": "bắt đầu thôi"
+        "vi": "bắt đầu thôi",
+        "ipa": "lɛts ɡɛt ˈstɑɹtɪd"
       },
       {
         "en": "get up",
-        "vi": "thức dậy"
+        "vi": "thức dậy",
+        "ipa": "ɡɛt ʌp"
       }
     ],
     "exEp": 134
@@ -68,20 +94,27 @@
     "exHit": "know",
     "exVi": "Anh biết em muốn nói gì mà.",
     "syn": [
-      "be aware"
+      {
+        "en": "be aware",
+        "vi": "biết, nhận thức được",
+        "ipa": "bi əˈwɛɹ"
+      }
     ],
     "col": [
       {
         "en": "you know",
-        "vi": "bạn biết đấy"
+        "vi": "bạn biết đấy",
+        "ipa": "ju noʊ"
       },
       {
         "en": "I don't know",
-        "vi": "tôi không biết"
+        "vi": "tôi không biết",
+        "ipa": "aɪ doʊnt noʊ"
       },
       {
         "en": "want to know",
-        "vi": "muốn biết"
+        "vi": "muốn biết",
+        "ipa": "wɑnt tu noʊ"
       }
     ],
     "exEp": 103
@@ -96,21 +129,32 @@
     "exHit": "like",
     "exVi": "Tuyệt! Tôi thích cái này.",
     "syn": [
-      "enjoy",
-      "be fond of"
+      {
+        "en": "enjoy",
+        "vi": "thích thú, tận hưởng",
+        "ipa": "ɛnˈdʒɔɪ"
+      },
+      {
+        "en": "be fond of",
+        "vi": "quý mến, ưa thích",
+        "ipa": "bi fɑnd ʌv"
+      }
     ],
     "col": [
       {
         "en": "would like",
-        "vi": "muốn (lịch sự)"
+        "vi": "muốn (lịch sự)",
+        "ipa": "wʊd laɪk"
       },
       {
         "en": "feel like",
-        "vi": "muốn, thấy thích"
+        "vi": "muốn, thấy thích",
+        "ipa": "fil laɪk"
       },
       {
         "en": "looks like",
-        "vi": "trông giống như"
+        "vi": "trông giống như",
+        "ipa": "lʊks laɪk"
       }
     ],
     "exEp": 278
@@ -125,22 +169,37 @@
     "exHit": "think",
     "exVi": "Vậy anh nghĩ là bị gì?",
     "syn": [
-      "believe",
-      "suppose",
-      "reckon"
+      {
+        "en": "believe",
+        "vi": "tin rằng",
+        "ipa": "bɪˈliv"
+      },
+      {
+        "en": "suppose",
+        "vi": "cho rằng, đoán là",
+        "ipa": "səˈpoʊz"
+      },
+      {
+        "en": "reckon",
+        "vi": "nghĩ là (thân mật)",
+        "ipa": "ˈɹɛkən"
+      }
     ],
     "col": [
       {
         "en": "think about",
-        "vi": "nghĩ về"
+        "vi": "nghĩ về",
+        "ipa": "θɪŋk əˈbaʊt"
       },
       {
         "en": "I think so",
-        "vi": "tôi nghĩ vậy"
+        "vi": "tôi nghĩ vậy",
+        "ipa": "aɪ θɪŋk soʊ"
       },
       {
         "en": "think twice",
-        "vi": "suy nghĩ kỹ"
+        "vi": "suy nghĩ kỹ",
+        "ipa": "θɪŋk twaɪs"
       }
     ],
     "exEp": 221
@@ -155,20 +214,27 @@
     "exHit": "Well",
     "exVi": "À… vâng thưa anh, đúng vậy ạ.",
     "syn": [
-      "so"
+      {
+        "en": "so",
+        "vi": "vậy thì, thế là",
+        "ipa": "soʊ"
+      }
     ],
     "col": [
       {
         "en": "very well",
-        "vi": "được thôi; rất tốt"
+        "vi": "được thôi; rất tốt",
+        "ipa": "ˈvɛɹi wɛl"
       },
       {
         "en": "as well",
-        "vi": "cũng"
+        "vi": "cũng",
+        "ipa": "æz wɛl"
       },
       {
         "en": "well done",
-        "vi": "làm tốt lắm"
+        "vi": "làm tốt lắm",
+        "ipa": "wɛl dʌn"
       }
     ],
     "exEp": 54
@@ -183,21 +249,32 @@
     "exHit": "see",
     "exVi": "Chào anh! Chúng tôi là nhà Christianson! Chúng tôi đến xem căn hộ.",
     "syn": [
-      "notice",
-      "spot"
+      {
+        "en": "notice",
+        "vi": "để ý, nhận thấy",
+        "ipa": "ˈnoʊtəs"
+      },
+      {
+        "en": "spot",
+        "vi": "phát hiện ra",
+        "ipa": "spɑt"
+      }
     ],
     "col": [
       {
         "en": "let's see",
-        "vi": "để xem nào"
+        "vi": "để xem nào",
+        "ipa": "lɛts si"
       },
       {
         "en": "I see",
-        "vi": "tôi hiểu rồi"
+        "vi": "tôi hiểu rồi",
+        "ipa": "aɪ si"
       },
       {
         "en": "see you",
-        "vi": "hẹn gặp lại"
+        "vi": "hẹn gặp lại",
+        "ipa": "si ju"
       }
     ],
     "exEp": 86
@@ -212,22 +289,37 @@
     "exHit": "good",
     "exVi": "Và anh nghĩ đây là rượu ngon?",
     "syn": [
-      "nice",
-      "fine",
-      "great"
+      {
+        "en": "nice",
+        "vi": "dễ chịu, tốt",
+        "ipa": "naɪs"
+      },
+      {
+        "en": "fine",
+        "vi": "ổn, tốt",
+        "ipa": "faɪn"
+      },
+      {
+        "en": "great",
+        "vi": "tuyệt vời",
+        "ipa": "ɡɹeɪt"
+      }
     ],
     "col": [
       {
         "en": "sounds good",
-        "vi": "nghe được đấy"
+        "vi": "nghe được đấy",
+        "ipa": "saʊndz ɡʊd"
       },
       {
         "en": "good idea",
-        "vi": "ý hay"
+        "vi": "ý hay",
+        "ipa": "ɡʊd aɪˈdiə"
       },
       {
         "en": "good at",
-        "vi": "giỏi về"
+        "vi": "giỏi về",
+        "ipa": "ɡʊd æt"
       }
     ],
     "exEp": 346
@@ -242,22 +334,37 @@
     "exHit": "just",
     "exVi": "Yên tâm, chỉ là con dê thôi!",
     "syn": [
-      "only",
-      "simply",
-      "merely"
+      {
+        "en": "only",
+        "vi": "chỉ",
+        "ipa": "ˈoʊnli"
+      },
+      {
+        "en": "simply",
+        "vi": "đơn giản là",
+        "ipa": "ˈsɪmpli"
+      },
+      {
+        "en": "merely",
+        "vi": "chỉ là, chỉ đơn thuần",
+        "ipa": "ˈmɪɹli"
+      }
     ],
     "col": [
       {
         "en": "just a moment",
-        "vi": "chờ một chút"
+        "vi": "chờ một chút",
+        "ipa": "dʒʌst ə ˈmoʊmənt"
       },
       {
         "en": "just like",
-        "vi": "giống hệt như"
+        "vi": "giống hệt như",
+        "ipa": "dʒʌst laɪk"
       },
       {
         "en": "just in time",
-        "vi": "vừa kịp lúc"
+        "vi": "vừa kịp lúc",
+        "ipa": "dʒʌst ɪn taɪm"
       }
     ],
     "exEp": 185
@@ -274,15 +381,18 @@
     "col": [
       {
         "en": "on time",
-        "vi": "đúng giờ"
+        "vi": "đúng giờ",
+        "ipa": "ɑn taɪm"
       },
       {
         "en": "first time",
-        "vi": "lần đầu tiên"
+        "vi": "lần đầu tiên",
+        "ipa": "fɝst taɪm"
       },
       {
         "en": "have a good time",
-        "vi": "chơi vui vẻ"
+        "vi": "chơi vui vẻ",
+        "ipa": "hæv ə ɡʊd taɪm"
       }
     ],
     "exEp": 258
@@ -297,21 +407,32 @@
     "exHit": "made",
     "exVi": "À, em thấy thích nướng bánh nên đã làm mấy cái muffin.",
     "syn": [
-      "create",
-      "prepare"
+      {
+        "en": "create",
+        "vi": "tạo ra",
+        "ipa": "kɹiˈeɪt"
+      },
+      {
+        "en": "prepare",
+        "vi": "chuẩn bị, làm",
+        "ipa": "pɹiˈpɛɹ"
+      }
     ],
     "col": [
       {
         "en": "make sure",
-        "vi": "đảm bảo"
+        "vi": "đảm bảo",
+        "ipa": "meɪk ʃʊɹ"
       },
       {
         "en": "make sense",
-        "vi": "hợp lý"
+        "vi": "hợp lý",
+        "ipa": "meɪk sɛns"
       },
       {
         "en": "make a reservation",
-        "vi": "đặt chỗ"
+        "vi": "đặt chỗ",
+        "ipa": "meɪk ə ˌɹɛzɚˈveɪʃən"
       }
     ],
     "exEp": 69
@@ -326,21 +447,32 @@
     "exHit": "say",
     "exVi": "À, như người ta vẫn nói, phần còn lại đã thuộc về lịch sử...",
     "syn": [
-      "state",
-      "mention"
+      {
+        "en": "state",
+        "vi": "phát biểu, nói rõ",
+        "ipa": "steɪt"
+      },
+      {
+        "en": "mention",
+        "vi": "nhắc đến, đề cập",
+        "ipa": "ˈmɛnʃən"
+      }
     ],
     "col": [
       {
         "en": "say hello",
-        "vi": "chào hỏi"
+        "vi": "chào hỏi",
+        "ipa": "seɪ həˈloʊ"
       },
       {
         "en": "say sorry",
-        "vi": "xin lỗi"
+        "vi": "xin lỗi",
+        "ipa": "seɪ ˈsɑɹi"
       },
       {
         "en": "it says",
-        "vi": "có ghi là"
+        "vi": "có ghi là",
+        "ipa": "ɪt sɛz"
       }
     ],
     "exEp": 78
@@ -355,21 +487,32 @@
     "exHit": "take",
     "exVi": "Tôi lấy cái này!",
     "syn": [
-      "grab",
-      "accept"
+      {
+        "en": "grab",
+        "vi": "chộp lấy, túm lấy",
+        "ipa": "ɡɹæb"
+      },
+      {
+        "en": "accept",
+        "vi": "nhận, chấp nhận",
+        "ipa": "ækˈsɛpt"
+      }
     ],
     "col": [
       {
         "en": "take care",
-        "vi": "bảo trọng"
+        "vi": "bảo trọng",
+        "ipa": "teɪk kɛɹ"
       },
       {
         "en": "take a look",
-        "vi": "xem thử"
+        "vi": "xem thử",
+        "ipa": "teɪk ə lʊk"
       },
       {
         "en": "take a break",
-        "vi": "nghỉ giải lao"
+        "vi": "nghỉ giải lao",
+        "ipa": "teɪk ə bɹeɪk"
       }
     ],
     "exEp": 38
@@ -384,21 +527,32 @@
     "exHit": "Come",
     "exVi": "Vào đi! Nhanh lên!",
     "syn": [
-      "arrive",
-      "approach"
+      {
+        "en": "arrive",
+        "vi": "đến nơi",
+        "ipa": "ɚˈaɪv"
+      },
+      {
+        "en": "approach",
+        "vi": "tiến lại gần",
+        "ipa": "əˈpɹoʊtʃ"
+      }
     ],
     "col": [
       {
         "en": "come on",
-        "vi": "thôi nào; nhanh lên"
+        "vi": "thôi nào; nhanh lên",
+        "ipa": "kʌm ɑn"
       },
       {
         "en": "come in",
-        "vi": "mời vào"
+        "vi": "mời vào",
+        "ipa": "kʌm ɪn"
       },
       {
         "en": "come back",
-        "vi": "quay lại"
+        "vi": "quay lại",
+        "ipa": "kʌm bæk"
       }
     ],
     "exEp": 148
@@ -413,20 +567,27 @@
     "exHit": "Look",
     "exVi": "Nhìn bao nhiêu là quà dưới cây thông Noel kìa! Tuyệt quá!",
     "syn": [
-      "glance"
+      {
+        "en": "glance",
+        "vi": "liếc nhìn",
+        "ipa": "ɡlæns"
+      }
     ],
     "col": [
       {
         "en": "take a look",
-        "vi": "xem thử"
+        "vi": "xem thử",
+        "ipa": "teɪk ə lʊk"
       },
       {
         "en": "look for",
-        "vi": "tìm kiếm"
+        "vi": "tìm kiếm",
+        "ipa": "lʊk fɔɹ"
       },
       {
         "en": "look like",
-        "vi": "trông giống"
+        "vi": "trông giống",
+        "ipa": "lʊk laɪk"
       }
     ],
     "exEp": 181
@@ -441,21 +602,32 @@
     "exHit": "now",
     "exVi": "Hiện giờ tôi làm trong ngành quảng cáo. Còn bạn?",
     "syn": [
-      "at the moment",
-      "currently"
+      {
+        "en": "at the moment",
+        "vi": "lúc này, hiện giờ",
+        "ipa": "æt ðə ˈmoʊmənt"
+      },
+      {
+        "en": "currently",
+        "vi": "hiện tại",
+        "ipa": "ˈkɝəntli"
+      }
     ],
     "col": [
       {
         "en": "right now",
-        "vi": "ngay bây giờ"
+        "vi": "ngay bây giờ",
+        "ipa": "ɹaɪt naʊ"
       },
       {
         "en": "for now",
-        "vi": "tạm thời"
+        "vi": "tạm thời",
+        "ipa": "fɔɹ naʊ"
       },
       {
         "en": "from now on",
-        "vi": "từ nay trở đi"
+        "vi": "từ nay trở đi",
+        "ipa": "fɹʌm naʊ ɑn"
       }
     ],
     "exEp": 310
@@ -470,22 +642,37 @@
     "exHit": "very",
     "exVi": "Tôi mong sớm nhận được tin từ ông.",
     "syn": [
-      "really",
-      "extremely",
-      "so"
+      {
+        "en": "really",
+        "vi": "thật sự, rất",
+        "ipa": "ˈɹɪli"
+      },
+      {
+        "en": "extremely",
+        "vi": "cực kỳ",
+        "ipa": "ɛkˈstɹimli"
+      },
+      {
+        "en": "so",
+        "vi": "quá, thật là",
+        "ipa": "soʊ"
+      }
     ],
     "col": [
       {
         "en": "thank you very much",
-        "vi": "cảm ơn rất nhiều"
+        "vi": "cảm ơn rất nhiều",
+        "ipa": "θæŋk ju ˈvɛɹi mʌtʃ"
       },
       {
         "en": "very good",
-        "vi": "rất tốt"
+        "vi": "rất tốt",
+        "ipa": "ˈvɛɹi ɡʊd"
       },
       {
         "en": "very important",
-        "vi": "rất quan trọng"
+        "vi": "rất quan trọng",
+        "ipa": "ˈvɛɹi ˌɪmˈpɔɹtənt"
       }
     ],
     "exEp": 262
@@ -500,18 +687,32 @@
     "exHit": "want",
     "exVi": "Ồ, cậu muốn thuê người hầu à?",
     "syn": [
-      "wish",
-      "would like",
-      "desire"
+      {
+        "en": "wish",
+        "vi": "ước, mong muốn",
+        "ipa": "wɪʃ"
+      },
+      {
+        "en": "would like",
+        "vi": "muốn (lịch sự)",
+        "ipa": "wʊd laɪk"
+      },
+      {
+        "en": "desire",
+        "vi": "khao khát",
+        "ipa": "dɪˈzaɪɚ"
+      }
     ],
     "col": [
       {
         "en": "want to know",
-        "vi": "muốn biết"
+        "vi": "muốn biết",
+        "ipa": "wɑnt tu noʊ"
       },
       {
         "en": "if you want",
-        "vi": "nếu bạn muốn"
+        "vi": "nếu bạn muốn",
+        "ipa": "ɪf ju wɑnt"
       }
     ],
     "exEp": 364
@@ -528,15 +729,18 @@
     "col": [
       {
         "en": "over here",
-        "vi": "ở đằng này"
+        "vi": "ở đằng này",
+        "ipa": "ˈoʊvɚ hiɹ"
       },
       {
         "en": "here you are",
-        "vi": "của bạn đây"
+        "vi": "của bạn đây",
+        "ipa": "hiɹ ju ɑɹ"
       },
       {
         "en": "come here",
-        "vi": "lại đây"
+        "vi": "lại đây",
+        "ipa": "kʌm hiɹ"
       }
     ],
     "exEp": 51
@@ -551,20 +755,27 @@
     "exHit": "work",
     "exVi": "Bạn làm việc ở Thượng Hải à?",
     "syn": [
-      "have a job"
+      {
+        "en": "have a job",
+        "vi": "có việc làm",
+        "ipa": "hæv ə dʒɑb"
+      }
     ],
     "col": [
       {
         "en": "work out",
-        "vi": "tập thể dục; giải quyết ổn"
+        "vi": "tập thể dục; giải quyết ổn",
+        "ipa": "wɝk aʊt"
       },
       {
         "en": "work on",
-        "vi": "làm, xử lý (việc gì)"
+        "vi": "làm, xử lý (việc gì)",
+        "ipa": "wɝk ɑn"
       },
       {
         "en": "go to work",
-        "vi": "đi làm"
+        "vi": "đi làm",
+        "ipa": "ɡoʊ tu wɝk"
       }
     ],
     "exEp": 322
@@ -579,13 +790,22 @@
     "exHit": "also",
     "exVi": "Cho tôi hỏi bên mình có nhận may đo quần áo luôn không?",
     "syn": [
-      "too",
-      "as well"
+      {
+        "en": "too",
+        "vi": "cũng",
+        "ipa": "tu"
+      },
+      {
+        "en": "as well",
+        "vi": "cũng vậy",
+        "ipa": "æz wɛl"
+      }
     ],
     "col": [
       {
         "en": "not only... but also",
-        "vi": "không những... mà còn"
+        "vi": "không những... mà còn",
+        "ipa": "nɑt ˈoʊnli bʌt ˈɔlsoʊ"
       }
     ],
     "exEp": 196
@@ -600,21 +820,32 @@
     "exHit": "Then",
     "exVi": "Vậy thì đành chịu thôi.",
     "syn": [
-      "so",
-      "in that case"
+      {
+        "en": "so",
+        "vi": "vậy thì",
+        "ipa": "soʊ"
+      },
+      {
+        "en": "in that case",
+        "vi": "trong trường hợp đó",
+        "ipa": "ɪn ðæt keɪs"
+      }
     ],
     "col": [
       {
         "en": "well then",
-        "vi": "vậy thì"
+        "vi": "vậy thì",
+        "ipa": "wɛl ðɛn"
       },
       {
         "en": "ok then",
-        "vi": "thế thì được"
+        "vi": "thế thì được",
+        "ipa": "ˈoʊˈkeɪ ðɛn"
       },
       {
         "en": "since then",
-        "vi": "kể từ đó"
+        "vi": "kể từ đó",
+        "ipa": "sɪns ðɛn"
       }
     ],
     "exEp": 150
@@ -629,22 +860,37 @@
     "exHit": "really",
     "exVi": "Không, tôi ổn mà, thật đấy.",
     "syn": [
-      "truly",
-      "actually",
-      "very"
+      {
+        "en": "truly",
+        "vi": "thật sự",
+        "ipa": "ˈtɹuli"
+      },
+      {
+        "en": "actually",
+        "vi": "thực ra, thật ra",
+        "ipa": "ˈækˌtʃuəli"
+      },
+      {
+        "en": "very",
+        "vi": "rất",
+        "ipa": "ˈvɛɹi"
+      }
     ],
     "col": [
       {
         "en": "really?",
-        "vi": "thật á?"
+        "vi": "thật á?",
+        "ipa": "ˈɹɪli"
       },
       {
         "en": "not really",
-        "vi": "không hẳn"
+        "vi": "không hẳn",
+        "ipa": "nɑt ˈɹɪli"
       },
       {
         "en": "really good",
-        "vi": "rất tốt"
+        "vi": "rất tốt",
+        "ipa": "ˈɹɪli ɡʊd"
       }
     ],
     "exEp": 279
@@ -659,21 +905,32 @@
     "exHit": "right",
     "exVi": "Mong là cậu nói đúng.",
     "syn": [
-      "correct",
-      "true"
+      {
+        "en": "correct",
+        "vi": "đúng, chính xác",
+        "ipa": "kɚˈɛkt"
+      },
+      {
+        "en": "true",
+        "vi": "đúng, có thật",
+        "ipa": "tɹu"
+      }
     ],
     "col": [
       {
         "en": "right now",
-        "vi": "ngay bây giờ"
+        "vi": "ngay bây giờ",
+        "ipa": "ɹaɪt naʊ"
       },
       {
         "en": "you're right",
-        "vi": "bạn nói đúng"
+        "vi": "bạn nói đúng",
+        "ipa": "jʊɹ ɹaɪt"
       },
       {
         "en": "all right",
-        "vi": "được rồi, ổn"
+        "vi": "được rồi, ổn",
+        "ipa": "ɔl ɹaɪt"
       }
     ],
     "exEp": 362
@@ -688,20 +945,27 @@
     "exHit": "need",
     "exVi": "Vâng, tôi cần lấy thuốc theo đơn này.",
     "syn": [
-      "require"
+      {
+        "en": "require",
+        "vi": "cần, đòi hỏi",
+        "ipa": "ˌɹiˈkwaɪɚ"
+      }
     ],
     "col": [
       {
         "en": "need to",
-        "vi": "cần phải"
+        "vi": "cần phải",
+        "ipa": "nid tu"
       },
       {
         "en": "need help",
-        "vi": "cần giúp đỡ"
+        "vi": "cần giúp đỡ",
+        "ipa": "nid hɛlp"
       },
       {
         "en": "no need",
-        "vi": "không cần"
+        "vi": "không cần",
+        "ipa": "noʊ nid"
       }
     ],
     "exEp": 84
@@ -718,15 +982,18 @@
     "col": [
       {
         "en": "have a nice day",
-        "vi": "chúc một ngày tốt lành"
+        "vi": "chúc một ngày tốt lành",
+        "ipa": "hæv ə naɪs deɪ"
       },
       {
         "en": "day off",
-        "vi": "ngày nghỉ"
+        "vi": "ngày nghỉ",
+        "ipa": "deɪ ɔf"
       },
       {
         "en": "every day",
-        "vi": "mỗi ngày"
+        "vi": "mỗi ngày",
+        "ipa": "ˈɛvɚi deɪ"
       }
     ],
     "exEp": 231
@@ -743,15 +1010,18 @@
     "col": [
       {
         "en": "last year",
-        "vi": "năm ngoái"
+        "vi": "năm ngoái",
+        "ipa": "læst jɪɹ"
       },
       {
         "en": "new year",
-        "vi": "năm mới"
+        "vi": "năm mới",
+        "ipa": "nu jɪɹ"
       },
       {
         "en": "years old",
-        "vi": "tuổi"
+        "vi": "tuổi",
+        "ipa": "jɪɹz oʊld"
       }
     ],
     "exEp": 287
@@ -766,21 +1036,32 @@
     "exHit": "first",
     "exVi": "Trước tiên tôi có thể hỏi về chế độ đãi ngộ được không ạ?",
     "syn": [
-      "firstly",
-      "initially"
+      {
+        "en": "firstly",
+        "vi": "trước hết, thứ nhất",
+        "ipa": "ˈfɝstli"
+      },
+      {
+        "en": "initially",
+        "vi": "ban đầu, lúc đầu",
+        "ipa": "ˌɪˈnɪʃəli"
+      }
     ],
     "col": [
       {
         "en": "first time",
-        "vi": "lần đầu tiên"
+        "vi": "lần đầu tiên",
+        "ipa": "fɝst taɪm"
       },
       {
         "en": "first thing",
-        "vi": "việc đầu tiên"
+        "vi": "việc đầu tiên",
+        "ipa": "fɝst θɪŋ"
       },
       {
         "en": "at first",
-        "vi": "lúc đầu"
+        "vi": "lúc đầu",
+        "ipa": "æt fɝst"
       }
     ],
     "exEp": 256
@@ -795,21 +1076,32 @@
     "exHit": "new",
     "exVi": "Em vừa nhận được lời mời làm việc mới!",
     "syn": [
-      "brand-new",
-      "recent"
+      {
+        "en": "brand-new",
+        "vi": "mới tinh",
+        "ipa": "bɹænd nu"
+      },
+      {
+        "en": "recent",
+        "vi": "gần đây, mới",
+        "ipa": "ˈɹisənt"
+      }
     ],
     "col": [
       {
         "en": "new year",
-        "vi": "năm mới"
+        "vi": "năm mới",
+        "ipa": "nu jɪɹ"
       },
       {
         "en": "brand new",
-        "vi": "mới tinh"
+        "vi": "mới tinh",
+        "ipa": "bɹænd nu"
       },
       {
         "en": "what's new?",
-        "vi": "có gì mới không?"
+        "vi": "có gì mới không?",
+        "ipa": "wʌts nu"
       }
     ],
     "exEp": 108
@@ -824,22 +1116,37 @@
     "exHit": "give",
     "exVi": "Bạn đưa tôi thực đơn được không?",
     "syn": [
-      "hand",
-      "offer",
-      "pass"
+      {
+        "en": "hand",
+        "vi": "đưa tận tay",
+        "ipa": "hænd"
+      },
+      {
+        "en": "offer",
+        "vi": "mời, đưa cho",
+        "ipa": "ˈɔfɚ"
+      },
+      {
+        "en": "pass",
+        "vi": "chuyền, đưa qua",
+        "ipa": "pæs"
+      }
     ],
     "col": [
       {
         "en": "give me",
-        "vi": "đưa cho tôi"
+        "vi": "đưa cho tôi",
+        "ipa": "ɡɪv mi"
       },
       {
         "en": "give up",
-        "vi": "từ bỏ"
+        "vi": "từ bỏ",
+        "ipa": "ɡɪv ʌp"
       },
       {
         "en": "give a hand",
-        "vi": "giúp một tay"
+        "vi": "giúp một tay",
+        "ipa": "ɡɪv ə hænd"
       }
     ]
   },
@@ -853,21 +1160,32 @@
     "exHit": "use",
     "exVi": "Dạ, con có nên dùng bộ dao nĩa sang trọng không?",
     "syn": [
-      "utilize",
-      "employ"
+      {
+        "en": "utilize",
+        "vi": "tận dụng, sử dụng",
+        "ipa": "ˈjutəˌlaɪz"
+      },
+      {
+        "en": "employ",
+        "vi": "dùng, áp dụng",
+        "ipa": "ɛmˈplɔɪ"
+      }
     ],
     "col": [
       {
         "en": "used to",
-        "vi": "đã từng"
+        "vi": "đã từng",
+        "ipa": "juzd tu"
       },
       {
         "en": "use up",
-        "vi": "dùng hết"
+        "vi": "dùng hết",
+        "ipa": "jus ʌp"
       },
       {
         "en": "make use of",
-        "vi": "tận dụng"
+        "vi": "tận dụng",
+        "ipa": "meɪk jus ʌv"
       }
     ],
     "exEp": 248
@@ -882,22 +1200,37 @@
     "exHit": "things",
     "exVi": "Họ cứu mọi người khỏi những điều xấu ạ?",
     "syn": [
-      "stuff",
-      "object",
-      "matter"
+      {
+        "en": "stuff",
+        "vi": "đồ, thứ (thân mật)",
+        "ipa": "stʌf"
+      },
+      {
+        "en": "object",
+        "vi": "đồ vật, vật",
+        "ipa": "ˈɑbdʒɛkt"
+      },
+      {
+        "en": "matter",
+        "vi": "vấn đề, chuyện",
+        "ipa": "ˈmætɚ"
+      }
     ],
     "col": [
       {
         "en": "first thing",
-        "vi": "việc đầu tiên"
+        "vi": "việc đầu tiên",
+        "ipa": "fɝst θɪŋ"
       },
       {
         "en": "sure thing",
-        "vi": "chắc chắn rồi"
+        "vi": "chắc chắn rồi",
+        "ipa": "ʃʊɹ θɪŋ"
       },
       {
         "en": "the thing is",
-        "vi": "vấn đề là"
+        "vi": "vấn đề là",
+        "ipa": "ðə θɪŋ ɪz"
       }
     ],
     "exEp": 197
@@ -912,17 +1245,27 @@
     "exHit": "people",
     "exVi": "Họ cứu mọi người khỏi những điều xấu ạ?",
     "syn": [
-      "persons",
-      "folks"
+      {
+        "en": "persons",
+        "vi": "người (trang trọng)",
+        "ipa": "ˈpɝsənz"
+      },
+      {
+        "en": "folks",
+        "vi": "mọi người, bà con",
+        "ipa": "foʊks"
+      }
     ],
     "col": [
       {
         "en": "young people",
-        "vi": "giới trẻ"
+        "vi": "giới trẻ",
+        "ipa": "jʌŋ ˈpipəl"
       },
       {
         "en": "most people",
-        "vi": "hầu hết mọi người"
+        "vi": "hầu hết mọi người",
+        "ipa": "moʊst ˈpipəl"
       }
     ],
     "exEp": 197
@@ -937,22 +1280,37 @@
     "exHit": "way",
     "exVi": "Nó đang đi về phía này, bình tĩnh nhé.",
     "syn": [
-      "direction",
-      "route",
-      "path"
+      {
+        "en": "direction",
+        "vi": "hướng",
+        "ipa": "dɚˈɛkʃən"
+      },
+      {
+        "en": "route",
+        "vi": "tuyến đường, lộ trình",
+        "ipa": "ɹut"
+      },
+      {
+        "en": "path",
+        "vi": "lối đi, con đường",
+        "ipa": "pæθ"
+      }
     ],
     "col": [
       {
         "en": "this way",
-        "vi": "lối này"
+        "vi": "lối này",
+        "ipa": "ðɪs weɪ"
       },
       {
         "en": "by the way",
-        "vi": "nhân tiện"
+        "vi": "nhân tiện",
+        "ipa": "baɪ ðə weɪ"
       },
       {
         "en": "on the way",
-        "vi": "trên đường"
+        "vi": "trên đường",
+        "ipa": "ɑn ðə weɪ"
       }
     ],
     "exEp": 114
@@ -969,15 +1327,18 @@
     "col": [
       {
         "en": "get back",
-        "vi": "quay về"
+        "vi": "quay về",
+        "ipa": "ɡɛt bæk"
       },
       {
         "en": "welcome back",
-        "vi": "chào mừng trở lại"
+        "vi": "chào mừng trở lại",
+        "ipa": "ˈwɛlkəm bæk"
       },
       {
         "en": "be right back",
-        "vi": "quay lại ngay"
+        "vi": "quay lại ngay",
+        "ipa": "bi ɹaɪt bæk"
       }
     ],
     "exEp": 343
@@ -992,21 +1353,32 @@
     "exHit": "call",
     "exVi": "Chào anh, anh có gọi dịch vụ diệt côn trùng không ạ?",
     "syn": [
-      "phone",
-      "ring"
+      {
+        "en": "phone",
+        "vi": "gọi điện",
+        "ipa": "foʊn"
+      },
+      {
+        "en": "ring",
+        "vi": "gọi điện (Anh-Anh)",
+        "ipa": "ɹɪŋ"
+      }
     ],
     "col": [
       {
         "en": "phone call",
-        "vi": "cuộc gọi"
+        "vi": "cuộc gọi",
+        "ipa": "foʊn kɔl"
       },
       {
         "en": "call back",
-        "vi": "gọi lại"
+        "vi": "gọi lại",
+        "ipa": "kɔl bæk"
       },
       {
         "en": "call me",
-        "vi": "gọi cho tôi"
+        "vi": "gọi cho tôi",
+        "ipa": "kɔl mi"
       }
     ],
     "exEp": 265
@@ -1021,21 +1393,32 @@
     "exHit": "only",
     "exVi": "Nhưng mình mới đi được có mười phút thôi mà.",
     "syn": [
-      "just",
-      "merely"
+      {
+        "en": "just",
+        "vi": "chỉ",
+        "ipa": "dʒʌst"
+      },
+      {
+        "en": "merely",
+        "vi": "chỉ là, chỉ đơn thuần",
+        "ipa": "ˈmɪɹli"
+      }
     ],
     "col": [
       {
         "en": "not only",
-        "vi": "không chỉ"
+        "vi": "không chỉ",
+        "ipa": "nɑt ˈoʊnli"
       },
       {
         "en": "the only one",
-        "vi": "người/cái duy nhất"
+        "vi": "người/cái duy nhất",
+        "ipa": "ðə ˈoʊnli wʌn"
       },
       {
         "en": "if only",
-        "vi": "giá mà"
+        "vi": "giá mà",
+        "ipa": "ɪf ˈoʊnli"
       }
     ],
     "exEp": 6
@@ -1050,22 +1433,37 @@
     "exHit": "great",
     "exVi": "Đó đúng là một ý tuyệt vời!",
     "syn": [
-      "excellent",
-      "wonderful",
-      "fantastic"
+      {
+        "en": "excellent",
+        "vi": "xuất sắc",
+        "ipa": "ˈɛksələnt"
+      },
+      {
+        "en": "wonderful",
+        "vi": "tuyệt vời",
+        "ipa": "ˈwʌndɚfəl"
+      },
+      {
+        "en": "fantastic",
+        "vi": "tuyệt vời quá",
+        "ipa": "fænˈtæstɪk"
+      }
     ],
     "col": [
       {
         "en": "sounds great",
-        "vi": "nghe tuyệt đấy"
+        "vi": "nghe tuyệt đấy",
+        "ipa": "saʊndz ɡɹeɪt"
       },
       {
         "en": "great idea",
-        "vi": "ý tuyệt"
+        "vi": "ý tuyệt",
+        "ipa": "ɡɹeɪt aɪˈdiə"
       },
       {
         "en": "have a great time",
-        "vi": "chơi thật vui"
+        "vi": "chơi thật vui",
+        "ipa": "hæv ə ɡɹeɪt taɪm"
       }
     ],
     "exEp": 178
@@ -1080,21 +1478,32 @@
     "exHit": "mean",
     "exVi": "Anh biết em muốn nói gì mà.",
     "syn": [
-      "intend",
-      "imply"
+      {
+        "en": "intend",
+        "vi": "định, có ý",
+        "ipa": "ɪnˈtɛnd"
+      },
+      {
+        "en": "imply",
+        "vi": "ngụ ý, hàm ý",
+        "ipa": "ɪmˈplaɪ"
+      }
     ],
     "col": [
       {
         "en": "I mean",
-        "vi": "ý tôi là"
+        "vi": "ý tôi là",
+        "ipa": "aɪ min"
       },
       {
         "en": "what do you mean?",
-        "vi": "ý bạn là sao?"
+        "vi": "ý bạn là sao?",
+        "ipa": "wʌt du ju min"
       },
       {
         "en": "mean it",
-        "vi": "nói thật lòng"
+        "vi": "nói thật lòng",
+        "ipa": "min ɪt"
       }
     ],
     "exEp": 103
@@ -1109,21 +1518,32 @@
     "exHit": "too",
     "exVi": "Ôi, em cũng yêu anh!",
     "syn": [
-      "also",
-      "as well"
+      {
+        "en": "also",
+        "vi": "cũng",
+        "ipa": "ˈɔlsoʊ"
+      },
+      {
+        "en": "as well",
+        "vi": "cũng vậy",
+        "ipa": "æz wɛl"
+      }
     ],
     "col": [
       {
         "en": "me too",
-        "vi": "tôi cũng vậy"
+        "vi": "tôi cũng vậy",
+        "ipa": "mi tu"
       },
       {
         "en": "too bad",
-        "vi": "tiếc quá"
+        "vi": "tiếc quá",
+        "ipa": "tu bæd"
       },
       {
         "en": "too much",
-        "vi": "quá nhiều"
+        "vi": "quá nhiều",
+        "ipa": "tu mʌtʃ"
       }
     ],
     "exEp": 103
@@ -1138,13 +1558,22 @@
     "exHit": "found",
     "exVi": "Tớ nhặt được mấy đồng xu không phải tiền ở đây.",
     "syn": [
-      "discover",
-      "come across"
+      {
+        "en": "discover",
+        "vi": "khám phá, phát hiện",
+        "ipa": "dɪˈskʌvɚ"
+      },
+      {
+        "en": "come across",
+        "vi": "tình cờ thấy",
+        "ipa": "kʌm əˈkɹɔs"
+      }
     ],
     "col": [
       {
         "en": "find out",
-        "vi": "tìm ra, phát hiện"
+        "vi": "tìm ra, phát hiện",
+        "ipa": "faɪnd aʊt"
       }
     ],
     "exEp": 356
@@ -1159,21 +1588,32 @@
     "exHit": "told",
     "exVi": "Con còn chưa nói là chuyện gì mà!",
     "syn": [
-      "inform",
-      "let know"
+      {
+        "en": "inform",
+        "vi": "thông báo, báo cho",
+        "ipa": "ɪnˈfɔɹm"
+      },
+      {
+        "en": "let know",
+        "vi": "cho biết",
+        "ipa": "lɛt noʊ"
+      }
     ],
     "col": [
       {
         "en": "tell me",
-        "vi": "nói tôi nghe"
+        "vi": "nói tôi nghe",
+        "ipa": "tɛl mi"
       },
       {
         "en": "tell the truth",
-        "vi": "nói thật"
+        "vi": "nói thật",
+        "ipa": "tɛl ðə tɹuθ"
       },
       {
         "en": "tell me about",
-        "vi": "kể tôi nghe về"
+        "vi": "kể tôi nghe về",
+        "ipa": "tɛl mi əˈbaʊt"
       }
     ],
     "exEp": 49
@@ -1188,21 +1628,32 @@
     "exHit": "last",
     "exVi": "Này, năm ngoái bố đã đề nghị rồi mà...",
     "syn": [
-      "previous",
-      "past"
+      {
+        "en": "previous",
+        "vi": "trước, vừa rồi",
+        "ipa": "ˈpɹiviəs"
+      },
+      {
+        "en": "past",
+        "vi": "đã qua, vừa qua",
+        "ipa": "pæst"
+      }
     ],
     "col": [
       {
         "en": "last night",
-        "vi": "tối qua"
+        "vi": "tối qua",
+        "ipa": "læst naɪt"
       },
       {
         "en": "last week",
-        "vi": "tuần trước"
+        "vi": "tuần trước",
+        "ipa": "læst wik"
       },
       {
         "en": "at last",
-        "vi": "cuối cùng thì"
+        "vi": "cuối cùng thì",
+        "ipa": "æt læst"
       }
     ],
     "exEp": 37
@@ -1219,15 +1670,18 @@
     "col": [
       {
         "en": "even if",
-        "vi": "ngay cả khi"
+        "vi": "ngay cả khi",
+        "ipa": "ˈivɪn ɪf"
       },
       {
         "en": "even though",
-        "vi": "mặc dù"
+        "vi": "mặc dù",
+        "ipa": "ˈivɪn ðoʊ"
       },
       {
         "en": "even better",
-        "vi": "còn tốt hơn"
+        "vi": "còn tốt hơn",
+        "ipa": "ˈivɪn ˈbɛtɚ"
       }
     ],
     "exEp": 49
@@ -1242,20 +1696,27 @@
     "exHit": "try",
     "exVi": "Để tôi thử đứng dậy đã.",
     "syn": [
-      "attempt"
+      {
+        "en": "attempt",
+        "vi": "cố gắng, thử",
+        "ipa": "əˈtɛmpt"
+      }
     ],
     "col": [
       {
         "en": "try again",
-        "vi": "thử lại"
+        "vi": "thử lại",
+        "ipa": "tɹaɪ əˈɡɛn"
       },
       {
         "en": "try on",
-        "vi": "mặc thử"
+        "vi": "mặc thử",
+        "ipa": "tɹaɪ ɑn"
       },
       {
         "en": "give it a try",
-        "vi": "thử xem"
+        "vi": "thử xem",
+        "ipa": "ɡɪv ɪt ə tɹaɪ"
       }
     ],
     "exEp": 15
@@ -1270,21 +1731,32 @@
     "exHit": "help",
     "exVi": "Xin chào anh, tôi có thể giúp gì cho anh ạ?",
     "syn": [
-      "assist",
-      "aid"
+      {
+        "en": "assist",
+        "vi": "hỗ trợ, giúp đỡ",
+        "ipa": "əˈsɪst"
+      },
+      {
+        "en": "aid",
+        "vi": "trợ giúp, viện trợ",
+        "ipa": "eɪd"
+      }
     ],
     "col": [
       {
         "en": "help me",
-        "vi": "giúp tôi"
+        "vi": "giúp tôi",
+        "ipa": "hɛlp mi"
       },
       {
         "en": "can I help you?",
-        "vi": "tôi giúp gì được cho bạn?"
+        "vi": "tôi giúp gì được cho bạn?",
+        "ipa": "kæn aɪ hɛlp ju"
       },
       {
         "en": "thanks for your help",
-        "vi": "cảm ơn đã giúp đỡ"
+        "vi": "cảm ơn đã giúp đỡ",
+        "ipa": "θæŋks fɔɹ jɔɹ hɛlp"
       }
     ],
     "exEp": 165
@@ -1299,20 +1771,27 @@
     "exHit": "started",
     "exVi": "Trận đấu bắt đầu chưa?",
     "syn": [
-      "begin"
+      {
+        "en": "begin",
+        "vi": "bắt đầu",
+        "ipa": "bɪˈɡɪn"
+      }
     ],
     "col": [
       {
         "en": "get started",
-        "vi": "bắt đầu"
+        "vi": "bắt đầu",
+        "ipa": "ɡɛt ˈstɑɹtɪd"
       },
       {
         "en": "let's start",
-        "vi": "bắt đầu thôi"
+        "vi": "bắt đầu thôi",
+        "ipa": "lɛts stɑɹt"
       },
       {
         "en": "start over",
-        "vi": "làm lại từ đầu"
+        "vi": "làm lại từ đầu",
+        "ipa": "stɑɹt ˈoʊvɚ"
       }
     ],
     "exEp": 33
@@ -1327,21 +1806,32 @@
     "exHit": "man",
     "exVi": "Được rồi, đây có phải người đàn ông anh đã thấy không?",
     "syn": [
-      "guy",
-      "gentleman"
+      {
+        "en": "guy",
+        "vi": "anh chàng, gã",
+        "ipa": "ɡaɪ"
+      },
+      {
+        "en": "gentleman",
+        "vi": "quý ông",
+        "ipa": "ˈdʒɛntəlmən"
+      }
     ],
     "col": [
       {
         "en": "oh man",
-        "vi": "trời ơi"
+        "vi": "trời ơi",
+        "ipa": "oʊ mæn"
       },
       {
         "en": "hey man",
-        "vi": "này ông bạn"
+        "vi": "này ông bạn",
+        "ipa": "heɪ mæn"
       },
       {
         "en": "old man",
-        "vi": "ông già; ông bố"
+        "vi": "ông già; ông bố",
+        "ipa": "oʊld mæn"
       }
     ],
     "exEp": 223
@@ -1356,21 +1846,32 @@
     "exHit": "let",
     "exVi": "Để tôi thử đứng dậy đã.",
     "syn": [
-      "allow",
-      "permit"
+      {
+        "en": "allow",
+        "vi": "cho phép, để",
+        "ipa": "əˈlaʊ"
+      },
+      {
+        "en": "permit",
+        "vi": "cho phép (trang trọng)",
+        "ipa": "pɚˈmɪt"
+      }
     ],
     "col": [
       {
         "en": "let me",
-        "vi": "để tôi"
+        "vi": "để tôi",
+        "ipa": "lɛt mi"
       },
       {
         "en": "let's go",
-        "vi": "đi thôi"
+        "vi": "đi thôi",
+        "ipa": "lɛts ɡoʊ"
       },
       {
         "en": "let me know",
-        "vi": "báo cho tôi biết"
+        "vi": "báo cho tôi biết",
+        "ipa": "lɛt mi noʊ"
       }
     ],
     "exEp": 15
@@ -1385,20 +1886,27 @@
     "exHit": "long",
     "exVi": "Đi đến đó mất bao lâu?",
     "syn": [
-      "lengthy"
+      {
+        "en": "lengthy",
+        "vi": "dài dòng, kéo dài",
+        "ipa": "ˈlɛŋθi"
+      }
     ],
     "col": [
       {
         "en": "long time no see",
-        "vi": "lâu quá không gặp"
+        "vi": "lâu quá không gặp",
+        "ipa": "lɔŋ taɪm noʊ si"
       },
       {
         "en": "how long",
-        "vi": "bao lâu"
+        "vi": "bao lâu",
+        "ipa": "haʊ lɔŋ"
       },
       {
         "en": "a long time",
-        "vi": "một thời gian dài"
+        "vi": "một thời gian dài",
+        "ipa": "ə lɔŋ taɪm"
       }
     ],
     "exEp": 246
@@ -1413,17 +1921,27 @@
     "exHit": "little",
     "exVi": "Với một chút giúp đỡ từ một vị Thống đốc...",
     "syn": [
-      "small",
-      "tiny"
+      {
+        "en": "small",
+        "vi": "nhỏ",
+        "ipa": "smɔl"
+      },
+      {
+        "en": "tiny",
+        "vi": "tí hon, nhỏ xíu",
+        "ipa": "ˈtaɪni"
+      }
     ],
     "col": [
       {
         "en": "a little bit",
-        "vi": "một chút"
+        "vi": "một chút",
+        "ipa": "ə ˈlɪtəl bɪt"
       },
       {
         "en": "little by little",
-        "vi": "dần dần"
+        "vi": "dần dần",
+        "ipa": "ˈlɪtəl baɪ ˈlɪtəl"
       }
     ],
     "exEp": 41
@@ -1438,21 +1956,32 @@
     "exHit": "leaving",
     "exVi": "Có ạ, bốn giờ chiều tôi đi.",
     "syn": [
-      "depart",
-      "go away"
+      {
+        "en": "depart",
+        "vi": "khởi hành, rời đi",
+        "ipa": "dɪˈpɑɹt"
+      },
+      {
+        "en": "go away",
+        "vi": "đi khỏi, rời đi",
+        "ipa": "ɡoʊ əˈweɪ"
+      }
     ],
     "col": [
       {
         "en": "leave me alone",
-        "vi": "để tôi yên"
+        "vi": "để tôi yên",
+        "ipa": "liv mi əˈloʊn"
       },
       {
         "en": "leave a message",
-        "vi": "để lại lời nhắn"
+        "vi": "để lại lời nhắn",
+        "ipa": "liv ə ˈmɛsədʒ"
       },
       {
         "en": "leave for",
-        "vi": "lên đường đi"
+        "vi": "lên đường đi",
+        "ipa": "liv fɔɹ"
       }
     ],
     "exEp": 328
@@ -1467,20 +1996,27 @@
     "exHit": "feeling",
     "exVi": "Thật ra hôm nay tôi thấy trong người khá mệt.",
     "syn": [
-      "sense"
+      {
+        "en": "sense",
+        "vi": "cảm nhận, cảm thấy",
+        "ipa": "sɛns"
+      }
     ],
     "col": [
       {
         "en": "feel like",
-        "vi": "muốn; thấy như"
+        "vi": "muốn; thấy như",
+        "ipa": "fil laɪk"
       },
       {
         "en": "feel free",
-        "vi": "cứ tự nhiên"
+        "vi": "cứ tự nhiên",
+        "ipa": "fil fɹi"
       },
       {
         "en": "feel better",
-        "vi": "thấy khỏe hơn"
+        "vi": "thấy khỏe hơn",
+        "ipa": "fil ˈbɛtɚ"
       }
     ],
     "exEp": 2
@@ -1495,21 +2031,32 @@
     "exHit": "talking",
     "exVi": "Cậu đang nói gì vậy?",
     "syn": [
-      "speak",
-      "chat"
+      {
+        "en": "speak",
+        "vi": "nói chuyện",
+        "ipa": "spik"
+      },
+      {
+        "en": "chat",
+        "vi": "tán gẫu",
+        "ipa": "tʃæt"
+      }
     ],
     "col": [
       {
         "en": "talk about",
-        "vi": "nói về"
+        "vi": "nói về",
+        "ipa": "tɔk əˈbaʊt"
       },
       {
         "en": "talk to",
-        "vi": "nói chuyện với"
+        "vi": "nói chuyện với",
+        "ipa": "tɔk tu"
       },
       {
         "en": "what are you talking about?",
-        "vi": "bạn đang nói gì vậy?"
+        "vi": "bạn đang nói gì vậy?",
+        "ipa": "wʌt ɑɹ ju ˈtɔkɪŋ əˈbaʊt"
       }
     ],
     "exEp": 151
@@ -1524,17 +2071,27 @@
     "exHit": "lot",
     "exVi": "Chuyện là, chúng tôi gặp rất nhiều trục trặc...",
     "syn": [
-      "plenty",
-      "loads"
+      {
+        "en": "plenty",
+        "vi": "nhiều, dồi dào",
+        "ipa": "ˈplɛnti"
+      },
+      {
+        "en": "loads",
+        "vi": "cả đống, rất nhiều",
+        "ipa": "loʊdz"
+      }
     ],
     "col": [
       {
         "en": "a lot of",
-        "vi": "nhiều"
+        "vi": "nhiều",
+        "ipa": "ə lɑt ʌv"
       },
       {
         "en": "thanks a lot",
-        "vi": "cảm ơn nhiều"
+        "vi": "cảm ơn nhiều",
+        "ipa": "θæŋks ə lɑt"
       }
     ],
     "exEp": 42
@@ -1549,17 +2106,27 @@
     "exHit": "course",
     "exVi": "Có, tất nhiên rồi.",
     "syn": [
-      "certainly",
-      "sure"
+      {
+        "en": "certainly",
+        "vi": "chắc chắn rồi",
+        "ipa": "ˈsɝtənli"
+      },
+      {
+        "en": "sure",
+        "vi": "tất nhiên, được chứ",
+        "ipa": "ʃʊɹ"
+      }
     ],
     "col": [
       {
         "en": "of course",
-        "vi": "tất nhiên"
+        "vi": "tất nhiên",
+        "ipa": "ʌv kɔɹs"
       },
       {
         "en": "of course not",
-        "vi": "tất nhiên là không"
+        "vi": "tất nhiên là không",
+        "ipa": "ʌv kɔɹs nɑt"
       }
     ],
     "exEp": 314
@@ -1574,17 +2141,27 @@
     "exHit": "company",
     "exVi": "Tôi làm cho một công ty phần mềm.",
     "syn": [
-      "firm",
-      "business"
+      {
+        "en": "firm",
+        "vi": "hãng, công ty",
+        "ipa": "fɝm"
+      },
+      {
+        "en": "business",
+        "vi": "doanh nghiệp",
+        "ipa": "ˈbɪznəs"
+      }
     ],
     "col": [
       {
         "en": "our company",
-        "vi": "công ty chúng tôi"
+        "vi": "công ty chúng tôi",
+        "ipa": "ˈaʊɚ ˈkʌmpəˌni"
       },
       {
         "en": "company policy",
-        "vi": "chính sách công ty"
+        "vi": "chính sách công ty",
+        "ipa": "ˈkʌmpəˌni ˈpɑləsi"
       }
     ]
   },
@@ -1598,17 +2175,27 @@
     "exHit": "problem",
     "exVi": "Anh bị làm sao vậy?",
     "syn": [
-      "issue",
-      "trouble"
+      {
+        "en": "issue",
+        "vi": "vấn đề",
+        "ipa": "ˈɪʃu"
+      },
+      {
+        "en": "trouble",
+        "vi": "rắc rối",
+        "ipa": "ˈtɹʌbəl"
+      }
     ],
     "col": [
       {
         "en": "no problem",
-        "vi": "không sao"
+        "vi": "không sao",
+        "ipa": "noʊ ˈpɹɑbləm"
       },
       {
         "en": "what's the problem?",
-        "vi": "có chuyện gì vậy?"
+        "vi": "có chuyện gì vậy?",
+        "ipa": "wʌts ðə ˈpɹɑbləm"
       }
     ],
     "exEp": 264
@@ -1623,20 +2210,27 @@
     "exHit": "next",
     "exVi": "Món tiếp theo là của Betty.",
     "syn": [
-      "following"
+      {
+        "en": "following",
+        "vi": "tiếp theo, kế tiếp",
+        "ipa": "ˈfɑloʊɪŋ"
+      }
     ],
     "col": [
       {
         "en": "next week",
-        "vi": "tuần sau"
+        "vi": "tuần sau",
+        "ipa": "nɛkst wik"
       },
       {
         "en": "next time",
-        "vi": "lần sau"
+        "vi": "lần sau",
+        "ipa": "nɛkst taɪm"
       },
       {
         "en": "next to",
-        "vi": "bên cạnh"
+        "vi": "bên cạnh",
+        "ipa": "nɛkst tu"
       }
     ],
     "exEp": 219
@@ -1651,21 +2245,32 @@
     "exHit": "put",
     "exVi": "Đặt hai tay ra sau đầu! Anh đã bị bắt!",
     "syn": [
-      "place",
-      "set"
+      {
+        "en": "place",
+        "vi": "đặt, để",
+        "ipa": "pleɪs"
+      },
+      {
+        "en": "set",
+        "vi": "đặt, để xuống",
+        "ipa": "sɛt"
+      }
     ],
     "col": [
       {
         "en": "put on",
-        "vi": "mặc vào"
+        "vi": "mặc vào",
+        "ipa": "pʊt ɑn"
       },
       {
         "en": "put up with",
-        "vi": "chịu đựng"
+        "vi": "chịu đựng",
+        "ipa": "pʊt ʌp wɪð"
       },
       {
         "en": "put away",
-        "vi": "cất đi"
+        "vi": "cất đi",
+        "ipa": "pʊt əˈweɪ"
       }
     ],
     "exEp": 279
@@ -1680,21 +2285,32 @@
     "exHit": "ask",
     "exVi": "Jennifer, có chuyện anh muốn hỏi em.",
     "syn": [
-      "inquire",
-      "question"
+      {
+        "en": "inquire",
+        "vi": "hỏi han, hỏi thăm",
+        "ipa": "ɪnˈkwaɪɹ"
+      },
+      {
+        "en": "question",
+        "vi": "chất vấn, hỏi",
+        "ipa": "ˈkwɛstʃən"
+      }
     ],
     "col": [
       {
         "en": "ask for",
-        "vi": "xin, yêu cầu"
+        "vi": "xin, yêu cầu",
+        "ipa": "æsk fɔɹ"
       },
       {
         "en": "ask a question",
-        "vi": "đặt câu hỏi"
+        "vi": "đặt câu hỏi",
+        "ipa": "æsk ə ˈkwɛstʃən"
       },
       {
         "en": "ask someone out",
-        "vi": "mời ai đi chơi"
+        "vi": "mời ai đi chơi",
+        "ipa": "æsk ˈsʌmwʌn aʊt"
       }
     ],
     "exEp": 88
@@ -1709,16 +2325,22 @@
     "exHit": "never",
     "exVi": "Họ đừng hòng bắt sống tôi!",
     "syn": [
-      "not ever"
+      {
+        "en": "not ever",
+        "vi": "không bao giờ",
+        "ipa": "nɑt ˈɛvɚ"
+      }
     ],
     "col": [
       {
         "en": "never mind",
-        "vi": "không sao, bỏ đi"
+        "vi": "không sao, bỏ đi",
+        "ipa": "ˈnɛvɚ maɪnd"
       },
       {
         "en": "never again",
-        "vi": "không bao giờ nữa"
+        "vi": "không bao giờ nữa",
+        "ipa": "ˈnɛvɚ əˈɡɛn"
       }
     ],
     "exEp": 167
@@ -1744,21 +2366,32 @@
     "exHit": "place",
     "exVi": "Có lẽ cậu nên dọn ra ngoài và tìm chỗ khác đi.",
     "syn": [
-      "spot",
-      "location"
+      {
+        "en": "spot",
+        "vi": "chỗ, điểm",
+        "ipa": "spɑt"
+      },
+      {
+        "en": "location",
+        "vi": "địa điểm, vị trí",
+        "ipa": "loʊˈkeɪʃən"
+      }
     ],
     "col": [
       {
         "en": "take place",
-        "vi": "diễn ra"
+        "vi": "diễn ra",
+        "ipa": "teɪk pleɪs"
       },
       {
         "en": "my place",
-        "vi": "nhà tôi"
+        "vi": "nhà tôi",
+        "ipa": "maɪ pleɪs"
       },
       {
         "en": "in the first place",
-        "vi": "ngay từ đầu"
+        "vi": "ngay từ đầu",
+        "ipa": "ɪn ðə fɝst pleɪs"
       }
     ],
     "exEp": 206
@@ -1773,17 +2406,27 @@
     "exHit": "met",
     "exVi": "Khoan đã, ý cậu là cậu quen cô ấy trên mạng à?",
     "syn": [
-      "see",
-      "get together"
+      {
+        "en": "see",
+        "vi": "gặp",
+        "ipa": "si"
+      },
+      {
+        "en": "get together",
+        "vi": "tụ tập, gặp gỡ",
+        "ipa": "ɡɛt təˈɡɛðɚ"
+      }
     ],
     "col": [
       {
         "en": "nice to meet you",
-        "vi": "rất vui được gặp bạn"
+        "vi": "rất vui được gặp bạn",
+        "ipa": "naɪs tu mit ju"
       },
       {
         "en": "meet up",
-        "vi": "gặp nhau"
+        "vi": "gặp nhau",
+        "ipa": "mit ʌp"
       }
     ],
     "exEp": 300
@@ -1800,15 +2443,18 @@
     "col": [
       {
         "en": "last week",
-        "vi": "tuần trước"
+        "vi": "tuần trước",
+        "ipa": "læst wik"
       },
       {
         "en": "next week",
-        "vi": "tuần sau"
+        "vi": "tuần sau",
+        "ipa": "nɛkst wik"
       },
       {
         "en": "this week",
-        "vi": "tuần này"
+        "vi": "tuần này",
+        "ipa": "ðɪs wik"
       }
     ],
     "exEp": 242
@@ -1825,15 +2471,18 @@
     "col": [
       {
         "en": "hear about",
-        "vi": "nghe nói về"
+        "vi": "nghe nói về",
+        "ipa": "hiɹ əˈbaʊt"
       },
       {
         "en": "sorry to hear that",
-        "vi": "rất tiếc khi nghe vậy"
+        "vi": "rất tiếc khi nghe vậy",
+        "ipa": "ˈsɑɹi tu hiɹ ðæt"
       },
       {
         "en": "hear from",
-        "vi": "nhận được tin từ"
+        "vi": "nhận được tin từ",
+        "ipa": "hiɹ fɹʌm"
       }
     ],
     "exEp": 26
@@ -1848,21 +2497,32 @@
     "exHit": "world",
     "exVi": "Cậu đọc mấy chuyện điên rồ đang xảy ra khắp thế giới chưa?",
     "syn": [
-      "earth",
-      "globe"
+      {
+        "en": "earth",
+        "vi": "trái đất",
+        "ipa": "ɝθ"
+      },
+      {
+        "en": "globe",
+        "vi": "địa cầu, toàn cầu",
+        "ipa": "ɡloʊb"
+      }
     ],
     "col": [
       {
         "en": "around the world",
-        "vi": "khắp thế giới"
+        "vi": "khắp thế giới",
+        "ipa": "ɚˈaʊnd ðə wɝld"
       },
       {
         "en": "in the world",
-        "vi": "trên đời"
+        "vi": "trên đời",
+        "ipa": "ɪn ðə wɝld"
       },
       {
         "en": "the World Cup",
-        "vi": "cúp bóng đá thế giới"
+        "vi": "cúp bóng đá thế giới",
+        "ipa": "ðə wɝld kʌp"
       }
     ],
     "exEp": 360
@@ -1879,11 +2539,13 @@
     "col": [
       {
         "en": "my house",
-        "vi": "nhà tôi"
+        "vi": "nhà tôi",
+        "ipa": "maɪ haʊs"
       },
       {
         "en": "move house",
-        "vi": "chuyển nhà"
+        "vi": "chuyển nhà",
+        "ipa": "muv haʊs"
       }
     ],
     "exEp": 197
@@ -1900,15 +2562,18 @@
     "col": [
       {
         "en": "play games",
-        "vi": "chơi game"
+        "vi": "chơi game",
+        "ipa": "pleɪ ɡeɪmz"
       },
       {
         "en": "play football",
-        "vi": "đá bóng"
+        "vi": "đá bóng",
+        "ipa": "pleɪ ˈfʊtbɔl"
       },
       {
         "en": "play the piano",
-        "vi": "chơi đàn piano"
+        "vi": "chơi đàn piano",
+        "ipa": "pleɪ ðə piˈænoʊ"
       }
     ],
     "exEp": 161
@@ -1925,15 +2590,18 @@
     "col": [
       {
         "en": "at home",
-        "vi": "ở nhà"
+        "vi": "ở nhà",
+        "ipa": "æt hoʊm"
       },
       {
         "en": "go home",
-        "vi": "về nhà"
+        "vi": "về nhà",
+        "ipa": "ɡoʊ hoʊm"
       },
       {
         "en": "back home",
-        "vi": "ở quê nhà"
+        "vi": "ở quê nhà",
+        "ipa": "bæk hoʊm"
       }
     ],
     "exEp": 226
@@ -1948,13 +2616,22 @@
     "exHit": "always",
     "exVi": "Anh lúc nào cũng mềm yếu như vậy, Dave!",
     "syn": [
-      "all the time",
-      "constantly"
+      {
+        "en": "all the time",
+        "vi": "lúc nào cũng",
+        "ipa": "ɔl ðə taɪm"
+      },
+      {
+        "en": "constantly",
+        "vi": "liên tục, luôn luôn",
+        "ipa": "ˈkɑnstəntli"
+      }
     ],
     "col": [
       {
         "en": "as always",
-        "vi": "như mọi khi"
+        "vi": "như mọi khi",
+        "ipa": "æz ˈɔlweɪz"
       }
     ],
     "exEp": 99
@@ -1969,21 +2646,32 @@
     "exHit": "point",
     "exVi": "Thì mày vẫn ở với bố mẹ, nên cô ấy nói cũng có lý.",
     "syn": [
-      "idea",
-      "argument"
+      {
+        "en": "idea",
+        "vi": "ý, ý kiến",
+        "ipa": "aɪˈdiə"
+      },
+      {
+        "en": "argument",
+        "vi": "lập luận, lý lẽ",
+        "ipa": "ˈɑɹɡjəmənt"
+      }
     ],
     "col": [
       {
         "en": "have a point",
-        "vi": "nói có lý"
+        "vi": "nói có lý",
+        "ipa": "hæv ə pɔɪnt"
       },
       {
         "en": "what's the point?",
-        "vi": "có ích gì?"
+        "vi": "có ích gì?",
+        "ipa": "wʌts ðə pɔɪnt"
       },
       {
         "en": "get to the point",
-        "vi": "vào thẳng vấn đề"
+        "vi": "vào thẳng vấn đề",
+        "ipa": "ɡɛt tu ðə pɔɪnt"
       }
     ],
     "exEp": 363
@@ -1998,17 +2686,27 @@
     "exHit": "seems",
     "exVi": "Nghe có vẻ khá dễ.",
     "syn": [
-      "appear",
-      "look"
+      {
+        "en": "appear",
+        "vi": "có vẻ như",
+        "ipa": "əˈpɪɹ"
+      },
+      {
+        "en": "look",
+        "vi": "trông có vẻ",
+        "ipa": "lʊk"
+      }
     ],
     "col": [
       {
         "en": "seems like",
-        "vi": "có vẻ như"
+        "vi": "có vẻ như",
+        "ipa": "simz laɪk"
       },
       {
         "en": "it seems that",
-        "vi": "có vẻ là"
+        "vi": "có vẻ là",
+        "ipa": "ɪt simz ðæt"
       }
     ],
     "exEp": 186
@@ -2025,15 +2723,18 @@
     "col": [
       {
         "en": "years old",
-        "vi": "tuổi"
+        "vi": "tuổi",
+        "ipa": "jɪɹz oʊld"
       },
       {
         "en": "old friend",
-        "vi": "bạn cũ"
+        "vi": "bạn cũ",
+        "ipa": "oʊld fɹɛnd"
       },
       {
         "en": "how old",
-        "vi": "bao nhiêu tuổi"
+        "vi": "bao nhiêu tuổi",
+        "ipa": "haʊ oʊld"
       }
     ],
     "exEp": 221
@@ -2050,15 +2751,18 @@
     "col": [
       {
         "en": "thank you",
-        "vi": "cảm ơn"
+        "vi": "cảm ơn",
+        "ipa": "θæŋk ju"
       },
       {
         "en": "thanks a lot",
-        "vi": "cảm ơn nhiều"
+        "vi": "cảm ơn nhiều",
+        "ipa": "θæŋks ə lɑt"
       },
       {
         "en": "thanks for",
-        "vi": "cảm ơn vì"
+        "vi": "cảm ơn vì",
+        "ipa": "θæŋks fɔɹ"
       }
     ],
     "exEp": 171
@@ -2073,20 +2777,27 @@
     "exHit": "money",
     "exVi": "Bố ơi, con muốn mượn bố ít tiền.",
     "syn": [
-      "cash"
+      {
+        "en": "cash",
+        "vi": "tiền mặt",
+        "ipa": "kæʃ"
+      }
     ],
     "col": [
       {
         "en": "save money",
-        "vi": "tiết kiệm tiền"
+        "vi": "tiết kiệm tiền",
+        "ipa": "seɪv ˈmʌni"
       },
       {
         "en": "make money",
-        "vi": "kiếm tiền"
+        "vi": "kiếm tiền",
+        "ipa": "meɪk ˈmʌni"
       },
       {
         "en": "a lot of money",
-        "vi": "nhiều tiền"
+        "vi": "nhiều tiền",
+        "ipa": "ə lɑt ʌv ˈmʌni"
       }
     ],
     "exEp": 29
@@ -2101,20 +2812,27 @@
     "exHit": "love",
     "exVi": "Ôi, em cũng yêu anh!",
     "syn": [
-      "adore"
+      {
+        "en": "adore",
+        "vi": "yêu thích, mê",
+        "ipa": "əˈdɔɹ"
+      }
     ],
     "col": [
       {
         "en": "in love",
-        "vi": "đang yêu"
+        "vi": "đang yêu",
+        "ipa": "ɪn lʌv"
       },
       {
         "en": "fall in love",
-        "vi": "phải lòng"
+        "vi": "phải lòng",
+        "ipa": "fɔl ɪn lʌv"
       },
       {
         "en": "I'd love to",
-        "vi": "tôi rất muốn"
+        "vi": "tôi rất muốn",
+        "ipa": "aɪd lʌv tu"
       }
     ],
     "exEp": 103
@@ -2129,16 +2847,22 @@
     "exHit": "interest",
     "exVi": "Cảm ơn bạn đã quan tâm.",
     "syn": [
-      "curiosity"
+      {
+        "en": "curiosity",
+        "vi": "sự tò mò",
+        "ipa": "ˌkjʊɹiˈɑsəti"
+      }
     ],
     "col": [
       {
         "en": "interested in",
-        "vi": "quan tâm đến"
+        "vi": "quan tâm đến",
+        "ipa": "ˈɪntɹəstɪd ɪn"
       },
       {
         "en": "interest rate",
-        "vi": "lãi suất"
+        "vi": "lãi suất",
+        "ipa": "ˈɪntɹəst ɹeɪt"
       }
     ]
   },
@@ -2152,16 +2876,22 @@
     "exHit": "living",
     "exVi": "Nhưng giờ tôi đang sống ở Paris.",
     "syn": [
-      "reside"
+      {
+        "en": "reside",
+        "vi": "cư trú, sinh sống",
+        "ipa": "ɹɪˈzaɪd"
+      }
     ],
     "col": [
       {
         "en": "living room",
-        "vi": "phòng khách"
+        "vi": "phòng khách",
+        "ipa": "ˈlɪvɪŋ ɹum"
       },
       {
         "en": "live with",
-        "vi": "sống cùng"
+        "vi": "sống cùng",
+        "ipa": "laɪv wɪð"
       }
     ],
     "exEp": 322
@@ -2176,20 +2906,27 @@
     "exHit": "question",
     "exVi": "Đó chính là câu hỏi chính mà tôi muốn thảo luận hôm nay.",
     "syn": [
-      "query"
+      {
+        "en": "query",
+        "vi": "câu hỏi, thắc mắc",
+        "ipa": "ˈkwiɹi"
+      }
     ],
     "col": [
       {
         "en": "ask a question",
-        "vi": "đặt câu hỏi"
+        "vi": "đặt câu hỏi",
+        "ipa": "æsk ə ˈkwɛstʃən"
       },
       {
         "en": "good question",
-        "vi": "câu hỏi hay"
+        "vi": "câu hỏi hay",
+        "ipa": "ɡʊd ˈkwɛstʃən"
       },
       {
         "en": "no question",
-        "vi": "chắc chắn rồi"
+        "vi": "chắc chắn rồi",
+        "ipa": "noʊ ˈkwɛstʃən"
       }
     ],
     "exEp": 269
@@ -2206,15 +2943,18 @@
     "col": [
       {
         "en": "high school",
-        "vi": "trường cấp ba"
+        "vi": "trường cấp ba",
+        "ipa": "haɪ skul"
       },
       {
         "en": "after school",
-        "vi": "sau giờ học"
+        "vi": "sau giờ học",
+        "ipa": "ˈæftɚ skul"
       },
       {
         "en": "go to school",
-        "vi": "đi học"
+        "vi": "đi học",
+        "ipa": "ɡoʊ tu skul"
       }
     ],
     "exEp": 183
@@ -2229,21 +2969,32 @@
     "exHit": "keeping",
     "exVi": "Được thôi, nhưng em sẽ giữ cái máy hát cổ vì ông em tặng em.",
     "syn": [
-      "hold on to",
-      "save"
+      {
+        "en": "hold on to",
+        "vi": "giữ lại",
+        "ipa": "hoʊld ɑn tu"
+      },
+      {
+        "en": "save",
+        "vi": "để dành, cất giữ",
+        "ipa": "seɪv"
+      }
     ],
     "col": [
       {
         "en": "keep going",
-        "vi": "cứ tiếp tục"
+        "vi": "cứ tiếp tục",
+        "ipa": "kip ˈɡoʊɪŋ"
       },
       {
         "en": "keep in touch",
-        "vi": "giữ liên lạc"
+        "vi": "giữ liên lạc",
+        "ipa": "kip ɪn tʌtʃ"
       },
       {
         "en": "keep the change",
-        "vi": "khỏi thối lại"
+        "vi": "khỏi thối lại",
+        "ipa": "kip ðə tʃeɪndʒ"
       }
     ],
     "exEp": 218
@@ -2258,21 +3009,32 @@
     "exHit": "Show",
     "exVi": "Cho chị xem vài đôi cao gót cổ điển nhé.",
     "syn": [
-      "present",
-      "display"
+      {
+        "en": "present",
+        "vi": "trình bày, đưa ra",
+        "ipa": "ˈpɹɛzənt"
+      },
+      {
+        "en": "display",
+        "vi": "trưng bày, hiển thị",
+        "ipa": "dɪˈspleɪ"
+      }
     ],
     "col": [
       {
         "en": "show me",
-        "vi": "cho tôi xem"
+        "vi": "cho tôi xem",
+        "ipa": "ʃoʊ mi"
       },
       {
         "en": "show up",
-        "vi": "xuất hiện, có mặt"
+        "vi": "xuất hiện, có mặt",
+        "ipa": "ʃoʊ ʌp"
       },
       {
         "en": "show around",
-        "vi": "dẫn đi tham quan"
+        "vi": "dẫn đi tham quan",
+        "ipa": "ʃoʊ ɚˈaʊnd"
       }
     ],
     "exEp": 231
@@ -2289,11 +3051,13 @@
     "col": [
       {
         "en": "high school",
-        "vi": "trường cấp ba"
+        "vi": "trường cấp ba",
+        "ipa": "haɪ skul"
       },
       {
         "en": "high price",
-        "vi": "giá cao"
+        "vi": "giá cao",
+        "ipa": "haɪ pɹaɪs"
       }
     ]
   },
@@ -2320,15 +3084,18 @@
     "col": [
       {
         "en": "last month",
-        "vi": "tháng trước"
+        "vi": "tháng trước",
+        "ipa": "læst mʌnθ"
       },
       {
         "en": "next month",
-        "vi": "tháng sau"
+        "vi": "tháng sau",
+        "ipa": "nɛkst mʌnθ"
       },
       {
         "en": "a couple of months",
-        "vi": "vài tháng"
+        "vi": "vài tháng",
+        "ipa": "ə ˈkʌpəl ʌv mʌnθs"
       }
     ],
     "exEp": 227
@@ -2343,21 +3110,32 @@
     "exHit": "move",
     "exVi": "Có lẽ cậu mới nên dọn ra ngoài!",
     "syn": [
-      "shift",
-      "relocate"
+      {
+        "en": "shift",
+        "vi": "dịch chuyển, xê dịch",
+        "ipa": "ʃɪft"
+      },
+      {
+        "en": "relocate",
+        "vi": "chuyển chỗ, di dời",
+        "ipa": "ˌɹiˈloʊkeɪt"
+      }
     ],
     "col": [
       {
         "en": "move on",
-        "vi": "chuyển sang việc khác"
+        "vi": "chuyển sang việc khác",
+        "ipa": "muv ɑn"
       },
       {
         "en": "move out",
-        "vi": "dọn ra ngoài"
+        "vi": "dọn ra ngoài",
+        "ipa": "muv aʊt"
       },
       {
         "en": "move in",
-        "vi": "dọn vào ở"
+        "vi": "dọn vào ở",
+        "ipa": "muv ɪn"
       }
     ],
     "exEp": 206
@@ -2372,22 +3150,37 @@
     "exHit": "set",
     "exVi": "Con yêu, con dọn bàn ăn giúp mẹ được không?",
     "syn": [
-      "put",
-      "place",
-      "arrange"
+      {
+        "en": "put",
+        "vi": "đặt, để",
+        "ipa": "pʊt"
+      },
+      {
+        "en": "place",
+        "vi": "đặt, để xuống",
+        "ipa": "pleɪs"
+      },
+      {
+        "en": "arrange",
+        "vi": "sắp xếp, bày",
+        "ipa": "ɚˈeɪndʒ"
+      }
     ],
     "col": [
       {
         "en": "set up",
-        "vi": "thiết lập, sắp đặt"
+        "vi": "thiết lập, sắp đặt",
+        "ipa": "sɛt ʌp"
       },
       {
         "en": "set the table",
-        "vi": "dọn bàn ăn"
+        "vi": "dọn bàn ăn",
+        "ipa": "sɛt ðə ˈteɪbəl"
       },
       {
         "en": "set an alarm",
-        "vi": "đặt báo thức"
+        "vi": "đặt báo thức",
+        "ipa": "sɛt æn əˈlɑɹm"
       }
     ],
     "exEp": 248
@@ -2402,22 +3195,37 @@
     "exHit": "Run",
     "exVi": "Ôi không! Gấu! Chạy đi Tiger, chạy đi! Ai gọi đội kiểm soát động vật đi!",
     "syn": [
-      "dash",
-      "rush",
-      "race"
+      {
+        "en": "dash",
+        "vi": "lao nhanh",
+        "ipa": "dæʃ"
+      },
+      {
+        "en": "rush",
+        "vi": "vội vã, chạy vội",
+        "ipa": "ɹʌʃ"
+      },
+      {
+        "en": "race",
+        "vi": "chạy đua",
+        "ipa": "ɹeɪs"
+      }
     ],
     "col": [
       {
         "en": "run out of",
-        "vi": "hết, cạn"
+        "vi": "hết, cạn",
+        "ipa": "ɹʌn aʊt ʌv"
       },
       {
         "en": "run into",
-        "vi": "tình cờ gặp"
+        "vi": "tình cờ gặp",
+        "ipa": "ɹʌn ˈɪntu"
       },
       {
         "en": "run late",
-        "vi": "bị trễ"
+        "vi": "bị trễ",
+        "ipa": "ɹʌn leɪt"
       }
     ],
     "exEp": 111
@@ -2434,15 +3242,18 @@
     "col": [
       {
         "en": "my life",
-        "vi": "cuộc đời tôi"
+        "vi": "cuộc đời tôi",
+        "ipa": "maɪ laɪf"
       },
       {
         "en": "real life",
-        "vi": "đời thực"
+        "vi": "đời thực",
+        "ipa": "ɹil laɪf"
       },
       {
         "en": "life saver",
-        "vi": "cứu tinh"
+        "vi": "cứu tinh",
+        "ipa": "laɪf ˈseɪvɚ"
       }
     ],
     "exEp": 123
@@ -2457,20 +3268,27 @@
     "exHit": "number",
     "exVi": "Được, số thẻ tín dụng của tôi là...",
     "syn": [
-      "figure"
+      {
+        "en": "figure",
+        "vi": "con số, chữ số",
+        "ipa": "ˈfɪɡjɚ"
+      }
     ],
     "col": [
       {
         "en": "phone number",
-        "vi": "số điện thoại"
+        "vi": "số điện thoại",
+        "ipa": "foʊn ˈnʌmbɚ"
       },
       {
         "en": "wrong number",
-        "vi": "nhầm số"
+        "vi": "nhầm số",
+        "ipa": "ɹɔŋ ˈnʌmbɚ"
       },
       {
         "en": "a number of",
-        "vi": "một số"
+        "vi": "một số",
+        "ipa": "ə ˈnʌmbɚ ʌv"
       }
     ],
     "exEp": 344
@@ -2485,22 +3303,37 @@
     "exHit": "Sure",
     "exVi": "Có, cho tôi một chai Corona.",
     "syn": [
-      "certain",
-      "of course",
-      "okay"
+      {
+        "en": "certain",
+        "vi": "chắc chắn",
+        "ipa": "ˈsɝtən"
+      },
+      {
+        "en": "of course",
+        "vi": "tất nhiên rồi",
+        "ipa": "ʌv kɔɹs"
+      },
+      {
+        "en": "okay",
+        "vi": "được, ừ",
+        "ipa": "oʊˈkeɪ"
+      }
     ],
     "col": [
       {
         "en": "make sure",
-        "vi": "đảm bảo"
+        "vi": "đảm bảo",
+        "ipa": "meɪk ʃʊɹ"
       },
       {
         "en": "are you sure?",
-        "vi": "bạn chắc chứ?"
+        "vi": "bạn chắc chứ?",
+        "ipa": "ɑɹ ju ʃʊɹ"
       },
       {
         "en": "for sure",
-        "vi": "chắc chắn"
+        "vi": "chắc chắn",
+        "ipa": "fɔɹ ʃʊɹ"
       }
     ],
     "exEp": 303
@@ -2515,20 +3348,27 @@
     "exHit": "again",
     "exVi": "Anh ơi, bé lại dậy rồi.",
     "syn": [
-      "once more"
+      {
+        "en": "once more",
+        "vi": "thêm lần nữa",
+        "ipa": "wʌns mɔɹ"
+      }
     ],
     "col": [
       {
         "en": "try again",
-        "vi": "thử lại"
+        "vi": "thử lại",
+        "ipa": "tɹaɪ əˈɡɛn"
       },
       {
         "en": "once again",
-        "vi": "một lần nữa"
+        "vi": "một lần nữa",
+        "ipa": "wʌns əˈɡɛn"
       },
       {
         "en": "again and again",
-        "vi": "hết lần này đến lần khác"
+        "vi": "hết lần này đến lần khác",
+        "ipa": "əˈɡɛn ənd əˈɡɛn"
       }
     ],
     "exEp": 118
@@ -2545,15 +3385,18 @@
     "col": [
       {
         "en": "stock market",
-        "vi": "thị trường chứng khoán"
+        "vi": "thị trường chứng khoán",
+        "ipa": "stɑk ˈmɑɹkət"
       },
       {
         "en": "on the market",
-        "vi": "đang được rao bán"
+        "vi": "đang được rao bán",
+        "ipa": "ɑn ðə ˈmɑɹkət"
       },
       {
         "en": "in the market for",
-        "vi": "đang muốn mua"
+        "vi": "đang muốn mua",
+        "ipa": "ɪn ðə ˈmɑɹkət fɔɹ"
       }
     ],
     "exEp": 208
@@ -2568,21 +3411,32 @@
     "exHit": "big",
     "exVi": "Cái to và nhấp nháy sáng chói kia là gì vậy anh?",
     "syn": [
-      "large",
-      "huge"
+      {
+        "en": "large",
+        "vi": "lớn",
+        "ipa": "lɑɹdʒ"
+      },
+      {
+        "en": "huge",
+        "vi": "khổng lồ, rất lớn",
+        "ipa": "hjudʒ"
+      }
     ],
     "col": [
       {
         "en": "too big",
-        "vi": "quá to"
+        "vi": "quá to",
+        "ipa": "tu bɪɡ"
       },
       {
         "en": "big deal",
-        "vi": "chuyện lớn"
+        "vi": "chuyện lớn",
+        "ipa": "bɪɡ dil"
       },
       {
         "en": "a big fan",
-        "vi": "người rất hâm mộ"
+        "vi": "người rất hâm mộ",
+        "ipa": "ə bɪɡ fæn"
       }
     ],
     "exEp": 91
@@ -2599,15 +3453,18 @@
     "col": [
       {
         "en": "my name is",
-        "vi": "tôi tên là"
+        "vi": "tôi tên là",
+        "ipa": "maɪ neɪm ɪz"
       },
       {
         "en": "last name",
-        "vi": "họ"
+        "vi": "họ",
+        "ipa": "læst neɪm"
       },
       {
         "en": "first name",
-        "vi": "tên"
+        "vi": "tên",
+        "ipa": "fɝst neɪm"
       }
     ],
     "exEp": 39
@@ -2622,21 +3479,32 @@
     "exHit": "late",
     "exVi": "Xin lỗi mọi người, tôi đến trễ.",
     "syn": [
-      "delayed",
-      "behind schedule"
+      {
+        "en": "delayed",
+        "vi": "bị trễ, bị hoãn",
+        "ipa": "dɪˈleɪd"
+      },
+      {
+        "en": "behind schedule",
+        "vi": "chậm tiến độ",
+        "ipa": "bɪˈhaɪnd ˈskɛdʒʊl"
+      }
     ],
     "col": [
       {
         "en": "sorry I'm late",
-        "vi": "xin lỗi, tôi đến trễ"
+        "vi": "xin lỗi, tôi đến trễ",
+        "ipa": "ˈsɑɹi aɪm leɪt"
       },
       {
         "en": "stay up late",
-        "vi": "thức khuya"
+        "vi": "thức khuya",
+        "ipa": "steɪ ʌp leɪt"
       },
       {
         "en": "too late",
-        "vi": "quá muộn"
+        "vi": "quá muộn",
+        "ipa": "tu leɪt"
       }
     ],
     "exEp": 53
@@ -2651,21 +3519,32 @@
     "exHit": "friends",
     "exVi": "Họp mặt gia đình hay chỉ bạn bè thôi?",
     "syn": [
-      "buddy",
-      "pal"
+      {
+        "en": "buddy",
+        "vi": "bạn thân, bạn",
+        "ipa": "ˈbʌdi"
+      },
+      {
+        "en": "pal",
+        "vi": "bạn",
+        "ipa": "pæl"
+      }
     ],
     "col": [
       {
         "en": "best friend",
-        "vi": "bạn thân nhất"
+        "vi": "bạn thân nhất",
+        "ipa": "bɛst fɹɛnd"
       },
       {
         "en": "make friends",
-        "vi": "kết bạn"
+        "vi": "kết bạn",
+        "ipa": "meɪk fɹɛndz"
       },
       {
         "en": "old friend",
-        "vi": "bạn cũ"
+        "vi": "bạn cũ",
+        "ipa": "oʊld fɹɛnd"
       }
     ],
     "exEp": 350
@@ -2680,21 +3559,32 @@
     "exHit": "plans",
     "exVi": "Hai người có kế hoạch gì cho buổi tối chưa?",
     "syn": [
-      "intention",
-      "arrangement"
+      {
+        "en": "intention",
+        "vi": "ý định",
+        "ipa": "ˌɪnˈtɛntʃən"
+      },
+      {
+        "en": "arrangement",
+        "vi": "sự sắp xếp, dàn xếp",
+        "ipa": "ɚˈeɪndʒmənt"
+      }
     ],
     "col": [
       {
         "en": "make plans",
-        "vi": "lên kế hoạch"
+        "vi": "lên kế hoạch",
+        "ipa": "meɪk plænz"
       },
       {
         "en": "business plan",
-        "vi": "kế hoạch kinh doanh"
+        "vi": "kế hoạch kinh doanh",
+        "ipa": "ˈbɪznəs plæn"
       },
       {
         "en": "plan to",
-        "vi": "định làm"
+        "vi": "định làm",
+        "ipa": "plæn tu"
       }
     ],
     "exEp": 24

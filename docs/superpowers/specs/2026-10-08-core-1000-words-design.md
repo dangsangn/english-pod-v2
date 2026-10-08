@@ -194,3 +194,15 @@ Server: `episode_id`/`episode_ids` là `Int` và zod trong `server/src/sync/sche
 - Câu hỏi game về từ đồng nghĩa; IPA/nghĩa cho từ đồng nghĩa.
 - Trang tra cứu 1000 từ riêng (ngoài WordList của từng nhóm).
 - Nội dung nhóm 2–10 (làm sau khi duyệt nhóm 1, cùng pipeline).
+
+## Cập nhật sau khi dùng thử (2026-10-08)
+
+- `syn` đổi sang cùng dạng với `col`: `[{"en":"head","vi":"đi về phía"}]` — mỗi từ đồng nghĩa có
+  nghĩa tiếng Việt theo đúng nghĩa của `d`. Khi build, mỗi mục `syn`/`col` được thêm `ipa` (CMUdict,
+  bỏ trường khi không có). Kiểu trong app: `RelatedWord { en, vi, ipa? }`.
+- Flashcard (mặt sau): đồng nghĩa và cụm từ không còn nằm trên mặt thẻ mà mở trong popup từ nút
+  "Từ liên quan (N)" ở hàng trên cùng (cạnh huy hiệu giai đoạn), nên bố cục thẻ không đổi theo nội
+  dung. Mỗi mục hiện từ, IPA, nút nghe (TTS) và nghĩa tiếng Việt. Thẻ giữ tỉ lệ 3:4 và ba nút trả lời.
+- WordList: dòng từ mở ra hiện cùng danh sách đó (Đồng nghĩa, Cụm từ) với IPA và nút nghe.
+- Vườn từ vựng có thẻ "1000 từ phổ biến" (`CoreCard`): học tiếp nhóm đang học, hoặc thêm nhóm kế
+  tiếp đã build và vào học ngay; ẩn khi không còn nhóm nào để bắt đầu.
