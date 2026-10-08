@@ -14,7 +14,16 @@ export interface Episode {
   transcript_url: string
 }
 
-/** One entry of public/vocab/englishpod_XXXX.json, written by scripts/build_vocab.js. */
+/** A common phrase built on a word: "make sure" — "đảm bảo". */
+export interface Collocation {
+  en: string
+  vi: string
+}
+
+/**
+ * One entry of public/vocab/englishpod_XXXX.json (scripts/build_vocab.js) or of
+ * public/core/core_NN.json (scripts/build_core.js).
+ */
 export interface VocabEntry {
   word: string
   ipa?: string
@@ -28,4 +37,10 @@ export interface VocabEntry {
   exHit?: string
   /** Vietnamese translation of `ex`. */
   exVi?: string
+  /** Synonyms for this sense (Top 1000 only). */
+  syn?: string[]
+  /** Common phrases built on the word, with their Vietnamese (Top 1000 only). */
+  col?: Collocation[]
+  /** The episode `ex` comes from (Top 1000 only; an episode's own examples are from itself). */
+  exEp?: number
 }

@@ -26,8 +26,8 @@ export default function VocabApp({ route, episodes, onOpenEpisode }: VocabAppPro
   const [, page, param, mode] = route.split('/')
 
   useEffect(() => {
-    backfillCardContent(episodes)
-  }, [episodes])
+    backfillCardContent()
+  }, [])
 
   if (page === 'study' || page === 'play') {
     const episodeId = param ? Number(param) : null

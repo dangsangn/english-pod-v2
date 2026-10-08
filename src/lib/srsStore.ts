@@ -25,6 +25,7 @@ import {
 } from './srs.ts'
 import type { Card, CardContent, CardState, Rating, Stage } from './srs'
 import { uuid } from './uuid.ts'
+import { vocabFile } from './coreDecks.ts'
 
 export interface StoredCard extends Card {
   updatedAt: number
@@ -494,18 +495,22 @@ export function buildQueue(s: SrsState, now: number, episodeId: number | null = 
 }
 
 /**
- * Fetch an episode's vocabulary file and add it as a deck.
- * Resolves to the number of words in the file; throws if there is none.
+ * Fetch a deck's vocabulary file (an episode's, or a Top 1000 group's) and add
+ * it as a deck. Resolves to the number of words in the file; throws if there is none.
  */
-export async function addEpisodeDeck(episode: Episode): Promise<number> {
-  const res = await fetch(`./vocab/${episode.transcript_id}.json`)
+export async function addDeckById(id: number): Promise<number> {
+  const res = await fetch(vocabFile(id))
   if (!res.ok) throw new Error('Vocabulary missing')
   const entries: unknown = await res.json()
   if (!Array.isArray(entries) || entries.length === 0) {
     throw new Error('Vocabulary empty')
   }
-  addDeck(episode.id, entries)
+  addDeck(id, entries)
   return entries.length
+}
+
+export function addEpisodeDeck(episode: Episode): Promise<number> {
+  return addDeckById(episode.id)
 }
 
 /**
@@ -514,21 +519,19 @@ export async function addEpisodeDeck(episode: Episode): Promise<number> {
  * leaving the study progress untouched.
  */
 let backfillStarted = false
-export async function backfillCardContent(episodes: Episode[]) {
+export async function backfillCardContent() {
   if (backfillStarted) return
   backfillStarted = true
 
   const stale = Object.values(state.cards).filter((c) => !Object.hasOwn(c, 'def'))
-  const episodeIds = [...new Set(stale.map((c) => c.episodeIds[0]))]
-  if (episodeIds.length === 0) return
+  const deckIds = [...new Set(stale.map((c) => c.episodeIds[0]))]
+  if (deckIds.length === 0) return
 
   const content = new Map<string, CardContent>()
   await Promise.all(
-    episodeIds.map(async (id) => {
-      const episode = episodes.find((e) => e.id === id)
-      if (!episode) return
+    deckIds.map(async (id) => {
       try {
-        const res = await fetch(`./vocab/${episode.transcript_id}.json`)
+        const res = await fetch(vocabFile(id))
         if (!res.ok) return
         const entries: VocabEntry[] = await res.json()
         for (const entry of entries) {
