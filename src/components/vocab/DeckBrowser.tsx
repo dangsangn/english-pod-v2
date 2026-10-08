@@ -48,7 +48,7 @@ export default function DeckBrowser({ episodes, onOpenEpisode }: DeckBrowserProp
     <main className='max-w-2xl mx-auto px-4 pb-16'>
       <h1 className='pt-2 text-3xl font-bold tracking-tight'>Chọn bộ từ</h1>
       <p className='mt-1 text-sm text-zinc-500 dark:text-zinc-400'>
-        Mỗi bài podcast là một bộ từ. Thêm bài bạn đã nghe để ôn lại từ vựng.
+        Chọn nhóm 1000 từ phổ biến, hoặc thêm bài podcast bạn đã nghe để ôn lại từ vựng của bài.
       </p>
 
       <section className='mt-6'>

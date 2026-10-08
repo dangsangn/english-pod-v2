@@ -6,6 +6,7 @@ import type { Question, QuestionKind } from '../../lib/quiz'
 import type { SrsState } from '../../lib/srsStore'
 import type { Episode } from '../../types'
 import { canSpeak } from '../../lib/speech'
+import { coreDeckName, isCoreDeck } from '../../lib/coreDecks'
 import { episodeIdsOf, exampleOf, useExamples } from '../../lib/examples'
 import ChoiceQuestion from './ChoiceQuestion'
 import ClozeQuestion from './ClozeQuestion'
@@ -144,11 +145,15 @@ export default function GameSession({ episodeId, episode, lessonStep, onExit }: 
     <div className='min-h-full flex flex-col max-w-xl mx-auto px-4'>
       <SessionHeader queue={queue} cards={srs.cards} answers={stats.answers} onExit={onExit} />
 
-      {episode && (
+      {episode ? (
         <p className='text-center text-xs font-medium text-zinc-500 dark:text-zinc-400'>
           Bài {episode.id} · {episode.title}
         </p>
-      )}
+      ) : episodeId !== null && isCoreDeck(episodeId) ? (
+        <p className='text-center text-xs font-medium text-zinc-500 dark:text-zinc-400'>
+          {coreDeckName(episodeId)}
+        </p>
+      ) : null}
 
       <div className='flex-1 flex flex-col justify-center py-6'>
         {question.kind === 'cloze' && example ? (

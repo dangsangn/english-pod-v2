@@ -1,3 +1,4 @@
+import { isCoreDeck } from '../../lib/coreDecks'
 import { useEffect } from 'react'
 import type { ReactNode } from 'react'
 import { ChevronLeft, Headphones } from 'lucide-react'
@@ -49,7 +50,9 @@ export default function VocabApp({ route, episodes, onOpenEpisode }: VocabAppPro
   }
 
   const isSubPage = page === 'decks' || page === 'words' || page === 'episode'
-  const episode = page === 'episode' ? episodes.find((e) => e.id === Number(param)) : null
+  const deckId = page === 'episode' ? Number(param) : null
+  const episode = deckId !== null ? episodes.find((e) => e.id === deckId) : null
+  const coreDeckId = deckId !== null && isCoreDeck(deckId) ? deckId : null
 
   return (
     <Shell>
@@ -78,8 +81,13 @@ export default function VocabApp({ route, episodes, onOpenEpisode }: VocabAppPro
 
       {page === 'decks' ? (
         <DeckBrowser episodes={episodes} onOpenEpisode={onOpenEpisode} />
-      ) : episode ? (
-        <WordList key={route} episode={episode} onOpenEpisode={onOpenEpisode} />
+      ) : episode || coreDeckId !== null ? (
+        <WordList
+          key={route}
+          episode={episode}
+          coreDeckId={coreDeckId}
+          onOpenEpisode={onOpenEpisode}
+        />
       ) : page === 'words' ? (
         <WordList key={route} initialFilter={param} onOpenEpisode={onOpenEpisode} />
       ) : (

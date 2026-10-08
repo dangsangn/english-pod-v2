@@ -26,6 +26,7 @@ import {
 } from '../../lib/srsStore'
 import type { Settings as SrsSettings, Summary } from '../../lib/srsStore'
 import { MIN_POOL } from '../../lib/quiz'
+import { coreDeckName, coreGroup, isCoreDeck } from '../../lib/coreDecks'
 import { STAGES } from './stages'
 import type { StageStyle } from './stages'
 import type { Episode } from '../../types'
@@ -54,11 +55,25 @@ export default function VocabHome({ episodes, onOpenEpisode }: VocabHomeProps) {
     .filter((c) => c.state !== 'new' && c.due > now)
     .reduce((min, c) => Math.min(min, c.due), Infinity)
 
-  // By episode number, not by the order the decks were added in.
+  // Top 1000 groups first (their ids are above every episode's), then by episode number.
   const decks = srs.decks
-    .map((id) => episodes.find((e) => e.id === id))
-    .filter((e): e is Episode => Boolean(e))
-    .sort((a, b) => a.id - b.id)
+    .map((id): DeckInfo | null => {
+      if (isCoreDeck(id)) {
+        return {
+          id,
+          badge: `T${coreGroup(id)}`,
+          title: coreDeckName(id),
+          detail: '1000 từ phổ biến',
+          listenable: false,
+        }
+      }
+      const episode = episodes.find((e) => e.id === id)
+      return episode
+        ? { id, badge: String(id), title: episode.title, detail: episode.level, listenable: true }
+        : null
+    })
+    .filter((d): d is DeckInfo => d !== null)
+    .sort((a, b) => Number(isCoreDeck(b.id)) - Number(isCoreDeck(a.id)) || a.id - b.id)
 
   return (
     <main className='max-w-2xl mx-auto px-4 pb-16 space-y-8'>
@@ -114,12 +129,12 @@ export default function VocabHome({ episodes, onOpenEpisode }: VocabHomeProps) {
               </button>
             </div>
             <ul className='space-y-3'>
-              {decks.map((episode) => (
+              {decks.map((deck) => (
                 <DeckRow
-                  key={episode.id}
-                  episode={episode}
+                  key={deck.id}
+                  deck={deck}
                   onOpenEpisode={onOpenEpisode}
-                  counts={summarize(srs, now, episode.id)}
+                  counts={summarize(srs, now, deck.id)}
                   canPlay={canPlay}
                 />
               ))}
@@ -278,14 +293,23 @@ function ProgressRing({ value, children }: { value: number; children: ReactNode 
   )
 }
 
+interface DeckInfo {
+  id: number
+  badge: string
+  title: string
+  detail: string
+  /** An episode deck: the title opens the podcast. A Top 1000 group opens its word list. */
+  listenable: boolean
+}
+
 interface DeckRowProps {
-  episode: Episode
+  deck: DeckInfo
   counts: Summary
   onOpenEpisode: (id: number) => void
   canPlay: boolean
 }
 
-function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
+function DeckRow({ deck, counts, onOpenEpisode, canPlay }: DeckRowProps) {
   const [confirming, setConfirming] = useState(false)
   const toStudy = counts.due + counts.seed
 
@@ -294,23 +318,27 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
       <div className='flex items-start gap-3'>
         <button
           type='button'
-          onClick={() => onOpenEpisode(episode.id)}
-          title='Nghe bài này'
+          onClick={() =>
+            deck.listenable ? onOpenEpisode(deck.id) : navigate(`vocab/episode/${deck.id}`)
+          }
+          title={deck.listenable ? 'Nghe bài này' : 'Danh sách từ vựng'}
           className='flex-1 min-w-0 flex items-start gap-3 text-left group'
         >
           <div className='w-11 h-11 flex-none rounded-2xl bg-rose-50 dark:bg-rose-500/10 text-rose-500 dark:text-rose-300 flex items-center justify-center text-sm font-bold tabular-nums'>
-            {episode.id}
+            {deck.badge}
           </div>
           <div className='flex-1 min-w-0'>
             <p className='font-semibold truncate group-hover:text-rose-600 dark:group-hover:text-rose-400 transition-colors'>
-              {episode.title}
-              <Headphones
-                size={13}
-                className='inline ml-1.5 -mt-0.5 opacity-0 group-hover:opacity-70 transition-opacity'
-              />
+              {deck.title}
+              {deck.listenable && (
+                <Headphones
+                  size={13}
+                  className='inline ml-1.5 -mt-0.5 opacity-0 group-hover:opacity-70 transition-opacity'
+                />
+              )}
             </p>
             <p className='text-xs text-zinc-500 dark:text-zinc-400'>
-              {episode.level} · {counts.total} từ · {counts.bloom} đã nở hoa
+              {deck.detail} · {counts.total} từ · {counts.bloom} đã nở hoa
             </p>
           </div>
         </button>
@@ -318,7 +346,7 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
           <div className='flex gap-1'>
             <button
               type='button'
-              onClick={() => removeDeck(episode.id)}
+              onClick={() => removeDeck(deck.id)}
               className='px-3 py-1.5 rounded-full text-xs font-semibold bg-rose-600 text-white'
             >
               Xóa
@@ -335,7 +363,7 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
           <div className='flex items-center gap-1'>
             <button
               type='button'
-              onClick={() => navigate(`vocab/episode/${episode.id}`)}
+              onClick={() => navigate(`vocab/episode/${deck.id}`)}
               title='Danh sách từ vựng'
               className='p-2 rounded-full text-zinc-500 hover:text-rose-500 hover:bg-rose-50 dark:text-zinc-400 dark:hover:bg-rose-500/10'
             >
@@ -353,7 +381,7 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
               type='button'
               disabled={counts.total === 0 || !canPlay}
               title={canPlay ? 'Chơi với bộ từ này' : PLAY_NEEDS}
-              onClick={() => navigate(`vocab/play/${episode.id}`)}
+              onClick={() => navigate(`vocab/play/${deck.id}`)}
               className='p-2 rounded-full text-zinc-500 hover:text-rose-500 hover:bg-rose-50 dark:text-zinc-400 dark:hover:bg-rose-500/10 disabled:opacity-40 disabled:hover:bg-transparent'
             >
               <Gamepad2 size={18} />
@@ -362,7 +390,7 @@ function DeckRow({ episode, counts, onOpenEpisode, canPlay }: DeckRowProps) {
               type='button'
               disabled={counts.total === 0}
               title={toStudy ? 'Học bài này' : 'Ôn thêm bài này'}
-              onClick={() => navigate(`vocab/study/${episode.id}`)}
+              onClick={() => navigate(`vocab/study/${deck.id}`)}
               className='flex items-center gap-1.5 pl-3 pr-3.5 py-2 rounded-full text-sm font-semibold bg-rose-500 text-white hover:bg-rose-600 disabled:bg-zinc-100 disabled:text-zinc-400 dark:disabled:bg-zinc-800 dark:disabled:text-zinc-500'
             >
               <Play size={14} fill='currentColor' />

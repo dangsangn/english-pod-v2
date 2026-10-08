@@ -7,6 +7,7 @@ import type { Stage } from '../../lib/srs'
 import { relearnCard, summarize, useSrs } from '../../lib/srsStore'
 import type { StoredCard, Summary } from '../../lib/srsStore'
 import type { Episode } from '../../types'
+import { coreDeckName } from '../../lib/coreDecks'
 import { speak } from '../../lib/speech'
 import { STAGES } from './stages'
 import LeechBadge from './LeechBadge'
@@ -47,31 +48,41 @@ function matches(card: StoredCard, key: FilterKey): boolean {
 }
 
 /**
- * Words in the garden. With `episode`, only that episode's words — every one of
+ * Words in the garden. With `episode` or `coreDeckId`, only that deck's words — every one of
  * them by default, so a finished deck can still be looked through.
  */
 interface WordListProps {
   episode?: Episode | null
+  /** A Top 1000 group's id, when the list is that group's. */
+  coreDeckId?: number | null
   /** From the route, so any string; unknown ones fall back to the default. */
   initialFilter?: string
   onOpenEpisode: (id: number) => void
 }
 
-export default function WordList({ episode = null, initialFilter, onOpenEpisode }: WordListProps) {
+export default function WordList({
+  episode = null,
+  coreDeckId = null,
+  initialFilter,
+  onOpenEpisode,
+}: WordListProps) {
   const srs = useSrs()
   const now = useNow()
+  const deckId = episode?.id ?? coreDeckId
   const [filter, setFilter] = useState<FilterKey>(
     FILTERS.some((f) => f.key === initialFilter)
       ? (initialFilter as FilterKey)
-      : episode
+      : deckId !== null
         ? 'all'
         : 'learned',
   )
-  const [sort, setSort] = useState<SortKey>(episode ? 'lesson' : 'due')
+  const [sort, setSort] = useState<SortKey>(deckId !== null ? 'lesson' : 'due')
   const [query, setQuery] = useState('')
   const [openId, setOpenId] = useState<string | null>(null)
 
-  const all = Object.values(srs.cards).filter((c) => !episode || c.episodeIds.includes(episode.id))
+  const all = Object.values(srs.cards).filter(
+    (c) => deckId === null || c.episodeIds.includes(deckId),
+  )
   const countOf = (key: FilterKey) => all.filter((c) => matches(c, key)).length
 
   const q = query.trim().toLowerCase()
@@ -85,10 +96,19 @@ export default function WordList({ episode = null, initialFilter, onOpenEpisode 
   return (
     <main className='max-w-2xl mx-auto px-4 pb-16'>
       {episode ? (
-        <EpisodeHeader
-          episode={episode}
+        <DeckHeader
+          deckId={episode.id}
+          kicker={`Bài ${episode.id} · ${episode.level}`}
+          title={episode.title}
+          onTitle={() => onOpenEpisode(episode.id)}
           counts={summarize(srs, now, episode.id)}
-          onOpenEpisode={onOpenEpisode}
+        />
+      ) : coreDeckId !== null ? (
+        <DeckHeader
+          deckId={coreDeckId}
+          kicker='1000 từ phổ biến'
+          title={coreDeckName(coreDeckId)}
+          counts={summarize(srs, now, coreDeckId)}
         />
       ) : (
         <>
@@ -172,29 +192,34 @@ export default function WordList({ episode = null, initialFilter, onOpenEpisode 
   )
 }
 
-interface EpisodeHeaderProps {
-  episode: Episode
+interface DeckHeaderProps {
+  deckId: number
+  kicker: string
+  title: string
+  /** Episodes: the title opens the podcast. */
+  onTitle?: () => void
   counts: Summary
-  onOpenEpisode: (id: number) => void
 }
 
-function EpisodeHeader({ episode, counts, onOpenEpisode }: EpisodeHeaderProps) {
+function DeckHeader({ deckId, kicker, title, onTitle, counts }: DeckHeaderProps) {
   const toStudy = counts.due + counts.seed
   return (
     <div className='pt-2'>
-      <p className='text-sm font-medium text-rose-500 dark:text-rose-400'>
-        Bài {episode.id} · {episode.level}
-      </p>
+      <p className='text-sm font-medium text-rose-500 dark:text-rose-400'>{kicker}</p>
       <h1 className='mt-1 text-3xl font-bold tracking-tight'>
-        <button
-          type='button'
-          onClick={() => onOpenEpisode(episode.id)}
-          title='Nghe bài này'
-          className='text-left hover:text-rose-600 dark:hover:text-rose-400 transition-colors'
-        >
-          {episode.title}
-          <Headphones size={20} className='inline ml-2 -mt-1 opacity-50' />
-        </button>
+        {onTitle ? (
+          <button
+            type='button'
+            onClick={onTitle}
+            title='Nghe bài này'
+            className='text-left hover:text-rose-600 dark:hover:text-rose-400 transition-colors'
+          >
+            {title}
+            <Headphones size={20} className='inline ml-2 -mt-1 opacity-50' />
+          </button>
+        ) : (
+          title
+        )}
       </h1>
       <div className='mt-4 flex items-center gap-3'>
         <p className='flex-1 text-sm text-zinc-500 dark:text-zinc-400'>
@@ -203,7 +228,7 @@ function EpisodeHeader({ episode, counts, onOpenEpisode }: EpisodeHeaderProps) {
         {counts.total > 0 && (
           <button
             type='button'
-            onClick={() => navigate(`vocab/study/${episode.id}`)}
+            onClick={() => navigate(`vocab/study/${deckId}`)}
             className='flex items-center gap-1.5 px-4 py-2 rounded-full text-sm font-semibold bg-rose-500 text-white hover:bg-rose-600 shadow-lg shadow-rose-500/25'
           >
             <Play size={14} fill='currentColor' /> {toStudy ? `Học ${toStudy} thẻ` : 'Ôn thêm'}
