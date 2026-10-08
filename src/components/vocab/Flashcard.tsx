@@ -105,7 +105,7 @@ export default function Flashcard({
 
   return (
     <div
-      className='relative mx-auto w-full max-w-md flex-1 min-h-[26rem] max-h-[38rem] touch-pan-y select-none cursor-pointer vocab-pop-in'
+      className='relative mx-auto w-full max-w-md aspect-[3/4] max-h-[64vh] touch-pan-y select-none cursor-pointer vocab-pop-in'
       style={{
         transform: `translateX(${dx}px) rotate(${Math.max(-MAX_TILT, Math.min(MAX_TILT, dx / 18))}deg)`,
         transition: dragging && !flying ? 'none' : 'transform 200ms ease-out',
@@ -142,7 +142,7 @@ export default function Flashcard({
             <Badges card={card} stage={stage} />
             {/* min-h-0 + overflow: on a very short screen the content still
                 scrolls inside the card rather than overflowing it. */}
-            <div className='flex-1 min-h-0 overflow-y-auto flex flex-col justify-center-safe gap-2.5'>
+            <div className='flex-1 min-h-0 overflow-y-auto flex flex-col justify-center-safe gap-2'>
               <div className='text-center'>
                 <div className='flex items-center justify-center gap-1.5'>
                   <h2 className='text-2xl font-bold tracking-tight break-words text-emerald-600 dark:text-emerald-400'>
@@ -180,12 +180,12 @@ export default function Flashcard({
                   </p>
                 </Section>
               )}
-              {collocations && collocations.length > 0 && <Collocations items={collocations} />}
               {example && (
                 <Section label='Example'>
                   <ExampleSentence example={example} />
                 </Section>
               )}
+              {collocations && collocations.length > 0 && <Collocations items={collocations} />}
             </div>
             <CardActions onAnswer={flyOut} onSpeak={say} />
           </Face>
